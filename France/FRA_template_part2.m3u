@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="100923" tvg-name="OE24 TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100923_ll_h9_aa.png?w=360&h=270" group-title="France" tvg-id="OE24HD" tvc-guide-stationid="100923",OE24 TV HD
+http://example.local/FRA-OE24HD.ts
+#EXTINF:-1 tvg-chno="123606" tvg-name="Ol Play" tvg-logo="https://zap2it.tmsimg.com/assets/s123606_ll_h15_aa.png?w=360&h=270" group-title="France" tvg-id="OLPLAY" tvc-guide-stationid="123606",Ol Play
+http://example.local/FRA-OLPLAY.ts
+#EXTINF:-1 tvg-chno="120559" tvg-name="Olympia TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s120559_ll_h15_aa.png?w=360&h=270" group-title="France" tvg-id="OLYMPTV" tvc-guide-stationid="120559",Olympia TV HD
+http://example.local/FRA-OLYMPTV.ts
+#EXTINF:-1 tvg-chno="75007" tvg-name="one" tvg-logo="https://zap2it.tmsimg.com/assets/s75007_ll_h15_ac.png?w=360&h=270" group-title="France" tvg-id="ONEARD" tvc-guide-stationid="75007",one
+http://example.local/FRA-ONEARD.ts
 #EXTINF:-1 tvg-chno="90457" tvg-name="one HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90457_ll_h15_ad.png?w=360&h=270" group-title="France" tvg-id="ONEARHD" tvc-guide-stationid="90457",one HD
 http://example.local/FRA-ONEARHD.ts
 #EXTINF:-1 tvg-chno="135131" tvg-name="One Terra" group-title="France" tvg-id="ONETERRA" tvc-guide-stationid="135131",One Terra
@@ -451,8 +459,6 @@ http://example.local/FRA-TVPOL.ts
 http://example.local/FRA-TVRI.ts
 #EXTINF:-1 tvg-chno="138637" tvg-name="TVRI" group-title="France" tvg-id="TVRIIDN" tvc-guide-stationid="138637",TVRI
 http://example.local/FRA-TVRIIDN.ts
-#EXTINF:-1 tvg-chno="147933" tvg-name="TVT International" group-title="France" tvg-id="TVTINT" tvc-guide-stationid="147933",TVT International
-http://example.local/FRA-TVTINT.ts
 #EXTINF:-1 tvg-chno="120871" tvg-name="Télé Congo" group-title="France" tvg-id="TLCONGO" tvc-guide-stationid="120871",Télé Congo
 http://example.local/FRA-TLCONGO.ts
 #EXTINF:-1 tvg-chno="113331" tvg-name="Télé Maroc" tvg-logo="https://zap2it.tmsimg.com/assets/s113331_ll_h9_aa.png?w=360&h=270" group-title="France" tvg-id="TLMAROC" tvc-guide-stationid="113331",Télé Maroc

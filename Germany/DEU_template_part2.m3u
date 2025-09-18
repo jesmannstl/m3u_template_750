@@ -495,10 +495,10 @@ http://example.local/DEU-LT1.ts
 http://example.local/DEU-LUSTPUR.ts
 #EXTINF:-1 tvg-chno="83618" tvg-name="Lust Pur HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83618_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="LSPURHD" tvc-guide-stationid="83618",Lust Pur HD
 http://example.local/DEU-LSPURHD.ts
-#EXTINF:-1 tvg-chno="87424" tvg-name="Luxe TV" tvg-logo="https://zap2it.tmsimg.com/assets/s87424_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="LUXETVF" tvc-guide-stationid="87424",Luxe TV
-http://example.local/DEU-LUXETVF.ts
 #EXTINF:-1 tvg-chno="102970" tvg-name="Luxe TV" tvg-logo="https://zap2it.tmsimg.com/assets/s102970_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="LUXEEU" tvc-guide-stationid="102970",Luxe TV
 http://example.local/DEU-LUXEEU.ts
+#EXTINF:-1 tvg-chno="87424" tvg-name="Luxe TV" tvg-logo="https://zap2it.tmsimg.com/assets/s87424_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="LUXETVF" tvc-guide-stationid="87424",Luxe TV
+http://example.local/DEU-LUXETVF.ts
 #EXTINF:-1 tvg-chno="78972" tvg-name="M6" tvg-logo="https://zap2it.tmsimg.com/assets/s78972_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="MSIX" tvc-guide-stationid="78972",M6
 http://example.local/DEU-MSIX.ts
 #EXTINF:-1 tvg-chno="74921" tvg-name="M6 Boutique & Co" tvg-logo="https://zap2it.tmsimg.com/assets/s74921_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="M6BOUTQ" tvc-guide-stationid="74921",M6 Boutique & Co
@@ -723,14 +723,14 @@ http://example.local/DEU-NASKIRU.ts
 http://example.local/DEU-NATGPHD.ts
 #EXTINF:-1 tvg-chno="83622" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s83622_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="NGEODEU" tvc-guide-stationid="83622",National Geographic
 http://example.local/DEU-NGEODEU.ts
-#EXTINF:-1 tvg-chno="21592" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s21592_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NATGEO" tvc-guide-stationid="21592",National Geographic
-http://example.local/DEU-NATGEO.ts
 #EXTINF:-1 tvg-chno="86938" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s86938_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="NGEOIB" tvc-guide-stationid="86938",National Geographic
 http://example.local/DEU-NGEOIB.ts
-#EXTINF:-1 tvg-chno="52472" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s52472_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NATGEF" tvc-guide-stationid="52472",National Geographic
-http://example.local/DEU-NATGEF.ts
 #EXTINF:-1 tvg-chno="77692" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s77692_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NATGECH" tvc-guide-stationid="77692",National Geographic
 http://example.local/DEU-NATGECH.ts
+#EXTINF:-1 tvg-chno="52472" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s52472_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NATGEF" tvc-guide-stationid="52472",National Geographic
+http://example.local/DEU-NATGEF.ts
+#EXTINF:-1 tvg-chno="21592" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s21592_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NATGEO" tvc-guide-stationid="21592",National Geographic
+http://example.local/DEU-NATGEO.ts
 #EXTINF:-1 tvg-chno="24112" tvg-name="National Geographic +1" tvg-logo="https://zap2it.tmsimg.com/assets/s24112_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="NATG1" tvc-guide-stationid="24112",National Geographic +1
 http://example.local/DEU-NATG1.ts
 #EXTINF:-1 tvg-chno="105092" tvg-name="National Geographic Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s105092_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NATGENL" tvc-guide-stationid="105092",National Geographic Channel
@@ -855,14 +855,14 @@ http://example.local/DEU-NICKCC.ts
 http://example.local/DEU-NICKCC1.ts
 #EXTINF:-1 tvg-chno="83626" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s83626_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="NICKDEU" tvc-guide-stationid="83626",Nickelodeon
 http://example.local/DEU-NICKDEU.ts
-#EXTINF:-1 tvg-chno="17419" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s17419_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="NICK" tvc-guide-stationid="17419",Nickelodeon
-http://example.local/DEU-NICK.ts
-#EXTINF:-1 tvg-chno="86939" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s86939_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NIKESP" tvc-guide-stationid="86939",Nickelodeon
-http://example.local/DEU-NIKESP.ts
-#EXTINF:-1 tvg-chno="77727" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s77727_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NICKELO" tvc-guide-stationid="77727",Nickelodeon
-http://example.local/DEU-NICKELO.ts
 #EXTINF:-1 tvg-chno="52479" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s52479_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NCKLDN" tvc-guide-stationid="52479",Nickelodeon
 http://example.local/DEU-NCKLDN.ts
+#EXTINF:-1 tvg-chno="77727" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s77727_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NICKELO" tvc-guide-stationid="77727",Nickelodeon
+http://example.local/DEU-NICKELO.ts
+#EXTINF:-1 tvg-chno="86939" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s86939_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NIKESP" tvc-guide-stationid="86939",Nickelodeon
+http://example.local/DEU-NIKESP.ts
+#EXTINF:-1 tvg-chno="17419" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s17419_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="NICK" tvc-guide-stationid="17419",Nickelodeon
+http://example.local/DEU-NICK.ts
 #EXTINF:-1 tvg-chno="86878" tvg-name="Nickelodeon HD" tvg-logo="https://zap2it.tmsimg.com/assets/s86878_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="NIKHDG" tvc-guide-stationid="86878",Nickelodeon HD
 http://example.local/DEU-NIKHDG.ts
 #EXTINF:-1 tvg-chno="86879" tvg-name="Nicktoons" tvg-logo="https://zap2it.tmsimg.com/assets/s86879_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="NICKTON" tvc-guide-stationid="86879",Nicktoons

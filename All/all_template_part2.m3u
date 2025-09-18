@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="104692" tvg-name="9 Griffith (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104692_ll_h9_ab.png?w=360&h=270" group-title="Australia" tvg-id="WGRIANZ" tvc-guide-stationid="104692",9 Griffith (NINE)
+http://example.local/AUS-WGRIANZ.ts
 #EXTINF:-1 tvg-chno="109796" tvg-name="9 Life SA (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s109796_ll_h9_ac.png?w=360&h=270" group-title="Australia" tvg-id="ANZYSA" tvc-guide-stationid="109796",9 Life SA (NINE)
 http://example.local/AUS-ANZYSA.ts
 #EXTINF:-1 tvg-chno="104696" tvg-name="9 Mackay (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104696_ll_h9_ab.png?w=360&h=270" group-title="Australia" tvg-id="WMWANZ" tvc-guide-stationid="104696",9 Mackay (NINE)
@@ -711,10 +713,6 @@ http://example.local/USA-LOCALSH.ts
 http://example.local/AUS-ABCRMANZ.ts
 #EXTINF:-1 tvg-chno="114193" tvg-name="ABC National Feed" group-title="United States" tvg-id="ABCNE" tvc-guide-stationid="114193",ABC National Feed
 http://example.local/USA-ABCNE.ts
-#EXTINF:-1 tvg-chno="114197" tvg-name="ABC National Feed Central" group-title="United States" tvg-id="ABCNC" tvc-guide-stationid="114197",ABC National Feed Central
-http://example.local/USA-ABCNC.ts
-#EXTINF:-1 tvg-chno="114198" tvg-name="ABC National Feed Mountain" group-title="United States" tvg-id="ABCNM" tvc-guide-stationid="114198",ABC National Feed Mountain
-http://example.local/USA-ABCNM.ts
 #EXTINF:-1 tvg-chno="114196" tvg-name="ABC National Feed Pacific" group-title="United States" tvg-id="ABCNP" tvc-guide-stationid="114196",ABC National Feed Pacific
 http://example.local/USA-ABCNP.ts
 #EXTINF:-1 tvg-chno="80537" tvg-name="ABC Network On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png?w=360&h=270" group-title="United States" tvg-id="ABCDM" tvc-guide-stationid="80537",ABC Network On Demand
@@ -763,12 +761,6 @@ http://example.local/AUS-ABCRNMANZ.ts
 http://example.local/AUS-ABCRNPANZ.ts
 #EXTINF:-1 tvg-chno="112182" tvg-name="ABC RN Sydney (ABCTN)" tvg-logo="https://zap2it.tmsimg.com/assets/s112182_ll_h9_ba.png?w=360&h=270" group-title="Australia" tvg-id="ABCRNSANZ" tvc-guide-stationid="112182",ABC RN Sydney (ABCTN)
 http://example.local/AUS-ABCRNSANZ.ts
-#EXTINF:-1 tvg-chno="75031" tvg-name="ABC Spark" tvg-logo="https://zap2it.tmsimg.com/assets/s75031_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="SPARK" tvc-guide-stationid="75031",ABC Spark
-http://example.local/CAN-SPARK.ts
-#EXTINF:-1 tvg-chno="75117" tvg-name="ABC Spark HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75117_ll_h15_ab.png?w=360&h=270" group-title="Canada" tvg-id="SPARKHD" tvc-guide-stationid="75117",ABC Spark HD
-http://example.local/CAN-SPARKHD.ts
-#EXTINF:-1 tvg-chno="90669" tvg-name="ABC Spark On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s75031_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="SPKDM" tvc-guide-stationid="90669",ABC Spark On Demand
-http://example.local/CAN-SPKDM.ts
 #EXTINF:-1 tvg-chno="112190" tvg-name="ABC Sydney (ABCTN)" tvg-logo="https://zap2it.tmsimg.com/assets/s112190_h3_bb.png?w=360&h=270" group-title="Australia" tvg-id="ABCRSANZ" tvc-guide-stationid="112190",ABC Sydney (ABCTN)
 http://example.local/AUS-ABCRSANZ.ts
 #EXTINF:-1 tvg-chno="103844" tvg-name="ABC TV ACT (ABCTN)" tvg-logo="https://zap2it.tmsimg.com/assets/s103844_ll_h15_aa.png?w=360&h=270" group-title="Australia" tvg-id="AACTANZ" tvc-guide-stationid="103844",ABC TV ACT (ABCTN)
@@ -1009,13 +1001,21 @@ http://example.local/USA-WJAXSTR.ts
 http://example.local/USA-VIZCKBK.ts
 #EXTINF:-1 tvg-chno="103086" tvg-name="Action+2" tvg-logo="https://zap2it.tmsimg.com/assets/s103086_ll_h15_aa.png?w=360&h=270" group-title="Australia" tvg-id="ACT2ANZ" tvc-guide-stationid="103086",Action+2
 http://example.local/AUS-ACT2ANZ.ts
-#EXTINF:-1 tvg-chno="18433" tvg-name="ActionMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s18433_ll_h15_ad.png?w=360&h=270" group-title="United States" tvg-id="ACMAX" tvc-guide-stationid="18433",ActionMAX
-http://example.local/USA-ACMAX.ts
-#EXTINF:-1 tvg-chno="18433" tvg-name="ActionMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s18433_ll_h15_ad.png?w=360&h=270" group-title="Dominican Republic" tvg-id="ACMAX" tvc-guide-stationid="18433",ActionMAX
-http://example.local/DOM-ACMAX.ts
-#EXTINF:-1 tvg-chno="18433" tvg-name="ActionMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s18433_ll_h15_ad.png?w=360&h=270" group-title="Cayman Islands" tvg-id="ACMAX" tvc-guide-stationid="18433",ActionMAX
-http://example.local/CYM-ACMAX.ts
-#EXTINF:-1 tvg-chno="18433" tvg-name="ActionMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s18433_ll_h15_ad.png?w=360&h=270" group-title="Turks and Caicos" tvg-id="ACMAX" tvc-guide-stationid="18433",ActionMAX
-http://example.local/TCA-ACMAX.ts
-#EXTINF:-1 tvg-chno="18433" tvg-name="ActionMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s18433_ll_h15_ad.png?w=360&h=270" group-title="Bermuda" tvg-id="ACMAX" tvc-guide-stationid="18433",ActionMAX
-http://example.local/BMU-ACMAX.ts
+#EXTINF:-1 tvg-chno="18434" tvg-name="ActionMAX (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s18433_h3_aa.png?w=360&h=270" group-title="United States" tvg-id="ACMAXP" tvc-guide-stationid="18434",ActionMAX (Pacific)
+http://example.local/USA-ACMAXP.ts
+#EXTINF:-1 tvg-chno="59948" tvg-name="ActionMAX HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59948_ll_h15_ac.png?w=360&h=270" group-title="United States" tvg-id="ACMAXHD" tvc-guide-stationid="59948",ActionMAX HD
+http://example.local/USA-ACMAXHD.ts
+#EXTINF:-1 tvg-chno="59950" tvg-name="ActionMAX HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s59948_h3_aa.png?w=360&h=270" group-title="United States" tvg-id="ACMXHDP" tvc-guide-stationid="59950",ActionMAX HD (Pacific)
+http://example.local/USA-ACMXHDP.ts
+#EXTINF:-1 tvg-chno="118666" tvg-name="Active Family HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118666_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="ACFAMHD" tvc-guide-stationid="118666",Active Family HD
+http://example.local/POL-ACFAMHD.ts
+#EXTINF:-1 tvg-chno="10009" tvg-name="ACTS" group-title="Trinidad and Tobago" tvg-id="ACTS" tvc-guide-stationid="10009",ACTS
+http://example.local/TTO-ACTS.ts
+#EXTINF:-1 tvg-chno="78583" tvg-name="ACTS25" group-title="Trinidad and Tobago" tvg-id="ACTS25" tvc-guide-stationid="78583",ACTS25
+http://example.local/TTO-ACTS25.ts
+#EXTINF:-1 tvg-chno="169992" tvg-name="ACTV" group-title="Colombia" tvg-id="ACTVCOL" tvc-guide-stationid="169992",ACTV
+http://example.local/COL-ACTVCOL.ts
+#EXTINF:-1 tvg-chno="105654" tvg-name="ACUSTIK TV" group-title="Mexico" tvg-id="ACUSTIK" tvc-guide-stationid="105654",ACUSTIK TV
+http://example.local/MEX-ACUSTIK.ts
+#EXTINF:-1 tvg-chno="23777" tvg-name="Ad Channel (Static) - ADCH001" group-title="United States" tvg-id="ADCH001" tvc-guide-stationid="23777",Ad Channel (Static) - ADCH001
+http://example.local/USA-ADCH001.ts

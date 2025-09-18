@@ -523,6 +523,8 @@ http://example.local/DEU-RRECHD.ts
 http://example.local/DEU-REDBULL.ts
 #EXTINF:-1 tvg-chno="115984" tvg-name="Red Bull TV" tvg-logo="https://zap2it.tmsimg.com/assets/s115984_ll_h15_ac.png?w=360&h=270" group-title="Germany" tvg-id="BESTORB" tvc-guide-stationid="115984",Red Bull TV
 http://example.local/DEU-BESTORB.ts
+#EXTINF:-1 tvg-chno="118720" tvg-name="Red Bull TV Motorsport" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028E71G.png?w=360&h=270" group-title="Germany" tvg-id="RBMOSPHD" tvc-guide-stationid="118720",Red Bull TV Motorsport
+http://example.local/DEU-RBMOSPHD.ts
 #EXTINF:-1 tvg-chno="101568" tvg-name="Reggae" tvg-logo="https://zap2it.tmsimg.com/assets/s101568_ll_h9_aa.png?w=360&h=270" group-title="Germany" tvg-id="REGGAER" tvc-guide-stationid="101568",Reggae
 http://example.local/DEU-REGGAER.ts
 #EXTINF:-1 tvg-chno="170112" tvg-name="Regio TV (SAT)" tvg-logo="https://zap2it.tmsimg.com/assets/s170112_ll_h9_ac.png?w=360&h=270" group-title="Germany" tvg-id="REGISAT" tvc-guide-stationid="170112",Regio TV (SAT)
@@ -845,8 +847,6 @@ http://example.local/DEU-SERPLSD.ts
 http://example.local/DEU-SERPLHD.ts
 #EXTINF:-1 tvg-chno="90473" tvg-name="Servus TV AT" tvg-logo="https://zap2it.tmsimg.com/assets/s90473_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="SERVUSA" tvc-guide-stationid="90473",Servus TV AT
 http://example.local/DEU-SERVUSA.ts
-#EXTINF:-1 tvg-chno="118720" tvg-name="Servus TV Motorsport HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118720_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="SERVTVMO" tvc-guide-stationid="118720",Servus TV Motorsport HD
-http://example.local/DEU-SERVTVMO.ts
 #EXTINF:-1 tvg-chno="99536" tvg-name="ServusTV AT HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99536_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="SERVAHD" tvc-guide-stationid="99536",ServusTV AT HD
 http://example.local/DEU-SERVAHD.ts
 #EXTINF:-1 tvg-chno="119695" tvg-name="Shop LC" tvg-logo="https://zap2it.tmsimg.com/assets/s119695_ll_h9_aa.png?w=360&h=270" group-title="Germany" tvg-id="SHOPLCDE" tvc-guide-stationid="119695",Shop LC

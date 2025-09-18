@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="73276" tvg-name="CIHF-DT1 (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s110839_h3_ba.png?w=360&h=270" group-title="Canada" tvg-id="CIHFDT1" tvc-guide-stationid="73276",CIHF-DT1 (GLOBAL)
-http://example.local/CAN-CIHFDT1.ts
 #EXTINF:-1 tvg-chno="91030" tvg-name="CIHF-DT2 (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s110839_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="CIHFDT2" tvc-guide-stationid="91030",CIHF-DT2 (GLOBAL)
 http://example.local/CAN-CIHFDT2.ts
 #EXTINF:-1 tvg-chno="73434" tvg-name="CIHF-DT3 MONCTON (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s110839_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="CIHFDT3" tvc-guide-stationid="73434",CIHF-DT3 MONCTON (GLOBAL)
@@ -697,22 +695,10 @@ http://example.local/CAN-DISCW.ts
 http://example.local/CAN-DISCAHD.ts
 #EXTINF:-1 tvg-chno="96514" tvg-name="Disney Channel Canada HD - West" tvg-logo="https://zap2it.tmsimg.com/assets/s96507_ll_h15_ab.png?w=360&h=270" group-title="Canada" tvg-id="DISCWHD" tvc-guide-stationid="96514",Disney Channel Canada HD - West
 http://example.local/CAN-DISCWHD.ts
-#EXTINF:-1 tvg-chno="110727" tvg-name="Disney Jr. On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s74885_ll_h15_ac.png?w=360&h=270" group-title="Canada" tvg-id="DJRODDM" tvc-guide-stationid="110727",Disney Jr. On Demand
-http://example.local/CAN-DJRODDM.ts
-#EXTINF:-1 tvg-chno="97311" tvg-name="Disney Junior Canada" tvg-logo="https://zap2it.tmsimg.com/assets/s97311_ll_h15_ab.png?w=360&h=270" group-title="Canada" tvg-id="DISJRC" tvc-guide-stationid="97311",Disney Junior Canada
-http://example.local/CAN-DISJRC.ts
 #EXTINF:-1 tvg-chno="91459" tvg-name="Disney Junior Français Sur Demande" tvg-logo="https://zap2it.tmsimg.com/assets/s97311_ll_h15_ab.png?w=360&h=270" group-title="Canada" tvg-id="DJFSDM" tvc-guide-stationid="91459",Disney Junior Français Sur Demande
 http://example.local/CAN-DJFSDM.ts
-#EXTINF:-1 tvg-chno="97312" tvg-name="Disney Junior HD Canada" tvg-logo="https://zap2it.tmsimg.com/assets/s97312_ll_h15_ab.png?w=360&h=270" group-title="Canada" tvg-id="DISJRCH" tvc-guide-stationid="97312",Disney Junior HD Canada
-http://example.local/CAN-DISJRCH.ts
 #EXTINF:-1 tvg-chno="46922" tvg-name="Disney On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s10171_ll_h15_ae.png?w=360&h=270" group-title="Canada" tvg-id="DISNOD" tvc-guide-stationid="46922",Disney On Demand
 http://example.local/CAN-DISNOD.ts
-#EXTINF:-1 tvg-chno="97314" tvg-name="Disney XD Canada" tvg-logo="https://zap2it.tmsimg.com/assets/s97314_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="DISXDC" tvc-guide-stationid="97314",Disney XD Canada
-http://example.local/CAN-DISXDC.ts
-#EXTINF:-1 tvg-chno="97315" tvg-name="Disney XD HD Canada" tvg-logo="https://zap2it.tmsimg.com/assets/s97315_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="DISXDCH" tvc-guide-stationid="97315",Disney XD HD Canada
-http://example.local/CAN-DISXDCH.ts
-#EXTINF:-1 tvg-chno="55194" tvg-name="Disney XD On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s55194_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="DXDDM" tvc-guide-stationid="55194",Disney XD On Demand
-http://example.local/CAN-DXDDM.ts
 #EXTINF:-1 tvg-chno="98978" tvg-name="DMAX +1" tvg-logo="https://zap2it.tmsimg.com/assets/s98978_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="DMAXIT1" tvc-guide-stationid="98978",DMAX +1
 http://example.local/CAN-DMAXIT1.ts
 #EXTINF:-1 tvg-chno="98967" tvg-name="DMAX HD" tvg-logo="https://zap2it.tmsimg.com/assets/s98967_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="DMAXIHD" tvc-guide-stationid="98967",DMAX HD
@@ -825,8 +811,6 @@ http://example.local/CAN-EURNEWS.ts
 http://example.local/CAN-EURONF.ts
 #EXTINF:-1 tvg-chno="103473" tvg-name="Euronews HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103473_ll_h15_ab.png?w=360&h=270" group-title="Canada" tvg-id="EURNWHD" tvc-guide-stationid="103473",Euronews HD
 http://example.local/CAN-EURNWHD.ts
-#EXTINF:-1 tvg-chno="106149" tvg-name="EuroWorld Sport HD (Canada)" tvg-logo="https://zap2it.tmsimg.com/assets/s106149_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="EWSHD" tvc-guide-stationid="106149",EuroWorld Sport HD (Canada)
-http://example.local/CAN-EWSHD.ts
 #EXTINF:-1 tvg-chno="33583" tvg-name="EWTNC (EWTN - Canadian Feed) (EWTN)" tvg-logo="https://zap2it.tmsimg.com/assets/s33583_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="EWTNC" tvc-guide-stationid="33583",EWTNC (EWTN - Canadian Feed) (EWTN)
 http://example.local/CAN-EWTNC.ts
 #EXTINF:-1 tvg-chno="91421" tvg-name="Explora Sur Demande" group-title="Canada" tvg-id="EXPSDM" tvc-guide-stationid="91421",Explora Sur Demande
@@ -1019,3 +1003,19 @@ http://example.local/CAN-GMPLSC.ts
 http://example.local/CAN-GMPLSCH.ts
 #EXTINF:-1 tvg-chno="14909" tvg-name="Game Show Network" tvg-logo="https://zap2it.tmsimg.com/assets/s14909_ll_h15_ad.png?w=360&h=270" group-title="Canada" tvg-id="GSN" tvc-guide-stationid="14909",Game Show Network
 http://example.local/CAN-GSN.ts
+#EXTINF:-1 tvg-chno="68827" tvg-name="Game Show Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&h=270" group-title="Canada" tvg-id="GSNHD" tvc-guide-stationid="68827",Game Show Network HD
+http://example.local/CAN-GSNHD.ts
+#EXTINF:-1 tvg-chno="48727" tvg-name="GameTV Canada" tvg-logo="https://zap2it.tmsimg.com/assets/s48727_ll_h15_ab.png?w=360&h=270" group-title="Canada" tvg-id="GAMETV" tvc-guide-stationid="48727",GameTV Canada
+http://example.local/CAN-GAMETV.ts
+#EXTINF:-1 tvg-chno="102147" tvg-name="GameTV Canada HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102147_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="GAMTVHD" tvc-guide-stationid="102147",GameTV Canada HD
+http://example.local/CAN-GAMTVHD.ts
+#EXTINF:-1 tvg-chno="36118" tvg-name="GEO TV" tvg-logo="https://zap2it.tmsimg.com/assets/s36118_ll_h9_aa.png?w=360&h=270" group-title="Canada" tvg-id="GEOTV" tvc-guide-stationid="36118",GEO TV
+http://example.local/CAN-GEOTV.ts
+#EXTINF:-1 tvg-chno="55629" tvg-name="German Kino Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s55629_ll_h6_aa.png?w=360&h=270" group-title="Canada" tvg-id="GKPL" tvc-guide-stationid="55629",German Kino Plus
+http://example.local/CAN-GKPL.ts
+#EXTINF:-1 tvg-chno="10050" tvg-name="Global BC (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s10050_ll_h15_ac.png?w=360&h=270" group-title="Canada" tvg-id="CHAN" tvc-guide-stationid="10050",Global BC (GLOBAL)
+http://example.local/CAN-CHAN.ts
+#EXTINF:-1 tvg-chno="60121" tvg-name="Global BC HD (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s60121_ll_h15_ab.png?w=360&h=270" group-title="Canada" tvg-id="CHANDT" tvc-guide-stationid="60121",Global BC HD (GLOBAL)
+http://example.local/CAN-CHANDT.ts
+#EXTINF:-1 tvg-chno="15976" tvg-name="Global Calgary (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s15976_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="CICT" tvc-guide-stationid="15976",Global Calgary (GLOBAL)
+http://example.local/CAN-CICT.ts

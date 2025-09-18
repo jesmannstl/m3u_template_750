@@ -55,12 +55,6 @@ http://example.local/CAN-ARTSC.ts
 http://example.local/CAN-ARTSCHD.ts
 #EXTINF:-1 tvg-chno="48512" tvg-name="AAJ TAK" tvg-logo="https://zap2it.tmsimg.com/assets/s48512_ll_h9_ab.png?w=360&h=270" group-title="Canada" tvg-id="AAJTK" tvc-guide-stationid="48512",AAJ TAK
 http://example.local/CAN-AAJTK.ts
-#EXTINF:-1 tvg-chno="75031" tvg-name="ABC Spark" tvg-logo="https://zap2it.tmsimg.com/assets/s75031_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="SPARK" tvc-guide-stationid="75031",ABC Spark
-http://example.local/CAN-SPARK.ts
-#EXTINF:-1 tvg-chno="75117" tvg-name="ABC Spark HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75117_ll_h15_ab.png?w=360&h=270" group-title="Canada" tvg-id="SPARKHD" tvc-guide-stationid="75117",ABC Spark HD
-http://example.local/CAN-SPARKHD.ts
-#EXTINF:-1 tvg-chno="90669" tvg-name="ABC Spark On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s75031_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="SPKDM" tvc-guide-stationid="90669",ABC Spark On Demand
-http://example.local/CAN-SPKDM.ts
 #EXTINF:-1 tvg-chno="107677" tvg-name="ABLEG SD" tvg-logo="https://zap2it.tmsimg.com/assets/s107677_ll_h9_aa.png?w=360&h=270" group-title="Canada" tvg-id="ABLEGSD" tvc-guide-stationid="107677",ABLEG SD
 http://example.local/CAN-ABLEGSD.ts
 #EXTINF:-1 tvg-chno="61998" tvg-name="Aboriginal Peoples Television Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61998_ll_h15_ac.png?w=360&h=270" group-title="Canada" tvg-id="APTNHD" tvc-guide-stationid="61998",Aboriginal Peoples Television Network HD
@@ -313,8 +307,12 @@ http://example.local/CAN-ATNRISH.ts
 http://example.local/CAN-ATNSPRT.ts
 #EXTINF:-1 tvg-chno="16023" tvg-name="ATN Star Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s16023_ll_h15_ab.png?w=360&h=270" group-title="Canada" tvg-id="ATNZEE" tvc-guide-stationid="16023",ATN Star Plus
 http://example.local/CAN-ATNZEE.ts
+#EXTINF:-1 tvg-chno="16023" tvg-name="ATN Star Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s16023_ll_h15_ab.png?w=360&h=270" group-title="Canada" tvg-id="ATNSTAR" tvc-guide-stationid="16023",ATN Star Plus
+http://example.local/CAN-ATNSTAR.ts
 #EXTINF:-1 tvg-chno="89731" tvg-name="ATN Star Plus HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89731_ll_h15_ab.png?w=360&h=270" group-title="Canada" tvg-id="ATNZEEH" tvc-guide-stationid="89731",ATN Star Plus HD
 http://example.local/CAN-ATNZEEH.ts
+#EXTINF:-1 tvg-chno="89731" tvg-name="ATN Star Plus HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89731_ll_h15_ab.png?w=360&h=270" group-title="Canada" tvg-id="ATNSTARH" tvc-guide-stationid="89731",ATN Star Plus HD
+http://example.local/CAN-ATNSTARH.ts
 #EXTINF:-1 tvg-chno="62722" tvg-name="ATN SVBC" tvg-logo="https://zap2it.tmsimg.com/assets/s62722_ll_h15_ab.png?w=360&h=270" group-title="Canada" tvg-id="ATNSVBC" tvc-guide-stationid="62722",ATN SVBC
 http://example.local/CAN-ATNSVBC.ts
 #EXTINF:-1 tvg-chno="105936" tvg-name="ATN Tamil Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s105936_ll_h9_aa.png?w=360&h=270" group-title="Canada" tvg-id="ATNTP" tvc-guide-stationid="105936",ATN Tamil Plus
@@ -1019,3 +1017,5 @@ http://example.local/CAN-CIEUFM.ts
 http://example.local/CAN-CIFGDT.ts
 #EXTINF:-1 tvg-chno="102010" tvg-name="CIFG-DT (SD Feed) (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s102010_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="CIFGSD" tvc-guide-stationid="102010",CIFG-DT (SD Feed) (GLOBAL)
 http://example.local/CAN-CIFGSD.ts
+#EXTINF:-1 tvg-chno="73276" tvg-name="CIHF-DT1 (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s110839_h3_ba.png?w=360&h=270" group-title="Canada" tvg-id="CIHFDT1" tvc-guide-stationid="73276",CIHF-DT1 (GLOBAL)
+http://example.local/CAN-CIHFDT1.ts

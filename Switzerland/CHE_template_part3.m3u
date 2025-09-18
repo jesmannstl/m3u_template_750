@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="109837" tvg-name="Sky Crime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109837_ll_h9_ab.png?w=360&h=270" group-title="Switzerland" tvg-id="SKYCRHDIT" tvc-guide-stationid="109837",Sky Crime HD
+http://example.local/CHE-SKYCRHDIT.ts
+#EXTINF:-1 tvg-chno="83683" tvg-name="Sky Krimi" tvg-logo="https://zap2it.tmsimg.com/assets/s83683_ll_h15_aa.png?w=360&h=270" group-title="Switzerland" tvg-id="SKYKG" tvc-guide-stationid="83683",Sky Krimi
+http://example.local/CHE-SKYKG.ts
+#EXTINF:-1 tvg-chno="112470" tvg-name="Sky Krimi HD" tvg-logo="https://zap2it.tmsimg.com/assets/s112470_ll_h15_ab.png?w=360&h=270" group-title="Switzerland" tvg-id="SKYKGHD" tvc-guide-stationid="112470",Sky Krimi HD
+http://example.local/CHE-SKYKGHD.ts
+#EXTINF:-1 tvg-chno="48021" tvg-name="Sky Mix" tvg-logo="https://zap2it.tmsimg.com/assets/s48021_ll_h15_ac.png?w=360&h=270" group-title="Switzerland" tvg-id="SKYMIX" tvc-guide-stationid="48021",Sky Mix
+http://example.local/CHE-SKYMIX.ts
 #EXTINF:-1 tvg-chno="16234" tvg-name="Sky News" tvg-logo="https://zap2it.tmsimg.com/assets/s16234_ll_h15_ad.png?w=360&h=270" group-title="Switzerland" tvg-id="SKYNEWS" tvc-guide-stationid="16234",Sky News
 http://example.local/CHE-SKYNEWS.ts
 #EXTINF:-1 tvg-chno="83874" tvg-name="Sky News International" tvg-logo="https://zap2it.tmsimg.com/assets/s83874_ll_h15_aa.png?w=360&h=270" group-title="Switzerland" tvg-id="SNEWSIN" tvc-guide-stationid="83874",Sky News International
@@ -203,8 +211,6 @@ http://example.local/CHE-TPPIO.ts
 http://example.local/CHE-TELESUR.ts
 #EXTINF:-1 tvg-chno="118645" tvg-name="TeleSur HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118645_ll_h15_aa.png?w=360&h=270" group-title="Switzerland" tvg-id="TESURHD" tvc-guide-stationid="118645",TeleSur HD
 http://example.local/CHE-TESURHD.ts
-#EXTINF:-1 tvg-chno="113786" tvg-name="Teleswizz" tvg-logo="https://zap2it.tmsimg.com/assets/s113786_ll_h15_aa.png?w=360&h=270" group-title="Switzerland" tvg-id="TELESW" tvc-guide-stationid="113786",Teleswizz
-http://example.local/CHE-TELESW.ts
 #EXTINF:-1 tvg-chno="113787" tvg-name="Teleswizz HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113787_ll_h15_aa.png?w=360&h=270" group-title="Switzerland" tvg-id="TELSWHD" tvc-guide-stationid="113787",Teleswizz HD
 http://example.local/CHE-TELSWHD.ts
 #EXTINF:-1 tvg-chno="120655" tvg-name="TELETOON+ SD" tvg-logo="https://zap2it.tmsimg.com/assets/s120655_ll_h15_aa.png?w=360&h=270" group-title="Switzerland" tvg-id="TELETOONSD" tvc-guide-stationid="120655",TELETOON+ SD

@@ -467,6 +467,8 @@ http://example.local/FRA-TUNEBOX.ts
 http://example.local/USA-365BLK.ts
 #EXTINF:-1 tvg-chno="169857" tvg-name="365BLK" tvg-logo="https://zap2it.tmsimg.com/assets/s169857_ll_h15_aa.png?w=360&h=270" group-title="United States" tvg-id="365BLKF" tvc-guide-stationid="169857",365BLK
 http://example.local/USA-365BLKF.ts
+#EXTINF:-1 tvg-chno="150571" tvg-name="365BLK" tvg-logo="https://zap2it.tmsimg.com/assets/s150571_ll_h15_ab.png?w=360&h=270" group-title="Barbados" tvg-id="365BLK" tvc-guide-stationid="150571",365BLK
+http://example.local/BRB-365BLK.ts
 #EXTINF:-1 tvg-chno="46712" tvg-name="3A Telesud - Afrotainment Television" group-title="France" tvg-id="TELESUD" tvc-guide-stationid="46712",3A Telesud - Afrotainment Television
 http://example.local/FRA-TELESUD.ts
 #EXTINF:-1 tvg-chno="142497" tvg-name="3ABN" group-title="United States" tvg-id="3ABN" tvc-guide-stationid="142497",3ABN
@@ -589,6 +591,10 @@ http://example.local/NLD-4FUNKIDS.ts
 http://example.local/POL-4FUNKIDS.ts
 #EXTINF:-1 tvg-chno="119334" tvg-name="4fun Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s119334_ll_h15_aa.png?w=360&h=270" group-title="Belgium" tvg-id="4FUNKIDS" tvc-guide-stationid="119334",4fun Kids
 http://example.local/BEL-4FUNKIDS.ts
+#EXTINF:-1 tvg-chno="174910" tvg-name="4Fun Kids HD" group-title="Poland" tvg-id="4FUNKID" tvc-guide-stationid="174910",4Fun Kids HD
+http://example.local/POL-4FUNKID.ts
+#EXTINF:-1 tvg-chno="174908" tvg-name="4Fun TV HD" group-title="Poland" tvg-id="4FUNTVH" tvc-guide-stationid="174908",4Fun TV HD
+http://example.local/POL-4FUNTVH.ts
 #EXTINF:-1 tvg-chno="100912" tvg-name="4Fun.TV" tvg-logo="https://zap2it.tmsimg.com/assets/s100912_ll_h15_aa.png?w=360&h=270" group-title="Netherlands" tvg-id="4FUNTV" tvc-guide-stationid="100912",4Fun.TV
 http://example.local/NLD-4FUNTV.ts
 #EXTINF:-1 tvg-chno="100912" tvg-name="4Fun.TV" tvg-logo="https://zap2it.tmsimg.com/assets/s100912_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="4FUNTV" tvc-guide-stationid="100912",4Fun.TV
@@ -695,10 +701,6 @@ http://example.local/GBR-5STAP1.ts
 http://example.local/GBR-5STP1VM.ts
 #EXTINF:-1 tvg-chno="97290" tvg-name="5 Star +1" tvg-logo="https://zap2it.tmsimg.com/assets/s97290_ll_h15_ab.png?w=360&h=270" group-title="Belgium" tvg-id="5STAP1" tvc-guide-stationid="97290",5 Star +1
 http://example.local/BEL-5STAP1.ts
-#EXTINF:-1 tvg-chno="25620" tvg-name="5 StarMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s25620_ll_h15_ad.png?w=360&h=270" group-title="United States" tvg-id="5MAX" tvc-guide-stationid="25620",5 StarMAX
-http://example.local/USA-5MAX.ts
-#EXTINF:-1 tvg-chno="25620" tvg-name="5 StarMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s25620_ll_h15_ad.png?w=360&h=270" group-title="Bermuda" tvg-id="5MAX" tvc-guide-stationid="25620",5 StarMAX
-http://example.local/BMU-5MAX.ts
 #EXTINF:-1 tvg-chno="61168" tvg-name="5 StarMAX (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s25620_ll_h15_ad.png?w=360&h=270" group-title="United States" tvg-id="5MAXP" tvc-guide-stationid="61168",5 StarMAX (Pacific)
 http://example.local/USA-5MAXP.ts
 #EXTINF:-1 tvg-chno="110267" tvg-name="5 StarMAX (Pacific) HD" group-title="United States" tvg-id="5MAXPHD" tvc-guide-stationid="110267",5 StarMAX (Pacific) HD
@@ -1017,5 +1019,3 @@ http://example.local/DEU-892POTS.ts
 http://example.local/CAN-ALRSL.ts
 #EXTINF:-1 tvg-chno="104691" tvg-name="9 Albury (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104691_ll_h9_ab.png?w=360&h=270" group-title="Australia" tvg-id="WALWANZ" tvc-guide-stationid="104691",9 Albury (NINE)
 http://example.local/AUS-WALWANZ.ts
-#EXTINF:-1 tvg-chno="104692" tvg-name="9 Griffith (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104692_ll_h9_ab.png?w=360&h=270" group-title="Australia" tvg-id="WGRIANZ" tvc-guide-stationid="104692",9 Griffith (NINE)
-http://example.local/AUS-WGRIANZ.ts
