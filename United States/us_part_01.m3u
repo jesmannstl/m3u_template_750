@@ -5,8 +5,6 @@ http://example.local/3ANGELS.ts
 http://example.local/3DTV1.ts
 #EXTINF:-1 tvg-id="3DTV2" tvg-name="3D-TV2 Time Warner" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="68306" tvc-guide-stationid="68306" group-title="",3D-TV2 Time Warner
 http://example.local/3DTV2.ts
-#EXTINF:-1 tvg-id="5MAXHD" tvg-name="5 StarMAX HD East" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59961/GNLZZGG0029CS01.png" tvg-chno="59961" tvc-guide-stationid="59961" group-title="",5 StarMAX HD East
-http://example.local/5MAXHD.ts
 #EXTINF:-1 tvg-id="A3CINE" tvg-name="Atrescine" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/82808/s82808_ll_h15_aa.png" tvg-chno="82808" tvc-guide-stationid="82808" group-title="",Atrescine
 http://example.local/A3CINE.ts
 #EXTINF:-1 tvg-id="AAC" tvg-name="Americas Auction Channel" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="104787" tvc-guide-stationid="104787" group-title="",Americas Auction Channel
@@ -31,12 +29,6 @@ http://example.local/ACCESTV.ts
 http://example.local/ACCS4.ts
 #EXTINF:-1 tvg-id="ACCSD" tvg-name="ACC Network" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/111905/s111905_ll_h15_ac.png" tvg-chno="111905" tvc-guide-stationid="111905" group-title="",ACC Network
 http://example.local/ACCSD.ts
-#EXTINF:-1 tvg-id="ACMAXHD" tvg-name="ActionMAX HD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59948/GNLZZGG0029BC3L.png" tvg-chno="59948" tvc-guide-stationid="59948" group-title="",ActionMAX HD
-http://example.local/ACMAXHD.ts
-#EXTINF:-1 tvg-id="ACMAXP" tvg-name="ActionMAX (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18434/GNLZZGG0029BC1Q.png" tvg-chno="18434" tvc-guide-stationid="18434" group-title="",ActionMAX (Pacific)
-http://example.local/ACMAXP.ts
-#EXTINF:-1 tvg-id="ACMXHDP" tvg-name="ActionMAX HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59950/GNLZZGG0029BC3L.png" tvg-chno="59950" tvc-guide-stationid="59950" group-title="",ActionMAX HD (Pacific)
-http://example.local/ACMXHDP.ts
 #EXTINF:-1 tvg-id="ACUWTHH" tvg-name="AccuWeather HD (ACUWTHR)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/91994/s91994_ll_h15_ab.png" tvg-chno="91994" tvc-guide-stationid="91994" group-title="",AccuWeather HD (ACUWTHR)
 http://example.local/ACUWTHH.ts
 #EXTINF:-1 tvg-id="ACUWTHR" tvg-name="AccuWeather" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56193/s56193_ll_h15_ab.png" tvg-chno="56193" tvc-guide-stationid="56193" group-title="",AccuWeather
@@ -375,6 +367,8 @@ http://example.local/BIGTEN.ts
 http://example.local/BIGTENO.ts
 #EXTINF:-1 tvg-id="BIGWAOH" tvg-name="Big Ten Network (Washington) Alternate HD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/158459/s56783_ll_h15_ab.png" tvg-chno="158459" tvc-guide-stationid="158459" group-title="",Big Ten Network (Washington) Alternate HD
 http://example.local/BIGWAOH.ts
+#EXTINF:-1 tvg-id="BINGEHD" tvg-name="BINGE HD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/169130/GNLZZGG0026N188.png" tvg-chno="169130" tvc-guide-stationid="169130" group-title="",BINGE HD
+http://example.local/BINGEHD.ts
 #EXTINF:-1 tvg-id="BINGETV" tvg-name="BINGE-TV" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="45397" tvc-guide-stationid="45397" group-title="",BINGE-TV
 http://example.local/BINGETV.ts
 #EXTINF:-1 tvg-id="BLOOM" tvg-name="Bloomberg Business Television" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14755/s14755_ll_h15_ab.png" tvg-chno="14755" tvc-guide-stationid="14755" group-title="",Bloomberg Business Television
@@ -563,20 +557,36 @@ http://example.local/CIN08.ts
 http://example.local/CIN09.ts
 #EXTINF:-1 tvg-id="CIN10" tvg-name="Camera Insertion 10" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="110902" tvc-guide-stationid="110902" group-title="",Camera Insertion 10
 http://example.local/CIN10.ts
+#EXTINF:-1 tvg-id="CINACHD" tvg-name="Cinemax Action HD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59948/GNLZZGG0029BC3L.png" tvg-chno="59948" tvc-guide-stationid="59948" group-title="",Cinemax Action HD
+http://example.local/ACMAXHD.ts
+#EXTINF:-1 tvg-id="CINACSP" tvg-name="Cinemax Action (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18434/GNLZZGG0029BC1Q.png" tvg-chno="18434" tvc-guide-stationid="18434" group-title="",Cinemax Action (Pacific)
+http://example.local/ACMAXP.ts
+#EXTINF:-1 tvg-id="CINACT" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18433/GNLZZGG0029BC1Q.png" tvg-chno="18433" tvc-guide-stationid="18433" group-title="",Cinemax Action
+http://example.local/ACMAX.ts
+#EXTINF:-1 tvg-id="CINAHDP" tvg-name="Cinemax Action HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59950/GNLZZGG0029BC3L.png" tvg-chno="59950" tvc-guide-stationid="59950" group-title="",Cinemax Action HD (Pacific)
+http://example.local/ACMXHDP.ts
+#EXTINF:-1 tvg-id="CINCLHD" tvg-name="Cinemax Classics HD East" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59961/GNLZZGG0029CS01.png" tvg-chno="59961" tvc-guide-stationid="59961" group-title="",Cinemax Classics HD East
+http://example.local/5MAXHD.ts
 #EXTINF:-1 tvg-id="CINDENP" tvg-name="Comcast PPV En Español" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="101002" tvc-guide-stationid="101002" group-title="",Comcast PPV En Español
 http://example.local/CINDENP.ts
 #EXTINF:-1 tvg-id="CINEBAN" tvg-name="CineBangla" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="69234" tvc-guide-stationid="69234" group-title="",CineBangla
 http://example.local/CINEBAN.ts
-#EXTINF:-1 tvg-id="5MAX" tvg-name="5 StarMAX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/25620/GNLZZGG0029BBLL.png" tvg-chno="25620" tvc-guide-stationid="25620" group-title="",5 StarMAX
+#EXTINF:-1 tvg-id="CINECLS" tvg-name="Cinemax Classics" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/25620/GNLZZGG0029BBLL.png" tvg-chno="25620" tvc-guide-stationid="25620" group-title="",Cinemax Classics
 http://example.local/5MAX.ts
-#EXTINF:-1 tvg-id="MOMAX" tvg-name="MoreMAX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10121/GNLZZGG0029CKD8.png" tvg-chno="10121" tvc-guide-stationid="10121" group-title="",MoreMAX
+#EXTINF:-1 tvg-id="CINEHHD" tvg-name="Cinemax Hits HD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59373/GNLZZGG0029CKC9.png" tvg-chno="59373" tvc-guide-stationid="59373" group-title="",Cinemax Hits HD
+http://example.local/MOMAXHD.ts
+#EXTINF:-1 tvg-id="CINEHIT" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10121/GNLZZGG0029CKD8.png" tvg-chno="10121" tvc-guide-stationid="10121" group-title="",Cinemax Hits
 http://example.local/MOMAX.ts
+#EXTINF:-1 tvg-id="CINEHP" tvg-name="Cinemax Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16620/GNLZZGG0029CKD8.png" tvg-chno="16620" tvc-guide-stationid="16620" group-title="",Cinemax Hits (Pacific)
+http://example.local/MOMAXP.ts
 #EXTINF:-1 tvg-id="CINENOS" tvg-name="Cine Nostalgia" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/60631/s60631_ll_h15_aa.png" tvg-chno="60631" tvc-guide-stationid="60631" group-title="",Cine Nostalgia
 http://example.local/CINENOS.ts
 #EXTINF:-1 tvg-id="CINESTE" tvg-name="Cine Estelar" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62125/s62125_ll_h15_aa.png" tvg-chno="62125" tvc-guide-stationid="62125" group-title="",Cine Estelar
 http://example.local/CINESTE.ts
 #EXTINF:-1 tvg-id="CINHD" tvg-name="Crime & Investigation Network HD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61469/s61469_ll_h15_ab.png" tvg-chno="61469" tvc-guide-stationid="61469" group-title="",Crime & Investigation Network HD
 http://example.local/CINHD.ts
+#EXTINF:-1 tvg-id="CINHHDP" tvg-name="Cinemax Hits HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59375/GNLZZGG0029CKC9.png" tvg-chno="59375" tvc-guide-stationid="59375" group-title="",Cinemax Hits HD (Pacific)
+http://example.local/MMAXPHD.ts
 #EXTINF:-1 tvg-id="CINLUHD" tvg-name="Cine Latino US HD" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="118018" tvc-guide-stationid="118018" group-title="",Cine Latino US HD
 http://example.local/CINLUHD.ts
 #EXTINF:-1 tvg-id="CINLUS" tvg-name="Cine Latino US" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62401/s15296_ll_h9_ab.png" tvg-chno="62401" tvc-guide-stationid="62401" group-title="",Cine Latino US
@@ -709,6 +719,8 @@ http://example.local/COTVHD.ts
 http://example.local/COWBOY.ts
 #EXTINF:-1 tvg-id="COWBOYH" tvg-name="The Cowboy Channel HD (COWBOY)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/80597/s80597_ll_h15_aa.png" tvg-chno="80597" tvc-guide-stationid="80597" group-title="",The Cowboy Channel HD (COWBOY)
 http://example.local/COWBOYH.ts
+#EXTINF:-1 tvg-id="COWBSD" tvg-name="The Cowboy Channel" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/190584/s10188_ll_h15_ab.png" tvg-chno="190584" tvc-guide-stationid="190584" group-title="",The Cowboy Channel
+http://example.local/COWBSD.ts
 #EXTINF:-1 tvg-id="COXESDH" tvg-name="Cox Las Vegas ESPN Deportes HD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/97427/s71914_ll_h15_aa.png" tvg-chno="97427" tvc-guide-stationid="97427" group-title="",Cox Las Vegas ESPN Deportes HD
 http://example.local/COXESDH.ts
 #EXTINF:-1 tvg-id="COXPSTG" tvg-name="Cox Phoenix State Government" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/55785/s55785_ll_h15_ab.png" tvg-chno="55785" tvc-guide-stationid="55785" group-title="",Cox Phoenix State Government
@@ -719,8 +731,6 @@ http://example.local/COXT22.ts
 http://example.local/COZITV.ts
 #EXTINF:-1 tvg-id="CPENTHH" tvg-name="Penthouse HD (Comcast)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/105290/s105290_ll_h9_aa.png" tvg-chno="105290" tvc-guide-stationid="105290" group-title="",Penthouse HD (Comcast)
 http://example.local/CPENTHH.ts
-#EXTINF:-1 tvg-id="CPTVSPT" tvg-name="Connecticut Spirit Network" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10102/s10102_ll_h9_aa.png" tvg-chno="10102" tvc-guide-stationid="10102" group-title="",Connecticut Spirit Network
-http://example.local/CPTVSPT.ts
 #EXTINF:-1 tvg-id="CRMES" tvg-name="American Crimes" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/114278/s114278_ll_h15_ae.png" tvg-chno="114278" tvc-guide-stationid="114278" group-title="",American Crimes
 http://example.local/CRMES.ts
 #EXTINF:-1 tvg-id="CRSETHD" tvg-name="Crossings TV - Seattle (HD Feed)" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="138316" tvc-guide-stationid="138316" group-title="",Crossings TV - Seattle (HD Feed)
@@ -989,8 +999,6 @@ http://example.local/EDAC020.ts
 http://example.local/EDAC022.ts
 #EXTINF:-1 tvg-id="EDAC125" tvg-name="Educational Access - EDAC125" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="23083" tvc-guide-stationid="23083" group-title="",Educational Access - EDAC125
 http://example.local/EDAC125.ts
-#EXTINF:-1 tvg-id="EDPROG" tvg-name="Educational Programming" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="94165" tvc-guide-stationid="94165" group-title="",Educational Programming
-http://example.local/EDPROG.ts
 #EXTINF:-1 tvg-id="EHD" tvg-name="E! Entertainment Television HD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61812/s61812_ll_h15_aa.png" tvg-chno="61812" tvc-guide-stationid="61812" group-title="",E! Entertainment Television HD
 http://example.local/EHD.ts
 #EXTINF:-1 tvg-id="EISC" tvg-name="TV WASHINGTON" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/40766/s40766_ll_h9_aa.png" tvg-chno="40766" tvc-guide-stationid="40766" group-title="",TV WASHINGTON
@@ -999,3 +1007,15 @@ http://example.local/EISC.ts
 http://example.local/ENLCE.ts
 #EXTINF:-1 tvg-id="ENLUSA" tvg-name="ETBN Enlace USA" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/33527/s33527_ll_h15_aa.png" tvg-chno="33527" tvc-guide-stationid="33527" group-title="",ETBN Enlace USA
 http://example.local/ENLUSA.ts
+#EXTINF:-1 tvg-id="ENTDM" tvg-name="Entertainment On Demand" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="31797" tvc-guide-stationid="31797" group-title="",Entertainment On Demand
+http://example.local/ENTDM.ts
+#EXTINF:-1 tvg-id="ENTRDM" tvg-name="Entertainment on Demand" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="59324" tvc-guide-stationid="59324" group-title="",Entertainment on Demand
+http://example.local/ENTRDM.ts
+#EXTINF:-1 tvg-id="EP" tvg-name="E! Entertainment Television (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17561/s17561_ll_h15_ab.png" tvg-chno="17561" tvc-guide-stationid="17561" group-title="",E! Entertainment Television (Pacific)
+http://example.local/EP.ts
+#EXTINF:-1 tvg-id="EPGSPTS" tvg-name="EPG Local Sports 3 Hrs." tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="27728" tvc-guide-stationid="27728" group-title="",EPG Local Sports 3 Hrs.
+http://example.local/EPGSPTS.ts
+#EXTINF:-1 tvg-id="EPHD" tvg-name="E! Entertainment Television HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/91579/s61812_ll_h15_aa.png" tvg-chno="91579" tvc-guide-stationid="91579" group-title="",E! Entertainment Television HD (Pacific)
+http://example.local/EPHD.ts
+#EXTINF:-1 tvg-id="EROSDM" tvg-name="Eros Now On Demand" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="52195" tvc-guide-stationid="52195" group-title="",Eros Now On Demand
+http://example.local/EROSDM.ts
