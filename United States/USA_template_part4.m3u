@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="72814" tvg-name="CHNU-DT1" tvg-logo="https://zap2it.tmsimg.com/assets/s65569_ll_h9_aa.png?w=360&h=270" group-title="United States" tvg-id="CHNUDT1" tvc-guide-stationid="72814",CHNU-DT1
-http://example.local/USA-CHNUDT1.ts
-#EXTINF:-1 tvg-chno="113761" tvg-name="Choice Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s113761_ll_h15_ac.png?w=360&h=270" group-title="United States" tvg-id="PK11" tvc-guide-stationid="113761",Choice Channel
-http://example.local/USA-PK11.ts
-#EXTINF:-1 tvg-chno="63729" tvg-name="Chong Qing" group-title="United States" tvg-id="CQTV" tvc-guide-stationid="63729",Chong Qing
-http://example.local/USA-CQTV.ts
-#EXTINF:-1 tvg-chno="120283" tvg-name="Choppertown" tvg-logo="https://zap2it.tmsimg.com/assets/s120283_ll_h9_aa.png?w=360&h=270" group-title="United States" tvg-id="CHOPPER" tvc-guide-stationid="120283",Choppertown
-http://example.local/USA-CHOPPER.ts
-#EXTINF:-1 tvg-chno="73198" tvg-name="CHOT-DT (TVA)" tvg-logo="https://zap2it.tmsimg.com/assets/s16367_h3_aa.png?w=360&h=270" group-title="United States" tvg-id="CHOTDT" tvc-guide-stationid="73198",CHOT-DT (TVA)
-http://example.local/USA-CHOTDT.ts
-#EXTINF:-1 tvg-chno="165132" tvg-name="Chris Hansen's TruBlu Crime Network" tvg-logo="https://zap2it.tmsimg.com/assets/s165132_ll_h15_aa.png?w=360&h=270" group-title="United States" tvg-id="CHTBCN" tvc-guide-stationid="165132",Chris Hansen's TruBlu Crime Network
-http://example.local/USA-CHTBCN.ts
 #EXTINF:-1 tvg-chno="114143" tvg-name="Chrisley Knows Best" tvg-logo="https://zap2it.tmsimg.com/assets/s114143_ll_h15_aa.png?w=360&h=270" group-title="United States" tvg-id="PK25" tvc-guide-stationid="114143",Chrisley Knows Best
 http://example.local/USA-PK25.ts
 #EXTINF:-1 tvg-chno="63090" tvg-name="Christian Associates Television" group-title="United States" tvg-id="CATVNET" tvc-guide-stationid="63090",Christian Associates Television
@@ -151,17 +139,17 @@ http://example.local/USA-GMAX1WD.ts
 http://example.local/USA-MAXP.ts
 #EXTINF:-1 tvg-chno="67947" tvg-name="Cinemax (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s25623_ll_h15_ad.png?w=360&h=270" group-title="United States" tvg-id="CMAXP" tvc-guide-stationid="67947",Cinemax (Pacific)
 http://example.local/USA-CMAXP.ts
-#EXTINF:-1 tvg-chno="59948" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC3L.png?w=360&h=270" group-title="United States" tvg-id="CINACHD" tvc-guide-stationid="59948",Cinemax Action
-http://example.local/USA-CINACHD.ts
-#EXTINF:-1 tvg-chno="59950" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC3L.png?w=360&h=270" group-title="United States" tvg-id="CINAHDP" tvc-guide-stationid="59950",Cinemax Action
-http://example.local/USA-CINAHDP.ts
 #EXTINF:-1 tvg-chno="18433" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC1Q.png?w=360&h=270" group-title="United States" tvg-id="CINACT" tvc-guide-stationid="18433",Cinemax Action
 http://example.local/USA-CINACT.ts
-#EXTINF:-1 tvg-chno="18434" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/assets/s18433_h3_aa.png?w=360&h=270" group-title="United States" tvg-id="CINACSP" tvc-guide-stationid="18434",Cinemax Action
+#EXTINF:-1 tvg-chno="18434" tvg-name="Cinemax Action (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s18433_h3_aa.png?w=360&h=270" group-title="United States" tvg-id="CINACSP" tvc-guide-stationid="18434",Cinemax Action (Pacific)
 http://example.local/USA-CINACSP.ts
+#EXTINF:-1 tvg-chno="59948" tvg-name="Cinemax Action HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC3L.png?w=360&h=270" group-title="United States" tvg-id="CINACHD" tvc-guide-stationid="59948",Cinemax Action HD
+http://example.local/USA-CINACHD.ts
+#EXTINF:-1 tvg-chno="59950" tvg-name="Cinemax Action HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC3L.png?w=360&h=270" group-title="United States" tvg-id="CINAHDP" tvc-guide-stationid="59950",Cinemax Action HD (Pacific)
+http://example.local/USA-CINAHDP.ts
 #EXTINF:-1 tvg-chno="25620" tvg-name="Cinemax Classics" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBLL.png?w=360&h=270" group-title="United States" tvg-id="CINECLS" tvc-guide-stationid="25620",Cinemax Classics
 http://example.local/USA-CINECLS.ts
-#EXTINF:-1 tvg-chno="59961" tvg-name="Cinemax Classics" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CS01.png?w=360&h=270" group-title="United States" tvg-id="CINCLHD" tvc-guide-stationid="59961",Cinemax Classics
+#EXTINF:-1 tvg-chno="59961" tvg-name="Cinemax Classics HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CS01.png?w=360&h=270" group-title="United States" tvg-id="CINCLHD" tvc-guide-stationid="59961",Cinemax Classics HD
 http://example.local/USA-CINCLHD.ts
 #EXTINF:-1 tvg-chno="16968" tvg-name="Cinemax en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s16968_ll_h15_aa.png?w=360&h=270" group-title="United States" tvg-id="MAXS" tvc-guide-stationid="16968",Cinemax en Español
 http://example.local/USA-MAXS.ts
@@ -173,12 +161,12 @@ http://example.local/USA-MAXHDP.ts
 http://example.local/USA-MAXHDDM.ts
 #EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s10121_h3_aa.png?w=360&h=270" group-title="United States" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
 http://example.local/USA-CINEHIT.ts
-#EXTINF:-1 tvg-chno="59373" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKC9.png?w=360&h=270" group-title="United States" tvg-id="CINEHHD" tvc-guide-stationid="59373",Cinemax Hits
-http://example.local/USA-CINEHHD.ts
-#EXTINF:-1 tvg-chno="59375" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s59373_h3_ba.png?w=360&h=270" group-title="United States" tvg-id="CINHHDP" tvc-guide-stationid="59375",Cinemax Hits
-http://example.local/USA-CINHHDP.ts
-#EXTINF:-1 tvg-chno="16620" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png?w=360&h=270" group-title="United States" tvg-id="CINEHP" tvc-guide-stationid="16620",Cinemax Hits
+#EXTINF:-1 tvg-chno="16620" tvg-name="Cinemax Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png?w=360&h=270" group-title="United States" tvg-id="CINEHP" tvc-guide-stationid="16620",Cinemax Hits (Pacific)
 http://example.local/USA-CINEHP.ts
+#EXTINF:-1 tvg-chno="59373" tvg-name="Cinemax Hits HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKC9.png?w=360&h=270" group-title="United States" tvg-id="CINEHHD" tvc-guide-stationid="59373",Cinemax Hits HD
+http://example.local/USA-CINEHHD.ts
+#EXTINF:-1 tvg-chno="59375" tvg-name="Cinemax Hits HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s59373_h3_ba.png?w=360&h=270" group-title="United States" tvg-id="CINHHDP" tvc-guide-stationid="59375",Cinemax Hits HD (Pacific)
+http://example.local/USA-CINHHDP.ts
 #EXTINF:-1 tvg-chno="31571" tvg-name="Cinemax On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s46895_ll_h15_ab.png?w=360&h=270" group-title="United States" tvg-id="MAXDM" tvc-guide-stationid="31571",Cinemax On Demand
 http://example.local/USA-MAXDM.ts
 #EXTINF:-1 tvg-chno="25623" tvg-name="Cinemax Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s25623_h3_aa.png?w=360&h=270" group-title="United States" tvg-id="CMAX" tvc-guide-stationid="25623",Cinemax Spanish
@@ -1019,3 +1007,15 @@ http://example.local/USA-WAZCGAS.ts
 http://example.local/USA-WPCBSAT.ts
 #EXTINF:-1 tvg-chno="50240" tvg-name="CornerStoneTV - CRNSBEL" group-title="United States" tvg-id="CRNSBEL" tvc-guide-stationid="50240",CornerStoneTV - CRNSBEL
 http://example.local/USA-CRNSBEL.ts
+#EXTINF:-1 tvg-chno="46824" tvg-name="Cornerstore" tvg-logo="https://zap2it.tmsimg.com/assets/s46824_ll_h6_aa.png?w=360&h=270" group-title="United States" tvg-id="CRNSTRE" tvc-guide-stationid="46824",Cornerstore
+http://example.local/USA-CRNSTRE.ts
+#EXTINF:-1 tvg-chno="68477" tvg-name="Cornerstore Charter Extra MI" group-title="United States" tvg-id="CHAXTMI" tvc-guide-stationid="68477",Cornerstore Charter Extra MI
+http://example.local/USA-CHAXTMI.ts
+#EXTINF:-1 tvg-chno="66028" tvg-name="Cornerstore Charter St. Louis" group-title="United States" tvg-id="CRNSTLO" tvc-guide-stationid="66028",Cornerstore Charter St. Louis
+http://example.local/USA-CRNSTLO.ts
+#EXTINF:-1 tvg-chno="72471" tvg-name="Cornerstore Cox Fredericksburg" tvg-logo="https://zap2it.tmsimg.com/assets/s72471_ll_h15_aa.png?w=360&h=270" group-title="United States" tvg-id="LEASVA" tvc-guide-stationid="72471",Cornerstore Cox Fredericksburg
+http://example.local/USA-LEASVA.ts
+#EXTINF:-1 tvg-chno="76123" tvg-name="Cornerstore Cox Ft. Walton" tvg-logo="https://zap2it.tmsimg.com/assets/s76123_ll_h15_ab.png?w=360&h=270" group-title="United States" tvg-id="CRNCFTW" tvc-guide-stationid="76123",Cornerstore Cox Ft. Walton
+http://example.local/USA-CRNCFTW.ts
+#EXTINF:-1 tvg-chno="76122" tvg-name="Cornerstore Cox Pensacola" tvg-logo="https://zap2it.tmsimg.com/assets/s76122_ll_h15_ab.png?w=360&h=270" group-title="United States" tvg-id="CRNCPEN" tvc-guide-stationid="76122",Cornerstore Cox Pensacola
+http://example.local/USA-CRNCPEN.ts

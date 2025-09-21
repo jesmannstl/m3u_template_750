@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="23672" tvg-name="Community Access - COAC097" group-title="United States" tvg-id="COAC097" tvc-guide-stationid="23672",Community Access - COAC097
-http://example.local/USA-COAC097.ts
-#EXTINF:-1 tvg-chno="23673" tvg-name="Community Access - COAC098" group-title="United States" tvg-id="COAC098" tvc-guide-stationid="23673",Community Access - COAC098
-http://example.local/USA-COAC098.ts
-#EXTINF:-1 tvg-chno="23674" tvg-name="Community Access - COAC099" group-title="United States" tvg-id="COAC099" tvc-guide-stationid="23674",Community Access - COAC099
-http://example.local/USA-COAC099.ts
-#EXTINF:-1 tvg-chno="64765" tvg-name="Community Access - COAC960" group-title="United States" tvg-id="COAC960" tvc-guide-stationid="64765",Community Access - COAC960
-http://example.local/USA-COAC960.ts
-#EXTINF:-1 tvg-chno="64766" tvg-name="Community Access - COAC965" group-title="United States" tvg-id="COAC965" tvc-guide-stationid="64766",Community Access - COAC965
-http://example.local/USA-COAC965.ts
-#EXTINF:-1 tvg-chno="64770" tvg-name="Community Access - COAC980" group-title="United States" tvg-id="COAC980" tvc-guide-stationid="64770",Community Access - COAC980
-http://example.local/USA-COAC980.ts
 #EXTINF:-1 tvg-chno="98924" tvg-name="Community Access 2" group-title="Canada" tvg-id="COAC2" tvc-guide-stationid="98924",Community Access 2
 http://example.local/CAN-COAC2.ts
 #EXTINF:-1 tvg-chno="75756" tvg-name="Community Access 24" group-title="United States" tvg-id="CMACC24" tvc-guide-stationid="75756",Community Access 24
@@ -1019,3 +1007,15 @@ http://example.local/CAN-CKCKDT.ts
 http://example.local/CAN-CFQC.ts
 #EXTINF:-1 tvg-chno="72732" tvg-name="CTV Saskatoon HD (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10108_ll_h15_ab.png?w=360&h=270" group-title="Canada" tvg-id="CFQCDT" tvc-guide-stationid="72732",CTV Saskatoon HD (CTV)
 http://example.local/CAN-CFQCDT.ts
+#EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png?w=360&h=270" group-title="Canada" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
+http://example.local/CAN-SCIFIS.ts
+#EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png?w=360&h=270" group-title="Barbados" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
+http://example.local/BRB-SCIFIS.ts
+#EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png?w=360&h=270" group-title="Saint Vincent and the Grenadines" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
+http://example.local/VCT-SCIFIS.ts
+#EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png?w=360&h=270" group-title="Saint Martin" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
+http://example.local/MAF-SCIFIS.ts
+#EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png?w=360&h=270" group-title="Bermuda" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
+http://example.local/BMU-SCIFIS.ts
+#EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png?w=360&h=270" group-title="Trinidad and Tobago" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
+http://example.local/TTO-SCIFIS.ts

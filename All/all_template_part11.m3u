@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="99936" tvg-name="Bravo Stream" tvg-logo="https://zap2it.tmsimg.com/assets/s10057_ll_h15_ab.png?w=360&h=270" group-title="United States" tvg-id="BRAVSTR" tvc-guide-stationid="99936",Bravo Stream
-http://example.local/USA-BRAVSTR.ts
-#EXTINF:-1 tvg-chno="123195" tvg-name="Bravo TV" group-title="Argentina" tvg-id="BRAVOTV" tvc-guide-stationid="123195",Bravo TV
-http://example.local/ARG-BRAVOTV.ts
-#EXTINF:-1 tvg-chno="138400" tvg-name="Bravo Vault" tvg-logo="https://zap2it.tmsimg.com/assets/s138400_ll_h15_aa.png?w=360&h=270" group-title="United States" tvg-id="BRVVLT" tvc-guide-stationid="138400",Bravo Vault
-http://example.local/USA-BRVVLT.ts
-#EXTINF:-1 tvg-chno="93801" tvg-name="BraZZers Channel" group-title="United States" tvg-id="BRZZPLV" tvc-guide-stationid="93801",BraZZers Channel
-http://example.local/USA-BRZZPLV.ts
-#EXTINF:-1 tvg-chno="95875" tvg-name="Brazzers TV" tvg-logo="https://zap2it.tmsimg.com/assets/s95875_ll_h15_aa.png?w=360&h=270" group-title="United States" tvg-id="BRAZRTV" tvc-guide-stationid="95875",Brazzers TV
-http://example.local/USA-BRAZRTV.ts
-#EXTINF:-1 tvg-chno="97431" tvg-name="Brazzers TV" group-title="United States" tvg-id="BRAZZER" tvc-guide-stationid="97431",Brazzers TV
-http://example.local/USA-BRAZZER.ts
 #EXTINF:-1 tvg-chno="118309" tvg-name="Brazzers TV Europe" group-title="Netherlands" tvg-id="BRAZZEU" tvc-guide-stationid="118309",Brazzers TV Europe
 http://example.local/NLD-BRAZZEU.ts
 #EXTINF:-1 tvg-chno="118309" tvg-name="Brazzers TV Europe" group-title="Poland" tvg-id="BRAZZEU" tvc-guide-stationid="118309",Brazzers TV Europe
@@ -1019,3 +1007,15 @@ http://example.local/CHL-CCLARO.ts
 http://example.local/CHL-CCLARHD.ts
 #EXTINF:-1 tvg-chno="90332" tvg-name="Canal Cocina" tvg-logo="https://zap2it.tmsimg.com/assets/s90332_ll_h15_aa.png?w=360&h=270" group-title="Spain" tvg-id="COCINA" tvc-guide-stationid="90332",Canal Cocina
 http://example.local/ESP-COCINA.ts
+#EXTINF:-1 tvg-chno="90332" tvg-name="Canal Cocina" tvg-logo="https://zap2it.tmsimg.com/assets/s90332_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="COCINA" tvc-guide-stationid="90332",Canal Cocina
+http://example.local/DEU-COCINA.ts
+#EXTINF:-1 tvg-chno="97471" tvg-name="Canal Cocina HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97471_ll_h15_aa.png?w=360&h=270" group-title="Spain" tvg-id="COCINHD" tvc-guide-stationid="97471",Canal Cocina HD
+http://example.local/ESP-COCINHD.ts
+#EXTINF:-1 tvg-chno="65269" tvg-name="Canal Cosmovision TV" tvg-logo="https://zap2it.tmsimg.com/assets/s65269_ll_h15_aa.png?w=360&h=270" group-title="Colombia" tvg-id="CSMOTV" tvc-guide-stationid="65269",Canal Cosmovision TV
+http://example.local/COL-CSMOTV.ts
+#EXTINF:-1 tvg-chno="15682" tvg-name="Canal D" tvg-logo="https://zap2it.tmsimg.com/assets/s15682_ll_h9_aa.png?w=360&h=270" group-title="Canada" tvg-id="CANALD" tvc-guide-stationid="15682",Canal D
+http://example.local/CAN-CANALD.ts
+#EXTINF:-1 tvg-chno="56161" tvg-name="Canal D HD" tvg-logo="https://zap2it.tmsimg.com/assets/s56161_ll_h9_aa.png?w=360&h=270" group-title="Canada" tvg-id="CANDHD" tvc-guide-stationid="56161",Canal D HD
+http://example.local/CAN-CANDHD.ts
+#EXTINF:-1 tvg-chno="91465" tvg-name="Canal D Sur Demande" group-title="Canada" tvg-id="CDSDM" tvc-guide-stationid="91465",Canal D Sur Demande
+http://example.local/CAN-CDSDM.ts

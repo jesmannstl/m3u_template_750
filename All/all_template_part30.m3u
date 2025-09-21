@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="58718" tvg-name="Fox Business HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58718_ll_h15_ac.png?w=360&h=270" group-title="United States" tvg-id="FBNHD" tvc-guide-stationid="58718",Fox Business HD
-http://example.local/USA-FBNHD.ts
-#EXTINF:-1 tvg-chno="58718" tvg-name="Fox Business HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58718_ll_h15_ac.png?w=360&h=270" group-title="Canada" tvg-id="FBNHD" tvc-guide-stationid="58718",Fox Business HD
-http://example.local/CAN-FBNHD.ts
-#EXTINF:-1 tvg-chno="58718" tvg-name="Fox Business HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58718_ll_h15_ac.png?w=360&h=270" group-title="Barbados" tvg-id="FBNHD" tvc-guide-stationid="58718",Fox Business HD
-http://example.local/BRB-FBNHD.ts
-#EXTINF:-1 tvg-chno="58718" tvg-name="Fox Business HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58718_ll_h15_ac.png?w=360&h=270" group-title="Cayman Islands" tvg-id="FBNHD" tvc-guide-stationid="58718",Fox Business HD
-http://example.local/CYM-FBNHD.ts
-#EXTINF:-1 tvg-chno="58718" tvg-name="Fox Business HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58718_ll_h15_ac.png?w=360&h=270" group-title="Bermuda" tvg-id="FBNHD" tvc-guide-stationid="58718",Fox Business HD
-http://example.local/BMU-FBNHD.ts
-#EXTINF:-1 tvg-chno="58718" tvg-name="Fox Business HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58718_ll_h15_ac.png?w=360&h=270" group-title="Trinidad and Tobago" tvg-id="FBNHD" tvc-guide-stationid="58718",Fox Business HD
-http://example.local/TTO-FBNHD.ts
 #EXTINF:-1 tvg-chno="58718" tvg-name="Fox Business HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58718_ll_h15_ac.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="FBNHD" tvc-guide-stationid="58718",Fox Business HD
 http://example.local/BES-FBNHD.ts
 #EXTINF:-1 tvg-chno="58718" tvg-name="Fox Business HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58718_ll_h15_ac.png?w=360&h=270" group-title="Curacao" tvg-id="FBNHD" tvc-guide-stationid="58718",Fox Business HD
@@ -1019,3 +1007,15 @@ http://example.local/DEU-VFRAD56.ts
 http://example.local/FRA-FRMUSI.ts
 #EXTINF:-1 tvg-chno="107097" tvg-name="France Musique" tvg-logo="https://zap2it.tmsimg.com/assets/s107097_ll_h15_ac.png?w=360&h=270" group-title="Germany" tvg-id="FRMUSI" tvc-guide-stationid="107097",France Musique
 http://example.local/DEU-FRMUSI.ts
+#EXTINF:-1 tvg-chno="124537" tvg-name="franceinfo" group-title="Germany" tvg-id="VFRAD109" tvc-guide-stationid="124537",franceinfo
+http://example.local/DEU-VFRAD109.ts
+#EXTINF:-1 tvg-chno="106817" tvg-name="Franceinfo HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106817_ll_h9_aa.png?w=360&h=270" group-title="Switzerland" tvg-id="FRINFOH" tvc-guide-stationid="106817",Franceinfo HD
+http://example.local/CHE-FRINFOH.ts
+#EXTINF:-1 tvg-chno="106817" tvg-name="Franceinfo HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106817_ll_h9_aa.png?w=360&h=270" group-title="France" tvg-id="FRINFOH" tvc-guide-stationid="106817",Franceinfo HD
+http://example.local/FRA-FRINFOH.ts
+#EXTINF:-1 tvg-chno="83589" tvg-name="Franken Fernsehen" tvg-logo="https://zap2it.tmsimg.com/assets/s83589_ll_h15_ab.png?w=360&h=270" group-title="Spain" tvg-id="FRFERN" tvc-guide-stationid="83589",Franken Fernsehen
+http://example.local/ESP-FRFERN.ts
+#EXTINF:-1 tvg-chno="83589" tvg-name="Franken Fernsehen" tvg-logo="https://zap2it.tmsimg.com/assets/s83589_ll_h15_ab.png?w=360&h=270" group-title="Austria" tvg-id="FRFERN" tvc-guide-stationid="83589",Franken Fernsehen
+http://example.local/AUT-FRFERN.ts
+#EXTINF:-1 tvg-chno="83589" tvg-name="Franken Fernsehen" tvg-logo="https://zap2it.tmsimg.com/assets/s83589_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="FRFERN" tvc-guide-stationid="83589",Franken Fernsehen
+http://example.local/DEU-FRFERN.ts

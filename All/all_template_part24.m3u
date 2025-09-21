@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="64230" tvg-name="DW en español" tvg-logo="https://zap2it.tmsimg.com/assets/s64230_ll_h15_ag.png?w=360&h=270" group-title="Venezuela" tvg-id="DWLA" tvc-guide-stationid="64230",DW en español
-http://example.local/VEN-DWLA.ts
-#EXTINF:-1 tvg-chno="64230" tvg-name="DW en español" tvg-logo="https://zap2it.tmsimg.com/assets/s64230_ll_h15_ag.png?w=360&h=270" group-title="Jamaica" tvg-id="DWLA" tvc-guide-stationid="64230",DW en español
-http://example.local/JAM-DWLA.ts
-#EXTINF:-1 tvg-chno="64230" tvg-name="DW en español" tvg-logo="https://zap2it.tmsimg.com/assets/s64230_ll_h15_ag.png?w=360&h=270" group-title="Colombia" tvg-id="DWLA" tvc-guide-stationid="64230",DW en español
-http://example.local/COL-DWLA.ts
-#EXTINF:-1 tvg-chno="64230" tvg-name="DW en español" tvg-logo="https://zap2it.tmsimg.com/assets/s64230_ll_h15_ag.png?w=360&h=270" group-title="Dominican Republic" tvg-id="DWLA" tvc-guide-stationid="64230",DW en español
-http://example.local/DOM-DWLA.ts
-#EXTINF:-1 tvg-chno="64230" tvg-name="DW en español" tvg-logo="https://zap2it.tmsimg.com/assets/s64230_ll_h15_ag.png?w=360&h=270" group-title="Costa Rica" tvg-id="DWLA" tvc-guide-stationid="64230",DW en español
-http://example.local/CRI-DWLA.ts
-#EXTINF:-1 tvg-chno="64230" tvg-name="DW en español" tvg-logo="https://zap2it.tmsimg.com/assets/s64230_ll_h15_ag.png?w=360&h=270" group-title="Saint Vincent and the Grenadines" tvg-id="DWLA" tvc-guide-stationid="64230",DW en español
-http://example.local/VCT-DWLA.ts
 #EXTINF:-1 tvg-chno="64230" tvg-name="DW en español" tvg-logo="https://zap2it.tmsimg.com/assets/s64230_ll_h15_ag.png?w=360&h=270" group-title="Chile" tvg-id="DWLA" tvc-guide-stationid="64230",DW en español
 http://example.local/CHL-DWLA.ts
 #EXTINF:-1 tvg-chno="64230" tvg-name="DW en español" tvg-logo="https://zap2it.tmsimg.com/assets/s64230_ll_h15_ag.png?w=360&h=270" group-title="Panama" tvg-id="DWLA" tvc-guide-stationid="64230",DW en español
@@ -1019,3 +1007,15 @@ http://example.local/FIN-ENGCLHD.ts
 http://example.local/USA-BPLET.ts
 #EXTINF:-1 tvg-chno="93683" tvg-name="English Premiere League Soccer" group-title="United States" tvg-id="ENGPL" tvc-guide-stationid="93683",English Premiere League Soccer
 http://example.local/USA-ENGPL.ts
+#EXTINF:-1 tvg-chno="30174" tvg-name="Enlace" tvg-logo="https://zap2it.tmsimg.com/assets/s30174_ll_h15_ab.png?w=360&h=270" group-title="United States" tvg-id="ENLCE" tvc-guide-stationid="30174",Enlace
+http://example.local/USA-ENLCE.ts
+#EXTINF:-1 tvg-chno="111555" tvg-name="Enlace" tvg-logo="https://zap2it.tmsimg.com/assets/s20286_ll_h15_ab.png?w=360&h=270" group-title="Chile" tvg-id="ENLSTGO" tvc-guide-stationid="111555",Enlace
+http://example.local/CHL-ENLSTGO.ts
+#EXTINF:-1 tvg-chno="30174" tvg-name="Enlace" tvg-logo="https://zap2it.tmsimg.com/assets/s30174_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="ENLCE" tvc-guide-stationid="30174",Enlace
+http://example.local/CYM-ENLCE.ts
+#EXTINF:-1 tvg-chno="30174" tvg-name="Enlace" tvg-logo="https://zap2it.tmsimg.com/assets/s30174_ll_h15_ab.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="ENLCE" tvc-guide-stationid="30174",Enlace
+http://example.local/BES-ENLCE.ts
+#EXTINF:-1 tvg-chno="49258" tvg-name="Enlace Juvenil" tvg-logo="https://zap2it.tmsimg.com/assets/s49258_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="ENLACJ" tvc-guide-stationid="49258",Enlace Juvenil
+http://example.local/MEX-ENLACJ.ts
+#EXTINF:-1 tvg-chno="49258" tvg-name="Enlace Juvenil" tvg-logo="https://zap2it.tmsimg.com/assets/s49258_ll_h15_aa.png?w=360&h=270" group-title="Peru" tvg-id="ENLACJ" tvc-guide-stationid="49258",Enlace Juvenil
+http://example.local/PER-ENLACJ.ts

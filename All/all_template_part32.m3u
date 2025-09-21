@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="53701" tvg-name="GAME 11" tvg-logo="https://zap2it.tmsimg.com/assets/s53701_ll_h15_ad.png?w=360&h=270" group-title="Curacao" tvg-id="GME11" tvc-guide-stationid="53701",GAME 11
-http://example.local/CUW-GME11.ts
-#EXTINF:-1 tvg-chno="58739" tvg-name="Game 11 MLB Only" group-title="Curacao" tvg-id="GM11MLB" tvc-guide-stationid="58739",Game 11 MLB Only
-http://example.local/CUW-GM11MLB.ts
-#EXTINF:-1 tvg-chno="53704" tvg-name="GAME 12" tvg-logo="https://zap2it.tmsimg.com/assets/s53704_ll_h15_ad.png?w=360&h=270" group-title="United States" tvg-id="GME12" tvc-guide-stationid="53704",GAME 12
-http://example.local/USA-GME12.ts
-#EXTINF:-1 tvg-chno="53704" tvg-name="GAME 12" tvg-logo="https://zap2it.tmsimg.com/assets/s53704_ll_h15_ad.png?w=360&h=270" group-title="Canada" tvg-id="GME12" tvc-guide-stationid="53704",GAME 12
-http://example.local/CAN-GME12.ts
-#EXTINF:-1 tvg-chno="53704" tvg-name="GAME 12" tvg-logo="https://zap2it.tmsimg.com/assets/s53704_ll_h15_ad.png?w=360&h=270" group-title="Jamaica" tvg-id="GME12" tvc-guide-stationid="53704",GAME 12
-http://example.local/JAM-GME12.ts
-#EXTINF:-1 tvg-chno="53704" tvg-name="GAME 12" tvg-logo="https://zap2it.tmsimg.com/assets/s53704_ll_h15_ad.png?w=360&h=270" group-title="Bermuda" tvg-id="GME12" tvc-guide-stationid="53704",GAME 12
-http://example.local/BMU-GME12.ts
 #EXTINF:-1 tvg-chno="53704" tvg-name="GAME 12" tvg-logo="https://zap2it.tmsimg.com/assets/s53704_ll_h15_ad.png?w=360&h=270" group-title="Trinidad and Tobago" tvg-id="GME12" tvc-guide-stationid="53704",GAME 12
 http://example.local/TTO-GME12.ts
 #EXTINF:-1 tvg-chno="53704" tvg-name="GAME 12" tvg-logo="https://zap2it.tmsimg.com/assets/s53704_ll_h15_ad.png?w=360&h=270" group-title="Bahamas" tvg-id="GME12" tvc-guide-stationid="53704",GAME 12
@@ -1019,3 +1007,15 @@ http://example.local/USA-GMANEWS.ts
 http://example.local/CAN-GMANEWS.ts
 #EXTINF:-1 tvg-chno="114405" tvg-name="GMA News TV Charter" group-title="United States" tvg-id="CHGMANW" tvc-guide-stationid="114405",GMA News TV Charter
 http://example.local/USA-CHGMANW.ts
+#EXTINF:-1 tvg-chno="46463" tvg-name="GMA Pinoy TV" tvg-logo="https://zap2it.tmsimg.com/assets/s46463_ll_h9_aa.png?w=360&h=270" group-title="United States" tvg-id="GMAPNY" tvc-guide-stationid="46463",GMA Pinoy TV
+http://example.local/USA-GMAPNY.ts
+#EXTINF:-1 tvg-chno="46463" tvg-name="GMA Pinoy TV" tvg-logo="https://zap2it.tmsimg.com/assets/s46463_ll_h9_aa.png?w=360&h=270" group-title="Canada" tvg-id="GMAPNY" tvc-guide-stationid="46463",GMA Pinoy TV
+http://example.local/CAN-GMAPNY.ts
+#EXTINF:-1 tvg-chno="48751" tvg-name="GMA PINOY TV 2" group-title="United States" tvg-id="GMAPNY2" tvc-guide-stationid="48751",GMA PINOY TV 2
+http://example.local/USA-GMAPNY2.ts
+#EXTINF:-1 tvg-chno="100699" tvg-name="GMA Pinoy TV East" tvg-logo="https://zap2it.tmsimg.com/assets/s46463_h3_ba.png?w=360&h=270" group-title="United States" tvg-id="GMAPNYE" tvc-guide-stationid="100699",GMA Pinoy TV East
+http://example.local/USA-GMAPNYE.ts
+#EXTINF:-1 tvg-chno="108485" tvg-name="GMU" tvg-logo="https://zap2it.tmsimg.com/assets/s108485_ll_h15_aa.png?w=360&h=270" group-title="United States" tvg-id="GMUHD" tvc-guide-stationid="108485",GMU
+http://example.local/USA-GMUHD.ts
+#EXTINF:-1 tvg-chno="40131" tvg-name="GNT" tvg-logo="https://zap2it.tmsimg.com/assets/s40131_ll_h15_ac.png?w=360&h=270" group-title="United States" tvg-id="GNT" tvc-guide-stationid="40131",GNT
+http://example.local/USA-GNT.ts

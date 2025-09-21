@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="46463" tvg-name="GMA Pinoy TV" tvg-logo="https://zap2it.tmsimg.com/assets/s46463_ll_h9_aa.png?w=360&h=270" group-title="United States" tvg-id="GMAPNY" tvc-guide-stationid="46463",GMA Pinoy TV
-http://example.local/USA-GMAPNY.ts
-#EXTINF:-1 tvg-chno="46463" tvg-name="GMA Pinoy TV" tvg-logo="https://zap2it.tmsimg.com/assets/s46463_ll_h9_aa.png?w=360&h=270" group-title="Canada" tvg-id="GMAPNY" tvc-guide-stationid="46463",GMA Pinoy TV
-http://example.local/CAN-GMAPNY.ts
-#EXTINF:-1 tvg-chno="48751" tvg-name="GMA PINOY TV 2" group-title="United States" tvg-id="GMAPNY2" tvc-guide-stationid="48751",GMA PINOY TV 2
-http://example.local/USA-GMAPNY2.ts
-#EXTINF:-1 tvg-chno="100699" tvg-name="GMA Pinoy TV East" tvg-logo="https://zap2it.tmsimg.com/assets/s46463_h3_ba.png?w=360&h=270" group-title="United States" tvg-id="GMAPNYE" tvc-guide-stationid="100699",GMA Pinoy TV East
-http://example.local/USA-GMAPNYE.ts
-#EXTINF:-1 tvg-chno="108485" tvg-name="GMU" tvg-logo="https://zap2it.tmsimg.com/assets/s108485_ll_h15_aa.png?w=360&h=270" group-title="United States" tvg-id="GMUHD" tvc-guide-stationid="108485",GMU
-http://example.local/USA-GMUHD.ts
-#EXTINF:-1 tvg-chno="40131" tvg-name="GNT" tvg-logo="https://zap2it.tmsimg.com/assets/s40131_ll_h15_ac.png?w=360&h=270" group-title="United States" tvg-id="GNT" tvc-guide-stationid="40131",GNT
-http://example.local/USA-GNT.ts
 #EXTINF:-1 tvg-chno="40131" tvg-name="GNT" tvg-logo="https://zap2it.tmsimg.com/assets/s40131_ll_h15_ac.png?w=360&h=270" group-title="Brazil" tvg-id="GNT" tvc-guide-stationid="40131",GNT
 http://example.local/BRA-GNT.ts
 #EXTINF:-1 tvg-chno="79019" tvg-name="GNT HD" tvg-logo="https://zap2it.tmsimg.com/assets/s79019_ll_h15_ac.png?w=360&h=270" group-title="Brazil" tvg-id="GNTHD" tvc-guide-stationid="79019",GNT HD
@@ -1019,3 +1007,15 @@ http://example.local/NLD-GRTMAP1.ts
 http://example.local/GBR-GRTMAP1.ts
 #EXTINF:-1 tvg-chno="59406" tvg-name="Great! Action +1" tvg-logo="https://zap2it.tmsimg.com/assets/s59406_ll_h9_ac.png?w=360&h=270" group-title="Belgium" tvg-id="GRTMAP1" tvc-guide-stationid="59406",Great! Action +1
 http://example.local/BEL-GRTMAP1.ts
+#EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png?w=360&h=270" group-title="Netherlands" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
+http://example.local/NLD-GRETMYS.ts
+#EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png?w=360&h=270" group-title="United Kingdom" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
+http://example.local/GBR-GRETMYS.ts
+#EXTINF:-1 tvg-chno="176390" tvg-name="GREAT! Mystery" group-title="United Kingdom" tvg-id="GREATMY" tvc-guide-stationid="176390",GREAT! Mystery
+http://example.local/GBR-GREATMY.ts
+#EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png?w=360&h=270" group-title="Switzerland" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
+http://example.local/CHE-GRETMYS.ts
+#EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png?w=360&h=270" group-title="Ireland" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
+http://example.local/IRL-GRETMYS.ts
+#EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png?w=360&h=270" group-title="Belgium" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
+http://example.local/BEL-GRETMYS.ts

@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="30174" tvg-name="Enlace" tvg-logo="https://zap2it.tmsimg.com/assets/s30174_ll_h15_ab.png?w=360&h=270" group-title="United States" tvg-id="ENLCE" tvc-guide-stationid="30174",Enlace
-http://example.local/USA-ENLCE.ts
-#EXTINF:-1 tvg-chno="111555" tvg-name="Enlace" tvg-logo="https://zap2it.tmsimg.com/assets/s20286_ll_h15_ab.png?w=360&h=270" group-title="Chile" tvg-id="ENLSTGO" tvc-guide-stationid="111555",Enlace
-http://example.local/CHL-ENLSTGO.ts
-#EXTINF:-1 tvg-chno="30174" tvg-name="Enlace" tvg-logo="https://zap2it.tmsimg.com/assets/s30174_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="ENLCE" tvc-guide-stationid="30174",Enlace
-http://example.local/CYM-ENLCE.ts
-#EXTINF:-1 tvg-chno="30174" tvg-name="Enlace" tvg-logo="https://zap2it.tmsimg.com/assets/s30174_ll_h15_ab.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="ENLCE" tvc-guide-stationid="30174",Enlace
-http://example.local/BES-ENLCE.ts
-#EXTINF:-1 tvg-chno="49258" tvg-name="Enlace Juvenil" tvg-logo="https://zap2it.tmsimg.com/assets/s49258_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="ENLACJ" tvc-guide-stationid="49258",Enlace Juvenil
-http://example.local/MEX-ENLACJ.ts
-#EXTINF:-1 tvg-chno="49258" tvg-name="Enlace Juvenil" tvg-logo="https://zap2it.tmsimg.com/assets/s49258_ll_h15_aa.png?w=360&h=270" group-title="Peru" tvg-id="ENLACJ" tvc-guide-stationid="49258",Enlace Juvenil
-http://example.local/PER-ENLACJ.ts
 #EXTINF:-1 tvg-chno="49258" tvg-name="Enlace Juvenil" tvg-logo="https://zap2it.tmsimg.com/assets/s49258_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="ENLACJ" tvc-guide-stationid="49258",Enlace Juvenil
 http://example.local/ARG-ENLACJ.ts
 #EXTINF:-1 tvg-chno="49258" tvg-name="Enlace Juvenil" tvg-logo="https://zap2it.tmsimg.com/assets/s49258_ll_h15_aa.png?w=360&h=270" group-title="Colombia" tvg-id="ENLACJ" tvc-guide-stationid="49258",Enlace Juvenil
@@ -1019,3 +1007,15 @@ http://example.local/VCT-ESPNIC.ts
 http://example.local/CYM-ESPNICH.ts
 #EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" group-title="Cayman Islands" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
 http://example.local/CYM-ESPNIC.ts
+#EXTINF:-1 tvg-chno="78764" tvg-name="ESPN Caribbean" group-title="Bermuda" tvg-id="ESPNICH" tvc-guide-stationid="78764",ESPN Caribbean
+http://example.local/BMU-ESPNICH.ts
+#EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" group-title="Bermuda" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
+http://example.local/BMU-ESPNIC.ts
+#EXTINF:-1 tvg-chno="78764" tvg-name="ESPN Caribbean" group-title="Trinidad and Tobago" tvg-id="ESPNICH" tvc-guide-stationid="78764",ESPN Caribbean
+http://example.local/TTO-ESPNICH.ts
+#EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" group-title="Trinidad and Tobago" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
+http://example.local/TTO-ESPNIC.ts
+#EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" group-title="Aruba" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
+http://example.local/ABW-ESPNIC.ts
+#EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" group-title="British Virgin Islands" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
+http://example.local/VGB-ESPNIC.ts

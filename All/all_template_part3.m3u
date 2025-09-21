@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="23778" tvg-name="Ad Channel (Static) - ADCH002" group-title="United States" tvg-id="ADCH002" tvc-guide-stationid="23778",Ad Channel (Static) - ADCH002
-http://example.local/USA-ADCH002.ts
-#EXTINF:-1 tvg-chno="23779" tvg-name="Ad Channel (Static) - ADCH003" group-title="United States" tvg-id="ADCH003" tvc-guide-stationid="23779",Ad Channel (Static) - ADCH003
-http://example.local/USA-ADCH003.ts
-#EXTINF:-1 tvg-chno="23780" tvg-name="Ad Channel (Static) - ADCH004" group-title="United States" tvg-id="ADCH004" tvc-guide-stationid="23780",Ad Channel (Static) - ADCH004
-http://example.local/USA-ADCH004.ts
-#EXTINF:-1 tvg-chno="23782" tvg-name="Ad Channel (Static) - ADCH006" group-title="United States" tvg-id="ADCH006" tvc-guide-stationid="23782",Ad Channel (Static) - ADCH006
-http://example.local/USA-ADCH006.ts
-#EXTINF:-1 tvg-chno="23783" tvg-name="Ad Channel (Static) - ADCH007" group-title="United States" tvg-id="ADCH007" tvc-guide-stationid="23783",Ad Channel (Static) - ADCH007
-http://example.local/USA-ADCH007.ts
-#EXTINF:-1 tvg-chno="23784" tvg-name="Ad Channel (Static) - ADCH008" group-title="United States" tvg-id="ADCH008" tvc-guide-stationid="23784",Ad Channel (Static) - ADCH008
-http://example.local/USA-ADCH008.ts
 #EXTINF:-1 tvg-chno="23786" tvg-name="Ad Channel (Static) - ADCH010" group-title="United States" tvg-id="ADCH010" tvc-guide-stationid="23786",Ad Channel (Static) - ADCH010
 http://example.local/USA-ADCH010.ts
 #EXTINF:-1 tvg-chno="23787" tvg-name="Ad Channel (Static) - ADCH011" group-title="United States" tvg-id="ADCH011" tvc-guide-stationid="23787",Ad Channel (Static) - ADCH011
@@ -1019,3 +1007,15 @@ http://example.local/MEX-AMCMXHD.ts
 http://example.local/MEX-AMCAND.ts
 #EXTINF:-1 tvg-chno="10021" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s10021_ll_h15_ab.png?w=360&h=270" group-title="United States" tvg-id="AMC" tvc-guide-stationid="10021",AMC
 http://example.local/USA-AMC.ts
+#EXTINF:-1 tvg-chno="104959" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png?w=360&h=270" group-title="United States" tvg-id="AMCHSPE" tvc-guide-stationid="104959",AMC
+http://example.local/USA-AMCHSPE.ts
+#EXTINF:-1 tvg-chno="47068" tvg-name="AMC" group-title="United States" tvg-id="GAMC2WD" tvc-guide-stationid="47068",AMC
+http://example.local/USA-GAMC2WD.ts
+#EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png?w=360&h=270" group-title="Peru" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
+http://example.local/PER-AMCMXHD.ts
+#EXTINF:-1 tvg-chno="100431" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png?w=360&h=270" group-title="Peru" tvg-id="AMCANSD" tvc-guide-stationid="100431",AMC
+http://example.local/PER-AMCANSD.ts
+#EXTINF:-1 tvg-chno="91817" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png?w=360&h=270" group-title="Peru" tvg-id="AMCAND" tvc-guide-stationid="91817",AMC
+http://example.local/PER-AMCAND.ts
+#EXTINF:-1 tvg-chno="90653" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png?w=360&h=270" group-title="Peru" tvg-id="AMCMEX" tvc-guide-stationid="90653",AMC
+http://example.local/PER-AMCMEX.ts

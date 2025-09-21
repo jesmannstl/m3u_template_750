@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="124537" tvg-name="franceinfo" group-title="Germany" tvg-id="VFRAD109" tvc-guide-stationid="124537",franceinfo
-http://example.local/DEU-VFRAD109.ts
-#EXTINF:-1 tvg-chno="106817" tvg-name="Franceinfo HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106817_ll_h9_aa.png?w=360&h=270" group-title="Switzerland" tvg-id="FRINFOH" tvc-guide-stationid="106817",Franceinfo HD
-http://example.local/CHE-FRINFOH.ts
-#EXTINF:-1 tvg-chno="106817" tvg-name="Franceinfo HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106817_ll_h9_aa.png?w=360&h=270" group-title="France" tvg-id="FRINFOH" tvc-guide-stationid="106817",Franceinfo HD
-http://example.local/FRA-FRINFOH.ts
-#EXTINF:-1 tvg-chno="83589" tvg-name="Franken Fernsehen" tvg-logo="https://zap2it.tmsimg.com/assets/s83589_ll_h15_ab.png?w=360&h=270" group-title="Spain" tvg-id="FRFERN" tvc-guide-stationid="83589",Franken Fernsehen
-http://example.local/ESP-FRFERN.ts
-#EXTINF:-1 tvg-chno="83589" tvg-name="Franken Fernsehen" tvg-logo="https://zap2it.tmsimg.com/assets/s83589_ll_h15_ab.png?w=360&h=270" group-title="Austria" tvg-id="FRFERN" tvc-guide-stationid="83589",Franken Fernsehen
-http://example.local/AUT-FRFERN.ts
-#EXTINF:-1 tvg-chno="83589" tvg-name="Franken Fernsehen" tvg-logo="https://zap2it.tmsimg.com/assets/s83589_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="FRFERN" tvc-guide-stationid="83589",Franken Fernsehen
-http://example.local/DEU-FRFERN.ts
 #EXTINF:-1 tvg-chno="102984" tvg-name="Franken Fernsehen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102984_ll_h15_aa.png?w=360&h=270" group-title="Netherlands" tvg-id="FRFERHD" tvc-guide-stationid="102984",Franken Fernsehen HD
 http://example.local/NLD-FRFERHD.ts
 #EXTINF:-1 tvg-chno="102984" tvg-name="Franken Fernsehen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102984_ll_h15_aa.png?w=360&h=270" group-title="Italy" tvg-id="FRFERHD" tvc-guide-stationid="102984",Franken Fernsehen HD
@@ -1019,3 +1007,15 @@ http://example.local/BMU-GME11.ts
 http://example.local/TTO-GME11.ts
 #EXTINF:-1 tvg-chno="53701" tvg-name="GAME 11" tvg-logo="https://zap2it.tmsimg.com/assets/s53701_ll_h15_ad.png?w=360&h=270" group-title="Bahamas" tvg-id="GME11" tvc-guide-stationid="53701",GAME 11
 http://example.local/BHS-GME11.ts
+#EXTINF:-1 tvg-chno="53701" tvg-name="GAME 11" tvg-logo="https://zap2it.tmsimg.com/assets/s53701_ll_h15_ad.png?w=360&h=270" group-title="Curacao" tvg-id="GME11" tvc-guide-stationid="53701",GAME 11
+http://example.local/CUW-GME11.ts
+#EXTINF:-1 tvg-chno="58739" tvg-name="Game 11 MLB Only" group-title="Curacao" tvg-id="GM11MLB" tvc-guide-stationid="58739",Game 11 MLB Only
+http://example.local/CUW-GM11MLB.ts
+#EXTINF:-1 tvg-chno="53704" tvg-name="GAME 12" tvg-logo="https://zap2it.tmsimg.com/assets/s53704_ll_h15_ad.png?w=360&h=270" group-title="United States" tvg-id="GME12" tvc-guide-stationid="53704",GAME 12
+http://example.local/USA-GME12.ts
+#EXTINF:-1 tvg-chno="53704" tvg-name="GAME 12" tvg-logo="https://zap2it.tmsimg.com/assets/s53704_ll_h15_ad.png?w=360&h=270" group-title="Canada" tvg-id="GME12" tvc-guide-stationid="53704",GAME 12
+http://example.local/CAN-GME12.ts
+#EXTINF:-1 tvg-chno="53704" tvg-name="GAME 12" tvg-logo="https://zap2it.tmsimg.com/assets/s53704_ll_h15_ad.png?w=360&h=270" group-title="Jamaica" tvg-id="GME12" tvc-guide-stationid="53704",GAME 12
+http://example.local/JAM-GME12.ts
+#EXTINF:-1 tvg-chno="53704" tvg-name="GAME 12" tvg-logo="https://zap2it.tmsimg.com/assets/s53704_ll_h15_ad.png?w=360&h=270" group-title="Bermuda" tvg-id="GME12" tvc-guide-stationid="53704",GAME 12
+http://example.local/BMU-GME12.ts

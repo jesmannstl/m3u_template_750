@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png?w=360&h=270" group-title="Canada" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
-http://example.local/CAN-SCIFIS.ts
-#EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png?w=360&h=270" group-title="Barbados" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
-http://example.local/BRB-SCIFIS.ts
-#EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png?w=360&h=270" group-title="Saint Vincent and the Grenadines" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
-http://example.local/VCT-SCIFIS.ts
-#EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png?w=360&h=270" group-title="Saint Martin" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
-http://example.local/MAF-SCIFIS.ts
-#EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png?w=360&h=270" group-title="Bermuda" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
-http://example.local/BMU-SCIFIS.ts
-#EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png?w=360&h=270" group-title="Trinidad and Tobago" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
-http://example.local/TTO-SCIFIS.ts
 #EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png?w=360&h=270" group-title="Aruba" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
 http://example.local/ABW-SCIFIS.ts
 #EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png?w=360&h=270" group-title="St. Lucia" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
@@ -1019,3 +1007,15 @@ http://example.local/ARG-DDWLAE.ts
 http://example.local/TTO-DDWLAE.ts
 #EXTINF:-1 tvg-chno="86894" tvg-name="Deutsche Welle TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86894_h3_ba.png?w=360&h=270" group-title="Switzerland" tvg-id="DEUWELL" tvc-guide-stationid="86894",Deutsche Welle TV
 http://example.local/CHE-DEUWELL.ts
+#EXTINF:-1 tvg-chno="160694" tvg-name="Deutscher Bundestag HD" tvg-logo="https://zap2it.tmsimg.com/assets/s160694_ll_h15_aa.png?w=360&h=270" group-title="Switzerland" tvg-id="BUNTAGHD" tvc-guide-stationid="160694",Deutscher Bundestag HD
+http://example.local/CHE-BUNTAGHD.ts
+#EXTINF:-1 tvg-chno="106074" tvg-name="Deutschlandfunk" tvg-logo="https://zap2it.tmsimg.com/assets/s106074_ll_h15_ab.png?w=360&h=270" group-title="Austria" tvg-id="DEFUNK" tvc-guide-stationid="106074",Deutschlandfunk
+http://example.local/AUT-DEFUNK.ts
+#EXTINF:-1 tvg-chno="106074" tvg-name="Deutschlandfunk" tvg-logo="https://zap2it.tmsimg.com/assets/s106074_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="DEFUNK" tvc-guide-stationid="106074",Deutschlandfunk
+http://example.local/DEU-DEFUNK.ts
+#EXTINF:-1 tvg-chno="101532" tvg-name="Deutschlandfunk Kultur" tvg-logo="https://zap2it.tmsimg.com/assets/s101532_ll_h15_ab.png?w=360&h=270" group-title="Austria" tvg-id="DKULTUR" tvc-guide-stationid="101532",Deutschlandfunk Kultur
+http://example.local/AUT-DKULTUR.ts
+#EXTINF:-1 tvg-chno="101532" tvg-name="Deutschlandfunk Kultur" tvg-logo="https://zap2it.tmsimg.com/assets/s101532_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="DKULTUR" tvc-guide-stationid="101532",Deutschlandfunk Kultur
+http://example.local/DEU-DKULTUR.ts
+#EXTINF:-1 tvg-chno="101533" tvg-name="Deutschlandfunk Nova" tvg-logo="https://zap2it.tmsimg.com/assets/s101533_ll_h15_ab.png?w=360&h=270" group-title="Austria" tvg-id="DWISSEN" tvc-guide-stationid="101533",Deutschlandfunk Nova
+http://example.local/AUT-DWISSEN.ts

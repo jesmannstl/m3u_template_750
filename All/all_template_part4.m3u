@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="104959" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png?w=360&h=270" group-title="United States" tvg-id="AMCHSPE" tvc-guide-stationid="104959",AMC
-http://example.local/USA-AMCHSPE.ts
-#EXTINF:-1 tvg-chno="47068" tvg-name="AMC" group-title="United States" tvg-id="GAMC2WD" tvc-guide-stationid="47068",AMC
-http://example.local/USA-GAMC2WD.ts
-#EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png?w=360&h=270" group-title="Peru" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
-http://example.local/PER-AMCMXHD.ts
-#EXTINF:-1 tvg-chno="100431" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png?w=360&h=270" group-title="Peru" tvg-id="AMCANSD" tvc-guide-stationid="100431",AMC
-http://example.local/PER-AMCANSD.ts
-#EXTINF:-1 tvg-chno="91817" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png?w=360&h=270" group-title="Peru" tvg-id="AMCAND" tvc-guide-stationid="91817",AMC
-http://example.local/PER-AMCAND.ts
-#EXTINF:-1 tvg-chno="90653" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png?w=360&h=270" group-title="Peru" tvg-id="AMCMEX" tvc-guide-stationid="90653",AMC
-http://example.local/PER-AMCMEX.ts
 #EXTINF:-1 tvg-chno="90653" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png?w=360&h=270" group-title="Guatemala" tvg-id="AMCMEX" tvc-guide-stationid="90653",AMC
 http://example.local/GTM-AMCMEX.ts
 #EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png?w=360&h=270" group-title="Guatemala" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
@@ -1019,3 +1007,15 @@ http://example.local/USA-ARBMU.ts
 http://example.local/ESP-ARAGON.ts
 #EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png?w=360&h=270" group-title="Italy" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
 http://example.local/ITA-ARAGON.ts
+#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png?w=360&h=270" group-title="United Kingdom" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
+http://example.local/GBR-ARAGON.ts
+#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png?w=360&h=270" group-title="Switzerland" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
+http://example.local/CHE-ARAGON.ts
+#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png?w=360&h=270" group-title="Austria" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
+http://example.local/AUT-ARAGON.ts
+#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png?w=360&h=270" group-title="Germany" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
+http://example.local/DEU-ARAGON.ts
+#EXTINF:-1 tvg-chno="118662" tvg-name="Aragon TV HD" group-title="Switzerland" tvg-id="ARAGHD" tvc-guide-stationid="118662",Aragon TV HD
+http://example.local/CHE-ARAGHD.ts
+#EXTINF:-1 tvg-chno="101225" tvg-name="Arcadia TV Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s101225_ll_h9_aa.png?w=360&h=270" group-title="Austria" tvg-id="ARCTV" tvc-guide-stationid="101225",Arcadia TV Austria
+http://example.local/AUT-ARCTV.ts

@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="25630" tvg-name="Film4 +1" tvg-logo="https://zap2it.tmsimg.com/assets/s25630_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="FILM41" tvc-guide-stationid="25630",Film4 +1
-http://example.local/DEU-FILM41.ts
-#EXTINF:-1 tvg-chno="25630" tvg-name="Film4 +1" tvg-logo="https://zap2it.tmsimg.com/assets/s25630_ll_h15_ab.png?w=360&h=270" group-title="Ireland" tvg-id="FILM41" tvc-guide-stationid="25630",Film4 +1
-http://example.local/IRL-FILM41.ts
-#EXTINF:-1 tvg-chno="25630" tvg-name="Film4 +1" tvg-logo="https://zap2it.tmsimg.com/assets/s25630_ll_h15_ab.png?w=360&h=270" group-title="Belgium" tvg-id="FILM41" tvc-guide-stationid="25630",Film4 +1
-http://example.local/BEL-FILM41.ts
-#EXTINF:-1 tvg-chno="68051" tvg-name="Film4 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68051_ll_h15_ab.png?w=360&h=270" group-title="United Kingdom" tvg-id="FFOURHD" tvc-guide-stationid="68051",Film4 HD
-http://example.local/GBR-FFOURHD.ts
-#EXTINF:-1 tvg-chno="68051" tvg-name="Film4 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68051_ll_h15_ab.png?w=360&h=270" group-title="Ireland" tvg-id="FFOURHD" tvc-guide-stationid="68051",Film4 HD
-http://example.local/IRL-FFOURHD.ts
-#EXTINF:-1 tvg-chno="175276" tvg-name="FILMAX" group-title="Poland" tvg-id="FILMAX" tvc-guide-stationid="175276",FILMAX
-http://example.local/POL-FILMAX.ts
 #EXTINF:-1 tvg-chno="124547" tvg-name="FilmBox" tvg-logo="https://zap2it.tmsimg.com/assets/s124547_ll_h15_aa.png?w=360&h=270" group-title="Netherlands" tvg-id="FIBXZIG" tvc-guide-stationid="124547",FilmBox
 http://example.local/NLD-FIBXZIG.ts
 #EXTINF:-1 tvg-chno="116964" tvg-name="FilmBox Action" tvg-logo="https://zap2it.tmsimg.com/assets/s116964_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="FILMAPL" tvc-guide-stationid="116964",FilmBox Action
@@ -1019,3 +1007,15 @@ http://example.local/BES-FBN.ts
 http://example.local/BHS-FBN.ts
 #EXTINF:-1 tvg-chno="58649" tvg-name="Fox Business" tvg-logo="https://zap2it.tmsimg.com/assets/s58649_ll_h15_ac.png?w=360&h=270" group-title="Curacao" tvg-id="FBN" tvc-guide-stationid="58649",Fox Business
 http://example.local/CUW-FBN.ts
+#EXTINF:-1 tvg-chno="58718" tvg-name="Fox Business HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58718_ll_h15_ac.png?w=360&h=270" group-title="United States" tvg-id="FBNHD" tvc-guide-stationid="58718",Fox Business HD
+http://example.local/USA-FBNHD.ts
+#EXTINF:-1 tvg-chno="58718" tvg-name="Fox Business HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58718_ll_h15_ac.png?w=360&h=270" group-title="Canada" tvg-id="FBNHD" tvc-guide-stationid="58718",Fox Business HD
+http://example.local/CAN-FBNHD.ts
+#EXTINF:-1 tvg-chno="58718" tvg-name="Fox Business HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58718_ll_h15_ac.png?w=360&h=270" group-title="Barbados" tvg-id="FBNHD" tvc-guide-stationid="58718",Fox Business HD
+http://example.local/BRB-FBNHD.ts
+#EXTINF:-1 tvg-chno="58718" tvg-name="Fox Business HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58718_ll_h15_ac.png?w=360&h=270" group-title="Cayman Islands" tvg-id="FBNHD" tvc-guide-stationid="58718",Fox Business HD
+http://example.local/CYM-FBNHD.ts
+#EXTINF:-1 tvg-chno="58718" tvg-name="Fox Business HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58718_ll_h15_ac.png?w=360&h=270" group-title="Bermuda" tvg-id="FBNHD" tvc-guide-stationid="58718",Fox Business HD
+http://example.local/BMU-FBNHD.ts
+#EXTINF:-1 tvg-chno="58718" tvg-name="Fox Business HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58718_ll_h15_ac.png?w=360&h=270" group-title="Trinidad and Tobago" tvg-id="FBNHD" tvc-guide-stationid="58718",Fox Business HD
+http://example.local/TTO-FBNHD.ts

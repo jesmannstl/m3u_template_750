@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="84605" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s84605_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="EURSP2I" tvc-guide-stationid="84605",Eurosport 2
-http://example.local/DEU-EURSP2I.ts
-#EXTINF:-1 tvg-chno="104917" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s104917_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="EUSP2NL" tvc-guide-stationid="104917",Eurosport 2
-http://example.local/DEU-EUSP2NL.ts
-#EXTINF:-1 tvg-chno="77723" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s77723_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="EUROSP2" tvc-guide-stationid="77723",Eurosport 2
-http://example.local/DEU-EUROSP2.ts
-#EXTINF:-1 tvg-chno="27413" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s27413_ll_h15_ab.png?w=360&h=270" group-title="Ireland" tvg-id="ESUK2" tvc-guide-stationid="27413",Eurosport 2
-http://example.local/IRL-ESUK2.ts
-#EXTINF:-1 tvg-chno="87327" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s87327_ll_h15_aa.png?w=360&h=270" group-title="Belgium" tvg-id="EUSP2FR" tvc-guide-stationid="87327",Eurosport 2
-http://example.local/BEL-EUSP2FR.ts
-#EXTINF:-1 tvg-chno="104917" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s104917_ll_h15_ab.png?w=360&h=270" group-title="Belgium" tvg-id="EUSP2NL" tvc-guide-stationid="104917",Eurosport 2
-http://example.local/BEL-EUSP2NL.ts
 #EXTINF:-1 tvg-chno="56694" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s56694_ll_h15_aa.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="ESINT2" tvc-guide-stationid="56694",Eurosport 2
 http://example.local/BES-ESINT2.ts
 #EXTINF:-1 tvg-chno="87661" tvg-name="Eurosport 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87661_ll_h15_aa.png?w=360&h=270" group-title="Sweden" tvg-id="EURSP2H" tvc-guide-stationid="87661",Eurosport 2 HD
@@ -1019,3 +1007,15 @@ http://example.local/USA-FDFPNSH.ts
 http://example.local/USA-FDFPSLH.ts
 #EXTINF:-1 tvg-chno="95970" tvg-name="FanDuel Sports Network Florida HD" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png?w=360&h=270" group-title="United States" tvg-id="FDFBHD" tvc-guide-stationid="95970",FanDuel Sports Network Florida HD
 http://example.local/USA-FDFBHD.ts
+#EXTINF:-1 tvg-chno="81307" tvg-name="FanDuel Sports Network Florida HD- North Florida" group-title="United States" tvg-id="FDFLHCF" tvc-guide-stationid="81307",FanDuel Sports Network Florida HD- North Florida
+http://example.local/USA-FDFLHCF.ts
+#EXTINF:-1 tvg-chno="65773" tvg-name="FanDuel Sports Network Florida HD- North Florida" group-title="United States" tvg-id="FDFL1HD" tvc-guide-stationid="65773",FanDuel Sports Network Florida HD- North Florida
+http://example.local/USA-FDFL1HD.ts
+#EXTINF:-1 tvg-chno="71238" tvg-name="FanDuel Sports Network Florida HD- Out of Market" group-title="United States" tvg-id="FDFLOMH" tvc-guide-stationid="71238",FanDuel Sports Network Florida HD- Out of Market
+http://example.local/USA-FDFLOMH.ts
+#EXTINF:-1 tvg-chno="65414" tvg-name="FanDuel Sports Network Florida HD- South Florida" group-title="United States" tvg-id="FDFLHD2" tvc-guide-stationid="65414",FanDuel Sports Network Florida HD- South Florida
+http://example.local/USA-FDFLHD2.ts
+#EXTINF:-1 tvg-chno="59680" tvg-name="FanDuel Sports Network Florida HD- South Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s50728_ll_h15_ac.png?w=360&h=270" group-title="United States" tvg-id="FDSFL2H" tvc-guide-stationid="59680",FanDuel Sports Network Florida HD- South Florida
+http://example.local/USA-FDSFL2H.ts
+#EXTINF:-1 tvg-chno="81310" tvg-name="FanDuel Sports Network Florida- North Florida" group-title="United States" tvg-id="FDFLCFL" tvc-guide-stationid="81310",FanDuel Sports Network Florida- North Florida
+http://example.local/USA-FDFLCFL.ts

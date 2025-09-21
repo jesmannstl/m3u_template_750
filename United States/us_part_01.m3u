@@ -558,27 +558,27 @@ http://example.local/CIN09.ts
 #EXTINF:-1 tvg-id="CIN10" tvg-name="Camera Insertion 10" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="110902" tvc-guide-stationid="110902" group-title="",Camera Insertion 10
 http://example.local/CIN10.ts
 #EXTINF:-1 tvg-id="CINACHD" tvg-name="Cinemax Action HD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59948/GNLZZGG0029BC3L.png" tvg-chno="59948" tvc-guide-stationid="59948" group-title="",Cinemax Action HD
-http://example.local/ACMAXHD.ts
+http://example.local/CINACHD.ts
 #EXTINF:-1 tvg-id="CINACSP" tvg-name="Cinemax Action (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18434/GNLZZGG0029BC1Q.png" tvg-chno="18434" tvc-guide-stationid="18434" group-title="",Cinemax Action (Pacific)
-http://example.local/ACMAXP.ts
+http://example.local/CINACSP.ts
 #EXTINF:-1 tvg-id="CINACT" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18433/GNLZZGG0029BC1Q.png" tvg-chno="18433" tvc-guide-stationid="18433" group-title="",Cinemax Action
-http://example.local/ACMAX.ts
+http://example.local/CINACT.ts
 #EXTINF:-1 tvg-id="CINAHDP" tvg-name="Cinemax Action HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59950/GNLZZGG0029BC3L.png" tvg-chno="59950" tvc-guide-stationid="59950" group-title="",Cinemax Action HD (Pacific)
-http://example.local/ACMXHDP.ts
-#EXTINF:-1 tvg-id="CINCLHD" tvg-name="Cinemax Classics HD East" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59961/GNLZZGG0029CS01.png" tvg-chno="59961" tvc-guide-stationid="59961" group-title="",Cinemax Classics HD East
-http://example.local/5MAXHD.ts
+http://example.local/CINAHDP.ts
+#EXTINF:-1 tvg-id="CINCLHD" tvg-name="Cinemax Classics HD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59961/GNLZZGG0029CS01.png" tvg-chno="59961" tvc-guide-stationid="59961" group-title="",Cinemax Classics HD
+http://example.local/CINCLHD.ts
 #EXTINF:-1 tvg-id="CINDENP" tvg-name="Comcast PPV En Español" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="101002" tvc-guide-stationid="101002" group-title="",Comcast PPV En Español
 http://example.local/CINDENP.ts
 #EXTINF:-1 tvg-id="CINEBAN" tvg-name="CineBangla" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="69234" tvc-guide-stationid="69234" group-title="",CineBangla
 http://example.local/CINEBAN.ts
 #EXTINF:-1 tvg-id="CINECLS" tvg-name="Cinemax Classics" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/25620/GNLZZGG0029BBLL.png" tvg-chno="25620" tvc-guide-stationid="25620" group-title="",Cinemax Classics
-http://example.local/5MAX.ts
+http://example.local/CINECLS.ts
 #EXTINF:-1 tvg-id="CINEHHD" tvg-name="Cinemax Hits HD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59373/GNLZZGG0029CKC9.png" tvg-chno="59373" tvc-guide-stationid="59373" group-title="",Cinemax Hits HD
-http://example.local/MOMAXHD.ts
+http://example.local/CINEHHD.ts
 #EXTINF:-1 tvg-id="CINEHIT" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10121/GNLZZGG0029CKD8.png" tvg-chno="10121" tvc-guide-stationid="10121" group-title="",Cinemax Hits
-http://example.local/MOMAX.ts
+http://example.local/CINEHIT.ts
 #EXTINF:-1 tvg-id="CINEHP" tvg-name="Cinemax Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16620/GNLZZGG0029CKD8.png" tvg-chno="16620" tvc-guide-stationid="16620" group-title="",Cinemax Hits (Pacific)
-http://example.local/MOMAXP.ts
+http://example.local/CINEHP.ts
 #EXTINF:-1 tvg-id="CINENOS" tvg-name="Cine Nostalgia" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/60631/s60631_ll_h15_aa.png" tvg-chno="60631" tvc-guide-stationid="60631" group-title="",Cine Nostalgia
 http://example.local/CINENOS.ts
 #EXTINF:-1 tvg-id="CINESTE" tvg-name="Cine Estelar" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62125/s62125_ll_h15_aa.png" tvg-chno="62125" tvc-guide-stationid="62125" group-title="",Cine Estelar
@@ -586,7 +586,7 @@ http://example.local/CINESTE.ts
 #EXTINF:-1 tvg-id="CINHD" tvg-name="Crime & Investigation Network HD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61469/s61469_ll_h15_ab.png" tvg-chno="61469" tvc-guide-stationid="61469" group-title="",Crime & Investigation Network HD
 http://example.local/CINHD.ts
 #EXTINF:-1 tvg-id="CINHHDP" tvg-name="Cinemax Hits HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59375/GNLZZGG0029CKC9.png" tvg-chno="59375" tvc-guide-stationid="59375" group-title="",Cinemax Hits HD (Pacific)
-http://example.local/MMAXPHD.ts
+http://example.local/CINHHDP.ts
 #EXTINF:-1 tvg-id="CINLUHD" tvg-name="Cine Latino US HD" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="118018" tvc-guide-stationid="118018" group-title="",Cine Latino US HD
 http://example.local/CINLUHD.ts
 #EXTINF:-1 tvg-id="CINLUS" tvg-name="Cine Latino US" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62401/s15296_ll_h9_ab.png" tvg-chno="62401" tvc-guide-stationid="62401" group-title="",Cine Latino US

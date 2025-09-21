@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="59936" tvg-name="Chittenden Community TV" group-title="United States" tvg-id="CCTV17" tvc-guide-stationid="59936",Chittenden Community TV
-http://example.local/USA-CCTV17.ts
-#EXTINF:-1 tvg-chno="95722" tvg-name="CHKL-DT (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s110839_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="CHKLDT" tvc-guide-stationid="95722",CHKL-DT (GLOBAL)
-http://example.local/CAN-CHKLDT.ts
-#EXTINF:-1 tvg-chno="115911" tvg-name="CHKLDT2 (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s110839_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="CHKLD2" tvc-guide-stationid="115911",CHKLDT2 (GLOBAL)
-http://example.local/CAN-CHKLD2.ts
-#EXTINF:-1 tvg-chno="12445" tvg-name="CHLT Sherbrooke (TVA)" tvg-logo="https://zap2it.tmsimg.com/assets/s12445_ll_h15_aa.png?w=360&h=270" group-title="United States" tvg-id="CHLT" tvc-guide-stationid="12445",CHLT Sherbrooke (TVA)
-http://example.local/USA-CHLT.ts
-#EXTINF:-1 tvg-chno="12445" tvg-name="CHLT Sherbrooke (TVA)" tvg-logo="https://zap2it.tmsimg.com/assets/s12445_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="CHLT" tvc-guide-stationid="12445",CHLT Sherbrooke (TVA)
-http://example.local/CAN-CHLT.ts
-#EXTINF:-1 tvg-chno="72750" tvg-name="CHLT-DT (TVA)" tvg-logo="https://zap2it.tmsimg.com/assets/s16367_ll_h15_ab.png?w=360&h=270" group-title="United States" tvg-id="CHLTDT" tvc-guide-stationid="72750",CHLT-DT (TVA)
-http://example.local/USA-CHLTDT.ts
 #EXTINF:-1 tvg-chno="72750" tvg-name="CHLT-DT (TVA)" tvg-logo="https://zap2it.tmsimg.com/assets/s16367_ll_h15_ab.png?w=360&h=270" group-title="Canada" tvg-id="CHLTDT" tvc-guide-stationid="72750",CHLT-DT (TVA)
 http://example.local/CAN-CHLTDT.ts
 #EXTINF:-1 tvg-chno="116185" tvg-name="CHMG-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s116185_h3_ba.png?w=360&h=270" group-title="Canada" tvg-id="CHMGDT" tvc-guide-stationid="116185",CHMG-DT
@@ -737,17 +725,17 @@ http://example.local/VEN-MAXP.ts
 http://example.local/JAM-MAXP.ts
 #EXTINF:-1 tvg-chno="118500" tvg-name="Cinemax 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118500_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="CINEMX2PL" tvc-guide-stationid="118500",Cinemax 2 HD
 http://example.local/POL-CINEMX2PL.ts
-#EXTINF:-1 tvg-chno="59948" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC3L.png?w=360&h=270" group-title="United States" tvg-id="CINACHD" tvc-guide-stationid="59948",Cinemax Action
-http://example.local/USA-CINACHD.ts
-#EXTINF:-1 tvg-chno="59950" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC3L.png?w=360&h=270" group-title="United States" tvg-id="CINAHDP" tvc-guide-stationid="59950",Cinemax Action
-http://example.local/USA-CINAHDP.ts
 #EXTINF:-1 tvg-chno="18433" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC1Q.png?w=360&h=270" group-title="United States" tvg-id="CINACT" tvc-guide-stationid="18433",Cinemax Action
 http://example.local/USA-CINACT.ts
-#EXTINF:-1 tvg-chno="18434" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/assets/s18433_h3_aa.png?w=360&h=270" group-title="United States" tvg-id="CINACSP" tvc-guide-stationid="18434",Cinemax Action
+#EXTINF:-1 tvg-chno="18434" tvg-name="Cinemax Action (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s18433_h3_aa.png?w=360&h=270" group-title="United States" tvg-id="CINACSP" tvc-guide-stationid="18434",Cinemax Action (Pacific)
 http://example.local/USA-CINACSP.ts
+#EXTINF:-1 tvg-chno="59948" tvg-name="Cinemax Action HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC3L.png?w=360&h=270" group-title="United States" tvg-id="CINACHD" tvc-guide-stationid="59948",Cinemax Action HD
+http://example.local/USA-CINACHD.ts
+#EXTINF:-1 tvg-chno="59950" tvg-name="Cinemax Action HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC3L.png?w=360&h=270" group-title="United States" tvg-id="CINAHDP" tvc-guide-stationid="59950",Cinemax Action HD (Pacific)
+http://example.local/USA-CINAHDP.ts
 #EXTINF:-1 tvg-chno="25620" tvg-name="Cinemax Classics" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBLL.png?w=360&h=270" group-title="United States" tvg-id="CINECLS" tvc-guide-stationid="25620",Cinemax Classics
 http://example.local/USA-CINECLS.ts
-#EXTINF:-1 tvg-chno="59961" tvg-name="Cinemax Classics" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CS01.png?w=360&h=270" group-title="United States" tvg-id="CINCLHD" tvc-guide-stationid="59961",Cinemax Classics
+#EXTINF:-1 tvg-chno="59961" tvg-name="Cinemax Classics HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CS01.png?w=360&h=270" group-title="United States" tvg-id="CINCLHD" tvc-guide-stationid="59961",Cinemax Classics HD
 http://example.local/USA-CINCLHD.ts
 #EXTINF:-1 tvg-chno="16968" tvg-name="Cinemax en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s16968_ll_h15_aa.png?w=360&h=270" group-title="United States" tvg-id="MAXS" tvc-guide-stationid="16968",Cinemax en Español
 http://example.local/USA-MAXS.ts
@@ -773,14 +761,14 @@ http://example.local/USA-MAXHDP.ts
 http://example.local/USA-MAXHDDM.ts
 #EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s10121_h3_aa.png?w=360&h=270" group-title="United States" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
 http://example.local/USA-CINEHIT.ts
-#EXTINF:-1 tvg-chno="59373" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKC9.png?w=360&h=270" group-title="United States" tvg-id="CINEHHD" tvc-guide-stationid="59373",Cinemax Hits
-http://example.local/USA-CINEHHD.ts
-#EXTINF:-1 tvg-chno="59375" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s59373_h3_ba.png?w=360&h=270" group-title="United States" tvg-id="CINHHDP" tvc-guide-stationid="59375",Cinemax Hits
-http://example.local/USA-CINHHDP.ts
-#EXTINF:-1 tvg-chno="16620" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png?w=360&h=270" group-title="United States" tvg-id="CINEHP" tvc-guide-stationid="16620",Cinemax Hits
-http://example.local/USA-CINEHP.ts
 #EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s10121_h3_aa.png?w=360&h=270" group-title="Belize" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
 http://example.local/BLZ-CINEHIT.ts
+#EXTINF:-1 tvg-chno="16620" tvg-name="Cinemax Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png?w=360&h=270" group-title="United States" tvg-id="CINEHP" tvc-guide-stationid="16620",Cinemax Hits (Pacific)
+http://example.local/USA-CINEHP.ts
+#EXTINF:-1 tvg-chno="59373" tvg-name="Cinemax Hits HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKC9.png?w=360&h=270" group-title="United States" tvg-id="CINEHHD" tvc-guide-stationid="59373",Cinemax Hits HD
+http://example.local/USA-CINEHHD.ts
+#EXTINF:-1 tvg-chno="59375" tvg-name="Cinemax Hits HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s59373_h3_ba.png?w=360&h=270" group-title="United States" tvg-id="CINHHDP" tvc-guide-stationid="59375",Cinemax Hits HD (Pacific)
+http://example.local/USA-CINHHDP.ts
 #EXTINF:-1 tvg-chno="31571" tvg-name="Cinemax On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s46895_ll_h15_ab.png?w=360&h=270" group-title="United States" tvg-id="MAXDM" tvc-guide-stationid="31571",Cinemax On Demand
 http://example.local/USA-MAXDM.ts
 #EXTINF:-1 tvg-chno="25623" tvg-name="Cinemax Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s25623_h3_aa.png?w=360&h=270" group-title="United States" tvg-id="CMAX" tvc-guide-stationid="25623",Cinemax Spanish
@@ -1019,3 +1007,15 @@ http://example.local/USA-CITYDT3.ts
 http://example.local/CAN-CITYDT3.ts
 #EXTINF:-1 tvg-chno="93341" tvg-name="City/Local Programming" group-title="United States" tvg-id="CITYPRG" tvc-guide-stationid="93341",City/Local Programming
 http://example.local/USA-CITYPRG.ts
+#EXTINF:-1 tvg-chno="95168" tvg-name="CityNet" tvg-logo="https://zap2it.tmsimg.com/assets/s95168_ll_h9_aa.png?w=360&h=270" group-title="United States" tvg-id="PCM30" tvc-guide-stationid="95168",CityNet
+http://example.local/USA-PCM30.ts
+#EXTINF:-1 tvg-chno="95506" tvg-name="CityNet HD" tvg-logo="https://zap2it.tmsimg.com/assets/s95506_ll_h9_aa.png?w=360&h=270" group-title="United States" tvg-id="CTYNT" tvc-guide-stationid="95506",CityNet HD
+http://example.local/USA-CTYNT.ts
+#EXTINF:-1 tvg-chno="156506" tvg-name="CityNews 24/7" tvg-logo="https://zap2it.tmsimg.com/assets/s123034_ll_h9_ab.png?w=360&h=270" group-title="Canada" tvg-id="CTNWSBC" tvc-guide-stationid="156506",CityNews 24/7
+http://example.local/CAN-CTNWSBC.ts
+#EXTINF:-1 tvg-chno="156539" tvg-name="CityNews 24/7 AB" tvg-logo="https://zap2it.tmsimg.com/assets/s156539_ll_h9_aa.png?w=360&h=270" group-title="Canada" tvg-id="CTNWSAB" tvc-guide-stationid="156539",CityNews 24/7 AB
+http://example.local/CAN-CTNWSAB.ts
+#EXTINF:-1 tvg-chno="123035" tvg-name="CityNews 24/7 Toronto" tvg-logo="https://zap2it.tmsimg.com/assets/s123035_ll_h9_ac.png?w=360&h=270" group-title="Canada" tvg-id="CTYNWS" tvc-guide-stationid="123035",CityNews 24/7 Toronto
+http://example.local/CAN-CTYNWS.ts
+#EXTINF:-1 tvg-chno="123034" tvg-name="CityNews 24/7 Vancouver" tvg-logo="https://zap2it.tmsimg.com/assets/s123034_ll_h9_ab.png?w=360&h=270" group-title="Canada" tvg-id="CTYNWSW" tvc-guide-stationid="123034",CityNews 24/7 Vancouver
+http://example.local/CAN-CTYNWSW.ts

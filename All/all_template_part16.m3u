@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="95168" tvg-name="CityNet" tvg-logo="https://zap2it.tmsimg.com/assets/s95168_ll_h9_aa.png?w=360&h=270" group-title="United States" tvg-id="PCM30" tvc-guide-stationid="95168",CityNet
-http://example.local/USA-PCM30.ts
-#EXTINF:-1 tvg-chno="95506" tvg-name="CityNet HD" tvg-logo="https://zap2it.tmsimg.com/assets/s95506_ll_h9_aa.png?w=360&h=270" group-title="United States" tvg-id="CTYNT" tvc-guide-stationid="95506",CityNet HD
-http://example.local/USA-CTYNT.ts
-#EXTINF:-1 tvg-chno="156506" tvg-name="CityNews 24/7" tvg-logo="https://zap2it.tmsimg.com/assets/s123034_ll_h9_ab.png?w=360&h=270" group-title="Canada" tvg-id="CTNWSBC" tvc-guide-stationid="156506",CityNews 24/7
-http://example.local/CAN-CTNWSBC.ts
-#EXTINF:-1 tvg-chno="156539" tvg-name="CityNews 24/7 AB" tvg-logo="https://zap2it.tmsimg.com/assets/s156539_ll_h9_aa.png?w=360&h=270" group-title="Canada" tvg-id="CTNWSAB" tvc-guide-stationid="156539",CityNews 24/7 AB
-http://example.local/CAN-CTNWSAB.ts
-#EXTINF:-1 tvg-chno="123035" tvg-name="CityNews 24/7 Toronto" tvg-logo="https://zap2it.tmsimg.com/assets/s123035_ll_h9_ac.png?w=360&h=270" group-title="Canada" tvg-id="CTYNWS" tvc-guide-stationid="123035",CityNews 24/7 Toronto
-http://example.local/CAN-CTYNWS.ts
-#EXTINF:-1 tvg-chno="123034" tvg-name="CityNews 24/7 Vancouver" tvg-logo="https://zap2it.tmsimg.com/assets/s123034_ll_h9_ab.png?w=360&h=270" group-title="Canada" tvg-id="CTYNWSW" tvc-guide-stationid="123034",CityNews 24/7 Vancouver
-http://example.local/CAN-CTYNWSW.ts
 #EXTINF:-1 tvg-chno="67914" tvg-name="CityNews 570" tvg-logo="https://zap2it.tmsimg.com/assets/s67914_ll_h9_aa.png?w=360&h=270" group-title="Canada" tvg-id="CKGLAM" tvc-guide-stationid="67914",CityNews 570
 http://example.local/CAN-CKGLAM.ts
 #EXTINF:-1 tvg-chno="47514" tvg-name="CityNews 680" tvg-logo="https://zap2it.tmsimg.com/assets/s47514_ll_h9_aa.png?w=360&h=270" group-title="Canada" tvg-id="680AM" tvc-guide-stationid="47514",CityNews 680
@@ -1019,3 +1007,15 @@ http://example.local/GTM-CNNEM.ts
 http://example.local/BRA-CNNEB.ts
 #EXTINF:-1 tvg-chno="105510" tvg-name="CNN en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s105510_ll_h9_aa.png?w=360&h=270" group-title="Brazil" tvg-id="CNNEBHD" tvc-guide-stationid="105510",CNN en Español
 http://example.local/BRA-CNNEBHD.ts
+#EXTINF:-1 tvg-chno="17054" tvg-name="CNN En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png?w=360&h=270" group-title="Ecuador" tvg-id="CNNL" tvc-guide-stationid="17054",CNN En Español
+http://example.local/ECU-CNNL.ts
+#EXTINF:-1 tvg-chno="27773" tvg-name="CNN en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png?w=360&h=270" group-title="Ecuador" tvg-id="CNNEM" tvc-guide-stationid="27773",CNN en Español
+http://example.local/ECU-CNNEM.ts
+#EXTINF:-1 tvg-chno="17054" tvg-name="CNN En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png?w=360&h=270" group-title="Argentina" tvg-id="CNNL" tvc-guide-stationid="17054",CNN En Español
+http://example.local/ARG-CNNL.ts
+#EXTINF:-1 tvg-chno="27773" tvg-name="CNN en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png?w=360&h=270" group-title="Argentina" tvg-id="CNNEM" tvc-guide-stationid="27773",CNN en Español
+http://example.local/ARG-CNNEM.ts
+#EXTINF:-1 tvg-chno="17054" tvg-name="CNN En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png?w=360&h=270" group-title="Venezuela" tvg-id="CNNL" tvc-guide-stationid="17054",CNN En Español
+http://example.local/VEN-CNNL.ts
+#EXTINF:-1 tvg-chno="17054" tvg-name="CNN En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png?w=360&h=270" group-title="Jamaica" tvg-id="CNNL" tvc-guide-stationid="17054",CNN En Español
+http://example.local/JAM-CNNL.ts

@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="27786" tvg-name="EPG Security Camera Channel" group-title="United States" tvg-id="CAMERA" tvc-guide-stationid="27786",EPG Security Camera Channel
-http://example.local/USA-CAMERA.ts
-#EXTINF:-1 tvg-chno="44244" tvg-name="EPG Special Events HDTV" group-title="United States" tvg-id="SPHDTV" tvc-guide-stationid="44244",EPG Special Events HDTV
-http://example.local/USA-SPHDTV.ts
-#EXTINF:-1 tvg-chno="39555" tvg-name="EPG SPORTS ON DEMAND" group-title="United States" tvg-id="SPORTDM" tvc-guide-stationid="39555",EPG SPORTS ON DEMAND
-http://example.local/USA-SPORTDM.ts
-#EXTINF:-1 tvg-chno="74149" tvg-name="EPG Starz Encore HD On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s36225_ll_h15_ac.png?w=360&h=270" group-title="United States" tvg-id="STZEHDM" tvc-guide-stationid="74149",EPG Starz Encore HD On Demand
-http://example.local/USA-STZEHDM.ts
-#EXTINF:-1 tvg-chno="49317" tvg-name="EPG Starz Encore On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s10178_ll_h15_ac.png?w=360&h=270" group-title="United States" tvg-id="STZENDM" tvc-guide-stationid="49317",EPG Starz Encore On Demand
-http://example.local/USA-STZENDM.ts
-#EXTINF:-1 tvg-chno="50928" tvg-name="EPG Suddenlink Info" group-title="United States" tvg-id="SUDINFO" tvc-guide-stationid="50928",EPG Suddenlink Info
-http://example.local/USA-SUDINFO.ts
 #EXTINF:-1 tvg-chno="73175" tvg-name="EPG Time Warner Cable How To On Demand" group-title="United States" tvg-id="HOWTODM" tvc-guide-stationid="73175",EPG Time Warner Cable How To On Demand
 http://example.local/USA-HOWTODM.ts
 #EXTINF:-1 tvg-chno="27780" tvg-name="EPG TV Guide" group-title="United States" tvg-id="EPGTVG" tvc-guide-stationid="27780",EPG TV Guide
@@ -1019,3 +1007,15 @@ http://example.local/USA-FDSKC2.ts
 http://example.local/USA-FDKC1H.ts
 #EXTINF:-1 tvg-chno="65658" tvg-name="FanDuel Sports Network Kansas City- Nebraska" tvg-logo="https://zap2it.tmsimg.com/assets/s19739_ll_h15_ac.png?w=360&h=270" group-title="United States" tvg-id="FDMNE1H" tvc-guide-stationid="65658",FanDuel Sports Network Kansas City- Nebraska
 http://example.local/USA-FDMNE1H.ts
+#EXTINF:-1 tvg-chno="21782" tvg-name="FanDuel Sports Network Kansas City- Nebraska" tvg-logo="https://zap2it.tmsimg.com/assets/s19739_ll_h15_ac.png?w=360&h=270" group-title="United States" tvg-id="FDMWNE1" tvc-guide-stationid="21782",FanDuel Sports Network Kansas City- Nebraska
+http://example.local/USA-FDMWNE1.ts
+#EXTINF:-1 tvg-chno="20638" tvg-name="FanDuel Sports Network Midwest" tvg-logo="https://zap2it.tmsimg.com/assets/s11058_ll_h15_ac.png?w=360&h=270" group-title="United States" tvg-id="FDMWSAT" tvc-guide-stationid="20638",FanDuel Sports Network Midwest
+http://example.local/USA-FDMWSAT.ts
+#EXTINF:-1 tvg-chno="97712" tvg-name="FanDuel Sports Network Midwest" tvg-logo="https://zap2it.tmsimg.com/assets/s11058_ll_h15_ac.png?w=360&h=270" group-title="United States" tvg-id="FDMWBCB" tvc-guide-stationid="97712",FanDuel Sports Network Midwest
+http://example.local/USA-FDMWBCB.ts
+#EXTINF:-1 tvg-chno="50057" tvg-name="FanDuel Sports Network Midwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s50057_ll_h15_ac.png?w=360&h=270" group-title="United States" tvg-id="FDNHDMW" tvc-guide-stationid="50057",FanDuel Sports Network Midwest HD
+http://example.local/USA-FDNHDMW.ts
+#EXTINF:-1 tvg-chno="74333" tvg-name="FanDuel Sports Network Midwest HD" group-title="United States" tvg-id="FDMSATH" tvc-guide-stationid="74333",FanDuel Sports Network Midwest HD
+http://example.local/USA-FDMSATH.ts
+#EXTINF:-1 tvg-chno="61088" tvg-name="FanDuel Sports Network Midwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s11058_ll_h15_ac.png?w=360&h=270" group-title="United States" tvg-id="DFDMWHD" tvc-guide-stationid="61088",FanDuel Sports Network Midwest HD
+http://example.local/USA-DFDMWHD.ts

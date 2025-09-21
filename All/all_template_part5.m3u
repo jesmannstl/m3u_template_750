@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png?w=360&h=270" group-title="United Kingdom" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
-http://example.local/GBR-ARAGON.ts
-#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png?w=360&h=270" group-title="Switzerland" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
-http://example.local/CHE-ARAGON.ts
-#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png?w=360&h=270" group-title="Austria" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
-http://example.local/AUT-ARAGON.ts
-#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png?w=360&h=270" group-title="Germany" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
-http://example.local/DEU-ARAGON.ts
-#EXTINF:-1 tvg-chno="118662" tvg-name="Aragon TV HD" group-title="Switzerland" tvg-id="ARAGHD" tvc-guide-stationid="118662",Aragon TV HD
-http://example.local/CHE-ARAGHD.ts
-#EXTINF:-1 tvg-chno="101225" tvg-name="Arcadia TV Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s101225_ll_h9_aa.png?w=360&h=270" group-title="Austria" tvg-id="ARCTV" tvc-guide-stationid="101225",Arcadia TV Austria
-http://example.local/AUT-ARCTV.ts
 #EXTINF:-1 tvg-chno="117152" tvg-name="Arcadia TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s117152_ll_h9_aa.png?w=360&h=270" group-title="Austria" tvg-id="ARCTVHD" tvc-guide-stationid="117152",Arcadia TV HD
 http://example.local/AUT-ARCTVHD.ts
 #EXTINF:-1 tvg-chno="125713" tvg-name="ARCADIA world TV" group-title="Switzerland" tvg-id="ARCW" tvc-guide-stationid="125713",ARCADIA world TV
@@ -1019,3 +1007,15 @@ http://example.local/MEX-DLADANC.ts
 http://example.local/PER-DLADANC.ts
 #EXTINF:-1 tvg-chno="37863" tvg-name="AUDIO DLA DANCE" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="DLADANC" tvc-guide-stationid="37863",AUDIO DLA DANCE
 http://example.local/GTM-DLADANC.ts
+#EXTINF:-1 tvg-chno="37863" tvg-name="AUDIO DLA DANCE" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="DLADANC" tvc-guide-stationid="37863",AUDIO DLA DANCE
+http://example.local/ECU-DLADANC.ts
+#EXTINF:-1 tvg-chno="37863" tvg-name="AUDIO DLA DANCE" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="DLADANC" tvc-guide-stationid="37863",AUDIO DLA DANCE
+http://example.local/VEN-DLADANC.ts
+#EXTINF:-1 tvg-chno="37863" tvg-name="AUDIO DLA DANCE" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Jamaica" tvg-id="DLADANC" tvc-guide-stationid="37863",AUDIO DLA DANCE
+http://example.local/JAM-DLADANC.ts
+#EXTINF:-1 tvg-chno="37863" tvg-name="AUDIO DLA DANCE" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="DLADANC" tvc-guide-stationid="37863",AUDIO DLA DANCE
+http://example.local/DOM-DLADANC.ts
+#EXTINF:-1 tvg-chno="37863" tvg-name="AUDIO DLA DANCE" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="DLADANC" tvc-guide-stationid="37863",AUDIO DLA DANCE
+http://example.local/CRI-DLADANC.ts
+#EXTINF:-1 tvg-chno="37863" tvg-name="AUDIO DLA DANCE" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Chile" tvg-id="DLADANC" tvc-guide-stationid="37863",AUDIO DLA DANCE
+http://example.local/CHL-DLADANC.ts

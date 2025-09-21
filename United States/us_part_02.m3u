@@ -932,15 +932,15 @@ http://example.local/HBOCP.ts
 #EXTINF:-1 tvg-id="HBOCPHD" tvg-name="HBO Comedy HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59841/s59839_ll_h15_aa.png" tvg-chno="59841" tvc-guide-stationid="59841" group-title="",HBO Comedy HD (Pacific)
 http://example.local/HBOCPHD.ts
 #EXTINF:-1 tvg-id="HBODHDP" tvg-name="HBO Drama HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59366/GNLZZGG0029BBV6.png" tvg-chno="59366" tvc-guide-stationid="59366" group-title="",HBO Drama HD (Pacific)
-http://example.local/HBOSPHD.ts
+http://example.local/HBODHDP.ts
 #EXTINF:-1 tvg-id="HBODM" tvg-name="HBO on Demand" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/38589/s38589_ll_h15_ab.png" tvg-chno="38589" tvc-guide-stationid="38589" group-title="",HBO on Demand
 http://example.local/HBODM.ts
 #EXTINF:-1 tvg-id="HBODRHD" tvg-name="HBO Drama HD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59363/GNLZZGG0029BBV6.png" tvg-chno="59363" tvc-guide-stationid="59363" group-title="",HBO Drama HD
-http://example.local/HBOSGHD.ts
+http://example.local/HBODRHD.ts
 #EXTINF:-1 tvg-id="HBODRMA" tvg-name="HBO Drama" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10243/GNLZZGG0029BBV2.png" tvg-chno="10243" tvc-guide-stationid="10243" group-title="",HBO Drama
-http://example.local/HBOSIG.ts
+http://example.local/HBODRMA.ts
 #EXTINF:-1 tvg-id="HBODRP" tvg-name="HBO Drama (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16576/GNLZZGG0029BBV2.png" tvg-chno="16576" tvc-guide-stationid="16576" group-title="",HBO Drama (Pacific)
-http://example.local/HBOSIGP.ts
+http://example.local/HBODRP.ts
 #EXTINF:-1 tvg-id="HBOHD" tvg-name="HBO East" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19548/s19548_ll_h15_aa.png" tvg-chno="19548" tvc-guide-stationid="19548" group-title="",HBO East
 http://example.local/HBOHD.ts
 #EXTINF:-1 tvg-id="HBOHDDM" tvg-name="HBO HD On Demand" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/55819/s55819_ll_h15_aa.png" tvg-chno="55819" tvc-guide-stationid="55819" group-title="",HBO HD On Demand
@@ -948,13 +948,13 @@ http://example.local/HBOHDDM.ts
 #EXTINF:-1 tvg-id="HBOHDP" tvg-name="HBO West" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19566/s19548_ll_h15_aa.png" tvg-chno="19566" tvc-guide-stationid="19566" group-title="",HBO West
 http://example.local/HBOHDP.ts
 #EXTINF:-1 tvg-id="HBOHHDP" tvg-name="HBO Hits HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59355/GNLZZGG0029BBSR.png" tvg-chno="59355" tvc-guide-stationid="59355" group-title="",HBO Hits HD (Pacific)
-http://example.local/HBO2PHD.ts
+http://example.local/HBOHHDP.ts
 #EXTINF:-1 tvg-id="HBOHTHD" tvg-name="HBO Hits HD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59368/GNLZZGG0029BBSR.png" tvg-chno="59368" tvc-guide-stationid="59368" group-title="",HBO Hits HD
-http://example.local/HBO2HD.ts
+http://example.local/HBOHTHD.ts
 #EXTINF:-1 tvg-id="HBOHTP" tvg-name="HBO Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10242/GNLZZGG0029BBSR.png" tvg-chno="10242" tvc-guide-stationid="10242" group-title="",HBO Hits (Pacific)
-http://example.local/HBO2P.ts
+http://example.local/HBOHTP.ts
 #EXTINF:-1 tvg-id="HBOHTS" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10241/GNLZZGG0029BBSR.png" tvg-chno="10241" tvc-guide-stationid="10241" group-title="",HBO Hits
-http://example.local/HBO2.ts
+http://example.local/HBOHTS.ts
 #EXTINF:-1 tvg-id="HBOLAHD" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59837/s24553_ll_h9_ab.png" tvg-chno="59837" tvc-guide-stationid="59837" group-title="",HBO Latino HD
 http://example.local/HBOLAHD.ts
 #EXTINF:-1 tvg-id="HBOLAT" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24553/s24553_ll_h9_ab.png" tvg-chno="24553" tvc-guide-stationid="24553" group-title="",HBO Latino
@@ -964,13 +964,13 @@ http://example.local/HBOLATP.ts
 #EXTINF:-1 tvg-id="HBOLPHD" tvg-name="HBO Latino HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59849/s24553_ll_h9_ab.png" tvg-chno="59849" tvc-guide-stationid="59849" group-title="",HBO Latino HD (Pacific)
 http://example.local/HBOLPHD.ts
 #EXTINF:-1 tvg-id="HBOMHDP" tvg-name="HBO Movies HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59847/GNLZZGG0029BBXT.png" tvg-chno="59847" tvc-guide-stationid="59847" group-title="",HBO Movies HD (Pacific)
-http://example.local/HBOZPHD.ts
+http://example.local/HBOMHDP.ts
 #EXTINF:-1 tvg-id="HBOMOV" tvg-name="HBO Movies" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18431/GNLZZGG0029BBWP.png" tvg-chno="18431" tvc-guide-stationid="18431" group-title="",HBO Movies
-http://example.local/HBOZ.ts
+http://example.local/HBOMOV.ts
 #EXTINF:-1 tvg-id="HBOMVHD" tvg-name="HBO Movies HD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59845/GNLZZGG0029BBXT.png" tvg-chno="59845" tvc-guide-stationid="59845" group-title="",HBO Movies HD
-http://example.local/HBOZHD.ts
+http://example.local/HBOMVHD.ts
 #EXTINF:-1 tvg-id="HBOMVP" tvg-name="HBO Movies (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18432/GNLZZGG0029BBWP.png" tvg-chno="18432" tvc-guide-stationid="18432" group-title="",HBO Movies (Pacific)
-http://example.local/HBOZP.ts
+http://example.local/HBOMVP.ts
 #EXTINF:-1 tvg-id="HBOP" tvg-name="HBO (Pacific)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10244/s10240_ll_h15_aa.png" tvg-chno="10244" tvc-guide-stationid="10244" group-title="",HBO (Pacific)
 http://example.local/HBOP.ts
 #EXTINF:-1 tvg-id="HD01" tvg-name="PBS HD (PBS)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/33453/s33453_ll_h15_ad.png" tvg-chno="33453" tvc-guide-stationid="33453" group-title="",PBS HD (PBS)

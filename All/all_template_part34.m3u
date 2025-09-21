@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png?w=360&h=270" group-title="Netherlands" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
-http://example.local/NLD-GRETMYS.ts
-#EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png?w=360&h=270" group-title="United Kingdom" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
-http://example.local/GBR-GRETMYS.ts
-#EXTINF:-1 tvg-chno="176390" tvg-name="GREAT! Mystery" group-title="United Kingdom" tvg-id="GREATMY" tvc-guide-stationid="176390",GREAT! Mystery
-http://example.local/GBR-GREATMY.ts
-#EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png?w=360&h=270" group-title="Switzerland" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
-http://example.local/CHE-GRETMYS.ts
-#EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png?w=360&h=270" group-title="Ireland" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
-http://example.local/IRL-GRETMYS.ts
-#EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png?w=360&h=270" group-title="Belgium" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
-http://example.local/BEL-GRETMYS.ts
 #EXTINF:-1 tvg-chno="97281" tvg-name="Great! Mystery +1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BN0Z.png?w=360&h=270" group-title="Netherlands" tvg-id="GRTMYP1" tvc-guide-stationid="97281",Great! Mystery +1
 http://example.local/NLD-GRTMYP1.ts
 #EXTINF:-1 tvg-chno="97281" tvg-name="Great! Mystery +1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BN0Z.png?w=360&h=270" group-title="United Kingdom" tvg-id="GRTMYP1" tvc-guide-stationid="97281",Great! Mystery +1
@@ -1019,3 +1007,15 @@ http://example.local/BHS-HBOF.ts
 http://example.local/AIA-HBOF.ts
 #EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png?w=360&h=270" group-title="Anguilla" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
 http://example.local/AIA-HBOFMHD.ts
+#EXTINF:-1 tvg-chno="16585" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png?w=360&h=270" group-title="Grenada" tvg-id="HBOF" tvc-guide-stationid="16585",HBO Family
+http://example.local/GRD-HBOF.ts
+#EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png?w=360&h=270" group-title="Grenada" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
+http://example.local/GRD-HBOFMHD.ts
+#EXTINF:-1 tvg-chno="16585" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="HBOF" tvc-guide-stationid="16585",HBO Family
+http://example.local/ATG-HBOF.ts
+#EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
+http://example.local/ATG-HBOFMHD.ts
+#EXTINF:-1 tvg-chno="16585" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png?w=360&h=270" group-title="Curacao" tvg-id="HBOF" tvc-guide-stationid="16585",HBO Family
+http://example.local/CUW-HBOF.ts
+#EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png?w=360&h=270" group-title="Curacao" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
+http://example.local/CUW-HBOFMHD.ts

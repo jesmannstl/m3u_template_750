@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="22438" tvg-name="DITV170" group-title="United States" tvg-id="DITV170" tvc-guide-stationid="22438",DITV170
-http://example.local/USA-DITV170.ts
-#EXTINF:-1 tvg-chno="22439" tvg-name="DITV171" group-title="United States" tvg-id="DITV171" tvc-guide-stationid="22439",DITV171
-http://example.local/USA-DITV171.ts
-#EXTINF:-1 tvg-chno="44314" tvg-name="DITV172 (DIRECTV)" group-title="United States" tvg-id="DITV172" tvc-guide-stationid="44314",DITV172 (DIRECTV)
-http://example.local/USA-DITV172.ts
-#EXTINF:-1 tvg-chno="32261" tvg-name="DITV174" group-title="United States" tvg-id="DITV174" tvc-guide-stationid="32261",DITV174
-http://example.local/USA-DITV174.ts
-#EXTINF:-1 tvg-chno="59737" tvg-name="DITV175" group-title="United States" tvg-id="DITV175" tvc-guide-stationid="59737",DITV175
-http://example.local/USA-DITV175.ts
-#EXTINF:-1 tvg-chno="44315" tvg-name="DITV176 (DIRECTV)" group-title="United States" tvg-id="DITV176" tvc-guide-stationid="44315",DITV176 (DIRECTV)
-http://example.local/USA-DITV176.ts
 #EXTINF:-1 tvg-chno="44316" tvg-name="DITV177 (DIRECTV)" group-title="United States" tvg-id="DITV177" tvc-guide-stationid="44316",DITV177 (DIRECTV)
 http://example.local/USA-DITV177.ts
 #EXTINF:-1 tvg-chno="59005" tvg-name="DITV178" group-title="United States" tvg-id="DITV178" tvc-guide-stationid="59005",DITV178
@@ -1019,3 +1007,15 @@ http://example.local/USA-EPGPPV.ts
 http://example.local/USA-PREVIEWS.ts
 #EXTINF:-1 tvg-chno="27873" tvg-name="EPG Radar Weather" group-title="United States" tvg-id="EPGRDR" tvc-guide-stationid="27873",EPG Radar Weather
 http://example.local/USA-EPGRDR.ts
+#EXTINF:-1 tvg-chno="27786" tvg-name="EPG Security Camera Channel" group-title="United States" tvg-id="CAMERA" tvc-guide-stationid="27786",EPG Security Camera Channel
+http://example.local/USA-CAMERA.ts
+#EXTINF:-1 tvg-chno="44244" tvg-name="EPG Special Events HDTV" group-title="United States" tvg-id="SPHDTV" tvc-guide-stationid="44244",EPG Special Events HDTV
+http://example.local/USA-SPHDTV.ts
+#EXTINF:-1 tvg-chno="39555" tvg-name="EPG SPORTS ON DEMAND" group-title="United States" tvg-id="SPORTDM" tvc-guide-stationid="39555",EPG SPORTS ON DEMAND
+http://example.local/USA-SPORTDM.ts
+#EXTINF:-1 tvg-chno="74149" tvg-name="EPG Starz Encore HD On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s36225_ll_h15_ac.png?w=360&h=270" group-title="United States" tvg-id="STZEHDM" tvc-guide-stationid="74149",EPG Starz Encore HD On Demand
+http://example.local/USA-STZEHDM.ts
+#EXTINF:-1 tvg-chno="49317" tvg-name="EPG Starz Encore On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s10178_ll_h15_ac.png?w=360&h=270" group-title="United States" tvg-id="STZENDM" tvc-guide-stationid="49317",EPG Starz Encore On Demand
+http://example.local/USA-STZENDM.ts
+#EXTINF:-1 tvg-chno="50928" tvg-name="EPG Suddenlink Info" group-title="United States" tvg-id="SUDINFO" tvc-guide-stationid="50928",EPG Suddenlink Info
+http://example.local/USA-SUDINFO.ts

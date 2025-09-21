@@ -119,12 +119,6 @@ http://example.local/USA-4UV.ts
 http://example.local/USA-KFSMSTR.ts
 #EXTINF:-1 tvg-chno="160708" tvg-name="5 On Your Side" tvg-logo="https://zap2it.tmsimg.com/assets/s160708_ll_h15_aa.png?w=360&h=270" group-title="United States" tvg-id="KSDKSTR" tvc-guide-stationid="160708",5 On Your Side
 http://example.local/USA-KSDKSTR.ts
-#EXTINF:-1 tvg-chno="61168" tvg-name="5 StarMAX (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s25620_ll_h15_ad.png?w=360&h=270" group-title="United States" tvg-id="5MAXP" tvc-guide-stationid="61168",5 StarMAX (Pacific)
-http://example.local/USA-5MAXP.ts
-#EXTINF:-1 tvg-chno="110267" tvg-name="5 StarMAX (Pacific) HD" group-title="United States" tvg-id="5MAXPHD" tvc-guide-stationid="110267",5 StarMAX (Pacific) HD
-http://example.local/USA-5MAXPHD.ts
-#EXTINF:-1 tvg-chno="59961" tvg-name="5 StarMAX HD East" tvg-logo="https://zap2it.tmsimg.com/assets/s59961_ll_h15_ad.png?w=360&h=270" group-title="United States" tvg-id="5MAXHD" tvc-guide-stationid="59961",5 StarMAX HD East
-http://example.local/USA-5MAXHD.ts
 #EXTINF:-1 tvg-chno="43241" tvg-name="50s on 5" group-title="United States" tvg-id="SR50S" tvc-guide-stationid="43241",50s on 5
 http://example.local/USA-SR50S.ts
 #EXTINF:-1 tvg-chno="161735" tvg-name="60 Minutes" tvg-logo="https://zap2it.tmsimg.com/assets/s161735_ll_h15_aa.png?w=360&h=270" group-title="United States" tvg-id="60MINS" tvc-guide-stationid="161735",60 Minutes
@@ -327,12 +321,6 @@ http://example.local/USA-ATNMVDM.ts
 http://example.local/USA-WJAXSTR.ts
 #EXTINF:-1 tvg-chno="124606" tvg-name="ACTION!" group-title="United States" tvg-id="VIZCKBK" tvc-guide-stationid="124606",ACTION!
 http://example.local/USA-VIZCKBK.ts
-#EXTINF:-1 tvg-chno="18434" tvg-name="ActionMAX (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s18433_h3_aa.png?w=360&h=270" group-title="United States" tvg-id="ACMAXP" tvc-guide-stationid="18434",ActionMAX (Pacific)
-http://example.local/USA-ACMAXP.ts
-#EXTINF:-1 tvg-chno="59948" tvg-name="ActionMAX HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59948_ll_h15_ac.png?w=360&h=270" group-title="United States" tvg-id="ACMAXHD" tvc-guide-stationid="59948",ActionMAX HD
-http://example.local/USA-ACMAXHD.ts
-#EXTINF:-1 tvg-chno="59950" tvg-name="ActionMAX HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s59948_h3_aa.png?w=360&h=270" group-title="United States" tvg-id="ACMXHDP" tvc-guide-stationid="59950",ActionMAX HD (Pacific)
-http://example.local/USA-ACMXHDP.ts
 #EXTINF:-1 tvg-chno="23777" tvg-name="Ad Channel (Static) - ADCH001" group-title="United States" tvg-id="ADCH001" tvc-guide-stationid="23777",Ad Channel (Static) - ADCH001
 http://example.local/USA-ADCH001.ts
 #EXTINF:-1 tvg-chno="23778" tvg-name="Ad Channel (Static) - ADCH002" group-title="United States" tvg-id="ADCH002" tvc-guide-stationid="23778",Ad Channel (Static) - ADCH002
@@ -1019,3 +1007,15 @@ http://example.local/USA-ASPREHD.ts
 http://example.local/USA-ASPRES.ts
 #EXTINF:-1 tvg-chno="134856" tvg-name="Aspire TV Life" tvg-logo="https://zap2it.tmsimg.com/assets/s134856_ll_h15_aa.png?w=360&h=270" group-title="United States" tvg-id="ASPTVL" tvc-guide-stationid="134856",Aspire TV Life
 http://example.local/USA-ASPTVL.ts
+#EXTINF:-1 tvg-chno="40277" tvg-name="ASTOUND VIDEO ON DEMAND" group-title="United States" tvg-id="AVDM" tvc-guide-stationid="40277",ASTOUND VIDEO ON DEMAND
+http://example.local/USA-AVDM.ts
+#EXTINF:-1 tvg-chno="127174" tvg-name="At Home with Family Handyman" tvg-logo="https://zap2it.tmsimg.com/assets/s127174_ll_h15_aa.png?w=360&h=270" group-title="United States" tvg-id="ATHFHM" tvc-guide-stationid="127174",At Home with Family Handyman
+http://example.local/USA-ATHFHM.ts
+#EXTINF:-1 tvg-chno="180183" tvg-name="At Home with Family Handyman" tvg-logo="https://zap2it.tmsimg.com/assets/s127174_ll_h15_aa.png?w=360&h=270" group-title="United States" tvg-id="AHFHM10" tvc-guide-stationid="180183",At Home with Family Handyman
+http://example.local/USA-AHFHM10.ts
+#EXTINF:-1 tvg-chno="170368" tvg-name="At the Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s170368_ll_h15_aa.png?w=360&h=270" group-title="United States" tvg-id="WBTV1S" tvc-guide-stationid="170368",At the Movies
+http://example.local/USA-WBTV1S.ts
+#EXTINF:-1 tvg-chno="94482" tvg-name="AT&T U-verse Front Row" group-title="United States" tvg-id="ROW" tvc-guide-stationid="94482",AT&T U-verse Front Row
+http://example.local/USA-ROW.ts
+#EXTINF:-1 tvg-chno="102270" tvg-name="Athletics: MLB Extra Innings" group-title="United States" tvg-id="MLBATH" tvc-guide-stationid="102270",Athletics: MLB Extra Innings
+http://example.local/USA-MLBATH.ts
