@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="101533" tvg-name="Deutschlandfunk Nova" tvg-logo="https://zap2it.tmsimg.com/assets/s101533_ll_h15_ab.png" group-title="Austria" tvg-id="DWISSEN" tvc-guide-stationid="101533",Deutschlandfunk Nova
+http://example.local/AUT-DWISSEN.ts
 #EXTINF:-1 tvg-chno="101533" tvg-name="Deutschlandfunk Nova" tvg-logo="https://zap2it.tmsimg.com/assets/s101533_ll_h15_ab.png" group-title="Germany" tvg-id="DWISSEN" tvc-guide-stationid="101533",Deutschlandfunk Nova
 http://example.local/DEU-DWISSEN.ts
 #EXTINF:-1 tvg-chno="151197" tvg-name="DF1" tvg-logo="https://zap2it.tmsimg.com/assets/s151197_ll_h15_aa.png" group-title="Switzerland" tvg-id="DF1DE" tvc-guide-stationid="151197",DF1
@@ -1017,5 +1019,3 @@ http://example.local/DMA-DKNLHD.ts
 http://example.local/AIA-DKNLHD.ts
 #EXTINF:-1 tvg-chno="81239" tvg-name="Discovery Kids LatinAm HD" tvg-logo="https://zap2it.tmsimg.com/assets/s81239_ll_h15_aa.png" group-title="Grenada" tvg-id="DKNLHD" tvc-guide-stationid="81239",Discovery Kids LatinAm HD
 http://example.local/GRD-DKNLHD.ts
-#EXTINF:-1 tvg-chno="81239" tvg-name="Discovery Kids LatinAm HD" tvg-logo="https://zap2it.tmsimg.com/assets/s81239_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="DKNLHD" tvc-guide-stationid="81239",Discovery Kids LatinAm HD
-http://example.local/ATG-DKNLHD.ts

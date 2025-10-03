@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="21423" tvg-name="DMX: Music of the Americas" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png" group-title="Dominican Republic" tvg-id="MUSAMER" tvc-guide-stationid="21423",DMX: Music of the Americas
+http://example.local/DOM-MUSAMER.ts
 #EXTINF:-1 tvg-chno="21423" tvg-name="DMX: Music of the Americas" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png" group-title="Costa Rica" tvg-id="MUSAMER" tvc-guide-stationid="21423",DMX: Music of the Americas
 http://example.local/CRI-MUSAMER.ts
 #EXTINF:-1 tvg-chno="21423" tvg-name="DMX: Music of the Americas" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png" group-title="Panama" tvg-id="MUSAMER" tvc-guide-stationid="21423",DMX: Music of the Americas
@@ -31,7 +33,7 @@ http://example.local/USA-RAPTRE.ts
 http://example.local/USA-RATPACK.ts
 #EXTINF:-1 tvg-chno="66462" tvg-name="DMX: Reality Bites" tvg-logo="https://zap2it.tmsimg.com/assets/s66462_ll_h9_aa.png" group-title="United States" tvg-id="RLBITES" tvc-guide-stationid="66462",DMX: Reality Bites
 http://example.local/USA-RLBITES.ts
-#EXTINF:-1 tvg-chno="46077" tvg-name="DMX: Red, Rock and Blues" tvg-logo="https://zap2it.tmsimg.com/assets/s46077_ll_h9_aa.png" group-title="United States" tvg-id="REDROCK" tvc-guide-stationid="46077",DMX: Red, Rock and Blues
+#EXTINF:-1 tvg-chno="46077" tvg-name="DMX: Red Rock and Blues" tvg-logo="https://zap2it.tmsimg.com/assets/s46077_ll_h9_aa.png" group-title="United States" tvg-id="REDROCK" tvc-guide-stationid="46077",DMX: Red Rock and Blues
 http://example.local/USA-REDROCK.ts
 #EXTINF:-1 tvg-chno="19005" tvg-name="DMX: Reggae" tvg-logo="https://zap2it.tmsimg.com/assets/s19005_ll_h9_aa.png" group-title="United States" tvg-id="REGGAE" tvc-guide-stationid="19005",DMX: Reggae
 http://example.local/USA-REGGAE.ts
@@ -1017,5 +1019,3 @@ http://example.local/COL-DWLA.ts
 http://example.local/DOM-DWLA.ts
 #EXTINF:-1 tvg-chno="64230" tvg-name="DW en español" tvg-logo="https://zap2it.tmsimg.com/assets/s64230_ll_h15_ag.png" group-title="Costa Rica" tvg-id="DWLA" tvc-guide-stationid="64230",DW en español
 http://example.local/CRI-DWLA.ts
-#EXTINF:-1 tvg-chno="64230" tvg-name="DW en español" tvg-logo="https://zap2it.tmsimg.com/assets/s64230_ll_h15_ag.png" group-title="Saint Vincent and the Grenadines" tvg-id="DWLA" tvc-guide-stationid="64230",DW en español
-http://example.local/VCT-DWLA.ts

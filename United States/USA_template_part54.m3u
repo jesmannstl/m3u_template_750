@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="30554" tvg-name="WKON-DT3" group-title="United States" tvg-id="WKONDT3" tvc-guide-stationid="30554",WKON-DT3
+http://example.local/USA-WKONDT3.ts
+#EXTINF:-1 tvg-chno="30555" tvg-name="WKON-DT4 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="United States" tvg-id="WKONDT4" tvc-guide-stationid="30555",WKON-DT4 (HD06)
+http://example.local/USA-WKONDT4.ts
+#EXTINF:-1 tvg-chno="45345" tvg-name="WKON-DT5" group-title="United States" tvg-id="WKONDT5" tvc-guide-stationid="45345",WKON-DT5
+http://example.local/USA-WKONDT5.ts
 #EXTINF:-1 tvg-chno="45347" tvg-name="WKON-DT6" group-title="United States" tvg-id="WKONDT6" tvc-guide-stationid="45347",WKON-DT6
 http://example.local/USA-WKONDT6.ts
 #EXTINF:-1 tvg-chno="15638" tvg-name="WKOP (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_h3_ba.png" group-title="United States" tvg-id="WKOP" tvc-guide-stationid="15638",WKOP (PBS)
@@ -1013,9 +1019,3 @@ http://example.local/USA-WMAVDT3.ts
 http://example.local/USA-WMAVDT4.ts
 #EXTINF:-1 tvg-chno="116145" tvg-name="WMAV-DT5 (WORLD)" tvg-logo="https://zap2it.tmsimg.com/assets/s56725_ll_h15_ab.png" group-title="United States" tvg-id="WMAVDT5" tvc-guide-stationid="116145",WMAV-DT5 (WORLD)
 http://example.local/USA-WMAVDT5.ts
-#EXTINF:-1 tvg-chno="11674" tvg-name="WMAW (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="United States" tvg-id="WMAW" tvc-guide-stationid="11674",WMAW (PBS)
-http://example.local/USA-WMAW.ts
-#EXTINF:-1 tvg-chno="43292" tvg-name="WMAW-DT (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_h3_ba.png" group-title="United States" tvg-id="WMAWDT" tvc-guide-stationid="43292",WMAW-DT (PBS)
-http://example.local/USA-WMAWDT.ts
-#EXTINF:-1 tvg-chno="43390" tvg-name="WMAW-DT2 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_h3_aa.png" group-title="United States" tvg-id="WMAWDT2" tvc-guide-stationid="43390",WMAW-DT2 (HD06)
-http://example.local/USA-WMAWDT2.ts

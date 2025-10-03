@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="24960" tvg-name="TBSCFL" group-title="United States" tvg-id="TBSCFL" tvc-guide-stationid="24960",TBSCFL
+http://example.local/USA-TBSCFL.ts
+#EXTINF:-1 tvg-chno="122139" tvg-name="TC Internacional" group-title="United States" tvg-id="TCIE" tvc-guide-stationid="122139",TC Internacional
+http://example.local/USA-TCIE.ts
+#EXTINF:-1 tvg-chno="47062" tvg-name="TCM" group-title="United States" tvg-id="GTCM2WD" tvc-guide-stationid="47062",TCM
+http://example.local/USA-GTCM2WD.ts
 #EXTINF:-1 tvg-chno="44824" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_ll_h15_ac.png" group-title="United States" tvg-id="TCMLI" tvc-guide-stationid="44824",TCM
 http://example.local/USA-TCMLI.ts
 #EXTINF:-1 tvg-chno="62972" tvg-name="TCM on Demand" group-title="United States" tvg-id="TCMDM" tvc-guide-stationid="62972",TCM on Demand
@@ -973,7 +979,7 @@ http://example.local/USA-VIZTHME.ts
 http://example.local/USA-TCINE.ts
 #EXTINF:-1 tvg-chno="79899" tvg-name="TODO NOTICIAS HD" tvg-logo="https://zap2it.tmsimg.com/assets/s79899_ll_h9_aa.png" group-title="United States" tvg-id="TODONHD" tvc-guide-stationid="79899",TODO NOTICIAS HD
 http://example.local/USA-TODONHD.ts
-#EXTINF:-1 tvg-chno="148511" tvg-name="Todo Novelas, más Pasiones" tvg-logo="https://zap2it.tmsimg.com/assets/s148511_ll_h15_ab.png" group-title="United States" tvg-id="TONMP" tvc-guide-stationid="148511",Todo Novelas, más Pasiones
+#EXTINF:-1 tvg-chno="148511" tvg-name="Todo Novelas más Pasiones" tvg-logo="https://zap2it.tmsimg.com/assets/s148511_ll_h15_ab.png" group-title="United States" tvg-id="TONMP" tvc-guide-stationid="148511",Todo Novelas más Pasiones
 http://example.local/USA-TONMP.ts
 #EXTINF:-1 tvg-chno="50914" tvg-name="Toku" tvg-logo="https://zap2it.tmsimg.com/assets/s50914_ll_h15_aa.png" group-title="United States" tvg-id="TOKU" tvc-guide-stationid="50914",Toku
 http://example.local/USA-TOKU.ts
@@ -1005,7 +1011,7 @@ http://example.local/USA-TOPKIDSHD.ts
 http://example.local/USA-CRACTION.ts
 #EXTINF:-1 tvg-chno="102298" tvg-name="Toronto Blue Jays: MLB Extra Innings" group-title="United States" tvg-id="MLBTOR" tvc-guide-stationid="102298",Toronto Blue Jays: MLB Extra Innings
 http://example.local/USA-MLBTOR.ts
-#EXTINF:-1 tvg-chno="100271" tvg-name="Toronto Maple Leafs: NHL Center Ice" tvg-logo="https://zap2it.tmsimg.com/assets/s50130_ll_h15_ab.png" group-title="United States" tvg-id="NHLTOR" tvc-guide-stationid="100271",Toronto Maple Leafs: NHL Center Ice
+#EXTINF:-1 tvg-chno="100271" tvg-name="Toronto Maple Leafs: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhltor.png" group-title="United States" tvg-id="NHLTOR" tvc-guide-stationid="100271",Toronto Maple Leafs: NHL Center Ice
 http://example.local/USA-NHLTOR.ts
 #EXTINF:-1 tvg-chno="104872" tvg-name="Toronto Raptors: NBA League Pass" tvg-logo="https://zap2it.tmsimg.com/assets/s95843_ll_h15_ab.png" group-title="United States" tvg-id="NBATOR" tvc-guide-stationid="104872",Toronto Raptors: NBA League Pass
 http://example.local/USA-NBATOR.ts
@@ -1013,9 +1019,3 @@ http://example.local/USA-NBATOR.ts
 http://example.local/USA-TORQUE.ts
 #EXTINF:-1 tvg-chno="115021" tvg-name="Tosh.0" tvg-logo="https://zap2it.tmsimg.com/assets/s115021_ll_h6_aa.png" group-title="United States" tvg-id="PTVTOSH" tvc-guide-stationid="115021",Tosh.0
 http://example.local/USA-PTVTOSH.ts
-#EXTINF:-1 tvg-chno="131220" tvg-name="Total Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s131220_ll_h15_aa.png" group-title="United States" tvg-id="TCUS" tvc-guide-stationid="131220",Total Crime
-http://example.local/USA-TCUS.ts
-#EXTINF:-1 tvg-chno="11341" tvg-name="Total Living Network" tvg-logo="https://zap2it.tmsimg.com/assets/s11341_ll_h15_ab.png" group-title="United States" tvg-id="TLNCHIC" tvc-guide-stationid="11341",Total Living Network
-http://example.local/USA-TLNCHIC.ts
-#EXTINF:-1 tvg-chno="101462" tvg-name="Total TV" group-title="United States" tvg-id="TOTALTV" tvc-guide-stationid="101462",Total TV
-http://example.local/USA-TOTALTV.ts

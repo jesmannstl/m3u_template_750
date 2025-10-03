@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="91880" tvg-name="UNIVERSO HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s91588_ll_h15_ab.png" group-title="United States" tvg-id="UNVSPHD" tvc-guide-stationid="91880",UNIVERSO HD (Pacific)
+http://example.local/USA-UNVSPHD.ts
+#EXTINF:-1 tvg-chno="102959" tvg-name="UNIVERSO HD (Pacific) Stream" tvg-logo="https://zap2it.tmsimg.com/assets/s91588_ll_h15_ab.png" group-title="United States" tvg-id="UVSPHST" tvc-guide-stationid="102959",UNIVERSO HD (Pacific) Stream
+http://example.local/USA-UVSPHST.ts
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="United States" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+http://example.local/USA-UNI.ts
 #EXTINF:-1 tvg-chno="14762" tvg-name="Univision Network (Pacific) (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="United States" tvg-id="UNIP" tvc-guide-stationid="14762",Univision Network (Pacific) (UNI)
 http://example.local/USA-UNIP.ts
 #EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="United States" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
@@ -85,7 +91,7 @@ http://example.local/USA-USATN.ts
 http://example.local/USA-VIZUSTN.ts
 #EXTINF:-1 tvg-chno="104873" tvg-name="Utah Jazz: NBA League Pass" tvg-logo="https://zap2it.tmsimg.com/assets/s95843_ll_h15_ab.png" group-title="United States" tvg-id="NBAUTA" tvc-guide-stationid="104873",Utah Jazz: NBA League Pass
 http://example.local/USA-NBAUTA.ts
-#EXTINF:-1 tvg-chno="100207" tvg-name="Utah Mammoth: NHL Center Ice" tvg-logo="https://zap2it.tmsimg.com/assets/s50130_ll_h15_ab.png" group-title="United States" tvg-id="NHLUT" tvc-guide-stationid="100207",Utah Mammoth: NHL Center Ice
+#EXTINF:-1 tvg-chno="100207" tvg-name="Utah Mammoth: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlut.png" group-title="United States" tvg-id="NHLUT" tvc-guide-stationid="100207",Utah Mammoth: NHL Center Ice
 http://example.local/USA-NHLUT.ts
 #EXTINF:-1 tvg-chno="42699" tvg-name="UTV (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/s51307_ll_h15_aa.png" group-title="United States" tvg-id="UTV" tvc-guide-stationid="42699",UTV (MNT)
 http://example.local/USA-UTV.ts
@@ -109,7 +115,7 @@ http://example.local/USA-DNREAL.ts
 http://example.local/USA-VALUTV.ts
 #EXTINF:-1 tvg-chno="70533" tvg-name="Value TV" group-title="United States" tvg-id="VALUETV" tvc-guide-stationid="70533",Value TV
 http://example.local/USA-VALUETV.ts
-#EXTINF:-1 tvg-chno="100202" tvg-name="Vancouver Canucks: NHL Center Ice" tvg-logo="https://zap2it.tmsimg.com/assets/s50130_ll_h15_ab.png" group-title="United States" tvg-id="NHLVAN" tvc-guide-stationid="100202",Vancouver Canucks: NHL Center Ice
+#EXTINF:-1 tvg-chno="100202" tvg-name="Vancouver Canucks: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlvan.png" group-title="United States" tvg-id="NHLVAN" tvc-guide-stationid="100202",Vancouver Canucks: NHL Center Ice
 http://example.local/USA-NHLVAN.ts
 #EXTINF:-1 tvg-chno="20653" tvg-name="VBN - Vietnamese Broadcasting Network" group-title="United States" tvg-id="VBN" tvc-guide-stationid="20653",VBN - Vietnamese Broadcasting Network
 http://example.local/USA-VBN.ts
@@ -135,7 +141,7 @@ http://example.local/USA-VEPTVHD.ts
 http://example.local/USA-VECINA.ts
 #EXTINF:-1 tvg-chno="100168" tvg-name="Vedic" group-title="United States" tvg-id="VEDIC" tvc-guide-stationid="100168",Vedic
 http://example.local/USA-VEDIC.ts
-#EXTINF:-1 tvg-chno="100592" tvg-name="Vegas Golden Knights: NHL Center Ice" tvg-logo="https://zap2it.tmsimg.com/assets/s50130_ll_h15_ab.png" group-title="United States" tvg-id="NHLLV" tvc-guide-stationid="100592",Vegas Golden Knights: NHL Center Ice
+#EXTINF:-1 tvg-chno="100592" tvg-name="Vegas Golden Knights: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhllv.png" group-title="United States" tvg-id="NHLLV" tvc-guide-stationid="100592",Vegas Golden Knights: NHL Center Ice
 http://example.local/USA-NHLLV.ts
 #EXTINF:-1 tvg-chno="108970" tvg-name="Vegas Sports & Information Network" group-title="United States" tvg-id="VSIN" tvc-guide-stationid="108970",Vegas Sports & Information Network
 http://example.local/USA-VSIN.ts
@@ -1013,9 +1019,3 @@ http://example.local/USA-W30DGD.ts
 http://example.local/USA-W30DND2.ts
 #EXTINF:-1 tvg-chno="89580" tvg-name="W30EE-D (HSN)" tvg-logo="https://zap2it.tmsimg.com/assets/s10269_h3_aa.png" group-title="United States" tvg-id="W30EED" tvc-guide-stationid="89580",W30EE-D (HSN)
 http://example.local/USA-W30EED.ts
-#EXTINF:-1 tvg-chno="119082" tvg-name="W30EE-D6 (DABL)" tvg-logo="https://zap2it.tmsimg.com/assets/s112157_ll_h15_ab.png" group-title="United States" tvg-id="W30EED6" tvc-guide-stationid="119082",W30EE-D6 (DABL)
-http://example.local/USA-W30EED6.ts
-#EXTINF:-1 tvg-chno="91401" tvg-name="W30EG-D (HSN2)" tvg-logo="https://zap2it.tmsimg.com/assets/s10270_h3_aa.png" group-title="United States" tvg-id="W30EGD" tvc-guide-stationid="91401",W30EG-D (HSN2)
-http://example.local/USA-W30EGD.ts
-#EXTINF:-1 tvg-chno="122811" tvg-name="W30EH-D" group-title="United States" tvg-id="W30EHD" tvc-guide-stationid="122811",W30EH-D
-http://example.local/USA-W30EHD.ts

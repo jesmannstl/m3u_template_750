@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="43775" tvg-name="WCIQ-DT2 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="United States" tvg-id="WCIQDT2" tvc-guide-stationid="43775",WCIQ-DT2 (HD06)
+http://example.local/USA-WCIQDT2.ts
+#EXTINF:-1 tvg-chno="55672" tvg-name="WCIQ-DT3 (CREATE)" tvg-logo="https://zap2it.tmsimg.com/assets/s48990_h3_ba.png" group-title="United States" tvg-id="WCIQDT3" tvc-guide-stationid="55672",WCIQ-DT3 (CREATE)
+http://example.local/USA-WCIQDT3.ts
+#EXTINF:-1 tvg-chno="55698" tvg-name="WCIQ-DT4 (WORLD)" tvg-logo="https://zap2it.tmsimg.com/assets/s56725_ll_h15_ab.png" group-title="United States" tvg-id="WCIQDT4" tvc-guide-stationid="55698",WCIQ-DT4 (WORLD)
+http://example.local/USA-WCIQDT4.ts
 #EXTINF:-1 tvg-chno="11347" tvg-name="WCIU" tvg-logo="https://zap2it.tmsimg.com/assets/s11347_ll_h15_ac.png" group-title="United States" tvg-id="WCIU" tvc-guide-stationid="11347",WCIU
 http://example.local/USA-WCIU.ts
 #EXTINF:-1 tvg-chno="36099" tvg-name="WCIU-DT" tvg-logo="https://logos.jesmann.com/wciudt.png" group-title="United States" tvg-id="WCIUDT" tvc-guide-stationid="36099",WCIU-DT
@@ -1013,9 +1019,3 @@ http://example.local/USA-WDTBLD.ts
 http://example.local/USA-WDTI.ts
 #EXTINF:-1 tvg-chno="61711" tvg-name="WDTI-DT (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_aa.png" group-title="United States" tvg-id="WDTIDT" tvc-guide-stationid="61711",WDTI-DT (DYSTR)
 http://example.local/USA-WDTIDT.ts
-#EXTINF:-1 tvg-chno="107593" tvg-name="WDTI-DT (SD Feed) (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_ba.png" group-title="United States" tvg-id="WDTISD" tvc-guide-stationid="107593",WDTI-DT (SD Feed) (DYSTR)
-http://example.local/USA-WDTISD.ts
-#EXTINF:-1 tvg-chno="110351" tvg-name="WDTJ-LD (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_aa.png" group-title="United States" tvg-id="WDTJLD" tvc-guide-stationid="110351",WDTJ-LD (DYSTR)
-http://example.local/USA-WDTJLD.ts
-#EXTINF:-1 tvg-chno="11396" tvg-name="WDTN (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="United States" tvg-id="WDTN" tvc-guide-stationid="11396",WDTN (NBC)
-http://example.local/USA-WDTN.ts

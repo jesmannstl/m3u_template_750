@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="119829" tvg-name="Moto ADV" tvg-logo="https://zap2it.tmsimg.com/assets/s119829_ll_h9_aa.png" group-title="Mexico" tvg-id="MOTOADV" tvc-guide-stationid="119829",Moto ADV
+http://example.local/MEX-MOTOADV.ts
+#EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Mexico" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
+http://example.local/MEX-MTVL.ts
+#EXTINF:-1 tvg-chno="84432" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_h3_ba.png" group-title="Mexico" tvg-id="MTVLHD" tvc-guide-stationid="84432",MTV
+http://example.local/MEX-MTVLHD.ts
 #EXTINF:-1 tvg-chno="97257" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_h3_ba.png" group-title="Mexico" tvg-id="MTVLAHD" tvc-guide-stationid="97257",MTV
 http://example.local/MEX-MTVLAHD.ts
 #EXTINF:-1 tvg-chno="60964" tvg-name="MTV - Music Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60964_ll_h15_aa.png" group-title="Mexico" tvg-id="MTVHD" tvc-guide-stationid="60964",MTV - Music Television HD
@@ -1013,9 +1019,3 @@ http://example.local/MEX-XHGJG.ts
 http://example.local/MEX-XHGJGTDT.ts
 #EXTINF:-1 tvg-chno="100614" tvg-name="XHGJG-TDT2" tvg-logo="https://zap2it.tmsimg.com/assets/s116229_ll_h15_aa.png" group-title="Mexico" tvg-id="XHGJGTDT2" tvc-guide-stationid="100614",XHGJG-TDT2
 http://example.local/MEX-XHGJGTDT2.ts
-#EXTINF:-1 tvg-chno="96706" tvg-name="XHGK-TDT (NU9NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_ll_h15_aa.png" group-title="Mexico" tvg-id="XHGKTDT" tvc-guide-stationid="96706",XHGK-TDT (NU9NET)
-http://example.local/MEX-XHGKTDT.ts
-#EXTINF:-1 tvg-chno="96644" tvg-name="XHGN-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png" group-title="Mexico" tvg-id="XHGNTDT" tvc-guide-stationid="96644",XHGN-TDT (AZ1NET)
-http://example.local/MEX-XHGNTDT.ts
-#EXTINF:-1 tvg-chno="119830" tvg-name="XHGO-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png" group-title="Mexico" tvg-id="XHGOTDT" tvc-guide-stationid="119830",XHGO-TDT (ESTRNET)
-http://example.local/MEX-XHGOTDT.ts

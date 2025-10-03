@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="34794" tvg-name="WTVM-DT (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28708_h3_aa.png" group-title="United States" tvg-id="WTVMDT" tvc-guide-stationid="34794",WTVM-DT (ABC)
+http://example.local/USA-WTVMDT.ts
+#EXTINF:-1 tvg-chno="49434" tvg-name="WTVM-DT2 (BOUNCE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_ll_h15_ab.png" group-title="United States" tvg-id="WTVMDT2" tvc-guide-stationid="49434",WTVM-DT2 (BOUNCE)
+http://example.local/USA-WTVMDT2.ts
+#EXTINF:-1 tvg-chno="91149" tvg-name="WTVM-DT3" group-title="United States" tvg-id="WTVMDT3" tvc-guide-stationid="91149",WTVM-DT3
+http://example.local/USA-WTVMDT3.ts
 #EXTINF:-1 tvg-chno="114021" tvg-name="WTVM-DT4 (GRIT)" tvg-logo="https://zap2it.tmsimg.com/assets/s89922_h3_aa.png" group-title="United States" tvg-id="WTVMDT4" tvc-guide-stationid="114021",WTVM-DT4 (GRIT)
 http://example.local/USA-WTVMDT4.ts
 #EXTINF:-1 tvg-chno="118461" tvg-name="WTVM-DT5 (QUESTSD)" tvg-logo="https://zap2it.tmsimg.com/assets/s106838_ll_h9_ad.png" group-title="United States" tvg-id="WTVMDT5" tvc-guide-stationid="118461",WTVM-DT5 (QUESTSD)
@@ -1013,9 +1019,3 @@ http://example.local/USA-WVITDT.ts
 http://example.local/USA-WVITDT2.ts
 #EXTINF:-1 tvg-chno="61384" tvg-name="WVIT-DT3 (CRMES)" tvg-logo="https://zap2it.tmsimg.com/assets/s114278_ll_h15_ae.png" group-title="United States" tvg-id="WVITDT3" tvc-guide-stationid="61384",WVIT-DT3 (CRMES)
 http://example.local/USA-WVITDT3.ts
-#EXTINF:-1 tvg-chno="106886" tvg-name="WVIT-DT4 (OXYGEN)" tvg-logo="https://zap2it.tmsimg.com/assets/s21484_h3_aa.png" group-title="United States" tvg-id="WVITDT4" tvc-guide-stationid="106886",WVIT-DT4 (OXYGEN)
-http://example.local/USA-WVITDT4.ts
-#EXTINF:-1 tvg-chno="88419" tvg-name="WVIT2 (SD Feed) (COZITV)" tvg-logo="https://zap2it.tmsimg.com/assets/s78851_ll_h15_ab.png" group-title="United States" tvg-id="WVIT2SD" tvc-guide-stationid="88419",WVIT2 (SD Feed) (COZITV)
-http://example.local/USA-WVIT2SD.ts
-#EXTINF:-1 tvg-chno="11965" tvg-name="WVIZ (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="United States" tvg-id="WVIZ" tvc-guide-stationid="11965",WVIZ (PBS)
-http://example.local/USA-WVIZ.ts

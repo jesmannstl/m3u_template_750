@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="10827" tvg-name="KWTX (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="United States" tvg-id="KWTX" tvc-guide-stationid="10827",KWTX (CBS)
+http://example.local/USA-KWTX.ts
+#EXTINF:-1 tvg-chno="25675" tvg-name="KWTX-DT (CBS)" tvg-logo="https://logos.jesmann.com/kwtxdt.jpg" group-title="United States" tvg-id="KWTXDT" tvc-guide-stationid="25675",KWTX-DT (CBS)
+http://example.local/USA-KWTXDT.ts
+#EXTINF:-1 tvg-chno="49403" tvg-name="KWTX-DT2 (TELE)" tvg-logo="https://zap2it.tmsimg.com/assets/s10239_ll_h15_ab.png" group-title="United States" tvg-id="KWTXDT2" tvc-guide-stationid="49403",KWTX-DT2 (TELE)
+http://example.local/USA-KWTXDT2.ts
 #EXTINF:-1 tvg-chno="99255" tvg-name="KWTX-DT2 (SD Feed) (TELE)" tvg-logo="https://zap2it.tmsimg.com/assets/s10239_h3_aa.png" group-title="United States" tvg-id="KWTX2SD" tvc-guide-stationid="99255",KWTX-DT2 (SD Feed) (TELE)
 http://example.local/USA-KWTX2SD.ts
 #EXTINF:-1 tvg-chno="110282" tvg-name="KWTX-DT3 (METVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" group-title="United States" tvg-id="KWTXDT3" tvc-guide-stationid="110282",KWTX-DT3 (METVN)
@@ -1013,9 +1019,3 @@ http://example.local/USA-DLAFAM.ts
 http://example.local/USA-LAFEA.ts
 #EXTINF:-1 tvg-chno="123967" tvg-name="La Fuerza del Destino" tvg-logo="https://zap2it.tmsimg.com/assets/s123967_ll_h15_ab.png" group-title="United States" tvg-id="NOVFD" tvc-guide-stationid="123967",La Fuerza del Destino
 http://example.local/USA-NOVFD.ts
-#EXTINF:-1 tvg-chno="124014" tvg-name="La que no podía amar" tvg-logo="https://zap2it.tmsimg.com/assets/s124014_ll_h15_ab.png" group-title="United States" tvg-id="LAQNO" tvc-guide-stationid="124014",La que no podía amar
-http://example.local/USA-LAQNO.ts
-#EXTINF:-1 tvg-chno="123945" tvg-name="La Rosa de Guadalupe" tvg-logo="https://zap2it.tmsimg.com/assets/s123945_ll_h15_ab.png" group-title="United States" tvg-id="RODGUAA" tvc-guide-stationid="123945",La Rosa de Guadalupe
-http://example.local/USA-RODGUAA.ts
-#EXTINF:-1 tvg-chno="82793" tvg-name="La X 100.7 FM" group-title="United States" tvg-id="LAXFM" tvc-guide-stationid="82793",La X 100.7 FM
-http://example.local/USA-LAXFM.ts

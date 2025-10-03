@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="91465" tvg-name="Canal D Sur Demande" group-title="Canada" tvg-id="CDSDM" tvc-guide-stationid="91465",Canal D Sur Demande
+http://example.local/CAN-CDSDM.ts
 #EXTINF:-1 tvg-chno="50753" tvg-name="Canal de Aniversario" group-title="Guatemala" tvg-id="CANALAN" tvc-guide-stationid="50753",Canal de Aniversario
 http://example.local/GTM-CANALAN.ts
 #EXTINF:-1 tvg-chno="50753" tvg-name="Canal de Aniversario" group-title="Panama" tvg-id="CANALAN" tvc-guide-stationid="50753",Canal de Aniversario
@@ -873,7 +875,7 @@ http://example.local/USA-CHPDM.ts
 http://example.local/USA-CAROL24.ts
 #EXTINF:-1 tvg-chno="61287" tvg-name="Carolina Home On Demand" group-title="United States" tvg-id="CARHODM" tvc-guide-stationid="61287",Carolina Home On Demand
 http://example.local/USA-CARHODM.ts
-#EXTINF:-1 tvg-chno="100250" tvg-name="Carolina Hurricanes: NHL Center Ice" tvg-logo="https://zap2it.tmsimg.com/assets/s50130_ll_h15_ab.png" group-title="United States" tvg-id="NHLCAR" tvc-guide-stationid="100250",Carolina Hurricanes: NHL Center Ice
+#EXTINF:-1 tvg-chno="100250" tvg-name="Carolina Hurricanes: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlcar.png" group-title="United States" tvg-id="NHLCAR" tvc-guide-stationid="100250",Carolina Hurricanes: NHL Center Ice
 http://example.local/USA-NHLCAR.ts
 #EXTINF:-1 tvg-chno="51659" tvg-name="Carolina On Demand" group-title="United States" tvg-id="CAROLDM" tvc-guide-stationid="51659",Carolina On Demand
 http://example.local/USA-CAROLDM.ts
@@ -1017,5 +1019,3 @@ http://example.local/IRL-CRTOON.ts
 http://example.local/VCT-TOONL.ts
 #EXTINF:-1 tvg-chno="101403" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="CARTPHD" tvc-guide-stationid="101403",Cartoon Network
 http://example.local/VCT-CARTPHD.ts
-#EXTINF:-1 tvg-chno="51779" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s51779_ll_h15_aa.png" group-title="Belgium" tvg-id="CANETFR" tvc-guide-stationid="51779",Cartoon Network
-http://example.local/BEL-CANETFR.ts

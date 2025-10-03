@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="50798" tvg-name="Rede Globo INTL 2 (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s50798_ll_h15_cc.png" group-title="Chile" tvg-id="RGTI2" tvc-guide-stationid="50798",Rede Globo INTL 2 (REDEGL)
+http://example.local/CHL-RGTI2.ts
+#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" group-title="Chile" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
+http://example.local/CHL-RFIRAD.ts
 #EXTINF:-1 tvg-chno="39708" tvg-name="Rock Alternativo" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Chile" tvg-id="ROCKALT" tvc-guide-stationid="39708",Rock Alternativo
 http://example.local/CHL-ROCKALT.ts
 #EXTINF:-1 tvg-chno="58333" tvg-name="RT" tvg-logo="https://zap2it.tmsimg.com/assets/s58333_ll_h15_aa.png" group-title="Chile" tvg-id="RTTV" tvc-guide-stationid="58333",RT
@@ -407,7 +411,3 @@ http://example.local/CHL-ZEE.ts
 http://example.local/CHL-ZONAL.ts
 #EXTINF:-1 tvg-chno="110065" tvg-name="ZooMoo" tvg-logo="https://zap2it.tmsimg.com/assets/s89920_ll_h15_ab.png" group-title="Chile" tvg-id="ZOOMOSH" tvc-guide-stationid="110065",ZooMoo
 http://example.local/CHL-ZOOMOSH.ts
-#EXTINF:-1 tvg-chno="92054" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Chile" tvg-id="HOLALAH" tvc-guide-stationid="92054",¡HOLA! TV
-http://example.local/CHL-HOLALAH.ts
-#EXTINF:-1 tvg-chno="82970" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Chile" tvg-id="HOLALA" tvc-guide-stationid="82970",¡HOLA! TV
-http://example.local/CHL-HOLALA.ts

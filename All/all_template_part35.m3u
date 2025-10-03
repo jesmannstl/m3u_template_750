@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Curacao" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
+http://example.local/CUW-HBOFMHD.ts
 #EXTINF:-1 tvg-chno="57396" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Curacao" tvg-id="HBOFAME" tvc-guide-stationid="57396",HBO Family
 http://example.local/CUW-HBOFAME.ts
 #EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_h3_aa.png" group-title="United States" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
@@ -1017,5 +1019,3 @@ http://example.local/AUT-HEISSTV.ts
 http://example.local/DEU-HEISSTV.ts
 #EXTINF:-1 tvg-chno="113322" tvg-name="Heiss und Sexy TV" group-title="Belgium" tvg-id="HEISSTV" tvc-guide-stationid="113322",Heiss und Sexy TV
 http://example.local/BEL-HEISSTV.ts
-#EXTINF:-1 tvg-chno="175743" tvg-name="Heisse Dates TV" group-title="Poland" tvg-id="HEISDT" tvc-guide-stationid="175743",Heisse Dates TV
-http://example.local/POL-HEISDT.ts

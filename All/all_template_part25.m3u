@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="49258" tvg-name="Enlace Juvenil" tvg-logo="https://zap2it.tmsimg.com/assets/s49258_ll_h15_aa.png" group-title="Peru" tvg-id="ENLACJ" tvc-guide-stationid="49258",Enlace Juvenil
+http://example.local/PER-ENLACJ.ts
 #EXTINF:-1 tvg-chno="49258" tvg-name="Enlace Juvenil" tvg-logo="https://zap2it.tmsimg.com/assets/s49258_ll_h15_aa.png" group-title="Argentina" tvg-id="ENLACJ" tvc-guide-stationid="49258",Enlace Juvenil
 http://example.local/ARG-ENLACJ.ts
 #EXTINF:-1 tvg-chno="49258" tvg-name="Enlace Juvenil" tvg-logo="https://zap2it.tmsimg.com/assets/s49258_ll_h15_aa.png" group-title="Colombia" tvg-id="ENLACJ" tvc-guide-stationid="49258",Enlace Juvenil
@@ -1017,5 +1019,3 @@ http://example.local/TTO-ESPNICH.ts
 http://example.local/TTO-ESPNIC.ts
 #EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" group-title="Aruba" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
 http://example.local/ABW-ESPNIC.ts
-#EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" group-title="British Virgin Islands" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
-http://example.local/VGB-ESPNIC.ts

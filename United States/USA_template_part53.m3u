@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="122190" tvg-name="WIRT-DT6 (IMYS)" tvg-logo="https://zap2it.tmsimg.com/assets/s89923_ll_h15_ad.png" group-title="United States" tvg-id="WIRTDT6" tvc-guide-stationid="122190",WIRT-DT6 (IMYS)
+http://example.local/USA-WIRTDT6.ts
+#EXTINF:-1 tvg-chno="11555" tvg-name="WIS (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_h3_aa.png" group-title="United States" tvg-id="WIS" tvc-guide-stationid="11555",WIS (NBC)
+http://example.local/USA-WIS.ts
+#EXTINF:-1 tvg-chno="36079" tvg-name="WIS-DT (NBC)" tvg-logo="https://logos.jesmann.com/wisdt.png" group-title="United States" tvg-id="WISDT" tvc-guide-stationid="36079",WIS-DT (NBC)
+http://example.local/USA-WISDT.ts
 #EXTINF:-1 tvg-chno="36081" tvg-name="WIS-DT2 (CW)" tvg-logo="https://logos.jesmann.com/wisdt2.png" group-title="United States" tvg-id="WISDT2" tvc-guide-stationid="36081",WIS-DT2 (CW)
 http://example.local/USA-WISDT2.ts
 #EXTINF:-1 tvg-chno="112566" tvg-name="WIS-DT2 (SD Feed) (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png" group-title="United States" tvg-id="WIS2SD" tvc-guide-stationid="112566",WIS-DT2 (SD Feed) (CW)
@@ -1013,9 +1019,3 @@ http://example.local/USA-WKON.ts
 http://example.local/USA-WKONDT.ts
 #EXTINF:-1 tvg-chno="30539" tvg-name="WKON-DT2 (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_h3_aa.png" group-title="United States" tvg-id="WKONDT2" tvc-guide-stationid="30539",WKON-DT2 (PBS)
 http://example.local/USA-WKONDT2.ts
-#EXTINF:-1 tvg-chno="30554" tvg-name="WKON-DT3" group-title="United States" tvg-id="WKONDT3" tvc-guide-stationid="30554",WKON-DT3
-http://example.local/USA-WKONDT3.ts
-#EXTINF:-1 tvg-chno="30555" tvg-name="WKON-DT4 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="United States" tvg-id="WKONDT4" tvc-guide-stationid="30555",WKON-DT4 (HD06)
-http://example.local/USA-WKONDT4.ts
-#EXTINF:-1 tvg-chno="45345" tvg-name="WKON-DT5" group-title="United States" tvg-id="WKONDT5" tvc-guide-stationid="45345",WKON-DT5
-http://example.local/USA-WKONDT5.ts

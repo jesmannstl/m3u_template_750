@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="32697" tvg-name="KELV-LP (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_h3_aa.png" group-title="United States" tvg-id="KELVLP" tvc-guide-stationid="32697",KELV-LP (UNIMAS)
+http://example.local/USA-KELVLP.ts
+#EXTINF:-1 tvg-chno="10467" tvg-name="KEMO (FUBOOTA)" tvg-logo="https://zap2it.tmsimg.com/assets/s166532_ll_h9_aa.png" group-title="United States" tvg-id="KEMO" tvc-guide-stationid="10467",KEMO (FUBOOTA)
+http://example.local/USA-KEMO.ts
+#EXTINF:-1 tvg-chno="43282" tvg-name="KEMO-DT (FUBOOTA)" tvg-logo="https://zap2it.tmsimg.com/assets/s166532_ll_h9_aa.png" group-title="United States" tvg-id="KEMODT" tvc-guide-stationid="43282",KEMO-DT (FUBOOTA)
+http://example.local/USA-KEMODT.ts
 #EXTINF:-1 tvg-chno="79043" tvg-name="KEMO-DT2" group-title="United States" tvg-id="KEMODT2" tvc-guide-stationid="79043",KEMO-DT2
 http://example.local/USA-KEMODT2.ts
 #EXTINF:-1 tvg-chno="100006" tvg-name="KEMO-DT3" group-title="United States" tvg-id="KEMODT3" tvc-guide-stationid="100006",KEMO-DT3
@@ -1013,9 +1019,3 @@ http://example.local/USA-KGAN.ts
 http://example.local/USA-KGANDT.ts
 #EXTINF:-1 tvg-chno="59158" tvg-name="KGAN-DT2 (FOX)" tvg-logo="https://logos.jesmann.com/kgandt2.png" group-title="United States" tvg-id="KGANDT2" tvc-guide-stationid="59158",KGAN-DT2 (FOX)
 http://example.local/USA-KGANDT2.ts
-#EXTINF:-1 tvg-chno="97227" tvg-name="KGAN-DT3 (QUESTSD)" tvg-logo="https://zap2it.tmsimg.com/assets/s106838_ll_h9_ad.png" group-title="United States" tvg-id="KGANDT3" tvc-guide-stationid="97227",KGAN-DT3 (QUESTSD)
-http://example.local/USA-KGANDT3.ts
-#EXTINF:-1 tvg-chno="94874" tvg-name="KGBD-LD (ABC)" tvg-logo="https://logos.jesmann.com/kgbdld.png" group-title="United States" tvg-id="KGBDLD" tvc-guide-stationid="94874",KGBD-LD (ABC)
-http://example.local/USA-KGBDLD.ts
-#EXTINF:-1 tvg-chno="94878" tvg-name="KGBD-LD2 (METVN)" tvg-logo="https://logos.jesmann.com/kgbdld2.png" group-title="United States" tvg-id="KGBDLD2" tvc-guide-stationid="94878",KGBD-LD2 (METVN)
-http://example.local/USA-KGBDLD2.ts

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="64770" tvg-name="Community Access - COAC980" group-title="United States" tvg-id="COAC980" tvc-guide-stationid="64770",Community Access - COAC980
+http://example.local/USA-COAC980.ts
 #EXTINF:-1 tvg-chno="98924" tvg-name="Community Access 2" group-title="Canada" tvg-id="COAC2" tvc-guide-stationid="98924",Community Access 2
 http://example.local/CAN-COAC2.ts
 #EXTINF:-1 tvg-chno="75756" tvg-name="Community Access 24" group-title="United States" tvg-id="CMACC24" tvc-guide-stationid="75756",Community Access 24
@@ -1017,5 +1019,3 @@ http://example.local/VCT-SCIFIS.ts
 http://example.local/MAF-SCIFIS.ts
 #EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png" group-title="Bermuda" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
 http://example.local/BMU-SCIFIS.ts
-#EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
-http://example.local/TTO-SCIFIS.ts

@@ -151,7 +151,9 @@ http://example.local/USA-BKNOW.ts
 http://example.local/USA-BUCKCLA.ts
 #EXTINF:-1 tvg-chno="81803" tvg-name="Buena TV" group-title="Venezuela" tvg-id="BUENATV" tvc-guide-stationid="81803",Buena TV
 http://example.local/VEN-BUENATV.ts
-#EXTINF:-1 tvg-chno="100241" tvg-name="Buffalo Sabres: NHL Center Ice" tvg-logo="https://zap2it.tmsimg.com/assets/s50130_ll_h15_ab.png" group-title="United States" tvg-id="NHLBUF" tvc-guide-stationid="100241",Buffalo Sabres: NHL Center Ice
+#EXTINF:-1 tvg-chno="53993" tvg-name="Buenviaje!" tvg-logo="https://zap2it.tmsimg.com/assets/s53993_ll_h15_ac.png" group-title="Spain" tvg-id="BUENVIA" tvc-guide-stationid="53993",Buenviaje!
+http://example.local/ESP-BUENVIA.ts
+#EXTINF:-1 tvg-chno="100241" tvg-name="Buffalo Sabres: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlbuf.png" group-title="United States" tvg-id="NHLBUF" tvc-guide-stationid="100241",Buffalo Sabres: NHL Center Ice
 http://example.local/USA-NHLBUF.ts
 #EXTINF:-1 tvg-chno="160644" tvg-name="Buffy the Vampire Slayer" tvg-logo="https://zap2it.tmsimg.com/assets/s160644_ll_h15_aa.png" group-title="United States" tvg-id="DISBTVS" tvc-guide-stationid="160644",Buffy the Vampire Slayer
 http://example.local/USA-DISBTVS.ts
@@ -521,7 +523,7 @@ http://example.local/USA-PALIW.ts
 http://example.local/USA-CABPORT.ts
 #EXTINF:-1 tvg-chno="66207" tvg-name="Cablevision Public Access" group-title="United States" tvg-id="CVCPA" tvc-guide-stationid="66207",Cablevision Public Access
 http://example.local/USA-CVCPA.ts
-#EXTINF:-1 tvg-chno="66206" tvg-name="Cablevision Public, Education & Government Access" group-title="United States" tvg-id="CVCPEG" tvc-guide-stationid="66206",Cablevision Public, Education & Government Access
+#EXTINF:-1 tvg-chno="66206" tvg-name="Cablevision Public Education & Government Access" group-title="United States" tvg-id="CVCPEG" tvc-guide-stationid="66206",Cablevision Public Education & Government Access
 http://example.local/USA-CVCPEG.ts
 #EXTINF:-1 tvg-chno="33377" tvg-name="Cablevision Ramapo (CARAM) (TBN)" tvg-logo="https://zap2it.tmsimg.com/assets/s14767_ll_h15_ad.png" group-title="United States" tvg-id="CARAM" tvc-guide-stationid="33377",Cablevision Ramapo (CARAM) (TBN)
 http://example.local/USA-CARAM.ts
@@ -573,7 +575,7 @@ http://example.local/BLZ-CLWTR.ts
 http://example.local/VGB-CLWTR.ts
 #EXTINF:-1 tvg-chno="79913" tvg-name="CalaWeather" tvg-logo="https://zap2it.tmsimg.com/assets/s79913_ll_h15_aa.png" group-title="Grenada" tvg-id="CLWTR" tvc-guide-stationid="79913",CalaWeather
 http://example.local/GRD-CLWTR.ts
-#EXTINF:-1 tvg-chno="100206" tvg-name="Calgary Flames: NHL Center Ice" tvg-logo="https://zap2it.tmsimg.com/assets/s50130_ll_h15_ab.png" group-title="United States" tvg-id="NHLCLG" tvc-guide-stationid="100206",Calgary Flames: NHL Center Ice
+#EXTINF:-1 tvg-chno="100206" tvg-name="Calgary Flames: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlclg.png" group-title="United States" tvg-id="NHLCLG" tvc-guide-stationid="100206",Calgary Flames: NHL Center Ice
 http://example.local/USA-NHLCLG.ts
 #EXTINF:-1 tvg-chno="80064" tvg-name="Cali TV" tvg-logo="https://zap2it.tmsimg.com/assets/s80064_ll_h15_aa.png" group-title="Mexico" tvg-id="CALITV" tvc-guide-stationid="80064",Cali TV
 http://example.local/MEX-CALITV.ts
@@ -1017,5 +1019,3 @@ http://example.local/COL-CSMOTV.ts
 http://example.local/CAN-CANALD.ts
 #EXTINF:-1 tvg-chno="56161" tvg-name="Canal D HD" tvg-logo="https://zap2it.tmsimg.com/assets/s56161_ll_h9_aa.png" group-title="Canada" tvg-id="CANDHD" tvc-guide-stationid="56161",Canal D HD
 http://example.local/CAN-CANDHD.ts
-#EXTINF:-1 tvg-chno="91465" tvg-name="Canal D Sur Demande" group-title="Canada" tvg-id="CDSDM" tvc-guide-stationid="91465",Canal D Sur Demande
-http://example.local/CAN-CDSDM.ts

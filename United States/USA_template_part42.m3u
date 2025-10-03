@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="43239" tvg-name="SIRIUS XM Chill" group-title="United States" tvg-id="SRCHILL" tvc-guide-stationid="43239",SIRIUS XM Chill
+http://example.local/USA-SRCHILL.ts
+#EXTINF:-1 tvg-chno="72210" tvg-name="SIRIUS XM Limited Engagements" group-title="United States" tvg-id="SRLMENG" tvc-guide-stationid="72210",SIRIUS XM Limited Engagements
+http://example.local/USA-SRLMENG.ts
+#EXTINF:-1 tvg-chno="43216" tvg-name="SIRIUS XM Love" group-title="United States" tvg-id="SRXMLUV" tvc-guide-stationid="43216",SIRIUS XM Love
+http://example.local/USA-SRXMLUV.ts
 #EXTINF:-1 tvg-chno="72209" tvg-name="SIRIUS XM Pearl Jam Radio" group-title="United States" tvg-id="SRPEARL" tvc-guide-stationid="72209",SIRIUS XM Pearl Jam Radio
 http://example.local/USA-SRPEARL.ts
 #EXTINF:-1 tvg-chno="43271" tvg-name="SIRIUS XM Pops" group-title="United States" tvg-id="SRPOPS" tvc-guide-stationid="43271",SIRIUS XM Pops
@@ -217,7 +223,7 @@ http://example.local/USA-SONPUMP.ts
 http://example.local/USA-SONRATP.ts
 #EXTINF:-1 tvg-chno="95040" tvg-name="Sonic Tap: Reality Bites" group-title="United States" tvg-id="SONREL" tvc-guide-stationid="95040",Sonic Tap: Reality Bites
 http://example.local/USA-SONREL.ts
-#EXTINF:-1 tvg-chno="95066" tvg-name="Sonic Tap: Red, Rock and Blues" group-title="United States" tvg-id="SONRRB" tvc-guide-stationid="95066",Sonic Tap: Red, Rock and Blues
+#EXTINF:-1 tvg-chno="95066" tvg-name="Sonic Tap: Red Rock and Blues" group-title="United States" tvg-id="SONRRB" tvc-guide-stationid="95066",Sonic Tap: Red Rock and Blues
 http://example.local/USA-SONRRB.ts
 #EXTINF:-1 tvg-chno="94981" tvg-name="Sonic Tap: Reggae" group-title="United States" tvg-id="SONREG" tvc-guide-stationid="94981",Sonic Tap: Reggae
 http://example.local/USA-SONREG.ts
@@ -913,7 +919,7 @@ http://example.local/USA-SFCC.ts
 http://example.local/USA-PPLUSBOB.ts
 #EXTINF:-1 tvg-chno="175103" tvg-name="Spooks (MI5)" tvg-logo="https://zap2it.tmsimg.com/assets/s175103_ll_h15_aa.png" group-title="United States" tvg-id="MI5" tvc-guide-stationid="175103",Spooks (MI5)
 http://example.local/USA-MI5.ts
-#EXTINF:-1 tvg-chno="24530" tvg-name="SPOPPV 6 Time Warner Columbus, OH" group-title="United States" tvg-id="SPO6CO" tvc-guide-stationid="24530",SPOPPV 6 Time Warner Columbus, OH
+#EXTINF:-1 tvg-chno="24530" tvg-name="SPOPPV 6 Time Warner Columbus OH" group-title="United States" tvg-id="SPO6CO" tvc-guide-stationid="24530",SPOPPV 6 Time Warner Columbus OH
 http://example.local/USA-SPO6CO.ts
 #EXTINF:-1 tvg-chno="26934" tvg-name="SPOPPV1 - Columbia" group-title="United States" tvg-id="SPO1COL" tvc-guide-stationid="26934",SPOPPV1 - Columbia
 http://example.local/USA-SPO1COL.ts
@@ -1013,9 +1019,3 @@ http://example.local/USA-SPOF1HD.ts
 http://example.local/USA-SOF1HD.ts
 #EXTINF:-1 tvg-chno="88896" tvg-name="Sports Overflow 1 SD (SOF1) - Litchfield" group-title="United States" tvg-id="SOF1" tvc-guide-stationid="88896",Sports Overflow 1 SD (SOF1) - Litchfield
 http://example.local/USA-SOF1.ts
-#EXTINF:-1 tvg-chno="89146" tvg-name="Sports Overflow 2 HD (SOF2) - Hamilton" group-title="United States" tvg-id="SOF2HHD" tvc-guide-stationid="89146",Sports Overflow 2 HD (SOF2) - Hamilton
-http://example.local/USA-SOF2HHD.ts
-#EXTINF:-1 tvg-chno="89145" tvg-name="Sports Overflow 2 HD (SOF2) - Litchfield" group-title="United States" tvg-id="SOF2HD" tvc-guide-stationid="89145",Sports Overflow 2 HD (SOF2) - Litchfield
-http://example.local/USA-SOF2HD.ts
-#EXTINF:-1 tvg-chno="88903" tvg-name="Sports Overflow 2 SD (SOF2) - Hamilton" group-title="United States" tvg-id="SOF2H" tvc-guide-stationid="88903",Sports Overflow 2 SD (SOF2) - Hamilton
-http://example.local/USA-SOF2H.ts

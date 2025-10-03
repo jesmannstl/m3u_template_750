@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="64230" tvg-name="DW en español" tvg-logo="https://zap2it.tmsimg.com/assets/s64230_ll_h15_ag.png" group-title="Saint Vincent and the Grenadines" tvg-id="DWLA" tvc-guide-stationid="64230",DW en español
+http://example.local/VCT-DWLA.ts
 #EXTINF:-1 tvg-chno="64230" tvg-name="DW en español" tvg-logo="https://zap2it.tmsimg.com/assets/s64230_ll_h15_ag.png" group-title="Chile" tvg-id="DWLA" tvc-guide-stationid="64230",DW en español
 http://example.local/CHL-DWLA.ts
 #EXTINF:-1 tvg-chno="64230" tvg-name="DW en español" tvg-logo="https://zap2it.tmsimg.com/assets/s64230_ll_h15_ag.png" group-title="Panama" tvg-id="DWLA" tvc-guide-stationid="64230",DW en español
@@ -391,7 +393,7 @@ http://example.local/DEU-EDGESP.ts
 http://example.local/USA-EDGEHD.ts
 #EXTINF:-1 tvg-chno="104938" tvg-name="Edge Sports HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104938_ll_h15_aa.png" group-title="Austria" tvg-id="EDGEHD" tvc-guide-stationid="104938",Edge Sports HD
 http://example.local/AUT-EDGEHD.ts
-#EXTINF:-1 tvg-chno="100205" tvg-name="Edmonton Oilers: NHL Center Ice" tvg-logo="https://zap2it.tmsimg.com/assets/s50130_ll_h15_ab.png" group-title="United States" tvg-id="NHLEDM" tvc-guide-stationid="100205",Edmonton Oilers: NHL Center Ice
+#EXTINF:-1 tvg-chno="100205" tvg-name="Edmonton Oilers: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhledm.png" group-title="United States" tvg-id="NHLEDM" tvc-guide-stationid="100205",Edmonton Oilers: NHL Center Ice
 http://example.local/USA-NHLEDM.ts
 #EXTINF:-1 tvg-chno="91342" tvg-name="EdTV" group-title="United States" tvg-id="CAWC" tvc-guide-stationid="91342",EdTV
 http://example.local/USA-CAWC.ts
@@ -1017,5 +1019,3 @@ http://example.local/CYM-ENLCE.ts
 http://example.local/BES-ENLCE.ts
 #EXTINF:-1 tvg-chno="49258" tvg-name="Enlace Juvenil" tvg-logo="https://zap2it.tmsimg.com/assets/s49258_ll_h15_aa.png" group-title="Mexico" tvg-id="ENLACJ" tvc-guide-stationid="49258",Enlace Juvenil
 http://example.local/MEX-ENLACJ.ts
-#EXTINF:-1 tvg-chno="49258" tvg-name="Enlace Juvenil" tvg-logo="https://zap2it.tmsimg.com/assets/s49258_ll_h15_aa.png" group-title="Peru" tvg-id="ENLACJ" tvc-guide-stationid="49258",Enlace Juvenil
-http://example.local/PER-ENLACJ.ts

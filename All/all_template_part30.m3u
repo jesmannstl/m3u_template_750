@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="58718" tvg-name="Fox Business HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58718_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="FBNHD" tvc-guide-stationid="58718",Fox Business HD
+http://example.local/TTO-FBNHD.ts
 #EXTINF:-1 tvg-chno="58718" tvg-name="Fox Business HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58718_ll_h15_ac.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="FBNHD" tvc-guide-stationid="58718",Fox Business HD
 http://example.local/BES-FBNHD.ts
 #EXTINF:-1 tvg-chno="58718" tvg-name="Fox Business HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58718_ll_h15_ac.png" group-title="Curacao" tvg-id="FBNHD" tvc-guide-stationid="58718",Fox Business HD
@@ -1017,5 +1019,3 @@ http://example.local/FRA-FRINFOH.ts
 http://example.local/ESP-FRFERN.ts
 #EXTINF:-1 tvg-chno="83589" tvg-name="Franken Fernsehen" tvg-logo="https://zap2it.tmsimg.com/assets/s83589_ll_h15_ab.png" group-title="Austria" tvg-id="FRFERN" tvc-guide-stationid="83589",Franken Fernsehen
 http://example.local/AUT-FRFERN.ts
-#EXTINF:-1 tvg-chno="83589" tvg-name="Franken Fernsehen" tvg-logo="https://zap2it.tmsimg.com/assets/s83589_ll_h15_ab.png" group-title="Germany" tvg-id="FRFERN" tvc-guide-stationid="83589",Franken Fernsehen
-http://example.local/DEU-FRFERN.ts

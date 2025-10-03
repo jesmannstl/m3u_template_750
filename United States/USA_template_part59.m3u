@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="69357" tvg-name="WSTQ HD Cable (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png" group-title="United States" tvg-id="WSTQHD" tvc-guide-stationid="69357",WSTQ HD Cable (CW)
+http://example.local/USA-WSTQHD.ts
+#EXTINF:-1 tvg-chno="33044" tvg-name="WSTQ-LP (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png" group-title="United States" tvg-id="WSTQLP" tvc-guide-stationid="33044",WSTQ-LP (CW)
+http://example.local/USA-WSTQLP.ts
+#EXTINF:-1 tvg-chno="12442" tvg-name="WSTR (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/s51307_ll_h15_aa.png" group-title="United States" tvg-id="WSTR" tvc-guide-stationid="12442",WSTR (MNT)
+http://example.local/USA-WSTR.ts
 #EXTINF:-1 tvg-chno="35154" tvg-name="WSTR-DT (MNT)" tvg-logo="https://logos.jesmann.com/wstrdt.png" group-title="United States" tvg-id="WSTRDT" tvc-guide-stationid="35154",WSTR-DT (MNT)
 http://example.local/USA-WSTRDT.ts
 #EXTINF:-1 tvg-chno="69299" tvg-name="WSTR-DT2 (ANTENNA)" tvg-logo="https://zap2it.tmsimg.com/assets/s70248_ll_h15_ac.png" group-title="United States" tvg-id="WSTRDT2" tvc-guide-stationid="69299",WSTR-DT2 (ANTENNA)
@@ -1013,9 +1019,3 @@ http://example.local/USA-WTVK3HD.ts
 http://example.local/USA-WTVKDT4.ts
 #EXTINF:-1 tvg-chno="11917" tvg-name="WTVM (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="United States" tvg-id="WTVM" tvc-guide-stationid="11917",WTVM (ABC)
 http://example.local/USA-WTVM.ts
-#EXTINF:-1 tvg-chno="34794" tvg-name="WTVM-DT (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28708_h3_aa.png" group-title="United States" tvg-id="WTVMDT" tvc-guide-stationid="34794",WTVM-DT (ABC)
-http://example.local/USA-WTVMDT.ts
-#EXTINF:-1 tvg-chno="49434" tvg-name="WTVM-DT2 (BOUNCE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_ll_h15_ab.png" group-title="United States" tvg-id="WTVMDT2" tvc-guide-stationid="49434",WTVM-DT2 (BOUNCE)
-http://example.local/USA-WTVMDT2.ts
-#EXTINF:-1 tvg-chno="91149" tvg-name="WTVM-DT3" group-title="United States" tvg-id="WTVMDT3" tvc-guide-stationid="91149",WTVM-DT3
-http://example.local/USA-WTVMDT3.ts

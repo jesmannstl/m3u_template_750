@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="101581" tvg-name="KCNL-LD3 (BIZTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s66281_ll_h15_ab.png" group-title="United States" tvg-id="KCNLLD3" tvc-guide-stationid="101581",KCNL-LD3 (BIZTV)
+http://example.local/USA-KCNLLD3.ts
+#EXTINF:-1 tvg-chno="101580" tvg-name="KCNL-LD4" tvg-logo="https://zap2it.tmsimg.com/assets/s64834_ll_h15_aa.png" group-title="United States" tvg-id="KCNLLD4" tvc-guide-stationid="101580",KCNL-LD4
+http://example.local/USA-KCNLLD4.ts
+#EXTINF:-1 tvg-chno="10381" tvg-name="KCNS (SHOPLC)" tvg-logo="https://zap2it.tmsimg.com/assets/s56032_ll_h15_ac.png" group-title="United States" tvg-id="KCNS" tvc-guide-stationid="10381",KCNS (SHOPLC)
+http://example.local/USA-KCNS.ts
 #EXTINF:-1 tvg-chno="31220" tvg-name="KCNS-DT (SHOPLC)" tvg-logo="https://zap2it.tmsimg.com/assets/s56032_ll_h15_ac.png" group-title="United States" tvg-id="KCNSDT" tvc-guide-stationid="31220",KCNS-DT (SHOPLC)
 http://example.local/USA-KCNSDT.ts
 #EXTINF:-1 tvg-chno="64744" tvg-name="KCNS-DT2" group-title="United States" tvg-id="KCNSDT2" tvc-guide-stationid="64744",KCNS-DT2
@@ -1013,9 +1019,3 @@ http://example.local/USA-KELODT3.ts
 http://example.local/USA-KELODT4.ts
 #EXTINF:-1 tvg-chno="75424" tvg-name="KELV-LD (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_ll_h15_ab.png" group-title="United States" tvg-id="KELVLD" tvc-guide-stationid="75424",KELV-LD (UNIMAS)
 http://example.local/USA-KELVLD.ts
-#EXTINF:-1 tvg-chno="32697" tvg-name="KELV-LP (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_h3_aa.png" group-title="United States" tvg-id="KELVLP" tvc-guide-stationid="32697",KELV-LP (UNIMAS)
-http://example.local/USA-KELVLP.ts
-#EXTINF:-1 tvg-chno="10467" tvg-name="KEMO (FUBOOTA)" tvg-logo="https://zap2it.tmsimg.com/assets/s166532_ll_h9_aa.png" group-title="United States" tvg-id="KEMO" tvc-guide-stationid="10467",KEMO (FUBOOTA)
-http://example.local/USA-KEMO.ts
-#EXTINF:-1 tvg-chno="43282" tvg-name="KEMO-DT (FUBOOTA)" tvg-logo="https://zap2it.tmsimg.com/assets/s166532_ll_h9_aa.png" group-title="United States" tvg-id="KEMODT" tvc-guide-stationid="43282",KEMO-DT (FUBOOTA)
-http://example.local/USA-KEMODT.ts

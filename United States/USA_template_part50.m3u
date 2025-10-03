@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="107593" tvg-name="WDTI-DT (SD Feed) (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_ba.png" group-title="United States" tvg-id="WDTISD" tvc-guide-stationid="107593",WDTI-DT (SD Feed) (DYSTR)
+http://example.local/USA-WDTISD.ts
+#EXTINF:-1 tvg-chno="110351" tvg-name="WDTJ-LD (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_aa.png" group-title="United States" tvg-id="WDTJLD" tvc-guide-stationid="110351",WDTJ-LD (DYSTR)
+http://example.local/USA-WDTJLD.ts
+#EXTINF:-1 tvg-chno="11396" tvg-name="WDTN (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="United States" tvg-id="WDTN" tvc-guide-stationid="11396",WDTN (NBC)
+http://example.local/USA-WDTN.ts
 #EXTINF:-1 tvg-chno="35152" tvg-name="WDTN-DT (NBC)" tvg-logo="https://logos.jesmann.com/wdtndt.png" group-title="United States" tvg-id="WDTNDT" tvc-guide-stationid="35152",WDTN-DT (NBC)
 http://example.local/USA-WDTNDT.ts
 #EXTINF:-1 tvg-chno="35153" tvg-name="WDTN-DT2 (IMYS)" tvg-logo="https://zap2it.tmsimg.com/assets/s89923_ll_h15_ad.png" group-title="United States" tvg-id="WDTNDT2" tvc-guide-stationid="35153",WDTN-DT2 (IMYS)
@@ -171,7 +177,7 @@ http://example.local/USA-WNACHAR.ts
 http://example.local/USA-WNATCHI.ts
 #EXTINF:-1 tvg-chno="125001" tvg-name="WeatherNation Cleveland" group-title="United States" tvg-id="WNCLE" tvc-guide-stationid="125001",WeatherNation Cleveland
 http://example.local/USA-WNCLE.ts
-#EXTINF:-1 tvg-chno="126328" tvg-name="WeatherNation Columbus, OH" group-title="United States" tvg-id="WNCOLM" tvc-guide-stationid="126328",WeatherNation Columbus, OH
+#EXTINF:-1 tvg-chno="126328" tvg-name="WeatherNation Columbus OH" group-title="United States" tvg-id="WNCOLM" tvc-guide-stationid="126328",WeatherNation Columbus OH
 http://example.local/USA-WNCOLM.ts
 #EXTINF:-1 tvg-chno="122654" tvg-name="WeatherNation Dallas/Ft. Worth" tvg-logo="https://zap2it.tmsimg.com/assets/s72413_ll_h15_aa.png" group-title="United States" tvg-id="WNATDFW" tvc-guide-stationid="122654",WeatherNation Dallas/Ft. Worth
 http://example.local/USA-WNATDFW.ts
@@ -1013,9 +1019,3 @@ http://example.local/USA-WFNADT.ts
 http://example.local/USA-WFNADT2.ts
 #EXTINF:-1 tvg-chno="98560" tvg-name="WFNA-DT3 (BUSTED)" tvg-logo="https://zap2it.tmsimg.com/assets/s175331_ll_h15_aa.png" group-title="United States" tvg-id="WFNADT3" tvc-guide-stationid="98560",WFNA-DT3 (BUSTED)
 http://example.local/USA-WFNADT3.ts
-#EXTINF:-1 tvg-chno="106099" tvg-name="WFNA-DT4 (GRIT)" tvg-logo="https://zap2it.tmsimg.com/assets/s89922_h3_aa.png" group-title="United States" tvg-id="WFNADT4" tvc-guide-stationid="106099",WFNA-DT4 (GRIT)
-http://example.local/USA-WFNADT4.ts
-#EXTINF:-1 tvg-chno="97908" tvg-name="WFND-LD" group-title="United States" tvg-id="WFNDLD" tvc-guide-stationid="97908",WFND-LD
-http://example.local/USA-WFNDLD.ts
-#EXTINF:-1 tvg-chno="12827" tvg-name="WFND-LP" group-title="United States" tvg-id="WFNDLP" tvc-guide-stationid="12827",WFND-LP
-http://example.local/USA-WFNDLP.ts

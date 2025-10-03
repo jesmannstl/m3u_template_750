@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="123034" tvg-name="CityNews 24/7 Vancouver" tvg-logo="https://zap2it.tmsimg.com/assets/s123034_ll_h9_ab.png" group-title="Canada" tvg-id="CTYNWSW" tvc-guide-stationid="123034",CityNews 24/7 Vancouver
+http://example.local/CAN-CTYNWSW.ts
 #EXTINF:-1 tvg-chno="67914" tvg-name="CityNews 570" tvg-logo="https://zap2it.tmsimg.com/assets/s67914_ll_h9_aa.png" group-title="Canada" tvg-id="CKGLAM" tvc-guide-stationid="67914",CityNews 570
 http://example.local/CAN-CKGLAM.ts
 #EXTINF:-1 tvg-chno="47514" tvg-name="CityNews 680" tvg-logo="https://zap2it.tmsimg.com/assets/s47514_ll_h9_aa.png" group-title="Canada" tvg-id="680AM" tvc-guide-stationid="47514",CityNews 680
@@ -1017,5 +1019,3 @@ http://example.local/ARG-CNNL.ts
 http://example.local/ARG-CNNEM.ts
 #EXTINF:-1 tvg-chno="17054" tvg-name="CNN En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png" group-title="Venezuela" tvg-id="CNNL" tvc-guide-stationid="17054",CNN En Español
 http://example.local/VEN-CNNL.ts
-#EXTINF:-1 tvg-chno="17054" tvg-name="CNN En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png" group-title="Jamaica" tvg-id="CNNL" tvc-guide-stationid="17054",CNN En Español
-http://example.local/JAM-CNNL.ts

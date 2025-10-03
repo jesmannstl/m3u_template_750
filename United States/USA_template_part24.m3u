@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="56784" tvg-name="KIMT-DT2 (MNT)" tvg-logo="https://logos.jesmann.com/kimtdt2.png" group-title="United States" tvg-id="KIMTDT2" tvc-guide-stationid="56784",KIMT-DT2 (MNT)
+http://example.local/USA-KIMTDT2.ts
+#EXTINF:-1 tvg-chno="71403" tvg-name="KIMT-DT3 (ION)" tvg-logo="https://zap2it.tmsimg.com/assets/s18633_ll_h15_ad.png" group-title="United States" tvg-id="KIMTDT3" tvc-guide-stationid="71403",KIMT-DT3 (ION)
+http://example.local/USA-KIMTDT3.ts
+#EXTINF:-1 tvg-chno="107361" tvg-name="KIMT-DT4 (ANTENNA)" tvg-logo="https://zap2it.tmsimg.com/assets/s70248_ll_h15_ac.png" group-title="United States" tvg-id="KIMTDT4" tvc-guide-stationid="107361",KIMT-DT4 (ANTENNA)
+http://example.local/USA-KIMTDT4.ts
 #EXTINF:-1 tvg-chno="10317" tvg-name="KINC (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="United States" tvg-id="KINC" tvc-guide-stationid="10317",KINC (UNI)
 http://example.local/USA-KINC.ts
 #EXTINF:-1 tvg-chno="42856" tvg-name="KINC-DT (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="United States" tvg-id="KINCDT" tvc-guide-stationid="42856",KINC-DT (UNI)
@@ -1013,9 +1019,3 @@ http://example.local/USA-KLTV11.ts
 http://example.local/USA-KLTV28.ts
 #EXTINF:-1 tvg-chno="49529" tvg-name="KLTV-DT (ABC)" tvg-logo="https://logos.jesmann.com/kltvdt.png" group-title="United States" tvg-id="KLTVDT" tvc-guide-stationid="49529",KLTV-DT (ABC)
 http://example.local/USA-KLTVDT.ts
-#EXTINF:-1 tvg-chno="49533" tvg-name="KLTV-DT2 (365BLK)" tvg-logo="https://zap2it.tmsimg.com/assets/s150571_ll_h15_ab.png" group-title="United States" tvg-id="KLTVDT2" tvc-guide-stationid="49533",KLTV-DT2 (365BLK)
-http://example.local/USA-KLTVDT2.ts
-#EXTINF:-1 tvg-chno="49531" tvg-name="KLTV-DT3 (TELE)" tvg-logo="https://zap2it.tmsimg.com/assets/s10239_ll_h15_ab.png" group-title="United States" tvg-id="KLTVDT3" tvc-guide-stationid="49531",KLTV-DT3 (TELE)
-http://example.local/USA-KLTVDT3.ts
-#EXTINF:-1 tvg-chno="108133" tvg-name="KLTV-DT3 (SD Feed) (TELE)" tvg-logo="https://zap2it.tmsimg.com/assets/s10239_h3_aa.png" group-title="United States" tvg-id="KLTV3SD" tvc-guide-stationid="108133",KLTV-DT3 (SD Feed) (TELE)
-http://example.local/USA-KLTV3SD.ts

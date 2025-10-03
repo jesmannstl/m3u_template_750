@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="106099" tvg-name="WFNA-DT4 (GRIT)" tvg-logo="https://zap2it.tmsimg.com/assets/s89922_h3_aa.png" group-title="United States" tvg-id="WFNADT4" tvc-guide-stationid="106099",WFNA-DT4 (GRIT)
+http://example.local/USA-WFNADT4.ts
+#EXTINF:-1 tvg-chno="97908" tvg-name="WFND-LD" group-title="United States" tvg-id="WFNDLD" tvc-guide-stationid="97908",WFND-LD
+http://example.local/USA-WFNDLD.ts
+#EXTINF:-1 tvg-chno="12827" tvg-name="WFND-LP" group-title="United States" tvg-id="WFNDLP" tvc-guide-stationid="12827",WFND-LP
+http://example.local/USA-WFNDLP.ts
 #EXTINF:-1 tvg-chno="111453" tvg-name="WFNY-CD (MAINSTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s139021_ll_h9_aa.png" group-title="United States" tvg-id="WFNYCD" tvc-guide-stationid="111453",WFNY-CD (MAINSTV)
 http://example.local/USA-WFNYCD.ts
 #EXTINF:-1 tvg-chno="97359" tvg-name="WFNY-CD2 (WALK)" tvg-logo="https://zap2it.tmsimg.com/assets/s70730_ll_h15_ab.png" group-title="United States" tvg-id="WFNYCD2" tvc-guide-stationid="97359",WFNY-CD2 (WALK)
@@ -249,7 +255,7 @@ http://example.local/USA-WFUTDT2.ts
 http://example.local/USA-WFUTDT3.ts
 #EXTINF:-1 tvg-chno="90175" tvg-name="WFUT-DT4 (BOUNCE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_ll_h15_ab.png" group-title="United States" tvg-id="WFUTDT4" tvc-guide-stationid="90175",WFUT-DT4 (BOUNCE)
 http://example.local/USA-WFUTDT4.ts
-#EXTINF:-1 tvg-chno="62413" tvg-name="WFVX Cable Feed (FOX)" tvg-logo="https://logos.jesmann.com/wfvxld.png" group-title="United States" tvg-id="WFVXCAB" tvc-guide-stationid="62413",WFVX Cable Feed (FOX)
+#EXTINF:-1 tvg-chno="62413" tvg-name="WFVX Cable Feed (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="United States" tvg-id="WFVXCAB" tvc-guide-stationid="62413",WFVX Cable Feed (FOX)
 http://example.local/USA-WFVXCAB.ts
 #EXTINF:-1 tvg-chno="92129" tvg-name="WFVX-LD (FOX)" tvg-logo="https://logos.jesmann.com/wfvxld.png" group-title="United States" tvg-id="WFVXLD" tvc-guide-stationid="92129",WFVX-LD (FOX)
 http://example.local/USA-WFVXLD.ts
@@ -1013,9 +1019,3 @@ http://example.local/USA-WGXA2SD.ts
 http://example.local/USA-WGXADT.ts
 #EXTINF:-1 tvg-chno="66119" tvg-name="WGXA-DT2 (ABC)" tvg-logo="https://logos.jesmann.com/wgxadt2.png" group-title="United States" tvg-id="WGXADT2" tvc-guide-stationid="66119",WGXA-DT2 (ABC)
 http://example.local/USA-WGXADT2.ts
-#EXTINF:-1 tvg-chno="97165" tvg-name="WGXA-DT3 (COMET)" tvg-logo="https://zap2it.tmsimg.com/assets/s97051_ll_h15_ab.png" group-title="United States" tvg-id="WGXADT3" tvc-guide-stationid="97165",WGXA-DT3 (COMET)
-http://example.local/USA-WGXADT3.ts
-#EXTINF:-1 tvg-chno="188703" tvg-name="WGXA-DT4 (CHARGE)" tvg-logo="https://zap2it.tmsimg.com/assets/s102148_h3_ba.png" group-title="United States" tvg-id="WGXADT4" tvc-guide-stationid="188703",WGXA-DT4 (CHARGE)
-http://example.local/USA-WGXADT4.ts
-#EXTINF:-1 tvg-chno="11494" tvg-name="WHA (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="United States" tvg-id="WHA" tvc-guide-stationid="11494",WHA (PBS)
-http://example.local/USA-WHA.ts

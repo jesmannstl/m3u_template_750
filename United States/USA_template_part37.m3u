@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="120994" tvg-name="Multimedios Costa Rica" tvg-logo="https://zap2it.tmsimg.com/assets/s105874_ll_h15_aa.png" group-title="United States" tvg-id="MULTCH" tvc-guide-stationid="120994",Multimedios Costa Rica
+http://example.local/USA-MULTCH.ts
+#EXTINF:-1 tvg-chno="91505" tvg-name="MULTIMEDIOS TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91505_ll_h15_ab.png" group-title="United States" tvg-id="MULTVHD" tvc-guide-stationid="91505",MULTIMEDIOS TV HD
+http://example.local/USA-MULTVHD.ts
+#EXTINF:-1 tvg-chno="50500" tvg-name="MULTIMEDIOS TV SD" tvg-logo="https://zap2it.tmsimg.com/assets/s91505_ll_h15_ab.png" group-title="United States" tvg-id="MULTV" tvc-guide-stationid="50500",MULTIMEDIOS TV SD
+http://example.local/USA-MULTV.ts
 #EXTINF:-1 tvg-chno="95743" tvg-name="Multimedios USA" tvg-logo="https://zap2it.tmsimg.com/assets/s95743_ll_h15_ae.png" group-title="United States" tvg-id="MMTVUS" tvc-guide-stationid="95743",Multimedios USA
 http://example.local/USA-MMTVUS.ts
 #EXTINF:-1 tvg-chno="20036" tvg-name="Municipal Access" group-title="United States" tvg-id="MUNAC" tvc-guide-stationid="20036",Municipal Access
@@ -9,7 +15,7 @@ http://example.local/USA-MBNETHD.ts
 http://example.local/USA-CTYVB.ts
 #EXTINF:-1 tvg-chno="93667" tvg-name="Municipal Library TV" group-title="United States" tvg-id="MUNLTV" tvc-guide-stationid="93667",Municipal Library TV
 http://example.local/USA-MUNLTV.ts
-#EXTINF:-1 tvg-chno="138397" tvg-name="Murder, She Wrote" tvg-logo="https://zap2it.tmsimg.com/assets/s138397_ll_h15_aa.png" group-title="United States" tvg-id="MDRWRT" tvc-guide-stationid="138397",Murder, She Wrote
+#EXTINF:-1 tvg-chno="138397" tvg-name="Murder She Wrote" tvg-logo="https://zap2it.tmsimg.com/assets/s138397_ll_h15_aa.png" group-title="United States" tvg-id="MDRWRT" tvc-guide-stationid="138397",Murder She Wrote
 http://example.local/USA-MDRWRT.ts
 #EXTINF:-1 tvg-chno="68581" tvg-name="Murr TV" tvg-logo="https://zap2it.tmsimg.com/assets/s68581_ll_h15_aa.png" group-title="United States" tvg-id="MURRTV" tvc-guide-stationid="68581",Murr TV
 http://example.local/USA-MURRTV.ts
@@ -459,7 +465,7 @@ http://example.local/USA-CWDC2.ts
 http://example.local/USA-NSHBRG.ts
 #EXTINF:-1 tvg-chno="118859" tvg-name="Nashville" tvg-logo="https://zap2it.tmsimg.com/assets/s118859_ll_h15_aa.png" group-title="United States" tvg-id="NASH" tvc-guide-stationid="118859",Nashville
 http://example.local/USA-NASH.ts
-#EXTINF:-1 tvg-chno="100211" tvg-name="Nashville Predators: NHL Center Ice" tvg-logo="https://zap2it.tmsimg.com/assets/s50130_ll_h15_ab.png" group-title="United States" tvg-id="NHLNAS" tvc-guide-stationid="100211",Nashville Predators: NHL Center Ice
+#EXTINF:-1 tvg-chno="100211" tvg-name="Nashville Predators: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlnas.png" group-title="United States" tvg-id="NHLNAS" tvc-guide-stationid="100211",Nashville Predators: NHL Center Ice
 http://example.local/USA-NHLNAS.ts
 #EXTINF:-1 tvg-chno="72449" tvg-name="Nat Geo Mundo" tvg-logo="https://zap2it.tmsimg.com/assets/s72449_ll_h15_aa.png" group-title="United States" tvg-id="NGMUNDO" tvc-guide-stationid="72449",Nat Geo Mundo
 http://example.local/USA-NGMUNDO.ts
@@ -963,7 +969,7 @@ http://example.local/USA-NESNPL.ts
 http://example.local/USA-NESNPLD.ts
 #EXTINF:-1 tvg-chno="52772" tvg-name="New Frontier On Demand" group-title="United States" tvg-id="NWFRDM" tvc-guide-stationid="52772",New Frontier On Demand
 http://example.local/USA-NWFRDM.ts
-#EXTINF:-1 tvg-chno="100247" tvg-name="New Jersey Devils: NHL Center Ice" tvg-logo="https://zap2it.tmsimg.com/assets/s50130_ll_h15_ab.png" group-title="United States" tvg-id="NHLNJ" tvc-guide-stationid="100247",New Jersey Devils: NHL Center Ice
+#EXTINF:-1 tvg-chno="100247" tvg-name="New Jersey Devils: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlnj.png" group-title="United States" tvg-id="NHLNJ" tvc-guide-stationid="100247",New Jersey Devils: NHL Center Ice
 http://example.local/USA-NHLNJ.ts
 #EXTINF:-1 tvg-chno="93384" tvg-name="New Jersey Network" group-title="United States" tvg-id="NJN" tvc-guide-stationid="93384",New Jersey Network
 http://example.local/USA-NJN.ts
@@ -993,13 +999,13 @@ http://example.local/USA-NEWTAHD.ts
 http://example.local/USA-LUBEL.ts
 #EXTINF:-1 tvg-chno="92591" tvg-name="New Ulm Community Access Television" group-title="United States" tvg-id="NUCAT" tvc-guide-stationid="92591",New Ulm Community Access Television
 http://example.local/USA-NUCAT.ts
-#EXTINF:-1 tvg-chno="100249" tvg-name="New York Islanders: NHL Center Ice" tvg-logo="https://zap2it.tmsimg.com/assets/s50130_ll_h15_ab.png" group-title="United States" tvg-id="NHLNYI" tvc-guide-stationid="100249",New York Islanders: NHL Center Ice
+#EXTINF:-1 tvg-chno="100249" tvg-name="New York Islanders: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlnyi.png" group-title="United States" tvg-id="NHLNYI" tvc-guide-stationid="100249",New York Islanders: NHL Center Ice
 http://example.local/USA-NHLNYI.ts
 #EXTINF:-1 tvg-chno="104881" tvg-name="New York Knicks: NBA League Pass" tvg-logo="https://zap2it.tmsimg.com/assets/s95843_ll_h15_ab.png" group-title="United States" tvg-id="NBANYK" tvc-guide-stationid="104881",New York Knicks: NBA League Pass
 http://example.local/USA-NBANYK.ts
 #EXTINF:-1 tvg-chno="102297" tvg-name="New York Mets: MLB Extra Innings" group-title="United States" tvg-id="MLBNYM" tvc-guide-stationid="102297",New York Mets: MLB Extra Innings
 http://example.local/USA-MLBNYM.ts
-#EXTINF:-1 tvg-chno="100243" tvg-name="New York Rangers: NHL Center Ice" tvg-logo="https://zap2it.tmsimg.com/assets/s50130_ll_h15_ab.png" group-title="United States" tvg-id="NHLNYR" tvc-guide-stationid="100243",New York Rangers: NHL Center Ice
+#EXTINF:-1 tvg-chno="100243" tvg-name="New York Rangers: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlnyr.png" group-title="United States" tvg-id="NHLNYR" tvc-guide-stationid="100243",New York Rangers: NHL Center Ice
 http://example.local/USA-NHLNYR.ts
 #EXTINF:-1 tvg-chno="49159" tvg-name="New York State Legislative Channel" group-title="United States" tvg-id="NYSLC" tvc-guide-stationid="49159",New York State Legislative Channel
 http://example.local/USA-NYSLC.ts
@@ -1013,9 +1019,3 @@ http://example.local/USA-LONWK.ts
 http://example.local/USA-NWRKGA.ts
 #EXTINF:-1 tvg-chno="60601" tvg-name="News & World On Demand" group-title="United States" tvg-id="NEWWODM" tvc-guide-stationid="60601",News & World On Demand
 http://example.local/USA-NEWWODM.ts
-#EXTINF:-1 tvg-chno="18580" tvg-name="News 12 Bronx" tvg-logo="https://zap2it.tmsimg.com/assets/s18580_ll_h15_ab.png" group-title="United States" tvg-id="N12BX" tvc-guide-stationid="18580",News 12 Bronx
-http://example.local/USA-N12BX.ts
-#EXTINF:-1 tvg-chno="66017" tvg-name="News 12 Bronx HD" tvg-logo="https://zap2it.tmsimg.com/assets/s66017_ll_h15_ad.png" group-title="United States" tvg-id="N12BXHD" tvc-guide-stationid="66017",News 12 Bronx HD
-http://example.local/USA-N12BXHD.ts
-#EXTINF:-1 tvg-chno="46292" tvg-name="News 12 Brooklyn" tvg-logo="https://zap2it.tmsimg.com/assets/s46292_ll_h15_ad.png" group-title="United States" tvg-id="N12KN" tvc-guide-stationid="46292",News 12 Brooklyn
-http://example.local/USA-N12KN.ts

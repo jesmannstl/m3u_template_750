@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="46350" tvg-name="Rai Premium" tvg-logo="https://zap2it.tmsimg.com/assets/s46350_ll_h15_aa.png" group-title="United States" tvg-id="RAIPREM" tvc-guide-stationid="46350",Rai Premium
+http://example.local/USA-RAIPREM.ts
+#EXTINF:-1 tvg-chno="94884" tvg-name="Rai Radio 1" tvg-logo="https://zap2it.tmsimg.com/assets/s94884_ll_h9_aa.png" group-title="United States" tvg-id="RAIRAD1" tvc-guide-stationid="94884",Rai Radio 1
+http://example.local/USA-RAIRAD1.ts
+#EXTINF:-1 tvg-chno="183984" tvg-name="Rainy Day Vibes" group-title="United States" tvg-id="RDAYVIB" tvc-guide-stationid="183984",Rainy Day Vibes
+http://example.local/USA-RDAYVIB.ts
 #EXTINF:-1 tvg-chno="82796" tvg-name="Raj Digital Plus" group-title="United States" tvg-id="RAJDP" tvc-guide-stationid="82796",Raj Digital Plus
 http://example.local/USA-RAJDP.ts
 #EXTINF:-1 tvg-chno="82772" tvg-name="Raj Musix" group-title="United States" tvg-id="RAJM" tvc-guide-stationid="82772",Raj Musix
@@ -537,7 +543,7 @@ http://example.local/USA-SFGTV.ts
 http://example.local/USA-SFGTV2.ts
 #EXTINF:-1 tvg-chno="107062" tvg-name="San Jose Government Access" group-title="United States" tvg-id="SJGOV" tvc-guide-stationid="107062",San Jose Government Access
 http://example.local/USA-SJGOV.ts
-#EXTINF:-1 tvg-chno="100203" tvg-name="San Jose Sharks: NHL Center Ice" tvg-logo="https://zap2it.tmsimg.com/assets/s50130_ll_h15_ab.png" group-title="United States" tvg-id="NHLSJ" tvc-guide-stationid="100203",San Jose Sharks: NHL Center Ice
+#EXTINF:-1 tvg-chno="100203" tvg-name="San Jose Sharks: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlsj.png" group-title="United States" tvg-id="NHLSJ" tvc-guide-stationid="100203",San Jose Sharks: NHL Center Ice
 http://example.local/USA-NHLSJ.ts
 #EXTINF:-1 tvg-chno="105023" tvg-name="San Pablo Leased" group-title="United States" tvg-id="SANPLEA" tvc-guide-stationid="105023",San Pablo Leased
 http://example.local/USA-SANPLEA.ts
@@ -693,7 +699,7 @@ http://example.local/USA-SEASVIB.ts
 http://example.local/USA-SEATTLE.ts
 #EXTINF:-1 tvg-chno="69046" tvg-name="Seattle Community College" group-title="United States" tvg-id="SCCTV" tvc-guide-stationid="69046",Seattle Community College
 http://example.local/USA-SCCTV.ts
-#EXTINF:-1 tvg-chno="120618" tvg-name="Seattle Kraken: NHL Center Ice" tvg-logo="https://zap2it.tmsimg.com/assets/s50130_ll_h15_ab.png" group-title="United States" tvg-id="NHLSKR" tvc-guide-stationid="120618",Seattle Kraken: NHL Center Ice
+#EXTINF:-1 tvg-chno="120618" tvg-name="Seattle Kraken: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlskr.png" group-title="United States" tvg-id="NHLSKR" tvc-guide-stationid="120618",Seattle Kraken: NHL Center Ice
 http://example.local/USA-NHLSKR.ts
 #EXTINF:-1 tvg-chno="102292" tvg-name="Seattle Mariners: MLB Extra Innings" group-title="United States" tvg-id="MLBSEA" tvc-guide-stationid="102292",Seattle Mariners: MLB Extra Innings
 http://example.local/USA-MLBSEA.ts
@@ -1013,9 +1019,3 @@ http://example.local/USA-BBCSWNT.ts
 http://example.local/USA-SRPPLTV.ts
 #EXTINF:-1 tvg-chno="43212" tvg-name="SIRIUS Hits 1" group-title="United States" tvg-id="SRHITS1" tvc-guide-stationid="43212",SIRIUS Hits 1
 http://example.local/USA-SRHITS1.ts
-#EXTINF:-1 tvg-chno="43239" tvg-name="SIRIUS XM Chill" group-title="United States" tvg-id="SRCHILL" tvc-guide-stationid="43239",SIRIUS XM Chill
-http://example.local/USA-SRCHILL.ts
-#EXTINF:-1 tvg-chno="72210" tvg-name="SIRIUS XM Limited Engagements" group-title="United States" tvg-id="SRLMENG" tvc-guide-stationid="72210",SIRIUS XM Limited Engagements
-http://example.local/USA-SRLMENG.ts
-#EXTINF:-1 tvg-chno="43216" tvg-name="SIRIUS XM Love" group-title="United States" tvg-id="SRXMLUV" tvc-guide-stationid="43216",SIRIUS XM Love
-http://example.local/USA-SRXMLUV.ts

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="104917" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s104917_ll_h15_ab.png" group-title="Belgium" tvg-id="EUSP2NL" tvc-guide-stationid="104917",Eurosport 2
+http://example.local/BEL-EUSP2NL.ts
 #EXTINF:-1 tvg-chno="56694" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s56694_ll_h15_aa.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="ESINT2" tvc-guide-stationid="56694",Eurosport 2
 http://example.local/BES-ESINT2.ts
 #EXTINF:-1 tvg-chno="87661" tvg-name="Eurosport 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87661_ll_h15_aa.png" group-title="Sweden" tvg-id="EURSP2H" tvc-guide-stationid="87661",Eurosport 2 HD
@@ -1017,5 +1019,3 @@ http://example.local/USA-FDFLOMH.ts
 http://example.local/USA-FDFLHD2.ts
 #EXTINF:-1 tvg-chno="59680" tvg-name="FanDuel Sports Network Florida HD- South Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s50728_ll_h15_ac.png" group-title="United States" tvg-id="FDSFL2H" tvc-guide-stationid="59680",FanDuel Sports Network Florida HD- South Florida
 http://example.local/USA-FDSFL2H.ts
-#EXTINF:-1 tvg-chno="81310" tvg-name="FanDuel Sports Network Florida- North Florida" group-title="United States" tvg-id="FDFLCFL" tvc-guide-stationid="81310",FanDuel Sports Network Florida- North Florida
-http://example.local/USA-FDFLCFL.ts

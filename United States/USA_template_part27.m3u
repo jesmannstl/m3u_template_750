@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="127819" tvg-name="KPIF-DT11 (DSTRESP)" tvg-logo="https://zap2it.tmsimg.com/assets/s132423_ll_h15_aa.png" group-title="United States" tvg-id="KPIFD11" tvc-guide-stationid="127819",KPIF-DT11 (DSTRESP)
+http://example.local/USA-KPIFD11.ts
+#EXTINF:-1 tvg-chno="127815" tvg-name="KPIF-DT13 (NEWSMX2)" tvg-logo="https://zap2it.tmsimg.com/assets/s121162_ll_h15_aa.png" group-title="United States" tvg-id="KPIFD13" tvc-guide-stationid="127815",KPIF-DT13 (NEWSMX2)
+http://example.local/USA-KPIFD13.ts
+#EXTINF:-1 tvg-chno="106518" tvg-name="KPIF-DT2 (IONPLUS)" tvg-logo="https://zap2it.tmsimg.com/assets/s55241_ll_h15_ad.png" group-title="United States" tvg-id="KPIFDT2" tvc-guide-stationid="106518",KPIF-DT2 (IONPLUS)
+http://example.local/USA-KPIFDT2.ts
 #EXTINF:-1 tvg-chno="106519" tvg-name="KPIF-DT3 (LAFF)" tvg-logo="https://zap2it.tmsimg.com/assets/s92091_ll_h15_aa.png" group-title="United States" tvg-id="KPIFDT3" tvc-guide-stationid="106519",KPIF-DT3 (LAFF)
 http://example.local/USA-KPIFDT3.ts
 #EXTINF:-1 tvg-chno="107179" tvg-name="KPIF-DT4 (METVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" group-title="United States" tvg-id="KPIFDT4" tvc-guide-stationid="107179",KPIF-DT4 (METVN)
@@ -1013,9 +1019,3 @@ http://example.local/USA-KRDTCD3.ts
 http://example.local/USA-KRDTCD4.ts
 #EXTINF:-1 tvg-chno="99004" tvg-name="KRDT-CD5 (BOUNCE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_ll_h15_ab.png" group-title="United States" tvg-id="KRDTCD5" tvc-guide-stationid="99004",KRDT-CD5 (BOUNCE)
 http://example.local/USA-KRDTCD5.ts
-#EXTINF:-1 tvg-chno="99006" tvg-name="KRDT-CD6 (DEFY)" tvg-logo="https://zap2it.tmsimg.com/assets/s159206_ll_h15_aa.png" group-title="United States" tvg-id="KRDTCD6" tvc-guide-stationid="99006",KRDT-CD6 (DEFY)
-http://example.local/USA-KRDTCD6.ts
-#EXTINF:-1 tvg-chno="99007" tvg-name="KRDT-CD7 (SCNEWS)" tvg-logo="https://zap2it.tmsimg.com/assets/s96827_h3_ba.png" group-title="United States" tvg-id="KRDTCD7" tvc-guide-stationid="99007",KRDT-CD7 (SCNEWS)
-http://example.local/USA-KRDTCD7.ts
-#EXTINF:-1 tvg-chno="99008" tvg-name="KRDT-CD8" group-title="United States" tvg-id="KRDTCD8" tvc-guide-stationid="99008",KRDT-CD8
-http://example.local/USA-KRDTCD8.ts

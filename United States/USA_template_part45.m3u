@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="131220" tvg-name="Total Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s131220_ll_h15_aa.png" group-title="United States" tvg-id="TCUS" tvc-guide-stationid="131220",Total Crime
+http://example.local/USA-TCUS.ts
+#EXTINF:-1 tvg-chno="11341" tvg-name="Total Living Network" tvg-logo="https://zap2it.tmsimg.com/assets/s11341_ll_h15_ab.png" group-title="United States" tvg-id="TLNCHIC" tvc-guide-stationid="11341",Total Living Network
+http://example.local/USA-TLNCHIC.ts
+#EXTINF:-1 tvg-chno="101462" tvg-name="Total TV" group-title="United States" tvg-id="TOTALTV" tvc-guide-stationid="101462",Total TV
+http://example.local/USA-TOTALTV.ts
 #EXTINF:-1 tvg-chno="121107" tvg-name="TOTALLY TURTLES" tvg-logo="https://zap2it.tmsimg.com/assets/s121107_ll_h15_aa.png" group-title="United States" tvg-id="TOTTMNT" tvc-guide-stationid="121107",TOTALLY TURTLES
 http://example.local/USA-TOTTMNT.ts
 #EXTINF:-1 tvg-chno="61500" tvg-name="Town of Blacksburg" group-title="United States" tvg-id="WTOB" tvc-guide-stationid="61500",Town of Blacksburg
@@ -7,9 +13,9 @@ http://example.local/USA-WTOB.ts
 http://example.local/USA-TPTK.ts
 #EXTINF:-1 tvg-chno="92945" tvg-name="TPT Weather" group-title="United States" tvg-id="TPTWX" tvc-guide-stationid="92945",TPT Weather
 http://example.local/USA-TPTWX.ts
-#EXTINF:-1 tvg-chno="18715" tvg-name="Tr3s: MTV, Musica y Mas" tvg-logo="https://zap2it.tmsimg.com/assets/s18715_ll_h15_ao.png" group-title="United States" tvg-id="TR3S" tvc-guide-stationid="18715",Tr3s: MTV, Musica y Mas
+#EXTINF:-1 tvg-chno="18715" tvg-name="Tr3s: MTV Musica y Mas" tvg-logo="https://zap2it.tmsimg.com/assets/s18715_ll_h15_ao.png" group-title="United States" tvg-id="TR3S" tvc-guide-stationid="18715",Tr3s: MTV Musica y Mas
 http://example.local/USA-TR3S.ts
-#EXTINF:-1 tvg-chno="55928" tvg-name="Tr3s: MTV, Musica y Mas (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s18715_ll_h15_ao.png" group-title="United States" tvg-id="TR3SP" tvc-guide-stationid="55928",Tr3s: MTV, Musica y Mas (Pacific)
+#EXTINF:-1 tvg-chno="55928" tvg-name="Tr3s: MTV Musica y Mas (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s18715_ll_h15_ao.png" group-title="United States" tvg-id="TR3SP" tvc-guide-stationid="55928",Tr3s: MTV Musica y Mas (Pacific)
 http://example.local/USA-TR3SP.ts
 #EXTINF:-1 tvg-chno="115022" tvg-name="Trace Brasil" tvg-logo="https://zap2it.tmsimg.com/assets/s115022_ll_h15_ac.png" group-title="United States" tvg-id="TBRASIL" tvc-guide-stationid="115022",Trace Brasil
 http://example.local/USA-TBRASIL.ts
@@ -653,7 +659,7 @@ http://example.local/USA-TM10WL.ts
 http://example.local/USA-TWANLO1.ts
 #EXTINF:-1 tvg-chno="86890" tvg-name="TWC beIN Sports Esp On Demand" group-title="United States" tvg-id="TWBSEDM" tvc-guide-stationid="86890",TWC beIN Sports Esp On Demand
 http://example.local/USA-TWBSEDM.ts
-#EXTINF:-1 tvg-chno="20087" tvg-name="TWC Ch.5 Portland, ME" group-title="United States" tvg-id="PMC5" tvc-guide-stationid="20087",TWC Ch.5 Portland, ME
+#EXTINF:-1 tvg-chno="20087" tvg-name="TWC Ch.5 Portland ME" group-title="United States" tvg-id="PMC5" tvc-guide-stationid="20087",TWC Ch.5 Portland ME
 http://example.local/USA-PMC5.ts
 #EXTINF:-1 tvg-chno="98197" tvg-name="TWC Titles in Guide 01" group-title="United States" tvg-id="TWCTG01" tvc-guide-stationid="98197",TWC Titles in Guide 01
 http://example.local/USA-TWCTG01.ts
@@ -1013,9 +1019,3 @@ http://example.local/USA-UNVSOP.ts
 http://example.local/USA-UNVSSTR.ts
 #EXTINF:-1 tvg-chno="91588" tvg-name="UNIVERSO HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91588_ll_h15_ab.png" group-title="United States" tvg-id="UNVSOHD" tvc-guide-stationid="91588",UNIVERSO HD
 http://example.local/USA-UNVSOHD.ts
-#EXTINF:-1 tvg-chno="91880" tvg-name="UNIVERSO HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s91588_ll_h15_ab.png" group-title="United States" tvg-id="UNVSPHD" tvc-guide-stationid="91880",UNIVERSO HD (Pacific)
-http://example.local/USA-UNVSPHD.ts
-#EXTINF:-1 tvg-chno="102959" tvg-name="UNIVERSO HD (Pacific) Stream" tvg-logo="https://zap2it.tmsimg.com/assets/s91588_ll_h15_ab.png" group-title="United States" tvg-id="UVSPHST" tvc-guide-stationid="102959",UNIVERSO HD (Pacific) Stream
-http://example.local/USA-UVSPHST.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="United States" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
-http://example.local/USA-UNI.ts

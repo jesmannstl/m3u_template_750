@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="72750" tvg-name="CHLT-DT (TVA)" tvg-logo="https://zap2it.tmsimg.com/assets/s16367_ll_h15_ab.png" group-title="United States" tvg-id="CHLTDT" tvc-guide-stationid="72750",CHLT-DT (TVA)
+http://example.local/USA-CHLTDT.ts
 #EXTINF:-1 tvg-chno="72750" tvg-name="CHLT-DT (TVA)" tvg-logo="https://zap2it.tmsimg.com/assets/s16367_ll_h15_ab.png" group-title="Canada" tvg-id="CHLTDT" tvc-guide-stationid="72750",CHLT-DT (TVA)
 http://example.local/CAN-CHLTDT.ts
 #EXTINF:-1 tvg-chno="116185" tvg-name="CHMG-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s116185_h3_ba.png" group-title="Canada" tvg-id="CHMGDT" tvc-guide-stationid="116185",CHMG-DT
@@ -43,7 +45,7 @@ http://example.local/JAM-CHOICED.ts
 http://example.local/LCA-CHOICE.ts
 #EXTINF:-1 tvg-chno="89332" tvg-name="Choix 99.9 FM Moncton" group-title="Canada" tvg-id="CHOY" tvc-guide-stationid="89332",Choix 99.9 FM Moncton
 http://example.local/CAN-CHOY.ts
-#EXTINF:-1 tvg-chno="110007" tvg-name="CHOM FM 97,7" tvg-logo="https://zap2it.tmsimg.com/assets/s110007_ll_h9_aa.png" group-title="Canada" tvg-id="CHOM" tvc-guide-stationid="110007",CHOM FM 97,7
+#EXTINF:-1 tvg-chno="110007" tvg-name="CHOM FM 977" tvg-logo="https://zap2it.tmsimg.com/assets/s110007_ll_h9_aa.png" group-title="Canada" tvg-id="CHOM" tvc-guide-stationid="110007",CHOM FM 977
 http://example.local/CAN-CHOM.ts
 #EXTINF:-1 tvg-chno="63729" tvg-name="Chong Qing" group-title="United States" tvg-id="CQTV" tvc-guide-stationid="63729",Chong Qing
 http://example.local/USA-CQTV.ts
@@ -1017,5 +1019,3 @@ http://example.local/CAN-CTNWSBC.ts
 http://example.local/CAN-CTNWSAB.ts
 #EXTINF:-1 tvg-chno="123035" tvg-name="CityNews 24/7 Toronto" tvg-logo="https://zap2it.tmsimg.com/assets/s123035_ll_h9_ac.png" group-title="Canada" tvg-id="CTYNWS" tvc-guide-stationid="123035",CityNews 24/7 Toronto
 http://example.local/CAN-CTYNWS.ts
-#EXTINF:-1 tvg-chno="123034" tvg-name="CityNews 24/7 Vancouver" tvg-logo="https://zap2it.tmsimg.com/assets/s123034_ll_h9_ab.png" group-title="Canada" tvg-id="CTYNWSW" tvc-guide-stationid="123034",CityNews 24/7 Vancouver
-http://example.local/CAN-CTYNWSW.ts

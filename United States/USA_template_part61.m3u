@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="106886" tvg-name="WVIT-DT4 (OXYGEN)" tvg-logo="https://zap2it.tmsimg.com/assets/s21484_h3_aa.png" group-title="United States" tvg-id="WVITDT4" tvc-guide-stationid="106886",WVIT-DT4 (OXYGEN)
+http://example.local/USA-WVITDT4.ts
+#EXTINF:-1 tvg-chno="88419" tvg-name="WVIT2 (SD Feed) (COZITV)" tvg-logo="https://zap2it.tmsimg.com/assets/s78851_ll_h15_ab.png" group-title="United States" tvg-id="WVIT2SD" tvc-guide-stationid="88419",WVIT2 (SD Feed) (COZITV)
+http://example.local/USA-WVIT2SD.ts
+#EXTINF:-1 tvg-chno="11965" tvg-name="WVIZ (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="United States" tvg-id="WVIZ" tvc-guide-stationid="11965",WVIZ (PBS)
+http://example.local/USA-WVIZ.ts
 #EXTINF:-1 tvg-chno="44366" tvg-name="WVIZ-DT (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s32356_h3_aa.png" group-title="United States" tvg-id="WVIZDT" tvc-guide-stationid="44366",WVIZ-DT (PBS)
 http://example.local/USA-WVIZDT.ts
 #EXTINF:-1 tvg-chno="46488" tvg-name="WVIZ-DT2" group-title="United States" tvg-id="WVIZDT2" tvc-guide-stationid="46488",WVIZ-DT2
@@ -1013,9 +1019,3 @@ http://example.local/USA-WXXVDT5.ts
 http://example.local/USA-WXXV2SD.ts
 #EXTINF:-1 tvg-chno="12007" tvg-name="WXYZ (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="United States" tvg-id="WXYZ" tvc-guide-stationid="12007",WXYZ (ABC)
 http://example.local/USA-WXYZ.ts
-#EXTINF:-1 tvg-chno="19601" tvg-name="WXYZ-DT (ABC)" tvg-logo="https://logos.jesmann.com/wxyzdt.png" group-title="United States" tvg-id="WXYZDT" tvc-guide-stationid="19601",WXYZ-DT (ABC)
-http://example.local/USA-WXYZDT.ts
-#EXTINF:-1 tvg-chno="35140" tvg-name="WXYZ-DT2 (BOUNCE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_h3_aa.png" group-title="United States" tvg-id="WXYZDT2" tvc-guide-stationid="35140",WXYZ-DT2 (BOUNCE)
-http://example.local/USA-WXYZDT2.ts
-#EXTINF:-1 tvg-chno="35425" tvg-name="WXYZ-DT3 (LAFF)" tvg-logo="https://zap2it.tmsimg.com/assets/s92091_ll_h15_aa.png" group-title="United States" tvg-id="WXYZDT3" tvc-guide-stationid="35425",WXYZ-DT3 (LAFF)
-http://example.local/USA-WXYZDT3.ts

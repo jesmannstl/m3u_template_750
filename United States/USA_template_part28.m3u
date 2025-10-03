@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="99006" tvg-name="KRDT-CD6 (DEFY)" tvg-logo="https://zap2it.tmsimg.com/assets/s159206_ll_h15_aa.png" group-title="United States" tvg-id="KRDTCD6" tvc-guide-stationid="99006",KRDT-CD6 (DEFY)
+http://example.local/USA-KRDTCD6.ts
+#EXTINF:-1 tvg-chno="99007" tvg-name="KRDT-CD7 (SCNEWS)" tvg-logo="https://zap2it.tmsimg.com/assets/s96827_h3_ba.png" group-title="United States" tvg-id="KRDTCD7" tvc-guide-stationid="99007",KRDT-CD7 (SCNEWS)
+http://example.local/USA-KRDTCD7.ts
+#EXTINF:-1 tvg-chno="99008" tvg-name="KRDT-CD8" group-title="United States" tvg-id="KRDTCD8" tvc-guide-stationid="99008",KRDT-CD8
+http://example.local/USA-KRDTCD8.ts
 #EXTINF:-1 tvg-chno="10660" tvg-name="KREG (METVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" group-title="United States" tvg-id="KREG" tvc-guide-stationid="10660",KREG (METVN)
 http://example.local/USA-KREG.ts
 #EXTINF:-1 tvg-chno="34943" tvg-name="KREG-DT (METVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" group-title="United States" tvg-id="KREGDT" tvc-guide-stationid="34943",KREG-DT (METVN)
@@ -1013,9 +1019,3 @@ http://example.local/USA-KSNTDT3.ts
 http://example.local/USA-KSNTDT4.ts
 #EXTINF:-1 tvg-chno="10790" tvg-name="KSNV (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10790_ll_h9_aa.png" group-title="United States" tvg-id="KSNV" tvc-guide-stationid="10790",KSNV (NBC)
 http://example.local/USA-KSNV.ts
-#EXTINF:-1 tvg-chno="21661" tvg-name="KSNV-DT (NBC)" tvg-logo="https://logos.jesmann.com/ksnvdt.png" group-title="United States" tvg-id="KSNVDT" tvc-guide-stationid="21661",KSNV-DT (NBC)
-http://example.local/USA-KSNVDT.ts
-#EXTINF:-1 tvg-chno="49475" tvg-name="KSNV-DT2 (ROARTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s102116_ll_h15_ac.png" group-title="United States" tvg-id="KSNVDT2" tvc-guide-stationid="49475",KSNV-DT2 (ROARTV)
-http://example.local/USA-KSNVDT2.ts
-#EXTINF:-1 tvg-chno="61595" tvg-name="KSNV-DT3 (CHARGE)" tvg-logo="https://zap2it.tmsimg.com/assets/s102148_h3_aa.png" group-title="United States" tvg-id="KSNVDT3" tvc-guide-stationid="61595",KSNV-DT3 (CHARGE)
-http://example.local/USA-KSNVDT3.ts

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
+http://example.local/TTO-SCIFIS.ts
 #EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png" group-title="Aruba" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
 http://example.local/ABW-SCIFIS.ts
 #EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png" group-title="St. Lucia" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
@@ -317,7 +319,7 @@ http://example.local/USA-DABLPSD.ts
 http://example.local/USA-DABLSD.ts
 #EXTINF:-1 tvg-chno="104888" tvg-name="Dallas Mavericks: NBA League Pass" tvg-logo="https://zap2it.tmsimg.com/assets/s95843_ll_h15_ab.png" group-title="United States" tvg-id="NBADAL" tvc-guide-stationid="104888",Dallas Mavericks: NBA League Pass
 http://example.local/USA-NBADAL.ts
-#EXTINF:-1 tvg-chno="100268" tvg-name="Dallas Stars: NHL Center Ice" tvg-logo="https://zap2it.tmsimg.com/assets/s50130_ll_h15_ab.png" group-title="United States" tvg-id="NHLDAL" tvc-guide-stationid="100268",Dallas Stars: NHL Center Ice
+#EXTINF:-1 tvg-chno="100268" tvg-name="Dallas Stars: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhldal.png" group-title="United States" tvg-id="NHLDAL" tvc-guide-stationid="100268",Dallas Stars: NHL Center Ice
 http://example.local/USA-NHLDAL.ts
 #EXTINF:-1 tvg-chno="119581" tvg-name="Daly City Community Channel" group-title="United States" tvg-id="DCLOC" tvc-guide-stationid="119581",Daly City Community Channel
 http://example.local/USA-DCLOC.ts
@@ -927,7 +929,7 @@ http://example.local/CAN-DVHTV.ts
 http://example.local/CAN-DVHGTV.ts
 #EXTINF:-1 tvg-chno="49537" tvg-name="Descriptive Video - MeteoMedia" group-title="Canada" tvg-id="DVMM" tvc-guide-stationid="49537",Descriptive Video - MeteoMedia
 http://example.local/CAN-DVMM.ts
-#EXTINF:-1 tvg-chno="49535" tvg-name="Descriptive Video - One, Body Mind & Spirit Channe" group-title="Canada" tvg-id="DVOBMS" tvc-guide-stationid="49535",Descriptive Video - One, Body Mind & Spirit Channe
+#EXTINF:-1 tvg-chno="49535" tvg-name="Descriptive Video - One Body Mind & Spirit Channe" group-title="Canada" tvg-id="DVOBMS" tvc-guide-stationid="49535",Descriptive Video - One Body Mind & Spirit Channe
 http://example.local/CAN-DVOBMS.ts
 #EXTINF:-1 tvg-chno="49519" tvg-name="Descriptive Video - PBS-E" group-title="Canada" tvg-id="DVPBSE" tvc-guide-stationid="49519",Descriptive Video - PBS-E
 http://example.local/CAN-DVPBSE.ts
@@ -993,7 +995,7 @@ http://example.local/USA-DESTHD.ts
 http://example.local/FRA-DETJAM.ts
 #EXTINF:-1 tvg-chno="104869" tvg-name="Detroit Pistons: NBA League Pass" tvg-logo="https://zap2it.tmsimg.com/assets/s95843_ll_h15_ab.png" group-title="United States" tvg-id="NBADET" tvc-guide-stationid="104869",Detroit Pistons: NBA League Pass
 http://example.local/USA-NBADET.ts
-#EXTINF:-1 tvg-chno="100278" tvg-name="Detroit Red Wings: NHL Center Ice" tvg-logo="https://zap2it.tmsimg.com/assets/s50130_ll_h15_ab.png" group-title="United States" tvg-id="NHLDET" tvc-guide-stationid="100278",Detroit Red Wings: NHL Center Ice
+#EXTINF:-1 tvg-chno="100278" tvg-name="Detroit Red Wings: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhldet.png" group-title="United States" tvg-id="NHLDET" tvc-guide-stationid="100278",Detroit Red Wings: NHL Center Ice
 http://example.local/USA-NHLDET.ts
 #EXTINF:-1 tvg-chno="102276" tvg-name="Detroit Tigers: MLB Extra Innings" tvg-logo="https://zap2it.tmsimg.com/assets/s102276_ll_h15_aa.png" group-title="United States" tvg-id="MLBDET" tvc-guide-stationid="102276",Detroit Tigers: MLB Extra Innings
 http://example.local/USA-MLBDET.ts
@@ -1017,5 +1019,3 @@ http://example.local/DEU-DEFUNK.ts
 http://example.local/AUT-DKULTUR.ts
 #EXTINF:-1 tvg-chno="101532" tvg-name="Deutschlandfunk Kultur" tvg-logo="https://zap2it.tmsimg.com/assets/s101532_ll_h15_ab.png" group-title="Germany" tvg-id="DKULTUR" tvc-guide-stationid="101532",Deutschlandfunk Kultur
 http://example.local/DEU-DKULTUR.ts
-#EXTINF:-1 tvg-chno="101533" tvg-name="Deutschlandfunk Nova" tvg-logo="https://zap2it.tmsimg.com/assets/s101533_ll_h15_ab.png" group-title="Austria" tvg-id="DWISSEN" tvc-guide-stationid="101533",Deutschlandfunk Nova
-http://example.local/AUT-DWISSEN.ts

@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="11674" tvg-name="WMAW (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="United States" tvg-id="WMAW" tvc-guide-stationid="11674",WMAW (PBS)
+http://example.local/USA-WMAW.ts
+#EXTINF:-1 tvg-chno="43292" tvg-name="WMAW-DT (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_h3_ba.png" group-title="United States" tvg-id="WMAWDT" tvc-guide-stationid="43292",WMAW-DT (PBS)
+http://example.local/USA-WMAWDT.ts
+#EXTINF:-1 tvg-chno="43390" tvg-name="WMAW-DT2 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_h3_aa.png" group-title="United States" tvg-id="WMAWDT2" tvc-guide-stationid="43390",WMAW-DT2 (HD06)
+http://example.local/USA-WMAWDT2.ts
 #EXTINF:-1 tvg-chno="43392" tvg-name="WMAW-DT3 (CREATE)" tvg-logo="https://zap2it.tmsimg.com/assets/s48990_ll_h15_aa.png" group-title="United States" tvg-id="WMAWDT3" tvc-guide-stationid="43392",WMAW-DT3 (CREATE)
 http://example.local/USA-WMAWDT3.ts
 #EXTINF:-1 tvg-chno="43394" tvg-name="WMAW-DT4" group-title="United States" tvg-id="WMAWDT4" tvc-guide-stationid="43394",WMAW-DT4
@@ -1013,9 +1019,3 @@ http://example.local/USA-WNKY.ts
 http://example.local/USA-WNKYDT.ts
 #EXTINF:-1 tvg-chno="55203" tvg-name="WNKY-DT2 (CBS)" tvg-logo="https://logos.jesmann.com/wnkydt2.png" group-title="United States" tvg-id="WNKYDT2" tvc-guide-stationid="55203",WNKY-DT2 (CBS)
 http://example.local/USA-WNKYDT2.ts
-#EXTINF:-1 tvg-chno="96115" tvg-name="WNKY-DT2 (SD Feed) (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="United States" tvg-id="WNKY2SD" tvc-guide-stationid="96115",WNKY-DT2 (SD Feed) (CBS)
-http://example.local/USA-WNKY2SD.ts
-#EXTINF:-1 tvg-chno="106783" tvg-name="WNKY-DT3 (METVN)" tvg-logo="https://logos.jesmann.com/wnkydt3.png" group-title="United States" tvg-id="WNKYDT3" tvc-guide-stationid="106783",WNKY-DT3 (METVN)
-http://example.local/USA-WNKYDT3.ts
-#EXTINF:-1 tvg-chno="121601" tvg-name="WNKY-DT5 (SCNEWS)" tvg-logo="https://zap2it.tmsimg.com/assets/s96827_ll_h15_ad.png" group-title="United States" tvg-id="WNKYDT5" tvc-guide-stationid="121601",WNKY-DT5 (SCNEWS)
-http://example.local/USA-WNKYDT5.ts

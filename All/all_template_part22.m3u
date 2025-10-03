@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="69352" tvg-name="Disney XD HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69352_ll_h15_aa.png" group-title="Poland" tvg-id="DISXDHD" tvc-guide-stationid="69352",Disney XD HD
+http://example.local/POL-DISXDHD.ts
 #EXTINF:-1 tvg-chno="60006" tvg-name="Disney XD HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60006_ll_h15_aa.png" group-title="United States" tvg-id="DXDHD" tvc-guide-stationid="60006",Disney XD HD
 http://example.local/USA-DXDHD.ts
 #EXTINF:-1 tvg-chno="113409" tvg-name="Disney XD HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113409_ll_h15_aa.png" group-title="Belgium" tvg-id="DIXDNLH" tvc-guide-stationid="113409",Disney XD HD
@@ -1017,5 +1019,3 @@ http://example.local/GTM-MUSAMER.ts
 http://example.local/JAM-MUSAMER.ts
 #EXTINF:-1 tvg-chno="21423" tvg-name="DMX: Music of the Americas" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png" group-title="Colombia" tvg-id="MUSAMER" tvc-guide-stationid="21423",DMX: Music of the Americas
 http://example.local/COL-MUSAMER.ts
-#EXTINF:-1 tvg-chno="21423" tvg-name="DMX: Music of the Americas" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png" group-title="Dominican Republic" tvg-id="MUSAMER" tvc-guide-stationid="21423",DMX: Music of the Americas
-http://example.local/DOM-MUSAMER.ts

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="63555" tvg-name="Celebrity Shopping Network" tvg-logo="https://zap2it.tmsimg.com/assets/s63555_ll_h6_aa.png" group-title="United States" tvg-id="CSHPE" tvc-guide-stationid="63555",Celebrity Shopping Network
+http://example.local/USA-CSHPE.ts
 #EXTINF:-1 tvg-chno="64868" tvg-name="Celebrity Shopping Network (RF3)" group-title="United States" tvg-id="RF3" tvc-guide-stationid="64868",Celebrity Shopping Network (RF3)
 http://example.local/USA-RF3.ts
 #EXTINF:-1 tvg-chno="88191" tvg-name="Cem TV" group-title="Germany" tvg-id="CEMTUR" tvc-guide-stationid="88191",Cem TV
@@ -897,7 +899,7 @@ http://example.local/CAN-CHFI.ts
 http://example.local/CAN-CHFNFM.ts
 #EXTINF:-1 tvg-chno="102561" tvg-name="CHHA AM 1610 Spanish Radio Toronto" tvg-logo="https://zap2it.tmsimg.com/assets/s102561_ll_h9_aa.png" group-title="Canada" tvg-id="CHHAAM" tvc-guide-stationid="102561",CHHA AM 1610 Spanish Radio Toronto
 http://example.local/CAN-CHHAAM.ts
-#EXTINF:-1 tvg-chno="100270" tvg-name="Chicago Blackhawks: NHL Center Ice" tvg-logo="https://zap2it.tmsimg.com/assets/s50130_ll_h15_ab.png" group-title="United States" tvg-id="NHLCHG" tvc-guide-stationid="100270",Chicago Blackhawks: NHL Center Ice
+#EXTINF:-1 tvg-chno="100270" tvg-name="Chicago Blackhawks: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlchg.png" group-title="United States" tvg-id="NHLCHG" tvc-guide-stationid="100270",Chicago Blackhawks: NHL Center Ice
 http://example.local/USA-NHLCHG.ts
 #EXTINF:-1 tvg-chno="104886" tvg-name="Chicago Bulls: NBA League Pass" tvg-logo="https://zap2it.tmsimg.com/assets/s95843_ll_h15_ab.png" group-title="United States" tvg-id="NBACHI" tvc-guide-stationid="104886",Chicago Bulls: NBA League Pass
 http://example.local/USA-NBACHI.ts
@@ -1017,5 +1019,3 @@ http://example.local/CAN-CHKLD2.ts
 http://example.local/USA-CHLT.ts
 #EXTINF:-1 tvg-chno="12445" tvg-name="CHLT Sherbrooke (TVA)" tvg-logo="https://zap2it.tmsimg.com/assets/s12445_ll_h15_aa.png" group-title="Canada" tvg-id="CHLT" tvc-guide-stationid="12445",CHLT Sherbrooke (TVA)
 http://example.local/CAN-CHLT.ts
-#EXTINF:-1 tvg-chno="72750" tvg-name="CHLT-DT (TVA)" tvg-logo="https://zap2it.tmsimg.com/assets/s16367_ll_h15_ab.png" group-title="United States" tvg-id="CHLTDT" tvc-guide-stationid="72750",CHLT-DT (TVA)
-http://example.local/USA-CHLTDT.ts

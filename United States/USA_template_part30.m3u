@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="10741" tvg-name="KTTV (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="United States" tvg-id="KTTV" tvc-guide-stationid="10741",KTTV (FOX)
+http://example.local/USA-KTTV.ts
+#EXTINF:-1 tvg-chno="20450" tvg-name="KTTV-DT (FOX)" tvg-logo="https://logos.jesmann.com/kttvdt.png" group-title="United States" tvg-id="KTTVDT" tvc-guide-stationid="20450",KTTV-DT (FOX)
+http://example.local/USA-KTTVDT.ts
+#EXTINF:-1 tvg-chno="66342" tvg-name="KTTV-DT2 (FOXWX)" tvg-logo="https://zap2it.tmsimg.com/assets/s93141_ll_h15_aa.png" group-title="United States" tvg-id="KTTVDT2" tvc-guide-stationid="66342",KTTV-DT2 (FOXWX)
+http://example.local/USA-KTTVDT2.ts
 #EXTINF:-1 tvg-chno="68615" tvg-name="KTTV-DT3 (ROARTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s102116_ll_h15_ac.png" group-title="United States" tvg-id="KTTVDT3" tvc-guide-stationid="68615",KTTV-DT3 (ROARTV)
 http://example.local/USA-KTTVDT3.ts
 #EXTINF:-1 tvg-chno="112522" tvg-name="KTTV-DT4 (CATCHYC)" tvg-logo="https://zap2it.tmsimg.com/assets/s91415_ll_h15_ab.png" group-title="United States" tvg-id="KTTVDT4" tvc-guide-stationid="112522",KTTV-DT4 (CATCHYC)
@@ -1013,9 +1019,3 @@ http://example.local/USA-KUTBLD4.ts
 http://example.local/USA-KUTFDT.ts
 #EXTINF:-1 tvg-chno="31246" tvg-name="KUTH (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="United States" tvg-id="KUTH" tvc-guide-stationid="31246",KUTH (UNI)
 http://example.local/USA-KUTH.ts
-#EXTINF:-1 tvg-chno="63957" tvg-name="KUTH-DT (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="United States" tvg-id="KUTHDT" tvc-guide-stationid="63957",KUTH-DT (UNI)
-http://example.local/USA-KUTHDT.ts
-#EXTINF:-1 tvg-chno="83403" tvg-name="KUTH-DT2 (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_ll_h15_ab.png" group-title="United States" tvg-id="KUTHDT2" tvc-guide-stationid="83403",KUTH-DT2 (UNIMAS)
-http://example.local/USA-KUTHDT2.ts
-#EXTINF:-1 tvg-chno="86379" tvg-name="KUTH-DT3 (GET)" tvg-logo="https://zap2it.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="KUTHDT3" tvc-guide-stationid="86379",KUTH-DT3 (GET)
-http://example.local/USA-KUTHDT3.ts

@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="89146" tvg-name="Sports Overflow 2 HD (SOF2) - Hamilton" group-title="United States" tvg-id="SOF2HHD" tvc-guide-stationid="89146",Sports Overflow 2 HD (SOF2) - Hamilton
+http://example.local/USA-SOF2HHD.ts
+#EXTINF:-1 tvg-chno="89145" tvg-name="Sports Overflow 2 HD (SOF2) - Litchfield" group-title="United States" tvg-id="SOF2HD" tvc-guide-stationid="89145",Sports Overflow 2 HD (SOF2) - Litchfield
+http://example.local/USA-SOF2HD.ts
+#EXTINF:-1 tvg-chno="88903" tvg-name="Sports Overflow 2 SD (SOF2) - Hamilton" group-title="United States" tvg-id="SOF2H" tvc-guide-stationid="88903",Sports Overflow 2 SD (SOF2) - Hamilton
+http://example.local/USA-SOF2H.ts
 #EXTINF:-1 tvg-chno="88899" tvg-name="Sports Overflow 2 SD (SOF2) - Litchfield" group-title="United States" tvg-id="SOF2" tvc-guide-stationid="88899",Sports Overflow 2 SD (SOF2) - Litchfield
 http://example.local/USA-SOF2.ts
 #EXTINF:-1 tvg-chno="108530" tvg-name="Sports Overflow California HD" group-title="United States" tvg-id="SPOFCAH" tvc-guide-stationid="108530",Sports Overflow California HD
@@ -123,7 +129,7 @@ http://example.local/USA-PK8.ts
 http://example.local/USA-SPCTV.ts
 #EXTINF:-1 tvg-chno="93164" tvg-name="St. Johns Community Channel" group-title="United States" tvg-id="LOCSTJ" tvc-guide-stationid="93164",St. Johns Community Channel
 http://example.local/USA-LOCSTJ.ts
-#EXTINF:-1 tvg-chno="100210" tvg-name="St. Louis Blues: NHL Center Ice" tvg-logo="https://zap2it.tmsimg.com/assets/s50130_ll_h15_ab.png" group-title="United States" tvg-id="NHLSTL" tvc-guide-stationid="100210",St. Louis Blues: NHL Center Ice
+#EXTINF:-1 tvg-chno="100210" tvg-name="St. Louis Blues: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlstl.png" group-title="United States" tvg-id="NHLSTL" tvc-guide-stationid="100210",St. Louis Blues: NHL Center Ice
 http://example.local/USA-NHLSTL.ts
 #EXTINF:-1 tvg-chno="102255" tvg-name="St. Louis Cardinals: MLB Extra Innings" group-title="United States" tvg-id="MLBSTL" tvc-guide-stationid="102255",St. Louis Cardinals: MLB Extra Innings
 http://example.local/USA-MLBSTL.ts
@@ -353,7 +359,7 @@ http://example.local/USA-SMESP29.ts
 http://example.local/USA-SMESP27.ts
 #EXTINF:-1 tvg-chno="21629" tvg-name="Stingray Baroque" tvg-logo="https://zap2it.tmsimg.com/assets/s21629_ll_h15_aa.png" group-title="United States" tvg-id="SM025" tvc-guide-stationid="21629",Stingray Baroque
 http://example.local/USA-SM025.ts
-#EXTINF:-1 tvg-chno="75395" tvg-name="Stingray Bass, Breaks and Beats" tvg-logo="https://zap2it.tmsimg.com/assets/s75395_ll_h15_aa.png" group-title="United States" tvg-id="SM056" tvc-guide-stationid="75395",Stingray Bass, Breaks and Beats
+#EXTINF:-1 tvg-chno="75395" tvg-name="Stingray Bass Breaks and Beats" tvg-logo="https://zap2it.tmsimg.com/assets/s75395_ll_h15_aa.png" group-title="United States" tvg-id="SM056" tvc-guide-stationid="75395",Stingray Bass Breaks and Beats
 http://example.local/USA-SM056.ts
 #EXTINF:-1 tvg-chno="45218" tvg-name="Stingray Big Band" tvg-logo="https://zap2it.tmsimg.com/assets/s45218_ll_h15_aa.png" group-title="United States" tvg-id="SM039" tvc-guide-stationid="45218",Stingray Big Band
 http://example.local/USA-SM039.ts
@@ -949,7 +955,7 @@ http://example.local/USA-TALKHD.ts
 http://example.local/USA-TBAE.ts
 #EXTINF:-1 tvg-chno="108302" tvg-name="Tampa Bay Arts & Entertainment Network" group-title="United States" tvg-id="TBAEN" tvc-guide-stationid="108302",Tampa Bay Arts & Entertainment Network
 http://example.local/USA-TBAEN.ts
-#EXTINF:-1 tvg-chno="100272" tvg-name="Tampa Bay Lightning: NHL Center Ice" tvg-logo="https://zap2it.tmsimg.com/assets/s50130_ll_h15_ab.png" group-title="United States" tvg-id="NHLTB" tvc-guide-stationid="100272",Tampa Bay Lightning: NHL Center Ice
+#EXTINF:-1 tvg-chno="100272" tvg-name="Tampa Bay Lightning: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhltb.png" group-title="United States" tvg-id="NHLTB" tvc-guide-stationid="100272",Tampa Bay Lightning: NHL Center Ice
 http://example.local/USA-NHLTB.ts
 #EXTINF:-1 tvg-chno="102265" tvg-name="Tampa Bay Rays: MLB Extra Innings" group-title="United States" tvg-id="MLBTB" tvc-guide-stationid="102265",Tampa Bay Rays: MLB Extra Innings
 http://example.local/USA-MLBTB.ts
@@ -1013,9 +1019,3 @@ http://example.local/USA-TBSHDBO.ts
 http://example.local/USA-TBSHDPA.ts
 #EXTINF:-1 tvg-chno="46714" tvg-name="TBS On Demand" group-title="United States" tvg-id="TBSDM" tvc-guide-stationid="46714",TBS On Demand
 http://example.local/USA-TBSDM.ts
-#EXTINF:-1 tvg-chno="24960" tvg-name="TBSCFL" group-title="United States" tvg-id="TBSCFL" tvc-guide-stationid="24960",TBSCFL
-http://example.local/USA-TBSCFL.ts
-#EXTINF:-1 tvg-chno="122139" tvg-name="TC Internacional" group-title="United States" tvg-id="TCIE" tvc-guide-stationid="122139",TC Internacional
-http://example.local/USA-TCIE.ts
-#EXTINF:-1 tvg-chno="47062" tvg-name="TCM" group-title="United States" tvg-id="GTCM2WD" tvc-guide-stationid="47062",TCM
-http://example.local/USA-GTCM2WD.ts

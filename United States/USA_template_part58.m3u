@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="19578" tvg-name="WRC-DT (NBC)" tvg-logo="https://logos.jesmann.com/wrcdt.png" group-title="United States" tvg-id="WRCDT" tvc-guide-stationid="19578",WRC-DT (NBC)
+http://example.local/USA-WRCDT.ts
+#EXTINF:-1 tvg-chno="45736" tvg-name="WRC-DT2 (COZITV)" tvg-logo="https://zap2it.tmsimg.com/assets/s78851_ll_h15_ab.png" group-title="United States" tvg-id="WRCDT2" tvc-guide-stationid="45736",WRC-DT2 (COZITV)
+http://example.local/USA-WRCDT2.ts
+#EXTINF:-1 tvg-chno="61342" tvg-name="WRC-DT3 (TELE)" tvg-logo="https://zap2it.tmsimg.com/assets/s10239_ll_h15_ab.png" group-title="United States" tvg-id="WRCDT3" tvc-guide-stationid="61342",WRC-DT3 (TELE)
+http://example.local/USA-WRCDT3.ts
 #EXTINF:-1 tvg-chno="106502" tvg-name="WRC-DT4 (TLEX)" tvg-logo="https://zap2it.tmsimg.com/assets/s74299_h3_aa.png" group-title="United States" tvg-id="WRCDT4" tvc-guide-stationid="106502",WRC-DT4 (TLEX)
 http://example.local/USA-WRCDT4.ts
 #EXTINF:-1 tvg-chno="114820" tvg-name="WRC-DT5 (CRMES)" tvg-logo="https://zap2it.tmsimg.com/assets/s114278_ll_h15_ae.png" group-title="United States" tvg-id="WRCDT5" tvc-guide-stationid="114820",WRC-DT5 (CRMES)
@@ -1013,9 +1019,3 @@ http://example.local/USA-WSTMDT.ts
 http://example.local/USA-WSTMDT2.ts
 #EXTINF:-1 tvg-chno="46842" tvg-name="WSTM-DT3 (COMET)" tvg-logo="https://zap2it.tmsimg.com/assets/s97051_ll_h15_ab.png" group-title="United States" tvg-id="WSTMDT3" tvc-guide-stationid="46842",WSTM-DT3 (COMET)
 http://example.local/USA-WSTMDT3.ts
-#EXTINF:-1 tvg-chno="69357" tvg-name="WSTQ HD Cable (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png" group-title="United States" tvg-id="WSTQHD" tvc-guide-stationid="69357",WSTQ HD Cable (CW)
-http://example.local/USA-WSTQHD.ts
-#EXTINF:-1 tvg-chno="33044" tvg-name="WSTQ-LP (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png" group-title="United States" tvg-id="WSTQLP" tvc-guide-stationid="33044",WSTQ-LP (CW)
-http://example.local/USA-WSTQLP.ts
-#EXTINF:-1 tvg-chno="12442" tvg-name="WSTR (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/s51307_ll_h15_aa.png" group-title="United States" tvg-id="WSTR" tvc-guide-stationid="12442",WSTR (MNT)
-http://example.local/USA-WSTR.ts

@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="21661" tvg-name="KSNV-DT (NBC)" tvg-logo="https://logos.jesmann.com/ksnvdt.png" group-title="United States" tvg-id="KSNVDT" tvc-guide-stationid="21661",KSNV-DT (NBC)
+http://example.local/USA-KSNVDT.ts
+#EXTINF:-1 tvg-chno="49475" tvg-name="KSNV-DT2 (ROARTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s102116_ll_h15_ac.png" group-title="United States" tvg-id="KSNVDT2" tvc-guide-stationid="49475",KSNV-DT2 (ROARTV)
+http://example.local/USA-KSNVDT2.ts
+#EXTINF:-1 tvg-chno="61595" tvg-name="KSNV-DT3 (CHARGE)" tvg-logo="https://zap2it.tmsimg.com/assets/s102148_h3_aa.png" group-title="United States" tvg-id="KSNVDT3" tvc-guide-stationid="61595",KSNV-DT3 (CHARGE)
+http://example.local/USA-KSNVDT3.ts
 #EXTINF:-1 tvg-chno="105625" tvg-name="KSNV-DT4 (COMET)" tvg-logo="https://zap2it.tmsimg.com/assets/s97051_h3_aa.png" group-title="United States" tvg-id="KSNVDT4" tvc-guide-stationid="105625",KSNV-DT4 (COMET)
 http://example.local/USA-KSNVDT4.ts
 #EXTINF:-1 tvg-chno="10698" tvg-name="KSNW (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="United States" tvg-id="KSNW" tvc-guide-stationid="10698",KSNW (NBC)
@@ -1013,9 +1019,3 @@ http://example.local/USA-KTTUDT4.ts
 http://example.local/USA-KTTUDT5.ts
 #EXTINF:-1 tvg-chno="125847" tvg-name="KTTU-DT7 (CONFESS)" tvg-logo="https://zap2it.tmsimg.com/assets/s161190_ll_h15_aa.png" group-title="United States" tvg-id="KTTUDT7" tvc-guide-stationid="125847",KTTU-DT7 (CONFESS)
 http://example.local/USA-KTTUDT7.ts
-#EXTINF:-1 tvg-chno="10741" tvg-name="KTTV (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="United States" tvg-id="KTTV" tvc-guide-stationid="10741",KTTV (FOX)
-http://example.local/USA-KTTV.ts
-#EXTINF:-1 tvg-chno="20450" tvg-name="KTTV-DT (FOX)" tvg-logo="https://logos.jesmann.com/kttvdt.png" group-title="United States" tvg-id="KTTVDT" tvc-guide-stationid="20450",KTTV-DT (FOX)
-http://example.local/USA-KTTVDT.ts
-#EXTINF:-1 tvg-chno="66342" tvg-name="KTTV-DT2 (FOXWX)" tvg-logo="https://zap2it.tmsimg.com/assets/s93141_ll_h15_aa.png" group-title="United States" tvg-id="KTTVDT2" tvc-guide-stationid="66342",KTTV-DT2 (FOXWX)
-http://example.local/USA-KTTVDT2.ts

@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="51897" tvg-name="KNOE-DT2 (ABC)" tvg-logo="https://logos.jesmann.com/knoedt2.png" group-title="United States" tvg-id="KNOEDT2" tvc-guide-stationid="51897",KNOE-DT2 (ABC)
+http://example.local/USA-KNOEDT2.ts
+#EXTINF:-1 tvg-chno="102797" tvg-name="KNOE-DT2 (SD Feed) (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="United States" tvg-id="KNOE2SD" tvc-guide-stationid="102797",KNOE-DT2 (SD Feed) (ABC)
+http://example.local/USA-KNOE2SD.ts
+#EXTINF:-1 tvg-chno="90279" tvg-name="KNOE-DT3 (GCSEN)" tvg-logo="https://zap2it.tmsimg.com/assets/s168297_ll_h15_aa.png" group-title="United States" tvg-id="KNOEDT3" tvc-guide-stationid="90279",KNOE-DT3 (GCSEN)
+http://example.local/USA-KNOEDT3.ts
 #EXTINF:-1 tvg-chno="118809" tvg-name="KNOE-DT4 (365BLK)" tvg-logo="https://zap2it.tmsimg.com/assets/s150571_ll_h15_ab.png" group-title="United States" tvg-id="KNOEDT4" tvc-guide-stationid="118809",KNOE-DT4 (365BLK)
 http://example.local/USA-KNOEDT4.ts
 #EXTINF:-1 tvg-chno="117374" tvg-name="KNOE-DT5 (CRIME)" tvg-logo="https://zap2it.tmsimg.com/assets/s91496_h3_ba.png" group-title="United States" tvg-id="KNOEDT5" tvc-guide-stationid="117374",KNOE-DT5 (CRIME)
@@ -1013,9 +1019,3 @@ http://example.local/USA-KPIF.ts
 http://example.local/USA-KPIFDT.ts
 #EXTINF:-1 tvg-chno="107232" tvg-name="KPIF-DT10 (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_ba.png" group-title="United States" tvg-id="KPIFD10" tvc-guide-stationid="107232",KPIF-DT10 (DYSTR)
 http://example.local/USA-KPIFD10.ts
-#EXTINF:-1 tvg-chno="127819" tvg-name="KPIF-DT11 (DSTRESP)" tvg-logo="https://zap2it.tmsimg.com/assets/s132423_ll_h15_aa.png" group-title="United States" tvg-id="KPIFD11" tvc-guide-stationid="127819",KPIF-DT11 (DSTRESP)
-http://example.local/USA-KPIFD11.ts
-#EXTINF:-1 tvg-chno="127815" tvg-name="KPIF-DT13 (NEWSMX2)" tvg-logo="https://zap2it.tmsimg.com/assets/s121162_ll_h15_aa.png" group-title="United States" tvg-id="KPIFD13" tvc-guide-stationid="127815",KPIF-DT13 (NEWSMX2)
-http://example.local/USA-KPIFD13.ts
-#EXTINF:-1 tvg-chno="106518" tvg-name="KPIF-DT2 (IONPLUS)" tvg-logo="https://zap2it.tmsimg.com/assets/s55241_ll_h15_ad.png" group-title="United States" tvg-id="KPIFDT2" tvc-guide-stationid="106518",KPIF-DT2 (IONPLUS)
-http://example.local/USA-KPIFDT2.ts

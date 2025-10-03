@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="96115" tvg-name="WNKY-DT2 (SD Feed) (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="United States" tvg-id="WNKY2SD" tvc-guide-stationid="96115",WNKY-DT2 (SD Feed) (CBS)
+http://example.local/USA-WNKY2SD.ts
+#EXTINF:-1 tvg-chno="106783" tvg-name="WNKY-DT3 (METVN)" tvg-logo="https://logos.jesmann.com/wnkydt3.png" group-title="United States" tvg-id="WNKYDT3" tvc-guide-stationid="106783",WNKY-DT3 (METVN)
+http://example.local/USA-WNKYDT3.ts
+#EXTINF:-1 tvg-chno="121601" tvg-name="WNKY-DT5 (SCNEWS)" tvg-logo="https://zap2it.tmsimg.com/assets/s96827_ll_h15_ad.png" group-title="United States" tvg-id="WNKYDT5" tvc-guide-stationid="121601",WNKY-DT5 (SCNEWS)
+http://example.local/USA-WNKYDT5.ts
 #EXTINF:-1 tvg-chno="11714" tvg-name="WNLO (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png" group-title="United States" tvg-id="WNLO" tvc-guide-stationid="11714",WNLO (CW)
 http://example.local/USA-WNLO.ts
 #EXTINF:-1 tvg-chno="60637" tvg-name="WNLO-CD (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s28719_ll_h15_ac.png" group-title="United States" tvg-id="WNLOCD" tvc-guide-stationid="60637",WNLO-CD (FOX)
@@ -1013,9 +1019,3 @@ http://example.local/USA-WPGDDT2.ts
 http://example.local/USA-WPGDDT3.ts
 #EXTINF:-1 tvg-chno="67421" tvg-name="WPGD-DT4 (ONTV4)" tvg-logo="https://zap2it.tmsimg.com/assets/s49208_ll_h15_ac.png" group-title="United States" tvg-id="WPGDDT4" tvc-guide-stationid="67421",WPGD-DT4 (ONTV4)
 http://example.local/USA-WPGDDT4.ts
-#EXTINF:-1 tvg-chno="67423" tvg-name="WPGD-DT5 (POSTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s34169_ll_h15_ad.png" group-title="United States" tvg-id="WPGDDT5" tvc-guide-stationid="67423",WPGD-DT5 (POSTV)
-http://example.local/USA-WPGDDT5.ts
-#EXTINF:-1 tvg-chno="11776" tvg-name="WPGH (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="United States" tvg-id="WPGH" tvc-guide-stationid="11776",WPGH (FOX)
-http://example.local/USA-WPGH.ts
-#EXTINF:-1 tvg-chno="21249" tvg-name="WPGH-DT (FOX)" tvg-logo="https://logos.jesmann.com/wpghdt.png" group-title="United States" tvg-id="WPGHDT" tvc-guide-stationid="21249",WPGH-DT (FOX)
-http://example.local/USA-WPGHDT.ts

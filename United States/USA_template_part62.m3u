@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="19601" tvg-name="WXYZ-DT (ABC)" tvg-logo="https://logos.jesmann.com/wxyzdt.png" group-title="United States" tvg-id="WXYZDT" tvc-guide-stationid="19601",WXYZ-DT (ABC)
+http://example.local/USA-WXYZDT.ts
+#EXTINF:-1 tvg-chno="35140" tvg-name="WXYZ-DT2 (BOUNCE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_h3_aa.png" group-title="United States" tvg-id="WXYZDT2" tvc-guide-stationid="35140",WXYZ-DT2 (BOUNCE)
+http://example.local/USA-WXYZDT2.ts
+#EXTINF:-1 tvg-chno="35425" tvg-name="WXYZ-DT3 (LAFF)" tvg-logo="https://zap2it.tmsimg.com/assets/s92091_ll_h15_aa.png" group-title="United States" tvg-id="WXYZDT3" tvc-guide-stationid="35425",WXYZ-DT3 (LAFF)
+http://example.local/USA-WXYZDT3.ts
 #EXTINF:-1 tvg-chno="111146" tvg-name="WXYZ-DT4 (COURT)" tvg-logo="https://zap2it.tmsimg.com/assets/s111043_ll_h15_aa.png" group-title="United States" tvg-id="WXYZDT4" tvc-guide-stationid="111146",WXYZ-DT4 (COURT)
 http://example.local/USA-WXYZDT4.ts
 #EXTINF:-1 tvg-chno="141639" tvg-name="WXYZ-DT5 (SHOPLC)" tvg-logo="https://zap2it.tmsimg.com/assets/s56032_ll_h15_ac.png" group-title="United States" tvg-id="WXYZDT5" tvc-guide-stationid="141639",WXYZ-DT5 (SHOPLC)
@@ -1013,9 +1019,3 @@ http://example.local/USA-YOUSEA.ts
 http://example.local/USA-YOUSTL.ts
 #EXTINF:-1 tvg-chno="110648" tvg-name="YouTube MLB Extra Innings Tampa Bay Rays" group-title="United States" tvg-id="YOUTBR" tvc-guide-stationid="110648",YouTube MLB Extra Innings Tampa Bay Rays
 http://example.local/USA-YOUTBR.ts
-#EXTINF:-1 tvg-chno="110649" tvg-name="YouTube MLB Extra Innings Texas Rangers" group-title="United States" tvg-id="YOUTEX" tvc-guide-stationid="110649",YouTube MLB Extra Innings Texas Rangers
-http://example.local/USA-YOUTEX.ts
-#EXTINF:-1 tvg-chno="110650" tvg-name="YouTube MLB Extra Innings Toronto Blue Jays" group-title="United States" tvg-id="YOUTOR" tvc-guide-stationid="110650",YouTube MLB Extra Innings Toronto Blue Jays
-http://example.local/USA-YOUTOR.ts
-#EXTINF:-1 tvg-chno="110651" tvg-name="YouTube MLB Extra Innings Washington Nationals" group-title="United States" tvg-id="YOUWAS" tvc-guide-stationid="110651",YouTube MLB Extra Innings Washington Nationals
-http://example.local/USA-YOUWAS.ts
