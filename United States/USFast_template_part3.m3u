@@ -83,7 +83,7 @@ http://example.local/USA-FNETOLE.ts
 http://example.local/USA-FNETOPK.ts
 #EXTINF:-1 tvg-chno="105256" tvg-name="FNE Traverse City" tvg-logo="https://zap2it.tmsimg.com/assets/s103482_ll_h15_aa.png" group-title="United States" tvg-id="FNETRAV" tvc-guide-stationid="105256",FNE Traverse City
 http://example.local/USA-FNETRAV.ts
-#EXTINF:-1 tvg-chno="105980" tvg-name="FNE Tri-Cities, TN" tvg-logo="https://zap2it.tmsimg.com/assets/s103482_h3_aa.png" group-title="United States" tvg-id="FNETRIC" tvc-guide-stationid="105980",FNE Tri-Cities, TN
+#EXTINF:-1 tvg-chno="105980" tvg-name="FNE Tri-Cities TN" tvg-logo="https://zap2it.tmsimg.com/assets/s103482_h3_aa.png" group-title="United States" tvg-id="FNETRIC" tvc-guide-stationid="105980",FNE Tri-Cities TN
 http://example.local/USA-FNETRIC.ts
 #EXTINF:-1 tvg-chno="103626" tvg-name="FNE Tulsa" tvg-logo="https://zap2it.tmsimg.com/assets/s103482_h3_aa.png" group-title="United States" tvg-id="FNETULS" tvc-guide-stationid="103626",FNE Tulsa
 http://example.local/USA-FNETULS.ts
@@ -133,9 +133,9 @@ http://example.local/USA-FNMTUCS.ts
 http://example.local/USA-FNMTWIN.ts
 #EXTINF:-1 tvg-chno="103866" tvg-name="FNP Bakersfield" group-title="United States" tvg-id="FNPBAKE" tvc-guide-stationid="103866",FNP Bakersfield
 http://example.local/USA-FNPBAKE.ts
-#EXTINF:-1 tvg-chno="105981" tvg-name="FNP Chico, CA" tvg-logo="https://zap2it.tmsimg.com/assets/s103482_h3_aa.png" group-title="United States" tvg-id="FNPCHIC" tvc-guide-stationid="105981",FNP Chico, CA
+#EXTINF:-1 tvg-chno="105981" tvg-name="FNP Chico CA" tvg-logo="https://zap2it.tmsimg.com/assets/s103482_h3_aa.png" group-title="United States" tvg-id="FNPCHIC" tvc-guide-stationid="105981",FNP Chico CA
 http://example.local/USA-FNPCHIC.ts
-#EXTINF:-1 tvg-chno="105982" tvg-name="FNP Eureka, CA" tvg-logo="https://zap2it.tmsimg.com/assets/s103482_ll_h15_aa.png" group-title="United States" tvg-id="FNPEURE" tvc-guide-stationid="105982",FNP Eureka, CA
+#EXTINF:-1 tvg-chno="105982" tvg-name="FNP Eureka CA" tvg-logo="https://zap2it.tmsimg.com/assets/s103482_ll_h15_aa.png" group-title="United States" tvg-id="FNPEURE" tvc-guide-stationid="105982",FNP Eureka CA
 http://example.local/USA-FNPEURE.ts
 #EXTINF:-1 tvg-chno="103888" tvg-name="FNP Fresno" group-title="United States" tvg-id="FNPFRES" tvc-guide-stationid="103888",FNP Fresno
 http://example.local/USA-FNPFRES.ts
@@ -735,6 +735,10 @@ http://example.local/USA-HMTV.ts
 http://example.local/USA-VIZHCAU.ts
 #EXTINF:-1 tvg-chno="114881" tvg-name="Hogar HD" tvg-logo="https://zap2it.tmsimg.com/assets/s114881_ll_h15_aa.png" group-title="United States" tvg-id="HOGARHD" tvc-guide-stationid="114881",Hogar HD
 http://example.local/USA-HOGARHD.ts
+#EXTINF:-1 tvg-chno="90018" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_h3_aa.png" group-title="United States" tvg-id="HOLAHD" tvc-guide-stationid="90018",HOLA! TV
+http://example.local/USA-HOLAHD.ts
+#EXTINF:-1 tvg-chno="62161" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="United States" tvg-id="HOLATV" tvc-guide-stationid="62161",HOLA! TV
+http://example.local/USA-HOLATV.ts
 #EXTINF:-1 tvg-chno="130095" tvg-name="Holiday Headquarters" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028BMC9.png" group-title="United States" tvg-id="OUTESC" tvc-guide-stationid="130095",Holiday Headquarters
 http://example.local/USA-OUTESC.ts
 #EXTINF:-1 tvg-chno="167586" tvg-name="Home & Garden Television" tvg-logo="https://zap2it.tmsimg.com/assets/s167586_ll_h15_aa.png" group-title="United States" tvg-id="HGTHD" tvc-guide-stationid="167586",Home & Garden Television
@@ -1025,7 +1029,3 @@ http://example.local/USA-KAKMDT.ts
 http://example.local/USA-KALBDT.ts
 #EXTINF:-1 tvg-chno="54820" tvg-name="KALB-DT2 (CBS)" tvg-logo="https://logos.jesmann.com/kalbdt2.png" group-title="United States" tvg-id="KALBDT2" tvc-guide-stationid="54820",KALB-DT2 (CBS)
 http://example.local/USA-KALBDT2.ts
-#EXTINF:-1 tvg-chno="34704" tvg-name="KAMR-DT (NBC)" tvg-logo="https://logos.jesmann.com/kamrdt.png" group-title="United States" tvg-id="KAMRDT" tvc-guide-stationid="34704",KAMR-DT (NBC)
-http://example.local/USA-KAMRDT.ts
-#EXTINF:-1 tvg-chno="34692" tvg-name="KAMU-DT (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s32356_h3_aa.png" group-title="United States" tvg-id="KAMUDT" tvc-guide-stationid="34692",KAMU-DT (PBS)
-http://example.local/USA-KAMUDT.ts

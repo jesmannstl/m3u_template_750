@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="120021" tvg-name="NFL on WLNS" tvg-logo="https://zap2it.tmsimg.com/assets/s28711_ll_h15_ab.png" group-title="United States" tvg-id="WLNSNFL" tvc-guide-stationid="120021",NFL on WLNS
+http://example.local/USA-WLNSNFL.ts
+#EXTINF:-1 tvg-chno="120126" tvg-name="NFL on WLOX" group-title="United States" tvg-id="WLOXNFL" tvc-guide-stationid="120126",NFL on WLOX
+http://example.local/USA-WLOXNFL.ts
 #EXTINF:-1 tvg-chno="119941" tvg-name="NFL on WLTX" tvg-logo="https://zap2it.tmsimg.com/assets/s28711_ll_h15_ab.png" group-title="United States" tvg-id="WLTXNFL" tvc-guide-stationid="119941",NFL on WLTX
 http://example.local/USA-WLTXNFL.ts
 #EXTINF:-1 tvg-chno="120025" tvg-name="NFL on WMAZ" tvg-logo="https://zap2it.tmsimg.com/assets/s28711_ll_h15_ab.png" group-title="United States" tvg-id="WMAZNFL" tvc-guide-stationid="120025",NFL on WMAZ
@@ -1025,7 +1029,3 @@ http://example.local/USA-RVLTHD.ts
 http://example.local/USA-RVLTMXT.ts
 #EXTINF:-1 tvg-chno="113603" tvg-name="Revry" tvg-logo="https://zap2it.tmsimg.com/assets/s113603_h3_aa.png" group-title="United States" tvg-id="REVRY" tvc-guide-stationid="113603",Revry
 http://example.local/USA-REVRY.ts
-#EXTINF:-1 tvg-chno="116111" tvg-name="Revry 2" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0021H2G8.png" group-title="United States" tvg-id="REVRY2" tvc-guide-stationid="116111",Revry 2
-http://example.local/USA-REVRY2.ts
-#EXTINF:-1 tvg-chno="119133" tvg-name="Revry [VIZIO]" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0021H2G0.png" group-title="United States" tvg-id="VIZREV" tvc-guide-stationid="119133",Revry [VIZIO]
-http://example.local/USA-VIZREV.ts

@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="34704" tvg-name="KAMR-DT (NBC)" tvg-logo="https://logos.jesmann.com/kamrdt.png" group-title="United States" tvg-id="KAMRDT" tvc-guide-stationid="34704",KAMR-DT (NBC)
+http://example.local/USA-KAMRDT.ts
+#EXTINF:-1 tvg-chno="34692" tvg-name="KAMU-DT (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s32356_h3_aa.png" group-title="United States" tvg-id="KAMUDT" tvc-guide-stationid="34692",KAMU-DT (PBS)
+http://example.local/USA-KAMUDT.ts
 #EXTINF:-1 tvg-chno="34680" tvg-name="KARD-DT (FOX)" tvg-logo="https://logos.jesmann.com/karddt.png" group-title="United States" tvg-id="KARDDT" tvc-guide-stationid="34680",KARD-DT (FOX)
 http://example.local/USA-KARDDT.ts
 #EXTINF:-1 tvg-chno="183536" tvg-name="KARE 11" tvg-logo="https://zap2it.tmsimg.com/assets/s183536_ll_h15_aa.png" group-title="United States" tvg-id="KARESTR" tvc-guide-stationid="183536",KARE 11
@@ -969,7 +973,7 @@ http://example.local/USA-MAGNPHD.ts
 http://example.local/USA-MARQO.ts
 #EXTINF:-1 tvg-chno="115762" tvg-name="Marquee Sports Out of Market HD [Comcast]" tvg-logo="https://zap2it.tmsimg.com/assets/s113768_h3_aa.png" group-title="United States" tvg-id="MRQOMHD" tvc-guide-stationid="115762",Marquee Sports Out of Market HD [Comcast]
 http://example.local/USA-MRQOMHD.ts
-#EXTINF:-1 tvg-chno="129047" tvg-name="Matched, Married, Meet" tvg-logo="https://zap2it.tmsimg.com/assets/s129047_ll_h15_aa.png" group-title="United States" tvg-id="MATCHED" tvc-guide-stationid="129047",Matched, Married, Meet
+#EXTINF:-1 tvg-chno="129047" tvg-name="Matched Married Meet" tvg-logo="https://zap2it.tmsimg.com/assets/s129047_ll_h15_aa.png" group-title="United States" tvg-id="MATCHED" tvc-guide-stationid="129047",Matched Married Meet
 http://example.local/USA-MATCHED.ts
 #EXTINF:-1 tvg-chno="121534" tvg-name="Maverick Black Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121534_ll_h15_aa.png" group-title="United States" tvg-id="MBLC" tvc-guide-stationid="121534",Maverick Black Cinema
 http://example.local/USA-MBLC.ts
@@ -1025,7 +1029,3 @@ http://example.local/USA-MSTREET.ts
 http://example.local/USA-METVD.ts
 #EXTINF:-1 tvg-chno="159817" tvg-name="MeTV Toons" tvg-logo="https://zap2it.tmsimg.com/assets/s159817_ll_h15_aa.png" group-title="United States" tvg-id="METOONS" tvc-guide-stationid="159817",MeTV Toons
 http://example.local/USA-METOONS.ts
-#EXTINF:-1 tvg-chno="119266" tvg-name="MeTV+" tvg-logo="https://zap2it.tmsimg.com/assets/s119266_ll_h15_aa.png" group-title="United States" tvg-id="METVPLS" tvc-guide-stationid="119266",MeTV+
-http://example.local/USA-METVPLS.ts
-#EXTINF:-1 tvg-chno="47499" tvg-name="Mexicanal" tvg-logo="https://zap2it.tmsimg.com/assets/s47499_ll_h15_ab.png" group-title="United States" tvg-id="MEXCAN" tvc-guide-stationid="47499",Mexicanal
-http://example.local/USA-MEXCAN.ts

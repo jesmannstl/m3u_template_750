@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="119266" tvg-name="MeTV+" tvg-logo="https://zap2it.tmsimg.com/assets/s119266_ll_h15_aa.png" group-title="United States" tvg-id="METVPLS" tvc-guide-stationid="119266",MeTV+
+http://example.local/USA-METVPLS.ts
+#EXTINF:-1 tvg-chno="47499" tvg-name="Mexicanal" tvg-logo="https://zap2it.tmsimg.com/assets/s47499_ll_h15_ab.png" group-title="United States" tvg-id="MEXCAN" tvc-guide-stationid="47499",Mexicanal
+http://example.local/USA-MEXCAN.ts
 #EXTINF:-1 tvg-chno="120368" tvg-name="MEXICANAL (HD)" tvg-logo="https://zap2it.tmsimg.com/assets/s47499_ll_h15_ab.png" group-title="United States" tvg-id="MEXCANH" tvc-guide-stationid="120368",MEXICANAL (HD)
 http://example.local/USA-MEXCANH.ts
 #EXTINF:-1 tvg-chno="110295" tvg-name="MGM 2" group-title="United States" tvg-id="MGM2" tvc-guide-stationid="110295",MGM 2
@@ -265,7 +269,7 @@ http://example.local/USA-MULTCH.ts
 http://example.local/USA-MULTV.ts
 #EXTINF:-1 tvg-chno="95743" tvg-name="Multimedios USA" tvg-logo="https://zap2it.tmsimg.com/assets/s95743_ll_h15_ae.png" group-title="United States" tvg-id="MMTVUS" tvc-guide-stationid="95743",Multimedios USA
 http://example.local/USA-MMTVUS.ts
-#EXTINF:-1 tvg-chno="138397" tvg-name="Murder, She Wrote" tvg-logo="https://zap2it.tmsimg.com/assets/s138397_ll_h15_aa.png" group-title="United States" tvg-id="MDRWRT" tvc-guide-stationid="138397",Murder, She Wrote
+#EXTINF:-1 tvg-chno="138397" tvg-name="Murder She Wrote" tvg-logo="https://zap2it.tmsimg.com/assets/s138397_ll_h15_aa.png" group-title="United States" tvg-id="MDRWRT" tvc-guide-stationid="138397",Murder She Wrote
 http://example.local/USA-MDRWRT.ts
 #EXTINF:-1 tvg-chno="68581" tvg-name="Murr TV" tvg-logo="https://zap2it.tmsimg.com/assets/s68581_ll_h15_aa.png" group-title="United States" tvg-id="MURRTV" tvc-guide-stationid="68581",Murr TV
 http://example.local/USA-MURRTV.ts
@@ -593,7 +597,7 @@ http://example.local/USA-NBCSBAH.ts
 http://example.local/USA-NBCSBAP.ts
 #EXTINF:-1 tvg-chno="49198" tvg-name="NBC Sports Boston HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49198_ll_h15_ac.png" group-title="United States" tvg-id="NBCSBH" tvc-guide-stationid="49198",NBC Sports Boston HD
 http://example.local/USA-NBCSBH.ts
-#EXTINF:-1 tvg-chno="191181" tvg-name="NBC Sports California - excl Giants,Warriors, Sharks" tvg-logo="https://zap2it.tmsimg.com/assets/s45540_ll_h15_ad.png" group-title="United States" tvg-id="NBCSC4" tvc-guide-stationid="191181",NBC Sports California - excl Giants,Warriors, Sharks
+#EXTINF:-1 tvg-chno="191181" tvg-name="NBC Sports California - excl GiantsWarriors Sharks" tvg-logo="https://zap2it.tmsimg.com/assets/s45540_ll_h15_ad.png" group-title="United States" tvg-id="NBCSC4" tvc-guide-stationid="191181",NBC Sports California - excl GiantsWarriors Sharks
 http://example.local/USA-NBCSC4.ts
 #EXTINF:-1 tvg-chno="45540" tvg-name="NBC Sports California HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45540_ll_h15_ad.png" group-title="United States" tvg-id="NBSCAHD" tvc-guide-stationid="45540",NBC Sports California HD
 http://example.local/USA-NBSCAHD.ts
@@ -1025,7 +1029,3 @@ http://example.local/USA-WKYTNFL.ts
 http://example.local/USA-WLFINFL.ts
 #EXTINF:-1 tvg-chno="119834" tvg-name="NFL on WLKY" tvg-logo="https://zap2it.tmsimg.com/assets/s28711_h3_ba.png" group-title="United States" tvg-id="WLKYNFL" tvc-guide-stationid="119834",NFL on WLKY
 http://example.local/USA-WLKYNFL.ts
-#EXTINF:-1 tvg-chno="120021" tvg-name="NFL on WLNS" tvg-logo="https://zap2it.tmsimg.com/assets/s28711_ll_h15_ab.png" group-title="United States" tvg-id="WLNSNFL" tvc-guide-stationid="120021",NFL on WLNS
-http://example.local/USA-WLNSNFL.ts
-#EXTINF:-1 tvg-chno="120126" tvg-name="NFL on WLOX" group-title="United States" tvg-id="WLOXNFL" tvc-guide-stationid="120126",NFL on WLOX
-http://example.local/USA-WLOXNFL.ts

@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="43310" tvg-name="WBNG-DT (CBS)" tvg-logo="https://logos.jesmann.com/wbngdt.jpg" group-title="United States" tvg-id="WBNGDT" tvc-guide-stationid="43310",WBNG-DT (CBS)
+http://example.local/USA-WBNGDT.ts
+#EXTINF:-1 tvg-chno="19607" tvg-name="WBNS-DT (CBS)" tvg-logo="https://logos.jesmann.com/wbnsdt.png" group-title="United States" tvg-id="WBNSDT" tvc-guide-stationid="19607",WBNS-DT (CBS)
+http://example.local/USA-WBNSDT.ts
 #EXTINF:-1 tvg-chno="24953" tvg-name="WBOC-DT (CBS)" tvg-logo="https://logos.jesmann.com/wbocdt.png" group-title="United States" tvg-id="WBOCDT" tvc-guide-stationid="24953",WBOC-DT (CBS)
 http://example.local/USA-WBOCDT.ts
 #EXTINF:-1 tvg-chno="32746" tvg-name="WBOC-DT2 (FOX)" tvg-logo="https://logos.jesmann.com/wbocdt2.png" group-title="United States" tvg-id="WBOCDT2" tvc-guide-stationid="32746",WBOC-DT2 (FOX)
@@ -133,7 +137,7 @@ http://example.local/USA-WNACHAR.ts
 http://example.local/USA-WNATCHI.ts
 #EXTINF:-1 tvg-chno="125001" tvg-name="WeatherNation Cleveland" group-title="United States" tvg-id="WNCLE" tvc-guide-stationid="125001",WeatherNation Cleveland
 http://example.local/USA-WNCLE.ts
-#EXTINF:-1 tvg-chno="126328" tvg-name="WeatherNation Columbus, OH" group-title="United States" tvg-id="WNCOLM" tvc-guide-stationid="126328",WeatherNation Columbus, OH
+#EXTINF:-1 tvg-chno="126328" tvg-name="WeatherNation Columbus OH" group-title="United States" tvg-id="WNCOLM" tvc-guide-stationid="126328",WeatherNation Columbus OH
 http://example.local/USA-WNCOLM.ts
 #EXTINF:-1 tvg-chno="122654" tvg-name="WeatherNation Dallas/Ft. Worth" tvg-logo="https://zap2it.tmsimg.com/assets/s72413_ll_h15_aa.png" group-title="United States" tvg-id="WNATDFW" tvc-guide-stationid="122654",WeatherNation Dallas/Ft. Worth
 http://example.local/USA-WNATDFW.ts
@@ -1025,7 +1029,3 @@ http://example.local/USA-WXINDT.ts
 http://example.local/USA-WXIXDT.ts
 #EXTINF:-1 tvg-chno="31707" tvg-name="WXMI-DT (FOX)" tvg-logo="https://logos.jesmann.com/wxmidt.png" group-title="United States" tvg-id="WXMIDT" tvc-guide-stationid="31707",WXMI-DT (FOX)
 http://example.local/USA-WXMIDT.ts
-#EXTINF:-1 tvg-chno="12003" tvg-name="WXTX (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="United States" tvg-id="WXTX" tvc-guide-stationid="12003",WXTX (FOX)
-http://example.local/USA-WXTX.ts
-#EXTINF:-1 tvg-chno="30621" tvg-name="WXTX-DT (FOX)" tvg-logo="https://logos.jesmann.com/wxtxdt.png" group-title="United States" tvg-id="WXTXDT" tvc-guide-stationid="30621",WXTX-DT (FOX)
-http://example.local/USA-WXTXDT.ts

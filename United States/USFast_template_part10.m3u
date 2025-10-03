@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="12003" tvg-name="WXTX (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="United States" tvg-id="WXTX" tvc-guide-stationid="12003",WXTX (FOX)
+http://example.local/USA-WXTX.ts
+#EXTINF:-1 tvg-chno="30621" tvg-name="WXTX-DT (FOX)" tvg-logo="https://logos.jesmann.com/wxtxdt.png" group-title="United States" tvg-id="WXTXDT" tvc-guide-stationid="30621",WXTX-DT (FOX)
+http://example.local/USA-WXTXDT.ts
 #EXTINF:-1 tvg-chno="31227" tvg-name="WXVT-LD (CBS)" tvg-logo="https://logos.jesmann.com/wxvtld.png" group-title="United States" tvg-id="WXVTLD" tvc-guide-stationid="31227",WXVT-LD (CBS)
 http://example.local/USA-WXVTLD.ts
 #EXTINF:-1 tvg-chno="45777" tvg-name="WXXA-DT (FOX)" tvg-logo="https://logos.jesmann.com/wxxadt.png" group-title="United States" tvg-id="WXXADT" tvc-guide-stationid="45777",WXXA-DT (FOX)
@@ -369,7 +373,7 @@ http://example.local/USA-ZEETES.ts
 http://example.local/USA-ZEETE.ts
 #EXTINF:-1 tvg-chno="77032" tvg-name="Zee TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0026XG6J.png" group-title="United States" tvg-id="ZEETVH" tvc-guide-stationid="77032",Zee TV HD
 http://example.local/USA-ZEETVH.ts
-#EXTINF:-1 tvg-chno="19283" tvg-name="Zee TV USA, Inc." tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0022ZP77.png" group-title="United States" tvg-id="ZEETV" tvc-guide-stationid="19283",Zee TV USA, Inc.
+#EXTINF:-1 tvg-chno="19283" tvg-name="Zee TV USA Inc." tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0022ZP77.png" group-title="United States" tvg-id="ZEETV" tvc-guide-stationid="19283",Zee TV USA Inc.
 http://example.local/USA-ZEETV.ts
 #EXTINF:-1 tvg-chno="123137" tvg-name="ZEE US - 24 Taas" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00231JRN.png" group-title="United States" tvg-id="TAASSTR" tvc-guide-stationid="123137",ZEE US - 24 Taas
 http://example.local/USA-TAASSTR.ts
@@ -415,7 +419,3 @@ http://example.local/USA-ZOOMUSA.ts
 http://example.local/USA-ZOOMOOD.ts
 #EXTINF:-1 tvg-chno="119170" tvg-name="Zwei Music Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119170_ll_h9_aa.png" group-title="United States" tvg-id="TWOMUTV" tvc-guide-stationid="119170",Zwei Music Television HD
 http://example.local/USA-TWOMUTV.ts
-#EXTINF:-1 tvg-chno="90018" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_h3_aa.png" group-title="United States" tvg-id="HOLAHD" tvc-guide-stationid="90018",¡HOLA! TV
-http://example.local/USA-HOLAHD.ts
-#EXTINF:-1 tvg-chno="62161" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="United States" tvg-id="HOLATV" tvc-guide-stationid="62161",¡HOLA! TV
-http://example.local/USA-HOLATV.ts
