@@ -35,12 +35,12 @@ http://example.local/POL-HBOPL.ts
 http://example.local/USA-HBOHDDM.ts
 #EXTINF:-1 tvg-chno="10241" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="United States" tvg-id="HBOHTS" tvc-guide-stationid="10241",HBO Hits
 http://example.local/USA-HBOHTS.ts
-#EXTINF:-1 tvg-chno="59368" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="United States" tvg-id="HBOHTHD" tvc-guide-stationid="59368",HBO Hits
-http://example.local/USA-HBOHTHD.ts
-#EXTINF:-1 tvg-chno="59355" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s59368_h3_ba.png" group-title="United States" tvg-id="HBOHHDP" tvc-guide-stationid="59355",HBO Hits
-http://example.local/USA-HBOHHDP.ts
-#EXTINF:-1 tvg-chno="10242" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s59368_h3_aa.png" group-title="United States" tvg-id="HBOHTP" tvc-guide-stationid="10242",HBO Hits
+#EXTINF:-1 tvg-chno="10242" tvg-name="HBO Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="United States" tvg-id="HBOHTP" tvc-guide-stationid="10242",HBO Hits (Pacific)
 http://example.local/USA-HBOHTP.ts
+#EXTINF:-1 tvg-chno="59368" tvg-name="HBO Hits HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="United States" tvg-id="HBOHTHD" tvc-guide-stationid="59368",HBO Hits HD
+http://example.local/USA-HBOHTHD.ts
+#EXTINF:-1 tvg-chno="59355" tvg-name="HBO Hits HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="United States" tvg-id="HBOHHDP" tvc-guide-stationid="59355",HBO Hits HD (Pacific)
+http://example.local/USA-HBOHHDP.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="United States" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/USA-HBOLAT.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="Peru" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
@@ -161,14 +161,14 @@ http://example.local/USA-MLA4.ts
 http://example.local/USA-MLA5.ts
 #EXTINF:-1 tvg-chno="18431" tvg-name="HBO Movies" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBWP.png" group-title="United States" tvg-id="HBOMOV" tvc-guide-stationid="18431",HBO Movies
 http://example.local/USA-HBOMOV.ts
-#EXTINF:-1 tvg-chno="59845" tvg-name="HBO Movies" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBXT.png" group-title="United States" tvg-id="HBOMVHD" tvc-guide-stationid="59845",HBO Movies
-http://example.local/USA-HBOMVHD.ts
-#EXTINF:-1 tvg-chno="59847" tvg-name="HBO Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s59845_h3_ba.png" group-title="United States" tvg-id="HBOMHDP" tvc-guide-stationid="59847",HBO Movies
-http://example.local/USA-HBOMHDP.ts
-#EXTINF:-1 tvg-chno="18432" tvg-name="HBO Movies" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBWP.png" group-title="United States" tvg-id="HBOMVP" tvc-guide-stationid="18432",HBO Movies
-http://example.local/USA-HBOMVP.ts
 #EXTINF:-1 tvg-chno="18431" tvg-name="HBO Movies" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBWP.png" group-title="Bermuda" tvg-id="HBOMOV" tvc-guide-stationid="18431",HBO Movies
 http://example.local/BMU-HBOMOV.ts
+#EXTINF:-1 tvg-chno="18432" tvg-name="HBO Movies (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBWP.png" group-title="United States" tvg-id="HBOMVP" tvc-guide-stationid="18432",HBO Movies (Pacific)
+http://example.local/USA-HBOMVP.ts
+#EXTINF:-1 tvg-chno="59845" tvg-name="HBO Movies HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBXT.png" group-title="United States" tvg-id="HBOMVHD" tvc-guide-stationid="59845",HBO Movies HD
+http://example.local/USA-HBOMVHD.ts
+#EXTINF:-1 tvg-chno="59847" tvg-name="HBO Movies HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBWP.png" group-title="United States" tvg-id="HBOMHDP" tvc-guide-stationid="59847",HBO Movies HD (Pacific)
+http://example.local/USA-HBOMHDP.ts
 #EXTINF:-1 tvg-chno="68119" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Mexico" tvg-id="MUNLA" tvc-guide-stationid="68119",HBO Mundi
 http://example.local/MEX-MUNLA.ts
 #EXTINF:-1 tvg-chno="69097" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s69097_ll_h15_ac.png" group-title="Mexico" tvg-id="HBOMUND" tvc-guide-stationid="69097",HBO Mundi
