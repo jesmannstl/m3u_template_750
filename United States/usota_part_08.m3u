@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="KQCWDT" tvg-name="KQCW-DT (CW)" tvg-logo="https://logos.jesmann.com/kqcwdt.png" tvg-chno="63337" tvc-guide-stationid="63337" group-title="",KQCW-DT (CW)
+http://example.local/KQCWDT.ts
+#EXTINF:-1 tvg-id="KQDFLD" tvg-name="KQDF-LD (FUBOOTA)" tvg-logo="https://zap2it.tmsimg.com/assets/s166532_ll_h9_aa.png" tvg-chno="115730" tvc-guide-stationid="115730" group-title="",KQDF-LD (FUBOOTA)
+http://example.local/KQDFLD.ts
+#EXTINF:-1 tvg-id="KQDFLP" tvg-name="KQDF-LP" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/33323/s163702_ll_h15_ab.png" tvg-chno="33323" tvc-guide-stationid="33323" group-title="",KQDF-LP
+http://example.local/KQDFLP.ts
+#EXTINF:-1 tvg-id="KQDKCA" tvg-name="KQDKCA" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/54701/s49128_ll_h9_aa.png" tvg-chno="54701" tvc-guide-stationid="54701" group-title="",KQDKCA
+http://example.local/KQDKCA.ts
+#EXTINF:-1 tvg-id="KQDSDT" tvg-name="KQDS-DT (FOX)" tvg-logo="https://logos.jesmann.com/kqdsdt.png" tvg-chno="35445" tvc-guide-stationid="35445" group-title="",KQDS-DT (FOX)
+http://example.local/KQDSDT.ts
+#EXTINF:-1 tvg-id="KQDSDT2" tvg-name="KQDS-DT2 (ANTENNA)" tvg-logo="https://zap2it.tmsimg.com/assets/s70248_ll_h15_ac.png" tvg-chno="97866" tvc-guide-stationid="97866" group-title="",KQDS-DT2 (ANTENNA)
+http://example.local/KQDSDT2.ts
+#EXTINF:-1 tvg-id="KQEDDT" tvg-name="KQED-DT (PBS)" tvg-logo="https://logos.jesmann.com/kqeddt.png" tvg-chno="24344" tvc-guide-stationid="24344" group-title="",KQED-DT (PBS)
+http://example.local/KQEDDT.ts
+#EXTINF:-1 tvg-id="KQEDDT2" tvg-name="KQED-DT2 (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_h3_ba.png" tvg-chno="30507" tvc-guide-stationid="30507" group-title="",KQED-DT2 (PBS)
+http://example.local/KQEDDT2.ts
+#EXTINF:-1 tvg-id="KQEDDT3" tvg-name="KQED-DT3 (WORLD)" tvg-logo="https://zap2it.tmsimg.com/assets/s56725_ll_h15_ab.png" tvg-chno="35278" tvc-guide-stationid="35278" group-title="",KQED-DT3 (WORLD)
+http://example.local/KQEDDT3.ts
+#EXTINF:-1 tvg-id="KQEDDT4" tvg-name="KQED-DT4 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_ll_h15_ac.png" tvg-chno="34168" tvc-guide-stationid="34168" group-title="",KQED-DT4 (HD06)
+http://example.local/KQEDDT4.ts
+#EXTINF:-1 tvg-id="KQEGCD" tvg-name="KQEG-CD (AMGTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s55916_ll_h9_aa.png" tvg-chno="96367" tvc-guide-stationid="96367" group-title="",KQEG-CD (AMGTV)
+http://example.local/KQEGCD.ts
+#EXTINF:-1 tvg-id="KQEHDT" tvg-name="KQEH-DT (PBS)" tvg-logo="https://logos.jesmann.com/kqehdt.png" tvg-chno="44690" tvc-guide-stationid="44690" group-title="",KQEH-DT (PBS)
+http://example.local/KQEHDT.ts
+#EXTINF:-1 tvg-id="KQEHDT2" tvg-name="KQEH-DT2 (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_h3_ba.png" tvg-chno="55312" tvc-guide-stationid="55312" group-title="",KQEH-DT2 (PBS)
+http://example.local/KQEHDT2.ts
 #EXTINF:-1 tvg-id="KQEHDT3" tvg-name="KQEH-DT3 (WORLD)" tvg-logo="https://zap2it.tmsimg.com/assets/s56725_ll_h15_ab.png" tvg-chno="55524" tvc-guide-stationid="55524" group-title="",KQEH-DT3 (WORLD)
 http://example.local/KQEHDT3.ts
 #EXTINF:-1 tvg-id="KQEHDT4" tvg-name="KQEH-DT4 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_ll_h15_ac.png" tvg-chno="58519" tvc-guide-stationid="58519" group-title="",KQEH-DT4 (HD06)
@@ -993,9 +1019,3 @@ http://example.local/KSTPDT2.ts
 http://example.local/KSTPDT3.ts
 #EXTINF:-1 tvg-id="KSTRDT" tvg-name="KSTR-DT (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_ll_h15_ab.png" tvg-chno="27421" tvc-guide-stationid="27421" group-title="",KSTR-DT (UNIMAS)
 http://example.local/KSTRDT.ts
-#EXTINF:-1 tvg-id="KSTRDT2" tvg-name="KSTR-DT2 (GET)" tvg-logo="https://zap2it.tmsimg.com/assets/s82563_ll_h15_ab.png" tvg-chno="68264" tvc-guide-stationid="68264" group-title="",KSTR-DT2 (GET)
-http://example.local/KSTRDT2.ts
-#EXTINF:-1 tvg-id="KSTRDT3" tvg-name="KSTR-DT3 (COURT)" tvg-logo="https://zap2it.tmsimg.com/assets/s111043_ll_h15_aa.png" tvg-chno="90164" tvc-guide-stationid="90164" group-title="",KSTR-DT3 (COURT)
-http://example.local/KSTRDT3.ts
-#EXTINF:-1 tvg-id="KSTSDT" tvg-name="KSTS-DT (TELE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73245_ll_h15_ac.png" tvg-chno="30460" tvc-guide-stationid="30460" group-title="",KSTS-DT (TELE)
-http://example.local/KSTSDT.ts

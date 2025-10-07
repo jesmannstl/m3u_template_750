@@ -675,6 +675,20 @@ http://example.local/WFPTDT3.ts
 http://example.local/WFPTDT4.ts
 #EXTINF:-1 tvg-id="WFPXDT" tvg-name="WFPX-DT (BOUNCE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_ll_h15_ab.png" tvg-chno="34929" tvc-guide-stationid="34929" group-title="",WFPX-DT (BOUNCE)
 http://example.local/WFPXDT.ts
+#EXTINF:-1 tvg-id="WFQXDT" tvg-name="WFQX-DT (FOX)" tvg-logo="https://logos.jesmann.com/wfqxdt.png" tvg-chno="34603" tvc-guide-stationid="34603" group-title="",WFQX-DT (FOX)
+http://example.local/WFQXDT.ts
+#EXTINF:-1 tvg-id="WFQXDT2" tvg-name="WFQX-DT2 (CWPLUS)" tvg-logo="https://logos.jesmann.com/wfqxdt2.png" tvg-chno="63348" tvc-guide-stationid="63348" group-title="",WFQX-DT2 (CWPLUS)
+http://example.local/WFQXDT2.ts
+#EXTINF:-1 tvg-id="WFQXDT3" tvg-name="WFQX-DT3 (ION)" tvg-logo="https://zap2it.tmsimg.com/assets/s18633_ll_h15_ad.png" tvg-chno="102768" tvc-guide-stationid="102768" group-title="",WFQX-DT3 (ION)
+http://example.local/WFQXDT3.ts
+#EXTINF:-1 tvg-id="WFQXDT4" tvg-name="WFQX-DT4 (COURT)" tvg-logo="https://zap2it.tmsimg.com/assets/s111043_h3_aa.png" tvg-chno="122948" tvc-guide-stationid="122948" group-title="",WFQX-DT4 (COURT)
+http://example.local/WFQXDT4.ts
+#EXTINF:-1 tvg-id="WFQXDT5" tvg-name="WFQX-DT5 (IMYS)" tvg-logo="https://zap2it.tmsimg.com/assets/s89923_ll_h15_ad.png" tvg-chno="122949" tvc-guide-stationid="122949" group-title="",WFQX-DT5 (IMYS)
+http://example.local/WFQXDT5.ts
+#EXTINF:-1 tvg-id="WFQXDT6" tvg-name="WFQX-DT6 (IONPLUS)" tvg-logo="https://zap2it.tmsimg.com/assets/s55241_ll_h15_ad.png" tvg-chno="122950" tvc-guide-stationid="122950" group-title="",WFQX-DT6 (IONPLUS)
+http://example.local/WFQXDT6.ts
+#EXTINF:-1 tvg-id="WFQXDT7" tvg-name="WFQX-DT7 (BOUNCE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_ll_h15_ab.png" tvg-chno="125344" tvc-guide-stationid="125344" group-title="",WFQX-DT7 (BOUNCE)
+http://example.local/WFQXDT7.ts
 #EXTINF:-1 tvg-id="WFRVDT" tvg-name="WFRV-DT (CBS)" tvg-logo="https://logos.jesmann.com/wfrvdt.png" tvg-chno="30327" tvc-guide-stationid="30327" group-title="",WFRV-DT (CBS)
 http://example.local/WFRVDT.ts
 #EXTINF:-1 tvg-id="WFRVDT2" tvg-name="WFRV-DT2 (BOUNCE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_h3_aa.png" tvg-chno="100709" tvc-guide-stationid="100709" group-title="",WFRV-DT2 (BOUNCE)
@@ -771,6 +785,8 @@ http://example.local/WFTXDT4.ts
 http://example.local/WFTXDT5.ts
 #EXTINF:-1 tvg-id="WFTXDT6" tvg-name="WFTX-DT6 (IMYS)" tvg-logo="https://zap2it.tmsimg.com/assets/s89923_ll_h15_ad.png" tvg-chno="123173" tvc-guide-stationid="123173" group-title="",WFTX-DT6 (IMYS)
 http://example.local/WFTXDT6.ts
+#EXTINF:-1 tvg-id="WFTXDT8" tvg-name="WFTXDT8" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/195204/s111043_ll_h15_aa.png" tvg-chno="195204" tvc-guide-stationid="195204" group-title="",WFTXDT8
+http://example.local/WFTXDT8.ts
 #EXTINF:-1 tvg-id="WFUNLD" tvg-name="WFUN-LD (AMTEVE)" tvg-logo="https://zap2it.tmsimg.com/assets/s93459_ll_h9_aa.png" tvg-chno="66966" tvc-guide-stationid="66966" group-title="",WFUN-LD (AMTEVE)
 http://example.local/WFUNLD.ts
 #EXTINF:-1 tvg-id="WFUNLD2" tvg-name="WFUN-LD2" tvg-logo="https://zap2it.tmsimg.com/assets/s66969_ll_h15_aa.png" tvg-chno="66969" tvc-guide-stationid="66969" group-title="",WFUN-LD2
@@ -999,3 +1015,7 @@ http://example.local/WGBXDT7.ts
 http://example.local/WGBYDT.ts
 #EXTINF:-1 tvg-id="WGBYDT2" tvg-name="WGBY-DT2 (WORLD)" tvg-logo="https://zap2it.tmsimg.com/assets/s56725_ll_h15_ab.png" tvg-chno="35918" tvc-guide-stationid="35918" group-title="",WGBY-DT2 (WORLD)
 http://example.local/WGBYDT2.ts
+#EXTINF:-1 tvg-id="WGBYDT3" tvg-name="WGBY-DT3 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_ll_h15_ac.png" tvg-chno="35920" tvc-guide-stationid="35920" group-title="",WGBY-DT3 (HD06)
+http://example.local/WGBYDT3.ts
+#EXTINF:-1 tvg-id="WGBYDT4" tvg-name="WGBY-DT4 (CREATE)" tvg-logo="https://zap2it.tmsimg.com/assets/s48990_ll_h15_aa.png" tvg-chno="35922" tvc-guide-stationid="35922" group-title="",WGBY-DT4 (CREATE)
+http://example.local/WGBYDT4.ts
