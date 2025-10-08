@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="KTVW" tvg-name="KTVW (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" tvg-chno="10761" tvc-guide-stationid="10761" group-title="",KTVW (UNI)
+http://example.local/KTVW.ts
+#EXTINF:-1 tvg-id="KTVWDT" tvg-name="KTVW-DT (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" tvg-chno="35156" tvc-guide-stationid="35156" group-title="",KTVW-DT (UNI)
+http://example.local/KTVWDT.ts
+#EXTINF:-1 tvg-id="KTVX" tvg-name="KTVX (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" tvg-chno="10762" tvc-guide-stationid="10762" group-title="",KTVX (ABC)
+http://example.local/KTVX.ts
+#EXTINF:-1 tvg-id="KTVXDT" tvg-name="KTVX-DT (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28708_h3_aa.png" tvg-chno="21551" tvc-guide-stationid="21551" group-title="",KTVX-DT (ABC)
+http://example.local/KTVXDT.ts
 #EXTINF:-1 tvg-id="KTVZ" tvg-name="KTVZ (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_h3_ba.png" tvg-chno="15433" tvc-guide-stationid="15433" group-title="",KTVZ (NBC)
 http://example.local/KTVZ.ts
 #EXTINF:-1 tvg-id="KTVZDT" tvg-name="KTVZ-DT (NBC)" tvg-logo="https://logos.jesmann.com/ktvzdt.png" tvg-chno="34742" tvc-guide-stationid="34742" group-title="",KTVZ-DT (NBC)
@@ -149,6 +157,8 @@ http://example.local/KUSADT.ts
 http://example.local/KUSADT2.ts
 #EXTINF:-1 tvg-id="KUSADT3" tvg-name="KUSA-DT3 (CRIME)" tvg-logo="https://zap2it.tmsimg.com/assets/s91496_ll_h15_ab.png" tvg-chno="63106" tvc-guide-stationid="63106" group-title="",KUSA-DT3 (CRIME)
 http://example.local/KUSADT3.ts
+#EXTINF:-1 tvg-id="KUSADT5" tvg-name="KUSA-DT5 (QUESTSD)" tvg-logo="https://zap2it.tmsimg.com/assets/s106838_ll_h9_ad.png" tvg-chno="106946" tvc-guide-stationid="106946" group-title="",KUSA-DT5 (QUESTSD)
+http://example.local/KUSADT5.ts
 #EXTINF:-1 tvg-id="KUSI" tvg-name="KUSI" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="10782" tvc-guide-stationid="10782" group-title="",KUSI
 http://example.local/KUSI.ts
 #EXTINF:-1 tvg-id="KUSIDT" tvg-name="KUSI-DT" tvg-logo="https://logos.jesmann.com/kusidt.png" tvg-chno="32781" tvc-guide-stationid="32781" group-title="",KUSI-DT
@@ -555,7 +565,7 @@ http://example.local/KYMADT3.ts
 http://example.local/KYNE.ts
 #EXTINF:-1 tvg-id="KYNEDT" tvg-name="KYNE-DT (PBS)" tvg-logo="https://logos.jesmann.com/kynedt.png" tvg-chno="33940" tvc-guide-stationid="33940" group-title="",KYNE-DT (PBS)
 http://example.local/KYNEDT.ts
-#EXTINF:-1 tvg-id="KYOU" tvg-name="KYOU (FOX)" tvg-logo="https://logos.jesmann.com/kyoudt.png" tvg-chno="10850" tvc-guide-stationid="10850" group-title="",KYOU (FOX)
+#EXTINF:-1 tvg-id="KYOU" tvg-name="KYOU (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" tvg-chno="10850" tvc-guide-stationid="10850" group-title="",KYOU (FOX)
 http://example.local/KYOU.ts
 #EXTINF:-1 tvg-id="KYOUDT" tvg-name="KYOU-DT (FOX)" tvg-logo="https://logos.jesmann.com/kyoudt.png" tvg-chno="43528" tvc-guide-stationid="43528" group-title="",KYOU-DT (FOX)
 http://example.local/KYOUDT.ts
@@ -1009,13 +1019,3 @@ http://example.local/METVN.ts
 http://example.local/METVNHD.ts
 #EXTINF:-1 tvg-id="METVNP" tvg-name="Me TV Network (Pacific) (METVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" tvg-chno="78557" tvc-guide-stationid="78557" group-title="",Me TV Network (Pacific) (METVN)
 http://example.local/METVNP.ts
-#EXTINF:-1 tvg-id="MEXCAN" tvg-name="Mexicanal" tvg-logo="https://zap2it.tmsimg.com/assets/s47499_ll_h15_ab.png" tvg-chno="47499" tvc-guide-stationid="47499" group-title="",Mexicanal
-http://example.local/MEXCAN.ts
-#EXTINF:-1 tvg-id="MEXCANH" tvg-name="MEXICANAL (HD)" tvg-logo="https://zap2it.tmsimg.com/assets/s47499_ll_h15_ab.png" tvg-chno="120368" tvc-guide-stationid="120368" group-title="",MEXICANAL (HD)
-http://example.local/MEXCANH.ts
-#EXTINF:-1 tvg-id="MGM" tvg-name="MGM+ East" tvg-logo="https://zap2it.tmsimg.com/assets/s65669_ll_h15_ae.png" tvg-chno="65669" tvc-guide-stationid="65669" group-title="",MGM+ East
-http://example.local/MGM.ts
-#EXTINF:-1 tvg-id="MGMDM" tvg-name="MGM+ On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s67491_ll_h15_ab.png" tvg-chno="67491" tvc-guide-stationid="67491" group-title="",MGM+ On Demand
-http://example.local/MGMDM.ts
-#EXTINF:-1 tvg-id="MGMDRHD" tvg-name="MGM+ Drive-In HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103828_ll_h15_ad.png" tvg-chno="103828" tvc-guide-stationid="103828" group-title="",MGM+ Drive-In HD
-http://example.local/MGMDRHD.ts

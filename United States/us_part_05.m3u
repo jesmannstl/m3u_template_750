@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="KOCODT" tvg-name="KOCO-DT (ABC)" tvg-logo="https://logos.jesmann.com/kocodt.png" tvg-chno="32312" tvc-guide-stationid="32312" group-title="",KOCO-DT (ABC)
+http://example.local/KOCODT.ts
+#EXTINF:-1 tvg-id="KOCODT2" tvg-name="KOCO-DT2 (METVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" tvg-chno="43757" tvc-guide-stationid="43757" group-title="",KOCO-DT2 (METVN)
+http://example.local/KOCODT2.ts
+#EXTINF:-1 tvg-id="KODE" tvg-name="KODE (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" tvg-chno="12388" tvc-guide-stationid="12388" group-title="",KODE (ABC)
+http://example.local/KODE.ts
+#EXTINF:-1 tvg-id="KODEDT" tvg-name="KODE-DT (ABC)" tvg-logo="https://logos.jesmann.com/kodedt.png" tvg-chno="34659" tvc-guide-stationid="34659" group-title="",KODE-DT (ABC)
+http://example.local/KODEDT.ts
 #EXTINF:-1 tvg-id="KODEDT2" tvg-name="KODE-DT2 (GRIT)" tvg-logo="https://zap2it.tmsimg.com/assets/s89922_ll_h9_aa.png" tvg-chno="64330" tvc-guide-stationid="64330" group-title="",KODE-DT2 (GRIT)
 http://example.local/KODEDT2.ts
 #EXTINF:-1 tvg-id="KODEDT3" tvg-name="KODE-DT3 (BOUNCE)" tvg-logo="https://logos.jesmann.com/kodedt3.png" tvg-chno="100612" tvc-guide-stationid="100612" group-title="",KODE-DT3 (BOUNCE)
@@ -1011,11 +1019,3 @@ http://example.local/KTVTDT.ts
 http://example.local/KTVU.ts
 #EXTINF:-1 tvg-id="KTVUDT" tvg-name="KTVU-DT (FOX)" tvg-logo="https://logos.jesmann.com/ktvudt.png" tvg-chno="19571" tvc-guide-stationid="19571" group-title="",KTVU-DT (FOX)
 http://example.local/KTVUDT.ts
-#EXTINF:-1 tvg-id="KTVW" tvg-name="KTVW (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" tvg-chno="10761" tvc-guide-stationid="10761" group-title="",KTVW (UNI)
-http://example.local/KTVW.ts
-#EXTINF:-1 tvg-id="KTVWDT" tvg-name="KTVW-DT (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" tvg-chno="35156" tvc-guide-stationid="35156" group-title="",KTVW-DT (UNI)
-http://example.local/KTVWDT.ts
-#EXTINF:-1 tvg-id="KTVX" tvg-name="KTVX (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" tvg-chno="10762" tvc-guide-stationid="10762" group-title="",KTVX (ABC)
-http://example.local/KTVX.ts
-#EXTINF:-1 tvg-id="KTVXDT" tvg-name="KTVX-DT (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28708_h3_aa.png" tvg-chno="21551" tvc-guide-stationid="21551" group-title="",KTVX-DT (ABC)
-http://example.local/KTVXDT.ts
