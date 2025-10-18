@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="59127" tvg-name="Blue Ridge Cable Television 113 (Digital Feed)" group-title="United States" tvg-id="BRC113" tvc-guide-stationid="59127",Blue Ridge Cable Television 113 (Digital Feed)
+http://example.local/USA-BRC113.ts
+#EXTINF:-1 tvg-chno="18001" tvg-name="Blue Ridge Cable Television Channel 13" group-title="United States" tvg-id="BRC13" tvc-guide-stationid="18001",Blue Ridge Cable Television Channel 13
+http://example.local/USA-BRC13.ts
+#EXTINF:-1 tvg-chno="90367" tvg-name="Blue Ridge Cable Television Channel 13 HD" group-title="United States" tvg-id="BRC13HD" tvc-guide-stationid="90367",Blue Ridge Cable Television Channel 13 HD
+http://example.local/USA-BRC13HD.ts
+#EXTINF:-1 tvg-chno="112636" tvg-name="Blue Ridge Leased Access (CBNNEWS)" tvg-logo="https://zap2it.tmsimg.com/assets/s109977_ll_h15_aa.png" group-title="United States" tvg-id="BRLA" tvc-guide-stationid="112636",Blue Ridge Leased Access (CBNNEWS)
+http://example.local/USA-BRLA.ts
+#EXTINF:-1 tvg-chno="48410" tvg-name="Bluegrass Junction" group-title="United States" tvg-id="SRBLGRS" tvc-guide-stationid="48410",Bluegrass Junction
+http://example.local/USA-SRBLGRS.ts
 #EXTINF:-1 tvg-chno="62723" tvg-name="BN TV" group-title="United States" tvg-id="BNTV" tvc-guide-stationid="62723",BN TV
 http://example.local/USA-BNTV.ts
 #EXTINF:-1 tvg-chno="118905" tvg-name="BNCNEWS" group-title="United States" tvg-id="VIZBNCN" tvc-guide-stationid="118905",BNCNEWS
@@ -31,6 +41,8 @@ http://example.local/USA-BOOMHD.ts
 http://example.local/USA-BOOMH.ts
 #EXTINF:-1 tvg-chno="50535" tvg-name="Boomerang On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s21883_ll_h15_ab.png" group-title="United States" tvg-id="BOOMDM" tvc-guide-stationid="50535",Boomerang On Demand
 http://example.local/USA-BOOMDM.ts
+#EXTINF:-1 tvg-chno="120283" tvg-name="Boot" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002D1VRL.png" group-title="United States" tvg-id="CHOPPER" tvc-guide-stationid="120283",Boot
+http://example.local/USA-CHOPPER.ts
 #EXTINF:-1 tvg-chno="122966" tvg-name="Bosch" tvg-logo="https://zap2it.tmsimg.com/assets/s122966_ll_h15_aa.png" group-title="United States" tvg-id="BOSCH" tvc-guide-stationid="122966",Bosch
 http://example.local/USA-BOSCH.ts
 #EXTINF:-1 tvg-chno="127887" tvg-name="Boston 25" tvg-logo="https://zap2it.tmsimg.com/assets/s127887_ll_h15_aa.png" group-title="United States" tvg-id="WFXTSTR" tvc-guide-stationid="127887",Boston 25
@@ -51,7 +63,7 @@ http://example.local/USA-BOULDER.ts
 http://example.local/USA-BOUNCSD.ts
 #EXTINF:-1 tvg-chno="73067" tvg-name="Bounce TV" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_ll_h15_ab.png" group-title="United States" tvg-id="BOUNCE" tvc-guide-stationid="73067",Bounce TV
 http://example.local/USA-BOUNCE.ts
-#EXTINF:-1 tvg-chno="187187" tvg-name="Bounce TV" group-title="United States" tvg-id="BOUNCES" tvc-guide-stationid="187187",Bounce TV
+#EXTINF:-1 tvg-chno="187187" tvg-name="Bounce TV" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_ll_h15_ab.png" group-title="United States" tvg-id="BOUNCES" tvc-guide-stationid="187187",Bounce TV
 http://example.local/USA-BOUNCES.ts
 #EXTINF:-1 tvg-chno="120372" tvg-name="Bounce XL" tvg-logo="https://zap2it.tmsimg.com/assets/s120372_ll_h15_aa.png" group-title="United States" tvg-id="BOUNSTR" tvc-guide-stationid="120372",Bounce XL
 http://example.local/USA-BOUNSTR.ts
@@ -593,7 +605,7 @@ http://example.local/USA-CBLFTDT.ts
 http://example.local/USA-CBMT.ts
 #EXTINF:-1 tvg-chno="53502" tvg-name="CBMT-DT (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10084_ll_h15_ab.png" group-title="United States" tvg-id="CBMTDT" tvc-guide-stationid="53502",CBMT-DT (CBC)
 http://example.local/USA-CBMTDT.ts
-#EXTINF:-1 tvg-chno="109977" tvg-name="CBN News Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s109977_h3_aa.png" group-title="United States" tvg-id="CBNNEWS" tvc-guide-stationid="109977",CBN News Channel
+#EXTINF:-1 tvg-chno="109977" tvg-name="CBN News Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s109977_ll_h15_aa.png" group-title="United States" tvg-id="CBNNEWS" tvc-guide-stationid="109977",CBN News Channel
 http://example.local/USA-CBNNEWS.ts
 #EXTINF:-1 tvg-chno="92409" tvg-name="CBO" group-title="United States" tvg-id="CBOCH" tvc-guide-stationid="92409",CBO
 http://example.local/USA-CBOCH.ts
@@ -607,6 +619,22 @@ http://example.local/USA-CBSKCTV.ts
 http://example.local/USA-CBSW.ts
 #EXTINF:-1 tvg-chno="109602" tvg-name="CBS Net" group-title="United States" tvg-id="CBSE" tvc-guide-stationid="109602",CBS Net
 http://example.local/USA-CBSE.ts
+#EXTINF:-1 tvg-chno="194280" tvg-name="CBS Net ADN 1" group-title="United States" tvg-id="CBSADN1" tvc-guide-stationid="194280",CBS Net ADN 1
+http://example.local/USA-CBSADN1.ts
+#EXTINF:-1 tvg-chno="194313" tvg-name="CBS Net ADN 2" group-title="United States" tvg-id="CBSADN2" tvc-guide-stationid="194313",CBS Net ADN 2
+http://example.local/USA-CBSADN2.ts
+#EXTINF:-1 tvg-chno="194314" tvg-name="CBS Net ADN 3" group-title="United States" tvg-id="CBSADN3" tvc-guide-stationid="194314",CBS Net ADN 3
+http://example.local/USA-CBSADN3.ts
+#EXTINF:-1 tvg-chno="194315" tvg-name="CBS Net ADN 4" group-title="United States" tvg-id="CBSADN4" tvc-guide-stationid="194315",CBS Net ADN 4
+http://example.local/USA-CBSADN4.ts
+#EXTINF:-1 tvg-chno="194316" tvg-name="CBS Net ADN 5" group-title="United States" tvg-id="CBSADN5" tvc-guide-stationid="194316",CBS Net ADN 5
+http://example.local/USA-CBSADN5.ts
+#EXTINF:-1 tvg-chno="194317" tvg-name="CBS Net ADN 6" group-title="United States" tvg-id="CBSADN6" tvc-guide-stationid="194317",CBS Net ADN 6
+http://example.local/USA-CBSADN6.ts
+#EXTINF:-1 tvg-chno="194346" tvg-name="CBS Net ADN 7" group-title="United States" tvg-id="CBSADN7" tvc-guide-stationid="194346",CBS Net ADN 7
+http://example.local/USA-CBSADN7.ts
+#EXTINF:-1 tvg-chno="194347" tvg-name="CBS Net ADN 8" group-title="United States" tvg-id="CBSADN8" tvc-guide-stationid="194347",CBS Net ADN 8
+http://example.local/USA-CBSADN8.ts
 #EXTINF:-1 tvg-chno="104846" tvg-name="CBS News 24/7" tvg-logo="https://zap2it.tmsimg.com/assets/s104846_ll_h15_ad.png" group-title="United States" tvg-id="CBSNSTR" tvc-guide-stationid="104846",CBS News 24/7
 http://example.local/USA-CBSNSTR.ts
 #EXTINF:-1 tvg-chno="123127" tvg-name="CBS News Baltimore" tvg-logo="https://zap2it.tmsimg.com/assets/s123127_ll_h9_aa.png" group-title="United States" tvg-id="CBSNWBL" tvc-guide-stationid="123127",CBS News Baltimore
@@ -791,7 +819,7 @@ http://example.local/USA-CHONRUS.ts
 http://example.local/USA-C1RWN.ts
 #EXTINF:-1 tvg-chno="134475" tvg-name="Chardikla Time TV" group-title="United States" tvg-id="CKTT" tvc-guide-stationid="134475",Chardikla Time TV
 http://example.local/USA-CKTT.ts
-#EXTINF:-1 tvg-chno="102148" tvg-name="CHARGE!" tvg-logo="https://zap2it.tmsimg.com/assets/s102148_ll_h15_ab.png" group-title="United States" tvg-id="CHARGE" tvc-guide-stationid="102148",CHARGE!
+#EXTINF:-1 tvg-chno="102148" tvg-name="CHARGE!" tvg-logo="https://zap2it.tmsimg.com/assets/s102148_h3_aa.png" group-title="United States" tvg-id="CHARGE" tvc-guide-stationid="102148",CHARGE!
 http://example.local/USA-CHARGE.ts
 #EXTINF:-1 tvg-chno="113586" tvg-name="CHARGE!" tvg-logo="https://zap2it.tmsimg.com/assets/s102148_ll_h15_ab.png" group-title="United States" tvg-id="CHARGES" tvc-guide-stationid="113586",CHARGE!
 http://example.local/USA-CHARGES.ts
@@ -991,31 +1019,3 @@ http://example.local/USA-CNC.ts
 http://example.local/USA-CYRTV.ts
 #EXTINF:-1 tvg-chno="37879" tvg-name="Chinese Channel" group-title="United States" tvg-id="CHINESC" tvc-guide-stationid="37879",Chinese Channel
 http://example.local/USA-CHINESC.ts
-#EXTINF:-1 tvg-chno="67651" tvg-name="Chinese Prime" group-title="United States" tvg-id="CHINPRM" tvc-guide-stationid="67651",Chinese Prime
-http://example.local/USA-CHINPRM.ts
-#EXTINF:-1 tvg-chno="59936" tvg-name="Chittenden Community TV" group-title="United States" tvg-id="CCTV17" tvc-guide-stationid="59936",Chittenden Community TV
-http://example.local/USA-CCTV17.ts
-#EXTINF:-1 tvg-chno="12445" tvg-name="CHLT Sherbrooke (TVA)" tvg-logo="https://zap2it.tmsimg.com/assets/s12445_ll_h15_aa.png" group-title="United States" tvg-id="CHLT" tvc-guide-stationid="12445",CHLT Sherbrooke (TVA)
-http://example.local/USA-CHLT.ts
-#EXTINF:-1 tvg-chno="72750" tvg-name="CHLT-DT (TVA)" tvg-logo="https://zap2it.tmsimg.com/assets/s16367_ll_h15_ab.png" group-title="United States" tvg-id="CHLTDT" tvc-guide-stationid="72750",CHLT-DT (TVA)
-http://example.local/USA-CHLTDT.ts
-#EXTINF:-1 tvg-chno="74017" tvg-name="CHNB-DT (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s74017_ll_h15_aa.png" group-title="United States" tvg-id="CHNBDT" tvc-guide-stationid="74017",CHNB-DT (GLOBAL)
-http://example.local/USA-CHNBDT.ts
-#EXTINF:-1 tvg-chno="66500" tvg-name="CHNM-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s66500_ll_h15_ab.png" group-title="United States" tvg-id="CHNMDT" tvc-guide-stationid="66500",CHNM-DT
-http://example.local/USA-CHNMDT.ts
-#EXTINF:-1 tvg-chno="72948" tvg-name="CHNM-DT1" tvg-logo="https://zap2it.tmsimg.com/assets/s66500_ll_h15_ab.png" group-title="United States" tvg-id="CHNMDT1" tvc-guide-stationid="72948",CHNM-DT1
-http://example.local/USA-CHNMDT1.ts
-#EXTINF:-1 tvg-chno="72813" tvg-name="CHNU-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s27503_ll_h15_aa.png" group-title="United States" tvg-id="CHNUDT" tvc-guide-stationid="72813",CHNU-DT
-http://example.local/USA-CHNUDT.ts
-#EXTINF:-1 tvg-chno="72814" tvg-name="CHNU-DT1" tvg-logo="https://zap2it.tmsimg.com/assets/s65569_ll_h9_aa.png" group-title="United States" tvg-id="CHNUDT1" tvc-guide-stationid="72814",CHNU-DT1
-http://example.local/USA-CHNUDT1.ts
-#EXTINF:-1 tvg-chno="113761" tvg-name="Choice Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s113761_ll_h15_ac.png" group-title="United States" tvg-id="PK11" tvc-guide-stationid="113761",Choice Channel
-http://example.local/USA-PK11.ts
-#EXTINF:-1 tvg-chno="63729" tvg-name="Chong Qing" group-title="United States" tvg-id="CQTV" tvc-guide-stationid="63729",Chong Qing
-http://example.local/USA-CQTV.ts
-#EXTINF:-1 tvg-chno="120283" tvg-name="Choppertown" tvg-logo="https://zap2it.tmsimg.com/assets/s120283_ll_h9_aa.png" group-title="United States" tvg-id="CHOPPER" tvc-guide-stationid="120283",Choppertown
-http://example.local/USA-CHOPPER.ts
-#EXTINF:-1 tvg-chno="73198" tvg-name="CHOT-DT (TVA)" tvg-logo="https://zap2it.tmsimg.com/assets/s16367_h3_aa.png" group-title="United States" tvg-id="CHOTDT" tvc-guide-stationid="73198",CHOT-DT (TVA)
-http://example.local/USA-CHOTDT.ts
-#EXTINF:-1 tvg-chno="165132" tvg-name="Chris Hansen's TruBlu Crime Network" tvg-logo="https://zap2it.tmsimg.com/assets/s165132_ll_h15_aa.png" group-title="United States" tvg-id="CHTBCN" tvc-guide-stationid="165132",Chris Hansen's TruBlu Crime Network
-http://example.local/USA-CHTBCN.ts

@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="95095" tvg-name="Amazon Sat" tvg-logo="https://zap2it.tmsimg.com/assets/s95095_ll_h9_aa.png" group-title="Brazil" tvg-id="AMZSAT" tvc-guide-stationid="95095",Amazon Sat
+http://example.local/BRA-AMZSAT.ts
+#EXTINF:-1 tvg-chno="104627" tvg-name="Amazon Sat HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104627_ll_h9_aa.png" group-title="Brazil" tvg-id="AMZSATH" tvc-guide-stationid="104627",Amazon Sat HD
+http://example.local/BRA-AMZSATH.ts
+#EXTINF:-1 tvg-chno="90655" tvg-name="Amber Alerts (French)" group-title="Canada" tvg-id="AMBERF" tvc-guide-stationid="90655",Amber Alerts (French)
+http://example.local/CAN-AMBERF.ts
+#EXTINF:-1 tvg-chno="87036" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s87036_ll_h15_aa.png" group-title="Spain" tvg-id="AMCESP" tvc-guide-stationid="87036",AMC
+http://example.local/ESP-AMCESP.ts
+#EXTINF:-1 tvg-chno="90653" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Mexico" tvg-id="AMCMEX" tvc-guide-stationid="90653",AMC
+http://example.local/MEX-AMCMEX.ts
+#EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Mexico" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
+http://example.local/MEX-AMCMXHD.ts
+#EXTINF:-1 tvg-chno="91817" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Mexico" tvg-id="AMCAND" tvc-guide-stationid="91817",AMC
+http://example.local/MEX-AMCAND.ts
+#EXTINF:-1 tvg-chno="10021" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s10021_ll_h15_ab.png" group-title="United States" tvg-id="AMC" tvc-guide-stationid="10021",AMC
+http://example.local/USA-AMC.ts
+#EXTINF:-1 tvg-chno="104959" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="United States" tvg-id="AMCHSPE" tvc-guide-stationid="104959",AMC
+http://example.local/USA-AMCHSPE.ts
+#EXTINF:-1 tvg-chno="47068" tvg-name="AMC" group-title="United States" tvg-id="GAMC2WD" tvc-guide-stationid="47068",AMC
+http://example.local/USA-GAMC2WD.ts
+#EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Peru" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
+http://example.local/PER-AMCMXHD.ts
+#EXTINF:-1 tvg-chno="100431" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Peru" tvg-id="AMCANSD" tvc-guide-stationid="100431",AMC
+http://example.local/PER-AMCANSD.ts
+#EXTINF:-1 tvg-chno="91817" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Peru" tvg-id="AMCAND" tvc-guide-stationid="91817",AMC
+http://example.local/PER-AMCAND.ts
+#EXTINF:-1 tvg-chno="90653" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Peru" tvg-id="AMCMEX" tvc-guide-stationid="90653",AMC
+http://example.local/PER-AMCMEX.ts
 #EXTINF:-1 tvg-chno="90653" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Guatemala" tvg-id="AMCMEX" tvc-guide-stationid="90653",AMC
 http://example.local/GTM-AMCMEX.ts
 #EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Guatemala" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
@@ -159,6 +187,8 @@ http://example.local/CAN-AMCCAN.ts
 http://example.local/CAN-AMCCHD.ts
 #EXTINF:-1 tvg-chno="86927" tvg-name="AMC Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s86927_ll_h15_ab.png" group-title="Spain" tvg-id="AMCRIMESP" tvc-guide-stationid="86927",AMC Crime
 http://example.local/ESP-AMCRIMESP.ts
+#EXTINF:-1 tvg-chno="187781" tvg-name="AMC CUPID" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00285W4B.png" group-title="United Kingdom" tvg-id="AMCCUPID" tvc-guide-stationid="187781",AMC CUPID
+http://example.local/GBR-AMCCUPID.ts
 #EXTINF:-1 tvg-chno="125090" tvg-name="AMC en Español" group-title="United States" tvg-id="AMCNESP" tvc-guide-stationid="125090",AMC en Español
 http://example.local/USA-AMCNESP.ts
 #EXTINF:-1 tvg-chno="131582" tvg-name="AMC en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s131582_ll_h15_aa.png" group-title="United States" tvg-id="AMCES14" tvc-guide-stationid="131582",AMC en Español
@@ -185,8 +215,12 @@ http://example.local/USA-AMCHDDM.ts
 http://example.local/USA-AMCHDPA.ts
 #EXTINF:-1 tvg-chno="62677" tvg-name="AMC On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s62677_ll_h15_ab.png" group-title="United States" tvg-id="AMCODM" tvc-guide-stationid="62677",AMC On Demand
 http://example.local/USA-AMCODM.ts
+#EXTINF:-1 tvg-chno="176692" tvg-name="AMC Reality" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028W34F.png" group-title="United Kingdom" tvg-id="AMCREAL" tvc-guide-stationid="176692",AMC Reality
+http://example.local/GBR-AMCREAL.ts
 #EXTINF:-1 tvg-chno="120412" tvg-name="AMC SD (POLAND)" tvg-logo="https://zap2it.tmsimg.com/assets/s120412_ll_h15_aa.png" group-title="Poland" tvg-id="AMCPLHSD" tvc-guide-stationid="120412",AMC SD (POLAND)
 http://example.local/POL-AMCPLHSD.ts
+#EXTINF:-1 tvg-chno="176693" tvg-name="AMC Stories" group-title="United Kingdom" tvg-id="AMCSTOR" tvc-guide-stationid="176693",AMC Stories
+http://example.local/GBR-AMCSTOR.ts
 #EXTINF:-1 tvg-chno="92022" tvg-name="AMC Stream East" tvg-logo="https://zap2it.tmsimg.com/assets/s92022_ll_h15_aa.png" group-title="United States" tvg-id="AMCSTR" tvc-guide-stationid="92022",AMC Stream East
 http://example.local/USA-AMCSTR.ts
 #EXTINF:-1 tvg-chno="115678" tvg-name="AMC Thrillers" tvg-logo="https://zap2it.tmsimg.com/assets/s115678_ll_h15_ab.png" group-title="United States" tvg-id="AMCRSH" tvc-guide-stationid="115678",AMC Thrillers
@@ -223,6 +257,8 @@ http://example.local/PER-AMTVHD.ts
 http://example.local/USA-AMAUCTN.ts
 #EXTINF:-1 tvg-chno="124101" tvg-name="America's Dumbest Criminals" tvg-logo="https://zap2it.tmsimg.com/assets/s124101_ll_h9_ab.png" group-title="United States" tvg-id="XMVADC" tvc-guide-stationid="124101",America's Dumbest Criminals
 http://example.local/USA-XMVADC.ts
+#EXTINF:-1 tvg-chno="195568" tvg-name="America's Funniest Home Videos" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002BVNQV.png" group-title="United States" tvg-id="AFHV" tvc-guide-stationid="195568",America's Funniest Home Videos
+http://example.local/USA-AFHV.ts
 #EXTINF:-1 tvg-chno="188916" tvg-name="America's Got Talent" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0025DMDD.png" group-title="United States" tvg-id="XMVAGT" tvc-guide-stationid="188916",America's Got Talent
 http://example.local/USA-XMVAGT.ts
 #EXTINF:-1 tvg-chno="35557" tvg-name="AMERICA'S PREVIEW CHANNEL" group-title="United States" tvg-id="AMPREVU" tvc-guide-stationid="35557",AMERICA'S PREVIEW CHANNEL
@@ -277,12 +313,10 @@ http://example.local/BES-ABC.ts
 http://example.local/AIA-ABC.ts
 #EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="Curacao" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
 http://example.local/CUW-ABC.ts
-#EXTINF:-1 tvg-chno="112576" tvg-name="American Classic Entertainment" tvg-logo="https://zap2it.tmsimg.com/assets/s112576_ll_h15_aa.png" group-title="United States" tvg-id="ACE" tvc-guide-stationid="112576",American Classic Entertainment
+#EXTINF:-1 tvg-chno="112576" tvg-name="American Classic Entertainment" tvg-logo="https://zap2it.tmsimg.com/assets/s112576_h3_aa.png" group-title="United States" tvg-id="ACE" tvc-guide-stationid="112576",American Classic Entertainment
 http://example.local/USA-ACE.ts
 #EXTINF:-1 tvg-chno="117354" tvg-name="American Classics" group-title="United States" tvg-id="XALAMCL" tvc-guide-stationid="117354",American Classics
 http://example.local/USA-XALAMCL.ts
-#EXTINF:-1 tvg-chno="114278" tvg-name="American Crimes" tvg-logo="https://zap2it.tmsimg.com/assets/s114278_ll_h15_ae.png" group-title="United States" tvg-id="CRMES" tvc-guide-stationid="114278",American Crimes
-http://example.local/USA-CRMES.ts
 #EXTINF:-1 tvg-chno="138396" tvg-name="American Crimes" tvg-logo="https://zap2it.tmsimg.com/assets/s138396_ll_h15_aa.png" group-title="United States" tvg-id="ACRM" tvc-guide-stationid="138396",American Crimes
 http://example.local/USA-ACRM.ts
 #EXTINF:-1 tvg-chno="121250" tvg-name="American Crimes HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121250_ll_h15_ac.png" group-title="United States" tvg-id="CRMESHD" tvc-guide-stationid="121250",American Crimes HD
@@ -353,10 +387,16 @@ http://example.local/CAN-AMITELE.ts
 http://example.local/CAN-AMITELH.ts
 #EXTINF:-1 tvg-chno="109849" tvg-name="Amici Animali TV" tvg-logo="https://zap2it.tmsimg.com/assets/s109849_ll_h9_aa.png" group-title="Italy" tvg-id="AMIANIT" tvc-guide-stationid="109849",Amici Animali TV
 http://example.local/ITA-AMIANIT.ts
+#EXTINF:-1 tvg-chno="123965" tvg-name="Amor Bravio" tvg-logo="https://zap2it.tmsimg.com/assets/s123965_ll_h15_ab.png" group-title="Mexico" tvg-id="NAMBR" tvc-guide-stationid="123965",Amor Bravio
+http://example.local/MEX-NAMBR.ts
 #EXTINF:-1 tvg-chno="123965" tvg-name="Amor Bravio" tvg-logo="https://zap2it.tmsimg.com/assets/s123965_ll_h15_ab.png" group-title="United States" tvg-id="NAMBR" tvc-guide-stationid="123965",Amor Bravio
 http://example.local/USA-NAMBR.ts
+#EXTINF:-1 tvg-chno="123936" tvg-name="Amor real" tvg-logo="https://zap2it.tmsimg.com/assets/s123936_ll_h15_ab.png" group-title="Mexico" tvg-id="AMORR" tvc-guide-stationid="123936",Amor real
+http://example.local/MEX-AMORR.ts
 #EXTINF:-1 tvg-chno="123936" tvg-name="Amor real" tvg-logo="https://zap2it.tmsimg.com/assets/s123936_ll_h15_ab.png" group-title="United States" tvg-id="AMORR" tvc-guide-stationid="123936",Amor real
 http://example.local/USA-AMORR.ts
+#EXTINF:-1 tvg-chno="123882" tvg-name="Amores Verdaderos" tvg-logo="https://zap2it.tmsimg.com/assets/s123882_ll_h15_ab.png" group-title="Mexico" tvg-id="AMOVE" tvc-guide-stationid="123882",Amores Verdaderos
+http://example.local/MEX-AMOVE.ts
 #EXTINF:-1 tvg-chno="123882" tvg-name="Amores Verdaderos" tvg-logo="https://zap2it.tmsimg.com/assets/s123882_ll_h15_ab.png" group-title="United States" tvg-id="AMOVE" tvc-guide-stationid="123882",Amores Verdaderos
 http://example.local/USA-AMOVE.ts
 #EXTINF:-1 tvg-chno="94148" tvg-name="AMP1" group-title="United States" tvg-id="AMP" tvc-guide-stationid="94148",AMP1
@@ -367,6 +407,8 @@ http://example.local/USA-AMP2.ts
 http://example.local/USA-PPLUSX.ts
 #EXTINF:-1 tvg-chno="79722" tvg-name="América Satelital" group-title="Argentina" tvg-id="AMSATE" tvc-guide-stationid="79722",América Satelital
 http://example.local/ARG-AMSATE.ts
+#EXTINF:-1 tvg-chno="93459" tvg-name="América TeVe" tvg-logo="https://zap2it.tmsimg.com/assets/s93459_ll_h9_aa.png" group-title="United States" tvg-id="AMTEVE" tvc-guide-stationid="93459",América TeVe
+http://example.local/USA-AMTEVE.ts
 #EXTINF:-1 tvg-chno="16395" tvg-name="América Tv" tvg-logo="https://zap2it.tmsimg.com/assets/s16395_h3_aa.png" group-title="Argentina" tvg-id="AMSAT" tvc-guide-stationid="16395",América Tv
 http://example.local/ARG-AMSAT.ts
 #EXTINF:-1 tvg-chno="102993" tvg-name="América TV" tvg-logo="https://zap2it.tmsimg.com/assets/s16395_ll_h15_ac.png" group-title="Argentina" tvg-id="AMETV" tvc-guide-stationid="102993",América TV
@@ -423,6 +465,8 @@ http://example.local/CHE-ANEWZHD.ts
 http://example.local/AUT-ANEWZHD.ts
 #EXTINF:-1 tvg-chno="170032" tvg-name="Anewz" group-title="Germany" tvg-id="ANEWZHD" tvc-guide-stationid="170032",Anewz
 http://example.local/DEU-ANEWZHD.ts
+#EXTINF:-1 tvg-chno="123947" tvg-name="Angelique" tvg-logo="https://zap2it.tmsimg.com/assets/s123947_ll_h15_ad.png" group-title="Mexico" tvg-id="ANGELQA" tvc-guide-stationid="123947",Angelique
+http://example.local/MEX-ANGELQA.ts
 #EXTINF:-1 tvg-chno="123947" tvg-name="Angelique" tvg-logo="https://zap2it.tmsimg.com/assets/s123947_ll_h15_ad.png" group-title="United States" tvg-id="ANGELQA" tvc-guide-stationid="123947",Angelique
 http://example.local/USA-ANGELQA.ts
 #EXTINF:-1 tvg-chno="92616" tvg-name="Angelo State University Ch. 6" group-title="United States" tvg-id="ASU6" tvc-guide-stationid="92616",Angelo State University Ch. 6
@@ -873,8 +917,6 @@ http://example.local/NLD-ANTENA.ts
 http://example.local/POL-ANTENA.ts
 #EXTINF:-1 tvg-chno="120212" tvg-name="Antena HD" tvg-logo="https://zap2it.tmsimg.com/assets/s120212_ll_h15_ab.png" group-title="Belgium" tvg-id="ANTENA" tvc-guide-stationid="120212",Antena HD
 http://example.local/BEL-ANTENA.ts
-#EXTINF:-1 tvg-chno="16372" tvg-name="Antenna 20 Years" tvg-logo="https://zap2it.tmsimg.com/assets/s16372_ll_h15_aa.png" group-title="United States" tvg-id="ANTEN" tvc-guide-stationid="16372",Antenna 20 Years
-http://example.local/USA-ANTEN.ts
 #EXTINF:-1 tvg-chno="152407" tvg-name="Antenna 20 Years" group-title="United States" tvg-id="ANTENSD" tvc-guide-stationid="152407",Antenna 20 Years
 http://example.local/USA-ANTENSD.ts
 #EXTINF:-1 tvg-chno="84749" tvg-name="Antenna 3" tvg-logo="https://zap2it.tmsimg.com/assets/s84749_ll_h15_aa.png" group-title="Italy" tvg-id="ANTEN3" tvc-guide-stationid="84749",Antenna 3
@@ -885,6 +927,8 @@ http://example.local/CHE-ANTEN3.ts
 http://example.local/ITA-ANTEN3H.ts
 #EXTINF:-1 tvg-chno="98982" tvg-name="Antenna 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s98982_ll_h15_aa.png" group-title="Switzerland" tvg-id="ANTEN3H" tvc-guide-stationid="98982",Antenna 3 HD
 http://example.local/CHE-ANTEN3H.ts
+#EXTINF:-1 tvg-chno="16372" tvg-name="Antenna Satellite" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002BV9V6.png" group-title="United States" tvg-id="ANTEN" tvc-guide-stationid="16372",Antenna Satellite
+http://example.local/USA-ANTEN.ts
 #EXTINF:-1 tvg-chno="70248" tvg-name="Antenna TV" tvg-logo="https://zap2it.tmsimg.com/assets/s70248_ll_h15_ac.png" group-title="United States" tvg-id="ANTENNA" tvc-guide-stationid="70248",Antenna TV
 http://example.local/USA-ANTENNA.ts
 #EXTINF:-1 tvg-chno="115286" tvg-name="antenne 1" group-title="Germany" tvg-id="ANTERAD" tvc-guide-stationid="115286",antenne 1
@@ -975,47 +1019,3 @@ http://example.local/USA-AVGHD.ts
 http://example.local/USA-AVGTV.ts
 #EXTINF:-1 tvg-chno="87915" tvg-name="Aprende+" tvg-logo="https://zap2it.tmsimg.com/assets/s87915_ll_h15_ab.png" group-title="Mexico" tvg-id="APRENMAS" tvc-guide-stationid="87915",Aprende+
 http://example.local/MEX-APRENMAS.ts
-#EXTINF:-1 tvg-chno="87915" tvg-name="Aprende+" tvg-logo="https://zap2it.tmsimg.com/assets/s87915_ll_h15_ab.png" group-title="Guatemala" tvg-id="APRENMAS" tvc-guide-stationid="87915",Aprende+
-http://example.local/GTM-APRENMAS.ts
-#EXTINF:-1 tvg-chno="87915" tvg-name="Aprende+" tvg-logo="https://zap2it.tmsimg.com/assets/s87915_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="APRENMAS" tvc-guide-stationid="87915",Aprende+
-http://example.local/DOM-APRENMAS.ts
-#EXTINF:-1 tvg-chno="87915" tvg-name="Aprende+" tvg-logo="https://zap2it.tmsimg.com/assets/s87915_ll_h15_ab.png" group-title="Costa Rica" tvg-id="APRENMAS" tvc-guide-stationid="87915",Aprende+
-http://example.local/CRI-APRENMAS.ts
-#EXTINF:-1 tvg-chno="87915" tvg-name="Aprende+" tvg-logo="https://zap2it.tmsimg.com/assets/s87915_ll_h15_ab.png" group-title="Panama" tvg-id="APRENMAS" tvc-guide-stationid="87915",Aprende+
-http://example.local/PAN-APRENMAS.ts
-#EXTINF:-1 tvg-chno="38061" tvg-name="APTN Languages" tvg-logo="https://zap2it.tmsimg.com/assets/s38061_ll_h15_aa.png" group-title="Canada" tvg-id="APTNL" tvc-guide-stationid="38061",APTN Languages
-http://example.local/CAN-APTNL.ts
-#EXTINF:-1 tvg-chno="89009" tvg-name="Aquarium Channel HD" group-title="Canada" tvg-id="AQTVHD" tvc-guide-stationid="89009",Aquarium Channel HD
-http://example.local/CAN-AQTVHD.ts
-#EXTINF:-1 tvg-chno="102596" tvg-name="Aquarium Channel HDTV" tvg-logo="https://zap2it.tmsimg.com/assets/s102596_ll_h15_ab.png" group-title="Canada" tvg-id="AQUAR" tvc-guide-stationid="102596",Aquarium Channel HDTV
-http://example.local/CAN-AQUAR.ts
-#EXTINF:-1 tvg-chno="104964" tvg-name="Aquarium Channel SD" tvg-logo="https://zap2it.tmsimg.com/assets/s104964_ll_h15_aa.png" group-title="Canada" tvg-id="AQUARSD" tvc-guide-stationid="104964",Aquarium Channel SD
-http://example.local/CAN-AQUARSD.ts
-#EXTINF:-1 tvg-chno="94062" tvg-name="AQUI Network" group-title="United States" tvg-id="AQUI" tvc-guide-stationid="94062",AQUI Network
-http://example.local/USA-AQUI.ts
-#EXTINF:-1 tvg-chno="123964" tvg-name="Aquí y Ahora" tvg-logo="https://zap2it.tmsimg.com/assets/s123964_ll_h15_ab.png" group-title="United States" tvg-id="AYAA" tvc-guide-stationid="123964",Aquí y Ahora
-http://example.local/USA-AYAA.ts
-#EXTINF:-1 tvg-chno="111187" tvg-name="Arabella Kult" tvg-logo="https://zap2it.tmsimg.com/assets/s111187_ll_h9_aa.png" group-title="Germany" tvg-id="ARAKURA" tvc-guide-stationid="111187",Arabella Kult
-http://example.local/DEU-ARAKURA.ts
-#EXTINF:-1 tvg-chno="101612" tvg-name="Arabic" tvg-logo="https://zap2it.tmsimg.com/assets/s101612_ll_h9_aa.png" group-title="Germany" tvg-id="ARABICR" tvc-guide-stationid="101612",Arabic
-http://example.local/DEU-ARABICR.ts
-#EXTINF:-1 tvg-chno="77066" tvg-name="Arabic Radio & TV" group-title="United States" tvg-id="ARRADTV" tvc-guide-stationid="77066",Arabic Radio & TV
-http://example.local/USA-ARRADTV.ts
-#EXTINF:-1 tvg-chno="72629" tvg-name="Arabica" group-title="United States" tvg-id="ARBMU" tvc-guide-stationid="72629",Arabica
-http://example.local/USA-ARBMU.ts
-#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png" group-title="Spain" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
-http://example.local/ESP-ARAGON.ts
-#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png" group-title="Italy" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
-http://example.local/ITA-ARAGON.ts
-#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png" group-title="United Kingdom" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
-http://example.local/GBR-ARAGON.ts
-#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png" group-title="Switzerland" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
-http://example.local/CHE-ARAGON.ts
-#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png" group-title="Austria" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
-http://example.local/AUT-ARAGON.ts
-#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png" group-title="Germany" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
-http://example.local/DEU-ARAGON.ts
-#EXTINF:-1 tvg-chno="118662" tvg-name="Aragon TV HD" group-title="Switzerland" tvg-id="ARAGHD" tvc-guide-stationid="118662",Aragon TV HD
-http://example.local/CHE-ARAGHD.ts
-#EXTINF:-1 tvg-chno="101225" tvg-name="Arcadia TV Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s101225_ll_h9_aa.png" group-title="Austria" tvg-id="ARCTV" tvc-guide-stationid="101225",Arcadia TV Austria
-http://example.local/AUT-ARCTV.ts

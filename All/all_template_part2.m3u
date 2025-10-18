@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="109796" tvg-name="9 Life SA (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s109796_ll_h9_ac.png" group-title="Australia" tvg-id="ANZYSA" tvc-guide-stationid="109796",9 Life SA (NINE)
+http://example.local/AUS-ANZYSA.ts
+#EXTINF:-1 tvg-chno="104696" tvg-name="9 Mackay (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104696_ll_h9_ab.png" group-title="Australia" tvg-id="WMWANZ" tvc-guide-stationid="104696",9 Mackay (NINE)
+http://example.local/AUS-WMWANZ.ts
 #EXTINF:-1 tvg-chno="104693" tvg-name="9 Mildura (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104693_ll_h9_ab.png" group-title="Australia" tvg-id="WMILANZ" tvc-guide-stationid="104693",9 Mildura (NINE)
 http://example.local/AUS-WMILANZ.ts
 #EXTINF:-1 tvg-chno="183537" tvg-name="9 News" tvg-logo="https://zap2it.tmsimg.com/assets/s183537_ll_h15_aa.png" group-title="United States" tvg-id="KUSASTR" tvc-guide-stationid="183537",9 News
@@ -241,6 +245,8 @@ http://example.local/JAM-PLAY.ts
 http://example.local/CHE-ABOLATV.ts
 #EXTINF:-1 tvg-chno="87160" tvg-name="A Bola TV" tvg-logo="https://zap2it.tmsimg.com/assets/s87160_ll_h9_aa.png" group-title="France" tvg-id="ABOLATV" tvc-guide-stationid="87160",A Bola TV
 http://example.local/FRA-ABOLATV.ts
+#EXTINF:-1 tvg-chno="182473" tvg-name="A Fazenda" group-title="Brazil" tvg-id="FAZENDA" tvc-guide-stationid="182473",A Fazenda
+http://example.local/BRA-FAZENDA.ts
 #EXTINF:-1 tvg-chno="104892" tvg-name="A MAS (Izzi)" tvg-logo="https://zap2it.tmsimg.com/assets/s116157_ll_h15_ab.png" group-title="Mexico" tvg-id="AMAS70" tvc-guide-stationid="104892",A MAS (Izzi)
 http://example.local/MEX-AMAS70.ts
 #EXTINF:-1 tvg-chno="148508" tvg-name="A MAS HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116157_ll_h15_ab.png" group-title="Mexico" tvg-id="AMASHD" tvc-guide-stationid="148508",A MAS HD
@@ -873,6 +879,8 @@ http://example.local/USA-XMVACC.ts
 http://example.local/USA-ACCSD.ts
 #EXTINF:-1 tvg-chno="111871" tvg-name="ACC Network" tvg-logo="https://zap2it.tmsimg.com/assets/s111871_ll_h15_ac.png" group-title="United States" tvg-id="ACC" tvc-guide-stationid="111871",ACC Network
 http://example.local/USA-ACC.ts
+#EXTINF:-1 tvg-chno="136849" tvg-name="Acceso Total 24/7" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002672K6.png" group-title="Mexico" tvg-id="ACTOL" tvc-guide-stationid="136849",Acceso Total 24/7
+http://example.local/MEX-ACTOL.ts
 #EXTINF:-1 tvg-chno="20552" tvg-name="Access" group-title="United States" tvg-id="ACES" tvc-guide-stationid="20552",Access
 http://example.local/USA-ACES.ts
 #EXTINF:-1 tvg-chno="94879" tvg-name="Access 4" group-title="United States" tvg-id="ACCS4" tvc-guide-stationid="94879",Access 4
@@ -969,6 +977,8 @@ http://example.local/USA-ACM1HD.ts
 http://example.local/USA-ACMPA.ts
 #EXTINF:-1 tvg-chno="114628" tvg-name="ACM Public Access HD" group-title="United States" tvg-id="ACMPAHD" tvc-guide-stationid="114628",ACM Public Access HD
 http://example.local/USA-ACMPAHD.ts
+#EXTINF:-1 tvg-chno="152097" tvg-name="acontra+ CINE" tvg-logo="https://zap2it.tmsimg.com/assets/s152097_ll_h9_aa.png" group-title="Spain" tvg-id="ACOCINE" tvc-guide-stationid="152097",acontra+ CINE
+http://example.local/ESP-ACOCINE.ts
 #EXTINF:-1 tvg-chno="180558" tvg-name="Acorn TV Mysteries" tvg-logo="https://zap2it.tmsimg.com/assets/s180558_ll_h15_aa.png" group-title="United States" tvg-id="ACNMYST" tvc-guide-stationid="180558",Acorn TV Mysteries
 http://example.local/USA-ACNMYST.ts
 #EXTINF:-1 tvg-chno="87191" tvg-name="Action" tvg-logo="https://zap2it.tmsimg.com/assets/s87191_ll_h15_aa.png" group-title="Switzerland" tvg-id="ACTIONF" tvc-guide-stationid="87191",Action
@@ -1009,13 +1019,3 @@ http://example.local/MEX-ACUSTIK.ts
 http://example.local/USA-ADCH001.ts
 #EXTINF:-1 tvg-chno="23778" tvg-name="Ad Channel (Static) - ADCH002" group-title="United States" tvg-id="ADCH002" tvc-guide-stationid="23778",Ad Channel (Static) - ADCH002
 http://example.local/USA-ADCH002.ts
-#EXTINF:-1 tvg-chno="23779" tvg-name="Ad Channel (Static) - ADCH003" group-title="United States" tvg-id="ADCH003" tvc-guide-stationid="23779",Ad Channel (Static) - ADCH003
-http://example.local/USA-ADCH003.ts
-#EXTINF:-1 tvg-chno="23780" tvg-name="Ad Channel (Static) - ADCH004" group-title="United States" tvg-id="ADCH004" tvc-guide-stationid="23780",Ad Channel (Static) - ADCH004
-http://example.local/USA-ADCH004.ts
-#EXTINF:-1 tvg-chno="23782" tvg-name="Ad Channel (Static) - ADCH006" group-title="United States" tvg-id="ADCH006" tvc-guide-stationid="23782",Ad Channel (Static) - ADCH006
-http://example.local/USA-ADCH006.ts
-#EXTINF:-1 tvg-chno="23783" tvg-name="Ad Channel (Static) - ADCH007" group-title="United States" tvg-id="ADCH007" tvc-guide-stationid="23783",Ad Channel (Static) - ADCH007
-http://example.local/USA-ADCH007.ts
-#EXTINF:-1 tvg-chno="23784" tvg-name="Ad Channel (Static) - ADCH008" group-title="United States" tvg-id="ADCH008" tvc-guide-stationid="23784",Ad Channel (Static) - ADCH008
-http://example.local/USA-ADCH008.ts

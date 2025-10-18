@@ -557,6 +557,8 @@ http://example.local/CHE-4PLUS.ts
 http://example.local/CHE-4PLUHD.ts
 #EXTINF:-1 tvg-chno="67876" tvg-name="40 Plus (Virgin)" group-title="United Kingdom" tvg-id="40PLUSVM" tvc-guide-stationid="67876",40 Plus (Virgin)
 http://example.local/GBR-40PLUSVM.ts
+#EXTINF:-1 tvg-chno="123880" tvg-name="40 y 20" tvg-logo="https://zap2it.tmsimg.com/assets/s123880_ll_h15_ab.png" group-title="Mexico" tvg-id="40Y20" tvc-guide-stationid="123880",40 y 20
+http://example.local/MEX-40Y20.ts
 #EXTINF:-1 tvg-chno="123880" tvg-name="40 y 20" tvg-logo="https://zap2it.tmsimg.com/assets/s123880_ll_h15_ab.png" group-title="United States" tvg-id="40Y20" tvc-guide-stationid="123880",40 y 20
 http://example.local/USA-40Y20.ts
 #EXTINF:-1 tvg-chno="43218" tvg-name="40s on 4" group-title="United States" tvg-id="SR40S" tvc-guide-stationid="43218",40s on 4
@@ -703,6 +705,8 @@ http://example.local/GBR-5STP1VM.ts
 http://example.local/BEL-5STAP1.ts
 #EXTINF:-1 tvg-chno="100119" tvg-name="5+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100119_ll_h15_aa.png" group-title="Switzerland" tvg-id="5PLUSHD" tvc-guide-stationid="100119",5+ HD
 http://example.local/CHE-5PLUSHD.ts
+#EXTINF:-1 tvg-chno="178243" tvg-name="50 Cent Action" tvg-logo="https://zap2it.tmsimg.com/assets/s178243_ll_h15_aa.png" group-title="United States" tvg-id="50CENT" tvc-guide-stationid="178243",50 Cent Action
+http://example.local/USA-50CENT.ts
 #EXTINF:-1 tvg-chno="43241" tvg-name="50s on 5" group-title="United States" tvg-id="SR50S" tvc-guide-stationid="43241",50s on 5
 http://example.local/USA-SR50S.ts
 #EXTINF:-1 tvg-chno="137386" tvg-name="538TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s137386_ll_h15_aa.png" group-title="Netherlands" tvg-id="538TVHD" tvc-guide-stationid="137386",538TV HD
@@ -1015,7 +1019,3 @@ http://example.local/CAN-ALRSL.ts
 http://example.local/AUS-WALWANZ.ts
 #EXTINF:-1 tvg-chno="104692" tvg-name="9 Griffith (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104692_ll_h9_ab.png" group-title="Australia" tvg-id="WGRIANZ" tvc-guide-stationid="104692",9 Griffith (NINE)
 http://example.local/AUS-WGRIANZ.ts
-#EXTINF:-1 tvg-chno="109796" tvg-name="9 Life SA (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s109796_ll_h9_ac.png" group-title="Australia" tvg-id="ANZYSA" tvc-guide-stationid="109796",9 Life SA (NINE)
-http://example.local/AUS-ANZYSA.ts
-#EXTINF:-1 tvg-chno="104696" tvg-name="9 Mackay (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104696_ll_h9_ab.png" group-title="Australia" tvg-id="WMWANZ" tvc-guide-stationid="104696",9 Mackay (NINE)
-http://example.local/AUS-WMWANZ.ts

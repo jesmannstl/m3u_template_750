@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="27837" tvg-name="EPG Local Weather" group-title="United States" tvg-id="EPGLW" tvc-guide-stationid="27837",EPG Local Weather
+http://example.local/USA-EPGLW.ts
+#EXTINF:-1 tvg-chno="39238" tvg-name="EPG MUSIC ON DEMAND" group-title="United States" tvg-id="MUSICDM" tvc-guide-stationid="39238",EPG MUSIC ON DEMAND
+http://example.local/USA-MUSICDM.ts
+#EXTINF:-1 tvg-chno="91441" tvg-name="EPG Netflix on Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s91441_ll_h15_aa.png" group-title="United States" tvg-id="NETDM" tvc-guide-stationid="91441",EPG Netflix on Demand
+http://example.local/USA-NETDM.ts
+#EXTINF:-1 tvg-chno="27823" tvg-name="EPG NOAA Weather Scan" group-title="United States" tvg-id="NOAA" tvc-guide-stationid="27823",EPG NOAA Weather Scan
+http://example.local/USA-NOAA.ts
+#EXTINF:-1 tvg-chno="27820" tvg-name="EPG On Cable" group-title="United States" tvg-id="ONCABLE" tvc-guide-stationid="27820",EPG On Cable
+http://example.local/USA-ONCABLE.ts
+#EXTINF:-1 tvg-chno="74133" tvg-name="EPG Playboy En Español On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s38944_ll_h15_aa.png" group-title="United States" tvg-id="PLESPDM" tvc-guide-stationid="74133",EPG Playboy En Español On Demand
+http://example.local/USA-PLESPDM.ts
+#EXTINF:-1 tvg-chno="27990" tvg-name="EPG Playboy Generic" group-title="United States" tvg-id="EPGPPV" tvc-guide-stationid="27990",EPG Playboy Generic
+http://example.local/USA-EPGPPV.ts
+#EXTINF:-1 tvg-chno="27893" tvg-name="EPG Previews" group-title="United States" tvg-id="PREVIEWS" tvc-guide-stationid="27893",EPG Previews
+http://example.local/USA-PREVIEWS.ts
+#EXTINF:-1 tvg-chno="27873" tvg-name="EPG Radar Weather" group-title="United States" tvg-id="EPGRDR" tvc-guide-stationid="27873",EPG Radar Weather
+http://example.local/USA-EPGRDR.ts
+#EXTINF:-1 tvg-chno="27786" tvg-name="EPG Security Camera Channel" group-title="United States" tvg-id="CAMERA" tvc-guide-stationid="27786",EPG Security Camera Channel
+http://example.local/USA-CAMERA.ts
+#EXTINF:-1 tvg-chno="44244" tvg-name="EPG Special Events HDTV" group-title="United States" tvg-id="SPHDTV" tvc-guide-stationid="44244",EPG Special Events HDTV
+http://example.local/USA-SPHDTV.ts
+#EXTINF:-1 tvg-chno="39555" tvg-name="EPG SPORTS ON DEMAND" group-title="United States" tvg-id="SPORTDM" tvc-guide-stationid="39555",EPG SPORTS ON DEMAND
+http://example.local/USA-SPORTDM.ts
+#EXTINF:-1 tvg-chno="74149" tvg-name="EPG Starz Encore HD On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s36225_ll_h15_ac.png" group-title="United States" tvg-id="STZEHDM" tvc-guide-stationid="74149",EPG Starz Encore HD On Demand
+http://example.local/USA-STZEHDM.ts
+#EXTINF:-1 tvg-chno="49317" tvg-name="EPG Starz Encore On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s10178_ll_h15_ac.png" group-title="United States" tvg-id="STZENDM" tvc-guide-stationid="49317",EPG Starz Encore On Demand
+http://example.local/USA-STZENDM.ts
+#EXTINF:-1 tvg-chno="50928" tvg-name="EPG Suddenlink Info" group-title="United States" tvg-id="SUDINFO" tvc-guide-stationid="50928",EPG Suddenlink Info
+http://example.local/USA-SUDINFO.ts
 #EXTINF:-1 tvg-chno="73175" tvg-name="EPG Time Warner Cable How To On Demand" group-title="United States" tvg-id="HOWTODM" tvc-guide-stationid="73175",EPG Time Warner Cable How To On Demand
 http://example.local/USA-HOWTODM.ts
 #EXTINF:-1 tvg-chno="27780" tvg-name="EPG TV Guide" group-title="United States" tvg-id="EPGTVG" tvc-guide-stationid="27780",EPG TV Guide
@@ -17,6 +47,8 @@ http://example.local/USA-EROSDM.ts
 http://example.local/USA-TOR01.ts
 #EXTINF:-1 tvg-chno="121007" tvg-name="ES16US" group-title="United States" tvg-id="VIZES16US" tvc-guide-stationid="121007",ES16US
 http://example.local/USA-VIZES16US.ts
+#EXTINF:-1 tvg-chno="159059" tvg-name="ES24" tvg-logo="https://zap2it.tmsimg.com/assets/s159059_ll_h15_aa.png" group-title="United States" tvg-id="ES24" tvc-guide-stationid="159059",ES24
+http://example.local/USA-ES24.ts
 #EXTINF:-1 tvg-chno="60625" tvg-name="Escambia County Government Access Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s60625_ll_h15_ab.png" group-title="United States" tvg-id="ESC4SD" tvc-guide-stationid="60625",Escambia County Government Access Channel
 http://example.local/USA-ESC4SD.ts
 #EXTINF:-1 tvg-chno="106981" tvg-name="Escambia County Government Access Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106981_ll_h15_aa.png" group-title="United States" tvg-id="ESC4HD" tvc-guide-stationid="106981",Escambia County Government Access Channel HD
@@ -987,35 +1019,3 @@ http://example.local/USA-FDSGL.ts
 http://example.local/USA-FDSGLHD.ts
 #EXTINF:-1 tvg-chno="110040" tvg-name="FanDuel Sports Network Great Lakes HD- Out of Market" tvg-logo="https://zap2it.tmsimg.com/assets/s50167_ll_h15_ac.png" group-title="United States" tvg-id="FDGLOMH" tvc-guide-stationid="110040",FanDuel Sports Network Great Lakes HD- Out of Market
 http://example.local/USA-FDGLOMH.ts
-#EXTINF:-1 tvg-chno="16678" tvg-name="FanDuel Sports Network Indiana" tvg-logo="https://zap2it.tmsimg.com/assets/s63531_ll_h15_ac.png" group-title="United States" tvg-id="FDSIN1" tvc-guide-stationid="16678",FanDuel Sports Network Indiana
-http://example.local/USA-FDSIN1.ts
-#EXTINF:-1 tvg-chno="63531" tvg-name="FanDuel Sports Network Indiana" tvg-logo="https://zap2it.tmsimg.com/assets/s63531_ll_h15_ac.png" group-title="United States" tvg-id="FDSIN2" tvc-guide-stationid="63531",FanDuel Sports Network Indiana
-http://example.local/USA-FDSIN2.ts
-#EXTINF:-1 tvg-chno="108165" tvg-name="FanDuel Sports Network Indiana" tvg-logo="https://zap2it.tmsimg.com/assets/s63531_ll_h15_ac.png" group-title="United States" tvg-id="FDSIN3" tvc-guide-stationid="108165",FanDuel Sports Network Indiana
-http://example.local/USA-FDSIN3.ts
-#EXTINF:-1 tvg-chno="63725" tvg-name="FanDuel Sports Network Indiana HD" tvg-logo="https://zap2it.tmsimg.com/assets/s63725_ll_h15_ac.png" group-title="United States" tvg-id="FDSIN1H" tvc-guide-stationid="63725",FanDuel Sports Network Indiana HD
-http://example.local/USA-FDSIN1H.ts
-#EXTINF:-1 tvg-chno="108166" tvg-name="FanDuel Sports Network Indiana HD" tvg-logo="https://zap2it.tmsimg.com/assets/s63531_ll_h15_ac.png" group-title="United States" tvg-id="FDSIN3H" tvc-guide-stationid="108166",FanDuel Sports Network Indiana HD
-http://example.local/USA-FDSIN3H.ts
-#EXTINF:-1 tvg-chno="67696" tvg-name="FanDuel Sports Network Indiana HD" tvg-logo="https://zap2it.tmsimg.com/assets/s63531_ll_h15_ac.png" group-title="United States" tvg-id="FDSIN2H" tvc-guide-stationid="67696",FanDuel Sports Network Indiana HD
-http://example.local/USA-FDSIN2H.ts
-#EXTINF:-1 tvg-chno="19739" tvg-name="FanDuel Sports Network Kansas City" tvg-logo="https://zap2it.tmsimg.com/assets/s19739_ll_h15_ac.png" group-title="United States" tvg-id="FDSKC1" tvc-guide-stationid="19739",FanDuel Sports Network Kansas City
-http://example.local/USA-FDSKC1.ts
-#EXTINF:-1 tvg-chno="69779" tvg-name="FanDuel Sports Network Kansas City" tvg-logo="https://zap2it.tmsimg.com/assets/s19739_ll_h15_ac.png" group-title="United States" tvg-id="FDSKC2" tvc-guide-stationid="69779",FanDuel Sports Network Kansas City
-http://example.local/USA-FDSKC2.ts
-#EXTINF:-1 tvg-chno="59945" tvg-name="FanDuel Sports Network Kansas City HD" tvg-logo="https://zap2it.tmsimg.com/assets/s19739_ll_h15_ac.png" group-title="United States" tvg-id="FDKC1H" tvc-guide-stationid="59945",FanDuel Sports Network Kansas City HD
-http://example.local/USA-FDKC1H.ts
-#EXTINF:-1 tvg-chno="65658" tvg-name="FanDuel Sports Network Kansas City- Nebraska" tvg-logo="https://zap2it.tmsimg.com/assets/s19739_ll_h15_ac.png" group-title="United States" tvg-id="FDMNE1H" tvc-guide-stationid="65658",FanDuel Sports Network Kansas City- Nebraska
-http://example.local/USA-FDMNE1H.ts
-#EXTINF:-1 tvg-chno="21782" tvg-name="FanDuel Sports Network Kansas City- Nebraska" tvg-logo="https://zap2it.tmsimg.com/assets/s19739_ll_h15_ac.png" group-title="United States" tvg-id="FDMWNE1" tvc-guide-stationid="21782",FanDuel Sports Network Kansas City- Nebraska
-http://example.local/USA-FDMWNE1.ts
-#EXTINF:-1 tvg-chno="20638" tvg-name="FanDuel Sports Network Midwest" tvg-logo="https://zap2it.tmsimg.com/assets/s11058_ll_h15_ac.png" group-title="United States" tvg-id="FDMWSAT" tvc-guide-stationid="20638",FanDuel Sports Network Midwest
-http://example.local/USA-FDMWSAT.ts
-#EXTINF:-1 tvg-chno="97712" tvg-name="FanDuel Sports Network Midwest" tvg-logo="https://zap2it.tmsimg.com/assets/s11058_ll_h15_ac.png" group-title="United States" tvg-id="FDMWBCB" tvc-guide-stationid="97712",FanDuel Sports Network Midwest
-http://example.local/USA-FDMWBCB.ts
-#EXTINF:-1 tvg-chno="50057" tvg-name="FanDuel Sports Network Midwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s50057_ll_h15_ac.png" group-title="United States" tvg-id="FDNHDMW" tvc-guide-stationid="50057",FanDuel Sports Network Midwest HD
-http://example.local/USA-FDNHDMW.ts
-#EXTINF:-1 tvg-chno="74333" tvg-name="FanDuel Sports Network Midwest HD" group-title="United States" tvg-id="FDMSATH" tvc-guide-stationid="74333",FanDuel Sports Network Midwest HD
-http://example.local/USA-FDMSATH.ts
-#EXTINF:-1 tvg-chno="61088" tvg-name="FanDuel Sports Network Midwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s11058_ll_h15_ac.png" group-title="United States" tvg-id="DFDMWHD" tvc-guide-stationid="61088",FanDuel Sports Network Midwest HD
-http://example.local/USA-DFDMWHD.ts
