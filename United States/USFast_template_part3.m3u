@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="116284" tvg-name="FNE LA CROSSE WI" group-title="United States" tvg-id="FNELACR" tvc-guide-stationid="116284",FNE LA CROSSE WI
+http://example.local/USA-FNELACR.ts
+#EXTINF:-1 tvg-chno="103739" tvg-name="FNE Lake Charles" tvg-logo="https://zap2it.tmsimg.com/assets/s103482_ll_h15_aa.png" group-title="United States" tvg-id="FNELAKE" tvc-guide-stationid="103739",FNE Lake Charles
+http://example.local/USA-FNELAKE.ts
+#EXTINF:-1 tvg-chno="103591" tvg-name="FNE Lexington" tvg-logo="https://zap2it.tmsimg.com/assets/s103482_ll_h15_aa.png" group-title="United States" tvg-id="FNELEXI" tvc-guide-stationid="103591",FNE Lexington
+http://example.local/USA-FNELEXI.ts
+#EXTINF:-1 tvg-chno="103599" tvg-name="FNE Lincoln" tvg-logo="https://zap2it.tmsimg.com/assets/s103482_h3_ba.png" group-title="United States" tvg-id="FNELINC" tvc-guide-stationid="103599",FNE Lincoln
+http://example.local/USA-FNELINC.ts
+#EXTINF:-1 tvg-chno="116340" tvg-name="FNE LITTLE ROCK AR" group-title="United States" tvg-id="FNELTRK" tvc-guide-stationid="116340",FNE LITTLE ROCK AR
+http://example.local/USA-FNELTRK.ts
 #EXTINF:-1 tvg-chno="103774" tvg-name="FNE Lubbock" group-title="United States" tvg-id="FNELUBB" tvc-guide-stationid="103774",FNE Lubbock
 http://example.local/USA-FNELUBB.ts
 #EXTINF:-1 tvg-chno="103600" tvg-name="FNE Macon" tvg-logo="https://zap2it.tmsimg.com/assets/s103482_h3_ba.png" group-title="United States" tvg-id="FNEMACO" tvc-guide-stationid="103600",FNE Macon
@@ -153,6 +163,8 @@ http://example.local/USA-FNPSEAT.ts
 http://example.local/USA-FNPSPOK.ts
 #EXTINF:-1 tvg-chno="103919" tvg-name="FNP Yakima" group-title="United States" tvg-id="FNPYAKI" tvc-guide-stationid="103919",FNP Yakima
 http://example.local/USA-FNPYAKI.ts
+#EXTINF:-1 tvg-chno="190749" tvg-name="Follow Me" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002990DJ.png" group-title="United States" tvg-id="FLWME" tvc-guide-stationid="190749",Follow Me
+http://example.local/USA-FLWME.ts
 #EXTINF:-1 tvg-chno="97077" tvg-name="Folx TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97077_ll_h15_ab.png" group-title="United States" tvg-id="FOLXTV" tvc-guide-stationid="97077",Folx TV HD
 http://example.local/USA-FOLXTV.ts
 #EXTINF:-1 tvg-chno="89026" tvg-name="Food Food" tvg-logo="https://zap2it.tmsimg.com/assets/s89026_ll_h15_aa.png" group-title="United States" tvg-id="FOOD2" tvc-guide-stationid="89026",Food Food
@@ -237,6 +249,8 @@ http://example.local/USA-FOXCARL.ts
 http://example.local/USA-FXDEP.ts
 #EXTINF:-1 tvg-chno="72189" tvg-name="Fox Deportes HD" tvg-logo="https://zap2it.tmsimg.com/assets/s15377_ll_h15_ab.png" group-title="United States" tvg-id="FXDEPHD" tvc-guide-stationid="72189",Fox Deportes HD
 http://example.local/USA-FXDEPHD.ts
+#EXTINF:-1 tvg-chno="184631" tvg-name="FOX Extra 1" group-title="United States" tvg-id="FOXE1" tvc-guide-stationid="184631",FOX Extra 1
+http://example.local/USA-FOXE1.ts
 #EXTINF:-1 tvg-chno="16374" tvg-name="Fox News Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16374_ll_h15_ab.png" group-title="United States" tvg-id="FNC" tvc-guide-stationid="16374",Fox News Channel
 http://example.local/USA-FNC.ts
 #EXTINF:-1 tvg-chno="60179" tvg-name="Fox News Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60179_ll_h15_ab.png" group-title="United States" tvg-id="FNCHD" tvc-guide-stationid="60179",Fox News Channel HD
@@ -1015,17 +1029,3 @@ http://example.local/USA-KABCSTR.ts
 http://example.local/USA-KABCDT2.ts
 #EXTINF:-1 tvg-chno="49769" tvg-name="KACV-DT (PBS)" tvg-logo="https://logos.jesmann.com/kacvdt.png" group-title="United States" tvg-id="KACVDT" tvc-guide-stationid="49769",KACV-DT (PBS)
 http://example.local/USA-KACVDT.ts
-#EXTINF:-1 tvg-chno="43137" tvg-name="KADN-DT (FOX)" tvg-logo="https://logos.jesmann.com/kadndt.png" group-title="United States" tvg-id="KADNDT" tvc-guide-stationid="43137",KADN-DT (FOX)
-http://example.local/USA-KADNDT.ts
-#EXTINF:-1 tvg-chno="25102" tvg-name="KAET-DT (PBS)" tvg-logo="https://logos.jesmann.com/kaetdt.png" group-title="United States" tvg-id="KAETDT" tvc-guide-stationid="25102",KAET-DT (PBS)
-http://example.local/USA-KAETDT.ts
-#EXTINF:-1 tvg-chno="28027" tvg-name="KAID-DT (PBS)" tvg-logo="https://logos.jesmann.com/kaiddt.png" group-title="United States" tvg-id="KAIDDT" tvc-guide-stationid="28027",KAID-DT (PBS)
-http://example.local/USA-KAIDDT.ts
-#EXTINF:-1 tvg-chno="82792" tvg-name="Kairali We" group-title="United States" tvg-id="KAIRWE" tvc-guide-stationid="82792",Kairali We
-http://example.local/USA-KAIRWE.ts
-#EXTINF:-1 tvg-chno="48022" tvg-name="KAKM-DT (PBS)" tvg-logo="https://logos.jesmann.com/kakmdt.png" group-title="United States" tvg-id="KAKMDT" tvc-guide-stationid="48022",KAKM-DT (PBS)
-http://example.local/USA-KAKMDT.ts
-#EXTINF:-1 tvg-chno="33714" tvg-name="KALB-DT (NBC)" tvg-logo="https://logos.jesmann.com/kalbdt.png" group-title="United States" tvg-id="KALBDT" tvc-guide-stationid="33714",KALB-DT (NBC)
-http://example.local/USA-KALBDT.ts
-#EXTINF:-1 tvg-chno="54820" tvg-name="KALB-DT2 (CBS)" tvg-logo="https://logos.jesmann.com/kalbdt2.png" group-title="United States" tvg-id="KALBDT2" tvc-guide-stationid="54820",KALB-DT2 (CBS)
-http://example.local/USA-KALBDT2.ts
