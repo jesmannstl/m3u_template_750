@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="116131" tvg-name="UEFA Soccer - P" group-title="United States" tvg-id="UEFAP" tvc-guide-stationid="116131",UEFA Soccer - P
+http://example.local/USA-UEFAP.ts
+#EXTINF:-1 tvg-chno="123768" tvg-name="UEFA Soccer - P (UEFA Soccer (P) Station 16)" group-title="United States" tvg-id="UEFAP16" tvc-guide-stationid="123768",UEFA Soccer - P (UEFA Soccer (P) Station 16)
+http://example.local/USA-UEFAP16.ts
+#EXTINF:-1 tvg-chno="116132" tvg-name="UEFA Soccer - Q" group-title="United States" tvg-id="UEFAQ" tvc-guide-stationid="116132",UEFA Soccer - Q
+http://example.local/USA-UEFAQ.ts
 #EXTINF:-1 tvg-chno="123769" tvg-name="UEFA Soccer - Q (UEFA Soccer (Q) Station 17)" group-title="United States" tvg-id="UEFAQ17" tvc-guide-stationid="123769",UEFA Soccer - Q (UEFA Soccer (Q) Station 17)
 http://example.local/USA-UEFAQ17.ts
 #EXTINF:-1 tvg-chno="116133" tvg-name="UEFA Soccer - R" group-title="United States" tvg-id="UEFAR" tvc-guide-stationid="116133",UEFA Soccer - R
@@ -1013,9 +1019,3 @@ http://example.local/USA-W20EJD3.ts
 http://example.local/USA-W21AUD.ts
 #EXTINF:-1 tvg-chno="70442" tvg-name="W21CJ-D (WPCBSAT)" tvg-logo="https://zap2it.tmsimg.com/assets/s14355_ll_h15_aa.png" group-title="United States" tvg-id="W21CJD" tvc-guide-stationid="70442",W21CJ-D (WPCBSAT)
 http://example.local/USA-W21CJD.ts
-#EXTINF:-1 tvg-chno="70053" tvg-name="W21CP-D (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28717_ll_h15_ad.png" group-title="United States" tvg-id="W21CPD" tvc-guide-stationid="70053",W21CP-D (NBC)
-http://example.local/USA-W21CPD.ts
-#EXTINF:-1 tvg-chno="70057" tvg-name="W21CP-D2 (METVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" group-title="United States" tvg-id="W21CPD2" tvc-guide-stationid="70057",W21CP-D2 (METVN)
-http://example.local/USA-W21CPD2.ts
-#EXTINF:-1 tvg-chno="70059" tvg-name="W21CP-D3 (STARTTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s109454_ll_h15_ab.png" group-title="United States" tvg-id="W21CPD3" tvc-guide-stationid="70059",W21CP-D3 (STARTTV)
-http://example.local/USA-W21CPD3.ts

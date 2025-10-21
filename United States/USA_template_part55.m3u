@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="98194" tvg-name="WLPH-CD4 (RETROTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s62660_h3_aa.png" group-title="United States" tvg-id="WLPHCD4" tvc-guide-stationid="98194",WLPH-CD4 (RETROTV)
+http://example.local/USA-WLPHCD4.ts
+#EXTINF:-1 tvg-chno="19514" tvg-name="WLPX (ION)" tvg-logo="https://zap2it.tmsimg.com/assets/s18633_ll_h15_ad.png" group-title="United States" tvg-id="WLPX" tvc-guide-stationid="19514",WLPX (ION)
+http://example.local/USA-WLPX.ts
+#EXTINF:-1 tvg-chno="30816" tvg-name="WLPX-DT (ION)" tvg-logo="https://zap2it.tmsimg.com/assets/s18633_ll_h15_ad.png" group-title="United States" tvg-id="WLPXDT" tvc-guide-stationid="30816",WLPX-DT (ION)
+http://example.local/USA-WLPXDT.ts
 #EXTINF:-1 tvg-chno="54608" tvg-name="WLPX-DT2 (COURT)" tvg-logo="https://zap2it.tmsimg.com/assets/s111043_h3_aa.png" group-title="United States" tvg-id="WLPXDT2" tvc-guide-stationid="54608",WLPX-DT2 (COURT)
 http://example.local/USA-WLPXDT2.ts
 #EXTINF:-1 tvg-chno="55325" tvg-name="WLPX-DT3 (BOUNCE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_ll_h15_ab.png" group-title="United States" tvg-id="WLPXDT3" tvc-guide-stationid="55325",WLPX-DT3 (BOUNCE)
@@ -25,7 +31,7 @@ http://example.local/USA-WLSDT2.ts
 http://example.local/USA-WLSDT3.ts
 #EXTINF:-1 tvg-chno="11654" tvg-name="WLTV (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="United States" tvg-id="WLTV" tvc-guide-stationid="11654",WLTV (UNI)
 http://example.local/USA-WLTV.ts
-#EXTINF:-1 tvg-chno="34962" tvg-name="WLTV-DT (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="United States" tvg-id="WLTVDT" tvc-guide-stationid="34962",WLTV-DT (UNI)
+#EXTINF:-1 tvg-chno="34962" tvg-name="WLTV-DT (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="United States" tvg-id="WLTVDT" tvc-guide-stationid="34962",WLTV-DT (UNI)
 http://example.local/USA-WLTVDT.ts
 #EXTINF:-1 tvg-chno="98295" tvg-name="WLTV-DT2 (CRIME)" tvg-logo="https://zap2it.tmsimg.com/assets/s91496_ll_h15_ab.png" group-title="United States" tvg-id="WLTVDT2" tvc-guide-stationid="98295",WLTV-DT2 (CRIME)
 http://example.local/USA-WLTVDT2.ts
@@ -337,7 +343,7 @@ http://example.local/USA-WMBCD12.ts
 http://example.local/USA-WMBCDT2.ts
 #EXTINF:-1 tvg-chno="55772" tvg-name="WMBC-DT3 (MERITST)" tvg-logo="https://zap2it.tmsimg.com/assets/s155158_ll_h15_ac.png" group-title="United States" tvg-id="WMBCDT3" tvc-guide-stationid="55772",WMBC-DT3 (MERITST)
 http://example.local/USA-WMBCDT3.ts
-#EXTINF:-1 tvg-chno="55773" tvg-name="WMBC-DT4 (SINOVIS)" tvg-logo="https://zap2it.tmsimg.com/assets/s111153_ll_h9_aa.png" group-title="United States" tvg-id="WMBCDT4" tvc-guide-stationid="55773",WMBC-DT4 (SINOVIS)
+#EXTINF:-1 tvg-chno="55773" tvg-name="WMBC-DT4 (NTDA24)" tvg-logo="https://zap2it.tmsimg.com/assets/s118335_ll_h15_aa.png" group-title="United States" tvg-id="WMBCDT4" tvc-guide-stationid="55773",WMBC-DT4 (NTDA24)
 http://example.local/USA-WMBCDT4.ts
 #EXTINF:-1 tvg-chno="62811" tvg-name="WMBC-DT5" group-title="United States" tvg-id="WMBCDT5" tvc-guide-stationid="62811",WMBC-DT5
 http://example.local/USA-WMBCDT5.ts
@@ -1013,9 +1019,3 @@ http://example.local/USA-WNBAX1.ts
 http://example.local/USA-WNBAX13.ts
 #EXTINF:-1 tvg-chno="30799" tvg-name="WNBA Season Pass (WNBAX2)" group-title="United States" tvg-id="WNBAX2" tvc-guide-stationid="30799",WNBA Season Pass (WNBAX2)
 http://example.local/USA-WNBAX2.ts
-#EXTINF:-1 tvg-chno="30801" tvg-name="WNBA Season Pass (WNBAX4)" group-title="United States" tvg-id="WNBAX4" tvc-guide-stationid="30801",WNBA Season Pass (WNBAX4)
-http://example.local/USA-WNBAX4.ts
-#EXTINF:-1 tvg-chno="30804" tvg-name="WNBA Season Pass (WNBAX7)" group-title="United States" tvg-id="WNBAX7" tvc-guide-stationid="30804",WNBA Season Pass (WNBAX7)
-http://example.local/USA-WNBAX7.ts
-#EXTINF:-1 tvg-chno="11705" tvg-name="WNBC (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_h3_ba.png" group-title="United States" tvg-id="WNBC" tvc-guide-stationid="11705",WNBC (NBC)
-http://example.local/USA-WNBC.ts

@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="101158" tvg-name="Summit County Television HD" group-title="United States" tvg-id="SCTVHD" tvc-guide-stationid="101158",Summit County Television HD
+http://example.local/USA-SCTVHD.ts
+#EXTINF:-1 tvg-chno="97333" tvg-name="Sun Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60329_ll_h15_aa.png" group-title="United States" tvg-id="SUNCHHD" tvc-guide-stationid="97333",Sun Channel HD
+http://example.local/USA-SUNCHHD.ts
+#EXTINF:-1 tvg-chno="74637" tvg-name="Sun Music TV" group-title="United States" tvg-id="SUNMTV" tvc-guide-stationid="74637",Sun Music TV
+http://example.local/USA-SUNMTV.ts
 #EXTINF:-1 tvg-chno="31634" tvg-name="Sun TV" tvg-logo="https://zap2it.tmsimg.com/assets/s31634_ll_h15_aa.png" group-title="United States" tvg-id="SUNTV" tvc-guide-stationid="31634",Sun TV
 http://example.local/USA-SUNTV.ts
 #EXTINF:-1 tvg-chno="92041" tvg-name="Sundance Stream East" tvg-logo="https://zap2it.tmsimg.com/assets/s92041_ll_h9_aa.png" group-title="United States" tvg-id="SUNSTR" tvc-guide-stationid="92041",Sundance Stream East
@@ -797,7 +803,7 @@ http://example.local/USA-WEATHDM.ts
 http://example.local/USA-TWCHDM.ts
 #EXTINF:-1 tvg-chno="124636" tvg-name="The Women's Sports Network" tvg-logo="https://zap2it.tmsimg.com/assets/s124636_ll_h15_aa.png" group-title="United States" tvg-id="WSN" tvc-guide-stationid="124636",The Women's Sports Network
 http://example.local/USA-WSN.ts
-#EXTINF:-1 tvg-chno="21781" tvg-name="The Word Network" tvg-logo="https://zap2it.tmsimg.com/assets/s21781_ll_h15_ac.png" group-title="United States" tvg-id="WORD" tvc-guide-stationid="21781",The Word Network
+#EXTINF:-1 tvg-chno="21781" tvg-name="The Word Network" tvg-logo="https://zap2it.tmsimg.com/assets/s21781_h3_aa.png" group-title="United States" tvg-id="WORD" tvc-guide-stationid="21781",The Word Network
 http://example.local/USA-WORD.ts
 #EXTINF:-1 tvg-chno="126026" tvg-name="The Word Network (HD Feed)" group-title="United States" tvg-id="WORDHD" tvc-guide-stationid="126026",The Word Network (HD Feed)
 http://example.local/USA-WORDHD.ts
@@ -837,7 +843,7 @@ http://example.local/USA-PTV3CO.ts
 http://example.local/USA-THMOVDM.ts
 #EXTINF:-1 tvg-chno="18435" tvg-name="ThrillerMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s18435_ll_h15_ad.png" group-title="United States" tvg-id="THMAX" tvc-guide-stationid="18435",ThrillerMAX
 http://example.local/USA-THMAX.ts
-#EXTINF:-1 tvg-chno="18436" tvg-name="ThrillerMAX (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s18435_ll_h15_ad.png" group-title="United States" tvg-id="THMAXP" tvc-guide-stationid="18436",ThrillerMAX (Pacific)
+#EXTINF:-1 tvg-chno="18436" tvg-name="ThrillerMAX (Pacific)" group-title="United States" tvg-id="THMAXP" tvc-guide-stationid="18436",ThrillerMAX (Pacific)
 http://example.local/USA-THMAXP.ts
 #EXTINF:-1 tvg-chno="59954" tvg-name="ThrillerMAX HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59954_ll_h15_ab.png" group-title="United States" tvg-id="THMAXHD" tvc-guide-stationid="59954",ThrillerMAX HD
 http://example.local/USA-THMAXHD.ts
@@ -1013,9 +1019,3 @@ http://example.local/USA-GAM14RL.ts
 http://example.local/USA-GAM2RL.ts
 #EXTINF:-1 tvg-chno="55387" tvg-name="Time Warner Raleigh Game 3" group-title="United States" tvg-id="GAM3RL" tvc-guide-stationid="55387",Time Warner Raleigh Game 3
 http://example.local/USA-GAM3RL.ts
-#EXTINF:-1 tvg-chno="55389" tvg-name="Time Warner Raleigh Game 4" group-title="United States" tvg-id="GAM4RL" tvc-guide-stationid="55389",Time Warner Raleigh Game 4
-http://example.local/USA-GAM4RL.ts
-#EXTINF:-1 tvg-chno="55391" tvg-name="Time Warner Raleigh Game 5" group-title="United States" tvg-id="GAM5RL" tvc-guide-stationid="55391",Time Warner Raleigh Game 5
-http://example.local/USA-GAM5RL.ts
-#EXTINF:-1 tvg-chno="55393" tvg-name="Time Warner Raleigh Game 6" group-title="United States" tvg-id="GAM6RL" tvc-guide-stationid="55393",Time Warner Raleigh Game 6
-http://example.local/USA-GAM6RL.ts

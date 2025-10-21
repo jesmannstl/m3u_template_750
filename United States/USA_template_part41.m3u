@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="32421" tvg-name="QPTV35" group-title="United States" tvg-id="QPTV35" tvc-guide-stationid="32421",QPTV35
+http://example.local/USA-QPTV35.ts
+#EXTINF:-1 tvg-chno="32422" tvg-name="QPTV56" group-title="United States" tvg-id="QPTV56" tvc-guide-stationid="32422",QPTV56
+http://example.local/USA-QPTV56.ts
+#EXTINF:-1 tvg-chno="32418" tvg-name="QPTV57 Queens Public Television" group-title="United States" tvg-id="QPTV57" tvc-guide-stationid="32418",QPTV57 Queens Public Television
+http://example.local/USA-QPTV57.ts
 #EXTINF:-1 tvg-chno="49689" tvg-name="QTV Pakistan" tvg-logo="https://zap2it.tmsimg.com/assets/s49689_ll_h15_aa.png" group-title="United States" tvg-id="QTVPAK" tvc-guide-stationid="49689",QTV Pakistan
 http://example.local/USA-QTVPAK.ts
 #EXTINF:-1 tvg-chno="100750" tvg-name="Quad Cities Community TV" group-title="United States" tvg-id="QCTV" tvc-guide-stationid="100750",Quad Cities Community TV
@@ -1013,9 +1019,3 @@ http://example.local/USA-SHO2HD.ts
 http://example.local/USA-SHO2PHD.ts
 #EXTINF:-1 tvg-chno="102950" tvg-name="SHO 2 HD (Pacific) Stream" group-title="United States" tvg-id="S2PHSTR" tvc-guide-stationid="102950",SHO 2 HD (Pacific) Stream
 http://example.local/USA-S2PHSTR.ts
-#EXTINF:-1 tvg-chno="102958" tvg-name="SHO 2 HD Stream" group-title="United States" tvg-id="SHO2HST" tvc-guide-stationid="102958",SHO 2 HD Stream
-http://example.local/USA-SHO2HST.ts
-#EXTINF:-1 tvg-chno="91620" tvg-name="Sho Stream" tvg-logo="https://zap2it.tmsimg.com/assets/s11115_ll_h15_ad.png" group-title="United States" tvg-id="SHOWSTR" tvc-guide-stationid="91620",Sho Stream
-http://example.local/USA-SHOWSTR.ts
-#EXTINF:-1 tvg-chno="91621" tvg-name="Sho Stream (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s11115_ll_h15_ad.png" group-title="United States" tvg-id="SHOWSTP" tvc-guide-stationid="91621",Sho Stream (Pacific)
-http://example.local/USA-SHOWSTP.ts

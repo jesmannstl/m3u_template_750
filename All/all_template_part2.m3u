@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="115230" tvg-name="80s" group-title="Germany" tvg-id="80RAD" tvc-guide-stationid="115230",80s
+http://example.local/DEU-80RAD.ts
+#EXTINF:-1 tvg-chno="43219" tvg-name="80s on 8" group-title="United States" tvg-id="SRBG80S" tvc-guide-stationid="43219",80s on 8
+http://example.local/USA-SRBG80S.ts
+#EXTINF:-1 tvg-chno="124634" tvg-name="80s Sitcoms" tvg-logo="https://zap2it.tmsimg.com/assets/s124634_ll_h15_ab.png" group-title="United States" tvg-id="PPLUS80SC" tvc-guide-stationid="124634",80s Sitcoms
+http://example.local/USA-PPLUS80SC.ts
+#EXTINF:-1 tvg-chno="113816" tvg-name="80s80s" tvg-logo="https://zap2it.tmsimg.com/assets/s113816_ll_h9_aa.png" group-title="Germany" tvg-id="80S80S" tvc-guide-stationid="113816",80s80s
+http://example.local/DEU-80S80S.ts
+#EXTINF:-1 tvg-chno="78649" tvg-name="88 Films" group-title="United States" tvg-id="88FILMS" tvc-guide-stationid="78649",88 Films
+http://example.local/USA-88FILMS.ts
+#EXTINF:-1 tvg-chno="78651" tvg-name="88 TV" group-title="United States" tvg-id="88TV" tvc-guide-stationid="78651",88 TV
+http://example.local/USA-88TV.ts
+#EXTINF:-1 tvg-chno="107149" tvg-name="89.0 RTL" tvg-logo="https://zap2it.tmsimg.com/assets/s107149_ll_h15_ab.png" group-title="Germany" tvg-id="890RTL" tvc-guide-stationid="107149",89.0 RTL
+http://example.local/DEU-890RTL.ts
+#EXTINF:-1 tvg-chno="107989" tvg-name="89.2 Radio Potsdam" tvg-logo="https://zap2it.tmsimg.com/assets/s107989_ll_h9_aa.png" group-title="Germany" tvg-id="892POTS" tvc-guide-stationid="107989",89.2 Radio Potsdam
+http://example.local/DEU-892POTS.ts
+#EXTINF:-1 tvg-chno="89285" tvg-name="8Al Resalah" group-title="Canada" tvg-id="ALRSL" tvc-guide-stationid="89285",8Al Resalah
+http://example.local/CAN-ALRSL.ts
+#EXTINF:-1 tvg-chno="104691" tvg-name="9 Albury (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104691_ll_h9_ab.png" group-title="Australia" tvg-id="WALWANZ" tvc-guide-stationid="104691",9 Albury (NINE)
+http://example.local/AUS-WALWANZ.ts
+#EXTINF:-1 tvg-chno="104692" tvg-name="9 Griffith (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104692_ll_h9_ab.png" group-title="Australia" tvg-id="WGRIANZ" tvc-guide-stationid="104692",9 Griffith (NINE)
+http://example.local/AUS-WGRIANZ.ts
 #EXTINF:-1 tvg-chno="109796" tvg-name="9 Life SA (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s109796_ll_h9_ac.png" group-title="Australia" tvg-id="ANZYSA" tvc-guide-stationid="109796",9 Life SA (NINE)
 http://example.local/AUS-ANZYSA.ts
 #EXTINF:-1 tvg-chno="104696" tvg-name="9 Mackay (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104696_ll_h9_ab.png" group-title="Australia" tvg-id="WMWANZ" tvc-guide-stationid="104696",9 Mackay (NINE)
@@ -123,18 +145,26 @@ http://example.local/AUS-WN1WANZ.ts
 http://example.local/AUS-WPGANZ.ts
 #EXTINF:-1 tvg-chno="104599" tvg-name="9Go! Adelaide (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104599_ll_h9_ab.png" group-title="Australia" tvg-id="9GADANZ" tvc-guide-stationid="104599",9Go! Adelaide (NINE)
 http://example.local/AUS-9GADANZ.ts
+#EXTINF:-1 tvg-chno="196460" tvg-name="9Go! Adelaide HD (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s111755_ll_h9_ab.png" group-title="Australia" tvg-id="9GADHD" tvc-guide-stationid="196460",9Go! Adelaide HD (NINE)
+http://example.local/AUS-9GADHD.ts
 #EXTINF:-1 tvg-chno="104600" tvg-name="9Go! Brisbane (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104600_ll_h9_ab.png" group-title="Australia" tvg-id="9GBRANZ" tvc-guide-stationid="104600",9Go! Brisbane (NINE)
 http://example.local/AUS-9GBRANZ.ts
+#EXTINF:-1 tvg-chno="196461" tvg-name="9Go! Brisbane HD (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s111755_ll_h9_ab.png" group-title="Australia" tvg-id="9GBRHD" tvc-guide-stationid="196461",9Go! Brisbane HD (NINE)
+http://example.local/AUS-9GBRHD.ts
 #EXTINF:-1 tvg-chno="115794" tvg-name="9Go! Central Coast (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s115794_ll_h9_ab.png" group-title="Australia" tvg-id="9GCCANZ" tvc-guide-stationid="115794",9Go! Central Coast (NINE)
 http://example.local/AUS-9GCCANZ.ts
 #EXTINF:-1 tvg-chno="104601" tvg-name="9Go! Darwin (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104601_ll_h9_ab.png" group-title="Australia" tvg-id="9GDAANZ" tvc-guide-stationid="104601",9Go! Darwin (NINE)
 http://example.local/AUS-9GDAANZ.ts
+#EXTINF:-1 tvg-chno="196459" tvg-name="9Go! Darwin HD (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s111755_ll_h9_ab.png" group-title="Australia" tvg-id="9GDAHD" tvc-guide-stationid="196459",9Go! Darwin HD (NINE)
+http://example.local/AUS-9GDAHD.ts
 #EXTINF:-1 tvg-chno="115796" tvg-name="9Go! Gold Coast (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s115796_ll_h9_ab.png" group-title="Australia" tvg-id="9GGCANZ" tvc-guide-stationid="115796",9Go! Gold Coast (NINE)
 http://example.local/AUS-9GGCANZ.ts
 #EXTINF:-1 tvg-chno="104722" tvg-name="9Go! Mackay (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104722_ll_h9_ac.png" group-title="Australia" tvg-id="WEQDANZ" tvc-guide-stationid="104722",9Go! Mackay (NINE)
 http://example.local/AUS-WEQDANZ.ts
 #EXTINF:-1 tvg-chno="104602" tvg-name="9Go! Melbourne (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104602_ll_h15_ab.png" group-title="Australia" tvg-id="9GMLANZ" tvc-guide-stationid="104602",9Go! Melbourne (NINE)
 http://example.local/AUS-9GMLANZ.ts
+#EXTINF:-1 tvg-chno="196462" tvg-name="9Go! Melbourne HD (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s111755_ll_h9_ab.png" group-title="Australia" tvg-id="9GMLHD" tvc-guide-stationid="196462",9Go! Melbourne HD (NINE)
+http://example.local/AUS-9GMLHD.ts
 #EXTINF:-1 tvg-chno="104721" tvg-name="9Go! NSW (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104721_ll_h9_ac.png" group-title="Australia" tvg-id="WENSANZ" tvc-guide-stationid="104721",9Go! NSW (NINE)
 http://example.local/AUS-WENSANZ.ts
 #EXTINF:-1 tvg-chno="111759" tvg-name="9Go! NSW (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s111759_ll_h9_ab.png" group-title="Australia" tvg-id="WPOWANZ" tvc-guide-stationid="111759",9Go! NSW (NINE)
@@ -147,6 +177,8 @@ http://example.local/AUS-SGSAANZ.ts
 http://example.local/AUS-WESEANZ.ts
 #EXTINF:-1 tvg-chno="104603" tvg-name="9Go! Sydney (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104603_ll_h9_ab.png" group-title="Australia" tvg-id="9GSYANZ" tvc-guide-stationid="104603",9Go! Sydney (NINE)
 http://example.local/AUS-9GSYANZ.ts
+#EXTINF:-1 tvg-chno="196463" tvg-name="9Go! Sydney HD (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s111755_ll_h9_ab.png" group-title="Australia" tvg-id="9GSYHD" tvc-guide-stationid="196463",9Go! Sydney HD (NINE)
+http://example.local/AUS-9GSYHD.ts
 #EXTINF:-1 tvg-chno="104724" tvg-name="9Go! TAS (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104724_ll_h9_ad.png" group-title="Australia" tvg-id="WETAANZ" tvc-guide-stationid="104724",9Go! TAS (NINE)
 http://example.local/AUS-WETAANZ.ts
 #EXTINF:-1 tvg-chno="104725" tvg-name="9Go! VIC (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104725_ll_h9_ac.png" group-title="Australia" tvg-id="WEVIANZ" tvc-guide-stationid="104725",9Go! VIC (NINE)
@@ -155,6 +187,8 @@ http://example.local/AUS-WEVIANZ.ts
 http://example.local/AUS-9GWAANZ.ts
 #EXTINF:-1 tvg-chno="104726" tvg-name="9Go! WA (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104726_h3_ba.png" group-title="Australia" tvg-id="WEWAANZ" tvc-guide-stationid="104726",9Go! WA (NINE)
 http://example.local/AUS-WEWAANZ.ts
+#EXTINF:-1 tvg-chno="196464" tvg-name="9Go! WA HD (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s111755_ll_h9_ab.png" group-title="Australia" tvg-id="9GWAHD" tvc-guide-stationid="196464",9Go! WA HD (NINE)
+http://example.local/AUS-9GWAHD.ts
 #EXTINF:-1 tvg-chno="104256" tvg-name="9HD Adelaide (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104256_ll_h9_ab.png" group-title="Australia" tvg-id="9HADANZ" tvc-guide-stationid="104256",9HD Adelaide (NINE)
 http://example.local/AUS-9HADANZ.ts
 #EXTINF:-1 tvg-chno="114946" tvg-name="9HD Albury (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s114946_ll_h9_ac.png" group-title="Australia" tvg-id="WHAWANZ" tvc-guide-stationid="114946",9HD Albury (NINE)
@@ -271,6 +305,8 @@ http://example.local/TTO-AWE.ts
 http://example.local/ABW-AWE.ts
 #EXTINF:-1 tvg-chno="44895" tvg-name="A Wealth of Entertainment" tvg-logo="https://zap2it.tmsimg.com/assets/s44895_ll_h15_aa.png" group-title="Bahamas" tvg-id="AWE" tvc-guide-stationid="44895",A Wealth of Entertainment
 http://example.local/BHS-AWE.ts
+#EXTINF:-1 tvg-chno="44895" tvg-name="A Wealth of Entertainment" tvg-logo="https://zap2it.tmsimg.com/assets/s44895_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="AWE" tvc-guide-stationid="44895",A Wealth of Entertainment
+http://example.local/PRI-AWE.ts
 #EXTINF:-1 tvg-chno="45438" tvg-name="A Wealth of Entertainment HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45438_ll_h15_aa.png" group-title="United States" tvg-id="AWEHD" tvc-guide-stationid="45438",A Wealth of Entertainment HD
 http://example.local/USA-AWEHD.ts
 #EXTINF:-1 tvg-chno="45438" tvg-name="A Wealth of Entertainment HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45438_ll_h15_aa.png" group-title="Jamaica" tvg-id="AWEHD" tvc-guide-stationid="45438",A Wealth of Entertainment HD
@@ -439,6 +475,12 @@ http://example.local/CUW-AEMX.ts
 http://example.local/CUW-AETV.ts
 #EXTINF:-1 tvg-chno="87004" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_h3_aa.png" group-title="Curacao" tvg-id="AEMXHD" tvc-guide-stationid="87004",A&E
 http://example.local/CUW-AEMXHD.ts
+#EXTINF:-1 tvg-chno="10035" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="AETV" tvc-guide-stationid="10035",A&E
+http://example.local/PRI-AETV.ts
+#EXTINF:-1 tvg-chno="87004" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_h3_aa.png" group-title="Puerto Rico" tvg-id="AEMXHD" tvc-guide-stationid="87004",A&E
+http://example.local/PRI-AEMXHD.ts
+#EXTINF:-1 tvg-chno="18955" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="AEMX" tvc-guide-stationid="18955",A&E
+http://example.local/PRI-AEMX.ts
 #EXTINF:-1 tvg-chno="21760" tvg-name="A&E (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s21760_ll_h15_aa.png" group-title="United States" tvg-id="AETVP" tvc-guide-stationid="21760",A&E (Pacific)
 http://example.local/USA-AETVP.ts
 #EXTINF:-1 tvg-chno="10036" tvg-name="A&E Canada" tvg-logo="https://zap2it.tmsimg.com/assets/s10036_ll_h15_aa.png" group-title="Canada" tvg-id="ARTSC" tvc-guide-stationid="10036",A&E Canada
@@ -463,6 +505,8 @@ http://example.local/JAM-AETVHD.ts
 http://example.local/CYM-AETVHD.ts
 #EXTINF:-1 tvg-chno="51529" tvg-name="A&E HD East" tvg-logo="https://zap2it.tmsimg.com/assets/s51529_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="AETVHD" tvc-guide-stationid="51529",A&E HD East
 http://example.local/TTO-AETVHD.ts
+#EXTINF:-1 tvg-chno="51529" tvg-name="A&E HD East" tvg-logo="https://zap2it.tmsimg.com/assets/s51529_h3_ba.png" group-title="Puerto Rico" tvg-id="AETVHD" tvc-guide-stationid="51529",A&E HD East
+http://example.local/PRI-AETVHD.ts
 #EXTINF:-1 tvg-chno="117780" tvg-name="A&E HD PERRY AD" group-title="United States" tvg-id="AEHDPA" tvc-guide-stationid="117780",A&E HD PERRY AD
 http://example.local/USA-AEHDPA.ts
 #EXTINF:-1 tvg-chno="92258" tvg-name="A&E Network Stream" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="United States" tvg-id="AESTR" tvc-guide-stationid="92258",A&E Network Stream
@@ -499,10 +543,14 @@ http://example.local/PAN-AENORH.ts
 http://example.local/URY-AENORH.ts
 #EXTINF:-1 tvg-chno="159475" tvg-name="A&E North HD" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="Belize" tvg-id="AENORH" tvc-guide-stationid="159475",A&E North HD
 http://example.local/BLZ-AENORH.ts
+#EXTINF:-1 tvg-chno="159475" tvg-name="A&E North HD" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="AENORH" tvc-guide-stationid="159475",A&E North HD
+http://example.local/PRI-AENORH.ts
 #EXTINF:-1 tvg-chno="38584" tvg-name="A&E On Demand" group-title="United States" tvg-id="AANDEDM" tvc-guide-stationid="38584",A&E On Demand
 http://example.local/USA-AANDEDM.ts
 #EXTINF:-1 tvg-chno="31764" tvg-name="A&E On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s31764_ll_h15_ab.png" group-title="United States" tvg-id="AEDM" tvc-guide-stationid="31764",A&E On Demand
 http://example.local/USA-AEDM.ts
+#EXTINF:-1 tvg-chno="159469" tvg-name="A&E SOUTH" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="Mexico" tvg-id="AESOU" tvc-guide-stationid="159469",A&E SOUTH
+http://example.local/MEX-AESOU.ts
 #EXTINF:-1 tvg-chno="101373" tvg-name="A+ (AMNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116157_ll_h15_ab.png" group-title="Mexico" tvg-id="XHIMTTDT2" tvc-guide-stationid="101373",A+ (AMNET)
 http://example.local/MEX-XHIMTTDT2.ts
 #EXTINF:-1 tvg-chno="116305" tvg-name="A+" tvg-logo="https://zap2it.tmsimg.com/assets/s116305_ll_h15_aa.png" group-title="France" tvg-id="APLUSBE" tvc-guide-stationid="116305",A+
@@ -639,6 +687,8 @@ http://example.local/ABW-ABCDT.ts
 http://example.local/BLZ-ABCDT.ts
 #EXTINF:-1 tvg-chno="28708" tvg-name="ABC Digital Feed (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28708_ll_h15_ac.png" group-title="Curacao" tvg-id="ABCDT" tvc-guide-stationid="28708",ABC Digital Feed (ABC)
 http://example.local/CUW-ABCDT.ts
+#EXTINF:-1 tvg-chno="28708" tvg-name="ABC Digital Feed (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28708_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="ABCDT" tvc-guide-stationid="28708",ABC Digital Feed (ABC)
+http://example.local/PRI-ABCDT.ts
 #EXTINF:-1 tvg-chno="104095" tvg-name="ABC Entertains NSW (ABCTN)" tvg-logo="https://zap2it.tmsimg.com/assets/s104095_ll_h15_aa.png" group-title="Australia" tvg-id="AMENANZ" tvc-guide-stationid="104095",ABC Entertains NSW (ABCTN)
 http://example.local/AUS-AMENANZ.ts
 #EXTINF:-1 tvg-chno="104096" tvg-name="ABC Entertains NT (ABCTN)" tvg-logo="https://zap2it.tmsimg.com/assets/s104096_ll_h15_aa.png" group-title="Australia" tvg-id="AMNTANZ" tvc-guide-stationid="104096",ABC Entertains NT (ABCTN)
@@ -937,9 +987,9 @@ http://example.local/CUW-ACUWTHR.ts
 http://example.local/USA-ACUWTHH.ts
 #EXTINF:-1 tvg-chno="120551" tvg-name="AccuWeather NOW" tvg-logo="https://zap2it.tmsimg.com/assets/s120551_ll_h15_ab.png" group-title="United States" tvg-id="ACUWNW" tvc-guide-stationid="120551",AccuWeather NOW
 http://example.local/USA-ACUWNW.ts
-#EXTINF:-1 tvg-chno="95570" tvg-name="Accuweather VZ NY" tvg-logo="https://zap2it.tmsimg.com/assets/s56193_ll_h15_ab.png" group-title="United States" tvg-id="ACWVNY" tvc-guide-stationid="95570",Accuweather VZ NY
+#EXTINF:-1 tvg-chno="95570" tvg-name="AccuWeather VZ NY" tvg-logo="https://zap2it.tmsimg.com/assets/s56193_ll_h15_ab.png" group-title="United States" tvg-id="ACWVNY" tvc-guide-stationid="95570",AccuWeather VZ NY
 http://example.local/USA-ACWVNY.ts
-#EXTINF:-1 tvg-chno="102910" tvg-name="Accuweather VZ NY HD" tvg-logo="https://zap2it.tmsimg.com/assets/s56193_ll_h15_ab.png" group-title="United States" tvg-id="AWNYHD" tvc-guide-stationid="102910",Accuweather VZ NY HD
+#EXTINF:-1 tvg-chno="102910" tvg-name="AccuWeather VZ NY HD" tvg-logo="https://zap2it.tmsimg.com/assets/s56193_h3_ba.png" group-title="United States" tvg-id="AWNYHD" tvc-guide-stationid="102910",AccuWeather VZ NY HD
 http://example.local/USA-AWNYHD.ts
 #EXTINF:-1 tvg-chno="49170" tvg-name="ACE TV" group-title="United States" tvg-id="ACETV" tvc-guide-stationid="49170",ACE TV
 http://example.local/USA-ACETV.ts
@@ -959,6 +1009,8 @@ http://example.local/ITA-ACISPITA.ts
 http://example.local/POL-ACISPITA.ts
 #EXTINF:-1 tvg-chno="123646" tvg-name="ACI Sport TV" tvg-logo="https://zap2it.tmsimg.com/assets/s123646_ll_h9_aa.png" group-title="Belgium" tvg-id="ACISPITA" tvc-guide-stationid="123646",ACI Sport TV
 http://example.local/BEL-ACISPITA.ts
+#EXTINF:-1 tvg-chno="125196" tvg-name="ACL Cornhole TV" tvg-logo="https://zap2it.tmsimg.com/assets/s125196_ll_h15_aa.png" group-title="Italy" tvg-id="CRNHOLE" tvc-guide-stationid="125196",ACL Cornhole TV
+http://example.local/ITA-CRNHOLE.ts
 #EXTINF:-1 tvg-chno="125196" tvg-name="ACL Cornhole TV" tvg-logo="https://zap2it.tmsimg.com/assets/s125196_ll_h15_aa.png" group-title="United States" tvg-id="CRNHOLE" tvc-guide-stationid="125196",ACL Cornhole TV
 http://example.local/USA-CRNHOLE.ts
 #EXTINF:-1 tvg-chno="125196" tvg-name="ACL Cornhole TV" tvg-logo="https://zap2it.tmsimg.com/assets/s125196_ll_h15_aa.png" group-title="Canada" tvg-id="CRNHOLE" tvc-guide-stationid="125196",ACL Cornhole TV
@@ -967,55 +1019,3 @@ http://example.local/CAN-CRNHOLE.ts
 http://example.local/USA-ACMEDA.ts
 #EXTINF:-1 tvg-chno="95543" tvg-name="ACM Local Origination" group-title="United States" tvg-id="ACMO" tvc-guide-stationid="95543",ACM Local Origination
 http://example.local/USA-ACMO.ts
-#EXTINF:-1 tvg-chno="124180" tvg-name="ACM Local Origination HD" group-title="United States" tvg-id="ACMOHD" tvc-guide-stationid="124180",ACM Local Origination HD
-http://example.local/USA-ACMOHD.ts
-#EXTINF:-1 tvg-chno="114215" tvg-name="ACM One ABQ Media" group-title="United States" tvg-id="ACM1" tvc-guide-stationid="114215",ACM One ABQ Media
-http://example.local/USA-ACM1.ts
-#EXTINF:-1 tvg-chno="114214" tvg-name="ACM One ABQ Media HD" group-title="United States" tvg-id="ACM1HD" tvc-guide-stationid="114214",ACM One ABQ Media HD
-http://example.local/USA-ACM1HD.ts
-#EXTINF:-1 tvg-chno="95533" tvg-name="ACM Public Access" group-title="United States" tvg-id="ACMPA" tvc-guide-stationid="95533",ACM Public Access
-http://example.local/USA-ACMPA.ts
-#EXTINF:-1 tvg-chno="114628" tvg-name="ACM Public Access HD" group-title="United States" tvg-id="ACMPAHD" tvc-guide-stationid="114628",ACM Public Access HD
-http://example.local/USA-ACMPAHD.ts
-#EXTINF:-1 tvg-chno="152097" tvg-name="acontra+ CINE" tvg-logo="https://zap2it.tmsimg.com/assets/s152097_ll_h9_aa.png" group-title="Spain" tvg-id="ACOCINE" tvc-guide-stationid="152097",acontra+ CINE
-http://example.local/ESP-ACOCINE.ts
-#EXTINF:-1 tvg-chno="180558" tvg-name="Acorn TV Mysteries" tvg-logo="https://zap2it.tmsimg.com/assets/s180558_ll_h15_aa.png" group-title="United States" tvg-id="ACNMYST" tvc-guide-stationid="180558",Acorn TV Mysteries
-http://example.local/USA-ACNMYST.ts
-#EXTINF:-1 tvg-chno="87191" tvg-name="Action" tvg-logo="https://zap2it.tmsimg.com/assets/s87191_ll_h15_aa.png" group-title="Switzerland" tvg-id="ACTIONF" tvc-guide-stationid="87191",Action
-http://example.local/CHE-ACTIONF.ts
-#EXTINF:-1 tvg-chno="87191" tvg-name="Action" tvg-logo="https://zap2it.tmsimg.com/assets/s87191_ll_h15_aa.png" group-title="Germany" tvg-id="ACTIONF" tvc-guide-stationid="87191",Action
-http://example.local/DEU-ACTIONF.ts
-#EXTINF:-1 tvg-chno="87191" tvg-name="Action" tvg-logo="https://zap2it.tmsimg.com/assets/s87191_ll_h15_aa.png" group-title="Belgium" tvg-id="ACTIONF" tvc-guide-stationid="87191",Action
-http://example.local/BEL-ACTIONF.ts
-#EXTINF:-1 tvg-chno="100340" tvg-name="Action Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s100340_h3_aa.png" group-title="United States" tvg-id="ACTION" tvc-guide-stationid="100340",Action Channel
-http://example.local/USA-ACTION.ts
-#EXTINF:-1 tvg-chno="90453" tvg-name="Action HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90453_ll_h15_aa.png" group-title="Switzerland" tvg-id="ACTFHD" tvc-guide-stationid="90453",Action HD
-http://example.local/CHE-ACTFHD.ts
-#EXTINF:-1 tvg-chno="90453" tvg-name="Action HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90453_ll_h15_aa.png" group-title="France" tvg-id="ACTFHD" tvc-guide-stationid="90453",Action HD
-http://example.local/FRA-ACTFHD.ts
-#EXTINF:-1 tvg-chno="90453" tvg-name="Action HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90453_ll_h15_aa.png" group-title="Belgium" tvg-id="ACTFHD" tvc-guide-stationid="90453",Action HD
-http://example.local/BEL-ACTFHD.ts
-#EXTINF:-1 tvg-chno="124637" tvg-name="Action Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s124637_ll_h9_aa.png" group-title="United States" tvg-id="PPLUSACTM" tvc-guide-stationid="124637",Action Movies
-http://example.local/USA-PPLUSACTM.ts
-#EXTINF:-1 tvg-chno="55454" tvg-name="Action Movies On Demand" group-title="United States" tvg-id="ATNMVDM" tvc-guide-stationid="55454",Action Movies On Demand
-http://example.local/USA-ATNMVDM.ts
-#EXTINF:-1 tvg-chno="127883" tvg-name="Action News Jax" tvg-logo="https://zap2it.tmsimg.com/assets/s127883_ll_h15_aa.png" group-title="United States" tvg-id="WJAXSTR" tvc-guide-stationid="127883",Action News Jax
-http://example.local/USA-WJAXSTR.ts
-#EXTINF:-1 tvg-chno="124606" tvg-name="ACTION!" group-title="United States" tvg-id="VIZCKBK" tvc-guide-stationid="124606",ACTION!
-http://example.local/USA-VIZCKBK.ts
-#EXTINF:-1 tvg-chno="103086" tvg-name="Action+2" tvg-logo="https://zap2it.tmsimg.com/assets/s103086_ll_h15_aa.png" group-title="Australia" tvg-id="ACT2ANZ" tvc-guide-stationid="103086",Action+2
-http://example.local/AUS-ACT2ANZ.ts
-#EXTINF:-1 tvg-chno="118666" tvg-name="Active Family HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118666_ll_h15_aa.png" group-title="Poland" tvg-id="ACFAMHD" tvc-guide-stationid="118666",Active Family HD
-http://example.local/POL-ACFAMHD.ts
-#EXTINF:-1 tvg-chno="10009" tvg-name="ACTS" group-title="Trinidad and Tobago" tvg-id="ACTS" tvc-guide-stationid="10009",ACTS
-http://example.local/TTO-ACTS.ts
-#EXTINF:-1 tvg-chno="78583" tvg-name="ACTS25" group-title="Trinidad and Tobago" tvg-id="ACTS25" tvc-guide-stationid="78583",ACTS25
-http://example.local/TTO-ACTS25.ts
-#EXTINF:-1 tvg-chno="169992" tvg-name="ACTV" group-title="Colombia" tvg-id="ACTVCOL" tvc-guide-stationid="169992",ACTV
-http://example.local/COL-ACTVCOL.ts
-#EXTINF:-1 tvg-chno="105654" tvg-name="ACUSTIK TV" group-title="Mexico" tvg-id="ACUSTIK" tvc-guide-stationid="105654",ACUSTIK TV
-http://example.local/MEX-ACUSTIK.ts
-#EXTINF:-1 tvg-chno="23777" tvg-name="Ad Channel (Static) - ADCH001" group-title="United States" tvg-id="ADCH001" tvc-guide-stationid="23777",Ad Channel (Static) - ADCH001
-http://example.local/USA-ADCH001.ts
-#EXTINF:-1 tvg-chno="23778" tvg-name="Ad Channel (Static) - ADCH002" group-title="United States" tvg-id="ADCH002" tvc-guide-stationid="23778",Ad Channel (Static) - ADCH002
-http://example.local/USA-ADCH002.ts

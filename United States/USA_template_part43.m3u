@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="54242" tvg-name="Spectrum Traffic SD" tvg-logo="https://zap2it.tmsimg.com/assets/s54242_ll_h9_aa.png" group-title="United States" tvg-id="SPCRADA" tvc-guide-stationid="54242",Spectrum Traffic SD
+http://example.local/USA-SPCRADA.ts
+#EXTINF:-1 tvg-chno="29613" tvg-name="Spectrum Weather" group-title="United States" tvg-id="SPCWTHR" tvc-guide-stationid="29613",Spectrum Weather
+http://example.local/USA-SPCWTHR.ts
+#EXTINF:-1 tvg-chno="90154" tvg-name="Spectrum XCast 2" tvg-logo="https://zap2it.tmsimg.com/assets/s90154_ll_h15_aa.png" group-title="United States" tvg-id="XCAST2" tvc-guide-stationid="90154",Spectrum XCast 2
+http://example.local/USA-XCAST2.ts
 #EXTINF:-1 tvg-chno="97859" tvg-name="Spectrum XCast 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97859_ll_h15_aa.png" group-title="United States" tvg-id="XCST2HD" tvc-guide-stationid="97859",Spectrum XCast 2 HD
 http://example.local/USA-XCST2HD.ts
 #EXTINF:-1 tvg-chno="97844" tvg-name="Spectrum XCast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97844_ll_h15_aa.png" group-title="United States" tvg-id="SPCXC" tvc-guide-stationid="97844",Spectrum XCast HD
@@ -1013,9 +1019,3 @@ http://example.local/USA-SNYDER.ts
 http://example.local/USA-SUDLKDM.ts
 #EXTINF:-1 tvg-chno="95524" tvg-name="Summit County Television" group-title="United States" tvg-id="SUMIT10" tvc-guide-stationid="95524",Summit County Television
 http://example.local/USA-SUMIT10.ts
-#EXTINF:-1 tvg-chno="101158" tvg-name="Summit County Television HD" group-title="United States" tvg-id="SCTVHD" tvc-guide-stationid="101158",Summit County Television HD
-http://example.local/USA-SCTVHD.ts
-#EXTINF:-1 tvg-chno="97333" tvg-name="Sun Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60329_ll_h15_aa.png" group-title="United States" tvg-id="SUNCHHD" tvc-guide-stationid="97333",Sun Channel HD
-http://example.local/USA-SUNCHHD.ts
-#EXTINF:-1 tvg-chno="74637" tvg-name="Sun Music TV" group-title="United States" tvg-id="SUNMTV" tvc-guide-stationid="74637",Sun Music TV
-http://example.local/USA-SUNMTV.ts

@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="46915" tvg-name="Playboy On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s46915_ll_h15_aa.png" group-title="United States" tvg-id="PLAYOD" tvc-guide-stationid="46915",Playboy On Demand
+http://example.local/USA-PLAYOD.ts
+#EXTINF:-1 tvg-chno="68537" tvg-name="Playboy Premium" tvg-logo="https://zap2it.tmsimg.com/assets/s14075_ll_h15_aa.png" group-title="United States" tvg-id="PLYBPRM" tvc-guide-stationid="68537",Playboy Premium
+http://example.local/USA-PLYBPRM.ts
+#EXTINF:-1 tvg-chno="76898" tvg-name="Playboy Premium HD" tvg-logo="https://zap2it.tmsimg.com/assets/s76898_ll_h15_aa.png" group-title="United States" tvg-id="PLYPRMH" tvc-guide-stationid="76898",Playboy Premium HD
+http://example.local/USA-PLYPRMH.ts
 #EXTINF:-1 tvg-chno="91307" tvg-name="Playboy Premium SD" tvg-logo="https://zap2it.tmsimg.com/assets/s91307_ll_h15_aa.png" group-title="United States" tvg-id="PLYPRM" tvc-guide-stationid="91307",Playboy Premium SD
 http://example.local/USA-PLYPRM.ts
 #EXTINF:-1 tvg-chno="102207" tvg-name="Playboy Premium SD (Mountain Non-Obs)" tvg-logo="https://zap2it.tmsimg.com/assets/s91307_ll_h15_aa.png" group-title="United States" tvg-id="PLYPRMM" tvc-guide-stationid="102207",Playboy Premium SD (Mountain Non-Obs)
@@ -1013,9 +1019,3 @@ http://example.local/USA-SQELEUE.ts
 http://example.local/USA-VIZQELL.ts
 #EXTINF:-1 tvg-chno="32419" tvg-name="QPTV34" group-title="United States" tvg-id="QPTV34" tvc-guide-stationid="32419",QPTV34
 http://example.local/USA-QPTV34.ts
-#EXTINF:-1 tvg-chno="32421" tvg-name="QPTV35" group-title="United States" tvg-id="QPTV35" tvc-guide-stationid="32421",QPTV35
-http://example.local/USA-QPTV35.ts
-#EXTINF:-1 tvg-chno="32422" tvg-name="QPTV56" group-title="United States" tvg-id="QPTV56" tvc-guide-stationid="32422",QPTV56
-http://example.local/USA-QPTV56.ts
-#EXTINF:-1 tvg-chno="32418" tvg-name="QPTV57 Queens Public Television" group-title="United States" tvg-id="QPTV57" tvc-guide-stationid="32418",QPTV57 Queens Public Television
-http://example.local/USA-QPTV57.ts

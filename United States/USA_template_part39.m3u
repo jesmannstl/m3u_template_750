@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="93413" tvg-name="NKTelco News" group-title="United States" tvg-id="NKTELCO" tvc-guide-stationid="93413",NKTelco News
+http://example.local/USA-NKTELCO.ts
+#EXTINF:-1 tvg-chno="73426" tvg-name="Noire Africa TV" tvg-logo="https://zap2it.tmsimg.com/assets/s73426_ll_h6_aa.png" group-title="United States" tvg-id="NORAFTV" tvc-guide-stationid="73426",Noire Africa TV
+http://example.local/USA-NORAFTV.ts
+#EXTINF:-1 tvg-chno="151830" tvg-name="Non-Stop '90s" tvg-logo="https://zap2it.tmsimg.com/assets/s151830_ll_h9_aa.png" group-title="United States" tvg-id="NS90S" tvc-guide-stationid="151830",Non-Stop '90s
+http://example.local/USA-NS90S.ts
 #EXTINF:-1 tvg-chno="71928" tvg-name="North Central Telephone Channel 15" group-title="United States" tvg-id="NCTV15" tvc-guide-stationid="71928",North Central Telephone Channel 15
 http://example.local/USA-NCTV15.ts
 #EXTINF:-1 tvg-chno="86794" tvg-name="North Central Telephone Channel 6" group-title="United States" tvg-id="NCTV06" tvc-guide-stationid="86794",North Central Telephone Channel 6
@@ -73,7 +79,7 @@ http://example.local/USA-NOVORO.ts
 http://example.local/USA-NOVROM.ts
 #EXTINF:-1 tvg-chno="123907" tvg-name="Novelas en Familia" tvg-logo="https://zap2it.tmsimg.com/assets/s123907_ll_h15_ab.png" group-title="United States" tvg-id="NOVFAM" tvc-guide-stationid="123907",Novelas en Familia
 http://example.local/USA-NOVFAM.ts
-#EXTINF:-1 tvg-chno="120979" tvg-name="Novelisima" tvg-logo="https://zap2it.tmsimg.com/assets/s120979_ll_h15_aa.png" group-title="United States" tvg-id="NOVELIS" tvc-guide-stationid="120979",Novelisima
+#EXTINF:-1 tvg-chno="120979" tvg-name="Novelisima" tvg-logo="https://zap2it.tmsimg.com/assets/s120979_h3_aa.png" group-title="United States" tvg-id="NOVELIS" tvc-guide-stationid="120979",Novelisima
 http://example.local/USA-NOVELIS.ts
 #EXTINF:-1 tvg-chno="81308" tvg-name="now HaiRun" group-title="United States" tvg-id="NOWHAI" tvc-guide-stationid="81308",now HaiRun
 http://example.local/USA-NOWHAI.ts
@@ -131,7 +137,7 @@ http://example.local/USA-NYCTV73.ts
 http://example.local/USA-DISNYB.ts
 #EXTINF:-1 tvg-chno="82421" tvg-name="O Kanal" group-title="United States" tvg-id="TVBN" tvc-guide-stationid="82421",O Kanal
 http://example.local/USA-TVBN.ts
-#EXTINF:-1 tvg-chno="31914" tvg-name="Oakland Ch.66 PPV3/EWTN/TBN/Access (TBN)" tvg-logo="https://zap2it.tmsimg.com/assets/s14767_ll_h15_ad.png" group-title="United States" tvg-id="EWTBNJ" tvc-guide-stationid="31914",Oakland Ch.66 PPV3/EWTN/TBN/Access (TBN)
+#EXTINF:-1 tvg-chno="31914" tvg-name="Oakland Ch.66 PPV3/EWTN/TBN/Access (TBN)" tvg-logo="https://zap2it.tmsimg.com/assets/s14767_h3_aa.png" group-title="United States" tvg-id="EWTBNJ" tvc-guide-stationid="31914",Oakland Ch.66 PPV3/EWTN/TBN/Access (TBN)
 http://example.local/USA-EWTBNJ.ts
 #EXTINF:-1 tvg-chno="107055" tvg-name="Oakland Educational Access" group-title="United States" tvg-id="OAKLEDU" tvc-guide-stationid="107055",Oakland Educational Access
 http://example.local/USA-OAKLEDU.ts
@@ -721,7 +727,7 @@ http://example.local/USA-SHOWSP.ts
 http://example.local/USA-PARSHOH.ts
 #EXTINF:-1 tvg-chno="22532" tvg-name="Paramount+ with Showtime HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s21868_ll_h15_ad.png" group-title="United States" tvg-id="PASHOHW" tvc-guide-stationid="22532",Paramount+ with Showtime HD (Pacific)
 http://example.local/USA-PASHOHW.ts
-#EXTINF:-1 tvg-chno="32026" tvg-name="Paramount+ with Showtime On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s11115_ll_h15_aa.png" group-title="United States" tvg-id="SHOWDM" tvc-guide-stationid="32026",Paramount+ with Showtime On Demand
+#EXTINF:-1 tvg-chno="32026" tvg-name="Paramount+ with Showtime On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s11115_ll_h15_ad.png" group-title="United States" tvg-id="SHOWDM" tvc-guide-stationid="32026",Paramount+ with Showtime On Demand
 http://example.local/USA-SHOWDM.ts
 #EXTINF:-1 tvg-chno="147639" tvg-name="Paranormal Files" tvg-logo="https://zap2it.tmsimg.com/assets/s147639_ll_h15_aa.png" group-title="United States" tvg-id="XPLPF" tvc-guide-stationid="147639",Paranormal Files
 http://example.local/USA-XPLPF.ts
@@ -1013,9 +1019,3 @@ http://example.local/USA-PLYESPP.ts
 http://example.local/USA-PLAYHD.ts
 #EXTINF:-1 tvg-chno="31809" tvg-name="Playboy On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s14075_ll_h15_aa.png" group-title="United States" tvg-id="PLBYDM" tvc-guide-stationid="31809",Playboy On Demand
 http://example.local/USA-PLBYDM.ts
-#EXTINF:-1 tvg-chno="46915" tvg-name="Playboy On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s46915_ll_h15_aa.png" group-title="United States" tvg-id="PLAYOD" tvc-guide-stationid="46915",Playboy On Demand
-http://example.local/USA-PLAYOD.ts
-#EXTINF:-1 tvg-chno="68537" tvg-name="Playboy Premium" tvg-logo="https://zap2it.tmsimg.com/assets/s14075_ll_h15_aa.png" group-title="United States" tvg-id="PLYBPRM" tvc-guide-stationid="68537",Playboy Premium
-http://example.local/USA-PLYBPRM.ts
-#EXTINF:-1 tvg-chno="76898" tvg-name="Playboy Premium HD" tvg-logo="https://zap2it.tmsimg.com/assets/s76898_ll_h15_aa.png" group-title="United States" tvg-id="PLYPRMH" tvc-guide-stationid="76898",Playboy Premium HD
-http://example.local/USA-PLYPRMH.ts

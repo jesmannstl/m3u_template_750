@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="102958" tvg-name="SHO 2 HD Stream" group-title="United States" tvg-id="SHO2HST" tvc-guide-stationid="102958",SHO 2 HD Stream
+http://example.local/USA-SHO2HST.ts
+#EXTINF:-1 tvg-chno="91620" tvg-name="Sho Stream" tvg-logo="https://zap2it.tmsimg.com/assets/s11115_ll_h15_ad.png" group-title="United States" tvg-id="SHOWSTR" tvc-guide-stationid="91620",Sho Stream
+http://example.local/USA-SHOWSTR.ts
+#EXTINF:-1 tvg-chno="91621" tvg-name="Sho Stream (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s11115_ll_h15_ad.png" group-title="United States" tvg-id="SHOWSTP" tvc-guide-stationid="91621",Sho Stream (Pacific)
+http://example.local/USA-SHOWSTP.ts
 #EXTINF:-1 tvg-chno="20622" tvg-name="SHO x BET" tvg-logo="https://zap2it.tmsimg.com/assets/s20622_h3_aa.png" group-title="United States" tvg-id="SHOBET" tvc-guide-stationid="20622",SHO x BET
 http://example.local/USA-SHOBET.ts
 #EXTINF:-1 tvg-chno="20625" tvg-name="SHO x BET (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s20622_ll_h15_ad.png" group-title="United States" tvg-id="SHOBETP" tvc-guide-stationid="20625",SHO x BET (Pacific)
@@ -1013,9 +1019,3 @@ http://example.local/USA-SPCSUSD.ts
 http://example.local/USA-SPCTRF.ts
 #EXTINF:-1 tvg-chno="68944" tvg-name="Spectrum Traffic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68944_ll_h9_aa.png" group-title="United States" tvg-id="SPCTRAF" tvc-guide-stationid="68944",Spectrum Traffic HD
 http://example.local/USA-SPCTRAF.ts
-#EXTINF:-1 tvg-chno="54242" tvg-name="Spectrum Traffic SD" tvg-logo="https://zap2it.tmsimg.com/assets/s54242_ll_h9_aa.png" group-title="United States" tvg-id="SPCRADA" tvc-guide-stationid="54242",Spectrum Traffic SD
-http://example.local/USA-SPCRADA.ts
-#EXTINF:-1 tvg-chno="29613" tvg-name="Spectrum Weather" group-title="United States" tvg-id="SPCWTHR" tvc-guide-stationid="29613",Spectrum Weather
-http://example.local/USA-SPCWTHR.ts
-#EXTINF:-1 tvg-chno="90154" tvg-name="Spectrum XCast 2" tvg-logo="https://zap2it.tmsimg.com/assets/s90154_ll_h15_aa.png" group-title="United States" tvg-id="XCAST2" tvc-guide-stationid="90154",Spectrum XCast 2
-http://example.local/USA-XCAST2.ts

@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="42531" tvg-name="WKAR-DT2 (WORLD)" tvg-logo="https://zap2it.tmsimg.com/assets/s56725_ll_h15_ab.png" group-title="United States" tvg-id="WKARDT2" tvc-guide-stationid="42531",WKAR-DT2 (WORLD)
+http://example.local/USA-WKARDT2.ts
+#EXTINF:-1 tvg-chno="55561" tvg-name="WKAR-DT3 (CREATE)" tvg-logo="https://zap2it.tmsimg.com/assets/s48990_ll_h15_aa.png" group-title="United States" tvg-id="WKARDT3" tvc-guide-stationid="55561",WKAR-DT3 (CREATE)
+http://example.local/USA-WKARDT3.ts
+#EXTINF:-1 tvg-chno="59189" tvg-name="WKAR-DT4 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_h3_aa.png" group-title="United States" tvg-id="WKARDT4" tvc-guide-stationid="59189",WKAR-DT4 (HD06)
+http://example.local/USA-WKARDT4.ts
 #EXTINF:-1 tvg-chno="117771" tvg-name="WKAR-DT5" group-title="United States" tvg-id="WKARDT5" tvc-guide-stationid="117771",WKAR-DT5
 http://example.local/USA-WKARDT5.ts
 #EXTINF:-1 tvg-chno="11596" tvg-name="WKAS (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_h3_aa.png" group-title="United States" tvg-id="WKAS" tvc-guide-stationid="11596",WKAS (PBS)
@@ -247,13 +253,13 @@ http://example.local/USA-WKNXDT3.ts
 http://example.local/USA-WKNXSD.ts
 #EXTINF:-1 tvg-chno="68621" tvg-name="WKOB-LD" group-title="United States" tvg-id="WKOBLD" tvc-guide-stationid="68621",WKOB-LD
 http://example.local/USA-WKOBLD.ts
-#EXTINF:-1 tvg-chno="70833" tvg-name="WKOB-LD2" group-title="United States" tvg-id="WKOBLD2" tvc-guide-stationid="70833",WKOB-LD2
+#EXTINF:-1 tvg-chno="70833" tvg-name="WKOB-LD2 (FUBOOTA)" tvg-logo="https://zap2it.tmsimg.com/assets/s166532_ll_h9_aa.png" group-title="United States" tvg-id="WKOBLD2" tvc-guide-stationid="70833",WKOB-LD2 (FUBOOTA)
 http://example.local/USA-WKOBLD2.ts
-#EXTINF:-1 tvg-chno="70835" tvg-name="WKOB-LD3 (LCRIME)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0021EGJM.png" group-title="United States" tvg-id="WKOBLD3" tvc-guide-stationid="70835",WKOB-LD3 (LCRIME)
+#EXTINF:-1 tvg-chno="70835" tvg-name="WKOB-LD3 (LCRIME)" tvg-logo="https://zap2it.tmsimg.com/assets/s109553_h3_aa.png" group-title="United States" tvg-id="WKOBLD3" tvc-guide-stationid="70835",WKOB-LD3 (LCRIME)
 http://example.local/USA-WKOBLD3.ts
 #EXTINF:-1 tvg-chno="81776" tvg-name="WKOB-LD5 (SBND)" tvg-logo="https://zap2it.tmsimg.com/assets/s67676_ll_h15_aa.png" group-title="United States" tvg-id="WKOBLD5" tvc-guide-stationid="81776",WKOB-LD5 (SBND)
 http://example.local/USA-WKOBLD5.ts
-#EXTINF:-1 tvg-chno="81777" tvg-name="WKOB-LD6 (ESTRLLA)" tvg-logo="https://zap2it.tmsimg.com/assets/s65064_ll_h15_af.png" group-title="United States" tvg-id="WKOBLD6" tvc-guide-stationid="81777",WKOB-LD6 (ESTRLLA)
+#EXTINF:-1 tvg-chno="81777" tvg-name="WKOB-LD6 (ESTRLLA)" tvg-logo="https://zap2it.tmsimg.com/assets/s65064_h3_ba.png" group-title="United States" tvg-id="WKOBLD6" tvc-guide-stationid="81777",WKOB-LD6 (ESTRLLA)
 http://example.local/USA-WKOBLD6.ts
 #EXTINF:-1 tvg-chno="113863" tvg-name="WKOB-LD7 (SHOPLC)" tvg-logo="https://zap2it.tmsimg.com/assets/s56032_ll_h15_ac.png" group-title="United States" tvg-id="WKOBLD7" tvc-guide-stationid="113863",WKOB-LD7 (SHOPLC)
 http://example.local/USA-WKOBLD7.ts
@@ -1013,9 +1019,3 @@ http://example.local/USA-WLPHCD.ts
 http://example.local/USA-WLPHCD2.ts
 #EXTINF:-1 tvg-chno="98193" tvg-name="WLPH-CD3" group-title="United States" tvg-id="WLPHCD3" tvc-guide-stationid="98193",WLPH-CD3
 http://example.local/USA-WLPHCD3.ts
-#EXTINF:-1 tvg-chno="98194" tvg-name="WLPH-CD4 (RETROTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s62660_h3_aa.png" group-title="United States" tvg-id="WLPHCD4" tvc-guide-stationid="98194",WLPH-CD4 (RETROTV)
-http://example.local/USA-WLPHCD4.ts
-#EXTINF:-1 tvg-chno="19514" tvg-name="WLPX (ION)" tvg-logo="https://zap2it.tmsimg.com/assets/s18633_ll_h15_ad.png" group-title="United States" tvg-id="WLPX" tvc-guide-stationid="19514",WLPX (ION)
-http://example.local/USA-WLPX.ts
-#EXTINF:-1 tvg-chno="30816" tvg-name="WLPX-DT (ION)" tvg-logo="https://zap2it.tmsimg.com/assets/s18633_ll_h15_ad.png" group-title="United States" tvg-id="WLPXDT" tvc-guide-stationid="30816",WLPX-DT (ION)
-http://example.local/USA-WLPXDT.ts

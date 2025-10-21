@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="88829" tvg-name="NBC Sports Philadelphia Plus HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88829_ll_h15_ac.png" group-title="United States" tvg-id="NBSPPHD" tvc-guide-stationid="88829",NBC Sports Philadelphia Plus HD
+http://example.local/USA-NBSPPHD.ts
+#EXTINF:-1 tvg-chno="96044" tvg-name="NBC Sports Philadelphia Plus HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88829_ll_h15_ac.png" group-title="United States" tvg-id="NBSPHPT" tvc-guide-stationid="96044",NBC Sports Philadelphia Plus HD
+http://example.local/USA-NBSPHPT.ts
 #EXTINF:-1 tvg-chno="101703" tvg-name="NBC Sports Philadelphia Plus HD Blackout" tvg-logo="https://zap2it.tmsimg.com/assets/s88829_h3_ba.png" group-title="United States" tvg-id="TCNPHBH" tvc-guide-stationid="101703",NBC Sports Philadelphia Plus HD Blackout
 http://example.local/USA-TCNPHBH.ts
 #EXTINF:-1 tvg-chno="198109" tvg-name="NBC Sports Philadelphia+ (Phillies and Flyers Only)" tvg-logo="https://zap2it.tmsimg.com/assets/s88829_ll_h15_ac.png" group-title="United States" tvg-id="NBCSPPF" tvc-guide-stationid="198109",NBC Sports Philadelphia+ (Phillies and Flyers Only)
@@ -89,6 +93,8 @@ http://example.local/USA-NESNPL.ts
 http://example.local/USA-NESNPLD.ts
 #EXTINF:-1 tvg-chno="52772" tvg-name="New Frontier On Demand" group-title="United States" tvg-id="NWFRDM" tvc-guide-stationid="52772",New Frontier On Demand
 http://example.local/USA-NWFRDM.ts
+#EXTINF:-1 tvg-chno="65227" tvg-name="New Greek TV" tvg-logo="https://zap2it.tmsimg.com/assets/s65227_ll_h15_aa.png" group-title="United States" tvg-id="NGTV" tvc-guide-stationid="65227",New Greek TV
+http://example.local/USA-NGTV.ts
 #EXTINF:-1 tvg-chno="100247" tvg-name="New Jersey Devils: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlnj.png" group-title="United States" tvg-id="NHLNJ" tvc-guide-stationid="100247",New Jersey Devils: NHL Center Ice
 http://example.local/USA-NHLNJ.ts
 #EXTINF:-1 tvg-chno="93384" tvg-name="New Jersey Network" group-title="United States" tvg-id="NJN" tvc-guide-stationid="93384",New Jersey Network
@@ -831,8 +837,6 @@ http://example.local/USA-NHLX13.ts
 http://example.local/USA-NHLX25.ts
 #EXTINF:-1 tvg-chno="17852" tvg-name="NHL Center Ice (Capitals)" tvg-logo="https://logos.jesmann.com/nhlx26.png" group-title="United States" tvg-id="NHLX26" tvc-guide-stationid="17852",NHL Center Ice (Capitals)
 http://example.local/USA-NHLX26.ts
-#EXTINF:-1 tvg-chno="17845" tvg-name="NHL Center Ice (Coyotes)" tvg-logo="https://logos.jesmann.com/nhlx19.png" group-title="United States" tvg-id="NHLX19" tvc-guide-stationid="17845",NHL Center Ice (Coyotes)
-http://example.local/USA-NHLX19.ts
 #EXTINF:-1 tvg-chno="17840" tvg-name="NHL Center Ice (Devils)" tvg-logo="https://logos.jesmann.com/nhlx14.png" group-title="United States" tvg-id="NHLX14" tvc-guide-stationid="17840",NHL Center Ice (Devils)
 http://example.local/USA-NHLX14.ts
 #EXTINF:-1 tvg-chno="17825" tvg-name="NHL Center Ice (Ducks)" tvg-logo="https://logos.jesmann.com/nhlx1.png" group-title="United States" tvg-id="NHLX1" tvc-guide-stationid="17825",NHL Center Ice (Ducks)
@@ -855,6 +859,8 @@ http://example.local/USA-NHLX12.ts
 http://example.local/USA-NHLX32.ts
 #EXTINF:-1 tvg-chno="17849" tvg-name="NHL Center Ice (Lightning)" tvg-logo="https://logos.jesmann.com/nhlx23.png" group-title="United States" tvg-id="NHLX23" tvc-guide-stationid="17849",NHL Center Ice (Lightning)
 http://example.local/USA-NHLX23.ts
+#EXTINF:-1 tvg-chno="17845" tvg-name="NHL Center Ice (Mammoth)" tvg-logo="https://logos.jesmann.com/nhlx19.png" group-title="United States" tvg-id="NHLX19" tvc-guide-stationid="17845",NHL Center Ice (Mammoth)
+http://example.local/USA-NHLX19.ts
 #EXTINF:-1 tvg-chno="17850" tvg-name="NHL Center Ice (Maple Leafs)" tvg-logo="https://logos.jesmann.com/nhlx24.png" group-title="United States" tvg-id="NHLX24" tvc-guide-stationid="17850",NHL Center Ice (Maple Leafs)
 http://example.local/USA-NHLX24.ts
 #EXTINF:-1 tvg-chno="17836" tvg-name="NHL Center Ice (Oilers)" tvg-logo="https://logos.jesmann.com/nhlx10.png" group-title="United States" tvg-id="NHLX10" tvc-guide-stationid="17836",NHL Center Ice (Oilers)
@@ -1013,9 +1019,3 @@ http://example.local/USA-NGNGUAM.ts
 http://example.local/USA-NTVCHD.ts
 #EXTINF:-1 tvg-chno="152974" tvg-name="NitroCircusTV" group-title="United States" tvg-id="NITROTV" tvc-guide-stationid="152974",NitroCircusTV
 http://example.local/USA-NITROTV.ts
-#EXTINF:-1 tvg-chno="93413" tvg-name="NKTelco News" group-title="United States" tvg-id="NKTELCO" tvc-guide-stationid="93413",NKTelco News
-http://example.local/USA-NKTELCO.ts
-#EXTINF:-1 tvg-chno="73426" tvg-name="Noire Africa TV" tvg-logo="https://zap2it.tmsimg.com/assets/s73426_ll_h6_aa.png" group-title="United States" tvg-id="NORAFTV" tvc-guide-stationid="73426",Noire Africa TV
-http://example.local/USA-NORAFTV.ts
-#EXTINF:-1 tvg-chno="151830" tvg-name="Non-Stop '90s" tvg-logo="https://zap2it.tmsimg.com/assets/s151830_ll_h9_aa.png" group-title="United States" tvg-id="NS90S" tvc-guide-stationid="151830",Non-Stop '90s
-http://example.local/USA-NS90S.ts

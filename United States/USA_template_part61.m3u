@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="12420" tvg-name="WUTF (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_h3_aa.png" group-title="United States" tvg-id="WUTF" tvc-guide-stationid="12420",WUTF (UNIMAS)
+http://example.local/USA-WUTF.ts
+#EXTINF:-1 tvg-chno="44506" tvg-name="WUTF-DT (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_h3_aa.png" group-title="United States" tvg-id="WUTFDT" tvc-guide-stationid="44506",WUTF-DT (UNIMAS)
+http://example.local/USA-WUTFDT.ts
+#EXTINF:-1 tvg-chno="67170" tvg-name="WUTF-DT2 (LATV)" tvg-logo="https://zap2it.tmsimg.com/assets/s55578_ll_h15_ab.png" group-title="United States" tvg-id="WUTFDT2" tvc-guide-stationid="67170",WUTF-DT2 (LATV)
+http://example.local/USA-WUTFDT2.ts
 #EXTINF:-1 tvg-chno="107867" tvg-name="WUTF-DT3 (THENEST)" tvg-logo="https://zap2it.tmsimg.com/assets/s147367_ll_h15_aa.png" group-title="United States" tvg-id="WUTFDT3" tvc-guide-stationid="107867",WUTF-DT3 (THENEST)
 http://example.local/USA-WUTFDT3.ts
 #EXTINF:-1 tvg-chno="107869" tvg-name="WUTF-DT4 (GRIOTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s101752_ll_h15_ae.png" group-title="United States" tvg-id="WUTFDT4" tvc-guide-stationid="107869",WUTF-DT4 (GRIOTV)
@@ -875,13 +881,13 @@ http://example.local/USA-WWOOLD2.ts
 http://example.local/USA-WWOOLD3.ts
 #EXTINF:-1 tvg-chno="130170" tvg-name="WWOO-LD4 (ANTENNA)" tvg-logo="https://zap2it.tmsimg.com/assets/s70248_ll_h15_ac.png" group-title="United States" tvg-id="WWOOLD4" tvc-guide-stationid="130170",WWOO-LD4 (ANTENNA)
 http://example.local/USA-WWOOLD4.ts
-#EXTINF:-1 tvg-chno="11760" tvg-name="WWOR TV Channel 9 (Local New York) (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/s51307_ll_h15_aa.png" group-title="United States" tvg-id="WWOR" tvc-guide-stationid="11760",WWOR TV Channel 9 (Local New York) (MNT)
+#EXTINF:-1 tvg-chno="11760" tvg-name="WWOR TV Channel 9 (Local New York) (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" group-title="United States" tvg-id="WWOR" tvc-guide-stationid="11760",WWOR TV Channel 9 (Local New York) (MNT)
 http://example.local/USA-WWOR.ts
 #EXTINF:-1 tvg-chno="26566" tvg-name="WWOR-DT (MNT)" tvg-logo="https://logos.jesmann.com/wwordt.png" group-title="United States" tvg-id="WWORDT" tvc-guide-stationid="26566",WWOR-DT (MNT)
 http://example.local/USA-WWORDT.ts
-#EXTINF:-1 tvg-chno="45650" tvg-name="WWOR-DT2 (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/s51307_ll_h15_aa.png" group-title="United States" tvg-id="WWORDT2" tvc-guide-stationid="45650",WWOR-DT2 (MNT)
+#EXTINF:-1 tvg-chno="45650" tvg-name="WWOR-DT2 (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" group-title="United States" tvg-id="WWORDT2" tvc-guide-stationid="45650",WWOR-DT2 (MNT)
 http://example.local/USA-WWORDT2.ts
-#EXTINF:-1 tvg-chno="75009" tvg-name="WWOR-DT3 (BUZZR)" tvg-logo="https://zap2it.tmsimg.com/assets/s93430_ll_h15_ab.png" group-title="United States" tvg-id="WWORDT3" tvc-guide-stationid="75009",WWOR-DT3 (BUZZR)
+#EXTINF:-1 tvg-chno="75009" tvg-name="WWOR-DT3 (BUZZR)" tvg-logo="https://zap2it.tmsimg.com/assets/s93430_h3_aa.png" group-title="United States" tvg-id="WWORDT3" tvc-guide-stationid="75009",WWOR-DT3 (BUZZR)
 http://example.local/USA-WWORDT3.ts
 #EXTINF:-1 tvg-chno="81349" tvg-name="WWOR-DT4 (HEROICN)" tvg-logo="https://zap2it.tmsimg.com/assets/s90401_ll_h15_ad.png" group-title="United States" tvg-id="WWORDT4" tvc-guide-stationid="81349",WWOR-DT4 (HEROICN)
 http://example.local/USA-WWORDT4.ts
@@ -1013,9 +1019,3 @@ http://example.local/USA-WWUP.ts
 http://example.local/USA-WWUPDT.ts
 #EXTINF:-1 tvg-chno="64710" tvg-name="WWUP-DT2 (FOX)" tvg-logo="https://logos.jesmann.com/wwupdt2.png" group-title="United States" tvg-id="WWUPDT2" tvc-guide-stationid="64710",WWUP-DT2 (FOX)
 http://example.local/USA-WWUPDT2.ts
-#EXTINF:-1 tvg-chno="106384" tvg-name="WWUP-DT3 (METVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" group-title="United States" tvg-id="WWUPDT3" tvc-guide-stationid="106384",WWUP-DT3 (METVN)
-http://example.local/USA-WWUPDT3.ts
-#EXTINF:-1 tvg-chno="115347" tvg-name="WWUP-DT4 (LAFF)" tvg-logo="https://zap2it.tmsimg.com/assets/s92091_ll_h15_aa.png" group-title="United States" tvg-id="WWUPDT4" tvc-guide-stationid="115347",WWUP-DT4 (LAFF)
-http://example.local/USA-WWUPDT4.ts
-#EXTINF:-1 tvg-chno="115348" tvg-name="WWUP-DT5 (GRIT)" tvg-logo="https://zap2it.tmsimg.com/assets/s89922_ll_h9_aa.png" group-title="United States" tvg-id="WWUPDT5" tvc-guide-stationid="115348",WWUP-DT5 (GRIT)
-http://example.local/USA-WWUPDT5.ts
