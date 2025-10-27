@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PLYPRMH" tvg-name="Playboy Premium HD" tvg-logo="https://zap2it.tmsimg.com/assets/s76898_ll_h15_aa.png" tvg-chno="76898" tvc-guide-stationid="76898" group-title="",Playboy Premium HD
+http://example.local/PLYPRMH.ts
+#EXTINF:-1 tvg-id="PMAGIC" tvg-name="Peru Magico" tvg-logo="https://zap2it.tmsimg.com/assets/s50335_ll_h15_ab.png" tvg-chno="50335" tvc-guide-stationid="50335" group-title="",Peru Magico
+http://example.local/PMAGIC.ts
+#EXTINF:-1 tvg-id="PNAX" tvg-name="Phoenix Satellite TV" tvg-logo="https://zap2it.tmsimg.com/assets/s24935_ll_h15_aa.png" tvg-chno="24935" tvc-guide-stationid="24935" group-title="",Phoenix Satellite TV
+http://example.local/PNAX.ts
+#EXTINF:-1 tvg-id="PNAXHD" tvg-name="Phoenix Satellite TV (HD Feed)" tvg-logo="https://zap2it.tmsimg.com/assets/s24935_ll_h15_aa.png" tvg-chno="150615" tvc-guide-stationid="150615" group-title="",Phoenix Satellite TV (HD Feed)
+http://example.local/PNAXHD.ts
 #EXTINF:-1 tvg-id="POLSAT2" tvg-name="Polsat 2 International" tvg-logo="https://zap2it.tmsimg.com/assets/s29333_ll_h15_aa.png" tvg-chno="29333" tvc-guide-stationid="29333" group-title="",Polsat 2 International
 http://example.local/POLSAT2.ts
 #EXTINF:-1 tvg-id="POPHD" tvg-name="POP HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68796_ll_h15_aa.png" tvg-chno="68796" tvc-guide-stationid="68796" group-title="",POP HD
@@ -491,6 +499,8 @@ http://example.local/STARBH.ts
 http://example.local/STARHD.ts
 #EXTINF:-1 tvg-id="STARLOK" tvg-name="Life OK" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="144736" tvc-guide-stationid="144736" group-title="",Life OK
 http://example.local/STARLOK.ts
+#EXTINF:-1 tvg-id="STARTSD" tvg-name="Start TV Network (SD Feed)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/122772/s109454_ll_h15_ab.png" tvg-chno="122772" tvc-guide-stationid="122772" group-title="",Start TV Network (SD Feed)
+http://example.local/STARTSD.ts
 #EXTINF:-1 tvg-id="STARTTV" tvg-name="Start TV Network" tvg-logo="https://zap2it.tmsimg.com/assets/s109454_ll_h15_ab.png" tvg-chno="109454" tvc-guide-stationid="109454" group-title="",Start TV Network
 http://example.local/STARTTV.ts
 #EXTINF:-1 tvg-id="STARZ" tvg-name="Starz" tvg-logo="https://zap2it.tmsimg.com/assets/s12719_ll_h15_ac.png" tvg-chno="12719" tvc-guide-stationid="12719" group-title="",Starz
@@ -823,14 +833,14 @@ http://example.local/TMCXPHD.ts
 http://example.local/TMFTVDM.ts
 #EXTINF:-1 tvg-id="TMHD1" tvg-name="NBA League Pass 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55597_ll_h15_ad.png" tvg-chno="55597" tvc-guide-stationid="55597" group-title="",NBA League Pass 1 HD
 http://example.local/TMHD1.ts
+#EXTINF:-1 tvg-id="TMHD10" tvg-name="NBA League Pass 10 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55597_ll_h15_ad.png" tvg-chno="102709" tvc-guide-stationid="102709" group-title="",NBA League Pass 10 HD
+http://example.local/TMHD10.ts
 #EXTINF:-1 tvg-id="TMHD2" tvg-name="NBA League Pass 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55597_ll_h15_ad.png" tvg-chno="72809" tvc-guide-stationid="72809" group-title="",NBA League Pass 2 HD
 http://example.local/TMHD2.ts
 #EXTINF:-1 tvg-id="TMHD3" tvg-name="NBA League Pass 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55597_ll_h15_ad.png" tvg-chno="72831" tvc-guide-stationid="72831" group-title="",NBA League Pass 3 HD
 http://example.local/TMHD3.ts
 #EXTINF:-1 tvg-id="TMHD4" tvg-name="NBA League Pass 4 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55597_ll_h15_ad.png" tvg-chno="72832" tvc-guide-stationid="72832" group-title="",NBA League Pass 4 HD
 http://example.local/TMHD4.ts
-#EXTINF:-1 tvg-id="TMHD10" tvg-name="NBA League Pass 10 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55597_ll_h15_ad.png" tvg-chno="102709" tvc-guide-stationid="102709" group-title="",NBA League Pass 10 HD
-http://example.local/TMHD10.ts
 #EXTINF:-1 tvg-id="TMICRO" tvg-name="Telemicro Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s45243_ll_h9_aa.png" tvg-chno="45243" tvc-guide-stationid="45243" group-title="",Telemicro Internacional
 http://example.local/TMICRO.ts
 #EXTINF:-1 tvg-id="TMICROH" tvg-name="Telemicro Internacional HD" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="127822" tvc-guide-stationid="127822" group-title="",Telemicro Internacional HD
@@ -899,6 +909,8 @@ http://example.local/TSPDM.ts
 http://example.local/TUDNU.ts
 #EXTINF:-1 tvg-id="TUDNUH" tvg-name="TUDN" tvg-logo="https://zap2it.tmsimg.com/assets/s75176_ll_h15_ae.png" tvg-chno="77033" tvc-guide-stationid="77033" group-title="",TUDN
 http://example.local/TUDNUH.ts
+#EXTINF:-1 tvg-id="TV2000IT" tvg-name="TV2000" tvg-logo="https://zap2it.tmsimg.com/assets/s84141_ll_h15_ab.png" tvg-chno="84141" tvc-guide-stationid="84141" group-title="",TV2000
+http://example.local/TV2000IT.ts
 #EXTINF:-1 tvg-id="TV5MIHD" tvg-name="TV5MONDE Info HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90222_ll_h9_aa.png" tvg-chno="90222" tvc-guide-stationid="90222" group-title="",TV5MONDE Info HD
 http://example.local/TV5MIHD.ts
 #EXTINF:-1 tvg-id="TV5MINF" tvg-name="TV5MONDE Info" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="90216" tvc-guide-stationid="90216" group-title="",TV5MONDE Info
@@ -909,8 +921,6 @@ http://example.local/TV5MOHD.ts
 http://example.local/TV5MOND.ts
 #EXTINF:-1 tvg-id="TV5NW" tvg-name="TV5 News" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="76227" tvc-guide-stationid="76227" group-title="",TV5 News
 http://example.local/TV5NW.ts
-#EXTINF:-1 tvg-id="TV2000IT" tvg-name="TV2000" tvg-logo="https://zap2it.tmsimg.com/assets/s84141_ll_h15_ab.png" tvg-chno="84141" tvc-guide-stationid="84141" group-title="",TV2000
-http://example.local/TV2000IT.ts
 #EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="16333" tvc-guide-stationid="16333" group-title="",TVB1
 http://example.local/TVB1.ts
 #EXTINF:-1 tvg-id="TVBDC" tvg-name="TVB Drama" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="32145" tvc-guide-stationid="32145" group-title="",TVB Drama
@@ -1009,13 +1019,3 @@ http://example.local/ULUNA.ts
 http://example.local/ULUNAHD.ts
 #EXTINF:-1 tvg-id="UMACHO" tvg-name="Ultra Macho" tvg-logo="https://zap2it.tmsimg.com/assets/s79696_ll_h15_aa.png" tvg-chno="79696" tvc-guide-stationid="79696" group-title="",Ultra Macho
 http://example.local/UMACHO.ts
-#EXTINF:-1 tvg-id="UMACHSD" tvg-name="Ultra Macho SD" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="100536" tvc-guide-stationid="100536" group-title="",Ultra Macho SD
-http://example.local/UMACHSD.ts
-#EXTINF:-1 tvg-id="UNI" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" tvg-chno="11118" tvc-guide-stationid="11118" group-title="",Univision Network (UNI)
-http://example.local/UNI.ts
-#EXTINF:-1 tvg-id="UNIHD" tvg-name="Univision Network HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" tvg-chno="68049" tvc-guide-stationid="68049" group-title="",Univision Network HD (UNI)
-http://example.local/UNIHD.ts
-#EXTINF:-1 tvg-id="UNIMAS" tvg-name="UniMas (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_ll_h15_ab.png" tvg-chno="29058" tvc-guide-stationid="29058" group-title="",UniMas (UNIMAS)
-http://example.local/UNIMAS.ts
-#EXTINF:-1 tvg-id="UNIMASP" tvg-name="UniMas (Pacific) (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_h3_aa.png" tvg-chno="29059" tvc-guide-stationid="29059" group-title="",UniMas (Pacific) (UNIMAS)
-http://example.local/UNIMASP.ts

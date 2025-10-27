@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="KNINDT" tvg-name="KNIN-DT (FOX)" tvg-logo="https://logos.jesmann.com/knindt.png" tvg-chno="34435" tvc-guide-stationid="34435" group-title="",KNIN-DT (FOX)
+http://example.local/KNINDT.ts
+#EXTINF:-1 tvg-id="KNLC" tvg-name="KNLC (METVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" tvg-chno="10593" tvc-guide-stationid="10593" group-title="",KNLC (METVN)
+http://example.local/KNLC.ts
 #EXTINF:-1 tvg-id="KNLCDT" tvg-name="KNLC-DT (METVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" tvg-chno="54439" tvc-guide-stationid="54439" group-title="",KNLC-DT (METVN)
 http://example.local/KNLCDT.ts
 #EXTINF:-1 tvg-id="KNLCDT2" tvg-name="KNLC-DT2 (METOONS)" tvg-logo="https://zap2it.tmsimg.com/assets/s159817_ll_h15_aa.png" tvg-chno="64120" tvc-guide-stationid="64120" group-title="",KNLC-DT2 (METOONS)
@@ -1015,7 +1019,3 @@ http://example.local/KTRKDT.ts
 http://example.local/KTRV.ts
 #EXTINF:-1 tvg-id="KTRVDT" tvg-name="KTRV-DT (ION)" tvg-logo="https://zap2it.tmsimg.com/assets/s18633_ll_h15_ad.png" tvg-chno="45209" tvc-guide-stationid="45209" group-title="",KTRV-DT (ION)
 http://example.local/KTRVDT.ts
-#EXTINF:-1 tvg-id="KTSC" tvg-name="KTSC (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" tvg-chno="10734" tvc-guide-stationid="10734" group-title="",KTSC (PBS)
-http://example.local/KTSC.ts
-#EXTINF:-1 tvg-id="KTSCDT" tvg-name="KTSC-DT (PBS)" tvg-logo="https://logos.jesmann.com/ktscdt.png" tvg-chno="43629" tvc-guide-stationid="43629" group-title="",KTSC-DT (PBS)
-http://example.local/KTSCDT.ts

@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="KECIDT" tvg-name="KECI-DT (NBC)" tvg-logo="https://logos.jesmann.com/kecidt.png" tvg-chno="35298" tvc-guide-stationid="35298" group-title="",KECI-DT (NBC)
+http://example.local/KECIDT.ts
+#EXTINF:-1 tvg-id="KECY" tvg-name="KECY (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" tvg-chno="10426" tvc-guide-stationid="10426" group-title="",KECY (FOX)
+http://example.local/KECY.ts
 #EXTINF:-1 tvg-id="KECYDT" tvg-name="KECY-DT (FOX)" tvg-logo="https://logos.jesmann.com/kecydt.png" tvg-chno="54493" tvc-guide-stationid="54493" group-title="",KECY-DT (FOX)
 http://example.local/KECYDT.ts
 #EXTINF:-1 tvg-id="KECYDT2" tvg-name="KECY-DT2 (ABC)" tvg-logo="https://logos.jesmann.com/kecydt2.png" tvg-chno="54683" tvc-guide-stationid="54683" group-title="",KECY-DT2 (ABC)
@@ -1015,7 +1019,3 @@ http://example.local/KNHLDT7.ts
 http://example.local/KNICDT.ts
 #EXTINF:-1 tvg-id="KNICSD" tvg-name="KNIC-DT (SD Feed) (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_ll_h15_ab.png" tvg-chno="99120" tvc-guide-stationid="99120" group-title="",KNIC-DT (SD Feed) (UNIMAS)
 http://example.local/KNICSD.ts
-#EXTINF:-1 tvg-id="KNINDT" tvg-name="KNIN-DT (FOX)" tvg-logo="https://logos.jesmann.com/knindt.png" tvg-chno="34435" tvc-guide-stationid="34435" group-title="",KNIN-DT (FOX)
-http://example.local/KNINDT.ts
-#EXTINF:-1 tvg-id="KNLC" tvg-name="KNLC (METVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" tvg-chno="10593" tvc-guide-stationid="10593" group-title="",KNLC (METVN)
-http://example.local/KNLC.ts

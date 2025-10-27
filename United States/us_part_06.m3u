@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="KTSC" tvg-name="KTSC (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" tvg-chno="10734" tvc-guide-stationid="10734" group-title="",KTSC (PBS)
+http://example.local/KTSC.ts
+#EXTINF:-1 tvg-id="KTSCDT" tvg-name="KTSC-DT (PBS)" tvg-logo="https://logos.jesmann.com/ktscdt.png" tvg-chno="43629" tvc-guide-stationid="43629" group-title="",KTSC-DT (PBS)
+http://example.local/KTSCDT.ts
 #EXTINF:-1 tvg-id="KTSF" tvg-name="KTSF" tvg-logo="https://zap2it.tmsimg.com/assets/s10736_ll_h15_ab.png" tvg-chno="10736" tvc-guide-stationid="10736" group-title="",KTSF
 http://example.local/KTSF.ts
 #EXTINF:-1 tvg-id="KTSFDT" tvg-name="KTSF-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s10736_ll_h15_ab.png" tvg-chno="31221" tvc-guide-stationid="31221" group-title="",KTSF-DT
@@ -883,6 +887,8 @@ http://example.local/LO7HD.ts
 http://example.local/LO7SD.ts
 #EXTINF:-1 tvg-id="LOAC" tvg-name="Local Access" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="20079" tvc-guide-stationid="20079" group-title="",Local Access
 http://example.local/LOAC.ts
+#EXTINF:-1 tvg-id="LOC10" tvg-name="Local 10" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="92912" tvc-guide-stationid="92912" group-title="",Local 10
+http://example.local/LOC10.ts
 #EXTINF:-1 tvg-id="LOC5" tvg-name="Local 5" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="93566" tvc-guide-stationid="93566" group-title="",Local 5
 http://example.local/LOC5.ts
 #EXTINF:-1 tvg-id="LOC6" tvg-name="Local 6" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="93252" tvc-guide-stationid="93252" group-title="",Local 6
@@ -893,8 +899,6 @@ http://example.local/LOC7.ts
 http://example.local/LOC8.ts
 #EXTINF:-1 tvg-id="LOC9" tvg-name="Local 9" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="92777" tvc-guide-stationid="92777" group-title="",Local 9
 http://example.local/LOC9.ts
-#EXTINF:-1 tvg-id="LOC10" tvg-name="Local 10" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="92912" tvc-guide-stationid="92912" group-title="",Local 10
-http://example.local/LOC10.ts
 #EXTINF:-1 tvg-id="LOCAL" tvg-name="Local Programming" tvg-logo="https://zap2it.tmsimg.com/assets/s16175_ll_h15_ab.png" tvg-chno="16175" tvc-guide-stationid="16175" group-title="",Local Programming
 http://example.local/LOCAL.ts
 #EXTINF:-1 tvg-id="LOCDM" tvg-name="Local On Demand" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="34294" tvc-guide-stationid="34294" group-title="",Local On Demand
@@ -919,8 +923,6 @@ http://example.local/LOOKNET.ts
 http://example.local/LOOLOO.ts
 #EXTINF:-1 tvg-id="LOOR001" tvg-name="Local Origination - LOOR001" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="23309" tvc-guide-stationid="23309" group-title="",Local Origination - LOOR001
 http://example.local/LOOR001.ts
-#EXTINF:-1 tvg-id="LOOR1" tvg-name="Local Origination - LOOR 1" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="92454" tvc-guide-stationid="92454" group-title="",Local Origination - LOOR 1
-http://example.local/LOOR1.ts
 #EXTINF:-1 tvg-id="LOOR002" tvg-name="Local Origination - LOOR002" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="23310" tvc-guide-stationid="23310" group-title="",Local Origination - LOOR002
 http://example.local/LOOR002.ts
 #EXTINF:-1 tvg-id="LOOR004" tvg-name="Local Origination - LOOR004" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="23312" tvc-guide-stationid="23312" group-title="",Local Origination - LOOR004
@@ -953,14 +955,44 @@ http://example.local/LOOR096.ts
 http://example.local/LOOR098.ts
 #EXTINF:-1 tvg-id="LOOR099" tvg-name="Local Origination - LOOR099" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="23407" tvc-guide-stationid="23407" group-title="",Local Origination - LOOR099
 http://example.local/LOOR099.ts
+#EXTINF:-1 tvg-id="LOOR1" tvg-name="Local Origination - LOOR 1" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="92454" tvc-guide-stationid="92454" group-title="",Local Origination - LOOR 1
+http://example.local/LOOR1.ts
+#EXTINF:-1 tvg-id="LOOR1001" tvg-name="Local Origination - LOOR1001" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="61047" tvc-guide-stationid="61047" group-title="",Local Origination - LOOR1001
+http://example.local/LOOR1001.ts
 #EXTINF:-1 tvg-id="LOOR106" tvg-name="Local Origination - LOOR106" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="23413" tvc-guide-stationid="23413" group-title="",Local Origination - LOOR106
 http://example.local/LOOR106.ts
+#EXTINF:-1 tvg-id="LOOR1075" tvg-name="Local Origination - LOOR1075" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="106677" tvc-guide-stationid="106677" group-title="",Local Origination - LOOR1075
+http://example.local/LOOR1075.ts
+#EXTINF:-1 tvg-id="LOOR1082" tvg-name="Local Origination - LOOR1082" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="79634" tvc-guide-stationid="79634" group-title="",Local Origination - LOOR1082
+http://example.local/LOOR1082.ts
+#EXTINF:-1 tvg-id="LOOR1085" tvg-name="Local Origination - LOOR1085" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="102286" tvc-guide-stationid="102286" group-title="",Local Origination - LOOR1085
+http://example.local/LOOR1085.ts
+#EXTINF:-1 tvg-id="LOOR1087" tvg-name="Local Origination - LOOR1087" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="102287" tvc-guide-stationid="102287" group-title="",Local Origination - LOOR1087
+http://example.local/LOOR1087.ts
+#EXTINF:-1 tvg-id="LOOR1096" tvg-name="Local Origination - LOOR1096" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="103820" tvc-guide-stationid="103820" group-title="",Local Origination - LOOR1096
+http://example.local/LOOR1096.ts
+#EXTINF:-1 tvg-id="LOOR1198" tvg-name="Local Origination - LOOR1198" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="97898" tvc-guide-stationid="97898" group-title="",Local Origination - LOOR1198
+http://example.local/LOOR1198.ts
+#EXTINF:-1 tvg-id="LOOR1201" tvg-name="Local Origination - LOOR1201" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="59070" tvc-guide-stationid="59070" group-title="",Local Origination - LOOR1201
+http://example.local/LOOR1201.ts
+#EXTINF:-1 tvg-id="LOOR1229" tvg-name="Local Origination - LOOR1229" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="77108" tvc-guide-stationid="77108" group-title="",Local Origination - LOOR1229
+http://example.local/LOOR1229.ts
 #EXTINF:-1 tvg-id="LOOR123" tvg-name="Local Origination - LOOR123" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="23427" tvc-guide-stationid="23427" group-title="",Local Origination - LOOR123
 http://example.local/LOOR123.ts
 #EXTINF:-1 tvg-id="LOOR124" tvg-name="Local Origination - LOOR124" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="23428" tvc-guide-stationid="23428" group-title="",Local Origination - LOOR124
 http://example.local/LOOR124.ts
+#EXTINF:-1 tvg-id="LOOR1249" tvg-name="Local Origination - LOOR1249" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="77128" tvc-guide-stationid="77128" group-title="",Local Origination - LOOR1249
+http://example.local/LOOR1249.ts
+#EXTINF:-1 tvg-id="LOOR1371" tvg-name="Local Origination - LOOR1371" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="60707" tvc-guide-stationid="60707" group-title="",Local Origination - LOOR1371
+http://example.local/LOOR1371.ts
+#EXTINF:-1 tvg-id="LOOR1429" tvg-name="Local Origination - LOOR1429" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="97899" tvc-guide-stationid="97899" group-title="",Local Origination - LOOR1429
+http://example.local/LOOR1429.ts
 #EXTINF:-1 tvg-id="LOOR159" tvg-name="Local Origination - LOOR159" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="61634" tvc-guide-stationid="61634" group-title="",Local Origination - LOOR159
 http://example.local/LOOR159.ts
+#EXTINF:-1 tvg-id="LOOR1597" tvg-name="Local Origination - LOOR1597" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="77355" tvc-guide-stationid="77355" group-title="",Local Origination - LOOR1597
+http://example.local/LOOR1597.ts
+#EXTINF:-1 tvg-id="LOOR1601" tvg-name="Local Origination - LOOR1601" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="77131" tvc-guide-stationid="77131" group-title="",Local Origination - LOOR1601
+http://example.local/LOOR1601.ts
 #EXTINF:-1 tvg-id="LOOR161" tvg-name="Local Origination - LOOR161" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="26086" tvc-guide-stationid="26086" group-title="",Local Origination - LOOR161
 http://example.local/LOOR161.ts
 #EXTINF:-1 tvg-id="LOOR180" tvg-name="Local Origination - LOOR180" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="23441" tvc-guide-stationid="23441" group-title="",Local Origination - LOOR180
@@ -987,35 +1019,3 @@ http://example.local/LOOR218.ts
 http://example.local/LOOR219.ts
 #EXTINF:-1 tvg-id="LOOR223" tvg-name="Local Origination - LOOR223" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="76320" tvc-guide-stationid="76320" group-title="",Local Origination - LOOR223
 http://example.local/LOOR223.ts
-#EXTINF:-1 tvg-id="LOOR224" tvg-name="Local Origination - LOOR224" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="23446" tvc-guide-stationid="23446" group-title="",Local Origination - LOOR224
-http://example.local/LOOR224.ts
-#EXTINF:-1 tvg-id="LOOR228" tvg-name="Local Origination - LOOR228" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="61640" tvc-guide-stationid="61640" group-title="",Local Origination - LOOR228
-http://example.local/LOOR228.ts
-#EXTINF:-1 tvg-id="LOOR229" tvg-name="Local Origination - LOOR229" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="61641" tvc-guide-stationid="61641" group-title="",Local Origination - LOOR229
-http://example.local/LOOR229.ts
-#EXTINF:-1 tvg-id="LOOR249" tvg-name="Local Origination - LOOR249" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="81635" tvc-guide-stationid="81635" group-title="",Local Origination - LOOR249
-http://example.local/LOOR249.ts
-#EXTINF:-1 tvg-id="LOOR275" tvg-name="Local Origination - LOOR 275" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="102832" tvc-guide-stationid="102832" group-title="",Local Origination - LOOR 275
-http://example.local/LOOR275.ts
-#EXTINF:-1 tvg-id="LOOR312" tvg-name="Local Origination - LOOR 312" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="69885" tvc-guide-stationid="69885" group-title="",Local Origination - LOOR 312
-http://example.local/LOOR312.ts
-#EXTINF:-1 tvg-id="LOOR359" tvg-name="Local Origination - LOOR 359" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="88727" tvc-guide-stationid="88727" group-title="",Local Origination - LOOR 359
-http://example.local/LOOR359.ts
-#EXTINF:-1 tvg-id="LOOR371" tvg-name="Local Origination - LOOR371" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="59561" tvc-guide-stationid="59561" group-title="",Local Origination - LOOR371
-http://example.local/LOOR371.ts
-#EXTINF:-1 tvg-id="LOOR412" tvg-name="Local Origination - LOOR412" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="29141" tvc-guide-stationid="29141" group-title="",Local Origination - LOOR412
-http://example.local/LOOR412.ts
-#EXTINF:-1 tvg-id="LOOR429" tvg-name="Local Origination - LOOR429" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="65157" tvc-guide-stationid="65157" group-title="",Local Origination - LOOR429
-http://example.local/LOOR429.ts
-#EXTINF:-1 tvg-id="LOOR467" tvg-name="Local Origination - LOOR467" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="60910" tvc-guide-stationid="60910" group-title="",Local Origination - LOOR467
-http://example.local/LOOR467.ts
-#EXTINF:-1 tvg-id="LOOR500" tvg-name="Local Origination - LOOR500" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="24964" tvc-guide-stationid="24964" group-title="",Local Origination - LOOR500
-http://example.local/LOOR500.ts
-#EXTINF:-1 tvg-id="LOOR502" tvg-name="Local Origination - LOOR502" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="24966" tvc-guide-stationid="24966" group-title="",Local Origination - LOOR502
-http://example.local/LOOR502.ts
-#EXTINF:-1 tvg-id="LOOR504" tvg-name="Local Origination - LOOR504" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="35572" tvc-guide-stationid="35572" group-title="",Local Origination - LOOR504
-http://example.local/LOOR504.ts
-#EXTINF:-1 tvg-id="LOOR506" tvg-name="Local Origination - LOOR506" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="61658" tvc-guide-stationid="61658" group-title="",Local Origination - LOOR506
-http://example.local/LOOR506.ts
-#EXTINF:-1 tvg-id="LOOR508" tvg-name="Local Origination - LOOR508" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="25591" tvc-guide-stationid="25591" group-title="",Local Origination - LOOR508
-http://example.local/LOOR508.ts
