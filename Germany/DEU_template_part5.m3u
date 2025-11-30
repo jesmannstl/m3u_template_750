@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="82361" tvg-name="TV2 Danmark" tvg-logo="https://zap2it.tmsimg.com/assets/s82361_ll_h15_ab.png" group-title="Germany" tvg-id="TV2DANM" tvc-guide-stationid="82361",TV2 Danmark
+http://example.local/DEU-TV2DANM.ts
+#EXTINF:-1 tvg-chno="87803" tvg-name="TV2 Echo" tvg-logo="https://zap2it.tmsimg.com/assets/s87803_ll_h15_ad.png" group-title="Germany" tvg-id="TV2ECHO" tvc-guide-stationid="87803",TV2 Echo
+http://example.local/DEU-TV2ECHO.ts
+#EXTINF:-1 tvg-chno="87797" tvg-name="TV2 Syd" tvg-logo="https://zap2it.tmsimg.com/assets/s87797_ll_h15_aa.png" group-title="Germany" tvg-id="TV2SYD" tvc-guide-stationid="87797",TV2 Syd
+http://example.local/DEU-TV2SYD.ts
+#EXTINF:-1 tvg-chno="90052" tvg-name="TV3" tvg-logo="https://zap2it.tmsimg.com/assets/s90052_ll_h15_aa.png" group-title="Germany" tvg-id="TV3NO" tvc-guide-stationid="90052",TV3
+http://example.local/DEU-TV3NO.ts
+#EXTINF:-1 tvg-chno="87799" tvg-name="TV3" tvg-logo="https://zap2it.tmsimg.com/assets/s87799_ll_h15_aa.png" group-title="Germany" tvg-id="TV3DK" tvc-guide-stationid="87799",TV3
+http://example.local/DEU-TV3DK.ts
 #EXTINF:-1 tvg-chno="76805" tvg-name="TV3" tvg-logo="https://zap2it.tmsimg.com/assets/s76805_ll_h15_aa.png" group-title="Germany" tvg-id="TV3SWED" tvc-guide-stationid="76805",TV3
 http://example.local/DEU-TV3SWED.ts
 #EXTINF:-1 tvg-chno="54089" tvg-name="TV38 FERNSEHEN ZWISCHEN HARZ" group-title="Germany" tvg-id="TV38FER" tvc-guide-stationid="54089",TV38 FERNSEHEN ZWISCHEN HARZ
@@ -31,14 +41,14 @@ http://example.local/DEU-TVAOSTB.ts
 http://example.local/DEU-TVAOBHD.ts
 #EXTINF:-1 tvg-chno="117901" tvg-name="TVC News" tvg-logo="https://zap2it.tmsimg.com/assets/s117901_ll_h9_aa.png" group-title="Germany" tvg-id="TVCNEWS" tvc-guide-stationid="117901",TVC News
 http://example.local/DEU-TVCNEWS.ts
-#EXTINF:-1 tvg-chno="115873" tvg-name="TVCG Sat" tvg-logo="https://zap2it.tmsimg.com/assets/s115873_ll_h15_aa.png" group-title="Germany" tvg-id="TVCGST" tvc-guide-stationid="115873",TVCG Sat
+#EXTINF:-1 tvg-chno="115873" tvg-name="TVCG MNE" tvg-logo="https://zap2it.tmsimg.com/assets/s115873_ll_h15_aa.png" group-title="Germany" tvg-id="TVCGST" tvc-guide-stationid="115873",TVCG MNE
 http://example.local/DEU-TVCGST.ts
 #EXTINF:-1 tvg-chno="124877" tvg-name="TVE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s124877_ll_h15_aa.png" group-title="Germany" tvg-id="TVEHD" tvc-guide-stationid="124877",TVE HD
 http://example.local/DEU-TVEHD.ts
-#EXTINF:-1 tvg-chno="115512" tvg-name="TVE Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s115512_ll_h15_aa.png" group-title="Germany" tvg-id="TVEINTH" tvc-guide-stationid="115512",TVE Internacional
-http://example.local/DEU-TVEINTH.ts
 #EXTINF:-1 tvg-chno="90320" tvg-name="TVE Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s90320_ll_h15_aa.png" group-title="Germany" tvg-id="TVEINTS" tvc-guide-stationid="90320",TVE Internacional
 http://example.local/DEU-TVEINTS.ts
+#EXTINF:-1 tvg-chno="115512" tvg-name="TVE Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s115512_ll_h15_aa.png" group-title="Germany" tvg-id="TVEINTH" tvc-guide-stationid="115512",TVE Internacional
+http://example.local/DEU-TVEINTH.ts
 #EXTINF:-1 tvg-chno="113729" tvg-name="TVE Internacional HD (Europe)" tvg-logo="https://zap2it.tmsimg.com/assets/s113729_ll_h15_aa.png" group-title="Germany" tvg-id="TVEINHD" tvc-guide-stationid="113729",TVE Internacional HD (Europe)
 http://example.local/DEU-TVEINHD.ts
 #EXTINF:-1 tvg-chno="90400" tvg-name="TVG" tvg-logo="https://zap2it.tmsimg.com/assets/s90400_ll_h15_aa.png" group-title="Germany" tvg-id="TVGES" tvc-guide-stationid="90400",TVG
@@ -189,12 +199,12 @@ http://example.local/DEU-WBTVFILM.ts
 http://example.local/DEU-WBTVFENG.ts
 #EXTINF:-1 tvg-chno="83802" tvg-name="WBTV Film HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83802_ll_h15_ac.png" group-title="Germany" tvg-id="WBTVFHD" tvc-guide-stationid="83802",WBTV Film HD
 http://example.local/DEU-WBTVFHD.ts
+#EXTINF:-1 tvg-chno="83866" tvg-name="WBTV Serie" tvg-logo="https://zap2it.tmsimg.com/assets/s83866_ll_h15_ac.png" group-title="Germany" tvg-id="WBTVSERI" tvc-guide-stationid="83866",WBTV Serie
+http://example.local/DEU-WBTVSERI.ts
 #EXTINF:-1 tvg-chno="97346" tvg-name="WBTV Serie" tvg-logo="https://zap2it.tmsimg.com/assets/s97346_ll_h15_ac.png" group-title="Germany" tvg-id="WBTVSENG" tvc-guide-stationid="97346",WBTV Serie
 http://example.local/DEU-WBTVSENG.ts
 #EXTINF:-1 tvg-chno="95908" tvg-name="WBTV Serie" tvg-logo="https://zap2it.tmsimg.com/assets/s95908_ll_h15_ac.png" group-title="Germany" tvg-id="WBTVSKD" tvc-guide-stationid="95908",WBTV Serie
 http://example.local/DEU-WBTVSKD.ts
-#EXTINF:-1 tvg-chno="83866" tvg-name="WBTV Serie" tvg-logo="https://zap2it.tmsimg.com/assets/s83866_ll_h15_ac.png" group-title="Germany" tvg-id="WBTVSERI" tvc-guide-stationid="83866",WBTV Serie
-http://example.local/DEU-WBTVSERI.ts
 #EXTINF:-1 tvg-chno="83867" tvg-name="WBTV Serie HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83867_ll_h15_ad.png" group-title="Germany" tvg-id="WBTVSEHD" tvc-guide-stationid="83867",WBTV Serie HD
 http://example.local/DEU-WBTVSEHD.ts
 #EXTINF:-1 tvg-chno="95905" tvg-name="WBTV Serie HD" tvg-logo="https://zap2it.tmsimg.com/assets/s95905_ll_h15_ac.png" group-title="Germany" tvg-id="WBTVSHKD" tvc-guide-stationid="95905",WBTV Serie HD
@@ -287,6 +297,8 @@ http://example.local/DEU-WELTHDE.ts
 http://example.local/DEU-WELTAT.ts
 #EXTINF:-1 tvg-chno="83926" tvg-name="Wetter.com" tvg-logo="https://zap2it.tmsimg.com/assets/s83926_ll_h15_aa.png" group-title="Germany" tvg-id="WETFERN" tvc-guide-stationid="83926",Wetter.com
 http://example.local/DEU-WETFERN.ts
+#EXTINF:-1 tvg-chno="200071" tvg-name="WILL & GRACE" group-title="Germany" tvg-id="WIGRDE" tvc-guide-stationid="200071",WILL & GRACE
+http://example.local/DEU-WIGRDE.ts
 #EXTINF:-1 tvg-chno="116377" tvg-name="Wismar TV HD" group-title="Germany" tvg-id="WISMARH" tvc-guide-stationid="116377",Wismar TV HD
 http://example.local/DEU-WISMARH.ts
 #EXTINF:-1 tvg-chno="97595" tvg-name="WMZ TV" tvg-logo="https://zap2it.tmsimg.com/assets/s97595_ll_h9_aa.png" group-title="Germany" tvg-id="WMZTV" tvc-guide-stationid="97595",WMZ TV

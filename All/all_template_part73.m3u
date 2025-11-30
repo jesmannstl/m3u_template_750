@@ -1,62 +1,666 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="91207" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91207_ll_h15_aa.png" group-title="Spain" tvg-id="NGWSPHD" tvc-guide-stationid="91207",National Geographic Wild HD
-http://example.local/ESP-NGWSPHD.ts
-#EXTINF:-1 tvg-chno="115754" tvg-name="National Geographic WILD HD" tvg-logo="https://zap2it.tmsimg.com/assets/s115754_ll_h15_ab.png" group-title="Netherlands" tvg-id="NGWNHD" tvc-guide-stationid="115754",National Geographic WILD HD
-http://example.local/NLD-NGWNHD.ts
-#EXTINF:-1 tvg-chno="67331" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67331_ll_h15_ab.png" group-title="United States" tvg-id="NGWIHD" tvc-guide-stationid="67331",National Geographic Wild HD
-http://example.local/USA-NGWIHD.ts
-#EXTINF:-1 tvg-chno="56425" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s56425_ll_h15_aa.png" group-title="United States" tvg-id="NGWHD" tvc-guide-stationid="56425",National Geographic Wild HD
-http://example.local/USA-NGWHD.ts
-#EXTINF:-1 tvg-chno="56425" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s56425_ll_h15_aa.png" group-title="United Kingdom" tvg-id="NGWHD" tvc-guide-stationid="56425",National Geographic Wild HD
-http://example.local/GBR-NGWHD.ts
-#EXTINF:-1 tvg-chno="92019" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s92019_ll_h15_aa.png" group-title="United Kingdom" tvg-id="NGWHDVM" tvc-guide-stationid="92019",National Geographic Wild HD
-http://example.local/GBR-NGWHDVM.ts
-#EXTINF:-1 tvg-chno="86880" tvg-name="National Geographic Wild HD" tvg-logo="https://logos.jesmann.com/NTGWHD.png" group-title="Switzerland" tvg-id="NTGWHD" tvc-guide-stationid="86880",National Geographic Wild HD
-http://example.local/CHE-NTGWHD.ts
-#EXTINF:-1 tvg-chno="87635" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87635_ll_h15_aa.png" group-title="Switzerland" tvg-id="NGEOWHF" tvc-guide-stationid="87635",National Geographic Wild HD
-http://example.local/CHE-NGEOWHF.ts
-#EXTINF:-1 tvg-chno="56425" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s56425_ll_h15_aa.png" group-title="Switzerland" tvg-id="NGWHD" tvc-guide-stationid="56425",National Geographic Wild HD
-http://example.local/CHE-NGWHD.ts
+#EXTINF:-1 tvg-chno="122443" tvg-name="n-tv Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s122443_ll_h15_aa.png" group-title="Germany" tvg-id="NTVATSD" tvc-guide-stationid="122443",n-tv Austria
+http://example.local/DEU-NTVATSD.ts
+#EXTINF:-1 tvg-chno="122443" tvg-name="n-tv Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s122443_ll_h15_aa.png" group-title="Poland" tvg-id="NTVATSD" tvc-guide-stationid="122443",n-tv Austria
+http://example.local/POL-NTVATSD.ts
+#EXTINF:-1 tvg-chno="122443" tvg-name="n-tv Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s122443_ll_h15_aa.png" group-title="Austria" tvg-id="NTVATSD" tvc-guide-stationid="122443",n-tv Austria
+http://example.local/AUT-NTVATSD.ts
+#EXTINF:-1 tvg-chno="122443" tvg-name="n-tv Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s122443_ll_h15_aa.png" group-title="Belgium" tvg-id="NTVATSD" tvc-guide-stationid="122443",n-tv Austria
+http://example.local/BEL-NTVATSD.ts
+#EXTINF:-1 tvg-chno="122443" tvg-name="n-tv Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s122443_ll_h15_aa.png" group-title="Netherlands" tvg-id="NTVATSD" tvc-guide-stationid="122443",n-tv Austria
+http://example.local/NLD-NTVATSD.ts
+#EXTINF:-1 tvg-chno="122443" tvg-name="n-tv Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s122443_ll_h15_aa.png" group-title="Switzerland" tvg-id="NTVATSD" tvc-guide-stationid="122443",n-tv Austria
+http://example.local/CHE-NTVATSD.ts
+#EXTINF:-1 tvg-chno="89070" tvg-name="n-tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89070_ll_h15_aa.png" group-title="Germany" tvg-id="NTVHD" tvc-guide-stationid="89070",n-tv HD
+http://example.local/DEU-NTVHD.ts
+#EXTINF:-1 tvg-chno="89070" tvg-name="n-tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89070_ll_h15_aa.png" group-title="Austria" tvg-id="NTVHD" tvc-guide-stationid="89070",n-tv HD
+http://example.local/AUT-NTVHD.ts
+#EXTINF:-1 tvg-chno="89070" tvg-name="n-tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89070_ll_h15_aa.png" group-title="Netherlands" tvg-id="NTVHD" tvc-guide-stationid="89070",n-tv HD
+http://example.local/NLD-NTVHD.ts
+#EXTINF:-1 tvg-chno="89070" tvg-name="n-tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89070_ll_h15_aa.png" group-title="Switzerland" tvg-id="NTVHD" tvc-guide-stationid="89070",n-tv HD
+http://example.local/CHE-NTVHD.ts
+#EXTINF:-1 tvg-chno="120258" tvg-name="n-tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s120258_ll_h15_aa.png" group-title="Switzerland" tvg-id="NTVCHHD" tvc-guide-stationid="120258",n-tv HD
+http://example.local/CHE-NTVCHHD.ts
+#EXTINF:-1 tvg-chno="106110" tvg-name="n-tv HD Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s106110_ll_h9_ad.png" group-title="Germany" tvg-id="NTVATHD" tvc-guide-stationid="106110",n-tv HD Austria
+http://example.local/DEU-NTVATHD.ts
+#EXTINF:-1 tvg-chno="106110" tvg-name="n-tv HD Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s106110_ll_h9_ad.png" group-title="Austria" tvg-id="NTVATHD" tvc-guide-stationid="106110",n-tv HD Austria
+http://example.local/AUT-NTVATHD.ts
+#EXTINF:-1 tvg-chno="106110" tvg-name="n-tv HD Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s106110_ll_h9_ad.png" group-title="Spain" tvg-id="NTVATHD" tvc-guide-stationid="106110",n-tv HD Austria
+http://example.local/ESP-NTVATHD.ts
+#EXTINF:-1 tvg-chno="106110" tvg-name="n-tv HD Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s106110_ll_h9_ad.png" group-title="Switzerland" tvg-id="NTVATHD" tvc-guide-stationid="106110",n-tv HD Austria
+http://example.local/CHE-NTVATHD.ts
+#EXTINF:-1 tvg-chno="21333" tvg-name="N.E.W.tv2 (Time Warner)" group-title="United States" tvg-id="NEWTV2" tvc-guide-stationid="21333",N.E.W.tv2 (Time Warner)
+http://example.local/USA-NEWTV2.ts
+#EXTINF:-1 tvg-chno="88627" tvg-name="N1 - Regionalfernsehen" group-title="Austria" tvg-id="N1REG" tvc-guide-stationid="88627",N1 - Regionalfernsehen
+http://example.local/AUT-N1REG.ts
+#EXTINF:-1 tvg-chno="100347" tvg-name="N24 Doku" tvg-logo="https://zap2it.tmsimg.com/assets/s100347_ll_h15_aa.png" group-title="France" tvg-id="N24DOKU" tvc-guide-stationid="100347",N24 Doku
+http://example.local/FRA-N24DOKU.ts
+#EXTINF:-1 tvg-chno="100347" tvg-name="N24 Doku" tvg-logo="https://zap2it.tmsimg.com/assets/s100347_ll_h15_aa.png" group-title="Italy" tvg-id="N24DOKU" tvc-guide-stationid="100347",N24 Doku
+http://example.local/ITA-N24DOKU.ts
+#EXTINF:-1 tvg-chno="120140" tvg-name="N24 Doku" group-title="Germany" tvg-id="PTVDEND" tvc-guide-stationid="120140",N24 Doku
+http://example.local/DEU-PTVDEND.ts
+#EXTINF:-1 tvg-chno="100347" tvg-name="N24 Doku" tvg-logo="https://zap2it.tmsimg.com/assets/s100347_ll_h15_aa.png" group-title="Germany" tvg-id="N24DOKU" tvc-guide-stationid="100347",N24 Doku
+http://example.local/DEU-N24DOKU.ts
+#EXTINF:-1 tvg-chno="100347" tvg-name="N24 Doku" tvg-logo="https://zap2it.tmsimg.com/assets/s100347_ll_h15_aa.png" group-title="Poland" tvg-id="N24DOKU" tvc-guide-stationid="100347",N24 Doku
+http://example.local/POL-N24DOKU.ts
+#EXTINF:-1 tvg-chno="100347" tvg-name="N24 Doku" tvg-logo="https://zap2it.tmsimg.com/assets/s100347_ll_h15_aa.png" group-title="Austria" tvg-id="N24DOKU" tvc-guide-stationid="100347",N24 Doku
+http://example.local/AUT-N24DOKU.ts
+#EXTINF:-1 tvg-chno="100347" tvg-name="N24 Doku" tvg-logo="https://zap2it.tmsimg.com/assets/s100347_ll_h15_aa.png" group-title="United Kingdom" tvg-id="N24DOKU" tvc-guide-stationid="100347",N24 Doku
+http://example.local/GBR-N24DOKU.ts
+#EXTINF:-1 tvg-chno="100347" tvg-name="N24 Doku" tvg-logo="https://zap2it.tmsimg.com/assets/s100347_ll_h15_aa.png" group-title="Belgium" tvg-id="N24DOKU" tvc-guide-stationid="100347",N24 Doku
+http://example.local/BEL-N24DOKU.ts
+#EXTINF:-1 tvg-chno="100347" tvg-name="N24 Doku" tvg-logo="https://zap2it.tmsimg.com/assets/s100347_ll_h15_aa.png" group-title="Netherlands" tvg-id="N24DOKU" tvc-guide-stationid="100347",N24 Doku
+http://example.local/NLD-N24DOKU.ts
+#EXTINF:-1 tvg-chno="100347" tvg-name="N24 Doku" tvg-logo="https://zap2it.tmsimg.com/assets/s100347_ll_h15_aa.png" group-title="Spain" tvg-id="N24DOKU" tvc-guide-stationid="100347",N24 Doku
+http://example.local/ESP-N24DOKU.ts
+#EXTINF:-1 tvg-chno="100347" tvg-name="N24 Doku" tvg-logo="https://zap2it.tmsimg.com/assets/s100347_ll_h15_aa.png" group-title="Switzerland" tvg-id="N24DOKU" tvc-guide-stationid="100347",N24 Doku
+http://example.local/CHE-N24DOKU.ts
+#EXTINF:-1 tvg-chno="106374" tvg-name="N24 Doku Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s106374_ll_h15_aa.png" group-title="Italy" tvg-id="N24AT" tvc-guide-stationid="106374",N24 Doku Austria
+http://example.local/ITA-N24AT.ts
+#EXTINF:-1 tvg-chno="106374" tvg-name="N24 Doku Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s106374_ll_h15_aa.png" group-title="Austria" tvg-id="N24AT" tvc-guide-stationid="106374",N24 Doku Austria
+http://example.local/AUT-N24AT.ts
+#EXTINF:-1 tvg-chno="106374" tvg-name="N24 Doku Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s106374_ll_h15_aa.png" group-title="United Kingdom" tvg-id="N24AT" tvc-guide-stationid="106374",N24 Doku Austria
+http://example.local/GBR-N24AT.ts
+#EXTINF:-1 tvg-chno="106374" tvg-name="N24 Doku Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s106374_ll_h15_aa.png" group-title="Belgium" tvg-id="N24AT" tvc-guide-stationid="106374",N24 Doku Austria
+http://example.local/BEL-N24AT.ts
+#EXTINF:-1 tvg-chno="106374" tvg-name="N24 Doku Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s106374_ll_h15_aa.png" group-title="Netherlands" tvg-id="N24AT" tvc-guide-stationid="106374",N24 Doku Austria
+http://example.local/NLD-N24AT.ts
+#EXTINF:-1 tvg-chno="106374" tvg-name="N24 Doku Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s106374_ll_h15_aa.png" group-title="Spain" tvg-id="N24AT" tvc-guide-stationid="106374",N24 Doku Austria
+http://example.local/ESP-N24AT.ts
+#EXTINF:-1 tvg-chno="110848" tvg-name="N24 Doku HD" tvg-logo="https://logos.jesmann.com/N24DKHD.png" group-title="Germany" tvg-id="N24DKHD" tvc-guide-stationid="110848",N24 Doku HD
+http://example.local/DEU-N24DKHD.ts
+#EXTINF:-1 tvg-chno="110848" tvg-name="N24 Doku HD" tvg-logo="https://logos.jesmann.com/N24DKHD.png" group-title="Switzerland" tvg-id="N24DKHD" tvc-guide-stationid="110848",N24 Doku HD
+http://example.local/CHE-N24DKHD.ts
+#EXTINF:-1 tvg-chno="118730" tvg-name="nahe TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118730_ll_h15_aa.png" group-title="Germany" tvg-id="NAHEHD" tvc-guide-stationid="118730",nahe TV HD
+http://example.local/DEU-NAHEHD.ts
+#EXTINF:-1 tvg-chno="83830" tvg-name="naheTV" tvg-logo="https://zap2it.tmsimg.com/assets/s83830_ll_h15_ab.png" group-title="Germany" tvg-id="NAHE" tvc-guide-stationid="83830",naheTV
+http://example.local/DEU-NAHE.ts
+#EXTINF:-1 tvg-chno="16886" tvg-name="Naiwave" tvg-logo="https://zap2it.tmsimg.com/assets/s16886_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="NWAVE" tvc-guide-stationid="16886",Naiwave
+http://example.local/PRI-NWAVE.ts
+#EXTINF:-1 tvg-chno="95143" tvg-name="Napa Valley TV 28" group-title="United States" tvg-id="NVTV28" tvc-guide-stationid="95143",Napa Valley TV 28
+http://example.local/USA-NVTV28.ts
+#EXTINF:-1 tvg-chno="95579" tvg-name="Napa Valley TV Ch.27" group-title="United States" tvg-id="NVTV27" tvc-guide-stationid="95579",Napa Valley TV Ch.27
+http://example.local/USA-NVTV27.ts
+#EXTINF:-1 tvg-chno="116355" tvg-name="Narcos" tvg-logo="https://zap2it.tmsimg.com/assets/s116355_ll_h6_aa.png" group-title="United States" tvg-id="PTVNARC" tvc-guide-stationid="116355",Narcos
+http://example.local/USA-PTVNARC.ts
+#EXTINF:-1 tvg-chno="124271" tvg-name="Naruto" tvg-logo="https://zap2it.tmsimg.com/assets/s124271_ll_h15_aa.png" group-title="Germany" tvg-id="NARUTO" tvc-guide-stationid="124271",Naruto
+http://example.local/DEU-NARUTO.ts
+#EXTINF:-1 tvg-chno="162105" tvg-name="Naruto" tvg-logo="https://zap2it.tmsimg.com/assets/s162105_ll_h15_aa.png" group-title="United States" tvg-id="NRUTO" tvc-guide-stationid="162105",Naruto
+http://example.local/USA-NRUTO.ts
+#EXTINF:-1 tvg-chno="124271" tvg-name="Naruto" tvg-logo="https://zap2it.tmsimg.com/assets/s124271_ll_h15_aa.png" group-title="Austria" tvg-id="NARUTO" tvc-guide-stationid="124271",Naruto
+http://example.local/AUT-NARUTO.ts
+#EXTINF:-1 tvg-chno="124271" tvg-name="Naruto" tvg-logo="https://zap2it.tmsimg.com/assets/s124271_ll_h15_aa.png" group-title="Switzerland" tvg-id="NARUTO" tvc-guide-stationid="124271",Naruto
+http://example.local/CHE-NARUTO.ts
+#EXTINF:-1 tvg-chno="24234" tvg-name="NASA Select" tvg-logo="https://zap2it.tmsimg.com/assets/s12553_ll_h15_aa.png" group-title="United States" tvg-id="NASASEL" tvc-guide-stationid="24234",NASA Select
+http://example.local/USA-NASASEL.ts
+#EXTINF:-1 tvg-chno="12553" tvg-name="NASA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s12553_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="NASA" tvc-guide-stationid="12553",NASA TV
+http://example.local/PRI-NASA.ts
+#EXTINF:-1 tvg-chno="12553" tvg-name="NASA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s12553_ll_h15_aa.png" group-title="Bermuda" tvg-id="NASA" tvc-guide-stationid="12553",NASA TV
+http://example.local/BMU-NASA.ts
+#EXTINF:-1 tvg-chno="68212" tvg-name="NASA TV Education" group-title="United States" tvg-id="NASAEDU" tvc-guide-stationid="68212",NASA TV Education
+http://example.local/USA-NASAEDU.ts
+#EXTINF:-1 tvg-chno="66085" tvg-name="NASA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s66085_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="NASAHD" tvc-guide-stationid="66085",NASA TV HD
+http://example.local/DOM-NASAHD.ts
+#EXTINF:-1 tvg-chno="68211" tvg-name="NASA TV Media" tvg-logo="https://zap2it.tmsimg.com/assets/s68211_ll_h15_aa.png" group-title="United States" tvg-id="NASAMED" tvc-guide-stationid="68211",NASA TV Media
+http://example.local/USA-NASAMED.ts
+#EXTINF:-1 tvg-chno="119713" tvg-name="NASA TV UHD" group-title="United States" tvg-id="NASATV" tvc-guide-stationid="119713",NASA TV UHD
+http://example.local/USA-NASATV.ts
+#EXTINF:-1 tvg-chno="119713" tvg-name="NASA TV UHD" group-title="Switzerland" tvg-id="NASATV" tvc-guide-stationid="119713",NASA TV UHD
+http://example.local/CHE-NASATV.ts
+#EXTINF:-1 tvg-chno="176043" tvg-name="NASA+" tvg-logo="https://zap2it.tmsimg.com/assets/s176043_ll_h9_aa.png" group-title="United States" tvg-id="NASAPLS" tvc-guide-stationid="176043",NASA+
+http://example.local/USA-NASAPLS.ts
+#EXTINF:-1 tvg-chno="182106" tvg-name="NASCAR Battle Cam" tvg-logo="https://zap2it.tmsimg.com/assets/s182106_ll_h15_aa.png" group-title="United States" tvg-id="CWBC" tvc-guide-stationid="182106",NASCAR Battle Cam
+http://example.local/USA-CWBC.ts
+#EXTINF:-1 tvg-chno="182107" tvg-name="NASCAR Driver CAM" tvg-logo="https://zap2it.tmsimg.com/assets/s182107_ll_h15_aa.png" group-title="United States" tvg-id="CWDC" tvc-guide-stationid="182107",NASCAR Driver CAM
+http://example.local/USA-CWDC.ts
+#EXTINF:-1 tvg-chno="183238" tvg-name="NASCAR Driver Cam" tvg-logo="https://zap2it.tmsimg.com/assets/s183238_ll_h15_aa.png" group-title="United States" tvg-id="CWDC2" tvc-guide-stationid="183238",NASCAR Driver Cam
+http://example.local/USA-CWDC2.ts
+#EXTINF:-1 tvg-chno="54339" tvg-name="NASCAR Hot Pass 794" tvg-logo="https://zap2it.tmsimg.com/assets/s79883_ll_h9_aa.png" group-title="Canada" tvg-id="HPD794" tvc-guide-stationid="54339",NASCAR Hot Pass 794
+http://example.local/CAN-HPD794.ts
+#EXTINF:-1 tvg-chno="54340" tvg-name="NASCAR Hot Pass 795" tvg-logo="https://zap2it.tmsimg.com/assets/s79883_ll_h9_aa.png" group-title="Canada" tvg-id="HPD795" tvc-guide-stationid="54340",NASCAR Hot Pass 795
+http://example.local/CAN-HPD795.ts
+#EXTINF:-1 tvg-chno="54341" tvg-name="NASCAR Hot Pass 796" tvg-logo="https://zap2it.tmsimg.com/assets/s79883_ll_h9_aa.png" group-title="Canada" tvg-id="HPD796" tvc-guide-stationid="54341",NASCAR Hot Pass 796
+http://example.local/CAN-HPD796.ts
+#EXTINF:-1 tvg-chno="54342" tvg-name="NASCAR Hot Pass 797" tvg-logo="https://zap2it.tmsimg.com/assets/s79883_ll_h9_aa.png" group-title="Canada" tvg-id="HPD797" tvc-guide-stationid="54342",NASCAR Hot Pass 797
+http://example.local/CAN-HPD797.ts
+#EXTINF:-1 tvg-chno="54343" tvg-name="NASCAR Hot Pass 798" tvg-logo="https://zap2it.tmsimg.com/assets/s79883_ll_h9_aa.png" group-title="Canada" tvg-id="HPD798" tvc-guide-stationid="54343",NASCAR Hot Pass 798
+http://example.local/CAN-HPD798.ts
+#EXTINF:-1 tvg-chno="54344" tvg-name="NASCAR Hot Pass 799" tvg-logo="https://zap2it.tmsimg.com/assets/s79883_ll_h9_aa.png" group-title="Canada" tvg-id="HPD799" tvc-guide-stationid="54344",NASCAR Hot Pass 799
+http://example.local/CAN-HPD799.ts
+#EXTINF:-1 tvg-chno="158128" tvg-name="Nash Bridges" tvg-logo="https://zap2it.tmsimg.com/assets/s158128_ll_h15_aa.png" group-title="United States" tvg-id="NSHBRG" tvc-guide-stationid="158128",Nash Bridges
+http://example.local/USA-NSHBRG.ts
+#EXTINF:-1 tvg-chno="99800" tvg-name="Nash Kinomir" tvg-logo="https://zap2it.tmsimg.com/assets/s99800_ll_h15_aa.png" group-title="Germany" tvg-id="KINOMIR" tvc-guide-stationid="99800",Nash Kinomir
+http://example.local/DEU-KINOMIR.ts
+#EXTINF:-1 tvg-chno="99800" tvg-name="Nash Kinomir" tvg-logo="https://zap2it.tmsimg.com/assets/s99800_ll_h15_aa.png" group-title="Switzerland" tvg-id="KINOMIR" tvc-guide-stationid="99800",Nash Kinomir
+http://example.local/CHE-KINOMIR.ts
+#EXTINF:-1 tvg-chno="96484" tvg-name="Nashe Kino Russia" tvg-logo="https://zap2it.tmsimg.com/assets/s96484_ll_h15_aa.png" group-title="Germany" tvg-id="NASKIRU" tvc-guide-stationid="96484",Nashe Kino Russia
+http://example.local/DEU-NASKIRU.ts
+#EXTINF:-1 tvg-chno="118859" tvg-name="Nashville" tvg-logo="https://zap2it.tmsimg.com/assets/s118859_ll_h15_aa.png" group-title="United States" tvg-id="NASH" tvc-guide-stationid="118859",Nashville
+http://example.local/USA-NASH.ts
+#EXTINF:-1 tvg-chno="100211" tvg-name="Nashville Predators: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlnas.png" group-title="United States" tvg-id="NHLNAS" tvc-guide-stationid="100211",Nashville Predators: NHL Center Ice
+http://example.local/USA-NHLNAS.ts
+#EXTINF:-1 tvg-chno="127984" tvg-name="Nashville TV" tvg-logo="https://zap2it.tmsimg.com/assets/s127984_ll_h9_aa.png" group-title="Germany" tvg-id="NASHNL" tvc-guide-stationid="127984",Nashville TV
+http://example.local/DEU-NASHNL.ts
+#EXTINF:-1 tvg-chno="194908" tvg-name="Nasz nowy dom HD" group-title="Poland" tvg-id="NNDOM" tvc-guide-stationid="194908",Nasz nowy dom HD
+http://example.local/POL-NNDOM.ts
+#EXTINF:-1 tvg-chno="112839" tvg-name="Nat Geo Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Mexico" tvg-id="NGKCAMC" tvc-guide-stationid="112839",Nat Geo Kids
+http://example.local/MEX-NGKCAMC.ts
+#EXTINF:-1 tvg-chno="105877" tvg-name="Nat Geo Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Mexico" tvg-id="NGKCM" tvc-guide-stationid="105877",Nat Geo Kids
+http://example.local/MEX-NGKCM.ts
+#EXTINF:-1 tvg-chno="105878" tvg-name="Nat Geo Kids HD" group-title="Mexico" tvg-id="NGKCMHD" tvc-guide-stationid="105878",Nat Geo Kids HD
+http://example.local/MEX-NGKCMHD.ts
+#EXTINF:-1 tvg-chno="105878" tvg-name="Nat Geo Kids HD" group-title="Chile" tvg-id="NGKCMHD" tvc-guide-stationid="105878",Nat Geo Kids HD
+http://example.local/CHL-NGKCMHD.ts
+#EXTINF:-1 tvg-chno="72449" tvg-name="Nat Geo Mundo" tvg-logo="https://zap2it.tmsimg.com/assets/s72449_ll_h15_aa.png" group-title="United States" tvg-id="NGMUNDO" tvc-guide-stationid="72449",Nat Geo Mundo
+http://example.local/USA-NGMUNDO.ts
+#EXTINF:-1 tvg-chno="117788" tvg-name="Nat Geo Mundo" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="United States" tvg-id="NGMUNDH" tvc-guide-stationid="117788",Nat Geo Mundo
+http://example.local/USA-NGMUNDH.ts
+#EXTINF:-1 tvg-chno="91985" tvg-name="Nat Geo People HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91985_ll_h15_aa.png" group-title="Germany" tvg-id="NATGPHD" tvc-guide-stationid="91985",Nat Geo People HD
+http://example.local/DEU-NATGPHD.ts
+#EXTINF:-1 tvg-chno="118673" tvg-name="Nat Geo People HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118673_ll_h15_aa.png" group-title="Poland" tvg-id="NGPEPL" tvc-guide-stationid="118673",Nat Geo People HD
+http://example.local/POL-NGPEPL.ts
+#EXTINF:-1 tvg-chno="122718" tvg-name="Nat Geo Wild (Flanders) HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122718_ll_h15_aa.png" group-title="Belgium" tvg-id="NGWFLHD" tvc-guide-stationid="122718",Nat Geo Wild (Flanders) HD
+http://example.local/BEL-NGWFLHD.ts
+#EXTINF:-1 tvg-chno="118674" tvg-name="Nat Geo Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118674_ll_h15_aa.png" group-title="Poland" tvg-id="NGWIPL" tvc-guide-stationid="118674",Nat Geo Wild HD
+http://example.local/POL-NGWIPL.ts
+#EXTINF:-1 tvg-chno="113113" tvg-name="Nat Geo Wild HD [VM CUST]" group-title="United Kingdom" tvg-id="NGWDHD" tvc-guide-stationid="113113",Nat Geo Wild HD [VM CUST]
+http://example.local/GBR-NGWDHD.ts
+#EXTINF:-1 tvg-chno="90667" tvg-name="Nat Geo Wild On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s90667_ll_h15_aa.png" group-title="United States" tvg-id="NGWDM" tvc-guide-stationid="90667",Nat Geo Wild On Demand
+http://example.local/USA-NGWDM.ts
+#EXTINF:-1 tvg-chno="10991" tvg-name="National Broadcasting Company (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="NBC" tvc-guide-stationid="10991",National Broadcasting Company (NBC)
+http://example.local/TTO-NBC.ts
+#EXTINF:-1 tvg-chno="10991" tvg-name="National Broadcasting Company (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="Anguilla" tvg-id="NBC" tvc-guide-stationid="10991",National Broadcasting Company (NBC)
+http://example.local/AIA-NBC.ts
+#EXTINF:-1 tvg-chno="10991" tvg-name="National Broadcasting Company (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="NBC" tvc-guide-stationid="10991",National Broadcasting Company (NBC)
+http://example.local/PRI-NBC.ts
+#EXTINF:-1 tvg-chno="10991" tvg-name="National Broadcasting Company (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="Cayman Islands" tvg-id="NBC" tvc-guide-stationid="10991",National Broadcasting Company (NBC)
+http://example.local/CYM-NBC.ts
+#EXTINF:-1 tvg-chno="10991" tvg-name="National Broadcasting Company (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="Jamaica" tvg-id="NBC" tvc-guide-stationid="10991",National Broadcasting Company (NBC)
+http://example.local/JAM-NBC.ts
+#EXTINF:-1 tvg-chno="10991" tvg-name="National Broadcasting Company (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="Dominican Republic" tvg-id="NBC" tvc-guide-stationid="10991",National Broadcasting Company (NBC)
+http://example.local/DOM-NBC.ts
+#EXTINF:-1 tvg-chno="10991" tvg-name="National Broadcasting Company (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="NBC" tvc-guide-stationid="10991",National Broadcasting Company (NBC)
+http://example.local/BES-NBC.ts
+#EXTINF:-1 tvg-chno="10991" tvg-name="National Broadcasting Company (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="St. Lucia" tvg-id="NBC" tvc-guide-stationid="10991",National Broadcasting Company (NBC)
+http://example.local/LCA-NBC.ts
+#EXTINF:-1 tvg-chno="10991" tvg-name="National Broadcasting Company (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="NBC" tvc-guide-stationid="10991",National Broadcasting Company (NBC)
+http://example.local/KNA-NBC.ts
+#EXTINF:-1 tvg-chno="10991" tvg-name="National Broadcasting Company (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="Curacao" tvg-id="NBC" tvc-guide-stationid="10991",National Broadcasting Company (NBC)
+http://example.local/CUW-NBC.ts
+#EXTINF:-1 tvg-chno="10991" tvg-name="National Broadcasting Company (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="Belize" tvg-id="NBC" tvc-guide-stationid="10991",National Broadcasting Company (NBC)
+http://example.local/BLZ-NBC.ts
+#EXTINF:-1 tvg-chno="10991" tvg-name="National Broadcasting Company (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="Antigua and Barbuda" tvg-id="NBC" tvc-guide-stationid="10991",National Broadcasting Company (NBC)
+http://example.local/ATG-NBC.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/TTO-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Panama" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/PAN-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Argentina" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/ARG-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Peru" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/PER-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Anguilla" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/AIA-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/PRI-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Costa Rica" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/CRI-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Ecuador" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/ECU-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Venezuela" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/VEN-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Uruguay" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/URY-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/DOM-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Guatemala" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/GTM-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Aruba" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/ABW-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="St. Lucia" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/LCA-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/KNA-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Dominica" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/DMA-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Barbados" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/BRB-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/VCT-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Curacao" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/CUW-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Saint Martin" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/MAF-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Grenada" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/GRD-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Belize" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/BLZ-NGKLA.ts
+#EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
+http://example.local/ATG-NGKLA.ts
+#EXTINF:-1 tvg-chno="77692" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s77692_ll_h15_aa.png" group-title="Sweden" tvg-id="NATGECH" tvc-guide-stationid="77692",National Geographic
+http://example.local/SWE-NATGECH.ts
+#EXTINF:-1 tvg-chno="88254" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s88254_ll_h15_aa.png" group-title="Finland" tvg-id="NTLGEO" tvc-guide-stationid="88254",National Geographic
+http://example.local/FIN-NTLGEO.ts
+#EXTINF:-1 tvg-chno="83622" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s83622_ll_h15_ab.png" group-title="Germany" tvg-id="NGEODEU" tvc-guide-stationid="83622",National Geographic
+http://example.local/DEU-NGEODEU.ts
+#EXTINF:-1 tvg-chno="77692" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s77692_ll_h15_aa.png" group-title="Germany" tvg-id="NATGECH" tvc-guide-stationid="77692",National Geographic
+http://example.local/DEU-NATGECH.ts
+#EXTINF:-1 tvg-chno="52472" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s52472_ll_h15_aa.png" group-title="Germany" tvg-id="NATGEF" tvc-guide-stationid="52472",National Geographic
+http://example.local/DEU-NATGEF.ts
+#EXTINF:-1 tvg-chno="86938" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s86938_ll_h15_ab.png" group-title="Germany" tvg-id="NGEOIB" tvc-guide-stationid="86938",National Geographic
+http://example.local/DEU-NGEOIB.ts
+#EXTINF:-1 tvg-chno="21592" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s21592_ll_h15_aa.png" group-title="Germany" tvg-id="NATGEO" tvc-guide-stationid="21592",National Geographic
+http://example.local/DEU-NATGEO.ts
+#EXTINF:-1 tvg-chno="113204" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Mexico" tvg-id="NGCCLAM" tvc-guide-stationid="113204",National Geographic
+http://example.local/MEX-NGCCLAM.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Mexico" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/MEX-NGCLA.ts
+#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Mexico" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
+http://example.local/MEX-NGCLAH.ts
+#EXTINF:-1 tvg-chno="90918" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Mexico" tvg-id="NGLATHD" tvc-guide-stationid="90918",National Geographic
+http://example.local/MEX-NGLATHD.ts
+#EXTINF:-1 tvg-chno="83622" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s83622_ll_h15_ab.png" group-title="Austria" tvg-id="NGEODEU" tvc-guide-stationid="83622",National Geographic
+http://example.local/AUT-NGEODEU.ts
+#EXTINF:-1 tvg-chno="21592" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s21592_ll_h15_aa.png" group-title="United Kingdom" tvg-id="NATGEO" tvc-guide-stationid="21592",National Geographic
+http://example.local/GBR-NATGEO.ts
+#EXTINF:-1 tvg-chno="21592" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s21592_ll_h15_aa.png" group-title="Ireland" tvg-id="NATGEO" tvc-guide-stationid="21592",National Geographic
+http://example.local/IRL-NATGEO.ts
+#EXTINF:-1 tvg-chno="52472" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s52472_ll_h15_aa.png" group-title="Belgium" tvg-id="NATGEF" tvc-guide-stationid="52472",National Geographic
+http://example.local/BEL-NATGEF.ts
+#EXTINF:-1 tvg-chno="54593" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s54593_ll_h15_aa.png" group-title="Brazil" tvg-id="NGCB" tvc-guide-stationid="54593",National Geographic
+http://example.local/BRA-NGCB.ts
+#EXTINF:-1 tvg-chno="86938" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s86938_ll_h15_ab.png" group-title="Spain" tvg-id="NGEOIB" tvc-guide-stationid="86938",National Geographic
+http://example.local/ESP-NGEOIB.ts
+#EXTINF:-1 tvg-chno="83622" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s83622_ll_h15_ab.png" group-title="Switzerland" tvg-id="NGEODEU" tvc-guide-stationid="83622",National Geographic
+http://example.local/CHE-NGEODEU.ts
+#EXTINF:-1 tvg-chno="52472" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s52472_ll_h15_aa.png" group-title="Switzerland" tvg-id="NATGEF" tvc-guide-stationid="52472",National Geographic
+http://example.local/CHE-NATGEF.ts
+#EXTINF:-1 tvg-chno="60870" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s60870_ll_h15_aa.png" group-title="Norway" tvg-id="NGENOR" tvc-guide-stationid="60870",National Geographic
+http://example.local/NOR-NGENOR.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/TTO-NGCLA.ts
+#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
+http://example.local/TTO-NGCLAH.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Panama" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/PAN-NGCLA.ts
+#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Panama" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
+http://example.local/PAN-NGCLAH.ts
+#EXTINF:-1 tvg-chno="80076" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Panama" tvg-id="NGCCLHD" tvc-guide-stationid="80076",National Geographic
+http://example.local/PAN-NGCCLHD.ts
+#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Argentina" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
+http://example.local/ARG-NGCLAH.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Argentina" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/ARG-NGCLA.ts
+#EXTINF:-1 tvg-chno="41245" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Argentina" tvg-id="NGCARG" tvc-guide-stationid="41245",National Geographic
+http://example.local/ARG-NGCARG.ts
+#EXTINF:-1 tvg-chno="90918" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Argentina" tvg-id="NGLATHD" tvc-guide-stationid="90918",National Geographic
+http://example.local/ARG-NGLATHD.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Peru" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/PER-NGCLA.ts
+#EXTINF:-1 tvg-chno="50289" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Peru" tvg-id="NGLAT" tvc-guide-stationid="50289",National Geographic
+http://example.local/PER-NGLAT.ts
+#EXTINF:-1 tvg-chno="90918" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Peru" tvg-id="NGLATHD" tvc-guide-stationid="90918",National Geographic
+http://example.local/PER-NGLATHD.ts
+#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Peru" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
+http://example.local/PER-NGCLAH.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Anguilla" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/AIA-NGCLA.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Puerto Rico" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/PRI-NGCLA.ts
+#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
+http://example.local/PRI-NGCLAH.ts
+#EXTINF:-1 tvg-chno="80076" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="NGCCLHD" tvc-guide-stationid="80076",National Geographic
+http://example.local/PRI-NGCCLHD.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Colombia" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/COL-NGCLA.ts
+#EXTINF:-1 tvg-chno="90918" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Colombia" tvg-id="NGLATHD" tvc-guide-stationid="90918",National Geographic
+http://example.local/COL-NGLATHD.ts
+#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Colombia" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
+http://example.local/COL-NGCLAH.ts
+#EXTINF:-1 tvg-chno="50289" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Colombia" tvg-id="NGLAT" tvc-guide-stationid="50289",National Geographic
+http://example.local/COL-NGLAT.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Costa Rica" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/CRI-NGCLA.ts
+#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Costa Rica" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
+http://example.local/CRI-NGCLAH.ts
+#EXTINF:-1 tvg-chno="50289" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Chile" tvg-id="NGLAT" tvc-guide-stationid="50289",National Geographic
+http://example.local/CHL-NGLAT.ts
+#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Chile" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
+http://example.local/CHL-NGCLAH.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Chile" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/CHL-NGCLA.ts
+#EXTINF:-1 tvg-chno="90918" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Chile" tvg-id="NGLATHD" tvc-guide-stationid="90918",National Geographic
+http://example.local/CHL-NGLATHD.ts
+#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Ecuador" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
+http://example.local/ECU-NGCLAH.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Ecuador" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/ECU-NGCLA.ts
+#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Jamaica" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
+http://example.local/JAM-NGCLAH.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Venezuela" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/VEN-NGCLA.ts
+#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Venezuela" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
+http://example.local/VEN-NGCLAH.ts
+#EXTINF:-1 tvg-chno="41245" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Uruguay" tvg-id="NGCARG" tvc-guide-stationid="41245",National Geographic
+http://example.local/URY-NGCARG.ts
+#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Uruguay" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
+http://example.local/URY-NGCLAH.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Uruguay" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/URY-NGCLA.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Dominican Republic" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/DOM-NGCLA.ts
+#EXTINF:-1 tvg-chno="41245" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="NGCARG" tvc-guide-stationid="41245",National Geographic
+http://example.local/DOM-NGCARG.ts
+#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
+http://example.local/DOM-NGCLAH.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Guatemala" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/GTM-NGCLA.ts
+#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Guatemala" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
+http://example.local/GTM-NGCLAH.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Aruba" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/ABW-NGCLA.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/BES-NGCLA.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="St. Lucia" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/LCA-NGCLA.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="St. Kitts and Nevis" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/KNA-NGCLA.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Dominica" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/DMA-NGCLA.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Guyana" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/GUY-NGCLA.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Barbados" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/BRB-NGCLA.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Saint Vincent and the Grenadines" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/VCT-NGCLA.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Curacao" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/CUW-NGCLA.ts
+#EXTINF:-1 tvg-chno="65532" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_aa.png" group-title="Curacao" tvg-id="NGLATE" tvc-guide-stationid="65532",National Geographic
+http://example.local/CUW-NGLATE.ts
+#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Saint Martin" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
+http://example.local/MAF-NGCLAH.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Saint Martin" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/MAF-NGCLA.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Grenada" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/GRD-NGCLA.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Belize" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/BLZ-NGCLA.ts
+#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Belize" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
+http://example.local/BLZ-NGCLAH.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Antigua and Barbuda" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/ATG-NGCLA.ts
+#EXTINF:-1 tvg-chno="26882" tvg-name="National Geographic (Canada)" tvg-logo="https://zap2it.tmsimg.com/assets/s26882_ll_h15_ab.png" group-title="Canada" tvg-id="NATGC" tvc-guide-stationid="26882",National Geographic (Canada)
+http://example.local/CAN-NATGC.ts
+#EXTINF:-1 tvg-chno="24112" tvg-name="National Geographic +1" tvg-logo="https://zap2it.tmsimg.com/assets/s24112_ll_h15_ab.png" group-title="Germany" tvg-id="NATG1" tvc-guide-stationid="24112",National Geographic +1
+http://example.local/DEU-NATG1.ts
+#EXTINF:-1 tvg-chno="24112" tvg-name="National Geographic +1" tvg-logo="https://zap2it.tmsimg.com/assets/s24112_ll_h15_ab.png" group-title="United Kingdom" tvg-id="NATG1" tvc-guide-stationid="24112",National Geographic +1
+http://example.local/GBR-NATG1.ts
+#EXTINF:-1 tvg-chno="24112" tvg-name="National Geographic +1" tvg-logo="https://zap2it.tmsimg.com/assets/s24112_ll_h15_ab.png" group-title="Ireland" tvg-id="NATG1" tvc-guide-stationid="24112",National Geographic +1
+http://example.local/IRL-NATG1.ts
+#EXTINF:-1 tvg-chno="54743" tvg-name="National Geographic Canada HD" tvg-logo="https://zap2it.tmsimg.com/assets/s54743_ll_h15_ab.png" group-title="Canada" tvg-id="NATGCHD" tvc-guide-stationid="54743",National Geographic Canada HD
+http://example.local/CAN-NATGCHD.ts
+#EXTINF:-1 tvg-chno="98020" tvg-name="National Geographic Caribbean" group-title="Aruba" tvg-id="NGCCAR" tvc-guide-stationid="98020",National Geographic Caribbean
+http://example.local/ABW-NGCCAR.ts
+#EXTINF:-1 tvg-chno="105092" tvg-name="National Geographic Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s105092_ll_h15_aa.png" group-title="Germany" tvg-id="NATGENL" tvc-guide-stationid="105092",National Geographic Channel
+http://example.local/DEU-NATGENL.ts
+#EXTINF:-1 tvg-chno="105092" tvg-name="National Geographic Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s105092_ll_h15_aa.png" group-title="Belgium" tvg-id="NATGENL" tvc-guide-stationid="105092",National Geographic Channel
+http://example.local/BEL-NATGENL.ts
+#EXTINF:-1 tvg-chno="105092" tvg-name="National Geographic Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s105092_ll_h15_aa.png" group-title="Netherlands" tvg-id="NATGENL" tvc-guide-stationid="105092",National Geographic Channel
+http://example.local/NLD-NATGENL.ts
+#EXTINF:-1 tvg-chno="118672" tvg-name="National Geographic Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118672_ll_h15_aa.png" group-title="Poland" tvg-id="NATGEPL" tvc-guide-stationid="118672",National Geographic Channel HD
+http://example.local/POL-NATGEPL.ts
+#EXTINF:-1 tvg-chno="77693" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s77693_ll_h15_aa.png" group-title="Sweden" tvg-id="NATGEHD" tvc-guide-stationid="77693",National Geographic HD
+http://example.local/SWE-NATGEHD.ts
+#EXTINF:-1 tvg-chno="52473" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s52473_ll_h15_aa.png" group-title="France" tvg-id="NATGHD" tvc-guide-stationid="52473",National Geographic HD
+http://example.local/FRA-NATGHD.ts
+#EXTINF:-1 tvg-chno="88470" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88470_ll_h15_aa.png" group-title="Finland" tvg-id="NGEOFIN" tvc-guide-stationid="88470",National Geographic HD
+http://example.local/FIN-NGEOFIN.ts
+#EXTINF:-1 tvg-chno="86877" tvg-name="National Geographic HD" tvg-logo="https://logos.jesmann.com/NGEOHD.png" group-title="Germany" tvg-id="NGEOHD" tvc-guide-stationid="86877",National Geographic HD
+http://example.local/DEU-NGEOHD.ts
+#EXTINF:-1 tvg-chno="52473" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s52473_ll_h15_aa.png" group-title="Germany" tvg-id="NATGHD" tvc-guide-stationid="52473",National Geographic HD
+http://example.local/DEU-NATGHD.ts
+#EXTINF:-1 tvg-chno="49534" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49534_ll_h15_ab.png" group-title="Germany" tvg-id="NGCHDUK" tvc-guide-stationid="49534",National Geographic HD
+http://example.local/DEU-NGCHDUK.ts
+#EXTINF:-1 tvg-chno="49438" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49438_h3_aa.png" group-title="United States" tvg-id="NGCHD" tvc-guide-stationid="49438",National Geographic HD
+http://example.local/USA-NGCHD.ts
+#EXTINF:-1 tvg-chno="59929" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="United States" tvg-id="GNGCHD" tvc-guide-stationid="59929",National Geographic HD
+http://example.local/USA-GNGCHD.ts
+#EXTINF:-1 tvg-chno="86877" tvg-name="National Geographic HD" tvg-logo="https://logos.jesmann.com/NGEOHD.png" group-title="Austria" tvg-id="NGEOHD" tvc-guide-stationid="86877",National Geographic HD
+http://example.local/AUT-NGEOHD.ts
+#EXTINF:-1 tvg-chno="49534" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49534_ll_h15_ab.png" group-title="United Kingdom" tvg-id="NGCHDUK" tvc-guide-stationid="49534",National Geographic HD
+http://example.local/GBR-NGCHDUK.ts
+#EXTINF:-1 tvg-chno="68137" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68137_ll_h15_aa.png" group-title="United Kingdom" tvg-id="NATGHDE" tvc-guide-stationid="68137",National Geographic HD
+http://example.local/GBR-NATGHDE.ts
+#EXTINF:-1 tvg-chno="49534" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49534_ll_h15_ab.png" group-title="Ireland" tvg-id="NGCHDUK" tvc-guide-stationid="49534",National Geographic HD
+http://example.local/IRL-NGCHDUK.ts
+#EXTINF:-1 tvg-chno="52473" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s52473_ll_h15_aa.png" group-title="Belgium" tvg-id="NATGHD" tvc-guide-stationid="52473",National Geographic HD
+http://example.local/BEL-NATGHD.ts
+#EXTINF:-1 tvg-chno="121147" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121147_ll_h15_aa.png" group-title="Belgium" tvg-id="NATGBEHD" tvc-guide-stationid="121147",National Geographic HD
+http://example.local/BEL-NATGBEHD.ts
+#EXTINF:-1 tvg-chno="107211" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s107211_ll_h15_aa.png" group-title="Netherlands" tvg-id="NGNLHD" tvc-guide-stationid="107211",National Geographic HD
+http://example.local/NLD-NGNLHD.ts
+#EXTINF:-1 tvg-chno="91208" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91208_ll_h15_aa.png" group-title="Spain" tvg-id="NATGSHD" tvc-guide-stationid="91208",National Geographic HD
+http://example.local/ESP-NATGSHD.ts
+#EXTINF:-1 tvg-chno="49438" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49438_h3_aa.png" group-title="Turks and Caicos" tvg-id="NGCHD" tvc-guide-stationid="49438",National Geographic HD
+http://example.local/TCA-NGCHD.ts
+#EXTINF:-1 tvg-chno="86877" tvg-name="National Geographic HD" tvg-logo="https://logos.jesmann.com/NGEOHD.png" group-title="Switzerland" tvg-id="NGEOHD" tvc-guide-stationid="86877",National Geographic HD
+http://example.local/CHE-NGEOHD.ts
+#EXTINF:-1 tvg-chno="52473" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s52473_ll_h15_aa.png" group-title="Switzerland" tvg-id="NATGHD" tvc-guide-stationid="52473",National Geographic HD
+http://example.local/CHE-NATGHD.ts
+#EXTINF:-1 tvg-chno="49534" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49534_ll_h15_ab.png" group-title="Switzerland" tvg-id="NGCHDUK" tvc-guide-stationid="49534",National Geographic HD
+http://example.local/CHE-NGCHDUK.ts
+#EXTINF:-1 tvg-chno="90727" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90727_ll_h15_aa.png" group-title="Norway" tvg-id="NATGENH" tvc-guide-stationid="90727",National Geographic HD
+http://example.local/NOR-NATGENH.ts
+#EXTINF:-1 tvg-chno="49438" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49438_h3_aa.png" group-title="Puerto Rico" tvg-id="NGCHD" tvc-guide-stationid="49438",National Geographic HD
+http://example.local/PRI-NGCHD.ts
+#EXTINF:-1 tvg-chno="49438" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49438_h3_aa.png" group-title="Cayman Islands" tvg-id="NGCHD" tvc-guide-stationid="49438",National Geographic HD
+http://example.local/CYM-NGCHD.ts
+#EXTINF:-1 tvg-chno="49438" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49438_h3_aa.png" group-title="Jamaica" tvg-id="NGCHD" tvc-guide-stationid="49438",National Geographic HD
+http://example.local/JAM-NGCHD.ts
+#EXTINF:-1 tvg-chno="49438" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49438_h3_aa.png" group-title="Aruba" tvg-id="NGCHD" tvc-guide-stationid="49438",National Geographic HD
+http://example.local/ABW-NGCHD.ts
+#EXTINF:-1 tvg-chno="49438" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49438_h3_aa.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="NGCHD" tvc-guide-stationid="49438",National Geographic HD
+http://example.local/BES-NGCHD.ts
+#EXTINF:-1 tvg-chno="49438" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49438_h3_aa.png" group-title="Bermuda" tvg-id="NGCHD" tvc-guide-stationid="49438",National Geographic HD
+http://example.local/BMU-NGCHD.ts
+#EXTINF:-1 tvg-chno="49438" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49438_h3_aa.png" group-title="St. Kitts and Nevis" tvg-id="NGCHD" tvc-guide-stationid="49438",National Geographic HD
+http://example.local/KNA-NGCHD.ts
+#EXTINF:-1 tvg-chno="49438" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49438_h3_aa.png" group-title="Curacao" tvg-id="NGCHD" tvc-guide-stationid="49438",National Geographic HD
+http://example.local/CUW-NGCHD.ts
+#EXTINF:-1 tvg-chno="49438" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49438_h3_aa.png" group-title="Belize" tvg-id="NGCHD" tvc-guide-stationid="49438",National Geographic HD
+http://example.local/BLZ-NGCHD.ts
+#EXTINF:-1 tvg-chno="95903" tvg-name="National Geographic HD (KD)" tvg-logo="https://zap2it.tmsimg.com/assets/s95903_ll_h15_ab.png" group-title="Germany" tvg-id="NGHDKD" tvc-guide-stationid="95903",National Geographic HD (KD)
+http://example.local/DEU-NGHDKD.ts
+#EXTINF:-1 tvg-chno="71601" tvg-name="National Geographic HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s49438_ll_h15_ab.png" group-title="United States" tvg-id="NGCPHD" tvc-guide-stationid="71601",National Geographic HD (Pacific)
+http://example.local/USA-NGCPHD.ts
+#EXTINF:-1 tvg-chno="46908" tvg-name="National Geographic On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="Canada" tvg-id="NGCOD" tvc-guide-stationid="46908",National Geographic On Demand
+http://example.local/CAN-NGCOD.ts
+#EXTINF:-1 tvg-chno="34893" tvg-name="National Geographic On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_h3_aa.png" group-title="United States" tvg-id="NGCDM" tvc-guide-stationid="34893",National Geographic On Demand
+http://example.local/USA-NGCDM.ts
+#EXTINF:-1 tvg-chno="71595" tvg-name="National Geographic Pacific" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="United States" tvg-id="NGCP" tvc-guide-stationid="71595",National Geographic Pacific
+http://example.local/USA-NGCP.ts
+#EXTINF:-1 tvg-chno="160651" tvg-name="National Geographic Sharks" tvg-logo="https://zap2it.tmsimg.com/assets/s160651_ll_h9_aa.png" group-title="United States" tvg-id="DISNGS" tvc-guide-stationid="160651",National Geographic Sharks
+http://example.local/USA-DISNGS.ts
+#EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="Germany" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
+http://example.local/DEU-NGC.ts
+#EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="United States" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
+http://example.local/USA-NGC.ts
+#EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="Turks and Caicos" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
+http://example.local/TCA-NGC.ts
+#EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
+http://example.local/TTO-NGC.ts
+#EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="Bahamas" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
+http://example.local/BHS-NGC.ts
+#EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="Anguilla" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
+http://example.local/AIA-NGC.ts
+#EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
+http://example.local/PRI-NGC.ts
+#EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
+http://example.local/CYM-NGC.ts
+#EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="Jamaica" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
+http://example.local/JAM-NGC.ts
+#EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
+http://example.local/BES-NGC.ts
+#EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="Bermuda" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
+http://example.local/BMU-NGC.ts
+#EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="St. Lucia" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
+http://example.local/LCA-NGC.ts
+#EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="St. Kitts and Nevis" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
+http://example.local/KNA-NGC.ts
+#EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="Barbados" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
+http://example.local/BRB-NGC.ts
+#EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
+http://example.local/VGB-NGC.ts
+#EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="Belize" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
+http://example.local/BLZ-NGC.ts
+#EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="Antigua and Barbuda" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
+http://example.local/ATG-NGC.ts
+#EXTINF:-1 tvg-chno="76858" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s76858_ll_h15_aa.png" group-title="Sweden" tvg-id="NATGW" tvc-guide-stationid="76858",National Geographic Wild
+http://example.local/SWE-NATGW.ts
+#EXTINF:-1 tvg-chno="83621" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s83621_ll_h15_ac.png" group-title="Germany" tvg-id="NGEOWG" tvc-guide-stationid="83621",National Geographic Wild
+http://example.local/DEU-NGEOWG.ts
+#EXTINF:-1 tvg-chno="23305" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s23305_ll_h15_ac.png" group-title="Germany" tvg-id="NGWILDE" tvc-guide-stationid="23305",National Geographic Wild
+http://example.local/DEU-NGWILDE.ts
+#EXTINF:-1 tvg-chno="66804" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s66804_ll_h15_ab.png" group-title="United States" tvg-id="NGWILD" tvc-guide-stationid="66804",National Geographic Wild
+http://example.local/USA-NGWILD.ts
+#EXTINF:-1 tvg-chno="83621" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s83621_ll_h15_ac.png" group-title="Austria" tvg-id="NGEOWG" tvc-guide-stationid="83621",National Geographic Wild
+http://example.local/AUT-NGEOWG.ts
+#EXTINF:-1 tvg-chno="23305" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s23305_ll_h15_ac.png" group-title="United Kingdom" tvg-id="NGWILDE" tvc-guide-stationid="23305",National Geographic Wild
+http://example.local/GBR-NGWILDE.ts
+#EXTINF:-1 tvg-chno="23305" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s23305_ll_h15_ac.png" group-title="Ireland" tvg-id="NGWILDE" tvc-guide-stationid="23305",National Geographic Wild
+http://example.local/IRL-NGWILDE.ts
+#EXTINF:-1 tvg-chno="84035" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s84035_ll_h15_aa.png" group-title="Spain" tvg-id="NATGWES" tvc-guide-stationid="84035",National Geographic Wild
+http://example.local/ESP-NATGWES.ts
+#EXTINF:-1 tvg-chno="87759" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s87759_ll_h15_ab.png" group-title="Denmark" tvg-id="NGEOWD" tvc-guide-stationid="87759",National Geographic Wild
+http://example.local/DNK-NGEOWD.ts
+#EXTINF:-1 tvg-chno="87450" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s87450_ll_h15_ab.png" group-title="Switzerland" tvg-id="NGEOWF" tvc-guide-stationid="87450",National Geographic Wild
+http://example.local/CHE-NGEOWF.ts
+#EXTINF:-1 tvg-chno="83621" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s83621_ll_h15_ac.png" group-title="Switzerland" tvg-id="NGEOWG" tvc-guide-stationid="83621",National Geographic Wild
+http://example.local/CHE-NGEOWG.ts
+#EXTINF:-1 tvg-chno="90724" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s90724_ll_h15_ab.png" group-title="Norway" tvg-id="NATGWNO" tvc-guide-stationid="90724",National Geographic Wild
+http://example.local/NOR-NATGWNO.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/TTO-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="66804" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s66804_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="NGWILD" tvc-guide-stationid="66804",National Geographic Wild
+http://example.local/TTO-NGWILD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Panama" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/PAN-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Argentina" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/ARG-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Peru" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/PER-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="66804" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s66804_ll_h15_ab.png" group-title="Bahamas" tvg-id="NGWILD" tvc-guide-stationid="66804",National Geographic Wild
+http://example.local/BHS-NGWILD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Anguilla" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/AIA-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/PRI-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Colombia" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/COL-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Costa Rica" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/CRI-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Chile" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/CHL-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="57730" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s57730_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="NGWDEUR" tvc-guide-stationid="57730",National Geographic Wild
+http://example.local/CYM-NGWDEUR.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Ecuador" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/ECU-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Venezuela" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/VEN-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/DOM-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Guatemala" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/GTM-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Aruba" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/ABW-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/BES-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="St. Lucia" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/LCA-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/KNA-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Dominica" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/DMA-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Barbados" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/BRB-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="57730" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s57730_ll_h15_aa.png" group-title="Barbados" tvg-id="NGWDEUR" tvc-guide-stationid="57730",National Geographic Wild
+http://example.local/BRB-NGWDEUR.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/VCT-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Curacao" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/CUW-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Saint Martin" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/MAF-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Grenada" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/GRD-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Belize" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/BLZ-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="91964" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s66491_ll_h15_ab.png" group-title="Belize" tvg-id="NGWLAHE" tvc-guide-stationid="91964",National Geographic Wild
+http://example.local/BLZ-NGWLAHE.ts
+#EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
+http://example.local/ATG-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="75447" tvg-name="National Geographic Wild Canada" tvg-logo="https://zap2it.tmsimg.com/assets/s75447_ll_h15_ad.png" group-title="Canada" tvg-id="NGWILDC" tvc-guide-stationid="75447",National Geographic Wild Canada
+http://example.local/CAN-NGWILDC.ts
+#EXTINF:-1 tvg-chno="75451" tvg-name="National Geographic Wild Canada HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75451_ll_h15_ad.png" group-title="Canada" tvg-id="NGWLDCH" tvc-guide-stationid="75451",National Geographic Wild Canada HD
+http://example.local/CAN-NGWLDCH.ts
+#EXTINF:-1 tvg-chno="76857" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s76857_ll_h15_aa.png" group-title="Sweden" tvg-id="NATGWHD" tvc-guide-stationid="76857",National Geographic Wild HD
+http://example.local/SWE-NATGWHD.ts
 #EXTINF:-1 tvg-chno="87635" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87635_ll_h15_aa.png" group-title="France" tvg-id="NGEOWHF" tvc-guide-stationid="87635",National Geographic Wild HD
 http://example.local/FRA-NGEOWHF.ts
-#EXTINF:-1 tvg-chno="86880" tvg-name="National Geographic Wild HD" tvg-logo="https://logos.jesmann.com/NTGWHD.png" group-title="Austria" tvg-id="NTGWHD" tvc-guide-stationid="86880",National Geographic Wild HD
-http://example.local/AUT-NTGWHD.ts
 #EXTINF:-1 tvg-chno="86880" tvg-name="National Geographic Wild HD" tvg-logo="https://logos.jesmann.com/NTGWHD.png" group-title="Germany" tvg-id="NTGWHD" tvc-guide-stationid="86880",National Geographic Wild HD
 http://example.local/DEU-NTGWHD.ts
 #EXTINF:-1 tvg-chno="101864" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s101864_ll_h15_ab.png" group-title="Germany" tvg-id="NGWHDKD" tvc-guide-stationid="101864",National Geographic Wild HD
 http://example.local/DEU-NGWHDKD.ts
-#EXTINF:-1 tvg-chno="90725" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90725_ll_h15_ab.png" group-title="Norway" tvg-id="NATGWNH" tvc-guide-stationid="90725",National Geographic Wild HD
-http://example.local/NOR-NATGWNH.ts
-#EXTINF:-1 tvg-chno="67331" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67331_ll_h15_ab.png" group-title="Jamaica" tvg-id="NGWIHD" tvc-guide-stationid="67331",National Geographic Wild HD
-http://example.local/JAM-NGWIHD.ts
-#EXTINF:-1 tvg-chno="67331" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67331_ll_h15_ab.png" group-title="Barbados" tvg-id="NGWIHD" tvc-guide-stationid="67331",National Geographic Wild HD
-http://example.local/BRB-NGWIHD.ts
-#EXTINF:-1 tvg-chno="56425" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s56425_ll_h15_aa.png" group-title="Barbados" tvg-id="NGWHD" tvc-guide-stationid="56425",National Geographic Wild HD
-http://example.local/BRB-NGWHD.ts
+#EXTINF:-1 tvg-chno="67331" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67331_ll_h15_ab.png" group-title="United States" tvg-id="NGWIHD" tvc-guide-stationid="67331",National Geographic Wild HD
+http://example.local/USA-NGWIHD.ts
+#EXTINF:-1 tvg-chno="56425" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s56425_ll_h15_aa.png" group-title="United States" tvg-id="NGWHD" tvc-guide-stationid="56425",National Geographic Wild HD
+http://example.local/USA-NGWHD.ts
+#EXTINF:-1 tvg-chno="86880" tvg-name="National Geographic Wild HD" tvg-logo="https://logos.jesmann.com/NTGWHD.png" group-title="Austria" tvg-id="NTGWHD" tvc-guide-stationid="86880",National Geographic Wild HD
+http://example.local/AUT-NTGWHD.ts
+#EXTINF:-1 tvg-chno="56425" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s56425_ll_h15_aa.png" group-title="United Kingdom" tvg-id="NGWHD" tvc-guide-stationid="56425",National Geographic Wild HD
+http://example.local/GBR-NGWHD.ts
+#EXTINF:-1 tvg-chno="92019" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s92019_ll_h15_aa.png" group-title="United Kingdom" tvg-id="NGWHDVM" tvc-guide-stationid="92019",National Geographic Wild HD
+http://example.local/GBR-NGWHDVM.ts
 #EXTINF:-1 tvg-chno="56425" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s56425_ll_h15_aa.png" group-title="Ireland" tvg-id="NGWHD" tvc-guide-stationid="56425",National Geographic Wild HD
 http://example.local/IRL-NGWHD.ts
 #EXTINF:-1 tvg-chno="87635" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87635_ll_h15_aa.png" group-title="Belgium" tvg-id="NGEOWHF" tvc-guide-stationid="87635",National Geographic Wild HD
 http://example.local/BEL-NGEOWHF.ts
 #EXTINF:-1 tvg-chno="115754" tvg-name="National Geographic WILD HD" tvg-logo="https://zap2it.tmsimg.com/assets/s115754_ll_h15_ab.png" group-title="Belgium" tvg-id="NGWNHD" tvc-guide-stationid="115754",National Geographic WILD HD
 http://example.local/BEL-NGWNHD.ts
+#EXTINF:-1 tvg-chno="115754" tvg-name="National Geographic WILD HD" tvg-logo="https://zap2it.tmsimg.com/assets/s115754_ll_h15_ab.png" group-title="Netherlands" tvg-id="NGWNHD" tvc-guide-stationid="115754",National Geographic WILD HD
+http://example.local/NLD-NGWNHD.ts
+#EXTINF:-1 tvg-chno="91207" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91207_ll_h15_aa.png" group-title="Spain" tvg-id="NGWSPHD" tvc-guide-stationid="91207",National Geographic Wild HD
+http://example.local/ESP-NGWSPHD.ts
+#EXTINF:-1 tvg-chno="86880" tvg-name="National Geographic Wild HD" tvg-logo="https://logos.jesmann.com/NTGWHD.png" group-title="Switzerland" tvg-id="NTGWHD" tvc-guide-stationid="86880",National Geographic Wild HD
+http://example.local/CHE-NTGWHD.ts
+#EXTINF:-1 tvg-chno="87635" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87635_ll_h15_aa.png" group-title="Switzerland" tvg-id="NGEOWHF" tvc-guide-stationid="87635",National Geographic Wild HD
+http://example.local/CHE-NGEOWHF.ts
+#EXTINF:-1 tvg-chno="56425" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s56425_ll_h15_aa.png" group-title="Switzerland" tvg-id="NGWHD" tvc-guide-stationid="56425",National Geographic Wild HD
+http://example.local/CHE-NGWHD.ts
+#EXTINF:-1 tvg-chno="90725" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90725_ll_h15_ab.png" group-title="Norway" tvg-id="NATGWNH" tvc-guide-stationid="90725",National Geographic Wild HD
+http://example.local/NOR-NATGWNH.ts
 #EXTINF:-1 tvg-chno="67331" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67331_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="NGWIHD" tvc-guide-stationid="67331",National Geographic Wild HD
 http://example.local/CYM-NGWIHD.ts
-#EXTINF:-1 tvg-chno="87635" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87635_ll_h15_aa.png" group-title="Saint Martin" tvg-id="NGEOWHF" tvc-guide-stationid="87635",National Geographic Wild HD
-http://example.local/MAF-NGEOWHF.ts
+#EXTINF:-1 tvg-chno="67331" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67331_ll_h15_ab.png" group-title="Jamaica" tvg-id="NGWIHD" tvc-guide-stationid="67331",National Geographic Wild HD
+http://example.local/JAM-NGWIHD.ts
 #EXTINF:-1 tvg-chno="67331" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67331_ll_h15_ab.png" group-title="Bermuda" tvg-id="NGWIHD" tvc-guide-stationid="67331",National Geographic Wild HD
 http://example.local/BMU-NGWIHD.ts
 #EXTINF:-1 tvg-chno="67331" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67331_ll_h15_ab.png" group-title="St. Kitts and Nevis" tvg-id="NGWIHD" tvc-guide-stationid="67331",National Geographic Wild HD
 http://example.local/KNA-NGWIHD.ts
-#EXTINF:-1 tvg-chno="65227" tvg-name="National Greek Television" tvg-logo="https://zap2it.tmsimg.com/assets/s65227_ll_h15_aa.png" group-title="United States" tvg-id="TWNGTV" tvc-guide-stationid="65227",National Greek Television
-http://example.local/USA-TWNGTV.ts
+#EXTINF:-1 tvg-chno="67331" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67331_ll_h15_ab.png" group-title="Barbados" tvg-id="NGWIHD" tvc-guide-stationid="67331",National Geographic Wild HD
+http://example.local/BRB-NGWIHD.ts
+#EXTINF:-1 tvg-chno="56425" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s56425_ll_h15_aa.png" group-title="Barbados" tvg-id="NGWHD" tvc-guide-stationid="56425",National Geographic Wild HD
+http://example.local/BRB-NGWHD.ts
+#EXTINF:-1 tvg-chno="87635" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87635_ll_h15_aa.png" group-title="Saint Martin" tvg-id="NGEOWHF" tvc-guide-stationid="87635",National Geographic Wild HD
+http://example.local/MAF-NGEOWHF.ts
 #EXTINF:-1 tvg-chno="11010" tvg-name="National Jewish TV" group-title="United States" tvg-id="NJT" tvc-guide-stationid="11010",National Jewish TV
 http://example.local/USA-NJT.ts
 #EXTINF:-1 tvg-chno="157057" tvg-name="National Lampoon" tvg-logo="https://zap2it.tmsimg.com/assets/s157057_ll_h15_aa.png" group-title="United States" tvg-id="NLC" tvc-guide-stationid="157057",National Lampoon
 http://example.local/USA-NLC.ts
-#EXTINF:-1 tvg-chno="46780" tvg-name="National Public Radio (NPR)" tvg-logo="https://zap2it.tmsimg.com/assets/s46780_ll_h15_aa.png" group-title="United States" tvg-id="NPRAFN" tvc-guide-stationid="46780",National Public Radio (NPR)
-http://example.local/USA-NPRAFN.ts
 #EXTINF:-1 tvg-chno="46780" tvg-name="National Public Radio (NPR)" tvg-logo="https://zap2it.tmsimg.com/assets/s46780_ll_h15_aa.png" group-title="Germany" tvg-id="NPRAFN" tvc-guide-stationid="46780",National Public Radio (NPR)
 http://example.local/DEU-NPRAFN.ts
+#EXTINF:-1 tvg-chno="46780" tvg-name="National Public Radio (NPR)" tvg-logo="https://zap2it.tmsimg.com/assets/s46780_ll_h15_aa.png" group-title="United States" tvg-id="NPRAFN" tvc-guide-stationid="46780",National Public Radio (NPR)
+http://example.local/USA-NPRAFN.ts
 #EXTINF:-1 tvg-chno="115350" tvg-name="National Women's Soccer League" tvg-logo="https://zap2it.tmsimg.com/assets/s115350_ll_h15_aa.png" group-title="United States" tvg-id="NWSL" tvc-guide-stationid="115350",National Women's Soccer League
 http://example.local/USA-NWSL.ts
 #EXTINF:-1 tvg-chno="118563" tvg-name="National Women's Soccer League A" group-title="United States" tvg-id="NWSLA" tvc-guide-stationid="118563",National Women's Soccer League A
@@ -73,8 +677,6 @@ http://example.local/USA-NWSLD.ts
 http://example.local/USA-NWSLD4.ts
 #EXTINF:-1 tvg-chno="62011" tvg-name="Native Communications Inc. Radio (CICY)" group-title="Canada" tvg-id="NCI" tvc-guide-stationid="62011",Native Communications Inc. Radio (CICY)
 http://example.local/CAN-NCI.ts
-#EXTINF:-1 tvg-chno="149234" tvg-name="Natur" tvg-logo="https://zap2it.tmsimg.com/assets/s149234_ll_h15_aa.png" group-title="Germany" tvg-id="XMVDNT" tvc-guide-stationid="149234",Natur
-http://example.local/DEU-XMVDNT.ts
 #EXTINF:-1 tvg-chno="68069" tvg-name="Nature & Knowledge on Demand" group-title="United States" tvg-id="HISNADM" tvc-guide-stationid="68069",Nature & Knowledge on Demand
 http://example.local/USA-HISNADM.ts
 #EXTINF:-1 tvg-chno="102977" tvg-name="Nature Relaxation 4K" group-title="United States" tvg-id="NATRX4K" tvc-guide-stationid="102977",Nature Relaxation 4K
@@ -89,56 +691,58 @@ http://example.local/NOR-NATKAN1.ts
 http://example.local/CAN-NATYF.ts
 #EXTINF:-1 tvg-chno="56242" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s56242_ll_h15_aa.png" group-title="Sweden" tvg-id="NAUTCH" tvc-guide-stationid="56242",Nautical Channel
 http://example.local/SWE-NAUTCH.ts
-#EXTINF:-1 tvg-chno="56242" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s56242_ll_h15_aa.png" group-title="Poland" tvg-id="NAUTCH" tvc-guide-stationid="56242",Nautical Channel
-http://example.local/POL-NAUTCH.ts
-#EXTINF:-1 tvg-chno="103847" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s103847_ll_h15_ac.png" group-title="United States" tvg-id="NAUTGER" tvc-guide-stationid="103847",Nautical Channel
-http://example.local/USA-NAUTGER.ts
-#EXTINF:-1 tvg-chno="76418" tvg-name="Nautical Channel" group-title="United States" tvg-id="NATCL" tvc-guide-stationid="76418",Nautical Channel
-http://example.local/USA-NATCL.ts
-#EXTINF:-1 tvg-chno="56242" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s56242_ll_h15_aa.png" group-title="United Kingdom" tvg-id="NAUTCH" tvc-guide-stationid="56242",Nautical Channel
-http://example.local/GBR-NAUTCH.ts
-#EXTINF:-1 tvg-chno="59623" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s59623_ll_h15_ab.png" group-title="Switzerland" tvg-id="NAUTFRE" tvc-guide-stationid="59623",Nautical Channel
-http://example.local/CHE-NAUTFRE.ts
-#EXTINF:-1 tvg-chno="103847" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s103847_ll_h15_ac.png" group-title="Switzerland" tvg-id="NAUTGER" tvc-guide-stationid="103847",Nautical Channel
-http://example.local/CHE-NAUTGER.ts
-#EXTINF:-1 tvg-chno="56242" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s56242_ll_h15_aa.png" group-title="Finland" tvg-id="NAUTCH" tvc-guide-stationid="56242",Nautical Channel
-http://example.local/FIN-NAUTCH.ts
 #EXTINF:-1 tvg-chno="59623" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s59623_ll_h15_ab.png" group-title="France" tvg-id="NAUTFRE" tvc-guide-stationid="59623",Nautical Channel
 http://example.local/FRA-NAUTFRE.ts
-#EXTINF:-1 tvg-chno="103847" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s103847_ll_h15_ac.png" group-title="Austria" tvg-id="NAUTGER" tvc-guide-stationid="103847",Nautical Channel
-http://example.local/AUT-NAUTGER.ts
+#EXTINF:-1 tvg-chno="56242" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s56242_ll_h15_aa.png" group-title="Finland" tvg-id="NAUTCH" tvc-guide-stationid="56242",Nautical Channel
+http://example.local/FIN-NAUTCH.ts
 #EXTINF:-1 tvg-chno="56242" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s56242_ll_h15_aa.png" group-title="Germany" tvg-id="NAUTCH" tvc-guide-stationid="56242",Nautical Channel
 http://example.local/DEU-NAUTCH.ts
-#EXTINF:-1 tvg-chno="59623" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s59623_ll_h15_ab.png" group-title="Germany" tvg-id="NAUTFRE" tvc-guide-stationid="59623",Nautical Channel
-http://example.local/DEU-NAUTFRE.ts
 #EXTINF:-1 tvg-chno="103847" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s103847_ll_h15_ac.png" group-title="Germany" tvg-id="NAUTGER" tvc-guide-stationid="103847",Nautical Channel
 http://example.local/DEU-NAUTGER.ts
-#EXTINF:-1 tvg-chno="56242" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s56242_ll_h15_aa.png" group-title="Norway" tvg-id="NAUTCH" tvc-guide-stationid="56242",Nautical Channel
-http://example.local/NOR-NAUTCH.ts
+#EXTINF:-1 tvg-chno="59623" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s59623_ll_h15_ab.png" group-title="Germany" tvg-id="NAUTFRE" tvc-guide-stationid="59623",Nautical Channel
+http://example.local/DEU-NAUTFRE.ts
+#EXTINF:-1 tvg-chno="76418" tvg-name="Nautical Channel" group-title="United States" tvg-id="NATCL" tvc-guide-stationid="76418",Nautical Channel
+http://example.local/USA-NATCL.ts
+#EXTINF:-1 tvg-chno="103847" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s103847_ll_h15_ac.png" group-title="United States" tvg-id="NAUTGER" tvc-guide-stationid="103847",Nautical Channel
+http://example.local/USA-NAUTGER.ts
+#EXTINF:-1 tvg-chno="56242" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s56242_ll_h15_aa.png" group-title="Poland" tvg-id="NAUTCH" tvc-guide-stationid="56242",Nautical Channel
+http://example.local/POL-NAUTCH.ts
+#EXTINF:-1 tvg-chno="103847" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s103847_ll_h15_ac.png" group-title="Austria" tvg-id="NAUTGER" tvc-guide-stationid="103847",Nautical Channel
+http://example.local/AUT-NAUTGER.ts
+#EXTINF:-1 tvg-chno="56242" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s56242_ll_h15_aa.png" group-title="United Kingdom" tvg-id="NAUTCH" tvc-guide-stationid="56242",Nautical Channel
+http://example.local/GBR-NAUTCH.ts
 #EXTINF:-1 tvg-chno="59623" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s59623_ll_h15_ab.png" group-title="Denmark" tvg-id="NAUTFRE" tvc-guide-stationid="59623",Nautical Channel
 http://example.local/DNK-NAUTFRE.ts
+#EXTINF:-1 tvg-chno="103847" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s103847_ll_h15_ac.png" group-title="Switzerland" tvg-id="NAUTGER" tvc-guide-stationid="103847",Nautical Channel
+http://example.local/CHE-NAUTGER.ts
+#EXTINF:-1 tvg-chno="59623" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s59623_ll_h15_ab.png" group-title="Switzerland" tvg-id="NAUTFRE" tvc-guide-stationid="59623",Nautical Channel
+http://example.local/CHE-NAUTFRE.ts
+#EXTINF:-1 tvg-chno="56242" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s56242_ll_h15_aa.png" group-title="Norway" tvg-id="NAUTCH" tvc-guide-stationid="56242",Nautical Channel
+http://example.local/NOR-NAUTCH.ts
 #EXTINF:-1 tvg-chno="56242" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s56242_ll_h15_aa.png" group-title="Saint Martin" tvg-id="NAUTCH" tvc-guide-stationid="56242",Nautical Channel
 http://example.local/MAF-NAUTCH.ts
 #EXTINF:-1 tvg-chno="104635" tvg-name="Nautical Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104635_ll_h15_aa.png" group-title="Sweden" tvg-id="NAUTHD" tvc-guide-stationid="104635",Nautical Channel HD
 http://example.local/SWE-NAUTHD.ts
-#EXTINF:-1 tvg-chno="104635" tvg-name="Nautical Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104635_ll_h15_aa.png" group-title="Netherlands" tvg-id="NAUTHD" tvc-guide-stationid="104635",Nautical Channel HD
-http://example.local/NLD-NAUTHD.ts
-#EXTINF:-1 tvg-chno="104635" tvg-name="Nautical Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104635_ll_h15_aa.png" group-title="Poland" tvg-id="NAUTHD" tvc-guide-stationid="104635",Nautical Channel HD
-http://example.local/POL-NAUTHD.ts
-#EXTINF:-1 tvg-chno="104635" tvg-name="Nautical Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104635_ll_h15_aa.png" group-title="United States" tvg-id="NAUTHD" tvc-guide-stationid="104635",Nautical Channel HD
-http://example.local/USA-NAUTHD.ts
-#EXTINF:-1 tvg-chno="106105" tvg-name="Nautical Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106105_ll_h15_aa.png" group-title="Switzerland" tvg-id="NAUFRHD" tvc-guide-stationid="106105",Nautical Channel HD
-http://example.local/CHE-NAUFRHD.ts
-#EXTINF:-1 tvg-chno="104635" tvg-name="Nautical Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104635_ll_h15_aa.png" group-title="Finland" tvg-id="NAUTHD" tvc-guide-stationid="104635",Nautical Channel HD
-http://example.local/FIN-NAUTHD.ts
 #EXTINF:-1 tvg-chno="106105" tvg-name="Nautical Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106105_ll_h15_aa.png" group-title="France" tvg-id="NAUFRHD" tvc-guide-stationid="106105",Nautical Channel HD
 http://example.local/FRA-NAUFRHD.ts
-#EXTINF:-1 tvg-chno="104635" tvg-name="Nautical Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104635_ll_h15_aa.png" group-title="Austria" tvg-id="NAUTHD" tvc-guide-stationid="104635",Nautical Channel HD
-http://example.local/AUT-NAUTHD.ts
+#EXTINF:-1 tvg-chno="104635" tvg-name="Nautical Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104635_ll_h15_aa.png" group-title="Finland" tvg-id="NAUTHD" tvc-guide-stationid="104635",Nautical Channel HD
+http://example.local/FIN-NAUTHD.ts
 #EXTINF:-1 tvg-chno="106105" tvg-name="Nautical Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106105_ll_h15_aa.png" group-title="Germany" tvg-id="NAUFRHD" tvc-guide-stationid="106105",Nautical Channel HD
 http://example.local/DEU-NAUFRHD.ts
+#EXTINF:-1 tvg-chno="104635" tvg-name="Nautical Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104635_ll_h15_aa.png" group-title="United States" tvg-id="NAUTHD" tvc-guide-stationid="104635",Nautical Channel HD
+http://example.local/USA-NAUTHD.ts
+#EXTINF:-1 tvg-chno="104635" tvg-name="Nautical Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104635_ll_h15_aa.png" group-title="Poland" tvg-id="NAUTHD" tvc-guide-stationid="104635",Nautical Channel HD
+http://example.local/POL-NAUTHD.ts
+#EXTINF:-1 tvg-chno="104635" tvg-name="Nautical Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104635_ll_h15_aa.png" group-title="Austria" tvg-id="NAUTHD" tvc-guide-stationid="104635",Nautical Channel HD
+http://example.local/AUT-NAUTHD.ts
 #EXTINF:-1 tvg-chno="106105" tvg-name="Nautical Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106105_ll_h15_aa.png" group-title="Belgium" tvg-id="NAUFRHD" tvc-guide-stationid="106105",Nautical Channel HD
 http://example.local/BEL-NAUFRHD.ts
+#EXTINF:-1 tvg-chno="104635" tvg-name="Nautical Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104635_ll_h15_aa.png" group-title="Netherlands" tvg-id="NAUTHD" tvc-guide-stationid="104635",Nautical Channel HD
+http://example.local/NLD-NAUTHD.ts
+#EXTINF:-1 tvg-chno="106105" tvg-name="Nautical Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106105_ll_h15_aa.png" group-title="Switzerland" tvg-id="NAUFRHD" tvc-guide-stationid="106105",Nautical Channel HD
+http://example.local/CHE-NAUFRHD.ts
+#EXTINF:-1 tvg-chno="196933" tvg-name="NBA Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002CX703.png" group-title="United States" tvg-id="NBAFC" tvc-guide-stationid="196933",NBA Channel
+http://example.local/USA-NBAFC.ts
 #EXTINF:-1 tvg-chno="171941" tvg-name="NBA FAST" tvg-logo="https://zap2it.tmsimg.com/assets/s171941_ll_h9_aa.png" group-title="United States" tvg-id="NBAFCH1" tvc-guide-stationid="171941",NBA FAST
 http://example.local/USA-NBAFCH1.ts
 #EXTINF:-1 tvg-chno="32382" tvg-name="NBA HD" tvg-logo="https://zap2it.tmsimg.com/assets/s62829_ll_h15_ab.png" group-title="United States" tvg-id="NBAHD" tvc-guide-stationid="32382",NBA HD
@@ -189,28 +793,28 @@ http://example.local/USA-NBAX3.ts
 http://example.local/USA-NBAX17.ts
 #EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="United States" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
 http://example.local/USA-NBAX18.ts
+#EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Trinidad and Tobago" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
+http://example.local/TTO-NBAX18.ts
+#EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Panama" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
+http://example.local/PAN-NBAX18.ts
 #EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Peru" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
 http://example.local/PER-NBAX18.ts
-#EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Guatemala" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
-http://example.local/GTM-NBAX18.ts
+#EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Bahamas" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
+http://example.local/BHS-NBAX18.ts
+#EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Costa Rica" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
+http://example.local/CRI-NBAX18.ts
 #EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Ecuador" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
 http://example.local/ECU-NBAX18.ts
 #EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Jamaica" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
 http://example.local/JAM-NBAX18.ts
 #EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Dominican Republic" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
 http://example.local/DOM-NBAX18.ts
-#EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Costa Rica" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
-http://example.local/CRI-NBAX18.ts
-#EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Panama" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
-http://example.local/PAN-NBAX18.ts
-#EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Trinidad and Tobago" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
-http://example.local/TTO-NBAX18.ts
-#EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Belize" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
-http://example.local/BLZ-NBAX18.ts
+#EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Guatemala" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
+http://example.local/GTM-NBAX18.ts
 #EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Guyana" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
 http://example.local/GUY-NBAX18.ts
-#EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Bahamas" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
-http://example.local/BHS-NBAX18.ts
+#EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Belize" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
+http://example.local/BLZ-NBAX18.ts
 #EXTINF:-1 tvg-chno="17824" tvg-name="NBA League Pass (Raptors)" tvg-logo="https://logos.jesmann.com/nbax26.png" group-title="United States" tvg-id="NBAX26" tvc-guide-stationid="17824",NBA League Pass (Raptors)
 http://example.local/USA-NBAX26.ts
 #EXTINF:-1 tvg-chno="17822" tvg-name="NBA League Pass (Spurs)" tvg-logo="https://logos.jesmann.com/nbax24.png" group-title="United States" tvg-id="NBAX24" tvc-guide-stationid="17822",NBA League Pass (Spurs)
@@ -357,34 +961,32 @@ http://example.local/CAN-NBAH9.ts
 http://example.local/USA-TM10.ts
 #EXTINF:-1 tvg-chno="95845" tvg-name="NBA League Pass/MLS Direct Kick HDTV" tvg-logo="https://zap2it.tmsimg.com/assets/s95845_ll_h15_ab.png" group-title="United States" tvg-id="TEAMHD1" tvc-guide-stationid="95845",NBA League Pass/MLS Direct Kick HDTV
 http://example.local/USA-TEAMHD1.ts
-#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Mexico" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
-http://example.local/MEX-NBATV.ts
 #EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="United States" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
 http://example.local/USA-NBATV.ts
-#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Argentina" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
-http://example.local/ARG-NBATV.ts
-#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Jamaica" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
-http://example.local/JAM-NBATV.ts
-#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Dominican Republic" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
-http://example.local/DOM-NBATV.ts
-#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Barbados" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
-http://example.local/BRB-NBATV.ts
-#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Saint Vincent and the Grenadines" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
-http://example.local/VCT-NBATV.ts
-#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Chile" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
-http://example.local/CHL-NBATV.ts
-#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Panama" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
-http://example.local/PAN-NBATV.ts
-#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Saint Martin" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
-http://example.local/MAF-NBATV.ts
-#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Uruguay" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
-http://example.local/URY-NBATV.ts
+#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Mexico" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
+http://example.local/MEX-NBATV.ts
 #EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
 http://example.local/TTO-NBATV.ts
+#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Panama" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
+http://example.local/PAN-NBATV.ts
+#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Argentina" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
+http://example.local/ARG-NBATV.ts
+#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Bahamas" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
+http://example.local/BHS-NBATV.ts
+#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Anguilla" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
+http://example.local/AIA-NBATV.ts
+#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
+http://example.local/PRI-NBATV.ts
+#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Chile" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
+http://example.local/CHL-NBATV.ts
+#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Jamaica" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
+http://example.local/JAM-NBATV.ts
+#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Uruguay" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
+http://example.local/URY-NBATV.ts
+#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Dominican Republic" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
+http://example.local/DOM-NBATV.ts
 #EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Aruba" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
 http://example.local/ABW-NBATV.ts
-#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Belize" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
-http://example.local/BLZ-NBATV.ts
 #EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="St. Lucia" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
 http://example.local/LCA-NBATV.ts
 #EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
@@ -393,18 +995,20 @@ http://example.local/KNA-NBATV.ts
 http://example.local/DMA-NBATV.ts
 #EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Guyana" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
 http://example.local/GUY-NBATV.ts
-#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Bahamas" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
-http://example.local/BHS-NBATV.ts
-#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Anguilla" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
-http://example.local/AIA-NBATV.ts
-#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Grenada" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
-http://example.local/GRD-NBATV.ts
-#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Antigua and Barbuda" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
-http://example.local/ATG-NBATV.ts
+#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Barbados" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
+http://example.local/BRB-NBATV.ts
+#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Saint Vincent and the Grenadines" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
+http://example.local/VCT-NBATV.ts
 #EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Curacao" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
 http://example.local/CUW-NBATV.ts
-#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
-http://example.local/PRI-NBATV.ts
+#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Saint Martin" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
+http://example.local/MAF-NBATV.ts
+#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Grenada" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
+http://example.local/GRD-NBATV.ts
+#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Belize" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
+http://example.local/BLZ-NBATV.ts
+#EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Antigua and Barbuda" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
+http://example.local/ATG-NBATV.ts
 #EXTINF:-1 tvg-chno="77636" tvg-name="NBA TV (Tampa)" group-title="United States" tvg-id="NBAFL" tvc-guide-stationid="77636",NBA TV (Tampa)
 http://example.local/USA-NBAFL.ts
 #EXTINF:-1 tvg-chno="122054" tvg-name="NBA TV 4K" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="United States" tvg-id="NBATV4K" tvc-guide-stationid="122054",NBA TV 4K
@@ -415,607 +1019,3 @@ http://example.local/CAN-NBATVC.ts
 http://example.local/CAN-NBATVCD.ts
 #EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png" group-title="United States" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
 http://example.local/USA-NBATVHD.ts
-#EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png" group-title="Argentina" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
-http://example.local/ARG-NBATVHD.ts
-#EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png" group-title="Jamaica" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
-http://example.local/JAM-NBATVHD.ts
-#EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png" group-title="Barbados" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
-http://example.local/BRB-NBATVHD.ts
-#EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png" group-title="Panama" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
-http://example.local/PAN-NBATVHD.ts
-#EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png" group-title="Bermuda" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
-http://example.local/BMU-NBATVHD.ts
-#EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
-http://example.local/TTO-NBATVHD.ts
-#EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png" group-title="Belize" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
-http://example.local/BLZ-NBATVHD.ts
-#EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png" group-title="St. Kitts and Nevis" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
-http://example.local/KNA-NBATVHD.ts
-#EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png" group-title="Bahamas" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
-http://example.local/BHS-NBATVHD.ts
-#EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
-http://example.local/PRI-NBATVHD.ts
-#EXTINF:-1 tvg-chno="77637" tvg-name="NBA TV HD (Tampa)" group-title="United States" tvg-id="NBAHFL" tvc-guide-stationid="77637",NBA TV HD (Tampa)
-http://example.local/USA-NBAHFL.ts
-#EXTINF:-1 tvg-chno="62829" tvg-name="NBA TV International" tvg-logo="https://zap2it.tmsimg.com/assets/s62829_ll_h15_ab.png" group-title="Jamaica" tvg-id="NBATVI" tvc-guide-stationid="62829",NBA TV International
-http://example.local/JAM-NBATVI.ts
-#EXTINF:-1 tvg-chno="84532" tvg-name="NBA TV International (Spanish)" tvg-logo="https://zap2it.tmsimg.com/assets/s62829_ll_h15_ab.png" group-title="Mexico" tvg-id="NBATVIS" tvc-guide-stationid="84532",NBA TV International (Spanish)
-http://example.local/MEX-NBATVIS.ts
-#EXTINF:-1 tvg-chno="112907" tvg-name="NBA TV International (Spanish) HD" tvg-logo="https://zap2it.tmsimg.com/assets/s62829_ll_h15_ab.png" group-title="Mexico" tvg-id="NBADHD" tvc-guide-stationid="112907",NBA TV International (Spanish) HD
-http://example.local/MEX-NBADHD.ts
-#EXTINF:-1 tvg-chno="112907" tvg-name="NBA TV International (Spanish) HD" tvg-logo="https://zap2it.tmsimg.com/assets/s62829_ll_h15_ab.png" group-title="Argentina" tvg-id="NBADHD" tvc-guide-stationid="112907",NBA TV International (Spanish) HD
-http://example.local/ARG-NBADHD.ts
-#EXTINF:-1 tvg-chno="112907" tvg-name="NBA TV International (Spanish) HD" tvg-logo="https://zap2it.tmsimg.com/assets/s62829_ll_h15_ab.png" group-title="Colombia" tvg-id="NBADHD" tvc-guide-stationid="112907",NBA TV International (Spanish) HD
-http://example.local/COL-NBADHD.ts
-#EXTINF:-1 tvg-chno="88828" tvg-name="NBA TV International HD" tvg-logo="https://zap2it.tmsimg.com/assets/s62829_ll_h15_ab.png" group-title="Mexico" tvg-id="NBATVIH" tvc-guide-stationid="88828",NBA TV International HD
-http://example.local/MEX-NBATVIH.ts
-#EXTINF:-1 tvg-chno="88828" tvg-name="NBA TV International HD" tvg-logo="https://zap2it.tmsimg.com/assets/s62829_ll_h15_ab.png" group-title="Brazil" tvg-id="NBATVIH" tvc-guide-stationid="88828",NBA TV International HD
-http://example.local/BRA-NBATVIH.ts
-#EXTINF:-1 tvg-chno="88828" tvg-name="NBA TV International HD" tvg-logo="https://zap2it.tmsimg.com/assets/s62829_ll_h15_ab.png" group-title="Ecuador" tvg-id="NBATVIH" tvc-guide-stationid="88828",NBA TV International HD
-http://example.local/ECU-NBATVIH.ts
-#EXTINF:-1 tvg-chno="88828" tvg-name="NBA TV International HD" tvg-logo="https://zap2it.tmsimg.com/assets/s62829_ll_h15_ab.png" group-title="Argentina" tvg-id="NBATVIH" tvc-guide-stationid="88828",NBA TV International HD
-http://example.local/ARG-NBATVIH.ts
-#EXTINF:-1 tvg-chno="88828" tvg-name="NBA TV International HD" tvg-logo="https://zap2it.tmsimg.com/assets/s62829_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="NBATVIH" tvc-guide-stationid="88828",NBA TV International HD
-http://example.local/DOM-NBATVIH.ts
-#EXTINF:-1 tvg-chno="88828" tvg-name="NBA TV International HD" tvg-logo="https://zap2it.tmsimg.com/assets/s62829_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="NBATVIH" tvc-guide-stationid="88828",NBA TV International HD
-http://example.local/PRI-NBATVIH.ts
-#EXTINF:-1 tvg-chno="146842" tvg-name="NBA: Atlanta Hawks" group-title="United States" tvg-id="NBA1ATL" tvc-guide-stationid="146842",NBA: Atlanta Hawks
-http://example.local/USA-NBA1ATL.ts
-#EXTINF:-1 tvg-chno="146844" tvg-name="NBA: Charlotte Hornets" group-title="United States" tvg-id="NBA4CHA" tvc-guide-stationid="146844",NBA: Charlotte Hornets
-http://example.local/USA-NBA4CHA.ts
-#EXTINF:-1 tvg-chno="146846" tvg-name="NBA: Cleveland Cavaliers" group-title="United States" tvg-id="NBA6CLE" tvc-guide-stationid="146846",NBA: Cleveland Cavaliers
-http://example.local/USA-NBA6CLE.ts
-#EXTINF:-1 tvg-chno="146847" tvg-name="NBA: Dallas Mavericks" group-title="United States" tvg-id="NBA7DAL" tvc-guide-stationid="146847",NBA: Dallas Mavericks
-http://example.local/USA-NBA7DAL.ts
-#EXTINF:-1 tvg-chno="146848" tvg-name="NBA: Detroit Pistons" group-title="United States" tvg-id="NBA9DET" tvc-guide-stationid="146848",NBA: Detroit Pistons
-http://example.local/USA-NBA9DET.ts
-#EXTINF:-1 tvg-chno="146849" tvg-name="NBA: Indiana Pacers" group-title="United States" tvg-id="NBA12IN" tvc-guide-stationid="146849",NBA: Indiana Pacers
-http://example.local/USA-NBA12IN.ts
-#EXTINF:-1 tvg-chno="146850" tvg-name="NBA: LA Clippers" group-title="United States" tvg-id="NBA13LA" tvc-guide-stationid="146850",NBA: LA Clippers
-http://example.local/USA-NBA13LA.ts
-#EXTINF:-1 tvg-chno="146852" tvg-name="NBA: Memphis Grizzlies" group-title="United States" tvg-id="NBA15ME" tvc-guide-stationid="146852",NBA: Memphis Grizzlies
-http://example.local/USA-NBA15ME.ts
-#EXTINF:-1 tvg-chno="146853" tvg-name="NBA: Miami Heat" group-title="United States" tvg-id="NBA16MI" tvc-guide-stationid="146853",NBA: Miami Heat
-http://example.local/USA-NBA16MI.ts
-#EXTINF:-1 tvg-chno="146854" tvg-name="NBA: Milwaukee Bucks" group-title="United States" tvg-id="NBA17ML" tvc-guide-stationid="146854",NBA: Milwaukee Bucks
-http://example.local/USA-NBA17ML.ts
-#EXTINF:-1 tvg-chno="146857" tvg-name="NBA: Minnesota Timberwolves" group-title="United States" tvg-id="NBA18MN" tvc-guide-stationid="146857",NBA: Minnesota Timberwolves
-http://example.local/USA-NBA18MN.ts
-#EXTINF:-1 tvg-chno="146858" tvg-name="NBA: New Orleans Pelicans" group-title="United States" tvg-id="NBA19NO" tvc-guide-stationid="146858",NBA: New Orleans Pelicans
-http://example.local/USA-NBA19NO.ts
-#EXTINF:-1 tvg-chno="146859" tvg-name="NBA: Oklahoma City Thunder" group-title="United States" tvg-id="NBA21OK" tvc-guide-stationid="146859",NBA: Oklahoma City Thunder
-http://example.local/USA-NBA21OK.ts
-#EXTINF:-1 tvg-chno="146860" tvg-name="NBA: Orlando Magic" group-title="United States" tvg-id="NBA22OL" tvc-guide-stationid="146860",NBA: Orlando Magic
-http://example.local/USA-NBA22OL.ts
-#EXTINF:-1 tvg-chno="146861" tvg-name="NBA: San Antonio Spurs" group-title="United States" tvg-id="NBA27SA" tvc-guide-stationid="146861",NBA: San Antonio Spurs
-http://example.local/USA-NBA27SA.ts
-#EXTINF:-1 tvg-chno="124125" tvg-name="NBC 10 Boston News" tvg-logo="https://zap2it.tmsimg.com/assets/s124125_ll_h15_ab.png" group-title="United States" tvg-id="WBTS" tvc-guide-stationid="124125",NBC 10 Boston News
-http://example.local/USA-WBTS.ts
-#EXTINF:-1 tvg-chno="124030" tvg-name="NBC 10 Philadelphia News" tvg-logo="https://zap2it.tmsimg.com/assets/s124030_ll_h15_ab.png" group-title="United States" tvg-id="WCAUSTR" tvc-guide-stationid="124030",NBC 10 Philadelphia News
-http://example.local/USA-WCAUSTR.ts
-#EXTINF:-1 tvg-chno="124031" tvg-name="NBC 4 Los Angeles News" tvg-logo="https://zap2it.tmsimg.com/assets/s124031_ll_h15_ab.png" group-title="United States" tvg-id="KNBCSTR" tvc-guide-stationid="124031",NBC 4 Los Angeles News
-http://example.local/USA-KNBCSTR.ts
-#EXTINF:-1 tvg-chno="124034" tvg-name="NBC 4 New York News" tvg-logo="https://zap2it.tmsimg.com/assets/s124034_ll_h15_ab.png" group-title="United States" tvg-id="WNBCSTR" tvc-guide-stationid="124034",NBC 4 New York News
-http://example.local/USA-WNBCSTR.ts
-#EXTINF:-1 tvg-chno="124033" tvg-name="NBC 4 Washington News" tvg-logo="https://zap2it.tmsimg.com/assets/s124033_ll_h15_ab.png" group-title="United States" tvg-id="WRCSTR" tvc-guide-stationid="124033",NBC 4 Washington News
-http://example.local/USA-WRCSTR.ts
-#EXTINF:-1 tvg-chno="121073" tvg-name="NBC 4K 3 YTV" tvg-logo="https://zap2it.tmsimg.com/assets/s47004_ll_h15_ab.png" group-title="United States" tvg-id="NBC4K3Y" tvc-guide-stationid="121073",NBC 4K 3 YTV
-http://example.local/USA-NBC4K3Y.ts
-#EXTINF:-1 tvg-chno="124036" tvg-name="NBC 5 Chicago News" tvg-logo="https://zap2it.tmsimg.com/assets/s124036_ll_h15_ab.png" group-title="United States" tvg-id="WMAQSTR" tvc-guide-stationid="124036",NBC 5 Chicago News
-http://example.local/USA-WMAQSTR.ts
-#EXTINF:-1 tvg-chno="124035" tvg-name="NBC 5 Dallas Fort Worth News" tvg-logo="https://zap2it.tmsimg.com/assets/s124035_ll_h15_ab.png" group-title="United States" tvg-id="KXASSTR" tvc-guide-stationid="124035",NBC 5 Dallas Fort Worth News
-http://example.local/USA-KXASSTR.ts
-#EXTINF:-1 tvg-chno="124048" tvg-name="NBC 6 South Florida News" tvg-logo="https://zap2it.tmsimg.com/assets/s124048_ll_h15_ab.png" group-title="United States" tvg-id="WTVJSTR" tvc-guide-stationid="124048",NBC 6 South Florida News
-http://example.local/USA-WTVJSTR.ts
-#EXTINF:-1 tvg-chno="135977" tvg-name="NBC 7 San Diego News" tvg-logo="https://zap2it.tmsimg.com/assets/s135977_ll_h15_ab.png" group-title="United States" tvg-id="KNSDSTR" tvc-guide-stationid="135977",NBC 7 San Diego News
-http://example.local/USA-KNSDSTR.ts
-#EXTINF:-1 tvg-chno="135978" tvg-name="NBC Bay Area News" tvg-logo="https://zap2it.tmsimg.com/assets/s135978_ll_h15_ab.png" group-title="United States" tvg-id="KNTVSTR" tvc-guide-stationid="135978",NBC Bay Area News
-http://example.local/USA-KNTVSTR.ts
-#EXTINF:-1 tvg-chno="138448" tvg-name="NBC Comedy Vault" tvg-logo="https://zap2it.tmsimg.com/assets/s138448_ll_h15_ab.png" group-title="United States" tvg-id="NBCCVLT" tvc-guide-stationid="138448",NBC Comedy Vault
-http://example.local/USA-NBCCVLT.ts
-#EXTINF:-1 tvg-chno="124032" tvg-name="NBC Connecticut News" tvg-logo="https://zap2it.tmsimg.com/assets/s124032_ll_h15_ab.png" group-title="United States" tvg-id="WVITSTR" tvc-guide-stationid="124032",NBC Connecticut News
-http://example.local/USA-WVITSTR.ts
-#EXTINF:-1 tvg-chno="28717" tvg-name="NBC Digital Feed (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28717_h3_ba.png" group-title="Dominican Republic" tvg-id="NBCDT" tvc-guide-stationid="28717",NBC Digital Feed (NBC)
-http://example.local/DOM-NBCDT.ts
-#EXTINF:-1 tvg-chno="28717" tvg-name="NBC Digital Feed (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28717_h3_ba.png" group-title="Belize" tvg-id="NBCDT" tvc-guide-stationid="28717",NBC Digital Feed (NBC)
-http://example.local/BLZ-NBCDT.ts
-#EXTINF:-1 tvg-chno="28717" tvg-name="NBC Digital Feed (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28717_h3_ba.png" group-title="Puerto Rico" tvg-id="NBCDT" tvc-guide-stationid="28717",NBC Digital Feed (NBC)
-http://example.local/PRI-NBCDT.ts
-#EXTINF:-1 tvg-chno="109718" tvg-name="NBC East Stream" tvg-logo="https://zap2it.tmsimg.com/assets/s28717_h3_aa.png" group-title="United States" tvg-id="NBCESTR" tvc-guide-stationid="109718",NBC East Stream
-http://example.local/USA-NBCESTR.ts
-#EXTINF:-1 tvg-chno="108081" tvg-name="NBC ESP HD (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_h3_aa.png" group-title="Mexico" tvg-id="NBCESHD" tvc-guide-stationid="108081",NBC ESP HD (NBC)
-http://example.local/MEX-NBCESHD.ts
-#EXTINF:-1 tvg-chno="160058" tvg-name="NBC Memphis (Action 5 News)" group-title="United States" tvg-id="NBCMEM" tvc-guide-stationid="160058",NBC Memphis (Action 5 News)
-http://example.local/USA-NBCMEM.ts
-#EXTINF:-1 tvg-chno="160091" tvg-name="NBC Nashville (WSMV4)" group-title="United States" tvg-id="NBCWSMV" tvc-guide-stationid="160091",NBC Nashville (WSMV4)
-http://example.local/USA-NBCWSMV.ts
-#EXTINF:-1 tvg-chno="114633" tvg-name="NBC News" tvg-logo="https://zap2it.tmsimg.com/assets/s114633_ll_h6_aa.png" group-title="United States" tvg-id="PTVNBC" tvc-guide-stationid="114633",NBC News
-http://example.local/USA-PTVNBC.ts
-#EXTINF:-1 tvg-chno="114174" tvg-name="NBC News NOW" tvg-logo="https://zap2it.tmsimg.com/assets/s114174_ll_h15_af.png" group-title="United States" tvg-id="NBCNN" tvc-guide-stationid="114174",NBC News NOW
-http://example.local/USA-NBCNN.ts
-#EXTINF:-1 tvg-chno="114174" tvg-name="NBC News NOW" tvg-logo="https://zap2it.tmsimg.com/assets/s114174_ll_h15_af.png" group-title="United Kingdom" tvg-id="NBCNN" tvc-guide-stationid="114174",NBC News NOW
-http://example.local/GBR-NBCNN.ts
-#EXTINF:-1 tvg-chno="76263" tvg-name="NBC Olympic 3D" group-title="United States" tvg-id="NBCOL3D" tvc-guide-stationid="76263",NBC Olympic 3D
-http://example.local/USA-NBCOL3D.ts
-#EXTINF:-1 tvg-chno="60836" tvg-name="NBC Olympic HD Basketball" tvg-logo="https://zap2it.tmsimg.com/assets/s60836_ll_h15_aa.png" group-title="United States" tvg-id="NBCBSK" tvc-guide-stationid="60836",NBC Olympic HD Basketball
-http://example.local/USA-NBCBSK.ts
-#EXTINF:-1 tvg-chno="76781" tvg-name="NBC Olympic HD Basketball Olympic Blocks" group-title="United States" tvg-id="NBCBKOL" tvc-guide-stationid="76781",NBC Olympic HD Basketball Olympic Blocks
-http://example.local/USA-NBCBKOL.ts
-#EXTINF:-1 tvg-chno="76780" tvg-name="NBC Olympic HD Soccer Olympic Blocks" group-title="United States" tvg-id="NBCSCOL" tvc-guide-stationid="76780",NBC Olympic HD Soccer Olympic Blocks
-http://example.local/USA-NBCSCOL.ts
-#EXTINF:-1 tvg-chno="76783" tvg-name="NBC Olympics 3D Olympic Blocks" group-title="United States" tvg-id="NBC3DOL" tvc-guide-stationid="76783",NBC Olympics 3D Olympic Blocks
-http://example.local/USA-NBC3DOL.ts
-#EXTINF:-1 tvg-chno="107048" tvg-name="NBC Olympics 4K" group-title="United States" tvg-id="OLY4K" tvc-guide-stationid="107048",NBC Olympics 4K
-http://example.local/USA-OLY4K.ts
-#EXTINF:-1 tvg-chno="53163" tvg-name="NBC On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_h3_ba.png" group-title="United States" tvg-id="NBCDM" tvc-guide-stationid="53163",NBC On Demand
-http://example.local/USA-NBCDM.ts
-#EXTINF:-1 tvg-chno="92694" tvg-name="NBC Sports" group-title="United States" tvg-id="NBCSPO" tvc-guide-stationid="92694",NBC Sports
-http://example.local/USA-NBCSPO.ts
-#EXTINF:-1 tvg-chno="113727" tvg-name="NBC Sports 4K (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s47004_ll_h15_ab.png" group-title="United States" tvg-id="NBC4K" tvc-guide-stationid="113727",NBC Sports 4K (NBC)
-http://example.local/USA-NBC4K.ts
-#EXTINF:-1 tvg-chno="176967" tvg-name="NBC Sports 4K (Comcast) (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="United States" tvg-id="NBC4KS2" tvc-guide-stationid="176967",NBC Sports 4K (Comcast) (NBC)
-http://example.local/USA-NBC4KS2.ts
-#EXTINF:-1 tvg-chno="117038" tvg-name="NBC Sports 4K YTV" tvg-logo="https://zap2it.tmsimg.com/assets/s47004_ll_h15_ab.png" group-title="United States" tvg-id="NBC4KY" tvc-guide-stationid="117038",NBC Sports 4K YTV
-http://example.local/USA-NBC4KY.ts
-#EXTINF:-1 tvg-chno="11109" tvg-name="NBC Sports Bay Area" tvg-logo="https://zap2it.tmsimg.com/assets/s11109_ll_h15_ad.png" group-title="United States" tvg-id="NBCSBA" tvc-guide-stationid="11109",NBC Sports Bay Area
-http://example.local/USA-NBCSBA.ts
-#EXTINF:-1 tvg-chno="65956" tvg-name="NBC Sports Bay Area (Non Warriors)" tvg-logo="https://zap2it.tmsimg.com/assets/s11109_ll_h15_ad.png" group-title="United States" tvg-id="NBSPBA2" tvc-guide-stationid="65956",NBC Sports Bay Area (Non Warriors)
-http://example.local/USA-NBSPBA2.ts
-#EXTINF:-1 tvg-chno="100455" tvg-name="NBC Sports Bay Area (Non Warriors) HD" tvg-logo="https://zap2it.tmsimg.com/assets/s11109_ll_h15_ad.png" group-title="United States" tvg-id="NBSPB2H" tvc-guide-stationid="100455",NBC Sports Bay Area (Non Warriors) HD
-http://example.local/USA-NBSPB2H.ts
-#EXTINF:-1 tvg-chno="63138" tvg-name="NBC Sports Bay Area HD" tvg-logo="https://zap2it.tmsimg.com/assets/s63138_ll_h15_ad.png" group-title="United States" tvg-id="NBCSBAH" tvc-guide-stationid="63138",NBC Sports Bay Area HD
-http://example.local/USA-NBCSBAH.ts
-#EXTINF:-1 tvg-chno="74680" tvg-name="NBC Sports Bay Area HD (with Warriors)" tvg-logo="https://zap2it.tmsimg.com/assets/s63138_ll_h15_ad.png" group-title="United States" tvg-id="NBSPBAH" tvc-guide-stationid="74680",NBC Sports Bay Area HD (with Warriors)
-http://example.local/USA-NBSPBAH.ts
-#EXTINF:-1 tvg-chno="49679" tvg-name="NBC Sports Bay Area HD W/Sign Offs" tvg-logo="https://zap2it.tmsimg.com/assets/s63138_ll_h15_ad.png" group-title="United States" tvg-id="NBSBD3" tvc-guide-stationid="49679",NBC Sports Bay Area HD W/Sign Offs
-http://example.local/USA-NBSBD3.ts
-#EXTINF:-1 tvg-chno="63481" tvg-name="NBC Sports Bay Area HD/No Warriors" tvg-logo="https://zap2it.tmsimg.com/assets/s63138_ll_h15_ad.png" group-title="United States" tvg-id="NBSBD2" tvc-guide-stationid="63481",NBC Sports Bay Area HD/No Warriors
-http://example.local/USA-NBSBD2.ts
-#EXTINF:-1 tvg-chno="71463" tvg-name="NBC Sports Bay Area Outer Market" tvg-logo="https://zap2it.tmsimg.com/assets/s11109_ll_h15_ad.png" group-title="United States" tvg-id="NBSBAOM" tvc-guide-stationid="71463",NBC Sports Bay Area Outer Market
-http://example.local/USA-NBSBAOM.ts
-#EXTINF:-1 tvg-chno="43801" tvg-name="NBC Sports Bay Area Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s43801_ll_h15_ab.png" group-title="United States" tvg-id="NBCSBAP" tvc-guide-stationid="43801",NBC Sports Bay Area Plus
-http://example.local/USA-NBCSBAP.ts
-#EXTINF:-1 tvg-chno="80803" tvg-name="NBC Sports Bay Area Plus 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s80803_ll_h15_ab.png" group-title="United States" tvg-id="NBSBPHD" tvc-guide-stationid="80803",NBC Sports Bay Area Plus 2 HD
-http://example.local/USA-NBSBPHD.ts
-#EXTINF:-1 tvg-chno="90633" tvg-name="NBC Sports Bay Area Plus HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90633_ll_h15_ab.png" group-title="United States" tvg-id="NBCSPHD" tvc-guide-stationid="90633",NBC Sports Bay Area Plus HD
-http://example.local/USA-NBCSPHD.ts
-#EXTINF:-1 tvg-chno="99273" tvg-name="NBC Sports Bay Area/California Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s99273_ll_h15_ab.png" group-title="United States" tvg-id="NBSBAPL" tvc-guide-stationid="99273",NBC Sports Bay Area/California Plus
-http://example.local/USA-NBSBAPL.ts
-#EXTINF:-1 tvg-chno="96001" tvg-name="NBC Sports Bay Area/California Plus (No Warriors)" tvg-logo="https://zap2it.tmsimg.com/assets/s96001_ll_h15_ab.png" group-title="United States" tvg-id="NBSBANW" tvc-guide-stationid="96001",NBC Sports Bay Area/California Plus (No Warriors)
-http://example.local/USA-NBSBANW.ts
-#EXTINF:-1 tvg-chno="98571" tvg-name="NBC Sports Bay Area/California Plus 2" tvg-logo="https://zap2it.tmsimg.com/assets/s98571_ll_h15_ab.png" group-title="United States" tvg-id="NBSBA2B" tvc-guide-stationid="98571",NBC Sports Bay Area/California Plus 2
-http://example.local/USA-NBSBA2B.ts
-#EXTINF:-1 tvg-chno="101261" tvg-name="NBC Sports Bay Area/California Plus HD" tvg-logo="https://zap2it.tmsimg.com/assets/s101261_ll_h15_ab.png" group-title="United States" tvg-id="NBSBA2H" tvc-guide-stationid="101261",NBC Sports Bay Area/California Plus HD
-http://example.local/USA-NBSBA2H.ts
-#EXTINF:-1 tvg-chno="16169" tvg-name="NBC Sports Bay Area/No Warriors" tvg-logo="https://zap2it.tmsimg.com/assets/s43801_ll_h15_ab.png" group-title="United States" tvg-id="NBSBA2" tvc-guide-stationid="16169",NBC Sports Bay Area/No Warriors
-http://example.local/USA-NBSBA2.ts
-#EXTINF:-1 tvg-chno="11104" tvg-name="NBC Sports Boston" tvg-logo="https://zap2it.tmsimg.com/assets/s11104_ll_h15_ac.png" group-title="United States" tvg-id="NBCSB" tvc-guide-stationid="11104",NBC Sports Boston
-http://example.local/USA-NBCSB.ts
-#EXTINF:-1 tvg-chno="49198" tvg-name="NBC Sports Boston HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49198_ll_h15_ac.png" group-title="United States" tvg-id="NBCSBH" tvc-guide-stationid="49198",NBC Sports Boston HD
-http://example.local/USA-NBCSBH.ts
-#EXTINF:-1 tvg-chno="56486" tvg-name="NBC Sports Boston HD Celtics" tvg-logo="https://zap2it.tmsimg.com/assets/s49198_ll_h15_ac.png" group-title="United States" tvg-id="NBCSBCM" tvc-guide-stationid="56486",NBC Sports Boston HD Celtics
-http://example.local/USA-NBCSBCM.ts
-#EXTINF:-1 tvg-chno="71465" tvg-name="NBC Sports Boston Outer Market" tvg-logo="https://zap2it.tmsimg.com/assets/s11104_h3_aa.png" group-title="United States" tvg-id="NBCSBOM" tvc-guide-stationid="71465",NBC Sports Boston Outer Market
-http://example.local/USA-NBCSBOM.ts
-#EXTINF:-1 tvg-chno="67538" tvg-name="NBC Sports Boston Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s11104_h3_aa.png" group-title="United States" tvg-id="NBCSBP" tvc-guide-stationid="67538",NBC Sports Boston Plus
-http://example.local/USA-NBCSBP.ts
-#EXTINF:-1 tvg-chno="67552" tvg-name="NBC Sports Boston Plus HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49198_ll_h15_ac.png" group-title="United States" tvg-id="NBCSBPH" tvc-guide-stationid="67552",NBC Sports Boston Plus HD
-http://example.local/USA-NBCSBPH.ts
-#EXTINF:-1 tvg-chno="11102" tvg-name="NBC Sports Boston Zone 1" tvg-logo="https://zap2it.tmsimg.com/assets/s11104_h3_aa.png" group-title="United States" tvg-id="NBCSB1" tvc-guide-stationid="11102",NBC Sports Boston Zone 1
-http://example.local/USA-NBCSB1.ts
-#EXTINF:-1 tvg-chno="11101" tvg-name="NBC Sports Boston Zone 2" tvg-logo="https://zap2it.tmsimg.com/assets/s11104_h3_ba.png" group-title="United States" tvg-id="NBCSB2" tvc-guide-stationid="11101",NBC Sports Boston Zone 2
-http://example.local/USA-NBCSB2.ts
-#EXTINF:-1 tvg-chno="44917" tvg-name="NBC Sports California" tvg-logo="https://zap2it.tmsimg.com/assets/s44917_ll_h15_ad.png" group-title="United States" tvg-id="NBCSCA" tvc-guide-stationid="44917",NBC Sports California
-http://example.local/USA-NBCSCA.ts
-#EXTINF:-1 tvg-chno="191181" tvg-name="NBC Sports California - excl GiantsWarriors Sharks" tvg-logo="https://zap2it.tmsimg.com/assets/s45540_ll_h15_ad.png" group-title="United States" tvg-id="NBCSC4" tvc-guide-stationid="191181",NBC Sports California - excl GiantsWarriors Sharks
-http://example.local/USA-NBCSC4.ts
-#EXTINF:-1 tvg-chno="94487" tvg-name="NBC Sports California Alternate HDTV" group-title="United States" tvg-id="NBCSCAH" tvc-guide-stationid="94487",NBC Sports California Alternate HDTV
-http://example.local/USA-NBCSCAH.ts
-#EXTINF:-1 tvg-chno="45540" tvg-name="NBC Sports California HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45540_ll_h15_ad.png" group-title="United States" tvg-id="NBSCAHD" tvc-guide-stationid="45540",NBC Sports California HD
-http://example.local/USA-NBSCAHD.ts
-#EXTINF:-1 tvg-chno="63492" tvg-name="NBC Sports California HD/No Kings" tvg-logo="https://zap2it.tmsimg.com/assets/s45540_ll_h15_ad.png" group-title="United States" tvg-id="NBCSCD2" tvc-guide-stationid="63492",NBC Sports California HD/No Kings
-http://example.local/USA-NBCSCD2.ts
-#EXTINF:-1 tvg-chno="63494" tvg-name="NBC Sports California HD/Sign Offs" tvg-logo="https://zap2it.tmsimg.com/assets/s45540_ll_h15_ad.png" group-title="United States" tvg-id="NBCSCD3" tvc-guide-stationid="63494",NBC Sports California HD/Sign Offs
-http://example.local/USA-NBCSCD3.ts
-#EXTINF:-1 tvg-chno="63168" tvg-name="NBC Sports California No Kings" tvg-logo="https://zap2it.tmsimg.com/assets/s44917_ll_h15_ad.png" group-title="United States" tvg-id="NBCSCA2" tvc-guide-stationid="63168",NBC Sports California No Kings
-http://example.local/USA-NBCSCA2.ts
-#EXTINF:-1 tvg-chno="65947" tvg-name="NBC Sports California No Kings 24/7 HD Alt" tvg-logo="https://zap2it.tmsimg.com/assets/s45540_ll_h15_ad.png" group-title="United States" tvg-id="NBSCD2A" tvc-guide-stationid="65947",NBC Sports California No Kings 24/7 HD Alt
-http://example.local/USA-NBSCD2A.ts
-#EXTINF:-1 tvg-chno="65945" tvg-name="NBC Sports California No Kings Alternate" tvg-logo="https://zap2it.tmsimg.com/assets/s44917_ll_h15_ad.png" group-title="United States" tvg-id="NBSCA2A" tvc-guide-stationid="65945",NBC Sports California No Kings Alternate
-http://example.local/USA-NBSCA2A.ts
-#EXTINF:-1 tvg-chno="84846" tvg-name="NBC Sports California No Kings Alternate HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45540_ll_h15_ad.png" group-title="United States" tvg-id="NBSCA2H" tvc-guide-stationid="84846",NBC Sports California No Kings Alternate HD
-http://example.local/USA-NBSCA2H.ts
-#EXTINF:-1 tvg-chno="71453" tvg-name="NBC Sports California Outer Market" tvg-logo="https://zap2it.tmsimg.com/assets/s44917_ll_h15_ad.png" group-title="United States" tvg-id="NBSCAOM" tvc-guide-stationid="71453",NBC Sports California Outer Market
-http://example.local/USA-NBSCAOM.ts
-#EXTINF:-1 tvg-chno="92393" tvg-name="NBC Sports California Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s92393_ll_h15_ab.png" group-title="United States" tvg-id="NBSCPLS" tvc-guide-stationid="92393",NBC Sports California Plus
-http://example.local/USA-NBSCPLS.ts
-#EXTINF:-1 tvg-chno="102855" tvg-name="NBC Sports California Plus 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s92393_h3_aa.png" group-title="United States" tvg-id="NBCSCX" tvc-guide-stationid="102855",NBC Sports California Plus 2 HD
-http://example.local/USA-NBCSCX.ts
-#EXTINF:-1 tvg-chno="110904" tvg-name="NBC Sports California Plus 3" group-title="United States" tvg-id="NBCSCX3" tvc-guide-stationid="110904",NBC Sports California Plus 3
-http://example.local/USA-NBCSCX3.ts
-#EXTINF:-1 tvg-chno="73564" tvg-name="NBC Sports California SAT" tvg-logo="https://zap2it.tmsimg.com/assets/s44917_ll_h15_ad.png" group-title="United States" tvg-id="NBCSCAS" tvc-guide-stationid="73564",NBC Sports California SAT
-http://example.local/USA-NBCSCAS.ts
-#EXTINF:-1 tvg-chno="73565" tvg-name="NBC Sports California SAT HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45540_ll_h15_ad.png" group-title="United States" tvg-id="NBSCASH" tvc-guide-stationid="73565",NBC Sports California SAT HD
-http://example.local/USA-NBSCASH.ts
-#EXTINF:-1 tvg-chno="44447" tvg-name="NBC Sports Chicago" tvg-logo="https://zap2it.tmsimg.com/assets/s44447_ll_h15_ac.png" group-title="United States" tvg-id="NBCSCH" tvc-guide-stationid="44447",NBC Sports Chicago
-http://example.local/USA-NBCSCH.ts
-#EXTINF:-1 tvg-chno="159319" tvg-name="NBC Sports HD 1" group-title="United States" tvg-id="NBCSHD1" tvc-guide-stationid="159319",NBC Sports HD 1
-http://example.local/USA-NBCSHD1.ts
-#EXTINF:-1 tvg-chno="159324" tvg-name="NBC Sports HD 2" group-title="United States" tvg-id="NBCSHD2" tvc-guide-stationid="159324",NBC Sports HD 2
-http://example.local/USA-NBCSHD2.ts
-#EXTINF:-1 tvg-chno="159327" tvg-name="NBC Sports HD 3" group-title="United States" tvg-id="NBCSHD3" tvc-guide-stationid="159327",NBC Sports HD 3
-http://example.local/USA-NBCSHD3.ts
-#EXTINF:-1 tvg-chno="76789" tvg-name="NBC Sports Network HD Olympics" group-title="United States" tvg-id="NBCSNHO" tvc-guide-stationid="76789",NBC Sports Network HD Olympics
-http://example.local/USA-NBCSNHO.ts
-#EXTINF:-1 tvg-chno="63591" tvg-name="NBC Sports Network Hockey Black Out HD" group-title="United States" tvg-id="NBCSBHD" tvc-guide-stationid="63591",NBC Sports Network Hockey Black Out HD
-http://example.local/USA-NBCSBHD.ts
-#EXTINF:-1 tvg-chno="96065" tvg-name="NBC Sports Northwest" tvg-logo="https://zap2it.tmsimg.com/assets/s58677_ll_h15_ac.png" group-title="United States" tvg-id="NSNWOR" tvc-guide-stationid="96065",NBC Sports Northwest
-http://example.local/USA-NSNWOR.ts
-#EXTINF:-1 tvg-chno="96066" tvg-name="NBC Sports Northwest" tvg-logo="https://zap2it.tmsimg.com/assets/s58677_ll_h15_ac.png" group-title="United States" tvg-id="NSNWSH" tvc-guide-stationid="96066",NBC Sports Northwest
-http://example.local/USA-NSNWSH.ts
-#EXTINF:-1 tvg-chno="65348" tvg-name="NBC Sports Northwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s101893_ll_h15_ab.png" group-title="United States" tvg-id="NBCSNWH" tvc-guide-stationid="65348",NBC Sports Northwest HD
-http://example.local/USA-NBCSNWH.ts
-#EXTINF:-1 tvg-chno="71455" tvg-name="NBC Sports Northwest Outer Market" tvg-logo="https://zap2it.tmsimg.com/assets/s58677_ll_h15_ac.png" group-title="United States" tvg-id="NSNWOM" tvc-guide-stationid="71455",NBC Sports Northwest Outer Market
-http://example.local/USA-NSNWOM.ts
-#EXTINF:-1 tvg-chno="104167" tvg-name="NBC Sports Northwest Streaming" tvg-logo="https://zap2it.tmsimg.com/assets/s58677_h3_ba.png" group-title="United States" tvg-id="NSNWSTR" tvc-guide-stationid="104167",NBC Sports Northwest Streaming
-http://example.local/USA-NSNWSTR.ts
-#EXTINF:-1 tvg-chno="104195" tvg-name="NBC Sports Northwest Streaming Blackout" tvg-logo="https://zap2it.tmsimg.com/assets/s58677_ll_h15_ac.png" group-title="United States" tvg-id="NSNWSTB" tvc-guide-stationid="104195",NBC Sports Northwest Streaming Blackout
-http://example.local/USA-NSNWSTB.ts
-#EXTINF:-1 tvg-chno="114140" tvg-name="NBC Sports NOW" tvg-logo="https://zap2it.tmsimg.com/assets/s114140_ll_h15_ac.png" group-title="United States" tvg-id="PK22" tvc-guide-stationid="114140",NBC Sports NOW
-http://example.local/USA-PK22.ts
-#EXTINF:-1 tvg-chno="17596" tvg-name="NBC Sports Philadelphia" tvg-logo="https://zap2it.tmsimg.com/assets/s17596_h3_aa.png" group-title="United States" tvg-id="NBCSPA" tvc-guide-stationid="17596",NBC Sports Philadelphia
-http://example.local/USA-NBCSPA.ts
-#EXTINF:-1 tvg-chno="17596" tvg-name="NBC Sports Philadelphia" tvg-logo="https://zap2it.tmsimg.com/assets/s17596_h3_aa.png" group-title="Belize" tvg-id="NBCSPA" tvc-guide-stationid="17596",NBC Sports Philadelphia
-http://example.local/BLZ-NBCSPA.ts
-#EXTINF:-1 tvg-chno="101691" tvg-name="NBC Sports Philadelphia Blackout" tvg-logo="https://zap2it.tmsimg.com/assets/s17596_ll_h15_ac.png" group-title="United States" tvg-id="NSPABO" tvc-guide-stationid="101691",NBC Sports Philadelphia Blackout
-http://example.local/USA-NSPABO.ts
-#EXTINF:-1 tvg-chno="32571" tvg-name="NBC Sports Philadelphia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s32571_h3_aa.png" group-title="United States" tvg-id="NBCSPAH" tvc-guide-stationid="32571",NBC Sports Philadelphia HD
-http://example.local/USA-NBCSPAH.ts
-#EXTINF:-1 tvg-chno="96232" tvg-name="NBC Sports Philadelphia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s32571_ll_h15_ac.png" group-title="United States" tvg-id="NSPAHD2" tvc-guide-stationid="96232",NBC Sports Philadelphia HD
-http://example.local/USA-NSPAHD2.ts
-#EXTINF:-1 tvg-chno="101692" tvg-name="NBC Sports Philadelphia HD Blackout" tvg-logo="https://zap2it.tmsimg.com/assets/s32571_ll_h15_ac.png" group-title="United States" tvg-id="NSPABH" tvc-guide-stationid="101692",NBC Sports Philadelphia HD Blackout
-http://example.local/USA-NSPABH.ts
-#EXTINF:-1 tvg-chno="17064" tvg-name="NBC Sports Philadelphia Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s17064_ll_h15_ac.png" group-title="United States" tvg-id="NBSPP" tvc-guide-stationid="17064",NBC Sports Philadelphia Plus
-http://example.local/USA-NBSPP.ts
-#EXTINF:-1 tvg-chno="101702" tvg-name="NBC Sports Philadelphia Plus Blackout" tvg-logo="https://zap2it.tmsimg.com/assets/s17064_ll_h15_ac.png" group-title="United States" tvg-id="TCNPHB" tvc-guide-stationid="101702",NBC Sports Philadelphia Plus Blackout
-http://example.local/USA-TCNPHB.ts
-#EXTINF:-1 tvg-chno="63440" tvg-name="NBC Sports Philadelphia Plus HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88829_ll_h15_ac.png" group-title="United States" tvg-id="TCNHD" tvc-guide-stationid="63440",NBC Sports Philadelphia Plus HD
-http://example.local/USA-TCNHD.ts
-#EXTINF:-1 tvg-chno="88829" tvg-name="NBC Sports Philadelphia Plus HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88829_ll_h15_ac.png" group-title="United States" tvg-id="NBSPPHD" tvc-guide-stationid="88829",NBC Sports Philadelphia Plus HD
-http://example.local/USA-NBSPPHD.ts
-#EXTINF:-1 tvg-chno="96044" tvg-name="NBC Sports Philadelphia Plus HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88829_ll_h15_ac.png" group-title="United States" tvg-id="NBSPHPT" tvc-guide-stationid="96044",NBC Sports Philadelphia Plus HD
-http://example.local/USA-NBSPHPT.ts
-#EXTINF:-1 tvg-chno="101703" tvg-name="NBC Sports Philadelphia Plus HD Blackout" tvg-logo="https://zap2it.tmsimg.com/assets/s88829_h3_ba.png" group-title="United States" tvg-id="TCNPHBH" tvc-guide-stationid="101703",NBC Sports Philadelphia Plus HD Blackout
-http://example.local/USA-TCNPHBH.ts
-#EXTINF:-1 tvg-chno="198109" tvg-name="NBC Sports Philadelphia+ (Phillies and Flyers Only)" tvg-logo="https://zap2it.tmsimg.com/assets/s88829_ll_h15_ac.png" group-title="United States" tvg-id="NBCSPPF" tvc-guide-stationid="198109",NBC Sports Philadelphia+ (Phillies and Flyers Only)
-http://example.local/USA-NBCSPPF.ts
-#EXTINF:-1 tvg-chno="198108" tvg-name="NBC Sports Philadelphia+ (Phillies and Sixers Only)" tvg-logo="https://zap2it.tmsimg.com/assets/s88829_ll_h15_ac.png" group-title="United States" tvg-id="NBCSPPS" tvc-guide-stationid="198108",NBC Sports Philadelphia+ (Phillies and Sixers Only)
-http://example.local/USA-NBCSPPS.ts
-#EXTINF:-1 tvg-chno="198075" tvg-name="NBC Sports Philadelphia+ (Phillies Only)" tvg-logo="https://zap2it.tmsimg.com/assets/s88829_ll_h15_ac.png" group-title="United States" tvg-id="NBCSPP" tvc-guide-stationid="198075",NBC Sports Philadelphia+ (Phillies Only)
-http://example.local/USA-NBCSPP.ts
-#EXTINF:-1 tvg-chno="109719" tvg-name="NBC West Stream" tvg-logo="https://zap2it.tmsimg.com/assets/s28717_ll_h15_ad.png" group-title="United States" tvg-id="NBCWSTR" tvc-guide-stationid="109719",NBC West Stream
-http://example.local/USA-NBCWSTR.ts
-#EXTINF:-1 tvg-chno="49667" tvg-name="NBC4 News On Demand" group-title="United States" tvg-id="NBC4DM" tvc-guide-stationid="49667",NBC4 News On Demand
-http://example.local/USA-NBC4DM.ts
-#EXTINF:-1 tvg-chno="15952" tvg-name="NBCSN" tvg-logo="https://zap2it.tmsimg.com/assets/s15952_ll_h9_aa.png" group-title="United States" tvg-id="NBCSN" tvc-guide-stationid="15952",NBCSN
-http://example.local/USA-NBCSN.ts
-#EXTINF:-1 tvg-chno="15952" tvg-name="NBCSN" tvg-logo="https://zap2it.tmsimg.com/assets/s15952_ll_h9_aa.png" group-title="Belize" tvg-id="NBCSNX" tvc-guide-stationid="15952",NBCSN
-http://example.local/BLZ-NBCSNX.ts
-#EXTINF:-1 tvg-chno="48639" tvg-name="NBCSN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s48639_ll_h9_aa.png" group-title="Belize" tvg-id="NBCSNHD" tvc-guide-stationid="48639",NBCSN HD
-http://example.local/BLZ-NBCSNHD.ts
-#EXTINF:-1 tvg-chno="76399" tvg-name="NBCSN HD Non-Olympic" group-title="Bermuda" tvg-id="NBCSNOH" tvc-guide-stationid="76399",NBCSN HD Non-Olympic
-http://example.local/BMU-NBCSNOH.ts
-#EXTINF:-1 tvg-chno="76399" tvg-name="NBCSN HD Non-Olympic" group-title="Belize" tvg-id="NBCSNOH" tvc-guide-stationid="76399",NBCSN HD Non-Olympic
-http://example.local/BLZ-NBCSNOH.ts
-#EXTINF:-1 tvg-chno="76399" tvg-name="NBCSN HD Non-Olympic" group-title="Puerto Rico" tvg-id="NBCSNOH" tvc-guide-stationid="76399",NBCSN HD Non-Olympic
-http://example.local/PRI-NBCSNOH.ts
-#EXTINF:-1 tvg-chno="76316" tvg-name="NBCSN Non-Olympic" group-title="Trinidad and Tobago" tvg-id="NBCSNNO" tvc-guide-stationid="76316",NBCSN Non-Olympic
-http://example.local/TTO-NBCSNNO.ts
-#EXTINF:-1 tvg-chno="76316" tvg-name="NBCSN Non-Olympic" group-title="Belize" tvg-id="NBCSNNO" tvc-guide-stationid="76316",NBCSN Non-Olympic
-http://example.local/BLZ-NBCSNNO.ts
-#EXTINF:-1 tvg-chno="139825" tvg-name="NBCU 4K" tvg-logo="https://zap2it.tmsimg.com/assets/s108900_ll_h15_ab.png" group-title="United States" tvg-id="NBCU4K" tvc-guide-stationid="139825",NBCU 4K
-http://example.local/USA-NBCU4K.ts
-#EXTINF:-1 tvg-chno="43363" tvg-name="NBN (International)" group-title="United States" tvg-id="NBN" tvc-guide-stationid="43363",NBN (International)
-http://example.local/USA-NBN.ts
-#EXTINF:-1 tvg-chno="43363" tvg-name="NBN (International)" group-title="France" tvg-id="NBN" tvc-guide-stationid="43363",NBN (International)
-http://example.local/FRA-NBN.ts
-#EXTINF:-1 tvg-chno="104004" tvg-name="NBN 9GEM Gold Coast (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104004_ll_h9_ab.png" group-title="Australia" tvg-id="N9GCANZ" tvc-guide-stationid="104004",NBN 9GEM Gold Coast (NINE)
-http://example.local/AUS-N9GCANZ.ts
-#EXTINF:-1 tvg-chno="111966" tvg-name="NBN 9GEM Gold Coast HD (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s111966_ll_h9_ab.png" group-title="Australia" tvg-id="N9GHGANZ" tvc-guide-stationid="111966",NBN 9GEM Gold Coast HD (NINE)
-http://example.local/AUS-N9GHGANZ.ts
-#EXTINF:-1 tvg-chno="104105" tvg-name="NBN 9GEM NSW (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104105_ll_h9_ab.png" group-title="Australia" tvg-id="N9NANZ" tvc-guide-stationid="104105",NBN 9GEM NSW (NINE)
-http://example.local/AUS-N9NANZ.ts
-#EXTINF:-1 tvg-chno="111967" tvg-name="NBN 9GEM NSW HD (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s111967_ll_h9_ab.png" group-title="Australia" tvg-id="9GHNANZ" tvc-guide-stationid="111967",NBN 9GEM NSW HD (NINE)
-http://example.local/AUS-9GHNANZ.ts
-#EXTINF:-1 tvg-chno="104644" tvg-name="NBN 9GO! NSW (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104644_ll_h9_ac.png" group-title="Australia" tvg-id="N9NSANZ" tvc-guide-stationid="104644",NBN 9GO! NSW (NINE)
-http://example.local/AUS-N9NSANZ.ts
-#EXTINF:-1 tvg-chno="104645" tvg-name="NBN 9GO! Queensland (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104645_ll_h9_aa.png" group-title="Australia" tvg-id="N9QDANZ" tvc-guide-stationid="104645",NBN 9GO! Queensland (NINE)
-http://example.local/AUS-N9QDANZ.ts
-#EXTINF:-1 tvg-chno="104264" tvg-name="NBN 9HD Gold Coast (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104264_ll_h9_ab.png" group-title="Australia" tvg-id="N9HGANZ" tvc-guide-stationid="104264",NBN 9HD Gold Coast (NINE)
-http://example.local/AUS-N9HGANZ.ts
-#EXTINF:-1 tvg-chno="104266" tvg-name="NBN 9HD NSW (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104266_ll_h9_ac.png" group-title="Australia" tvg-id="N9HNANZ" tvc-guide-stationid="104266",NBN 9HD NSW (NINE)
-http://example.local/AUS-N9HNANZ.ts
-#EXTINF:-1 tvg-chno="104666" tvg-name="NBN 9Life Gold Coast (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104666_ll_h15_ac.png" group-title="Australia" tvg-id="N9LGANZ" tvc-guide-stationid="104666",NBN 9Life Gold Coast (NINE)
-http://example.local/AUS-N9LGANZ.ts
-#EXTINF:-1 tvg-chno="104667" tvg-name="NBN 9Life NSW (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104667_ll_h15_ac.png" group-title="Australia" tvg-id="N9LNANZ" tvc-guide-stationid="104667",NBN 9Life NSW (NINE)
-http://example.local/AUS-N9LNANZ.ts
-#EXTINF:-1 tvg-chno="116093" tvg-name="NBN Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s116093_ll_h15_aa.png" group-title="Australia" tvg-id="EXNBNANZ" tvc-guide-stationid="116093",NBN Extra
-http://example.local/AUS-EXNBNANZ.ts
-#EXTINF:-1 tvg-chno="104263" tvg-name="NBN Gold Coast (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104263_ll_h9_aa.png" group-title="Australia" tvg-id="NBGCANZ" tvc-guide-stationid="104263",NBN Gold Coast (NINE)
-http://example.local/AUS-NBGCANZ.ts
-#EXTINF:-1 tvg-chno="104265" tvg-name="NBN NSW (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104265_ll_h9_aa.png" group-title="Australia" tvg-id="NBNANZ" tvc-guide-stationid="104265",NBN NSW (NINE)
-http://example.local/AUS-NBNANZ.ts
-#EXTINF:-1 tvg-chno="59743" tvg-name="NC In Demand HD PPV" group-title="United States" tvg-id="NCHDPPV" tvc-guide-stationid="59743",NC In Demand HD PPV
-http://example.local/USA-NCHDPPV.ts
-#EXTINF:-1 tvg-chno="89681" tvg-name="NCAA College Sports Package" tvg-logo="https://zap2it.tmsimg.com/assets/s89681_ll_h15_aa.png" group-title="Canada" tvg-id="NCAA0" tvc-guide-stationid="89681",NCAA College Sports Package
-http://example.local/CAN-NCAA0.ts
-#EXTINF:-1 tvg-chno="89682" tvg-name="NCAA College Sports Package" tvg-logo="https://zap2it.tmsimg.com/assets/s89681_ll_h15_aa.png" group-title="Canada" tvg-id="NCAA1B" tvc-guide-stationid="89682",NCAA College Sports Package
-http://example.local/CAN-NCAA1B.ts
-#EXTINF:-1 tvg-chno="89683" tvg-name="NCAA College Sports Package" tvg-logo="https://zap2it.tmsimg.com/assets/s89681_ll_h15_aa.png" group-title="Canada" tvg-id="NCAA2B" tvc-guide-stationid="89683",NCAA College Sports Package
-http://example.local/CAN-NCAA2B.ts
-#EXTINF:-1 tvg-chno="89684" tvg-name="NCAA College Sports Package" tvg-logo="https://zap2it.tmsimg.com/assets/s89681_ll_h15_aa.png" group-title="Canada" tvg-id="NCAA3B" tvc-guide-stationid="89684",NCAA College Sports Package
-http://example.local/CAN-NCAA3B.ts
-#EXTINF:-1 tvg-chno="89685" tvg-name="NCAA College Sports Package" tvg-logo="https://zap2it.tmsimg.com/assets/s89681_ll_h15_aa.png" group-title="Canada" tvg-id="NCAA4B" tvc-guide-stationid="89685",NCAA College Sports Package
-http://example.local/CAN-NCAA4B.ts
-#EXTINF:-1 tvg-chno="89686" tvg-name="NCAA College Sports Package" tvg-logo="https://zap2it.tmsimg.com/assets/s89681_ll_h15_aa.png" group-title="Canada" tvg-id="NCAA5B" tvc-guide-stationid="89686",NCAA College Sports Package
-http://example.local/CAN-NCAA5B.ts
-#EXTINF:-1 tvg-chno="79398" tvg-name="NCU TV" tvg-logo="https://zap2it.tmsimg.com/assets/s79398_ll_h6_aa.png" group-title="Jamaica" tvg-id="NCUTV" tvc-guide-stationid="79398",NCU TV
-http://example.local/JAM-NCUTV.ts
-#EXTINF:-1 tvg-chno="79398" tvg-name="NCU TV" tvg-logo="https://zap2it.tmsimg.com/assets/s79398_ll_h6_aa.png" group-title="St. Kitts and Nevis" tvg-id="NCUTV" tvc-guide-stationid="79398",NCU TV
-http://example.local/KNA-NCUTV.ts
-#EXTINF:-1 tvg-chno="93641" tvg-name="nCUBE 1 Video On Demand" group-title="United States" tvg-id="NC1DM" tvc-guide-stationid="93641",nCUBE 1 Video On Demand
-http://example.local/USA-NC1DM.ts
-#EXTINF:-1 tvg-chno="93863" tvg-name="nCUBE 2 Video On Demand" group-title="United States" tvg-id="NC2DM" tvc-guide-stationid="93863",nCUBE 2 Video On Demand
-http://example.local/USA-NC2DM.ts
-#EXTINF:-1 tvg-chno="93241" tvg-name="ND Legislative Session House Chamber" group-title="United States" tvg-id="NDSES" tvc-guide-stationid="93241",ND Legislative Session House Chamber
-http://example.local/USA-NDSES.ts
-#EXTINF:-1 tvg-chno="94588" tvg-name="ND Legislative Session Senate Chamber" group-title="United States" tvg-id="NDSEN" tvc-guide-stationid="94588",ND Legislative Session Senate Chamber
-http://example.local/USA-NDSEN.ts
-#EXTINF:-1 tvg-chno="101489" tvg-name="NDR 1 Niedersachsen" tvg-logo="https://zap2it.tmsimg.com/assets/s101489_ll_h15_ac.png" group-title="Switzerland" tvg-id="NDR1NI" tvc-guide-stationid="101489",NDR 1 Niedersachsen
-http://example.local/CHE-NDR1NI.ts
-#EXTINF:-1 tvg-chno="101489" tvg-name="NDR 1 Niedersachsen" tvg-logo="https://zap2it.tmsimg.com/assets/s101489_ll_h15_ac.png" group-title="Austria" tvg-id="NDR1NI" tvc-guide-stationid="101489",NDR 1 Niedersachsen
-http://example.local/AUT-NDR1NI.ts
-#EXTINF:-1 tvg-chno="101489" tvg-name="NDR 1 Niedersachsen" tvg-logo="https://zap2it.tmsimg.com/assets/s101489_ll_h15_ac.png" group-title="Germany" tvg-id="NDR1NI" tvc-guide-stationid="101489",NDR 1 Niedersachsen
-http://example.local/DEU-NDR1NI.ts
-#EXTINF:-1 tvg-chno="108075" tvg-name="NDR 1 Niedersachsen - Nordost" tvg-logo="https://zap2it.tmsimg.com/assets/s108075_ll_h15_aa.png" group-title="Germany" tvg-id="NDR1NO" tvc-guide-stationid="108075",NDR 1 Niedersachsen - Nordost
-http://example.local/DEU-NDR1NO.ts
-#EXTINF:-1 tvg-chno="108076" tvg-name="NDR 1 Niedersachsen - Nordwest" tvg-logo="https://zap2it.tmsimg.com/assets/s108076_ll_h15_aa.png" group-title="Germany" tvg-id="NDR1NW" tvc-guide-stationid="108076",NDR 1 Niedersachsen - Nordwest
-http://example.local/DEU-NDR1NW.ts
-#EXTINF:-1 tvg-chno="108077" tvg-name="NDR 1 Niedersachsen - Südost" tvg-logo="https://zap2it.tmsimg.com/assets/s108077_ll_h15_aa.png" group-title="Germany" tvg-id="NDR1SO" tvc-guide-stationid="108077",NDR 1 Niedersachsen - Südost
-http://example.local/DEU-NDR1SO.ts
-#EXTINF:-1 tvg-chno="108078" tvg-name="NDR 1 Niedersachsen - Südwest" tvg-logo="https://zap2it.tmsimg.com/assets/s108078_ll_h15_aa.png" group-title="Germany" tvg-id="NDR1SW" tvc-guide-stationid="108078",NDR 1 Niedersachsen - Südwest
-http://example.local/DEU-NDR1SW.ts
-#EXTINF:-1 tvg-chno="108079" tvg-name="NDR 1 Radio MV Neubrandenburg" tvg-logo="https://zap2it.tmsimg.com/assets/s108079_ll_h15_aa.png" group-title="Germany" tvg-id="NDR1MVN" tvc-guide-stationid="108079",NDR 1 Radio MV Neubrandenburg
-http://example.local/DEU-NDR1MVN.ts
-#EXTINF:-1 tvg-chno="108083" tvg-name="NDR 1 Radio MV Rostock" tvg-logo="https://zap2it.tmsimg.com/assets/s108083_ll_h15_aa.png" group-title="Germany" tvg-id="NDR1MVR" tvc-guide-stationid="108083",NDR 1 Radio MV Rostock
-http://example.local/DEU-NDR1MVR.ts
-#EXTINF:-1 tvg-chno="108084" tvg-name="NDR 1 Radio MV Schwerin" tvg-logo="https://zap2it.tmsimg.com/assets/s108084_ll_h15_aa.png" group-title="Germany" tvg-id="NDR1MVS" tvc-guide-stationid="108084",NDR 1 Radio MV Schwerin
-http://example.local/DEU-NDR1MVS.ts
-#EXTINF:-1 tvg-chno="108085" tvg-name="NDR 1 Radio MV Vorpommern" tvg-logo="https://zap2it.tmsimg.com/assets/s108085_ll_h15_aa.png" group-title="Austria" tvg-id="NDR1MVV" tvc-guide-stationid="108085",NDR 1 Radio MV Vorpommern
-http://example.local/AUT-NDR1MVV.ts
-#EXTINF:-1 tvg-chno="108085" tvg-name="NDR 1 Radio MV Vorpommern" tvg-logo="https://zap2it.tmsimg.com/assets/s108085_ll_h15_aa.png" group-title="Germany" tvg-id="NDR1MVV" tvc-guide-stationid="108085",NDR 1 Radio MV Vorpommern
-http://example.local/DEU-NDR1MVV.ts
-#EXTINF:-1 tvg-chno="101488" tvg-name="NDR 1 Welle Nord" tvg-logo="https://zap2it.tmsimg.com/assets/s101488_ll_h15_ab.png" group-title="Austria" tvg-id="NDR1WNO" tvc-guide-stationid="101488",NDR 1 Welle Nord
-http://example.local/AUT-NDR1WNO.ts
-#EXTINF:-1 tvg-chno="101488" tvg-name="NDR 1 Welle Nord" tvg-logo="https://zap2it.tmsimg.com/assets/s101488_ll_h15_ab.png" group-title="Germany" tvg-id="NDR1WNO" tvc-guide-stationid="101488",NDR 1 Welle Nord
-http://example.local/DEU-NDR1WNO.ts
-#EXTINF:-1 tvg-chno="108087" tvg-name="NDR 1 Welle Nord - Mitte" tvg-logo="https://zap2it.tmsimg.com/assets/s108087_ll_h15_aa.png" group-title="Germany" tvg-id="NDRWNM" tvc-guide-stationid="108087",NDR 1 Welle Nord - Mitte
-http://example.local/DEU-NDRWNM.ts
-#EXTINF:-1 tvg-chno="108088" tvg-name="NDR 1 Welle Nord - Nord" tvg-logo="https://zap2it.tmsimg.com/assets/s108088_ll_h15_aa.png" group-title="Germany" tvg-id="NDRWNN" tvc-guide-stationid="108088",NDR 1 Welle Nord - Nord
-http://example.local/DEU-NDRWNN.ts
-#EXTINF:-1 tvg-chno="108089" tvg-name="NDR 1 Welle Nord - Ost" tvg-logo="https://zap2it.tmsimg.com/assets/s108089_ll_h15_aa.png" group-title="Germany" tvg-id="NDRWNO" tvc-guide-stationid="108089",NDR 1 Welle Nord - Ost
-http://example.local/DEU-NDRWNO.ts
-#EXTINF:-1 tvg-chno="108090" tvg-name="NDR 1 Welle Nord - Süd" tvg-logo="https://zap2it.tmsimg.com/assets/s108090_ll_h15_aa.png" group-title="Germany" tvg-id="NDRWNS" tvc-guide-stationid="108090",NDR 1 Welle Nord - Süd
-http://example.local/DEU-NDRWNS.ts
-#EXTINF:-1 tvg-chno="108091" tvg-name="NDR 1 Welle Nord - West" tvg-logo="https://zap2it.tmsimg.com/assets/s108091_ll_h15_aa.png" group-title="Germany" tvg-id="NDRWNW" tvc-guide-stationid="108091",NDR 1 Welle Nord - West
-http://example.local/DEU-NDRWNW.ts
-#EXTINF:-1 tvg-chno="87882" tvg-name="NDR 2 Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s87882_ll_h15_ab.png" group-title="Austria" tvg-id="NDR2RAD" tvc-guide-stationid="87882",NDR 2 Radio
-http://example.local/AUT-NDR2RAD.ts
-#EXTINF:-1 tvg-chno="87882" tvg-name="NDR 2 Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s87882_ll_h15_ab.png" group-title="Germany" tvg-id="NDR2RAD" tvc-guide-stationid="87882",NDR 2 Radio
-http://example.local/DEU-NDR2RAD.ts
-#EXTINF:-1 tvg-chno="101491" tvg-name="NDR 903" tvg-logo="https://zap2it.tmsimg.com/assets/s101491_ll_h15_ab.png" group-title="Austria" tvg-id="NDR903" tvc-guide-stationid="101491",NDR 903
-http://example.local/AUT-NDR903.ts
-#EXTINF:-1 tvg-chno="101491" tvg-name="NDR 903" tvg-logo="https://zap2it.tmsimg.com/assets/s101491_ll_h15_ab.png" group-title="Germany" tvg-id="NDR903" tvc-guide-stationid="101491",NDR 903
-http://example.local/DEU-NDR903.ts
-#EXTINF:-1 tvg-chno="107521" tvg-name="NDR Blue" tvg-logo="https://zap2it.tmsimg.com/assets/s107521_ll_h15_aa.png" group-title="Austria" tvg-id="NDRBLUE" tvc-guide-stationid="107521",NDR Blue
-http://example.local/AUT-NDRBLUE.ts
-#EXTINF:-1 tvg-chno="107521" tvg-name="NDR Blue" tvg-logo="https://zap2it.tmsimg.com/assets/s107521_ll_h15_aa.png" group-title="Germany" tvg-id="NDRBLUE" tvc-guide-stationid="107521",NDR Blue
-http://example.local/DEU-NDRBLUE.ts
-#EXTINF:-1 tvg-chno="83623" tvg-name="NDR Fernsehen" tvg-logo="https://zap2it.tmsimg.com/assets/s83623_ll_h9_ab.png" group-title="Denmark" tvg-id="NDRFRN" tvc-guide-stationid="83623",NDR Fernsehen
-http://example.local/DNK-NDRFRN.ts
-#EXTINF:-1 tvg-chno="83624" tvg-name="NDR Fernsehen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83624_ll_h15_ab.png" group-title="Switzerland" tvg-id="NDRFNHD" tvc-guide-stationid="83624",NDR Fernsehen HD
-http://example.local/CHE-NDRFNHD.ts
-#EXTINF:-1 tvg-chno="83624" tvg-name="NDR Fernsehen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83624_ll_h15_ab.png" group-title="Austria" tvg-id="NDRFNHD" tvc-guide-stationid="83624",NDR Fernsehen HD
-http://example.local/AUT-NDRFNHD.ts
-#EXTINF:-1 tvg-chno="83624" tvg-name="NDR Fernsehen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83624_ll_h15_ab.png" group-title="Germany" tvg-id="NDRFNHD" tvc-guide-stationid="83624",NDR Fernsehen HD
-http://example.local/DEU-NDRFNHD.ts
-#EXTINF:-1 tvg-chno="90622" tvg-name="NDR Fernsehen HH (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s90622_ll_h15_aa.png" group-title="Spain" tvg-id="NDRHAM" tvc-guide-stationid="90622",NDR Fernsehen HH (NDRFRN)
-http://example.local/ESP-NDRHAM.ts
-#EXTINF:-1 tvg-chno="90622" tvg-name="NDR Fernsehen HH (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s90622_ll_h15_aa.png" group-title="Netherlands" tvg-id="NDRHAM" tvc-guide-stationid="90622",NDR Fernsehen HH (NDRFRN)
-http://example.local/NLD-NDRHAM.ts
-#EXTINF:-1 tvg-chno="90622" tvg-name="NDR Fernsehen HH (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s90622_ll_h15_aa.png" group-title="Italy" tvg-id="NDRHAM" tvc-guide-stationid="90622",NDR Fernsehen HH (NDRFRN)
-http://example.local/ITA-NDRHAM.ts
-#EXTINF:-1 tvg-chno="90622" tvg-name="NDR Fernsehen HH (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s90622_ll_h15_aa.png" group-title="United Kingdom" tvg-id="NDRHAM" tvc-guide-stationid="90622",NDR Fernsehen HH (NDRFRN)
-http://example.local/GBR-NDRHAM.ts
-#EXTINF:-1 tvg-chno="90622" tvg-name="NDR Fernsehen HH (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s90622_ll_h15_aa.png" group-title="France" tvg-id="NDRHAM" tvc-guide-stationid="90622",NDR Fernsehen HH (NDRFRN)
-http://example.local/FRA-NDRHAM.ts
-#EXTINF:-1 tvg-chno="90622" tvg-name="NDR Fernsehen HH (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s90622_ll_h15_aa.png" group-title="Austria" tvg-id="NDRHAM" tvc-guide-stationid="90622",NDR Fernsehen HH (NDRFRN)
-http://example.local/AUT-NDRHAM.ts
-#EXTINF:-1 tvg-chno="90622" tvg-name="NDR Fernsehen HH (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s90622_ll_h15_aa.png" group-title="Belgium" tvg-id="NDRHAM" tvc-guide-stationid="90622",NDR Fernsehen HH (NDRFRN)
-http://example.local/BEL-NDRHAM.ts
-#EXTINF:-1 tvg-chno="91973" tvg-name="NDR Fernsehen HH HD (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s91973_ll_h15_ab.png" group-title="Spain" tvg-id="NDRHHHD" tvc-guide-stationid="91973",NDR Fernsehen HH HD (NDRFRN)
-http://example.local/ESP-NDRHHHD.ts
-#EXTINF:-1 tvg-chno="91973" tvg-name="NDR Fernsehen HH HD (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s91973_ll_h15_ab.png" group-title="Netherlands" tvg-id="NDRHHHD" tvc-guide-stationid="91973",NDR Fernsehen HH HD (NDRFRN)
-http://example.local/NLD-NDRHHHD.ts
-#EXTINF:-1 tvg-chno="91973" tvg-name="NDR Fernsehen HH HD (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s91973_ll_h15_ab.png" group-title="Italy" tvg-id="NDRHHHD" tvc-guide-stationid="91973",NDR Fernsehen HH HD (NDRFRN)
-http://example.local/ITA-NDRHHHD.ts
-#EXTINF:-1 tvg-chno="91973" tvg-name="NDR Fernsehen HH HD (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s91973_ll_h15_ab.png" group-title="Poland" tvg-id="NDRHHHD" tvc-guide-stationid="91973",NDR Fernsehen HH HD (NDRFRN)
-http://example.local/POL-NDRHHHD.ts
-#EXTINF:-1 tvg-chno="91973" tvg-name="NDR Fernsehen HH HD (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s91973_ll_h15_ab.png" group-title="United Kingdom" tvg-id="NDRHHHD" tvc-guide-stationid="91973",NDR Fernsehen HH HD (NDRFRN)
-http://example.local/GBR-NDRHHHD.ts
-#EXTINF:-1 tvg-chno="91973" tvg-name="NDR Fernsehen HH HD (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s91973_ll_h15_ab.png" group-title="Switzerland" tvg-id="NDRHHHD" tvc-guide-stationid="91973",NDR Fernsehen HH HD (NDRFRN)
-http://example.local/CHE-NDRHHHD.ts
-#EXTINF:-1 tvg-chno="91973" tvg-name="NDR Fernsehen HH HD (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s91973_ll_h15_ab.png" group-title="France" tvg-id="NDRHHHD" tvc-guide-stationid="91973",NDR Fernsehen HH HD (NDRFRN)
-http://example.local/FRA-NDRHHHD.ts
-#EXTINF:-1 tvg-chno="91973" tvg-name="NDR Fernsehen HH HD (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s91973_ll_h15_ab.png" group-title="Austria" tvg-id="NDRHHHD" tvc-guide-stationid="91973",NDR Fernsehen HH HD (NDRFRN)
-http://example.local/AUT-NDRHHHD.ts
-#EXTINF:-1 tvg-chno="91973" tvg-name="NDR Fernsehen HH HD (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s91973_ll_h15_ab.png" group-title="Germany" tvg-id="NDRHHHD" tvc-guide-stationid="91973",NDR Fernsehen HH HD (NDRFRN)
-http://example.local/DEU-NDRHHHD.ts
-#EXTINF:-1 tvg-chno="91973" tvg-name="NDR Fernsehen HH HD (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s91973_ll_h15_ab.png" group-title="Belgium" tvg-id="NDRHHHD" tvc-guide-stationid="91973",NDR Fernsehen HH HD (NDRFRN)
-http://example.local/BEL-NDRHHHD.ts
-#EXTINF:-1 tvg-chno="53753" tvg-name="NDR Fernsehen MV (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53753_ll_h9_aa.png" group-title="Netherlands" tvg-id="NDRMEVR" tvc-guide-stationid="53753",NDR Fernsehen MV (NDRFRN)
-http://example.local/NLD-NDRMEVR.ts
-#EXTINF:-1 tvg-chno="53753" tvg-name="NDR Fernsehen MV (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53753_ll_h9_aa.png" group-title="Italy" tvg-id="NDRMEVR" tvc-guide-stationid="53753",NDR Fernsehen MV (NDRFRN)
-http://example.local/ITA-NDRMEVR.ts
-#EXTINF:-1 tvg-chno="53753" tvg-name="NDR Fernsehen MV (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53753_ll_h9_aa.png" group-title="United Kingdom" tvg-id="NDRMEVR" tvc-guide-stationid="53753",NDR Fernsehen MV (NDRFRN)
-http://example.local/GBR-NDRMEVR.ts
-#EXTINF:-1 tvg-chno="53753" tvg-name="NDR Fernsehen MV (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53753_ll_h9_aa.png" group-title="France" tvg-id="NDRMEVR" tvc-guide-stationid="53753",NDR Fernsehen MV (NDRFRN)
-http://example.local/FRA-NDRMEVR.ts
-#EXTINF:-1 tvg-chno="53753" tvg-name="NDR Fernsehen MV (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53753_ll_h9_aa.png" group-title="Austria" tvg-id="NDRMEVR" tvc-guide-stationid="53753",NDR Fernsehen MV (NDRFRN)
-http://example.local/AUT-NDRMEVR.ts
-#EXTINF:-1 tvg-chno="53753" tvg-name="NDR Fernsehen MV (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53753_ll_h9_aa.png" group-title="Belgium" tvg-id="NDRMEVR" tvc-guide-stationid="53753",NDR Fernsehen MV (NDRFRN)
-http://example.local/BEL-NDRMEVR.ts
-#EXTINF:-1 tvg-chno="89071" tvg-name="NDR Fernsehen MV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89071_ll_h15_ab.png" group-title="Spain" tvg-id="NDRMVNH" tvc-guide-stationid="89071",NDR Fernsehen MV HD
-http://example.local/ESP-NDRMVNH.ts
-#EXTINF:-1 tvg-chno="89071" tvg-name="NDR Fernsehen MV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89071_ll_h15_ab.png" group-title="Netherlands" tvg-id="NDRMVNH" tvc-guide-stationid="89071",NDR Fernsehen MV HD
-http://example.local/NLD-NDRMVNH.ts
-#EXTINF:-1 tvg-chno="89071" tvg-name="NDR Fernsehen MV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89071_ll_h15_ab.png" group-title="Italy" tvg-id="NDRMVNH" tvc-guide-stationid="89071",NDR Fernsehen MV HD
-http://example.local/ITA-NDRMVNH.ts
-#EXTINF:-1 tvg-chno="89071" tvg-name="NDR Fernsehen MV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89071_ll_h15_ab.png" group-title="Poland" tvg-id="NDRMVNH" tvc-guide-stationid="89071",NDR Fernsehen MV HD
-http://example.local/POL-NDRMVNH.ts
-#EXTINF:-1 tvg-chno="89071" tvg-name="NDR Fernsehen MV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89071_ll_h15_ab.png" group-title="United Kingdom" tvg-id="NDRMVNH" tvc-guide-stationid="89071",NDR Fernsehen MV HD
-http://example.local/GBR-NDRMVNH.ts
-#EXTINF:-1 tvg-chno="89071" tvg-name="NDR Fernsehen MV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89071_ll_h15_ab.png" group-title="Switzerland" tvg-id="NDRMVNH" tvc-guide-stationid="89071",NDR Fernsehen MV HD
-http://example.local/CHE-NDRMVNH.ts
-#EXTINF:-1 tvg-chno="89071" tvg-name="NDR Fernsehen MV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89071_ll_h15_ab.png" group-title="France" tvg-id="NDRMVNH" tvc-guide-stationid="89071",NDR Fernsehen MV HD
-http://example.local/FRA-NDRMVNH.ts
-#EXTINF:-1 tvg-chno="89071" tvg-name="NDR Fernsehen MV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89071_ll_h15_ab.png" group-title="Austria" tvg-id="NDRMVNH" tvc-guide-stationid="89071",NDR Fernsehen MV HD
-http://example.local/AUT-NDRMVNH.ts
-#EXTINF:-1 tvg-chno="89071" tvg-name="NDR Fernsehen MV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89071_ll_h15_ab.png" group-title="Germany" tvg-id="NDRMVNH" tvc-guide-stationid="89071",NDR Fernsehen MV HD
-http://example.local/DEU-NDRMVNH.ts
-#EXTINF:-1 tvg-chno="89071" tvg-name="NDR Fernsehen MV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89071_ll_h15_ab.png" group-title="Belgium" tvg-id="NDRMVNH" tvc-guide-stationid="89071",NDR Fernsehen MV HD
-http://example.local/BEL-NDRMVNH.ts
-#EXTINF:-1 tvg-chno="53754" tvg-name="NDR Fernsehen NDS (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53754_ll_h15_ad.png" group-title="Spain" tvg-id="NDRNIED" tvc-guide-stationid="53754",NDR Fernsehen NDS (NDRFRN)
-http://example.local/ESP-NDRNIED.ts
-#EXTINF:-1 tvg-chno="53754" tvg-name="NDR Fernsehen NDS (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53754_ll_h15_ad.png" group-title="Netherlands" tvg-id="NDRNIED" tvc-guide-stationid="53754",NDR Fernsehen NDS (NDRFRN)
-http://example.local/NLD-NDRNIED.ts
-#EXTINF:-1 tvg-chno="53754" tvg-name="NDR Fernsehen NDS (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53754_ll_h15_ad.png" group-title="Italy" tvg-id="NDRNIED" tvc-guide-stationid="53754",NDR Fernsehen NDS (NDRFRN)
-http://example.local/ITA-NDRNIED.ts
-#EXTINF:-1 tvg-chno="53754" tvg-name="NDR Fernsehen NDS (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53754_ll_h15_ad.png" group-title="United States" tvg-id="NDRNIED" tvc-guide-stationid="53754",NDR Fernsehen NDS (NDRFRN)
-http://example.local/USA-NDRNIED.ts
-#EXTINF:-1 tvg-chno="53754" tvg-name="NDR Fernsehen NDS (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53754_ll_h15_ad.png" group-title="United Kingdom" tvg-id="NDRNIED" tvc-guide-stationid="53754",NDR Fernsehen NDS (NDRFRN)
-http://example.local/GBR-NDRNIED.ts
-#EXTINF:-1 tvg-chno="53754" tvg-name="NDR Fernsehen NDS (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53754_ll_h15_ad.png" group-title="France" tvg-id="NDRNIED" tvc-guide-stationid="53754",NDR Fernsehen NDS (NDRFRN)
-http://example.local/FRA-NDRNIED.ts
-#EXTINF:-1 tvg-chno="53754" tvg-name="NDR Fernsehen NDS (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53754_ll_h15_ad.png" group-title="Austria" tvg-id="NDRNIED" tvc-guide-stationid="53754",NDR Fernsehen NDS (NDRFRN)
-http://example.local/AUT-NDRNIED.ts
-#EXTINF:-1 tvg-chno="53754" tvg-name="NDR Fernsehen NDS (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53754_ll_h15_ad.png" group-title="Belgium" tvg-id="NDRNIED" tvc-guide-stationid="53754",NDR Fernsehen NDS (NDRFRN)
-http://example.local/BEL-NDRNIED.ts
-#EXTINF:-1 tvg-chno="84124" tvg-name="NDR Fernsehen NDS HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84124_ll_h15_ab.png" group-title="Spain" tvg-id="NDRNHD" tvc-guide-stationid="84124",NDR Fernsehen NDS HD
-http://example.local/ESP-NDRNHD.ts
-#EXTINF:-1 tvg-chno="84124" tvg-name="NDR Fernsehen NDS HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84124_ll_h15_ab.png" group-title="Netherlands" tvg-id="NDRNHD" tvc-guide-stationid="84124",NDR Fernsehen NDS HD
-http://example.local/NLD-NDRNHD.ts
-#EXTINF:-1 tvg-chno="84124" tvg-name="NDR Fernsehen NDS HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84124_ll_h15_ab.png" group-title="Italy" tvg-id="NDRNHD" tvc-guide-stationid="84124",NDR Fernsehen NDS HD
-http://example.local/ITA-NDRNHD.ts
-#EXTINF:-1 tvg-chno="84124" tvg-name="NDR Fernsehen NDS HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84124_ll_h15_ab.png" group-title="Poland" tvg-id="NDRNHD" tvc-guide-stationid="84124",NDR Fernsehen NDS HD
-http://example.local/POL-NDRNHD.ts
-#EXTINF:-1 tvg-chno="84124" tvg-name="NDR Fernsehen NDS HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84124_ll_h15_ab.png" group-title="United Kingdom" tvg-id="NDRNHD" tvc-guide-stationid="84124",NDR Fernsehen NDS HD
-http://example.local/GBR-NDRNHD.ts
-#EXTINF:-1 tvg-chno="84124" tvg-name="NDR Fernsehen NDS HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84124_ll_h15_ab.png" group-title="Switzerland" tvg-id="NDRNHD" tvc-guide-stationid="84124",NDR Fernsehen NDS HD
-http://example.local/CHE-NDRNHD.ts
-#EXTINF:-1 tvg-chno="84124" tvg-name="NDR Fernsehen NDS HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84124_ll_h15_ab.png" group-title="France" tvg-id="NDRNHD" tvc-guide-stationid="84124",NDR Fernsehen NDS HD
-http://example.local/FRA-NDRNHD.ts
-#EXTINF:-1 tvg-chno="84124" tvg-name="NDR Fernsehen NDS HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84124_ll_h15_ab.png" group-title="Austria" tvg-id="NDRNHD" tvc-guide-stationid="84124",NDR Fernsehen NDS HD
-http://example.local/AUT-NDRNHD.ts
-#EXTINF:-1 tvg-chno="84124" tvg-name="NDR Fernsehen NDS HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84124_ll_h15_ab.png" group-title="Germany" tvg-id="NDRNHD" tvc-guide-stationid="84124",NDR Fernsehen NDS HD
-http://example.local/DEU-NDRNHD.ts
-#EXTINF:-1 tvg-chno="84124" tvg-name="NDR Fernsehen NDS HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84124_ll_h15_ab.png" group-title="Belgium" tvg-id="NDRNHD" tvc-guide-stationid="84124",NDR Fernsehen NDS HD
-http://example.local/BEL-NDRNHD.ts
-#EXTINF:-1 tvg-chno="84124" tvg-name="NDR Fernsehen NDS HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84124_ll_h15_ab.png" group-title="Denmark" tvg-id="NDRNHD" tvc-guide-stationid="84124",NDR Fernsehen NDS HD
-http://example.local/DNK-NDRNHD.ts
-#EXTINF:-1 tvg-chno="53755" tvg-name="NDR Fernsehen SH (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53755_ll_h9_aa.png" group-title="Spain" tvg-id="NDRSCHO" tvc-guide-stationid="53755",NDR Fernsehen SH (NDRFRN)
-http://example.local/ESP-NDRSCHO.ts
-#EXTINF:-1 tvg-chno="53755" tvg-name="NDR Fernsehen SH (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53755_ll_h9_aa.png" group-title="Netherlands" tvg-id="NDRSCHO" tvc-guide-stationid="53755",NDR Fernsehen SH (NDRFRN)
-http://example.local/NLD-NDRSCHO.ts
-#EXTINF:-1 tvg-chno="53755" tvg-name="NDR Fernsehen SH (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53755_ll_h9_aa.png" group-title="Italy" tvg-id="NDRSCHO" tvc-guide-stationid="53755",NDR Fernsehen SH (NDRFRN)
-http://example.local/ITA-NDRSCHO.ts
-#EXTINF:-1 tvg-chno="53755" tvg-name="NDR Fernsehen SH (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53755_ll_h9_aa.png" group-title="United Kingdom" tvg-id="NDRSCHO" tvc-guide-stationid="53755",NDR Fernsehen SH (NDRFRN)
-http://example.local/GBR-NDRSCHO.ts
-#EXTINF:-1 tvg-chno="53755" tvg-name="NDR Fernsehen SH (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53755_ll_h9_aa.png" group-title="Switzerland" tvg-id="NDRSCHO" tvc-guide-stationid="53755",NDR Fernsehen SH (NDRFRN)
-http://example.local/CHE-NDRSCHO.ts
-#EXTINF:-1 tvg-chno="53755" tvg-name="NDR Fernsehen SH (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53755_ll_h9_aa.png" group-title="France" tvg-id="NDRSCHO" tvc-guide-stationid="53755",NDR Fernsehen SH (NDRFRN)
-http://example.local/FRA-NDRSCHO.ts
-#EXTINF:-1 tvg-chno="53755" tvg-name="NDR Fernsehen SH (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53755_ll_h9_aa.png" group-title="Austria" tvg-id="NDRSCHO" tvc-guide-stationid="53755",NDR Fernsehen SH (NDRFRN)
-http://example.local/AUT-NDRSCHO.ts
-#EXTINF:-1 tvg-chno="53755" tvg-name="NDR Fernsehen SH (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s53755_ll_h9_aa.png" group-title="Belgium" tvg-id="NDRSCHO" tvc-guide-stationid="53755",NDR Fernsehen SH (NDRFRN)
-http://example.local/BEL-NDRSCHO.ts
-#EXTINF:-1 tvg-chno="84123" tvg-name="NDR Fernsehen SH HD" tvg-logo="https://logos.jesmann.com/NDRSHD.png" group-title="Spain" tvg-id="NDRSHD" tvc-guide-stationid="84123",NDR Fernsehen SH HD
-http://example.local/ESP-NDRSHD.ts
-#EXTINF:-1 tvg-chno="84123" tvg-name="NDR Fernsehen SH HD" tvg-logo="https://logos.jesmann.com/NDRSHD.png" group-title="Netherlands" tvg-id="NDRSHD" tvc-guide-stationid="84123",NDR Fernsehen SH HD
-http://example.local/NLD-NDRSHD.ts
-#EXTINF:-1 tvg-chno="84123" tvg-name="NDR Fernsehen SH HD" tvg-logo="https://logos.jesmann.com/NDRSHD.png" group-title="Italy" tvg-id="NDRSHD" tvc-guide-stationid="84123",NDR Fernsehen SH HD
-http://example.local/ITA-NDRSHD.ts
-#EXTINF:-1 tvg-chno="84123" tvg-name="NDR Fernsehen SH HD" tvg-logo="https://logos.jesmann.com/NDRSHD.png" group-title="Poland" tvg-id="NDRSHD" tvc-guide-stationid="84123",NDR Fernsehen SH HD
-http://example.local/POL-NDRSHD.ts
-#EXTINF:-1 tvg-chno="84123" tvg-name="NDR Fernsehen SH HD" tvg-logo="https://logos.jesmann.com/NDRSHD.png" group-title="United Kingdom" tvg-id="NDRSHD" tvc-guide-stationid="84123",NDR Fernsehen SH HD
-http://example.local/GBR-NDRSHD.ts
-#EXTINF:-1 tvg-chno="84123" tvg-name="NDR Fernsehen SH HD" tvg-logo="https://logos.jesmann.com/NDRSHD.png" group-title="Switzerland" tvg-id="NDRSHD" tvc-guide-stationid="84123",NDR Fernsehen SH HD
-http://example.local/CHE-NDRSHD.ts
-#EXTINF:-1 tvg-chno="84123" tvg-name="NDR Fernsehen SH HD" tvg-logo="https://logos.jesmann.com/NDRSHD.png" group-title="France" tvg-id="NDRSHD" tvc-guide-stationid="84123",NDR Fernsehen SH HD
-http://example.local/FRA-NDRSHD.ts
-#EXTINF:-1 tvg-chno="84123" tvg-name="NDR Fernsehen SH HD" tvg-logo="https://logos.jesmann.com/NDRSHD.png" group-title="Austria" tvg-id="NDRSHD" tvc-guide-stationid="84123",NDR Fernsehen SH HD
-http://example.local/AUT-NDRSHD.ts
-#EXTINF:-1 tvg-chno="84123" tvg-name="NDR Fernsehen SH HD" tvg-logo="https://logos.jesmann.com/NDRSHD.png" group-title="Germany" tvg-id="NDRSHD" tvc-guide-stationid="84123",NDR Fernsehen SH HD
-http://example.local/DEU-NDRSHD.ts
-#EXTINF:-1 tvg-chno="84123" tvg-name="NDR Fernsehen SH HD" tvg-logo="https://logos.jesmann.com/NDRSHD.png" group-title="Belgium" tvg-id="NDRSHD" tvc-guide-stationid="84123",NDR Fernsehen SH HD
-http://example.local/BEL-NDRSHD.ts
-#EXTINF:-1 tvg-chno="53751" tvg-name="NDR INFO" tvg-logo="https://zap2it.tmsimg.com/assets/s53751_ll_h15_ab.png" group-title="Austria" tvg-id="NDRINFO" tvc-guide-stationid="53751",NDR INFO
-http://example.local/AUT-NDRINFO.ts
-#EXTINF:-1 tvg-chno="53751" tvg-name="NDR INFO" tvg-logo="https://zap2it.tmsimg.com/assets/s53751_ll_h15_ab.png" group-title="Germany" tvg-id="NDRINFO" tvc-guide-stationid="53751",NDR INFO
-http://example.local/DEU-NDRINFO.ts
-#EXTINF:-1 tvg-chno="101543" tvg-name="NDR Info Spezial" tvg-logo="https://zap2it.tmsimg.com/assets/s101543_ll_h15_ac.png" group-title="Austria" tvg-id="NDRINSP" tvc-guide-stationid="101543",NDR Info Spezial
-http://example.local/AUT-NDRINSP.ts
-#EXTINF:-1 tvg-chno="101543" tvg-name="NDR Info Spezial" tvg-logo="https://zap2it.tmsimg.com/assets/s101543_ll_h15_ac.png" group-title="Germany" tvg-id="NDRINSP" tvc-guide-stationid="101543",NDR Info Spezial
-http://example.local/DEU-NDRINSP.ts
-#EXTINF:-1 tvg-chno="53752" tvg-name="NDR KULTUR" tvg-logo="https://zap2it.tmsimg.com/assets/s53752_ll_h15_ab.png" group-title="Austria" tvg-id="NDRKULT" tvc-guide-stationid="53752",NDR KULTUR
-http://example.local/AUT-NDRKULT.ts
-#EXTINF:-1 tvg-chno="53752" tvg-name="NDR KULTUR" tvg-logo="https://zap2it.tmsimg.com/assets/s53752_ll_h15_ab.png" group-title="Germany" tvg-id="NDRKULT" tvc-guide-stationid="53752",NDR KULTUR
-http://example.local/DEU-NDRKULT.ts
-#EXTINF:-1 tvg-chno="101487" tvg-name="NDR Radio MV" tvg-logo="https://zap2it.tmsimg.com/assets/s101487_ll_h9_ab.png" group-title="Germany" tvg-id="NDRRAMV" tvc-guide-stationid="101487",NDR Radio MV
-http://example.local/DEU-NDRRAMV.ts
-#EXTINF:-1 tvg-chno="107522" tvg-name="NDR Schlager" tvg-logo="https://zap2it.tmsimg.com/assets/s107522_ll_h15_ab.png" group-title="Austria" tvg-id="NDRPLUS" tvc-guide-stationid="107522",NDR Schlager
-http://example.local/AUT-NDRPLUS.ts
-#EXTINF:-1 tvg-chno="107522" tvg-name="NDR Schlager" tvg-logo="https://zap2it.tmsimg.com/assets/s107522_ll_h15_ab.png" group-title="Germany" tvg-id="NDRPLUS" tvc-guide-stationid="107522",NDR Schlager
-http://example.local/DEU-NDRPLUS.ts
-#EXTINF:-1 tvg-chno="78335" tvg-name="NDTV (RREC)" tvg-logo="https://zap2it.tmsimg.com/assets/s78335_ll_h15_ai.png" group-title="Brazil" tvg-id="RRECFLO" tvc-guide-stationid="78335",NDTV (RREC)
-http://example.local/BRA-RRECFLO.ts
-#EXTINF:-1 tvg-chno="49172" tvg-name="NDTV 24/7" tvg-logo="https://zap2it.tmsimg.com/assets/s49172_ll_h9_ab.png" group-title="United States" tvg-id="NDTV2" tvc-guide-stationid="49172",NDTV 24/7
-http://example.local/USA-NDTV2.ts
-#EXTINF:-1 tvg-chno="48836" tvg-name="NDTV 24x7" tvg-logo="https://zap2it.tmsimg.com/assets/s48836_ll_h9_aa.png" group-title="United States" tvg-id="NDTV247" tvc-guide-stationid="48836",NDTV 24x7
-http://example.local/USA-NDTV247.ts
-#EXTINF:-1 tvg-chno="74025" tvg-name="NDTV 24x7" tvg-logo="https://zap2it.tmsimg.com/assets/s74025_ll_h15_aa.png" group-title="United Kingdom" tvg-id="NDT247V" tvc-guide-stationid="74025",NDTV 24x7
-http://example.local/GBR-NDT247V.ts
-#EXTINF:-1 tvg-chno="74025" tvg-name="NDTV 24x7" tvg-logo="https://zap2it.tmsimg.com/assets/s74025_ll_h15_aa.png" group-title="Ireland" tvg-id="NDT247V" tvc-guide-stationid="74025",NDTV 24x7
-http://example.local/IRL-NDT247V.ts
-#EXTINF:-1 tvg-chno="74025" tvg-name="NDTV 24x7" tvg-logo="https://zap2it.tmsimg.com/assets/s74025_ll_h15_aa.png" group-title="Belgium" tvg-id="NDT247V" tvc-guide-stationid="74025",NDTV 24x7
-http://example.local/BEL-NDT247V.ts
-#EXTINF:-1 tvg-chno="72532" tvg-name="NDTV 24X7 Canada" tvg-logo="https://zap2it.tmsimg.com/assets/s72532_ll_h15_ab.png" group-title="Canada" tvg-id="NDTV2C" tvc-guide-stationid="72532",NDTV 24X7 Canada
-http://example.local/CAN-NDTV2C.ts
-#EXTINF:-1 tvg-chno="63360" tvg-name="NDTV Good Times" tvg-logo="https://zap2it.tmsimg.com/assets/s63360_ll_h15_ab.png" group-title="United States" tvg-id="NDGT" tvc-guide-stationid="63360",NDTV Good Times
-http://example.local/USA-NDGT.ts
-#EXTINF:-1 tvg-chno="77778" tvg-name="NDTV Good Times" tvg-logo="https://zap2it.tmsimg.com/assets/s77778_ll_h15_ab.png" group-title="United Kingdom" tvg-id="NDTVGVM" tvc-guide-stationid="77778",NDTV Good Times
-http://example.local/GBR-NDTVGVM.ts
-#EXTINF:-1 tvg-chno="63360" tvg-name="NDTV Good Times" tvg-logo="https://zap2it.tmsimg.com/assets/s63360_ll_h15_ab.png" group-title="Canada" tvg-id="NDGT" tvc-guide-stationid="63360",NDTV Good Times
-http://example.local/CAN-NDGT.ts
-#EXTINF:-1 tvg-chno="125055" tvg-name="NDTV HD (RREC)" tvg-logo="https://zap2it.tmsimg.com/assets/s125055_ll_h15_aa.png" group-title="Brazil" tvg-id="NDTVHD" tvc-guide-stationid="125055",NDTV HD (RREC)
-http://example.local/BRA-NDTVHD.ts
-#EXTINF:-1 tvg-chno="96957" tvg-name="NDTV New Delhi TV" group-title="United States" tvg-id="NDTVCOM" tvc-guide-stationid="96957",NDTV New Delhi TV
-http://example.local/USA-NDTVCOM.ts
-#EXTINF:-1 tvg-chno="118327" tvg-name="NDTV World" tvg-logo="https://zap2it.tmsimg.com/assets/s118327_ll_h9_aa.png" group-title="Ireland" tvg-id="NDTVUK" tvc-guide-stationid="118327",NDTV World
-http://example.local/IRL-NDTVUK.ts
-#EXTINF:-1 tvg-chno="60084" tvg-name="NE-C (CREATE)" tvg-logo="https://zap2it.tmsimg.com/assets/s48990_ll_h15_aa.png" group-title="United States" tvg-id="NET3" tvc-guide-stationid="60084",NE-C (CREATE)
-http://example.local/USA-NET3.ts
-#EXTINF:-1 tvg-chno="102445" tvg-name="NE-KIDS (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="United States" tvg-id="NET4" tvc-guide-stationid="102445",NE-KIDS (PBS)
-http://example.local/USA-NET4.ts
-#EXTINF:-1 tvg-chno="45523" tvg-name="NE-PBS (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="United States" tvg-id="NET1" tvc-guide-stationid="45523",NE-PBS (PBS)
-http://example.local/USA-NET1.ts

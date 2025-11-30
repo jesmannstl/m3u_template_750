@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="84699" tvg-name="Rai YoYo" tvg-logo="https://zap2it.tmsimg.com/assets/s84699_ll_h15_ab.png" group-title="Italy" tvg-id="RAISATY" tvc-guide-stationid="84699",Rai YoYo
-http://example.local/ITA-RAISATY.ts
-#EXTINF:-1 tvg-chno="102114" tvg-name="Rai YoYo HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102114_ll_h15_ab.png" group-title="Italy" tvg-id="RAIYOHD" tvc-guide-stationid="102114",Rai YoYo HD
-http://example.local/ITA-RAIYOHD.ts
-#EXTINF:-1 tvg-chno="172249" tvg-name="RaiPlay Sound" group-title="Italy" tvg-id="RAIPLSN" tvc-guide-stationid="172249",RaiPlay Sound
-http://example.local/ITA-RAIPLSN.ts
-#EXTINF:-1 tvg-chno="182893" tvg-name="RaiPlay Sport 2" group-title="Italy" tvg-id="RAIPLY2" tvc-guide-stationid="182893",RaiPlay Sport 2
-http://example.local/ITA-RAIPLY2.ts
-#EXTINF:-1 tvg-chno="83891" tvg-name="RBB Berlin Fernsehen (RBBBRAN)" tvg-logo="https://zap2it.tmsimg.com/assets/s83891_ll_h15_ac.png" group-title="Italy" tvg-id="RBBBERL" tvc-guide-stationid="83891",RBB Berlin Fernsehen (RBBBRAN)
-http://example.local/ITA-RBBBERL.ts
-#EXTINF:-1 tvg-chno="91975" tvg-name="RBB Berlin Fernsehen HD" tvg-logo="https://logos.jesmann.com/RBBBEHD.png" group-title="Italy" tvg-id="RBBBEHD" tvc-guide-stationid="91975",RBB Berlin Fernsehen HD
-http://example.local/ITA-RBBBEHD.ts
-#EXTINF:-1 tvg-chno="83892" tvg-name="RBB Brandenburg Fernsehen" tvg-logo="https://zap2it.tmsimg.com/assets/s83892_ll_h15_ab.png" group-title="Italy" tvg-id="RBBBRAN" tvc-guide-stationid="83892",RBB Brandenburg Fernsehen
-http://example.local/ITA-RBBBRAN.ts
-#EXTINF:-1 tvg-chno="90467" tvg-name="RBB Brandenburg HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90467_ll_h15_ad.png" group-title="Italy" tvg-id="RBBBRHD" tvc-guide-stationid="90467",RBB Brandenburg HD
-http://example.local/ITA-RBBBRHD.ts
 #EXTINF:-1 tvg-chno="124240" tvg-name="RDS" tvg-logo="https://zap2it.tmsimg.com/assets/s124240_ll_h15_aa.png" group-title="Italy" tvg-id="RDSRAD" tvc-guide-stationid="124240",RDS
 http://example.local/ITA-RDSRAD.ts
 #EXTINF:-1 tvg-chno="123645" tvg-name="RDS Social TV" group-title="Italy" tvg-id="RDSITA" tvc-guide-stationid="123645",RDS Social TV
@@ -39,6 +23,8 @@ http://example.local/ITA-RETE4.ts
 http://example.local/ITA-RETE4HD.ts
 #EXTINF:-1 tvg-chno="85099" tvg-name="Rete 55" tvg-logo="https://zap2it.tmsimg.com/assets/s85099_ll_h9_aa.png" group-title="Italy" tvg-id="RETE55" tvc-guide-stationid="85099",Rete 55
 http://example.local/ITA-RETE55.ts
+#EXTINF:-1 tvg-chno="85101" tvg-name="Rete 7" group-title="Italy" tvg-id="RETE7" tvc-guide-stationid="85101",Rete 7
+http://example.local/ITA-RETE7.ts
 #EXTINF:-1 tvg-chno="186455" tvg-name="RETE 7 HD" group-title="Italy" tvg-id="RETE7HD" tvc-guide-stationid="186455",RETE 7 HD
 http://example.local/ITA-RETE7HD.ts
 #EXTINF:-1 tvg-chno="131221" tvg-name="Reuters 60" tvg-logo="https://zap2it.tmsimg.com/assets/s131221_ll_h9_ab.png" group-title="Italy" tvg-id="REUTERS" tvc-guide-stationid="131221",Reuters 60
@@ -85,8 +71,8 @@ http://example.local/ITA-RTL2GRH.ts
 http://example.local/ITA-RTL2OST.ts
 #EXTINF:-1 tvg-chno="100021" tvg-name="RTR Planeta" tvg-logo="https://zap2it.tmsimg.com/assets/s100021_ll_h9_ac.png" group-title="Italy" tvg-id="RTREU" tvc-guide-stationid="100021",RTR Planeta
 http://example.local/ITA-RTREU.ts
-#EXTINF:-1 tvg-chno="89253" tvg-name="RTS un" tvg-logo="https://zap2it.tmsimg.com/assets/s89253_ll_h15_ab.png" group-title="Italy" tvg-id="RTSUN" tvc-guide-stationid="89253",RTS un
-http://example.local/ITA-RTSUN.ts
+#EXTINF:-1 tvg-chno="89254" tvg-name="RTS un HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89254_ll_h15_aa.png" group-title="Italy" tvg-id="RTSUNHD" tvc-guide-stationid="89254",RTS un HD
+http://example.local/ITA-RTSUNHD.ts
 #EXTINF:-1 tvg-chno="142476" tvg-name="RVS-Accendi la Speranza" group-title="Italy" tvg-id="RVSRAD" tvc-guide-stationid="142476",RVS-Accendi la Speranza
 http://example.local/ITA-RVSRAD.ts
 #EXTINF:-1 tvg-chno="119776" tvg-name="San Marino RTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119776_ll_h15_aa.png" group-title="Italy" tvg-id="MARINORTV" tvc-guide-stationid="119776",San Marino RTV HD
@@ -115,16 +101,18 @@ http://example.local/ITA-SAT1OS.ts
 http://example.local/ITA-SENATO.ts
 #EXTINF:-1 tvg-chno="90473" tvg-name="Servus TV AT" tvg-logo="https://zap2it.tmsimg.com/assets/s90473_ll_h15_aa.png" group-title="Italy" tvg-id="SERVUSA" tvc-guide-stationid="90473",Servus TV AT
 http://example.local/ITA-SERVUSA.ts
+#EXTINF:-1 tvg-chno="173462" tvg-name="Sesta Rete" group-title="Italy" tvg-id="SESTART" tvc-guide-stationid="173462",Sesta Rete
+http://example.local/ITA-SESTART.ts
 #EXTINF:-1 tvg-chno="113330" tvg-name="Shop 24 Direct" group-title="Italy" tvg-id="SHOP24D" tvc-guide-stationid="113330",Shop 24 Direct
 http://example.local/ITA-SHOP24D.ts
 #EXTINF:-1 tvg-chno="115813" tvg-name="ShortsTV" tvg-logo="https://zap2it.tmsimg.com/assets/s115813_ll_h15_ab.png" group-title="Italy" tvg-id="SHORIEN" tvc-guide-stationid="115813",ShortsTV
 http://example.local/ITA-SHORIEN.ts
-#EXTINF:-1 tvg-chno="172256" tvg-name="SICILIA 242" group-title="Italy" tvg-id="SICL242" tvc-guide-stationid="172256",SICILIA 242
-http://example.local/ITA-SICL242.ts
 #EXTINF:-1 tvg-chno="83661" tvg-name="sixx" tvg-logo="https://zap2it.tmsimg.com/assets/s83661_ll_h15_ac.png" group-title="Italy" tvg-id="SIXX" tvc-guide-stationid="83661",sixx
 http://example.local/ITA-SIXX.ts
 #EXTINF:-1 tvg-chno="88687" tvg-name="sixx Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s88687_ll_h15_aa.png" group-title="Italy" tvg-id="SIXXAT" tvc-guide-stationid="88687",sixx Austria
 http://example.local/ITA-SIXXAT.ts
+#EXTINF:-1 tvg-chno="185270" tvg-name="Sky Adventure" group-title="Italy" tvg-id="SKYADIT" tvc-guide-stationid="185270",Sky Adventure
+http://example.local/ITA-SKYADIT.ts
 #EXTINF:-1 tvg-chno="86188" tvg-name="Sky Arte Italia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s86188_ll_h15_ac.png" group-title="Italy" tvg-id="SKYAIHD" tvc-guide-stationid="86188",Sky Arte Italia HD
 http://example.local/ITA-SKYAIHD.ts
 #EXTINF:-1 tvg-chno="109479" tvg-name="Sky Atlantic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109479_ll_h15_ab.png" group-title="Italy" tvg-id="SKYAHDI" tvc-guide-stationid="109479",Sky Atlantic HD
@@ -177,12 +165,14 @@ http://example.local/ITA-SKYC24I.ts
 http://example.local/ITA-SC24HD.ts
 #EXTINF:-1 tvg-chno="91189" tvg-name="Sky Classica" tvg-logo="https://zap2it.tmsimg.com/assets/s91189_ll_h15_ad.png" group-title="Italy" tvg-id="CLASSHD" tvc-guide-stationid="91189",Sky Classica
 http://example.local/ITA-CLASSHD.ts
+#EXTINF:-1 tvg-chno="195864" tvg-name="Sky Collection" group-title="Italy" tvg-id="SKYCOIT" tvc-guide-stationid="195864",Sky Collection
+http://example.local/ITA-SKYCOIT.ts
+#EXTINF:-1 tvg-chno="109836" tvg-name="Sky Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s109836_ll_h9_ab.png" group-title="Italy" tvg-id="SKYCRIT" tvc-guide-stationid="109836",Sky Crime
+http://example.local/ITA-SKYCRIT.ts
 #EXTINF:-1 tvg-chno="109837" tvg-name="Sky Crime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109837_ll_h9_ab.png" group-title="Italy" tvg-id="SKYCRHDIT" tvc-guide-stationid="109837",Sky Crime HD
 http://example.local/ITA-SKYCRHDIT.ts
 #EXTINF:-1 tvg-chno="122784" tvg-name="Sky Documentaries HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122784_ll_h15_aa.png" group-title="Italy" tvg-id="SKYDOIT" tvc-guide-stationid="122784",Sky Documentaries HD
 http://example.local/ITA-SKYDOIT.ts
-#EXTINF:-1 tvg-chno="122887" tvg-name="Sky Investigation +1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122887_ll_h15_aa.png" group-title="Italy" tvg-id="SKYIHDIT" tvc-guide-stationid="122887",Sky Investigation +1 HD
-http://example.local/ITA-SKYIHDIT.ts
 #EXTINF:-1 tvg-chno="122783" tvg-name="Sky Investigation HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122783_ll_h15_aa.png" group-title="Italy" tvg-id="SKYINV" tvc-guide-stationid="122783",Sky Investigation HD
 http://example.local/ITA-SKYINV.ts
 #EXTINF:-1 tvg-chno="122807" tvg-name="Sky Meteo24" tvg-logo="https://zap2it.tmsimg.com/assets/s122807_ll_h15_aa.png" group-title="Italy" tvg-id="SKYME24" tvc-guide-stationid="122807",Sky Meteo24
@@ -195,8 +185,6 @@ http://example.local/ITA-SKYNEWS.ts
 http://example.local/ITA-SKYNAUK.ts
 #EXTINF:-1 tvg-chno="120473" tvg-name="Sky Serie" tvg-logo="https://zap2it.tmsimg.com/assets/s120473_ll_h15_aa.png" group-title="Italy" tvg-id="SKYSER" tvc-guide-stationid="120473",Sky Serie
 http://example.local/ITA-SKYSER.ts
-#EXTINF:-1 tvg-chno="122886" tvg-name="Sky Serie +1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122886_ll_h15_aa.png" group-title="Italy" tvg-id="SKYSHDIT" tvc-guide-stationid="122886",Sky Serie +1 HD
-http://example.local/ITA-SKYSHDIT.ts
 #EXTINF:-1 tvg-chno="122759" tvg-name="Sky Serie HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122759_ll_h15_aa.png" group-title="Italy" tvg-id="SKYSEIT" tvc-guide-stationid="122759",Sky Serie HD
 http://example.local/ITA-SKYSEIT.ts
 #EXTINF:-1 tvg-chno="86189" tvg-name="Sky Sport (251)" tvg-logo="https://zap2it.tmsimg.com/assets/s86189_ll_h15_aa.png" group-title="Italy" tvg-id="SKYS251" tvc-guide-stationid="86189",Sky Sport (251)
@@ -261,8 +249,12 @@ http://example.local/ITA-SKY256H.ts
 http://example.local/ITA-SKY257H.ts
 #EXTINF:-1 tvg-chno="109494" tvg-name="Sky Sport HD (258)" tvg-logo="https://zap2it.tmsimg.com/assets/s109494_ll_h15_aa.png" group-title="Italy" tvg-id="SKY258H" tvc-guide-stationid="109494",Sky Sport HD (258)
 http://example.local/ITA-SKY258H.ts
+#EXTINF:-1 tvg-chno="186856" tvg-name="Sky Sport Legend" group-title="Italy" tvg-id="SKYSPLEIT" tvc-guide-stationid="186856",Sky Sport Legend
+http://example.local/ITA-SKYSPLEIT.ts
 #EXTINF:-1 tvg-chno="86302" tvg-name="Sky Sport Max HD" tvg-logo="https://zap2it.tmsimg.com/assets/s86302_ll_h15_aa.png" group-title="Italy" tvg-id="SSPAITHD" tvc-guide-stationid="86302",Sky Sport Max HD
 http://example.local/ITA-SSPAITHD.ts
+#EXTINF:-1 tvg-chno="186857" tvg-name="Sky Sport Mix" group-title="Italy" tvg-id="SKYSPMIT" tvc-guide-stationid="186857",Sky Sport Mix
+http://example.local/ITA-SKYSPMIT.ts
 #EXTINF:-1 tvg-chno="108658" tvg-name="Sky Sport MotoGP" tvg-logo="https://zap2it.tmsimg.com/assets/s108658_ll_h15_aa.png" group-title="Italy" tvg-id="SKMTGP" tvc-guide-stationid="108658",Sky Sport MotoGP
 http://example.local/ITA-SKMTGP.ts
 #EXTINF:-1 tvg-chno="108659" tvg-name="Sky Sport MotoGP HD" tvg-logo="https://zap2it.tmsimg.com/assets/s108659_ll_h15_aa.png" group-title="Italy" tvg-id="SKMTGPH" tvc-guide-stationid="108659",Sky Sport MotoGP HD
@@ -277,6 +269,8 @@ http://example.local/ITA-SKYSNGH.ts
 http://example.local/ITA-SKYTENSD.ts
 #EXTINF:-1 tvg-chno="122786" tvg-name="Sky Sport Tennis HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122786_ll_h15_aa.png" group-title="Italy" tvg-id="SKYSPTE" tvc-guide-stationid="122786",Sky Sport Tennis HD
 http://example.local/ITA-SKYSPTE.ts
+#EXTINF:-1 tvg-chno="162429" tvg-name="Sky Sport Uno" tvg-logo="https://zap2it.tmsimg.com/assets/s78970_h3_aa.png" group-title="Italy" tvg-id="SSP1SKY" tvc-guide-stationid="162429",Sky Sport Uno
+http://example.local/ITA-SSP1SKY.ts
 #EXTINF:-1 tvg-chno="78970" tvg-name="Sky Sport Uno Ultra Live" tvg-logo="https://zap2it.tmsimg.com/assets/s78970_ll_h15_aa.png" group-title="Italy" tvg-id="SKYSPT1" tvc-guide-stationid="78970",Sky Sport Uno Ultra Live
 http://example.local/ITA-SKYSPT1.ts
 #EXTINF:-1 tvg-chno="122787" tvg-name="Sky Sports Golf HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122787_ll_h15_aa.png" group-title="Italy" tvg-id="SSPGITHD" tvc-guide-stationid="122787",Sky Sports Golf HD
@@ -291,10 +285,6 @@ http://example.local/ITA-SKY1ITL.ts
 http://example.local/ITA-SKY1IH.ts
 #EXTINF:-1 tvg-chno="86304" tvg-name="Sky Uno HD" tvg-logo="https://zap2it.tmsimg.com/assets/s86304_ll_h15_ab.png" group-title="Italy" tvg-id="SKUNOHD" tvc-guide-stationid="86304",Sky Uno HD
 http://example.local/ITA-SKUNOHD.ts
-#EXTINF:-1 tvg-chno="195502" tvg-name="Soap Latino" group-title="Italy" tvg-id="SOAPLAT" tvc-guide-stationid="195502",Soap Latino
-http://example.local/ITA-SOAPLAT.ts
-#EXTINF:-1 tvg-chno="195501" tvg-name="Soap Turco" group-title="Italy" tvg-id="SOAPTUR" tvc-guide-stationid="195501",Soap Turco
-http://example.local/ITA-SOAPTUR.ts
 #EXTINF:-1 tvg-chno="121795" tvg-name="SoloCalcio" group-title="Italy" tvg-id="SOLOCAL" tvc-guide-stationid="121795",SoloCalcio
 http://example.local/ITA-SOLOCAL.ts
 #EXTINF:-1 tvg-chno="67676" tvg-name="SonLife Broadcasting Network" tvg-logo="https://zap2it.tmsimg.com/assets/s67676_ll_h15_aa.png" group-title="Italy" tvg-id="SBND" tvc-guide-stationid="67676",SonLife Broadcasting Network
@@ -305,8 +295,6 @@ http://example.local/ITA-SONTV.ts
 http://example.local/ITA-SONTVHD.ts
 #EXTINF:-1 tvg-chno="113661" tvg-name="Sophia TV" group-title="Italy" tvg-id="SOPHIA" tvc-guide-stationid="113661",Sophia TV
 http://example.local/ITA-SOPHIA.ts
-#EXTINF:-1 tvg-chno="119778" tvg-name="Sport Italia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119778_ll_h15_aa.png" group-title="Italy" tvg-id="SPOITHD" tvc-guide-stationid="119778",Sport Italia HD
-http://example.local/ITA-SPOITHD.ts
 #EXTINF:-1 tvg-chno="67214" tvg-name="SPORT1" tvg-logo="https://zap2it.tmsimg.com/assets/s67214_ll_h15_aa.png" group-title="Italy" tvg-id="SP1GERH" tvc-guide-stationid="67214",SPORT1
 http://example.local/ITA-SP1GERH.ts
 #EXTINF:-1 tvg-chno="98863" tvg-name="Sportitalia" tvg-logo="https://zap2it.tmsimg.com/assets/s98863_ll_h15_aa.png" group-title="Italy" tvg-id="SPORTIT" tvc-guide-stationid="98863",Sportitalia
@@ -329,9 +317,9 @@ http://example.local/ITA-SRFZWHD.ts
 http://example.local/ITA-STARMKT.ts
 #EXTINF:-1 tvg-chno="157426" tvg-name="Storie Criminali" tvg-logo="https://zap2it.tmsimg.com/assets/s157426_ll_h9_aa.png" group-title="Italy" tvg-id="LCHIT" tvc-guide-stationid="157426",Storie Criminali
 http://example.local/ITA-LCHIT.ts
-#EXTINF:-1 tvg-chno="52814" tvg-name="Super RTL" tvg-logo="https://zap2it.tmsimg.com/assets/s52814_ll_h15_ac.png" group-title="Italy" tvg-id="SUPRTL" tvc-guide-stationid="52814",Super RTL
+#EXTINF:-1 tvg-chno="52814" tvg-name="Super RTL" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FLHWV.png" group-title="Italy" tvg-id="SUPRTL" tvc-guide-stationid="52814",Super RTL
 http://example.local/ITA-SUPRTL.ts
-#EXTINF:-1 tvg-chno="83957" tvg-name="Super RTL Österreich" tvg-logo="https://zap2it.tmsimg.com/assets/s83957_ll_h9_aa.png" group-title="Italy" tvg-id="SRTLOST" tvc-guide-stationid="83957",Super RTL Österreich
+#EXTINF:-1 tvg-chno="83957" tvg-name="Super RTL Österreich" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FYL4T.png" group-title="Italy" tvg-id="SRTLOST" tvc-guide-stationid="83957",Super RTL Österreich
 http://example.local/ITA-SRTLOST.ts
 #EXTINF:-1 tvg-chno="84709" tvg-name="Super!" tvg-logo="https://zap2it.tmsimg.com/assets/s84709_ll_h15_ab.png" group-title="Italy" tvg-id="SUPER" tvc-guide-stationid="84709",Super!
 http://example.local/ITA-SUPER.ts
@@ -421,6 +409,8 @@ http://example.local/ITA-TV2000HD.ts
 http://example.local/ITA-TV5FBSM.ts
 #EXTINF:-1 tvg-chno="21495" tvg-name="TV5 Monde Europe" tvg-logo="https://zap2it.tmsimg.com/assets/s21495_ll_h15_aa.png" group-title="Italy" tvg-id="TV5MON" tvc-guide-stationid="21495",TV5 Monde Europe
 http://example.local/ITA-TV5MON.ts
+#EXTINF:-1 tvg-chno="95641" tvg-name="TV5 Monde Europe HD" tvg-logo="https://zap2it.tmsimg.com/assets/s95641_ll_h15_ab.png" group-title="Italy" tvg-id="TV5MHD" tvc-guide-stationid="95641",TV5 Monde Europe HD
+http://example.local/ITA-TV5MHD.ts
 #EXTINF:-1 tvg-chno="84652" tvg-name="TV8" tvg-logo="https://zap2it.tmsimg.com/assets/s84652_ll_h15_aa.png" group-title="Italy" tvg-id="TV8ITAL" tvc-guide-stationid="84652",TV8
 http://example.local/ITA-TV8ITAL.ts
 #EXTINF:-1 tvg-chno="109480" tvg-name="TV8 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109480_ll_h9_aa.png" group-title="Italy" tvg-id="TV8HDIT" tvc-guide-stationid="109480",TV8 HD
@@ -443,14 +433,14 @@ http://example.local/ITA-UNBEATEN.ts
 http://example.local/ITA-UNICATV.ts
 #EXTINF:-1 tvg-chno="90084" tvg-name="UniNettuno University TV" tvg-logo="https://zap2it.tmsimg.com/assets/s90084_ll_h15_aa.png" group-title="Italy" tvg-id="UNINITL" tvc-guide-stationid="90084",UniNettuno University TV
 http://example.local/ITA-UNINITL.ts
-#EXTINF:-1 tvg-chno="167773" tvg-name="UNO SET" group-title="Italy" tvg-id="UNOSET" tvc-guide-stationid="167773",UNO SET
-http://example.local/ITA-UNOSET.ts
 #EXTINF:-1 tvg-chno="172260" tvg-name="Urania TV" group-title="Italy" tvg-id="URANIATV" tvc-guide-stationid="172260",Urania TV
 http://example.local/ITA-URANIATV.ts
 #EXTINF:-1 tvg-chno="185949" tvg-name="Valenza TV HD" group-title="Italy" tvg-id="VALENZH" tvc-guide-stationid="185949",Valenza TV HD
 http://example.local/ITA-VALENZH.ts
 #EXTINF:-1 tvg-chno="142420" tvg-name="Vatican Media Europa HD" group-title="Italy" tvg-id="VATICAN" tvc-guide-stationid="142420",Vatican Media Europa HD
 http://example.local/ITA-VATICAN.ts
+#EXTINF:-1 tvg-chno="173463" tvg-name="Video Novara" group-title="Italy" tvg-id="VIDNVLO" tvc-guide-stationid="173463",Video Novara
+http://example.local/ITA-VIDNVLO.ts
 #EXTINF:-1 tvg-chno="123152" tvg-name="Virgin Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s123152_ll_h15_aa.png" group-title="Italy" tvg-id="VIRRAIT" tvc-guide-stationid="123152",Virgin Radio
 http://example.local/ITA-VIRRAIT.ts
 #EXTINF:-1 tvg-chno="116572" tvg-name="Virgin Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s116572_ll_h9_aa.png" group-title="Italy" tvg-id="VIRGRAD" tvc-guide-stationid="116572",Virgin Radio
@@ -467,8 +457,6 @@ http://example.local/ITA-VOXSC.ts
 http://example.local/ITA-VOXOST.ts
 #EXTINF:-1 tvg-chno="113043" tvg-name="VOXup" tvg-logo="https://zap2it.tmsimg.com/assets/s113043_ll_h9_ab.png" group-title="Italy" tvg-id="VOXUP" tvc-guide-stationid="113043",VOXup
 http://example.local/ITA-VOXUP.ts
-#EXTINF:-1 tvg-chno="167764" tvg-name="Warner TV" group-title="Italy" tvg-id="WARNITA" tvc-guide-stationid="167764",Warner TV
-http://example.local/ITA-WARNITA.ts
 #EXTINF:-1 tvg-chno="83917" tvg-name="WDR Aachen (WDRFERN)" tvg-logo="https://zap2it.tmsimg.com/assets/s83917_ll_h15_ac.png" group-title="Italy" tvg-id="WDRSTAA" tvc-guide-stationid="83917",WDR Aachen (WDRFERN)
 http://example.local/ITA-WDRSTAA.ts
 #EXTINF:-1 tvg-chno="54108" tvg-name="WDR Bielefeld (WDRFERN)" tvg-logo="https://zap2it.tmsimg.com/assets/s54108_ll_h15_ad.png" group-title="Italy" tvg-id="WDRBIEL" tvc-guide-stationid="54108",WDR Bielefeld (WDRFERN)
@@ -505,8 +493,12 @@ http://example.local/ITA-WELTDW.ts
 http://example.local/ITA-WORDNET.ts
 #EXTINF:-1 tvg-chno="118216" tvg-name="WWE" tvg-logo="https://zap2it.tmsimg.com/assets/s118216_ll_h15_aa.png" group-title="Italy" tvg-id="DOLIT62" tvc-guide-stationid="118216",WWE
 http://example.local/ITA-DOLIT62.ts
+#EXTINF:-1 tvg-chno="196359" tvg-name="Xena Warrior Princess" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002GMDQJ.png" group-title="Italy" tvg-id="XMVIXP" tvc-guide-stationid="196359",Xena Warrior Princess
+http://example.local/ITA-XMVIXP.ts
 #EXTINF:-1 tvg-chno="84151" tvg-name="YOL TV" group-title="Italy" tvg-id="YOLTV" tvc-guide-stationid="84151",YOL TV
 http://example.local/ITA-YOLTV.ts
+#EXTINF:-1 tvg-chno="196930" tvg-name="Yu Gi Oh !" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002GL1S7.png" group-title="Italy" tvg-id="YUGIOHIT" tvc-guide-stationid="196930",Yu Gi Oh !
+http://example.local/ITA-YUGIOHIT.ts
 #EXTINF:-1 tvg-chno="86886" tvg-name="ZDF" tvg-logo="https://zap2it.tmsimg.com/assets/s86886_ll_h15_ab.png" group-title="Italy" tvg-id="ZDFG" tvc-guide-stationid="86886",ZDF
 http://example.local/ITA-ZDFG.ts
 #EXTINF:-1 tvg-chno="67217" tvg-name="ZDF HD" tvg-logo="https://logos.jesmann.com/ZDFGERH.png" group-title="Italy" tvg-id="ZDFGERH" tvc-guide-stationid="67217",ZDF HD

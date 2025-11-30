@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="88654" tvg-name="ProSieben Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s88654_ll_h15_aa.png" group-title="Austria" tvg-id="PRO7OS" tvc-guide-stationid="88654",ProSieben Austria
-http://example.local/AUT-PRO7OS.ts
-#EXTINF:-1 tvg-chno="98841" tvg-name="ProSieben Austria HD" tvg-logo="https://zap2it.tmsimg.com/assets/s98841_ll_h15_aa.png" group-title="Austria" tvg-id="PRO7OHD" tvc-guide-stationid="98841",ProSieben Austria HD
-http://example.local/AUT-PRO7OHD.ts
-#EXTINF:-1 tvg-chno="83630" tvg-name="ProSieben Fun" tvg-logo="https://zap2it.tmsimg.com/assets/s83630_ll_h15_ab.png" group-title="Austria" tvg-id="PRO7FUN" tvc-guide-stationid="83630",ProSieben Fun
-http://example.local/AUT-PRO7FUN.ts
-#EXTINF:-1 tvg-chno="83631" tvg-name="ProSieben Fun HD" tvg-logo="https://logos.jesmann.com/PRO7FHD.png" group-title="Austria" tvg-id="PRO7FHD" tvc-guide-stationid="83631",ProSieben Fun HD
-http://example.local/AUT-PRO7FHD.ts
 #EXTINF:-1 tvg-chno="83632" tvg-name="ProSieben HD" tvg-logo="https://logos.jesmann.com/PRO7HD.png" group-title="Austria" tvg-id="PRO7HD" tvc-guide-stationid="83632",ProSieben HD
 http://example.local/AUT-PRO7HD.ts
 #EXTINF:-1 tvg-chno="88655" tvg-name="ProSieben MAXX" tvg-logo="https://zap2it.tmsimg.com/assets/s88655_ll_h15_ab.png" group-title="Austria" tvg-id="PSIEBMX" tvc-guide-stationid="88655",ProSieben MAXX
@@ -445,7 +437,7 @@ http://example.local/AUT-SFEHDG.ts
 http://example.local/AUT-SPIEG.ts
 #EXTINF:-1 tvg-chno="90374" tvg-name="Spiegel Geschichte HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90374_ll_h15_aa.png" group-title="Austria" tvg-id="SPIEGHD" tvc-guide-stationid="90374",Spiegel Geschichte HD
 http://example.local/AUT-SPIEGHD.ts
-#EXTINF:-1 tvg-chno="176288" tvg-name="Spirit TV Germany" group-title="Austria" tvg-id="SPIRITDE" tvc-guide-stationid="176288",Spirit TV Germany
+#EXTINF:-1 tvg-chno="176288" tvg-name="Spirit TV Germany" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002GRSPT.png" group-title="Austria" tvg-id="SPIRITDE" tvc-guide-stationid="176288",Spirit TV Germany
 http://example.local/AUT-SPIRITDE.ts
 #EXTINF:-1 tvg-chno="67214" tvg-name="SPORT1" tvg-logo="https://zap2it.tmsimg.com/assets/s67214_ll_h15_aa.png" group-title="Austria" tvg-id="SP1GERH" tvc-guide-stationid="67214",SPORT1
 http://example.local/AUT-SP1GERH.ts
@@ -503,13 +495,13 @@ http://example.local/AUT-NESCAPP.ts
 http://example.local/AUT-STREAMSTER.ts
 #EXTINF:-1 tvg-chno="101455" tvg-name="Sunshine Live" tvg-logo="https://zap2it.tmsimg.com/assets/s101455_ll_h15_ac.png" group-title="Austria" tvg-id="SUNSHLV" tvc-guide-stationid="101455",Sunshine Live
 http://example.local/AUT-SUNSHLV.ts
-#EXTINF:-1 tvg-chno="52814" tvg-name="Super RTL" tvg-logo="https://zap2it.tmsimg.com/assets/s52814_ll_h15_ac.png" group-title="Austria" tvg-id="SUPRTL" tvc-guide-stationid="52814",Super RTL
+#EXTINF:-1 tvg-chno="52814" tvg-name="Super RTL" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FLHWV.png" group-title="Austria" tvg-id="SUPRTL" tvc-guide-stationid="52814",Super RTL
 http://example.local/AUT-SUPRTL.ts
-#EXTINF:-1 tvg-chno="83643" tvg-name="Super RTL HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83643_ll_h15_ac.png" group-title="Austria" tvg-id="SURTLHD" tvc-guide-stationid="83643",Super RTL HD
+#EXTINF:-1 tvg-chno="83643" tvg-name="Super RTL HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FYLC6.png" group-title="Austria" tvg-id="SURTLHD" tvc-guide-stationid="83643",Super RTL HD
 http://example.local/AUT-SURTLHD.ts
-#EXTINF:-1 tvg-chno="83957" tvg-name="Super RTL Österreich" tvg-logo="https://zap2it.tmsimg.com/assets/s83957_ll_h9_aa.png" group-title="Austria" tvg-id="SRTLOST" tvc-guide-stationid="83957",Super RTL Österreich
+#EXTINF:-1 tvg-chno="83957" tvg-name="Super RTL Österreich" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FYL4T.png" group-title="Austria" tvg-id="SRTLOST" tvc-guide-stationid="83957",Super RTL Österreich
 http://example.local/AUT-SRTLOST.ts
-#EXTINF:-1 tvg-chno="123030" tvg-name="Super RTL Österreich HD" group-title="Austria" tvg-id="SRTLAH" tvc-guide-stationid="123030",Super RTL Österreich HD
+#EXTINF:-1 tvg-chno="123030" tvg-name="Super RTL Österreich HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FLHES.png" group-title="Austria" tvg-id="SRTLAH" tvc-guide-stationid="123030",Super RTL Österreich HD
 http://example.local/AUT-SRTLAH.ts
 #EXTINF:-1 tvg-chno="106076" tvg-name="SWR Aktuell" tvg-logo="https://zap2it.tmsimg.com/assets/s106076_ll_h9_ab.png" group-title="Austria" tvg-id="SWRAKT" tvc-guide-stationid="106076",SWR Aktuell
 http://example.local/AUT-SWRAKT.ts
@@ -543,14 +535,14 @@ http://example.local/AUT-SYFYHDG.ts
 http://example.local/AUT-TAGARD.ts
 #EXTINF:-1 tvg-chno="90439" tvg-name="tagesschau24 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90439_ll_h15_aa.png" group-title="Austria" tvg-id="TAGARHD" tvc-guide-stationid="90439",tagesschau24 HD
 http://example.local/AUT-TAGARHD.ts
-#EXTINF:-1 tvg-chno="67303" tvg-name="Tele 5" tvg-logo="https://zap2it.tmsimg.com/assets/s67303_ll_h15_ac.png" group-title="Austria" tvg-id="TELE5GR" tvc-guide-stationid="67303",Tele 5
-http://example.local/AUT-TELE5GR.ts
 #EXTINF:-1 tvg-chno="106373" tvg-name="Tele 5" tvg-logo="https://zap2it.tmsimg.com/assets/s106373_ll_h15_ab.png" group-title="Austria" tvg-id="TELE5AT" tvc-guide-stationid="106373",Tele 5
 http://example.local/AUT-TELE5AT.ts
-#EXTINF:-1 tvg-chno="84372" tvg-name="Tele 5 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84372_ll_h15_ab.png" group-title="Austria" tvg-id="TELE5HD" tvc-guide-stationid="84372",Tele 5 HD
-http://example.local/AUT-TELE5HD.ts
+#EXTINF:-1 tvg-chno="67303" tvg-name="Tele 5" tvg-logo="https://zap2it.tmsimg.com/assets/s67303_ll_h15_ac.png" group-title="Austria" tvg-id="TELE5GR" tvc-guide-stationid="67303",Tele 5
+http://example.local/AUT-TELE5GR.ts
 #EXTINF:-1 tvg-chno="88701" tvg-name="Tele 5 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88701_ll_h15_ab.png" group-title="Austria" tvg-id="TEL5ATH" tvc-guide-stationid="88701",Tele 5 HD
 http://example.local/AUT-TEL5ATH.ts
+#EXTINF:-1 tvg-chno="84372" tvg-name="Tele 5 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84372_ll_h15_ab.png" group-title="Austria" tvg-id="TELE5HD" tvc-guide-stationid="84372",Tele 5 HD
+http://example.local/AUT-TELE5HD.ts
 #EXTINF:-1 tvg-chno="53378" tvg-name="Tele5" tvg-logo="https://zap2it.tmsimg.com/assets/s53378_ll_h15_aa.png" group-title="Austria" tvg-id="TEL5" tvc-guide-stationid="53378",Tele5
 http://example.local/AUT-TEL5.ts
 #EXTINF:-1 tvg-chno="175744" tvg-name="Telegold" tvg-logo="https://zap2it.tmsimg.com/assets/s159595_ll_h15_aa.png" group-title="Austria" tvg-id="TELEGLD" tvc-guide-stationid="175744",Telegold
@@ -601,20 +593,20 @@ http://example.local/AUT-TRTSPRT.ts
 http://example.local/AUT-TRTTURK.ts
 #EXTINF:-1 tvg-chno="105269" tvg-name="TRT World" tvg-logo="https://zap2it.tmsimg.com/assets/s105269_ll_h15_aa.png" group-title="Austria" tvg-id="TRTWRSD" tvc-guide-stationid="105269",TRT World
 http://example.local/AUT-TRTWRSD.ts
-#EXTINF:-1 tvg-chno="104305" tvg-name="TRT World HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104305_ll_h15_aa.png" group-title="Austria" tvg-id="TRTWRLD" tvc-guide-stationid="104305",TRT World HD
-http://example.local/AUT-TRTWRLD.ts
 #EXTINF:-1 tvg-chno="117028" tvg-name="TRT World HD" tvg-logo="https://zap2it.tmsimg.com/assets/s117028_ll_h15_aa.png" group-title="Austria" tvg-id="TRTWEGH" tvc-guide-stationid="117028",TRT World HD
 http://example.local/AUT-TRTWEGH.ts
+#EXTINF:-1 tvg-chno="104305" tvg-name="TRT World HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104305_ll_h15_aa.png" group-title="Austria" tvg-id="TRTWRLD" tvc-guide-stationid="104305",TRT World HD
+http://example.local/AUT-TRTWRLD.ts
 #EXTINF:-1 tvg-chno="165374" tvg-name="TV MONACO" group-title="Austria" tvg-id="MONACO" tvc-guide-stationid="165374",TV MONACO
 http://example.local/AUT-MONACO.ts
 #EXTINF:-1 tvg-chno="78642" tvg-name="TV Montenegro RTCG" tvg-logo="https://zap2it.tmsimg.com/assets/s78642_ll_h15_aa.png" group-title="Austria" tvg-id="TVMONTE" tvc-guide-stationid="78642",TV Montenegro RTCG
 http://example.local/AUT-TVMONTE.ts
 #EXTINF:-1 tvg-chno="117169" tvg-name="TV Slovenija 1" tvg-logo="https://zap2it.tmsimg.com/assets/s117169_ll_h15_aa.png" group-title="Austria" tvg-id="TVSLO1" tvc-guide-stationid="117169",TV Slovenija 1
 http://example.local/AUT-TVSLO1.ts
-#EXTINF:-1 tvg-chno="113332" tvg-name="TV TRWAM" group-title="Austria" tvg-id="TRWAM" tvc-guide-stationid="113332",TV TRWAM
-http://example.local/AUT-TRWAM.ts
 #EXTINF:-1 tvg-chno="119171" tvg-name="TV Trwam" tvg-logo="https://zap2it.tmsimg.com/assets/s119171_ll_h15_aa.png" group-title="Austria" tvg-id="TRWAMPL" tvc-guide-stationid="119171",TV Trwam
 http://example.local/AUT-TRWAMPL.ts
+#EXTINF:-1 tvg-chno="113332" tvg-name="TV TRWAM" group-title="Austria" tvg-id="TRWAM" tvc-guide-stationid="113332",TV TRWAM
+http://example.local/AUT-TRWAM.ts
 #EXTINF:-1 tvg-chno="83881" tvg-name="TV.Berlin" tvg-logo="https://zap2it.tmsimg.com/assets/s83881_ll_h15_aa.png" group-title="Austria" tvg-id="TVBERL" tvc-guide-stationid="83881",TV.Berlin
 http://example.local/AUT-TVBERL.ts
 #EXTINF:-1 tvg-chno="102985" tvg-name="tv.ingolstadt HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102985_ll_h9_ac.png" group-title="Austria" tvg-id="INTVRHD" tvc-guide-stationid="102985",tv.ingolstadt HD
@@ -631,7 +623,7 @@ http://example.local/AUT-TV5FBSMHD.ts
 http://example.local/AUT-TV8TUR.ts
 #EXTINF:-1 tvg-chno="97742" tvg-name="TVA Ostbayern" tvg-logo="https://zap2it.tmsimg.com/assets/s97742_ll_h15_aa.png" group-title="Austria" tvg-id="TVAOSTB" tvc-guide-stationid="97742",TVA Ostbayern
 http://example.local/AUT-TVAOSTB.ts
-#EXTINF:-1 tvg-chno="115873" tvg-name="TVCG Sat" tvg-logo="https://zap2it.tmsimg.com/assets/s115873_ll_h15_aa.png" group-title="Austria" tvg-id="TVCGST" tvc-guide-stationid="115873",TVCG Sat
+#EXTINF:-1 tvg-chno="115873" tvg-name="TVCG MNE" tvg-logo="https://zap2it.tmsimg.com/assets/s115873_ll_h15_aa.png" group-title="Austria" tvg-id="TVCGST" tvc-guide-stationid="115873",TVCG MNE
 http://example.local/AUT-TVCGST.ts
 #EXTINF:-1 tvg-chno="90320" tvg-name="TVE Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s90320_ll_h15_aa.png" group-title="Austria" tvg-id="TVEINTS" tvc-guide-stationid="90320",TVE Internacional
 http://example.local/AUT-TVEINTS.ts
@@ -665,10 +657,10 @@ http://example.local/AUT-VESTIBIH.ts
 http://example.local/AUT-VISITX.ts
 #EXTINF:-1 tvg-chno="79566" tvg-name="VividTV" tvg-logo="https://zap2it.tmsimg.com/assets/s79566_ll_h15_aa.png" group-title="Austria" tvg-id="VIVIDTV" tvc-guide-stationid="79566",VividTV
 http://example.local/AUT-VIVIDTV.ts
-#EXTINF:-1 tvg-chno="169854" tvg-name="VIXEN HD" group-title="Austria" tvg-id="VIXENEU" tvc-guide-stationid="169854",VIXEN HD
-http://example.local/AUT-VIXENEU.ts
 #EXTINF:-1 tvg-chno="109951" tvg-name="VIXEN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109951_ll_h15_ab.png" group-title="Austria" tvg-id="VIXENHD" tvc-guide-stationid="109951",VIXEN HD
 http://example.local/AUT-VIXENHD.ts
+#EXTINF:-1 tvg-chno="169854" tvg-name="VIXEN HD" group-title="Austria" tvg-id="VIXENEU" tvc-guide-stationid="169854",VIXEN HD
+http://example.local/AUT-VIXENEU.ts
 #EXTINF:-1 tvg-chno="119470" tvg-name="Volksmusik TV" tvg-logo="https://zap2it.tmsimg.com/assets/s119470_ll_h15_aa.png" group-title="Austria" tvg-id="VOLKMUS" tvc-guide-stationid="119470",Volksmusik TV
 http://example.local/AUT-VOLKMUS.ts
 #EXTINF:-1 tvg-chno="83958" tvg-name="VOX" tvg-logo="https://zap2it.tmsimg.com/assets/s83958_ll_h9_ab.png" group-title="Austria" tvg-id="VOXOST" tvc-guide-stationid="83958",VOX
@@ -753,10 +745,10 @@ http://example.local/AUT-WDRSIEH.ts
 http://example.local/AUT-WDRWHD.ts
 #EXTINF:-1 tvg-chno="135711" tvg-name="wedo big stories" tvg-logo="https://zap2it.tmsimg.com/assets/s135711_ll_h9_ab.png" group-title="Austria" tvg-id="WEDODE" tvc-guide-stationid="135711",wedo big stories
 http://example.local/AUT-WEDODE.ts
-#EXTINF:-1 tvg-chno="124207" tvg-name="wedo movies" tvg-logo="https://zap2it.tmsimg.com/assets/s124207_ll_h9_aa.png" group-title="Austria" tvg-id="WEDOMOV" tvc-guide-stationid="124207",wedo movies
-http://example.local/AUT-WEDOMOV.ts
 #EXTINF:-1 tvg-chno="158701" tvg-name="wedo movies" group-title="Austria" tvg-id="WEDOMIT" tvc-guide-stationid="158701",wedo movies
 http://example.local/AUT-WEDOMIT.ts
+#EXTINF:-1 tvg-chno="124207" tvg-name="wedo movies" tvg-logo="https://zap2it.tmsimg.com/assets/s124207_ll_h9_aa.png" group-title="Austria" tvg-id="WEDOMOV" tvc-guide-stationid="124207",wedo movies
+http://example.local/AUT-WEDOMOV.ts
 #EXTINF:-1 tvg-chno="139415" tvg-name="wedo sports" tvg-logo="https://zap2it.tmsimg.com/assets/s139415_ll_h15_aa.png" group-title="Austria" tvg-id="WEDOSDE" tvc-guide-stationid="139415",wedo sports
 http://example.local/AUT-WEDOSDE.ts
 #EXTINF:-1 tvg-chno="67200" tvg-name="Welt" tvg-logo="https://zap2it.tmsimg.com/assets/s67200_ll_h15_aa.png" group-title="Austria" tvg-id="WELTDE" tvc-guide-stationid="67200",Welt
@@ -781,18 +773,12 @@ http://example.local/AUT-XPLORSD.ts
 http://example.local/AUT-XPLORE.ts
 #EXTINF:-1 tvg-chno="101505" tvg-name="YOU FM" tvg-logo="https://zap2it.tmsimg.com/assets/s101505_ll_h15_ab.png" group-title="Austria" tvg-id="YOUFMRA" tvc-guide-stationid="101505",YOU FM
 http://example.local/AUT-YOUFMRA.ts
-#EXTINF:-1 tvg-chno="86886" tvg-name="ZDF" tvg-logo="https://zap2it.tmsimg.com/assets/s86886_ll_h15_ab.png" group-title="Austria" tvg-id="ZDFG" tvc-guide-stationid="86886",ZDF
-http://example.local/AUT-ZDFG.ts
-#EXTINF:-1 tvg-chno="87921" tvg-name="ZDF" tvg-logo="https://zap2it.tmsimg.com/assets/s87921_ll_h15_ab.png" group-title="Austria" tvg-id="ZDFGERS" tvc-guide-stationid="87921",ZDF
-http://example.local/AUT-ZDFGERS.ts
 #EXTINF:-1 tvg-chno="67217" tvg-name="ZDF HD" tvg-logo="https://logos.jesmann.com/ZDFGERH.png" group-title="Austria" tvg-id="ZDFGERH" tvc-guide-stationid="67217",ZDF HD
 http://example.local/AUT-ZDFGERH.ts
-#EXTINF:-1 tvg-chno="67213" tvg-name="ZDFinfo" tvg-logo="https://zap2it.tmsimg.com/assets/s67213_ll_h15_ab.png" group-title="Austria" tvg-id="INFOGEH" tvc-guide-stationid="67213",ZDFinfo
-http://example.local/AUT-INFOGEH.ts
 #EXTINF:-1 tvg-chno="83543" tvg-name="ZDFinfo HD" tvg-logo="https://logos.jesmann.com/ZDFINHD.png" group-title="Austria" tvg-id="ZDFINHD" tvc-guide-stationid="83543",ZDFinfo HD
 http://example.local/AUT-ZDFINHD.ts
-#EXTINF:-1 tvg-chno="67216" tvg-name="ZDFneo" tvg-logo="https://zap2it.tmsimg.com/assets/s67216_ll_h15_ab.png" group-title="Austria" tvg-id="ZDFNGEH" tvc-guide-stationid="67216",ZDFneo
-http://example.local/AUT-ZDFNGEH.ts
+#EXTINF:-1 tvg-chno="123033" tvg-name="ZDFneo Austria HD" tvg-logo="https://zap2it.tmsimg.com/assets/s123033_ll_h15_aa.png" group-title="Austria" tvg-id="ZDFNAH" tvc-guide-stationid="123033",ZDFneo Austria HD
+http://example.local/AUT-ZDFNAH.ts
 #EXTINF:-1 tvg-chno="90438" tvg-name="ZDFneo HD" tvg-logo="https://logos.jesmann.com/ZDFNGHD.png" group-title="Austria" tvg-id="ZDFNGHD" tvc-guide-stationid="90438",ZDFneo HD
 http://example.local/AUT-ZDFNGHD.ts
 #EXTINF:-1 tvg-chno="117404" tvg-name="Zillertal TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s117404_ll_h15_aa.png" group-title="Austria" tvg-id="ZILLERHD" tvc-guide-stationid="117404",Zillertal TV HD

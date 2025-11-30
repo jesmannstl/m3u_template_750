@@ -1,28 +1,58 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Venezuela" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
-http://example.local/VEN-CCL.ts
-#EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Venezuela" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
-http://example.local/VEN-CANALHD.ts
-#EXTINF:-1 tvg-chno="104908" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Venezuela" tvg-id="CCANAL" tvc-guide-stationid="104908",Cinecanal
-http://example.local/VEN-CCANAL.ts
-#EXTINF:-1 tvg-chno="105609" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Venezuela" tvg-id="CCANCOL" tvc-guide-stationid="105609",Cinecanal
-http://example.local/VEN-CCANCOL.ts
-#EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Jamaica" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
-http://example.local/JAM-CCLHD.ts
+#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Mexico" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
+http://example.local/MEX-CCL.ts
+#EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Mexico" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
+http://example.local/MEX-CCLHD.ts
+#EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Mexico" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
+http://example.local/MEX-CANALHD.ts
+#EXTINF:-1 tvg-chno="104919" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Mexico" tvg-id="CINCHD" tvc-guide-stationid="104919",Cinecanal
+http://example.local/MEX-CINCHD.ts
+#EXTINF:-1 tvg-chno="70424" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Mexico" tvg-id="GIGACCL" tvc-guide-stationid="70424",Cinecanal
+http://example.local/MEX-GIGACCL.ts
+#EXTINF:-1 tvg-chno="82428" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Mexico" tvg-id="CINECC" tvc-guide-stationid="82428",Cinecanal
+http://example.local/MEX-CINECC.ts
+#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
+http://example.local/TTO-CCL.ts
+#EXTINF:-1 tvg-chno="16434" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="CCI" tvc-guide-stationid="16434",Cinecanal
+http://example.local/TTO-CCI.ts
+#EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
+http://example.local/TTO-CCLHD.ts
+#EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Panama" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
+http://example.local/PAN-CCLHD.ts
+#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Panama" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
+http://example.local/PAN-CCL.ts
+#EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Argentina" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
+http://example.local/ARG-CANALHD.ts
+#EXTINF:-1 tvg-chno="104908" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Argentina" tvg-id="CCANAL" tvc-guide-stationid="104908",Cinecanal
+http://example.local/ARG-CCANAL.ts
+#EXTINF:-1 tvg-chno="104919" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Argentina" tvg-id="CINCHD" tvc-guide-stationid="104919",Cinecanal
+http://example.local/ARG-CINCHD.ts
+#EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Argentina" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
+http://example.local/ARG-CCLHD.ts
+#EXTINF:-1 tvg-chno="104908" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Peru" tvg-id="CCANAL" tvc-guide-stationid="104908",Cinecanal
+http://example.local/PER-CCANAL.ts
+#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Peru" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
+http://example.local/PER-CCL.ts
+#EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Peru" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
+http://example.local/PER-CCLHD.ts
+#EXTINF:-1 tvg-chno="105641" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Peru" tvg-id="CANCOLD" tvc-guide-stationid="105641",Cinecanal
+http://example.local/PER-CANCOLD.ts
+#EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Peru" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
+http://example.local/PER-CANALHD.ts
+#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Bahamas" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
+http://example.local/BHS-CCL.ts
+#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Anguilla" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
+http://example.local/AIA-CCL.ts
 #EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Colombia" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
 http://example.local/COL-CCL.ts
+#EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Colombia" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
+http://example.local/COL-CANALHD.ts
 #EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Colombia" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
 http://example.local/COL-CCLHD.ts
 #EXTINF:-1 tvg-chno="105609" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Colombia" tvg-id="CCANCOL" tvc-guide-stationid="105609",Cinecanal
 http://example.local/COL-CCANCOL.ts
-#EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Colombia" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
-http://example.local/COL-CANALHD.ts
 #EXTINF:-1 tvg-chno="104908" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Colombia" tvg-id="CCANAL" tvc-guide-stationid="104908",Cinecanal
 http://example.local/COL-CCANAL.ts
-#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
-http://example.local/DOM-CCL.ts
-#EXTINF:-1 tvg-chno="104919" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="CINCHD" tvc-guide-stationid="104919",Cinecanal
-http://example.local/DOM-CINCHD.ts
 #EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Costa Rica" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
 http://example.local/CRI-CCL.ts
 #EXTINF:-1 tvg-chno="104908" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Costa Rica" tvg-id="CCANAL" tvc-guide-stationid="104908",Cinecanal
@@ -33,54 +63,64 @@ http://example.local/CRI-CCI.ts
 http://example.local/CRI-CINCHD.ts
 #EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Costa Rica" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
 http://example.local/CRI-CANALHD.ts
-#EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Barbados" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
-http://example.local/BRB-CCLHD.ts
-#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Barbados" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
-http://example.local/BRB-CCL.ts
-#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
-http://example.local/VCT-CCL.ts
 #EXTINF:-1 tvg-chno="67920" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Chile" tvg-id="CINECNL" tvc-guide-stationid="67920",Cinecanal
 http://example.local/CHL-CINECNL.ts
+#EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Chile" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
+http://example.local/CHL-CANALHD.ts
+#EXTINF:-1 tvg-chno="110696" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Chile" tvg-id="CINECCH" tvc-guide-stationid="110696",Cinecanal
+http://example.local/CHL-CINECCH.ts
 #EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Chile" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
 http://example.local/CHL-CCLHD.ts
 #EXTINF:-1 tvg-chno="105641" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Chile" tvg-id="CANCOLD" tvc-guide-stationid="105641",Cinecanal
 http://example.local/CHL-CANCOLD.ts
 #EXTINF:-1 tvg-chno="105609" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Chile" tvg-id="CCANCOL" tvc-guide-stationid="105609",Cinecanal
 http://example.local/CHL-CCANCOL.ts
-#EXTINF:-1 tvg-chno="110696" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Chile" tvg-id="CINECCH" tvc-guide-stationid="110696",Cinecanal
-http://example.local/CHL-CINECCH.ts
 #EXTINF:-1 tvg-chno="104908" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Chile" tvg-id="CCANAL" tvc-guide-stationid="104908",Cinecanal
 http://example.local/CHL-CCANAL.ts
-#EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Chile" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
-http://example.local/CHL-CANALHD.ts
 #EXTINF:-1 tvg-chno="105875" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="CCANCEN" tvc-guide-stationid="105875",Cinecanal
 http://example.local/CYM-CCANCEN.ts
 #EXTINF:-1 tvg-chno="105609" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="CCANCOL" tvc-guide-stationid="105609",Cinecanal
 http://example.local/CYM-CCANCOL.ts
-#EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Panama" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
-http://example.local/PAN-CCLHD.ts
-#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Panama" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
-http://example.local/PAN-CCL.ts
-#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Saint Martin" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
-http://example.local/MAF-CCL.ts
+#EXTINF:-1 tvg-chno="104908" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Ecuador" tvg-id="CCANAL" tvc-guide-stationid="104908",Cinecanal
+http://example.local/ECU-CCANAL.ts
+#EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Ecuador" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
+http://example.local/ECU-CANALHD.ts
+#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Ecuador" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
+http://example.local/ECU-CCL.ts
+#EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Ecuador" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
+http://example.local/ECU-CCLHD.ts
+#EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Jamaica" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
+http://example.local/JAM-CCLHD.ts
+#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Venezuela" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
+http://example.local/VEN-CCL.ts
+#EXTINF:-1 tvg-chno="105609" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Venezuela" tvg-id="CCANCOL" tvc-guide-stationid="105609",Cinecanal
+http://example.local/VEN-CCANCOL.ts
+#EXTINF:-1 tvg-chno="104908" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Venezuela" tvg-id="CCANAL" tvc-guide-stationid="104908",Cinecanal
+http://example.local/VEN-CCANAL.ts
+#EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Venezuela" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
+http://example.local/VEN-CANALHD.ts
 #EXTINF:-1 tvg-chno="104908" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Uruguay" tvg-id="CCANAL" tvc-guide-stationid="104908",Cinecanal
 http://example.local/URY-CCANAL.ts
 #EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Uruguay" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
 http://example.local/URY-CANALHD.ts
-#EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Bermuda" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
-http://example.local/BMU-CCLHD.ts
-#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
-http://example.local/TTO-CCL.ts
-#EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
-http://example.local/TTO-CCLHD.ts
-#EXTINF:-1 tvg-chno="16434" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="CCI" tvc-guide-stationid="16434",Cinecanal
-http://example.local/TTO-CCI.ts
+#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
+http://example.local/DOM-CCL.ts
+#EXTINF:-1 tvg-chno="104919" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="CINCHD" tvc-guide-stationid="104919",Cinecanal
+http://example.local/DOM-CINCHD.ts
+#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Guatemala" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
+http://example.local/GTM-CCL.ts
+#EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Guatemala" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
+http://example.local/GTM-CCLHD.ts
+#EXTINF:-1 tvg-chno="104908" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Guatemala" tvg-id="CCANAL" tvc-guide-stationid="104908",Cinecanal
+http://example.local/GTM-CCANAL.ts
+#EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Guatemala" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
+http://example.local/GTM-CANALHD.ts
 #EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Aruba" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
 http://example.local/ABW-CCL.ts
-#EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Belize" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
-http://example.local/BLZ-CCLHD.ts
-#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Belize" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
-http://example.local/BLZ-CCL.ts
+#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
+http://example.local/BES-CCL.ts
+#EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Bermuda" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
+http://example.local/BMU-CCLHD.ts
 #EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="St. Lucia" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
 http://example.local/LCA-CCL.ts
 #EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
@@ -91,20 +131,26 @@ http://example.local/KNA-CCL.ts
 http://example.local/DMA-CCL.ts
 #EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Guyana" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
 http://example.local/GUY-CCL.ts
-#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
-http://example.local/BES-CCL.ts
-#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Bahamas" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
-http://example.local/BHS-CCL.ts
-#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Anguilla" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
-http://example.local/AIA-CCL.ts
-#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Grenada" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
-http://example.local/GRD-CCL.ts
-#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
-http://example.local/ATG-CCL.ts
+#EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Barbados" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
+http://example.local/BRB-CCLHD.ts
+#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Barbados" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
+http://example.local/BRB-CCL.ts
+#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
+http://example.local/VCT-CCL.ts
 #EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Curacao" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
 http://example.local/CUW-CCL.ts
 #EXTINF:-1 tvg-chno="16434" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Curacao" tvg-id="CCI" tvc-guide-stationid="16434",Cinecanal
 http://example.local/CUW-CCI.ts
+#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Saint Martin" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
+http://example.local/MAF-CCL.ts
+#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Grenada" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
+http://example.local/GRD-CCL.ts
+#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Belize" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
+http://example.local/BLZ-CCL.ts
+#EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Belize" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
+http://example.local/BLZ-CCLHD.ts
+#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
+http://example.local/ATG-CCL.ts
 #EXTINF:-1 tvg-chno="80544" tvg-name="CineClásico" tvg-logo="https://zap2it.tmsimg.com/assets/s80544_ll_h15_aa.png" group-title="United States" tvg-id="CCLASIC" tvc-guide-stationid="80544",CineClásico
 http://example.local/USA-CCLASIC.ts
 #EXTINF:-1 tvg-chno="118940" tvg-name="CinedigmBobross" group-title="United States" tvg-id="VIZCDMB" tvc-guide-stationid="118940",CinedigmBobross
@@ -115,197 +161,225 @@ http://example.local/USA-CINELHD.ts
 http://example.local/CAN-CINERHD.ts
 #EXTINF:-1 tvg-chno="122969" tvg-name="CineLife" tvg-logo="https://zap2it.tmsimg.com/assets/s122969_ll_h15_aa.png" group-title="United States" tvg-id="CINELFE" tvc-guide-stationid="122969",CineLife
 http://example.local/USA-CINELFE.ts
-#EXTINF:-1 tvg-chno="95687" tvg-name="Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s95687_ll_h15_ad.png" group-title="Mexico" tvg-id="CINEM" tvc-guide-stationid="95687",Cinema
-http://example.local/MEX-CINEM.ts
-#EXTINF:-1 tvg-chno="105154" tvg-name="Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s95687_ll_h15_ad.png" group-title="Mexico" tvg-id="CINEMHD" tvc-guide-stationid="105154",Cinema
-http://example.local/MEX-CINEMHD.ts
 #EXTINF:-1 tvg-chno="92413" tvg-name="Cinema" group-title="United States" tvg-id="ARTCN" tvc-guide-stationid="92413",Cinema
 http://example.local/USA-ARTCN.ts
 #EXTINF:-1 tvg-chno="95687" tvg-name="Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s95687_ll_h15_ad.png" group-title="United States" tvg-id="CINEM" tvc-guide-stationid="95687",Cinema
 http://example.local/USA-CINEM.ts
 #EXTINF:-1 tvg-chno="105154" tvg-name="Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s95687_ll_h15_ad.png" group-title="United States" tvg-id="CINEMHD" tvc-guide-stationid="105154",Cinema
 http://example.local/USA-CINEMHD.ts
+#EXTINF:-1 tvg-chno="105154" tvg-name="Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s95687_ll_h15_ad.png" group-title="Mexico" tvg-id="CINEMHD" tvc-guide-stationid="105154",Cinema
+http://example.local/MEX-CINEMHD.ts
+#EXTINF:-1 tvg-chno="95687" tvg-name="Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s95687_ll_h15_ad.png" group-title="Mexico" tvg-id="CINEM" tvc-guide-stationid="95687",Cinema
+http://example.local/MEX-CINEM.ts
 #EXTINF:-1 tvg-chno="95687" tvg-name="Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s95687_ll_h15_ad.png" group-title="Peru" tvg-id="CINEM" tvc-guide-stationid="95687",Cinema
 http://example.local/PER-CINEM.ts
 #EXTINF:-1 tvg-chno="105154" tvg-name="Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s95687_ll_h15_ad.png" group-title="Peru" tvg-id="CINEMHD" tvc-guide-stationid="105154",Cinema
 http://example.local/PER-CINEMHD.ts
-#EXTINF:-1 tvg-chno="95687" tvg-name="Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s95687_ll_h15_ad.png" group-title="Guatemala" tvg-id="CINEM" tvc-guide-stationid="95687",Cinema
-http://example.local/GTM-CINEM.ts
 #EXTINF:-1 tvg-chno="95687" tvg-name="Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s95687_ll_h15_ad.png" group-title="Costa Rica" tvg-id="CINEM" tvc-guide-stationid="95687",Cinema
 http://example.local/CRI-CINEM.ts
+#EXTINF:-1 tvg-chno="95687" tvg-name="Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s95687_ll_h15_ad.png" group-title="Guatemala" tvg-id="CINEM" tvc-guide-stationid="95687",Cinema
+http://example.local/GTM-CINEM.ts
 #EXTINF:-1 tvg-chno="95687" tvg-name="Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s95687_ll_h15_ad.png" group-title="Belize" tvg-id="CINEM" tvc-guide-stationid="95687",Cinema
 http://example.local/BLZ-CINEM.ts
 #EXTINF:-1 tvg-chno="94842" tvg-name="Cinema Dinamita" tvg-logo="https://zap2it.tmsimg.com/assets/s82420_h3_ba.png" group-title="United States" tvg-id="CDINA" tvc-guide-stationid="94842",Cinema Dinamita
 http://example.local/USA-CDINA.ts
 #EXTINF:-1 tvg-chno="117988" tvg-name="Cinema Dinamita (HD Feed)" group-title="United States" tvg-id="CDINAHD" tvc-guide-stationid="117988",Cinema Dinamita (HD Feed)
 http://example.local/USA-CDINAHD.ts
-#EXTINF:-1 tvg-chno="82420" tvg-name="Cinema Dinamita MX (Claro Chile)" tvg-logo="https://zap2it.tmsimg.com/assets/s82420_ll_h15_aa.png" group-title="Guatemala" tvg-id="CINDINA" tvc-guide-stationid="82420",Cinema Dinamita MX (Claro Chile)
-http://example.local/GTM-CINDINA.ts
-#EXTINF:-1 tvg-chno="82420" tvg-name="Cinema Dinamita MX (Claro Chile)" tvg-logo="https://zap2it.tmsimg.com/assets/s82420_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="CINDINA" tvc-guide-stationid="82420",Cinema Dinamita MX (Claro Chile)
-http://example.local/DOM-CINDINA.ts
-#EXTINF:-1 tvg-chno="82420" tvg-name="Cinema Dinamita MX (Claro Chile)" tvg-logo="https://zap2it.tmsimg.com/assets/s82420_ll_h15_aa.png" group-title="Costa Rica" tvg-id="CINDINA" tvc-guide-stationid="82420",Cinema Dinamita MX (Claro Chile)
-http://example.local/CRI-CINDINA.ts
 #EXTINF:-1 tvg-chno="82420" tvg-name="Cinema Dinamita MX (Claro Chile)" tvg-logo="https://zap2it.tmsimg.com/assets/s82420_ll_h15_aa.png" group-title="Panama" tvg-id="CINDINA" tvc-guide-stationid="82420",Cinema Dinamita MX (Claro Chile)
 http://example.local/PAN-CINDINA.ts
+#EXTINF:-1 tvg-chno="82420" tvg-name="Cinema Dinamita MX (Claro Chile)" tvg-logo="https://zap2it.tmsimg.com/assets/s82420_ll_h15_aa.png" group-title="Costa Rica" tvg-id="CINDINA" tvc-guide-stationid="82420",Cinema Dinamita MX (Claro Chile)
+http://example.local/CRI-CINDINA.ts
+#EXTINF:-1 tvg-chno="82420" tvg-name="Cinema Dinamita MX (Claro Chile)" tvg-logo="https://zap2it.tmsimg.com/assets/s82420_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="CINDINA" tvc-guide-stationid="82420",Cinema Dinamita MX (Claro Chile)
+http://example.local/DOM-CINDINA.ts
+#EXTINF:-1 tvg-chno="82420" tvg-name="Cinema Dinamita MX (Claro Chile)" tvg-logo="https://zap2it.tmsimg.com/assets/s82420_ll_h15_aa.png" group-title="Guatemala" tvg-id="CINDINA" tvc-guide-stationid="82420",Cinema Dinamita MX (Claro Chile)
+http://example.local/GTM-CINDINA.ts
 #EXTINF:-1 tvg-chno="183936" tvg-name="Cinema HD" group-title="Poland" tvg-id="CINEIT" tvc-guide-stationid="183936",Cinema HD
 http://example.local/POL-CINEIT.ts
-#EXTINF:-1 tvg-chno="46736" tvg-name="Cinema One" tvg-logo="https://zap2it.tmsimg.com/assets/s46736_ll_h15_aa.png" group-title="United States" tvg-id="CINEONE" tvc-guide-stationid="46736",Cinema One
-http://example.local/USA-CINEONE.ts
 #EXTINF:-1 tvg-chno="46736" tvg-name="Cinema One" tvg-logo="https://zap2it.tmsimg.com/assets/s46736_ll_h15_aa.png" group-title="Canada" tvg-id="CINEONE" tvc-guide-stationid="46736",Cinema One
 http://example.local/CAN-CINEONE.ts
-#EXTINF:-1 tvg-chno="71932" tvg-name="Cinema One Global" tvg-logo="https://zap2it.tmsimg.com/assets/s71932_ll_h9_aa.png" group-title="United States" tvg-id="CINONEG" tvc-guide-stationid="71932",Cinema One Global
-http://example.local/USA-CINONEG.ts
+#EXTINF:-1 tvg-chno="46736" tvg-name="Cinema One" tvg-logo="https://zap2it.tmsimg.com/assets/s46736_ll_h15_aa.png" group-title="United States" tvg-id="CINEONE" tvc-guide-stationid="46736",Cinema One
+http://example.local/USA-CINEONE.ts
 #EXTINF:-1 tvg-chno="71932" tvg-name="Cinema One Global" tvg-logo="https://zap2it.tmsimg.com/assets/s71932_ll_h9_aa.png" group-title="Canada" tvg-id="CINONEG" tvc-guide-stationid="71932",Cinema One Global
 http://example.local/CAN-CINONEG.ts
-#EXTINF:-1 tvg-chno="16522" tvg-name="Cinema Platino" tvg-logo="https://zap2it.tmsimg.com/assets/s16522_h3_aa.png" group-title="Mexico" tvg-id="CINPLA" tvc-guide-stationid="16522",Cinema Platino
-http://example.local/MEX-CINPLA.ts
+#EXTINF:-1 tvg-chno="71932" tvg-name="Cinema One Global" tvg-logo="https://zap2it.tmsimg.com/assets/s71932_ll_h9_aa.png" group-title="United States" tvg-id="CINONEG" tvc-guide-stationid="71932",Cinema One Global
+http://example.local/USA-CINONEG.ts
 #EXTINF:-1 tvg-chno="16522" tvg-name="Cinema Platino" tvg-logo="https://zap2it.tmsimg.com/assets/s16522_h3_aa.png" group-title="United States" tvg-id="CINPLA" tvc-guide-stationid="16522",Cinema Platino
 http://example.local/USA-CINPLA.ts
-#EXTINF:-1 tvg-chno="16522" tvg-name="Cinema Platino" tvg-logo="https://zap2it.tmsimg.com/assets/s16522_h3_aa.png" group-title="Guatemala" tvg-id="CINPLA" tvc-guide-stationid="16522",Cinema Platino
-http://example.local/GTM-CINPLA.ts
+#EXTINF:-1 tvg-chno="16522" tvg-name="Cinema Platino" tvg-logo="https://zap2it.tmsimg.com/assets/s16522_h3_aa.png" group-title="Mexico" tvg-id="CINPLA" tvc-guide-stationid="16522",Cinema Platino
+http://example.local/MEX-CINPLA.ts
 #EXTINF:-1 tvg-chno="16522" tvg-name="Cinema Platino" tvg-logo="https://zap2it.tmsimg.com/assets/s16522_h3_aa.png" group-title="Costa Rica" tvg-id="CINPLA" tvc-guide-stationid="16522",Cinema Platino
 http://example.local/CRI-CINPLA.ts
+#EXTINF:-1 tvg-chno="16522" tvg-name="Cinema Platino" tvg-logo="https://zap2it.tmsimg.com/assets/s16522_h3_aa.png" group-title="Guatemala" tvg-id="CINPLA" tvc-guide-stationid="16522",Cinema Platino
+http://example.local/GTM-CINPLA.ts
 #EXTINF:-1 tvg-chno="38486" tvg-name="Cinema Platino 2" tvg-logo="https://zap2it.tmsimg.com/assets/s16522_ll_h15_aa.png" group-title="Mexico" tvg-id="CINPL2" tvc-guide-stationid="38486",Cinema Platino 2
 http://example.local/MEX-CINPL2.ts
 #EXTINF:-1 tvg-chno="47398" tvg-name="Cinema Platino Multiplex" tvg-logo="https://zap2it.tmsimg.com/assets/s16522_ll_h15_aa.png" group-title="Mexico" tvg-id="PLATMPX" tvc-guide-stationid="47398",Cinema Platino Multiplex
 http://example.local/MEX-PLATMPX.ts
-#EXTINF:-1 tvg-chno="64240" tvg-name="Cinema Plus" group-title="Ecuador" tvg-id="CINPLS" tvc-guide-stationid="64240",Cinema Plus
-http://example.local/ECU-CINPLS.ts
 #EXTINF:-1 tvg-chno="64240" tvg-name="Cinema Plus" group-title="Colombia" tvg-id="CINPLS" tvc-guide-stationid="64240",Cinema Plus
 http://example.local/COL-CINPLS.ts
-#EXTINF:-1 tvg-chno="64240" tvg-name="Cinema Plus" group-title="Dominican Republic" tvg-id="CINPLS" tvc-guide-stationid="64240",Cinema Plus
-http://example.local/DOM-CINPLS.ts
 #EXTINF:-1 tvg-chno="64240" tvg-name="Cinema Plus" group-title="Costa Rica" tvg-id="CINPLS" tvc-guide-stationid="64240",Cinema Plus
 http://example.local/CRI-CINPLS.ts
-#EXTINF:-1 tvg-chno="16794" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Mexico" tvg-id="CINELW" tvc-guide-stationid="16794",Cinemax
-http://example.local/MEX-CINELW.ts
+#EXTINF:-1 tvg-chno="64240" tvg-name="Cinema Plus" group-title="Ecuador" tvg-id="CINPLS" tvc-guide-stationid="64240",Cinema Plus
+http://example.local/ECU-CINPLS.ts
+#EXTINF:-1 tvg-chno="64240" tvg-name="Cinema Plus" group-title="Dominican Republic" tvg-id="CINPLS" tvc-guide-stationid="64240",Cinema Plus
+http://example.local/DOM-CINPLS.ts
+#EXTINF:-1 tvg-chno="46927" tvg-name="Cinemax" group-title="United States" tvg-id="GMAX1WD" tvc-guide-stationid="46927",Cinemax
+http://example.local/USA-GMAX1WD.ts
 #EXTINF:-1 tvg-chno="70314" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Mexico" tvg-id="MAXPNAM" tvc-guide-stationid="70314",Cinemax
 http://example.local/MEX-MAXPNAM.ts
+#EXTINF:-1 tvg-chno="16794" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Mexico" tvg-id="CINELW" tvc-guide-stationid="16794",Cinemax
+http://example.local/MEX-CINELW.ts
 #EXTINF:-1 tvg-chno="101730" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Mexico" tvg-id="CINELWH" tvc-guide-stationid="101730",Cinemax
 http://example.local/MEX-CINELWH.ts
 #EXTINF:-1 tvg-chno="78538" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_h3_aa.png" group-title="Mexico" tvg-id="MAXSUR" tvc-guide-stationid="78538",Cinemax
 http://example.local/MEX-MAXSUR.ts
-#EXTINF:-1 tvg-chno="46927" tvg-name="Cinemax" group-title="United States" tvg-id="GMAX1WD" tvc-guide-stationid="46927",Cinemax
-http://example.local/USA-GMAX1WD.ts
-#EXTINF:-1 tvg-chno="70314" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Peru" tvg-id="MAXPNAM" tvc-guide-stationid="70314",Cinemax
-http://example.local/PER-MAXPNAM.ts
-#EXTINF:-1 tvg-chno="106733" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Peru" tvg-id="MAXPANH" tvc-guide-stationid="106733",Cinemax
-http://example.local/PER-MAXPANH.ts
 #EXTINF:-1 tvg-chno="104743" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s104743_ll_h15_ab.png" group-title="Brazil" tvg-id="CINEMXB" tvc-guide-stationid="104743",Cinemax
 http://example.local/BRA-CINEMXB.ts
 #EXTINF:-1 tvg-chno="75583" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s75583_ll_h15_ac.png" group-title="Brazil" tvg-id="MAXBSC" tvc-guide-stationid="75583",Cinemax
 http://example.local/BRA-MAXBSC.ts
-#EXTINF:-1 tvg-chno="70314" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Ecuador" tvg-id="MAXPNAM" tvc-guide-stationid="70314",Cinemax
-http://example.local/ECU-MAXPNAM.ts
-#EXTINF:-1 tvg-chno="78538" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_h3_aa.png" group-title="Argentina" tvg-id="MAXSUR" tvc-guide-stationid="78538",Cinemax
-http://example.local/ARG-MAXSUR.ts
+#EXTINF:-1 tvg-chno="78890" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="MAXSURE" tvc-guide-stationid="78890",Cinemax
+http://example.local/TTO-MAXSURE.ts
+#EXTINF:-1 tvg-chno="16794" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="CINELW" tvc-guide-stationid="16794",Cinemax
+http://example.local/TTO-CINELW.ts
+#EXTINF:-1 tvg-chno="16794" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Panama" tvg-id="CINELW" tvc-guide-stationid="16794",Cinemax
+http://example.local/PAN-CINELW.ts
 #EXTINF:-1 tvg-chno="99082" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_h3_aa.png" group-title="Argentina" tvg-id="MAXSURH" tvc-guide-stationid="99082",Cinemax
 http://example.local/ARG-MAXSURH.ts
-#EXTINF:-1 tvg-chno="16794" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Argentina" tvg-id="CINELW" tvc-guide-stationid="16794",Cinemax
-http://example.local/ARG-CINELW.ts
-#EXTINF:-1 tvg-chno="16794" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Venezuela" tvg-id="CINELW" tvc-guide-stationid="16794",Cinemax
-http://example.local/VEN-CINELW.ts
-#EXTINF:-1 tvg-chno="95561" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Jamaica" tvg-id="CINECHE" tvc-guide-stationid="95561",Cinemax
-http://example.local/JAM-CINECHE.ts
-#EXTINF:-1 tvg-chno="16794" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Colombia" tvg-id="CINELW" tvc-guide-stationid="16794",Cinemax
-http://example.local/COL-CINELW.ts
+#EXTINF:-1 tvg-chno="78538" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_h3_aa.png" group-title="Argentina" tvg-id="MAXSUR" tvc-guide-stationid="78538",Cinemax
+http://example.local/ARG-MAXSUR.ts
+#EXTINF:-1 tvg-chno="70314" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Peru" tvg-id="MAXPNAM" tvc-guide-stationid="70314",Cinemax
+http://example.local/PER-MAXPNAM.ts
+#EXTINF:-1 tvg-chno="106733" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Peru" tvg-id="MAXPANH" tvc-guide-stationid="106733",Cinemax
+http://example.local/PER-MAXPANH.ts
 #EXTINF:-1 tvg-chno="106733" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Colombia" tvg-id="MAXPANH" tvc-guide-stationid="106733",Cinemax
 http://example.local/COL-MAXPANH.ts
-#EXTINF:-1 tvg-chno="70409" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="MAXPNEN" tvc-guide-stationid="70409",Cinemax
-http://example.local/DOM-MAXPNEN.ts
+#EXTINF:-1 tvg-chno="16794" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Colombia" tvg-id="CINELW" tvc-guide-stationid="16794",Cinemax
+http://example.local/COL-CINELW.ts
 #EXTINF:-1 tvg-chno="95559" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Chile" tvg-id="CINECHL" tvc-guide-stationid="95559",Cinemax
 http://example.local/CHL-CINECHL.ts
 #EXTINF:-1 tvg-chno="16794" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Chile" tvg-id="CINELW" tvc-guide-stationid="16794",Cinemax
 http://example.local/CHL-CINELW.ts
 #EXTINF:-1 tvg-chno="95561" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="CINECHE" tvc-guide-stationid="95561",Cinemax
 http://example.local/CYM-CINECHE.ts
-#EXTINF:-1 tvg-chno="16794" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Panama" tvg-id="CINELW" tvc-guide-stationid="16794",Cinemax
-http://example.local/PAN-CINELW.ts
+#EXTINF:-1 tvg-chno="70314" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Ecuador" tvg-id="MAXPNAM" tvc-guide-stationid="70314",Cinemax
+http://example.local/ECU-MAXPNAM.ts
+#EXTINF:-1 tvg-chno="95561" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Jamaica" tvg-id="CINECHE" tvc-guide-stationid="95561",Cinemax
+http://example.local/JAM-CINECHE.ts
+#EXTINF:-1 tvg-chno="16794" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Venezuela" tvg-id="CINELW" tvc-guide-stationid="16794",Cinemax
+http://example.local/VEN-CINELW.ts
 #EXTINF:-1 tvg-chno="78538" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_h3_aa.png" group-title="Uruguay" tvg-id="MAXSUR" tvc-guide-stationid="78538",Cinemax
 http://example.local/URY-MAXSUR.ts
-#EXTINF:-1 tvg-chno="16794" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="CINELW" tvc-guide-stationid="16794",Cinemax
-http://example.local/TTO-CINELW.ts
-#EXTINF:-1 tvg-chno="78890" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="MAXSURE" tvc-guide-stationid="78890",Cinemax
-http://example.local/TTO-MAXSURE.ts
+#EXTINF:-1 tvg-chno="70409" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="MAXPNEN" tvc-guide-stationid="70409",Cinemax
+http://example.local/DOM-MAXPNEN.ts
 #EXTINF:-1 tvg-chno="16794" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Aruba" tvg-id="CINELW" tvc-guide-stationid="16794",Cinemax
 http://example.local/ABW-CINELW.ts
-#EXTINF:-1 tvg-chno="101730" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Belize" tvg-id="CINELWH" tvc-guide-stationid="101730",Cinemax
-http://example.local/BLZ-CINELWH.ts
-#EXTINF:-1 tvg-chno="70314" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="St. Lucia" tvg-id="MAXPNAM" tvc-guide-stationid="70314",Cinemax
-http://example.local/LCA-MAXPNAM.ts
 #EXTINF:-1 tvg-chno="78538" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_h3_aa.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="MAXSUR" tvc-guide-stationid="78538",Cinemax
 http://example.local/BES-MAXSUR.ts
+#EXTINF:-1 tvg-chno="70314" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="St. Lucia" tvg-id="MAXPNAM" tvc-guide-stationid="70314",Cinemax
+http://example.local/LCA-MAXPNAM.ts
 #EXTINF:-1 tvg-chno="78890" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_h3_aa.png" group-title="Curacao" tvg-id="MAXSURE" tvc-guide-stationid="78890",Cinemax
 http://example.local/CUW-MAXSURE.ts
+#EXTINF:-1 tvg-chno="101730" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Belize" tvg-id="CINELWH" tvc-guide-stationid="101730",Cinemax
+http://example.local/BLZ-CINELWH.ts
 #EXTINF:-1 tvg-chno="12508" tvg-name="Cinemax (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10120_ll_h15_ab.png" group-title="United States" tvg-id="MAXP" tvc-guide-stationid="12508",Cinemax (Pacific)
 http://example.local/USA-MAXP.ts
 #EXTINF:-1 tvg-chno="67947" tvg-name="Cinemax (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s25623_ll_h15_ad.png" group-title="United States" tvg-id="CMAXP" tvc-guide-stationid="67947",Cinemax (Pacific)
 http://example.local/USA-CMAXP.ts
-#EXTINF:-1 tvg-chno="12508" tvg-name="Cinemax (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10120_ll_h15_ab.png" group-title="Guatemala" tvg-id="MAXP" tvc-guide-stationid="12508",Cinemax (Pacific)
-http://example.local/GTM-MAXP.ts
-#EXTINF:-1 tvg-chno="12508" tvg-name="Cinemax (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10120_ll_h15_ab.png" group-title="Ecuador" tvg-id="MAXP" tvc-guide-stationid="12508",Cinemax (Pacific)
-http://example.local/ECU-MAXP.ts
-#EXTINF:-1 tvg-chno="12508" tvg-name="Cinemax (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10120_ll_h15_ab.png" group-title="Venezuela" tvg-id="MAXP" tvc-guide-stationid="12508",Cinemax (Pacific)
-http://example.local/VEN-MAXP.ts
-#EXTINF:-1 tvg-chno="12508" tvg-name="Cinemax (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10120_ll_h15_ab.png" group-title="Jamaica" tvg-id="MAXP" tvc-guide-stationid="12508",Cinemax (Pacific)
-http://example.local/JAM-MAXP.ts
 #EXTINF:-1 tvg-chno="12508" tvg-name="Cinemax (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10120_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="MAXP" tvc-guide-stationid="12508",Cinemax (Pacific)
 http://example.local/PRI-MAXP.ts
+#EXTINF:-1 tvg-chno="12508" tvg-name="Cinemax (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10120_ll_h15_ab.png" group-title="Ecuador" tvg-id="MAXP" tvc-guide-stationid="12508",Cinemax (Pacific)
+http://example.local/ECU-MAXP.ts
+#EXTINF:-1 tvg-chno="12508" tvg-name="Cinemax (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10120_ll_h15_ab.png" group-title="Jamaica" tvg-id="MAXP" tvc-guide-stationid="12508",Cinemax (Pacific)
+http://example.local/JAM-MAXP.ts
+#EXTINF:-1 tvg-chno="12508" tvg-name="Cinemax (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10120_ll_h15_ab.png" group-title="Venezuela" tvg-id="MAXP" tvc-guide-stationid="12508",Cinemax (Pacific)
+http://example.local/VEN-MAXP.ts
+#EXTINF:-1 tvg-chno="12508" tvg-name="Cinemax (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10120_ll_h15_ab.png" group-title="Guatemala" tvg-id="MAXP" tvc-guide-stationid="12508",Cinemax (Pacific)
+http://example.local/GTM-MAXP.ts
 #EXTINF:-1 tvg-chno="118500" tvg-name="Cinemax 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118500_ll_h15_aa.png" group-title="Poland" tvg-id="CINEMX2PL" tvc-guide-stationid="118500",Cinemax 2 HD
 http://example.local/POL-CINEMX2PL.ts
 #EXTINF:-1 tvg-chno="18433" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC1Q.png" group-title="United States" tvg-id="CINACT" tvc-guide-stationid="18433",Cinemax Action
 http://example.local/USA-CINACT.ts
+#EXTINF:-1 tvg-chno="18433" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC1Q.png" group-title="Turks and Caicos" tvg-id="CINACT" tvc-guide-stationid="18433",Cinemax Action
+http://example.local/TCA-CINACT.ts
 #EXTINF:-1 tvg-chno="18433" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC1Q.png" group-title="Puerto Rico" tvg-id="CINACT" tvc-guide-stationid="18433",Cinemax Action
 http://example.local/PRI-CINACT.ts
-#EXTINF:-1 tvg-chno="18434" tvg-name="Cinemax Action (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC3L.png" group-title="United States" tvg-id="CINACSP" tvc-guide-stationid="18434",Cinemax Action (Pacific)
+#EXTINF:-1 tvg-chno="18433" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC1Q.png" group-title="Cayman Islands" tvg-id="CINACT" tvc-guide-stationid="18433",Cinemax Action
+http://example.local/CYM-CINACT.ts
+#EXTINF:-1 tvg-chno="18433" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC1Q.png" group-title="Dominican Republic" tvg-id="CINACT" tvc-guide-stationid="18433",Cinemax Action
+http://example.local/DOM-CINACT.ts
+#EXTINF:-1 tvg-chno="18433" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC1Q.png" group-title="Bermuda" tvg-id="CINACT" tvc-guide-stationid="18433",Cinemax Action
+http://example.local/BMU-CINACT.ts
+#EXTINF:-1 tvg-chno="18433" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC1Q.png" group-title="Antigua and Barbuda" tvg-id="CINACT" tvc-guide-stationid="18433",Cinemax Action
+http://example.local/ATG-CINACT.ts
+#EXTINF:-1 tvg-chno="18434" tvg-name="Cinemax Action (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC1Q.png" group-title="United States" tvg-id="CINACSP" tvc-guide-stationid="18434",Cinemax Action (Pacific)
 http://example.local/USA-CINACSP.ts
-#EXTINF:-1 tvg-chno="18434" tvg-name="Cinemax Action (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC3L.png" group-title="Puerto Rico" tvg-id="CINACSP" tvc-guide-stationid="18434",Cinemax Action (Pacific)
+#EXTINF:-1 tvg-chno="18434" tvg-name="Cinemax Action (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC1Q.png" group-title="Puerto Rico" tvg-id="CINACSP" tvc-guide-stationid="18434",Cinemax Action (Pacific)
 http://example.local/PRI-CINACSP.ts
-#EXTINF:-1 tvg-chno="59948" tvg-name="Cinemax Action HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC3L.png" group-title="United States" tvg-id="CINACHD" tvc-guide-stationid="59948",Cinemax Action HD
+#EXTINF:-1 tvg-chno="59948" tvg-name="Cinemax Action HD" tvg-logo="https://tmsimg.fancybits.co/assets/GNLZZGG0029BC3L" group-title="United States" tvg-id="CINACHD" tvc-guide-stationid="59948",Cinemax Action HD
 http://example.local/USA-CINACHD.ts
-#EXTINF:-1 tvg-chno="59950" tvg-name="Cinemax Action HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC3L.png" group-title="United States" tvg-id="CINAHDP" tvc-guide-stationid="59950",Cinemax Action HD (Pacific)
+#EXTINF:-1 tvg-chno="59950" tvg-name="Cinemax Action HD (Pacific)" tvg-logo="https://tmsimg.fancybits.co/assets/GNLZZGG0029BC3L" group-title="United States" tvg-id="CINAHDP" tvc-guide-stationid="59950",Cinemax Action HD (Pacific)
 http://example.local/USA-CINAHDP.ts
 #EXTINF:-1 tvg-chno="25620" tvg-name="Cinemax Classics" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBLL.png" group-title="United States" tvg-id="CINECLS" tvc-guide-stationid="25620",Cinemax Classics
 http://example.local/USA-CINECLS.ts
+#EXTINF:-1 tvg-chno="25620" tvg-name="Cinemax Classics" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBLL.png" group-title="Bermuda" tvg-id="CINECLS" tvc-guide-stationid="25620",Cinemax Classics
+http://example.local/BMU-CINECLS.ts
+#EXTINF:-1 tvg-chno="61168" tvg-name="Cinemax Classics (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBLL.png" group-title="United States" tvg-id="CINCLSP" tvc-guide-stationid="61168",Cinemax Classics (Pacific)
+http://example.local/USA-CINCLSP.ts
 #EXTINF:-1 tvg-chno="59961" tvg-name="Cinemax Classics HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CS01.png" group-title="United States" tvg-id="CINCLHD" tvc-guide-stationid="59961",Cinemax Classics HD
 http://example.local/USA-CINCLHD.ts
+#EXTINF:-1 tvg-chno="110267" tvg-name="Cinemax Classics HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKPY.png" group-title="United States" tvg-id="CINCHDP" tvc-guide-stationid="110267",Cinemax Classics HD (Pacific)
+http://example.local/USA-CINCHDP.ts
 #EXTINF:-1 tvg-chno="16968" tvg-name="Cinemax en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s16968_ll_h15_aa.png" group-title="United States" tvg-id="MAXS" tvc-guide-stationid="16968",Cinemax en Español
 http://example.local/USA-MAXS.ts
-#EXTINF:-1 tvg-chno="118499" tvg-name="Cinemax HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118499_ll_h15_aa.png" group-title="Poland" tvg-id="CINEMXPL" tvc-guide-stationid="118499",Cinemax HD
-http://example.local/POL-CINEMXPL.ts
 #EXTINF:-1 tvg-chno="34933" tvg-name="Cinemax HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34933_ll_h15_ab.png" group-title="United States" tvg-id="MAXHD" tvc-guide-stationid="34933",Cinemax HD
 http://example.local/USA-MAXHD.ts
-#EXTINF:-1 tvg-chno="34933" tvg-name="Cinemax HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34933_ll_h15_ab.png" group-title="Jamaica" tvg-id="MAXHD" tvc-guide-stationid="34933",Cinemax HD
-http://example.local/JAM-MAXHD.ts
-#EXTINF:-1 tvg-chno="34933" tvg-name="Cinemax HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34933_ll_h15_ab.png" group-title="Barbados" tvg-id="MAXHD" tvc-guide-stationid="34933",Cinemax HD
-http://example.local/BRB-MAXHD.ts
-#EXTINF:-1 tvg-chno="34933" tvg-name="Cinemax HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34933_ll_h15_ab.png" group-title="Bermuda" tvg-id="MAXHD" tvc-guide-stationid="34933",Cinemax HD
-http://example.local/BMU-MAXHD.ts
+#EXTINF:-1 tvg-chno="118499" tvg-name="Cinemax HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118499_ll_h15_aa.png" group-title="Poland" tvg-id="CINEMXPL" tvc-guide-stationid="118499",Cinemax HD
+http://example.local/POL-CINEMXPL.ts
 #EXTINF:-1 tvg-chno="34933" tvg-name="Cinemax HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34933_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="MAXHD" tvc-guide-stationid="34933",Cinemax HD
 http://example.local/TTO-MAXHD.ts
-#EXTINF:-1 tvg-chno="34933" tvg-name="Cinemax HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34933_ll_h15_ab.png" group-title="Belize" tvg-id="MAXHD" tvc-guide-stationid="34933",Cinemax HD
-http://example.local/BLZ-MAXHD.ts
-#EXTINF:-1 tvg-chno="34933" tvg-name="Cinemax HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34933_ll_h15_ab.png" group-title="St. Kitts and Nevis" tvg-id="MAXHD" tvc-guide-stationid="34933",Cinemax HD
-http://example.local/KNA-MAXHD.ts
 #EXTINF:-1 tvg-chno="34933" tvg-name="Cinemax HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34933_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="MAXHD" tvc-guide-stationid="34933",Cinemax HD
 http://example.local/PRI-MAXHD.ts
+#EXTINF:-1 tvg-chno="34933" tvg-name="Cinemax HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34933_ll_h15_ab.png" group-title="Jamaica" tvg-id="MAXHD" tvc-guide-stationid="34933",Cinemax HD
+http://example.local/JAM-MAXHD.ts
+#EXTINF:-1 tvg-chno="34933" tvg-name="Cinemax HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34933_ll_h15_ab.png" group-title="Bermuda" tvg-id="MAXHD" tvc-guide-stationid="34933",Cinemax HD
+http://example.local/BMU-MAXHD.ts
+#EXTINF:-1 tvg-chno="34933" tvg-name="Cinemax HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34933_ll_h15_ab.png" group-title="St. Kitts and Nevis" tvg-id="MAXHD" tvc-guide-stationid="34933",Cinemax HD
+http://example.local/KNA-MAXHD.ts
+#EXTINF:-1 tvg-chno="34933" tvg-name="Cinemax HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34933_ll_h15_ab.png" group-title="Barbados" tvg-id="MAXHD" tvc-guide-stationid="34933",Cinemax HD
+http://example.local/BRB-MAXHD.ts
+#EXTINF:-1 tvg-chno="34933" tvg-name="Cinemax HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34933_ll_h15_ab.png" group-title="Belize" tvg-id="MAXHD" tvc-guide-stationid="34933",Cinemax HD
+http://example.local/BLZ-MAXHD.ts
 #EXTINF:-1 tvg-chno="35975" tvg-name="Cinemax HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s34933_ll_h15_ab.png" group-title="United States" tvg-id="MAXHDP" tvc-guide-stationid="35975",Cinemax HD (Pacific)
 http://example.local/USA-MAXHDP.ts
 #EXTINF:-1 tvg-chno="62343" tvg-name="Cinemax HD On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s62343_ll_h15_aa.png" group-title="United States" tvg-id="MAXHDDM" tvc-guide-stationid="62343",Cinemax HD On Demand
 http://example.local/USA-MAXHDDM.ts
 #EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="United States" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
 http://example.local/USA-CINEHIT.ts
-#EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="Belize" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
-http://example.local/BLZ-CINEHIT.ts
+#EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="Trinidad and Tobago" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
+http://example.local/TTO-CINEHIT.ts
+#EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="Bahamas" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
+http://example.local/BHS-CINEHIT.ts
 #EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="Puerto Rico" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
 http://example.local/PRI-CINEHIT.ts
+#EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="Cayman Islands" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
+http://example.local/CYM-CINEHIT.ts
+#EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="Venezuela" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
+http://example.local/VEN-CINEHIT.ts
+#EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="Dominican Republic" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
+http://example.local/DOM-CINEHIT.ts
+#EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="Bermuda" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
+http://example.local/BMU-CINEHIT.ts
+#EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="Saint Vincent and the Grenadines" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
+http://example.local/VCT-CINEHIT.ts
+#EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="Belize" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
+http://example.local/BLZ-CINEHIT.ts
 #EXTINF:-1 tvg-chno="16620" tvg-name="Cinemax Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="United States" tvg-id="CINEHP" tvc-guide-stationid="16620",Cinemax Hits (Pacific)
 http://example.local/USA-CINEHP.ts
 #EXTINF:-1 tvg-chno="16620" tvg-name="Cinemax Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="Puerto Rico" tvg-id="CINEHP" tvc-guide-stationid="16620",Cinemax Hits (Pacific)
 http://example.local/PRI-CINEHP.ts
 #EXTINF:-1 tvg-chno="59373" tvg-name="Cinemax Hits HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKC9.png" group-title="United States" tvg-id="CINEHHD" tvc-guide-stationid="59373",Cinemax Hits HD
 http://example.local/USA-CINEHHD.ts
-#EXTINF:-1 tvg-chno="59375" tvg-name="Cinemax Hits HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="United States" tvg-id="CINHHDP" tvc-guide-stationid="59375",Cinemax Hits HD (Pacific)
+#EXTINF:-1 tvg-chno="59375" tvg-name="Cinemax Hits HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKC9.png" group-title="United States" tvg-id="CINHHDP" tvc-guide-stationid="59375",Cinemax Hits HD (Pacific)
 http://example.local/USA-CINHHDP.ts
 #EXTINF:-1 tvg-chno="31571" tvg-name="Cinemax On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s46895_ll_h15_ab.png" group-title="United States" tvg-id="MAXDM" tvc-guide-stationid="31571",Cinemax On Demand
 http://example.local/USA-MAXDM.ts
@@ -319,6 +393,10 @@ http://example.local/USA-CMAXHD.ts
 http://example.local/USA-CMAXPHD.ts
 #EXTINF:-1 tvg-chno="77407" tvg-name="Cinemoi US" tvg-logo="https://zap2it.tmsimg.com/assets/s77407_ll_h15_aa.png" group-title="United States" tvg-id="CINEMUS" tvc-guide-stationid="77407",Cinemoi US
 http://example.local/USA-CINEMUS.ts
+#EXTINF:-1 tvg-chno="196591" tvg-name="Cines Verdi Feel Good TV" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002GJRXW.png" group-title="Spain" tvg-id="CIVEFG" tvc-guide-stationid="196591",Cines Verdi Feel Good TV
+http://example.local/ESP-CIVEFG.ts
+#EXTINF:-1 tvg-chno="196592" tvg-name="Cines Verdi TV" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002CFEY5.png" group-title="Spain" tvg-id="CIVEES" tvc-guide-stationid="196592",Cines Verdi TV
+http://example.local/ESP-CIVEES.ts
 #EXTINF:-1 tvg-chno="125052" tvg-name="CINEVAULT" tvg-logo="https://zap2it.tmsimg.com/assets/s125052_ll_h15_ab.png" group-title="United States" tvg-id="CINEVLT" tvc-guide-stationid="125052",CINEVAULT
 http://example.local/USA-CINEVLT.ts
 #EXTINF:-1 tvg-chno="124618" tvg-name="Cinevault Classics" group-title="United States" tvg-id="VIZCNCL" tvc-guide-stationid="124618",Cinevault Classics
@@ -347,14 +425,14 @@ http://example.local/FRA-CINEWES.ts
 http://example.local/FRA-CCLASTR.ts
 #EXTINF:-1 tvg-chno="117412" tvg-name="Ciné+ Classic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s117412_ll_h15_aa.png" group-title="France" tvg-id="CINPCLHD" tvc-guide-stationid="117412",Ciné+ Classic HD
 http://example.local/FRA-CINPCLHD.ts
-#EXTINF:-1 tvg-chno="51789" tvg-name="Ciné+ Emotion" tvg-logo="https://zap2it.tmsimg.com/assets/s51789_ll_h15_aa.png" group-title="Switzerland" tvg-id="CINPEMO" tvc-guide-stationid="51789",Ciné+ Emotion
-http://example.local/CHE-CINPEMO.ts
 #EXTINF:-1 tvg-chno="51789" tvg-name="Ciné+ Emotion" tvg-logo="https://zap2it.tmsimg.com/assets/s51789_ll_h15_aa.png" group-title="Germany" tvg-id="CINPEMO" tvc-guide-stationid="51789",Ciné+ Emotion
 http://example.local/DEU-CINPEMO.ts
-#EXTINF:-1 tvg-chno="87293" tvg-name="Ciné+ Emotion HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87293_ll_h15_aa.png" group-title="Switzerland" tvg-id="CNPEMHD" tvc-guide-stationid="87293",Ciné+ Emotion HD
-http://example.local/CHE-CNPEMHD.ts
+#EXTINF:-1 tvg-chno="51789" tvg-name="Ciné+ Emotion" tvg-logo="https://zap2it.tmsimg.com/assets/s51789_ll_h15_aa.png" group-title="Switzerland" tvg-id="CINPEMO" tvc-guide-stationid="51789",Ciné+ Emotion
+http://example.local/CHE-CINPEMO.ts
 #EXTINF:-1 tvg-chno="87293" tvg-name="Ciné+ Emotion HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87293_ll_h15_aa.png" group-title="France" tvg-id="CNPEMHD" tvc-guide-stationid="87293",Ciné+ Emotion HD
 http://example.local/FRA-CNPEMHD.ts
+#EXTINF:-1 tvg-chno="87293" tvg-name="Ciné+ Emotion HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87293_ll_h15_aa.png" group-title="Switzerland" tvg-id="CNPEMHD" tvc-guide-stationid="87293",Ciné+ Emotion HD
+http://example.local/CHE-CNPEMHD.ts
 #EXTINF:-1 tvg-chno="87293" tvg-name="Ciné+ Emotion HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87293_ll_h15_aa.png" group-title="Saint Martin" tvg-id="CNPEMHD" tvc-guide-stationid="87293",Ciné+ Emotion HD
 http://example.local/MAF-CNPEMHD.ts
 #EXTINF:-1 tvg-chno="159022" tvg-name="CINÉ+ Family" tvg-logo="https://zap2it.tmsimg.com/assets/s159022_ll_h15_aa.png" group-title="France" tvg-id="CFAMSTR" tvc-guide-stationid="159022",CINÉ+ Family
@@ -367,28 +445,26 @@ http://example.local/FRA-FRISSSTR.ts
 http://example.local/BEL-CINOCSB.ts
 #EXTINF:-1 tvg-chno="159025" tvg-name="CINÉ+ Émotion" tvg-logo="https://zap2it.tmsimg.com/assets/s159025_ll_h15_aa.png" group-title="France" tvg-id="CEMOSTR" tvc-guide-stationid="159025",CINÉ+ Émotion
 http://example.local/FRA-CEMOSTR.ts
-#EXTINF:-1 tvg-chno="51790" tvg-name="CINÉ+Family" tvg-logo="https://zap2it.tmsimg.com/assets/s51790_ll_h15_aa.png" group-title="Switzerland" tvg-id="CINEFAM" tvc-guide-stationid="51790",CINÉ+Family
-http://example.local/CHE-CINEFAM.ts
 #EXTINF:-1 tvg-chno="51790" tvg-name="CINÉ+Family" tvg-logo="https://zap2it.tmsimg.com/assets/s51790_ll_h15_aa.png" group-title="Germany" tvg-id="CINEFAM" tvc-guide-stationid="51790",CINÉ+Family
 http://example.local/DEU-CINEFAM.ts
-#EXTINF:-1 tvg-chno="97620" tvg-name="CINÉ+Family HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97620_ll_h15_aa.png" group-title="Switzerland" tvg-id="CINEFHD" tvc-guide-stationid="97620",CINÉ+Family HD
-http://example.local/CHE-CINEFHD.ts
+#EXTINF:-1 tvg-chno="51790" tvg-name="CINÉ+Family" tvg-logo="https://zap2it.tmsimg.com/assets/s51790_ll_h15_aa.png" group-title="Switzerland" tvg-id="CINEFAM" tvc-guide-stationid="51790",CINÉ+Family
+http://example.local/CHE-CINEFAM.ts
 #EXTINF:-1 tvg-chno="97620" tvg-name="CINÉ+Family HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97620_ll_h15_aa.png" group-title="France" tvg-id="CINEFHD" tvc-guide-stationid="97620",CINÉ+Family HD
 http://example.local/FRA-CINEFHD.ts
-#EXTINF:-1 tvg-chno="51785" tvg-name="CINÉ+Festival" tvg-logo="https://zap2it.tmsimg.com/assets/s51785_ll_h15_aa.png" group-title="Switzerland" tvg-id="CINEFE" tvc-guide-stationid="51785",CINÉ+Festival
-http://example.local/CHE-CINEFE.ts
+#EXTINF:-1 tvg-chno="97620" tvg-name="CINÉ+Family HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97620_ll_h15_aa.png" group-title="Switzerland" tvg-id="CINEFHD" tvc-guide-stationid="97620",CINÉ+Family HD
+http://example.local/CHE-CINEFHD.ts
 #EXTINF:-1 tvg-chno="51785" tvg-name="CINÉ+Festival" tvg-logo="https://zap2it.tmsimg.com/assets/s51785_ll_h15_aa.png" group-title="Germany" tvg-id="CINEFE" tvc-guide-stationid="51785",CINÉ+Festival
 http://example.local/DEU-CINEFE.ts
-#EXTINF:-1 tvg-chno="97618" tvg-name="CINÉ+Festival HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97618_ll_h15_aa.png" group-title="Switzerland" tvg-id="CINEFEHD" tvc-guide-stationid="97618",CINÉ+Festival HD
-http://example.local/CHE-CINEFEHD.ts
+#EXTINF:-1 tvg-chno="51785" tvg-name="CINÉ+Festival" tvg-logo="https://zap2it.tmsimg.com/assets/s51785_ll_h15_aa.png" group-title="Switzerland" tvg-id="CINEFE" tvc-guide-stationid="51785",CINÉ+Festival
+http://example.local/CHE-CINEFE.ts
 #EXTINF:-1 tvg-chno="97618" tvg-name="CINÉ+Festival HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97618_ll_h15_aa.png" group-title="France" tvg-id="CINEFEHD" tvc-guide-stationid="97618",CINÉ+Festival HD
 http://example.local/FRA-CINEFEHD.ts
+#EXTINF:-1 tvg-chno="97618" tvg-name="CINÉ+Festival HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97618_ll_h15_aa.png" group-title="Switzerland" tvg-id="CINEFEHD" tvc-guide-stationid="97618",CINÉ+Festival HD
+http://example.local/CHE-CINEFEHD.ts
 #EXTINF:-1 tvg-chno="49195" tvg-name="CinéPop" tvg-logo="https://zap2it.tmsimg.com/assets/s49195_ll_h6_aa.png" group-title="Canada" tvg-id="CINEPOP" tvc-guide-stationid="49195",CinéPop
 http://example.local/CAN-CINEPOP.ts
 #EXTINF:-1 tvg-chno="70699" tvg-name="CinéPop HD" tvg-logo="https://zap2it.tmsimg.com/assets/s70699_ll_h6_aa.png" group-title="Canada" tvg-id="CINEPHD" tvc-guide-stationid="70699",CinéPop HD
 http://example.local/CAN-CINEPHD.ts
-#EXTINF:-1 tvg-chno="90885" tvg-name="Cinépop Sur Demande" group-title="Canada" tvg-id="CPPDM" tvc-guide-stationid="90885",Cinépop Sur Demande
-http://example.local/CAN-CPPDM.ts
 #EXTINF:-1 tvg-chno="26544" tvg-name="CIOC FM Radio" group-title="Canada" tvg-id="CIOC" tvc-guide-stationid="26544",CIOC FM Radio
 http://example.local/CAN-CIOC.ts
 #EXTINF:-1 tvg-chno="26610" tvg-name="CIOO FM Radio (Halifax)" tvg-logo="https://zap2it.tmsimg.com/assets/s26610_ll_h9_aa.png" group-title="Canada" tvg-id="CIOO" tvc-guide-stationid="26610",CIOO FM Radio (Halifax)
@@ -399,6 +475,8 @@ http://example.local/CAN-CIQMFM.ts
 http://example.local/CAN-CIRA.ts
 #EXTINF:-1 tvg-chno="118943" tvg-name="Circle" group-title="United States" tvg-id="VIZCIRC" tvc-guide-stationid="118943",Circle
 http://example.local/USA-VIZCIRC.ts
+#EXTINF:-1 tvg-chno="116338" tvg-name="Circle Country" tvg-logo="https://zap2it.tmsimg.com/assets/s116338_ll_h15_ab.png" group-title="Canada" tvg-id="XCIRCLE" tvc-guide-stationid="116338",Circle Country
+http://example.local/CAN-XCIRCLE.ts
 #EXTINF:-1 tvg-chno="116338" tvg-name="Circle Country" tvg-logo="https://zap2it.tmsimg.com/assets/s116338_ll_h15_ab.png" group-title="United States" tvg-id="XCIRCLE" tvc-guide-stationid="116338",Circle Country
 http://example.local/USA-XCIRCLE.ts
 #EXTINF:-1 tvg-chno="26594" tvg-name="CIRK FM Radio" group-title="Canada" tvg-id="CIRK" tvc-guide-stationid="26594",CIRK FM Radio
@@ -421,10 +499,10 @@ http://example.local/USA-CCTV20.ts
 http://example.local/CAN-CITLDT.ts
 #EXTINF:-1 tvg-chno="36466" tvg-name="CITN27" group-title="Cayman Islands" tvg-id="CITN27" tvc-guide-stationid="36466",CITN27
 http://example.local/CYM-CITN27.ts
-#EXTINF:-1 tvg-chno="73190" tvg-name="CITS-DT1 Ottawa" tvg-logo="https://zap2it.tmsimg.com/assets/s60344_h3_aa.png" group-title="United States" tvg-id="CITSDT1" tvc-guide-stationid="73190",CITS-DT1 Ottawa
-http://example.local/USA-CITSDT1.ts
 #EXTINF:-1 tvg-chno="73190" tvg-name="CITS-DT1 Ottawa" tvg-logo="https://zap2it.tmsimg.com/assets/s60344_h3_aa.png" group-title="Canada" tvg-id="CITSDT1" tvc-guide-stationid="73190",CITS-DT1 Ottawa
 http://example.local/CAN-CITSDT1.ts
+#EXTINF:-1 tvg-chno="73190" tvg-name="CITS-DT1 Ottawa" tvg-logo="https://zap2it.tmsimg.com/assets/s60344_h3_aa.png" group-title="United States" tvg-id="CITSDT1" tvc-guide-stationid="73190",CITS-DT1 Ottawa
+http://example.local/USA-CITSDT1.ts
 #EXTINF:-1 tvg-chno="73500" tvg-name="CITS-DT2" tvg-logo="https://zap2it.tmsimg.com/assets/s18805_ll_h15_aa.png" group-title="Canada" tvg-id="CITSDT2" tvc-guide-stationid="73500",CITS-DT2
 http://example.local/CAN-CITSDT2.ts
 #EXTINF:-1 tvg-chno="186428" tvg-name="CITTACELESTE TV" group-title="Italy" tvg-id="CTTCLST" tvc-guide-stationid="186428",CITTACELESTE TV
@@ -437,6 +515,8 @@ http://example.local/USA-CONCITY.ts
 http://example.local/USA-CTYCBL.ts
 #EXTINF:-1 tvg-chno="20107" tvg-name="City Channel" group-title="United States" tvg-id="CITYCH" tvc-guide-stationid="20107",City Channel
 http://example.local/USA-CITYCH.ts
+#EXTINF:-1 tvg-chno="92793" tvg-name="City Channel Pittsburgh Comcast" group-title="United States" tvg-id="CCPIT" tvc-guide-stationid="92793",City Channel Pittsburgh Comcast
+http://example.local/USA-CCPIT.ts
 #EXTINF:-1 tvg-chno="123905" tvg-name="City Channel Pittsburgh Comcast HD" group-title="United States" tvg-id="CCPITHD" tvc-guide-stationid="123905",City Channel Pittsburgh Comcast HD
 http://example.local/USA-CCPITHD.ts
 #EXTINF:-1 tvg-chno="56468" tvg-name="City Council Meeting" group-title="United States" tvg-id="CCM" tvc-guide-stationid="56468",City Council Meeting
@@ -497,14 +577,16 @@ http://example.local/USA-CLCTVHD.ts
 http://example.local/USA-MPLS.ts
 #EXTINF:-1 tvg-chno="98859" tvg-name="City of Minneapolis 14" group-title="United States" tvg-id="MPLS14" tvc-guide-stationid="98859",City of Minneapolis 14
 http://example.local/USA-MPLS14.ts
-#EXTINF:-1 tvg-chno="99139" tvg-name="City of Minneapolis 14 HD" group-title="United States" tvg-id="MPLS14H" tvc-guide-stationid="99139",City of Minneapolis 14 HD
-http://example.local/USA-MPLS14H.ts
 #EXTINF:-1 tvg-chno="99139" tvg-name="City of Minneapolis 14 HD" group-title="Canada" tvg-id="MPLS14H" tvc-guide-stationid="99139",City of Minneapolis 14 HD
 http://example.local/CAN-MPLS14H.ts
-#EXTINF:-1 tvg-chno="99140" tvg-name="City of Minneapolis 79 HD" group-title="United States" tvg-id="MPLS79H" tvc-guide-stationid="99140",City of Minneapolis 79 HD
-http://example.local/USA-MPLS79H.ts
+#EXTINF:-1 tvg-chno="99139" tvg-name="City of Minneapolis 14 HD" group-title="United States" tvg-id="MPLS14H" tvc-guide-stationid="99139",City of Minneapolis 14 HD
+http://example.local/USA-MPLS14H.ts
 #EXTINF:-1 tvg-chno="99140" tvg-name="City of Minneapolis 79 HD" group-title="Canada" tvg-id="MPLS79H" tvc-guide-stationid="99140",City of Minneapolis 79 HD
 http://example.local/CAN-MPLS79H.ts
+#EXTINF:-1 tvg-chno="99140" tvg-name="City of Minneapolis 79 HD" group-title="United States" tvg-id="MPLS79H" tvc-guide-stationid="99140",City of Minneapolis 79 HD
+http://example.local/USA-MPLS79H.ts
+#EXTINF:-1 tvg-chno="112653" tvg-name="City of Pittsburg Leased Access (CBNNEWS)" tvg-logo="https://zap2it.tmsimg.com/assets/s109977_ll_h15_aa.png" group-title="United States" tvg-id="COPLA" tvc-guide-stationid="112653",City of Pittsburg Leased Access (CBNNEWS)
+http://example.local/USA-COPLA.ts
 #EXTINF:-1 tvg-chno="70304" tvg-name="City of Rancho Palos Verdes Ch 35" group-title="United States" tvg-id="PVPTV35" tvc-guide-stationid="70304",City of Rancho Palos Verdes Ch 35
 http://example.local/USA-PVPTV35.ts
 #EXTINF:-1 tvg-chno="114011" tvg-name="City of Richland" group-title="United States" tvg-id="CTRICH" tvc-guide-stationid="114011",City of Richland
@@ -513,6 +595,8 @@ http://example.local/USA-CTRICH.ts
 http://example.local/USA-CORCKHD.ts
 #EXTINF:-1 tvg-chno="12395" tvg-name="City of Santa Barbara" tvg-logo="https://zap2it.tmsimg.com/assets/s12395_ll_h15_aa.png" group-title="United States" tvg-id="CITYTV" tvc-guide-stationid="12395",City of Santa Barbara
 http://example.local/USA-CITYTV.ts
+#EXTINF:-1 tvg-chno="113842" tvg-name="City of Santa Fe Ch 28" group-title="United States" tvg-id="SANTAFE" tvc-guide-stationid="113842",City of Santa Fe Ch 28
+http://example.local/USA-SANTAFE.ts
 #EXTINF:-1 tvg-chno="113844" tvg-name="City of Santa Fe Ch 28 HD" group-title="United States" tvg-id="SANFEHD" tvc-guide-stationid="113844",City of Santa Fe Ch 28 HD
 http://example.local/USA-SANFEHD.ts
 #EXTINF:-1 tvg-chno="94697" tvg-name="City of Savannah Government Channel" group-title="United States" tvg-id="SAVAN" tvc-guide-stationid="94697",City of Savannah Government Channel
@@ -541,20 +625,20 @@ http://example.local/USA-CITY18.ts
 http://example.local/DOM-CITY18.ts
 #EXTINF:-1 tvg-chno="46642" tvg-name="CITY TV 18" group-title="Barbados" tvg-id="CITY18" tvc-guide-stationid="46642",CITY TV 18
 http://example.local/BRB-CITY18.ts
-#EXTINF:-1 tvg-chno="58323" tvg-name="City TV Bogota" tvg-logo="https://zap2it.tmsimg.com/assets/s58323_ll_h15_aa.png" group-title="Jamaica" tvg-id="CITYTVB" tvc-guide-stationid="58323",City TV Bogota
-http://example.local/JAM-CITYTVB.ts
 #EXTINF:-1 tvg-chno="58323" tvg-name="City TV Bogota" tvg-logo="https://zap2it.tmsimg.com/assets/s58323_ll_h15_aa.png" group-title="Colombia" tvg-id="CITYTVB" tvc-guide-stationid="58323",City TV Bogota
 http://example.local/COL-CITYTVB.ts
+#EXTINF:-1 tvg-chno="58323" tvg-name="City TV Bogota" tvg-logo="https://zap2it.tmsimg.com/assets/s58323_ll_h15_aa.png" group-title="Jamaica" tvg-id="CITYTVB" tvc-guide-stationid="58323",City TV Bogota
+http://example.local/JAM-CITYTVB.ts
 #EXTINF:-1 tvg-chno="58323" tvg-name="City TV Bogota" tvg-logo="https://zap2it.tmsimg.com/assets/s58323_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="CITYTVB" tvc-guide-stationid="58323",City TV Bogota
 http://example.local/DOM-CITYTVB.ts
-#EXTINF:-1 tvg-chno="73269" tvg-name="CITY-DT2 (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_ll_h15_ab.png" group-title="United States" tvg-id="CITYDT2" tvc-guide-stationid="73269",CITY-DT2 (CITYDT)
-http://example.local/USA-CITYDT2.ts
 #EXTINF:-1 tvg-chno="73269" tvg-name="CITY-DT2 (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_ll_h15_ab.png" group-title="Canada" tvg-id="CITYDT2" tvc-guide-stationid="73269",CITY-DT2 (CITYDT)
 http://example.local/CAN-CITYDT2.ts
-#EXTINF:-1 tvg-chno="68285" tvg-name="CITY-DT3 (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_ll_h15_ab.png" group-title="United States" tvg-id="CITYDT3" tvc-guide-stationid="68285",CITY-DT3 (CITYDT)
-http://example.local/USA-CITYDT3.ts
+#EXTINF:-1 tvg-chno="73269" tvg-name="CITY-DT2 (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_ll_h15_ab.png" group-title="United States" tvg-id="CITYDT2" tvc-guide-stationid="73269",CITY-DT2 (CITYDT)
+http://example.local/USA-CITYDT2.ts
 #EXTINF:-1 tvg-chno="68285" tvg-name="CITY-DT3 (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_ll_h15_ab.png" group-title="Canada" tvg-id="CITYDT3" tvc-guide-stationid="68285",CITY-DT3 (CITYDT)
 http://example.local/CAN-CITYDT3.ts
+#EXTINF:-1 tvg-chno="68285" tvg-name="CITY-DT3 (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_ll_h15_ab.png" group-title="United States" tvg-id="CITYDT3" tvc-guide-stationid="68285",CITY-DT3 (CITYDT)
+http://example.local/USA-CITYDT3.ts
 #EXTINF:-1 tvg-chno="93341" tvg-name="City/Local Programming" group-title="United States" tvg-id="CITYPRG" tvc-guide-stationid="93341",City/Local Programming
 http://example.local/USA-CITYPRG.ts
 #EXTINF:-1 tvg-chno="95168" tvg-name="CityNet" tvg-logo="https://zap2it.tmsimg.com/assets/s95168_ll_h9_aa.png" group-title="United States" tvg-id="PCM30" tvc-guide-stationid="95168",CityNet
@@ -567,8 +651,6 @@ http://example.local/CAN-CTNWSBC.ts
 http://example.local/CAN-CTNWSAB.ts
 #EXTINF:-1 tvg-chno="123035" tvg-name="CityNews 24/7 Toronto" tvg-logo="https://zap2it.tmsimg.com/assets/s123035_ll_h9_ac.png" group-title="Canada" tvg-id="CTYNWS" tvc-guide-stationid="123035",CityNews 24/7 Toronto
 http://example.local/CAN-CTYNWS.ts
-#EXTINF:-1 tvg-chno="123034" tvg-name="CityNews 24/7 Vancouver" tvg-logo="https://zap2it.tmsimg.com/assets/s123034_ll_h9_ab.png" group-title="Canada" tvg-id="CTYNWSW" tvc-guide-stationid="123034",CityNews 24/7 Vancouver
-http://example.local/CAN-CTYNWSW.ts
 #EXTINF:-1 tvg-chno="67914" tvg-name="CityNews 570" tvg-logo="https://zap2it.tmsimg.com/assets/s67914_ll_h9_aa.png" group-title="Canada" tvg-id="CKGLAM" tvc-guide-stationid="67914",CityNews 570
 http://example.local/CAN-CKGLAM.ts
 #EXTINF:-1 tvg-chno="47514" tvg-name="CityNews 680" tvg-logo="https://zap2it.tmsimg.com/assets/s47514_ll_h9_aa.png" group-title="Canada" tvg-id="680AM" tvc-guide-stationid="47514",CityNews 680
@@ -579,26 +661,26 @@ http://example.local/DEU-TRIER.ts
 http://example.local/USA-CTY12.ts
 #EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Canada" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
 http://example.local/CAN-CITY.ts
+#EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Turks and Caicos" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
+http://example.local/TCA-CITY.ts
+#EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
+http://example.local/TTO-CITY.ts
+#EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Bahamas" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
+http://example.local/BHS-CITY.ts
+#EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Cayman Islands" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
+http://example.local/CYM-CITY.ts
 #EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Jamaica" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
 http://example.local/JAM-CITY.ts
 #EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Dominican Republic" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
 http://example.local/DOM-CITY.ts
-#EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Barbados" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
-http://example.local/BRB-CITY.ts
-#EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Cayman Islands" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
-http://example.local/CYM-CITY.ts
-#EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Turks and Caicos" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
-http://example.local/TCA-CITY.ts
 #EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Bermuda" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
 http://example.local/BMU-CITY.ts
-#EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
-http://example.local/TTO-CITY.ts
 #EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="St. Lucia" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
 http://example.local/LCA-CITY.ts
 #EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="St. Kitts and Nevis" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
 http://example.local/KNA-CITY.ts
-#EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Bahamas" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
-http://example.local/BHS-CITY.ts
+#EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Barbados" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
+http://example.local/BRB-CITY.ts
 #EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Curacao" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
 http://example.local/CUW-CITY.ts
 #EXTINF:-1 tvg-chno="17628" tvg-name="Citytv Calgary (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s17628_ll_h15_aa.png" group-title="Canada" tvg-id="CKAL" tvc-guide-stationid="17628",Citytv Calgary (CITYDT)
@@ -611,28 +693,28 @@ http://example.local/CAN-CKEM.ts
 http://example.local/CAN-CKEMDT.ts
 #EXTINF:-1 tvg-chno="17046" tvg-name="Citytv Montreal (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_ll_h15_ab.png" group-title="Canada" tvg-id="CJNT" tvc-guide-stationid="17046",Citytv Montreal (CITYDT)
 http://example.local/CAN-CJNT.ts
-#EXTINF:-1 tvg-chno="72895" tvg-name="Citytv Montreal HD (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s72895_ll_h15_aa.png" group-title="United States" tvg-id="CJNTDT" tvc-guide-stationid="72895",Citytv Montreal HD (CITYDT)
-http://example.local/USA-CJNTDT.ts
 #EXTINF:-1 tvg-chno="72895" tvg-name="Citytv Montreal HD (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s72895_ll_h15_aa.png" group-title="Canada" tvg-id="CJNTDT" tvc-guide-stationid="72895",Citytv Montreal HD (CITYDT)
 http://example.local/CAN-CJNTDT.ts
-#EXTINF:-1 tvg-chno="34200" tvg-name="Citytv Toronto HD (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s34200_ll_h15_ab.png" group-title="United States" tvg-id="CITYDT" tvc-guide-stationid="34200",Citytv Toronto HD (CITYDT)
-http://example.local/USA-CITYDT.ts
+#EXTINF:-1 tvg-chno="72895" tvg-name="Citytv Montreal HD (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s72895_ll_h15_aa.png" group-title="United States" tvg-id="CJNTDT" tvc-guide-stationid="72895",Citytv Montreal HD (CITYDT)
+http://example.local/USA-CJNTDT.ts
 #EXTINF:-1 tvg-chno="34200" tvg-name="Citytv Toronto HD (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s34200_ll_h15_ab.png" group-title="Canada" tvg-id="CITYDT" tvc-guide-stationid="34200",Citytv Toronto HD (CITYDT)
 http://example.local/CAN-CITYDT.ts
-#EXTINF:-1 tvg-chno="34200" tvg-name="Citytv Toronto HD (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s34200_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="CITYDT" tvc-guide-stationid="34200",Citytv Toronto HD (CITYDT)
-http://example.local/CYM-CITYDT.ts
+#EXTINF:-1 tvg-chno="34200" tvg-name="Citytv Toronto HD (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s34200_ll_h15_ab.png" group-title="United States" tvg-id="CITYDT" tvc-guide-stationid="34200",Citytv Toronto HD (CITYDT)
+http://example.local/USA-CITYDT.ts
 #EXTINF:-1 tvg-chno="34200" tvg-name="Citytv Toronto HD (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s34200_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="CITYDT" tvc-guide-stationid="34200",Citytv Toronto HD (CITYDT)
 http://example.local/TTO-CITYDT.ts
+#EXTINF:-1 tvg-chno="34200" tvg-name="Citytv Toronto HD (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s34200_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="CITYDT" tvc-guide-stationid="34200",Citytv Toronto HD (CITYDT)
+http://example.local/CYM-CITYDT.ts
 #EXTINF:-1 tvg-chno="34200" tvg-name="Citytv Toronto HD (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s34200_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="CITYDT" tvc-guide-stationid="34200",Citytv Toronto HD (CITYDT)
 http://example.local/VGB-CITYDT.ts
-#EXTINF:-1 tvg-chno="10136" tvg-name="Citytv Vancouver (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10136_ll_h15_aa.png" group-title="United States" tvg-id="CKVU" tvc-guide-stationid="10136",Citytv Vancouver (CITYDT)
-http://example.local/USA-CKVU.ts
 #EXTINF:-1 tvg-chno="10136" tvg-name="Citytv Vancouver (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10136_ll_h15_aa.png" group-title="Canada" tvg-id="CKVU" tvc-guide-stationid="10136",Citytv Vancouver (CITYDT)
 http://example.local/CAN-CKVU.ts
-#EXTINF:-1 tvg-chno="67476" tvg-name="Citytv Vancouver HD (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s67476_ll_h15_ab.png" group-title="United States" tvg-id="CKVUDT" tvc-guide-stationid="67476",Citytv Vancouver HD (CITYDT)
-http://example.local/USA-CKVUDT.ts
+#EXTINF:-1 tvg-chno="10136" tvg-name="Citytv Vancouver (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10136_ll_h15_aa.png" group-title="United States" tvg-id="CKVU" tvc-guide-stationid="10136",Citytv Vancouver (CITYDT)
+http://example.local/USA-CKVU.ts
 #EXTINF:-1 tvg-chno="67476" tvg-name="Citytv Vancouver HD (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s67476_ll_h15_ab.png" group-title="Canada" tvg-id="CKVUDT" tvc-guide-stationid="67476",Citytv Vancouver HD (CITYDT)
 http://example.local/CAN-CKVUDT.ts
+#EXTINF:-1 tvg-chno="67476" tvg-name="Citytv Vancouver HD (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s67476_ll_h15_ab.png" group-title="United States" tvg-id="CKVUDT" tvc-guide-stationid="67476",Citytv Vancouver HD (CITYDT)
+http://example.local/USA-CKVUDT.ts
 #EXTINF:-1 tvg-chno="17390" tvg-name="Citytv Winnipeg" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_ll_h15_ab.png" group-title="Canada" tvg-id="CHMI" tvc-guide-stationid="17390",Citytv Winnipeg
 http://example.local/CAN-CHMI.ts
 #EXTINF:-1 tvg-chno="71974" tvg-name="Citytv Winnipeg HD (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s71974_ll_h15_aa.png" group-title="Canada" tvg-id="CHMIDT" tvc-guide-stationid="71974",Citytv Winnipeg HD (CITYDT)
@@ -661,44 +743,48 @@ http://example.local/CAN-CIVADT1.ts
 http://example.local/CAN-CIVB.ts
 #EXTINF:-1 tvg-chno="101922" tvg-name="CIVB-DT" group-title="Canada" tvg-id="CIVBDT" tvc-guide-stationid="101922",CIVB-DT
 http://example.local/CAN-CIVBDT.ts
-#EXTINF:-1 tvg-chno="100144" tvg-name="CIVB-DT1" group-title="United States" tvg-id="CIVBDT1" tvc-guide-stationid="100144",CIVB-DT1
-http://example.local/USA-CIVBDT1.ts
 #EXTINF:-1 tvg-chno="100144" tvg-name="CIVB-DT1" group-title="Canada" tvg-id="CIVBDT1" tvc-guide-stationid="100144",CIVB-DT1
 http://example.local/CAN-CIVBDT1.ts
+#EXTINF:-1 tvg-chno="100144" tvg-name="CIVB-DT1" group-title="United States" tvg-id="CIVBDT1" tvc-guide-stationid="100144",CIVB-DT1
+http://example.local/USA-CIVBDT1.ts
 #EXTINF:-1 tvg-chno="17377" tvg-name="CIVC" group-title="Canada" tvg-id="CIVC" tvc-guide-stationid="17377",CIVC
 http://example.local/CAN-CIVC.ts
-#EXTINF:-1 tvg-chno="73444" tvg-name="CIVC-DT" group-title="United States" tvg-id="CIVCDT" tvc-guide-stationid="73444",CIVC-DT
-http://example.local/USA-CIVCDT.ts
 #EXTINF:-1 tvg-chno="73444" tvg-name="CIVC-DT" group-title="Canada" tvg-id="CIVCDT" tvc-guide-stationid="73444",CIVC-DT
 http://example.local/CAN-CIVCDT.ts
-#EXTINF:-1 tvg-chno="72749" tvg-name="CIVI-DT2 (CTV2)" tvg-logo="https://zap2it.tmsimg.com/assets/s10135_ll_h15_ab.png" group-title="United States" tvg-id="CIVIDT2" tvc-guide-stationid="72749",CIVI-DT2 (CTV2)
-http://example.local/USA-CIVIDT2.ts
+#EXTINF:-1 tvg-chno="73444" tvg-name="CIVC-DT" group-title="United States" tvg-id="CIVCDT" tvc-guide-stationid="73444",CIVC-DT
+http://example.local/USA-CIVCDT.ts
+#EXTINF:-1 tvg-chno="17378" tvg-name="CIVF" group-title="Canada" tvg-id="CIVF" tvc-guide-stationid="17378",CIVF
+http://example.local/CAN-CIVF.ts
+#EXTINF:-1 tvg-chno="17379" tvg-name="CIVG" group-title="Canada" tvg-id="CIVG" tvc-guide-stationid="17379",CIVG
+http://example.local/CAN-CIVG.ts
 #EXTINF:-1 tvg-chno="72749" tvg-name="CIVI-DT2 (CTV2)" tvg-logo="https://zap2it.tmsimg.com/assets/s10135_ll_h15_ab.png" group-title="Canada" tvg-id="CIVIDT2" tvc-guide-stationid="72749",CIVI-DT2 (CTV2)
 http://example.local/CAN-CIVIDT2.ts
+#EXTINF:-1 tvg-chno="72749" tvg-name="CIVI-DT2 (CTV2)" tvg-logo="https://zap2it.tmsimg.com/assets/s10135_ll_h15_ab.png" group-title="United States" tvg-id="CIVIDT2" tvc-guide-stationid="72749",CIVI-DT2 (CTV2)
+http://example.local/USA-CIVIDT2.ts
 #EXTINF:-1 tvg-chno="17380" tvg-name="CIVK" group-title="Canada" tvg-id="CIVK" tvc-guide-stationid="17380",CIVK
 http://example.local/CAN-CIVK.ts
 #EXTINF:-1 tvg-chno="15987" tvg-name="CIVM" tvg-logo="https://zap2it.tmsimg.com/assets/s15725_ll_h15_ab.png" group-title="Canada" tvg-id="CIVM" tvc-guide-stationid="15987",CIVM
 http://example.local/CAN-CIVM.ts
-#EXTINF:-1 tvg-chno="63040" tvg-name="CIVM-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s15725_ll_h15_ab.png" group-title="United States" tvg-id="CIVMDT" tvc-guide-stationid="63040",CIVM-DT
-http://example.local/USA-CIVMDT.ts
 #EXTINF:-1 tvg-chno="63040" tvg-name="CIVM-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s15725_ll_h15_ab.png" group-title="Canada" tvg-id="CIVMDT" tvc-guide-stationid="63040",CIVM-DT
 http://example.local/CAN-CIVMDT.ts
+#EXTINF:-1 tvg-chno="63040" tvg-name="CIVM-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s15725_ll_h15_ab.png" group-title="United States" tvg-id="CIVMDT" tvc-guide-stationid="63040",CIVM-DT
+http://example.local/USA-CIVMDT.ts
 #EXTINF:-1 tvg-chno="15985" tvg-name="CIVO" tvg-logo="https://zap2it.tmsimg.com/assets/s15725_ll_h15_ab.png" group-title="Canada" tvg-id="CIVO" tvc-guide-stationid="15985",CIVO
 http://example.local/CAN-CIVO.ts
-#EXTINF:-1 tvg-chno="73196" tvg-name="CIVO-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s15725_h3_aa.png" group-title="United States" tvg-id="CIVODT" tvc-guide-stationid="73196",CIVO-DT
-http://example.local/USA-CIVODT.ts
 #EXTINF:-1 tvg-chno="73196" tvg-name="CIVO-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s15725_h3_aa.png" group-title="Canada" tvg-id="CIVODT" tvc-guide-stationid="73196",CIVO-DT
 http://example.local/CAN-CIVODT.ts
+#EXTINF:-1 tvg-chno="73196" tvg-name="CIVO-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s15725_h3_aa.png" group-title="United States" tvg-id="CIVODT" tvc-guide-stationid="73196",CIVO-DT
+http://example.local/USA-CIVODT.ts
 #EXTINF:-1 tvg-chno="17381" tvg-name="CIVQ Channel 15" tvg-logo="https://zap2it.tmsimg.com/assets/s15725_ll_h15_ab.png" group-title="Canada" tvg-id="CIVQ" tvc-guide-stationid="17381",CIVQ Channel 15
 http://example.local/CAN-CIVQ.ts
 #EXTINF:-1 tvg-chno="69485" tvg-name="CIVQ-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s15725_ll_h15_ab.png" group-title="Canada" tvg-id="CIVQDT" tvc-guide-stationid="69485",CIVQ-DT
 http://example.local/CAN-CIVQDT.ts
 #EXTINF:-1 tvg-chno="17382" tvg-name="CIVS" tvg-logo="https://zap2it.tmsimg.com/assets/s17382_ll_h15_aa.png" group-title="Canada" tvg-id="CIVS" tvc-guide-stationid="17382",CIVS
 http://example.local/CAN-CIVS.ts
-#EXTINF:-1 tvg-chno="73120" tvg-name="CIVS-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s17382_ll_h15_aa.png" group-title="United States" tvg-id="CIVSDT" tvc-guide-stationid="73120",CIVS-DT
-http://example.local/USA-CIVSDT.ts
 #EXTINF:-1 tvg-chno="73120" tvg-name="CIVS-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s17382_ll_h15_aa.png" group-title="Canada" tvg-id="CIVSDT" tvc-guide-stationid="73120",CIVS-DT
 http://example.local/CAN-CIVSDT.ts
+#EXTINF:-1 tvg-chno="73120" tvg-name="CIVS-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s17382_ll_h15_aa.png" group-title="United States" tvg-id="CIVSDT" tvc-guide-stationid="73120",CIVS-DT
+http://example.local/USA-CIVSDT.ts
 #EXTINF:-1 tvg-chno="91022" tvg-name="CIVV-DT" group-title="Canada" tvg-id="CIVVDT" tvc-guide-stationid="91022",CIVV-DT
 http://example.local/CAN-CIVVDT.ts
 #EXTINF:-1 tvg-chno="102591" tvg-name="CIXX FM London" group-title="Canada" tvg-id="CIXXFM" tvc-guide-stationid="102591",CIXX FM London
@@ -745,20 +831,20 @@ http://example.local/CAN-CJKR.ts
 http://example.local/CAN-CJLRFM.ts
 #EXTINF:-1 tvg-chno="73480" tvg-name="CJMT-DT1" tvg-logo="https://zap2it.tmsimg.com/assets/s31558_ll_h15_aa.png" group-title="Canada" tvg-id="CJMTDT1" tvc-guide-stationid="73480",CJMT-DT1
 http://example.local/CAN-CJMTDT1.ts
-#EXTINF:-1 tvg-chno="64994" tvg-name="CJMT-DT2" tvg-logo="https://zap2it.tmsimg.com/assets/s64994_ll_h9_aa.png" group-title="United States" tvg-id="CJMTDT2" tvc-guide-stationid="64994",CJMT-DT2
-http://example.local/USA-CJMTDT2.ts
 #EXTINF:-1 tvg-chno="64994" tvg-name="CJMT-DT2" tvg-logo="https://zap2it.tmsimg.com/assets/s64994_ll_h9_aa.png" group-title="Canada" tvg-id="CJMTDT2" tvc-guide-stationid="64994",CJMT-DT2
 http://example.local/CAN-CJMTDT2.ts
+#EXTINF:-1 tvg-chno="64994" tvg-name="CJMT-DT2" tvg-logo="https://zap2it.tmsimg.com/assets/s64994_ll_h9_aa.png" group-title="United States" tvg-id="CJMTDT2" tvc-guide-stationid="64994",CJMT-DT2
+http://example.local/USA-CJMTDT2.ts
 #EXTINF:-1 tvg-chno="61992" tvg-name="CJNU 93.7" group-title="Canada" tvg-id="CJNU" tvc-guide-stationid="61992",CJNU 93.7
 http://example.local/CAN-CJNU.ts
-#EXTINF:-1 tvg-chno="10127" tvg-name="CJOH (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10108_ll_h15_ab.png" group-title="United States" tvg-id="CJOH" tvc-guide-stationid="10127",CJOH (CTV)
-http://example.local/USA-CJOH.ts
 #EXTINF:-1 tvg-chno="10127" tvg-name="CJOH (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10108_ll_h15_ab.png" group-title="Canada" tvg-id="CJOH" tvc-guide-stationid="10127",CJOH (CTV)
 http://example.local/CAN-CJOH.ts
-#EXTINF:-1 tvg-chno="68025" tvg-name="CJOH-DT (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10108_ll_h15_ab.png" group-title="United States" tvg-id="CJOHDT" tvc-guide-stationid="68025",CJOH-DT (CTV)
-http://example.local/USA-CJOHDT.ts
+#EXTINF:-1 tvg-chno="10127" tvg-name="CJOH (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10108_ll_h15_ab.png" group-title="United States" tvg-id="CJOH" tvc-guide-stationid="10127",CJOH (CTV)
+http://example.local/USA-CJOH.ts
 #EXTINF:-1 tvg-chno="68025" tvg-name="CJOH-DT (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10108_ll_h15_ab.png" group-title="Canada" tvg-id="CJOHDT" tvc-guide-stationid="68025",CJOH-DT (CTV)
 http://example.local/CAN-CJOHDT.ts
+#EXTINF:-1 tvg-chno="68025" tvg-name="CJOH-DT (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10108_ll_h15_ab.png" group-title="United States" tvg-id="CJOHDT" tvc-guide-stationid="68025",CJOH-DT (CTV)
+http://example.local/USA-CJOHDT.ts
 #EXTINF:-1 tvg-chno="16405" tvg-name="CJOHTV8 (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10108_ll_h15_ab.png" group-title="Canada" tvg-id="CJOHTV8" tvc-guide-stationid="16405",CJOHTV8 (CTV)
 http://example.local/CAN-CJOHTV8.ts
 #EXTINF:-1 tvg-chno="17385" tvg-name="CJPC (NOOVO)" tvg-logo="https://zap2it.tmsimg.com/assets/s15696_ll_h15_ac.png" group-title="Canada" tvg-id="CJPC" tvc-guide-stationid="17385",CJPC (NOOVO)
@@ -781,18 +867,18 @@ http://example.local/CAN-CJTWFM.ts
 http://example.local/CAN-CJWE.ts
 #EXTINF:-1 tvg-chno="26597" tvg-name="CKAC AM Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s26597_ll_h9_aa.png" group-title="Canada" tvg-id="CKAC" tvc-guide-stationid="26597",CKAC AM Radio
 http://example.local/CAN-CKAC.ts
-#EXTINF:-1 tvg-chno="75293" tvg-name="CKAL-DT1" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_ll_h15_ab.png" group-title="United States" tvg-id="CKALDT1" tvc-guide-stationid="75293",CKAL-DT1
-http://example.local/USA-CKALDT1.ts
 #EXTINF:-1 tvg-chno="75293" tvg-name="CKAL-DT1" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_ll_h15_ab.png" group-title="Canada" tvg-id="CKALDT1" tvc-guide-stationid="75293",CKAL-DT1
 http://example.local/CAN-CKALDT1.ts
+#EXTINF:-1 tvg-chno="75293" tvg-name="CKAL-DT1" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_ll_h15_ab.png" group-title="United States" tvg-id="CKALDT1" tvc-guide-stationid="75293",CKAL-DT1
+http://example.local/USA-CKALDT1.ts
 #EXTINF:-1 tvg-chno="102634" tvg-name="CKBT FM Kitchener" group-title="Canada" tvg-id="CKBTFM" tvc-guide-stationid="102634",CKBT FM Kitchener
 http://example.local/CAN-CKBTFM.ts
 #EXTINF:-1 tvg-chno="10128" tvg-name="CKCO (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10108_ll_h15_ab.png" group-title="Canada" tvg-id="CKCO" tvc-guide-stationid="10128",CKCO (CTV)
 http://example.local/CAN-CKCO.ts
-#EXTINF:-1 tvg-chno="72614" tvg-name="CKCO-DT (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10108_ll_h15_ab.png" group-title="United States" tvg-id="CKCODT" tvc-guide-stationid="72614",CKCO-DT (CTV)
-http://example.local/USA-CKCODT.ts
 #EXTINF:-1 tvg-chno="72614" tvg-name="CKCO-DT (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10108_ll_h15_ab.png" group-title="Canada" tvg-id="CKCODT" tvc-guide-stationid="72614",CKCO-DT (CTV)
 http://example.local/CAN-CKCODT.ts
+#EXTINF:-1 tvg-chno="72614" tvg-name="CKCO-DT (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10108_ll_h15_ab.png" group-title="United States" tvg-id="CKCODT" tvc-guide-stationid="72614",CKCO-DT (CTV)
+http://example.local/USA-CKCODT.ts
 #EXTINF:-1 tvg-chno="102632" tvg-name="CKCU 93.1FM Carleton U. Ottawa" group-title="Canada" tvg-id="CKCUFM" tvc-guide-stationid="102632",CKCU 93.1FM Carleton U. Ottawa
 http://example.local/CAN-CKCUFM.ts
 #EXTINF:-1 tvg-chno="16544" tvg-name="CKCW (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10108_ll_h15_ab.png" group-title="Canada" tvg-id="CKCW" tvc-guide-stationid="16544",CKCW (CTV)
@@ -819,22 +905,22 @@ http://example.local/CAN-CKLT.ts
 http://example.local/CAN-CKLTDT.ts
 #EXTINF:-1 tvg-chno="89337" tvg-name="CKMA 93.7 FM Miramichi" group-title="Canada" tvg-id="CKMA" tvc-guide-stationid="89337",CKMA 93.7 FM Miramichi
 http://example.local/CAN-CKMA.ts
-#EXTINF:-1 tvg-chno="73012" tvg-name="CKMI-DT2 (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s110839_ll_h15_aa.png" group-title="United States" tvg-id="CKMIDT2" tvc-guide-stationid="73012",CKMI-DT2 (GLOBAL)
-http://example.local/USA-CKMIDT2.ts
 #EXTINF:-1 tvg-chno="73012" tvg-name="CKMI-DT2 (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s110839_ll_h15_aa.png" group-title="Canada" tvg-id="CKMIDT2" tvc-guide-stationid="73012",CKMI-DT2 (GLOBAL)
 http://example.local/CAN-CKMIDT2.ts
-#EXTINF:-1 tvg-chno="73014" tvg-name="CKMIDT1 - Montreal QC Repeater (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s17406_ll_h15_ac.png" group-title="United States" tvg-id="CKMIDT1" tvc-guide-stationid="73014",CKMIDT1 - Montreal QC Repeater (GLOBAL)
-http://example.local/USA-CKMIDT1.ts
+#EXTINF:-1 tvg-chno="73012" tvg-name="CKMI-DT2 (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s110839_ll_h15_aa.png" group-title="United States" tvg-id="CKMIDT2" tvc-guide-stationid="73012",CKMI-DT2 (GLOBAL)
+http://example.local/USA-CKMIDT2.ts
 #EXTINF:-1 tvg-chno="73014" tvg-name="CKMIDT1 - Montreal QC Repeater (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s17406_ll_h15_ac.png" group-title="Canada" tvg-id="CKMIDT1" tvc-guide-stationid="73014",CKMIDT1 - Montreal QC Repeater (GLOBAL)
 http://example.local/CAN-CKMIDT1.ts
-#EXTINF:-1 tvg-chno="74980" tvg-name="CKMIDT1 SD - Montreal QC Repeater (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s17406_ll_h15_ac.png" group-title="United States" tvg-id="CKMID1S" tvc-guide-stationid="74980",CKMIDT1 SD - Montreal QC Repeater (GLOBAL)
-http://example.local/USA-CKMID1S.ts
+#EXTINF:-1 tvg-chno="73014" tvg-name="CKMIDT1 - Montreal QC Repeater (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s17406_ll_h15_ac.png" group-title="United States" tvg-id="CKMIDT1" tvc-guide-stationid="73014",CKMIDT1 - Montreal QC Repeater (GLOBAL)
+http://example.local/USA-CKMIDT1.ts
 #EXTINF:-1 tvg-chno="74980" tvg-name="CKMIDT1 SD - Montreal QC Repeater (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s17406_ll_h15_ac.png" group-title="Canada" tvg-id="CKMID1S" tvc-guide-stationid="74980",CKMIDT1 SD - Montreal QC Repeater (GLOBAL)
 http://example.local/CAN-CKMID1S.ts
-#EXTINF:-1 tvg-chno="90384" tvg-name="CKMIDT2 SD - Sherbrooke QC Repeater (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s110839_ll_h15_aa.png" group-title="United States" tvg-id="CKMID2S" tvc-guide-stationid="90384",CKMIDT2 SD - Sherbrooke QC Repeater (GLOBAL)
-http://example.local/USA-CKMID2S.ts
+#EXTINF:-1 tvg-chno="74980" tvg-name="CKMIDT1 SD - Montreal QC Repeater (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s17406_ll_h15_ac.png" group-title="United States" tvg-id="CKMID1S" tvc-guide-stationid="74980",CKMIDT1 SD - Montreal QC Repeater (GLOBAL)
+http://example.local/USA-CKMID1S.ts
 #EXTINF:-1 tvg-chno="90384" tvg-name="CKMIDT2 SD - Sherbrooke QC Repeater (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s110839_ll_h15_aa.png" group-title="Canada" tvg-id="CKMID2S" tvc-guide-stationid="90384",CKMIDT2 SD - Sherbrooke QC Repeater (GLOBAL)
 http://example.local/CAN-CKMID2S.ts
+#EXTINF:-1 tvg-chno="90384" tvg-name="CKMIDT2 SD - Sherbrooke QC Repeater (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s110839_ll_h15_aa.png" group-title="United States" tvg-id="CKMID2S" tvc-guide-stationid="90384",CKMIDT2 SD - Sherbrooke QC Repeater (GLOBAL)
+http://example.local/USA-CKMID2S.ts
 #EXTINF:-1 tvg-chno="102629" tvg-name="CKMS FM Waterloo" group-title="Canada" tvg-id="CKMSFM" tvc-guide-stationid="102629",CKMS FM Waterloo
 http://example.local/CAN-CKMSFM.ts
 #EXTINF:-1 tvg-chno="73793" tvg-name="CKND-DT2 (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s110839_ll_h15_aa.png" group-title="Canada" tvg-id="CKNDDT2" tvc-guide-stationid="73793",CKND-DT2 (GLOBAL)
@@ -853,14 +939,14 @@ http://example.local/CAN-CKOTFM.ts
 http://example.local/CAN-CKPG.ts
 #EXTINF:-1 tvg-chno="73531" tvg-name="CKPG HD Cable Feed" tvg-logo="https://zap2it.tmsimg.com/assets/s73531_ll_h15_aa.png" group-title="Canada" tvg-id="CKPGHD" tvc-guide-stationid="73531",CKPG HD Cable Feed
 http://example.local/CAN-CKPGHD.ts
-#EXTINF:-1 tvg-chno="15463" tvg-name="CKPR Thunder Bay" tvg-logo="https://zap2it.tmsimg.com/assets/s15463_ll_h15_aa.png" group-title="United Kingdom" tvg-id="CKPR" tvc-guide-stationid="15463",CKPR Thunder Bay
-http://example.local/GBR-CKPR.ts
 #EXTINF:-1 tvg-chno="15463" tvg-name="CKPR Thunder Bay" tvg-logo="https://zap2it.tmsimg.com/assets/s15463_ll_h15_aa.png" group-title="Canada" tvg-id="CKPR" tvc-guide-stationid="15463",CKPR Thunder Bay
 http://example.local/CAN-CKPR.ts
-#EXTINF:-1 tvg-chno="72871" tvg-name="CKPR Thunder Bay HD" tvg-logo="https://zap2it.tmsimg.com/assets/s72871_ll_h15_aa.png" group-title="United States" tvg-id="CKPRDT" tvc-guide-stationid="72871",CKPR Thunder Bay HD
-http://example.local/USA-CKPRDT.ts
+#EXTINF:-1 tvg-chno="15463" tvg-name="CKPR Thunder Bay" tvg-logo="https://zap2it.tmsimg.com/assets/s15463_ll_h15_aa.png" group-title="United Kingdom" tvg-id="CKPR" tvc-guide-stationid="15463",CKPR Thunder Bay
+http://example.local/GBR-CKPR.ts
 #EXTINF:-1 tvg-chno="72871" tvg-name="CKPR Thunder Bay HD" tvg-logo="https://zap2it.tmsimg.com/assets/s72871_ll_h15_aa.png" group-title="Canada" tvg-id="CKPRDT" tvc-guide-stationid="72871",CKPR Thunder Bay HD
 http://example.local/CAN-CKPRDT.ts
+#EXTINF:-1 tvg-chno="72871" tvg-name="CKPR Thunder Bay HD" tvg-logo="https://zap2it.tmsimg.com/assets/s72871_ll_h15_aa.png" group-title="United States" tvg-id="CKPRDT" tvc-guide-stationid="72871",CKPR Thunder Bay HD
+http://example.local/USA-CKPRDT.ts
 #EXTINF:-1 tvg-chno="72970" tvg-name="CKRNDT (SRC)" tvg-logo="https://zap2it.tmsimg.com/assets/s16371_ll_h15_ae.png" group-title="Canada" tvg-id="CKRNDT" tvc-guide-stationid="72970",CKRNDT (SRC)
 http://example.local/CAN-CKRNDT.ts
 #EXTINF:-1 tvg-chno="117870" tvg-name="CKRO FM Pokemouche" group-title="Canada" tvg-id="CKROFM" tvc-guide-stationid="117870",CKRO FM Pokemouche
@@ -877,14 +963,14 @@ http://example.local/CAN-CKRZFM.ts
 http://example.local/CAN-CKSADT.ts
 #EXTINF:-1 tvg-chno="61984" tvg-name="CKSB-FM" group-title="Canada" tvg-id="CKSBFM" tvc-guide-stationid="61984",CKSB-FM
 http://example.local/CAN-CKSBFM.ts
-#EXTINF:-1 tvg-chno="10134" tvg-name="CKSH (SRC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10134_ll_h9_ab.png" group-title="United States" tvg-id="CKSH" tvc-guide-stationid="10134",CKSH (SRC)
-http://example.local/USA-CKSH.ts
 #EXTINF:-1 tvg-chno="10134" tvg-name="CKSH (SRC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10134_ll_h9_ab.png" group-title="Canada" tvg-id="CKSH" tvc-guide-stationid="10134",CKSH (SRC)
 http://example.local/CAN-CKSH.ts
-#EXTINF:-1 tvg-chno="72980" tvg-name="CKSH-DT (SRC)" tvg-logo="https://zap2it.tmsimg.com/assets/s72980_ll_h15_ac.png" group-title="United States" tvg-id="CKSHDT" tvc-guide-stationid="72980",CKSH-DT (SRC)
-http://example.local/USA-CKSHDT.ts
+#EXTINF:-1 tvg-chno="10134" tvg-name="CKSH (SRC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10134_ll_h9_ab.png" group-title="United States" tvg-id="CKSH" tvc-guide-stationid="10134",CKSH (SRC)
+http://example.local/USA-CKSH.ts
 #EXTINF:-1 tvg-chno="72980" tvg-name="CKSH-DT (SRC)" tvg-logo="https://zap2it.tmsimg.com/assets/s72980_ll_h15_ac.png" group-title="Canada" tvg-id="CKSHDT" tvc-guide-stationid="72980",CKSH-DT (SRC)
 http://example.local/CAN-CKSHDT.ts
+#EXTINF:-1 tvg-chno="72980" tvg-name="CKSH-DT (SRC)" tvg-logo="https://zap2it.tmsimg.com/assets/s72980_ll_h15_ac.png" group-title="United States" tvg-id="CKSHDT" tvc-guide-stationid="72980",CKSH-DT (SRC)
+http://example.local/USA-CKSHDT.ts
 #EXTINF:-1 tvg-chno="16831" tvg-name="CKTM (SRC)" tvg-logo="https://zap2it.tmsimg.com/assets/s16371_ll_h15_ae.png" group-title="Canada" tvg-id="CKTM" tvc-guide-stationid="16831",CKTM (SRC)
 http://example.local/CAN-CKTM.ts
 #EXTINF:-1 tvg-chno="72986" tvg-name="CKTM-DT (SRC)" tvg-logo="https://zap2it.tmsimg.com/assets/s16371_ll_h15_ae.png" group-title="Canada" tvg-id="CKTMDT" tvc-guide-stationid="72986",CKTM-DT (SRC)
@@ -903,28 +989,28 @@ http://example.local/CAN-CKUNFM.ts
 http://example.local/CAN-CKUT.ts
 #EXTINF:-1 tvg-chno="61996" tvg-name="CKUW 95.9FM Community & Campus Radio (CKUW)" group-title="Canada" tvg-id="CKUW" tvc-guide-stationid="61996",CKUW 95.9FM Community & Campus Radio (CKUW)
 http://example.local/CAN-CKUW.ts
-#EXTINF:-1 tvg-chno="79053" tvg-name="CKVP-DT (CTV2)" tvg-logo="https://zap2it.tmsimg.com/assets/s10135_ll_h15_ab.png" group-title="United States" tvg-id="CKVPDT" tvc-guide-stationid="79053",CKVP-DT (CTV2)
-http://example.local/USA-CKVPDT.ts
 #EXTINF:-1 tvg-chno="79053" tvg-name="CKVP-DT (CTV2)" tvg-logo="https://zap2it.tmsimg.com/assets/s10135_ll_h15_ab.png" group-title="Canada" tvg-id="CKVPDT" tvc-guide-stationid="79053",CKVP-DT (CTV2)
 http://example.local/CAN-CKVPDT.ts
-#EXTINF:-1 tvg-chno="73150" tvg-name="CKVU-DT2" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_ll_h15_ab.png" group-title="United States" tvg-id="CKVUDT2" tvc-guide-stationid="73150",CKVU-DT2
-http://example.local/USA-CKVUDT2.ts
+#EXTINF:-1 tvg-chno="79053" tvg-name="CKVP-DT (CTV2)" tvg-logo="https://zap2it.tmsimg.com/assets/s10135_ll_h15_ab.png" group-title="United States" tvg-id="CKVPDT" tvc-guide-stationid="79053",CKVP-DT (CTV2)
+http://example.local/USA-CKVPDT.ts
 #EXTINF:-1 tvg-chno="73150" tvg-name="CKVU-DT2" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_ll_h15_ab.png" group-title="Canada" tvg-id="CKVUDT2" tvc-guide-stationid="73150",CKVU-DT2
 http://example.local/CAN-CKVUDT2.ts
+#EXTINF:-1 tvg-chno="73150" tvg-name="CKVU-DT2" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_ll_h15_ab.png" group-title="United States" tvg-id="CKVUDT2" tvc-guide-stationid="73150",CKVU-DT2
+http://example.local/USA-CKVUDT2.ts
 #EXTINF:-1 tvg-chno="94769" tvg-name="CKWR Radio" group-title="Canada" tvg-id="CKWRFM" tvc-guide-stationid="94769",CKWR Radio
 http://example.local/CAN-CKWRFM.ts
-#EXTINF:-1 tvg-chno="10137" tvg-name="CKWS" tvg-logo="https://zap2it.tmsimg.com/assets/s10137_ll_h15_ac.png" group-title="United States" tvg-id="CKWS" tvc-guide-stationid="10137",CKWS
-http://example.local/USA-CKWS.ts
 #EXTINF:-1 tvg-chno="10137" tvg-name="CKWS" tvg-logo="https://zap2it.tmsimg.com/assets/s10137_ll_h15_ac.png" group-title="Canada" tvg-id="CKWS" tvc-guide-stationid="10137",CKWS
 http://example.local/CAN-CKWS.ts
-#EXTINF:-1 tvg-chno="85778" tvg-name="CKWS-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s85778_ll_h15_ab.png" group-title="United States" tvg-id="CKWSDT" tvc-guide-stationid="85778",CKWS-DT
-http://example.local/USA-CKWSDT.ts
+#EXTINF:-1 tvg-chno="10137" tvg-name="CKWS" tvg-logo="https://zap2it.tmsimg.com/assets/s10137_ll_h15_ac.png" group-title="United States" tvg-id="CKWS" tvc-guide-stationid="10137",CKWS
+http://example.local/USA-CKWS.ts
 #EXTINF:-1 tvg-chno="85778" tvg-name="CKWS-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s85778_ll_h15_ab.png" group-title="Canada" tvg-id="CKWSDT" tvc-guide-stationid="85778",CKWS-DT
 http://example.local/CAN-CKWSDT.ts
-#EXTINF:-1 tvg-chno="73586" tvg-name="CKWSDT1" group-title="United States" tvg-id="CKWSDT1" tvc-guide-stationid="73586",CKWSDT1
-http://example.local/USA-CKWSDT1.ts
+#EXTINF:-1 tvg-chno="85778" tvg-name="CKWS-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s85778_ll_h15_ab.png" group-title="United States" tvg-id="CKWSDT" tvc-guide-stationid="85778",CKWS-DT
+http://example.local/USA-CKWSDT.ts
 #EXTINF:-1 tvg-chno="73586" tvg-name="CKWSDT1" group-title="Canada" tvg-id="CKWSDT1" tvc-guide-stationid="73586",CKWSDT1
 http://example.local/CAN-CKWSDT1.ts
+#EXTINF:-1 tvg-chno="73586" tvg-name="CKWSDT1" group-title="United States" tvg-id="CKWSDT1" tvc-guide-stationid="73586",CKWSDT1
+http://example.local/USA-CKWSDT1.ts
 #EXTINF:-1 tvg-chno="64444" tvg-name="CKXA-FM" tvg-logo="https://zap2it.tmsimg.com/assets/s64444_ll_h15_aa.png" group-title="Canada" tvg-id="CKXAFM" tvc-guide-stationid="64444",CKXA-FM
 http://example.local/CAN-CKXAFM.ts
 #EXTINF:-1 tvg-chno="70963" tvg-name="CKY HD (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10108_ll_h15_ab.png" group-title="United States" tvg-id="CKYHD" tvc-guide-stationid="70963",CKY HD (CTV)
@@ -933,89 +1019,3 @@ http://example.local/USA-CKYHD.ts
 http://example.local/CAN-CKZZ.ts
 #EXTINF:-1 tvg-chno="100109" tvg-name="CL beIN Sports English SD in Spanish" group-title="United States" tvg-id="BEINS1S" tvc-guide-stationid="100109",CL beIN Sports English SD in Spanish
 http://example.local/USA-BEINS1S.ts
-#EXTINF:-1 tvg-chno="100110" tvg-name="CL beIN Sports Spanish HD in English" group-title="United States" tvg-id="BIN2HDE" tvc-guide-stationid="100110",CL beIN Sports Spanish HD in English
-http://example.local/USA-BIN2HDE.ts
-#EXTINF:-1 tvg-chno="110045" tvg-name="Clan" tvg-logo="https://zap2it.tmsimg.com/assets/s110045_ll_h15_aa.png" group-title="Mexico" tvg-id="CLAN" tvc-guide-stationid="110045",Clan
-http://example.local/MEX-CLAN.ts
-#EXTINF:-1 tvg-chno="110045" tvg-name="Clan" tvg-logo="https://zap2it.tmsimg.com/assets/s110045_ll_h15_aa.png" group-title="United States" tvg-id="CLAN" tvc-guide-stationid="110045",Clan
-http://example.local/USA-CLAN.ts
-#EXTINF:-1 tvg-chno="110045" tvg-name="Clan" tvg-logo="https://zap2it.tmsimg.com/assets/s110045_ll_h15_aa.png" group-title="Peru" tvg-id="CLAN" tvc-guide-stationid="110045",Clan
-http://example.local/PER-CLAN.ts
-#EXTINF:-1 tvg-chno="110045" tvg-name="Clan" tvg-logo="https://zap2it.tmsimg.com/assets/s110045_ll_h15_aa.png" group-title="Argentina" tvg-id="CLAN" tvc-guide-stationid="110045",Clan
-http://example.local/ARG-CLAN.ts
-#EXTINF:-1 tvg-chno="110045" tvg-name="Clan" tvg-logo="https://zap2it.tmsimg.com/assets/s110045_ll_h15_aa.png" group-title="Colombia" tvg-id="CLAN" tvc-guide-stationid="110045",Clan
-http://example.local/COL-CLAN.ts
-#EXTINF:-1 tvg-chno="110045" tvg-name="Clan" tvg-logo="https://zap2it.tmsimg.com/assets/s110045_ll_h15_aa.png" group-title="Uruguay" tvg-id="CLAN" tvc-guide-stationid="110045",Clan
-http://example.local/URY-CLAN.ts
-#EXTINF:-1 tvg-chno="86931" tvg-name="Clan TVE" tvg-logo="https://zap2it.tmsimg.com/assets/s86931_ll_h15_ab.png" group-title="Costa Rica" tvg-id="CLANTVE" tvc-guide-stationid="86931",Clan TVE
-http://example.local/CRI-CLANTVE.ts
-#EXTINF:-1 tvg-chno="106102" tvg-name="Clan TVE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106102_ll_h15_aa.png" group-title="Spain" tvg-id="CLANHD" tvc-guide-stationid="106102",Clan TVE HD
-http://example.local/ESP-CLANHD.ts
-#EXTINF:-1 tvg-chno="106102" tvg-name="Clan TVE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106102_ll_h15_aa.png" group-title="Germany" tvg-id="CLANHD" tvc-guide-stationid="106102",Clan TVE HD
-http://example.local/DEU-CLANHD.ts
-#EXTINF:-1 tvg-chno="181760" tvg-name="Clarity" group-title="United States" tvg-id="CLARITY" tvc-guide-stationid="181760",Clarity
-http://example.local/USA-CLARITY.ts
-#EXTINF:-1 tvg-chno="93690" tvg-name="Clark County Television CCTV4" group-title="United States" tvg-id="CLRKCOT" tvc-guide-stationid="93690",Clark County Television CCTV4
-http://example.local/USA-CLRKCOT.ts
-#EXTINF:-1 tvg-chno="104119" tvg-name="Clark County Television CCTV4 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104119_ll_h15_aa.png" group-title="United States" tvg-id="CLRKCOH" tvc-guide-stationid="104119",Clark County Television CCTV4 HD
-http://example.local/USA-CLRKCOH.ts
-#EXTINF:-1 tvg-chno="88511" tvg-name="Claro Chile Sextreme Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s72143_ll_h15_aa.png" group-title="Chile" tvg-id="CLCSEXT" tvc-guide-stationid="88511",Claro Chile Sextreme Channel
-http://example.local/CHL-CLCSEXT.ts
-#EXTINF:-1 tvg-chno="88510" tvg-name="Claro Chile Venus Channel" group-title="Chile" tvg-id="CLCVNUS" tvc-guide-stationid="88510",Claro Chile Venus Channel
-http://example.local/CHL-CLCVNUS.ts
-#EXTINF:-1 tvg-chno="97501" tvg-name="Claro Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s106711_ll_h15_aa.png" group-title="Mexico" tvg-id="CLACI" tvc-guide-stationid="97501",Claro Cinema
-http://example.local/MEX-CLACI.ts
-#EXTINF:-1 tvg-chno="97501" tvg-name="Claro Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s106711_ll_h15_aa.png" group-title="United States" tvg-id="CLACI" tvc-guide-stationid="97501",Claro Cinema
-http://example.local/USA-CLACI.ts
-#EXTINF:-1 tvg-chno="97501" tvg-name="Claro Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s106711_ll_h15_aa.png" group-title="Peru" tvg-id="CLACI" tvc-guide-stationid="97501",Claro Cinema
-http://example.local/PER-CLACI.ts
-#EXTINF:-1 tvg-chno="97501" tvg-name="Claro Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s106711_ll_h15_aa.png" group-title="Colombia" tvg-id="CLACI" tvc-guide-stationid="97501",Claro Cinema
-http://example.local/COL-CLACI.ts
-#EXTINF:-1 tvg-chno="97501" tvg-name="Claro Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s106711_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="CLACI" tvc-guide-stationid="97501",Claro Cinema
-http://example.local/DOM-CLACI.ts
-#EXTINF:-1 tvg-chno="97501" tvg-name="Claro Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s106711_ll_h15_aa.png" group-title="Chile" tvg-id="CLACI" tvc-guide-stationid="97501",Claro Cinema
-http://example.local/CHL-CLACI.ts
-#EXTINF:-1 tvg-chno="106711" tvg-name="Claro Cinema HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106711_h3_ba.png" group-title="Mexico" tvg-id="CLACIHD" tvc-guide-stationid="106711",Claro Cinema HD
-http://example.local/MEX-CLACIHD.ts
-#EXTINF:-1 tvg-chno="111170" tvg-name="Claro Música Me Gusta" tvg-logo="https://zap2it.tmsimg.com/assets/s111170_ll_h15_aa.png" group-title="Colombia" tvg-id="MEGUS" tvc-guide-stationid="111170",Claro Música Me Gusta
-http://example.local/COL-MEGUS.ts
-#EXTINF:-1 tvg-chno="80039" tvg-name="Claro Música TV" tvg-logo="https://zap2it.tmsimg.com/assets/s80039_ll_h15_aa.png" group-title="Colombia" tvg-id="RADIOLA" tvc-guide-stationid="80039",Claro Música TV
-http://example.local/COL-RADIOLA.ts
-#EXTINF:-1 tvg-chno="111167" tvg-name="Claro Música TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s80039_ll_h15_aa.png" group-title="Colombia" tvg-id="RADIOLH" tvc-guide-stationid="111167",Claro Música TV HD
-http://example.local/COL-RADIOLH.ts
-#EXTINF:-1 tvg-chno="137396" tvg-name="Claro Promo" group-title="United States" tvg-id="CLPROMO" tvc-guide-stationid="137396",Claro Promo
-http://example.local/USA-CLPROMO.ts
-#EXTINF:-1 tvg-chno="102131" tvg-name="CLARO Puerto Rico PPV2 HD" group-title="United States" tvg-id="CPPV2HD" tvc-guide-stationid="102131",CLARO Puerto Rico PPV2 HD
-http://example.local/USA-CPPV2HD.ts
-#EXTINF:-1 tvg-chno="72291" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72291_ll_h15_ab.png" group-title="Mexico" tvg-id="CLAROSP" tvc-guide-stationid="72291",Claro Sports
-http://example.local/MEX-CLAROSP.ts
-#EXTINF:-1 tvg-chno="115713" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72291_ll_h15_ab.png" group-title="Mexico" tvg-id="CLARDIS" tvc-guide-stationid="115713",Claro Sports
-http://example.local/MEX-CLARDIS.ts
-#EXTINF:-1 tvg-chno="115714" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72291_ll_h15_ab.png" group-title="Mexico" tvg-id="CLARDIH" tvc-guide-stationid="115714",Claro Sports
-http://example.local/MEX-CLARDIH.ts
-#EXTINF:-1 tvg-chno="86779" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s86779_h3_ba.png" group-title="Mexico" tvg-id="CLAJO4S" tvc-guide-stationid="86779",Claro Sports
-http://example.local/MEX-CLAJO4S.ts
-#EXTINF:-1 tvg-chno="87029" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s86779_ll_h15_ab.png" group-title="Mexico" tvg-id="CLARJO4" tvc-guide-stationid="87029",Claro Sports
-http://example.local/MEX-CLARJO4.ts
-#EXTINF:-1 tvg-chno="84479" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72291_h3_aa.png" group-title="Mexico" tvg-id="CLAROHD" tvc-guide-stationid="84479",Claro Sports
-http://example.local/MEX-CLAROHD.ts
-#EXTINF:-1 tvg-chno="118938" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s119144_ll_h15_aa.png" group-title="Mexico" tvg-id="CLARJO3" tvc-guide-stationid="118938",Claro Sports
-http://example.local/MEX-CLARJO3.ts
-#EXTINF:-1 tvg-chno="118937" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s119143_ll_h15_aa.png" group-title="Mexico" tvg-id="CLARJO2" tvc-guide-stationid="118937",Claro Sports
-http://example.local/MEX-CLARJO2.ts
-#EXTINF:-1 tvg-chno="84479" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72291_h3_aa.png" group-title="Peru" tvg-id="CLAROHD" tvc-guide-stationid="84479",Claro Sports
-http://example.local/PER-CLAROHD.ts
-#EXTINF:-1 tvg-chno="72291" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72291_ll_h15_ab.png" group-title="Guatemala" tvg-id="CLAROSP" tvc-guide-stationid="72291",Claro Sports
-http://example.local/GTM-CLAROSP.ts
-#EXTINF:-1 tvg-chno="87029" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s86779_ll_h15_ab.png" group-title="Brazil" tvg-id="CLARJO4" tvc-guide-stationid="87029",Claro Sports
-http://example.local/BRA-CLARJO4.ts
-#EXTINF:-1 tvg-chno="118938" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s119144_ll_h15_aa.png" group-title="Brazil" tvg-id="CLARJO3" tvc-guide-stationid="118938",Claro Sports
-http://example.local/BRA-CLARJO3.ts
-#EXTINF:-1 tvg-chno="84479" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72291_h3_aa.png" group-title="Brazil" tvg-id="CLAROHD" tvc-guide-stationid="84479",Claro Sports
-http://example.local/BRA-CLAROHD.ts
-#EXTINF:-1 tvg-chno="72291" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72291_ll_h15_ab.png" group-title="Ecuador" tvg-id="CLAROSP" tvc-guide-stationid="72291",Claro Sports
-http://example.local/ECU-CLAROSP.ts
-#EXTINF:-1 tvg-chno="88544" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72291_ll_h15_ab.png" group-title="Ecuador" tvg-id="CSPCAM" tvc-guide-stationid="88544",Claro Sports
-http://example.local/ECU-CSPCAM.ts
-#EXTINF:-1 tvg-chno="84479" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72291_h3_aa.png" group-title="Ecuador" tvg-id="CLAROHD" tvc-guide-stationid="84479",Claro Sports
-http://example.local/ECU-CLAROHD.ts

@@ -35,6 +35,8 @@ http://example.local/GBR-5ACTSVM.ts
 http://example.local/GBR-5ACTION.ts
 #EXTINF:-1 tvg-chno="109061" tvg-name="5 Action HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109061_ll_h15_ab.png" group-title="United Kingdom" tvg-id="5ACTVM" tvc-guide-stationid="109061",5 Action HD
 http://example.local/GBR-5ACTVM.ts
+#EXTINF:-1 tvg-chno="139556" tvg-name="5 Cops on PlutoTV (HZN)" tvg-logo="https://zap2it.tmsimg.com/assets/s139556_ll_h9_ab.png" group-title="United Kingdom" tvg-id="5COPHZNVM" tvc-guide-stationid="139556",5 Cops on PlutoTV (HZN)
+http://example.local/GBR-5COPHZNVM.ts
 #EXTINF:-1 tvg-chno="139536" tvg-name="5 Cops on PlutoTV (TiVo)" tvg-logo="https://zap2it.tmsimg.com/assets/s139536_ll_h9_ab.png" group-title="United Kingdom" tvg-id="FAST3VM" tvc-guide-stationid="139536",5 Cops on PlutoTV (TiVo)
 http://example.local/GBR-FAST3VM.ts
 #EXTINF:-1 tvg-chno="50717" tvg-name="5 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s50717_ll_h15_ab.png" group-title="United Kingdom" tvg-id="CH5HD" tvc-guide-stationid="50717",5 HD
@@ -47,6 +49,10 @@ http://example.local/GBR-5ST.ts
 http://example.local/GBR-5STAP1.ts
 #EXTINF:-1 tvg-chno="100260" tvg-name="5 Star +1" tvg-logo="https://zap2it.tmsimg.com/assets/s100260_ll_h15_aa.png" group-title="United Kingdom" tvg-id="5STP1VM" tvc-guide-stationid="100260",5 Star +1
 http://example.local/GBR-5STP1VM.ts
+#EXTINF:-1 tvg-chno="200906" tvg-name="5 USA+1 Eng/Wales/NI" group-title="United Kingdom" tvg-id="5US1EWVM" tvc-guide-stationid="200906",5 USA+1 Eng/Wales/NI
+http://example.local/GBR-5US1EWVM.ts
+#EXTINF:-1 tvg-chno="200909" tvg-name="5 USA+1 Scotland" group-title="United Kingdom" tvg-id="5US1SVM" tvc-guide-stationid="200909",5 USA+1 Scotland
+http://example.local/GBR-5US1SVM.ts
 #EXTINF:-1 tvg-chno="56888" tvg-name="5SELECT" tvg-logo="https://zap2it.tmsimg.com/assets/s56888_ll_h15_ab.png" group-title="United Kingdom" tvg-id="5SELECT" tvc-guide-stationid="56888",5SELECT
 http://example.local/GBR-5SELECT.ts
 #EXTINF:-1 tvg-chno="52335" tvg-name="5USA" tvg-logo="https://zap2it.tmsimg.com/assets/s52335_ll_h15_ad.png" group-title="United Kingdom" tvg-id="5USA" tvc-guide-stationid="52335",5USA
@@ -95,10 +101,12 @@ http://example.local/GBR-AHLUL.ts
 http://example.local/GBR-AKAAL.ts
 #EXTINF:-1 tvg-chno="43786" tvg-name="Al Arabiya" tvg-logo="https://zap2it.tmsimg.com/assets/s43786_ll_h9_ab.png" group-title="United Kingdom" tvg-id="ARABIYA" tvc-guide-stationid="43786",Al Arabiya
 http://example.local/GBR-ARABIYA.ts
-#EXTINF:-1 tvg-chno="27136" tvg-name="Al Jazeera" tvg-logo="https://zap2it.tmsimg.com/assets/s27136_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ALJAZ" tvc-guide-stationid="27136",Al Jazeera
-http://example.local/GBR-ALJAZ.ts
 #EXTINF:-1 tvg-chno="77775" tvg-name="Al Jazeera" tvg-logo="https://zap2it.tmsimg.com/assets/s77775_ll_h15_ac.png" group-title="United Kingdom" tvg-id="ALJAZEV" tvc-guide-stationid="77775",Al Jazeera
 http://example.local/GBR-ALJAZEV.ts
+#EXTINF:-1 tvg-chno="115648" tvg-name="Al Jazeera" tvg-logo="https://zap2it.tmsimg.com/assets/s115648_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ALJAZE" tvc-guide-stationid="115648",Al Jazeera
+http://example.local/GBR-ALJAZE.ts
+#EXTINF:-1 tvg-chno="27136" tvg-name="Al Jazeera" tvg-logo="https://zap2it.tmsimg.com/assets/s27136_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ALJAZ" tvc-guide-stationid="27136",Al Jazeera
+http://example.local/GBR-ALJAZ.ts
 #EXTINF:-1 tvg-chno="20296" tvg-name="Al Jazeera (Arabic)" tvg-logo="https://zap2it.tmsimg.com/assets/s20296_ll_h15_ab.png" group-title="United Kingdom" tvg-id="ALJZ" tvc-guide-stationid="20296",Al Jazeera (Arabic)
 http://example.local/GBR-ALJZ.ts
 #EXTINF:-1 tvg-chno="78639" tvg-name="Al Jazeera Arabic" tvg-logo="https://zap2it.tmsimg.com/assets/s78639_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ALJAZAR" tvc-guide-stationid="78639",Al Jazeera Arabic
@@ -109,10 +117,10 @@ http://example.local/GBR-ALJAZEN.ts
 http://example.local/GBR-ALJASAP.ts
 #EXTINF:-1 tvg-chno="77776" tvg-name="Al Jazeera HD" tvg-logo="https://zap2it.tmsimg.com/assets/s77776_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ALJAZAV" tvc-guide-stationid="77776",Al Jazeera HD
 http://example.local/GBR-ALJAZAV.ts
-#EXTINF:-1 tvg-chno="102458" tvg-name="Al Jazeera HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49968_ll_h15_ac.png" group-title="United Kingdom" tvg-id="ALJZHDI" tvc-guide-stationid="102458",Al Jazeera HD
-http://example.local/GBR-ALJZHDI.ts
 #EXTINF:-1 tvg-chno="97267" tvg-name="Al Jazeera HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97267_ll_h15_ab.png" group-title="United Kingdom" tvg-id="ALJAZEH" tvc-guide-stationid="97267",Al Jazeera HD
 http://example.local/GBR-ALJAZEH.ts
+#EXTINF:-1 tvg-chno="102458" tvg-name="Al Jazeera HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49968_ll_h15_ac.png" group-title="United Kingdom" tvg-id="ALJZHDI" tvc-guide-stationid="102458",Al Jazeera HD
+http://example.local/GBR-ALJZHDI.ts
 #EXTINF:-1 tvg-chno="112881" tvg-name="Alien Nation by DUST" tvg-logo="https://zap2it.tmsimg.com/assets/s112881_ll_h15_ab.png" group-title="United Kingdom" tvg-id="DUST" tvc-guide-stationid="112881",Alien Nation by DUST
 http://example.local/GBR-DUST.ts
 #EXTINF:-1 tvg-chno="83750" tvg-name="allgäu.tv" tvg-logo="https://zap2it.tmsimg.com/assets/s83750_ll_h15_ab.png" group-title="United Kingdom" tvg-id="ALLGAUN" tvc-guide-stationid="83750",allgäu.tv
@@ -123,8 +131,6 @@ http://example.local/GBR-ALWFV.ts
 http://example.local/GBR-AMAZDIS.ts
 #EXTINF:-1 tvg-chno="148678" tvg-name="Amazing Facts" group-title="United Kingdom" tvg-id="AMFACTS" tvc-guide-stationid="148678",Amazing Facts
 http://example.local/GBR-AMFACTS.ts
-#EXTINF:-1 tvg-chno="141863" tvg-name="AmazingDiscoveries" group-title="United Kingdom" tvg-id="AMDISUK" tvc-guide-stationid="141863",AmazingDiscoveries
-http://example.local/GBR-AMDISUK.ts
 #EXTINF:-1 tvg-chno="187781" tvg-name="AMC CUPID" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00285W4B.png" group-title="United Kingdom" tvg-id="AMCCUPID" tvc-guide-stationid="187781",AMC CUPID
 http://example.local/GBR-AMCCUPID.ts
 #EXTINF:-1 tvg-chno="176692" tvg-name="AMC Reality" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028W34F.png" group-title="United Kingdom" tvg-id="AMCREAL" tvc-guide-stationid="176692",AMC Reality
@@ -153,10 +159,10 @@ http://example.local/GBR-ARAGON.ts
 http://example.local/GBR-ARDALPH.ts
 #EXTINF:-1 tvg-chno="110440" tvg-name="ARD-alpha HD" tvg-logo="https://logos.jesmann.com/ARDALHD.png" group-title="United Kingdom" tvg-id="ARDALHD" tvc-guide-stationid="110440",ARD-alpha HD
 http://example.local/GBR-ARDALHD.ts
-#EXTINF:-1 tvg-chno="120237" tvg-name="Are We There Yet?" tvg-logo="https://zap2it.tmsimg.com/assets/s120237_ll_h15_aa.png" group-title="United Kingdom" tvg-id="AWTY" tvc-guide-stationid="120237",Are We There Yet?
-http://example.local/GBR-AWTY.ts
 #EXTINF:-1 tvg-chno="120377" tvg-name="Are We There Yet?" tvg-logo="https://zap2it.tmsimg.com/assets/s120377_ll_h15_aa.png" group-title="United Kingdom" tvg-id="AWTYSTR" tvc-guide-stationid="120377",Are We There Yet?
 http://example.local/GBR-AWTYSTR.ts
+#EXTINF:-1 tvg-chno="120237" tvg-name="Are We There Yet?" tvg-logo="https://zap2it.tmsimg.com/assets/s120237_ll_h15_aa.png" group-title="United Kingdom" tvg-id="AWTY" tvc-guide-stationid="120237",Are We There Yet?
+http://example.local/GBR-AWTY.ts
 #EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
 http://example.local/GBR-ARANG.ts
 #EXTINF:-1 tvg-chno="119081" tvg-name="Arirang TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119081_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ARIEUHD" tvc-guide-stationid="119081",Arirang TV HD
@@ -175,8 +181,6 @@ http://example.local/GBR-ARTDEUH.ts
 http://example.local/GBR-ARYQTV.ts
 #EXTINF:-1 tvg-chno="165082" tvg-name="Asharq News" group-title="United Kingdom" tvg-id="ASHNEWS" tvc-guide-stationid="165082",Asharq News
 http://example.local/GBR-ASHNEWS.ts
-#EXTINF:-1 tvg-chno="122965" tvg-name="Asharq News" tvg-logo="https://zap2it.tmsimg.com/assets/s122965_ll_h9_aa.png" group-title="United Kingdom" tvg-id="ASHN" tvc-guide-stationid="122965",Asharq News
-http://example.local/GBR-ASHN.ts
 #EXTINF:-1 tvg-chno="123145" tvg-name="Asharq News HD" tvg-logo="https://zap2it.tmsimg.com/assets/s123145_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ASHNEU" tvc-guide-stationid="123145",Asharq News HD
 http://example.local/GBR-ASHNEU.ts
 #EXTINF:-1 tvg-chno="53476" tvg-name="AstroTV" tvg-logo="https://zap2it.tmsimg.com/assets/s53476_ll_h9_aa.png" group-title="United Kingdom" tvg-id="ASTROTV" tvc-guide-stationid="53476",AstroTV
@@ -195,10 +199,10 @@ http://example.local/GBR-B4UMOV.ts
 http://example.local/GBR-B4UMUSV.ts
 #EXTINF:-1 tvg-chno="110099" tvg-name="Babes & Brazzers" tvg-logo="https://zap2it.tmsimg.com/assets/s110099_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BABRVM" tvc-guide-stationid="110099",Babes & Brazzers
 http://example.local/GBR-BABRVM.ts
-#EXTINF:-1 tvg-chno="100427" tvg-name="Babestation" tvg-logo="https://zap2it.tmsimg.com/assets/s100427_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BABESTV" tvc-guide-stationid="100427",Babestation
-http://example.local/GBR-BABESTV.ts
 #EXTINF:-1 tvg-chno="26052" tvg-name="Babestation" tvg-logo="https://zap2it.tmsimg.com/assets/s26052_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BABEST" tvc-guide-stationid="26052",Babestation
 http://example.local/GBR-BABEST.ts
+#EXTINF:-1 tvg-chno="100427" tvg-name="Babestation" tvg-logo="https://zap2it.tmsimg.com/assets/s100427_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BABESTV" tvc-guide-stationid="100427",Babestation
+http://example.local/GBR-BABESTV.ts
 #EXTINF:-1 tvg-chno="105395" tvg-name="Babestation 2" group-title="United Kingdom" tvg-id="BABEST2" tvc-guide-stationid="105395",Babestation 2
 http://example.local/GBR-BABEST2.ts
 #EXTINF:-1 tvg-chno="113312" tvg-name="Babestation 24" group-title="United Kingdom" tvg-id="BABE24D" tvc-guide-stationid="113312",Babestation 24
@@ -245,10 +249,10 @@ http://example.local/GBR-BBC4WSP.ts
 http://example.local/GBR-BBCNEWS.ts
 #EXTINF:-1 tvg-chno="76774" tvg-name="BBC News Europe HD" tvg-logo="https://zap2it.tmsimg.com/assets/s76774_ll_h15_ab.png" group-title="United Kingdom" tvg-id="BBCNEUHD" tvc-guide-stationid="76774",BBC News Europe HD
 http://example.local/GBR-BBCNEUHD.ts
-#EXTINF:-1 tvg-chno="83285" tvg-name="BBC News HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83285_ll_h15_ab.png" group-title="United Kingdom" tvg-id="BBCNWHD" tvc-guide-stationid="83285",BBC News HD
-http://example.local/GBR-BBCNWHD.ts
 #EXTINF:-1 tvg-chno="117458" tvg-name="BBC News HD" tvg-logo="https://zap2it.tmsimg.com/assets/s117458_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBCNSUK" tvc-guide-stationid="117458",BBC News HD
 http://example.local/GBR-BBCNSUK.ts
+#EXTINF:-1 tvg-chno="83285" tvg-name="BBC News HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83285_ll_h15_ab.png" group-title="United Kingdom" tvg-id="BBCNWHD" tvc-guide-stationid="83285",BBC News HD
+http://example.local/GBR-BBCNWHD.ts
 #EXTINF:-1 tvg-chno="17153" tvg-name="BBC One" tvg-logo="https://zap2it.tmsimg.com/assets/s17153_ll_h15_ae.png" group-title="United Kingdom" tvg-id="BBC1" tvc-guide-stationid="17153",BBC One
 http://example.local/GBR-BBC1.ts
 #EXTINF:-1 tvg-chno="68105" tvg-name="BBC One Cambridgeshire (BBC1)" tvg-logo="https://zap2it.tmsimg.com/assets/s68105_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBC1CAM" tvc-guide-stationid="68105",BBC One Cambridgeshire (BBC1)
@@ -293,10 +297,10 @@ http://example.local/GBR-BBC1NWHD.ts
 http://example.local/GBR-BBC1NWHV.ts
 #EXTINF:-1 tvg-chno="21438" tvg-name="BBC One Northern Ireland (BBC1)" tvg-logo="https://zap2it.tmsimg.com/assets/s21438_ll_h15_ac.png" group-title="United Kingdom" tvg-id="BBC1NI" tvc-guide-stationid="21438",BBC One Northern Ireland (BBC1)
 http://example.local/GBR-BBC1NI.ts
-#EXTINF:-1 tvg-chno="77608" tvg-name="BBC One Northern Ireland HD" tvg-logo="https://zap2it.tmsimg.com/assets/s77608_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBC1NIH" tvc-guide-stationid="77608",BBC One Northern Ireland HD
-http://example.local/GBR-BBC1NIH.ts
 #EXTINF:-1 tvg-chno="97070" tvg-name="BBC One Northern Ireland HD (BBC1)" tvg-logo="https://zap2it.tmsimg.com/assets/s97070_ll_h15_am.png" group-title="United Kingdom" tvg-id="BBC1NHD" tvc-guide-stationid="97070",BBC One Northern Ireland HD (BBC1)
 http://example.local/GBR-BBC1NHD.ts
+#EXTINF:-1 tvg-chno="77608" tvg-name="BBC One Northern Ireland HD" tvg-logo="https://zap2it.tmsimg.com/assets/s77608_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBC1NIH" tvc-guide-stationid="77608",BBC One Northern Ireland HD
+http://example.local/GBR-BBC1NIH.ts
 #EXTINF:-1 tvg-chno="122670" tvg-name="BBC One Northern Ireland HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122670_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBC1NIHDVM" tvc-guide-stationid="122670",BBC One Northern Ireland HD
 http://example.local/GBR-BBC1NIHDVM.ts
 #EXTINF:-1 tvg-chno="121749" tvg-name="BBC One Oxford HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121749_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBC1OXHV" tvc-guide-stationid="121749",BBC One Oxford HD
@@ -337,12 +341,12 @@ http://example.local/GBR-BBC1SWHD.ts
 http://example.local/GBR-BBC1SWHV.ts
 #EXTINF:-1 tvg-chno="21441" tvg-name="BBC One Wales (BBC1)" tvg-logo="https://zap2it.tmsimg.com/assets/s21441_ll_h15_ac.png" group-title="United Kingdom" tvg-id="BBC1WAL" tvc-guide-stationid="21441",BBC One Wales (BBC1)
 http://example.local/GBR-BBC1WAL.ts
+#EXTINF:-1 tvg-chno="97072" tvg-name="BBC One Wales HD (BBC1)" tvg-logo="https://zap2it.tmsimg.com/assets/s97072_ll_h15_am.png" group-title="United Kingdom" tvg-id="BBC1WHD" tvc-guide-stationid="97072",BBC One Wales HD (BBC1)
+http://example.local/GBR-BBC1WHD.ts
 #EXTINF:-1 tvg-chno="78994" tvg-name="BBC One Wales HD" tvg-logo="https://zap2it.tmsimg.com/assets/s78994_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBC1WAH" tvc-guide-stationid="78994",BBC One Wales HD
 http://example.local/GBR-BBC1WAH.ts
 #EXTINF:-1 tvg-chno="122671" tvg-name="BBC One Wales HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122671_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBC1WLHDVM" tvc-guide-stationid="122671",BBC One Wales HD
 http://example.local/GBR-BBC1WLHDVM.ts
-#EXTINF:-1 tvg-chno="97072" tvg-name="BBC One Wales HD (BBC1)" tvg-logo="https://zap2it.tmsimg.com/assets/s97072_ll_h15_am.png" group-title="United Kingdom" tvg-id="BBC1WHD" tvc-guide-stationid="97072",BBC One Wales HD (BBC1)
-http://example.local/GBR-BBC1WHD.ts
 #EXTINF:-1 tvg-chno="21788" tvg-name="BBC One West (BBC1)" tvg-logo="https://zap2it.tmsimg.com/assets/s21788_ll_h15_ac.png" group-title="United Kingdom" tvg-id="BBC1WEST" tvc-guide-stationid="21788",BBC One West (BBC1)
 http://example.local/GBR-BBC1WEST.ts
 #EXTINF:-1 tvg-chno="120566" tvg-name="BBC One West HD" tvg-logo="https://zap2it.tmsimg.com/assets/s120566_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBC1WEHD" tvc-guide-stationid="120566",BBC One West HD
@@ -393,66 +397,30 @@ http://example.local/GBR-BBCR5L.ts
 http://example.local/GBR-BBC5LX.ts
 #EXTINF:-1 tvg-chno="30166" tvg-name="BBC Radio 6 Music" tvg-logo="https://zap2it.tmsimg.com/assets/s30166_ll_h15_ab.png" group-title="United Kingdom" tvg-id="BBCR6M" tvc-guide-stationid="30166",BBC Radio 6 Music
 http://example.local/GBR-BBCR6M.ts
-#EXTINF:-1 tvg-chno="82550" tvg-name="BBC Radio Berkshire" tvg-logo="https://zap2it.tmsimg.com/assets/s82550_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBCRBKS" tvc-guide-stationid="82550",BBC Radio Berkshire
-http://example.local/GBR-BBCRBKS.ts
 #EXTINF:-1 tvg-chno="80573" tvg-name="BBC Radio Bristol" tvg-logo="https://zap2it.tmsimg.com/assets/s80573_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRBR" tvc-guide-stationid="80573",BBC Radio Bristol
 http://example.local/GBR-BBCRBR.ts
 #EXTINF:-1 tvg-chno="80574" tvg-name="BBC Radio Cambridgeshire" tvg-logo="https://zap2it.tmsimg.com/assets/s80574_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBCRCA" tvc-guide-stationid="80574",BBC Radio Cambridgeshire
 http://example.local/GBR-BBCRCA.ts
-#EXTINF:-1 tvg-chno="80575" tvg-name="BBC Radio Cornwall" tvg-logo="https://zap2it.tmsimg.com/assets/s80575_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRCO" tvc-guide-stationid="80575",BBC Radio Cornwall
-http://example.local/GBR-BBCRCO.ts
-#EXTINF:-1 tvg-chno="82552" tvg-name="BBC Radio Coventry & Warwickshire" tvg-logo="https://zap2it.tmsimg.com/assets/s82552_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRCW" tvc-guide-stationid="82552",BBC Radio Coventry & Warwickshire
-http://example.local/GBR-BBCRCW.ts
 #EXTINF:-1 tvg-chno="80576" tvg-name="BBC Radio Cumbria" tvg-logo="https://zap2it.tmsimg.com/assets/s80576_ll_h15_ac.png" group-title="United Kingdom" tvg-id="BBCRCU" tvc-guide-stationid="80576",BBC Radio Cumbria
 http://example.local/GBR-BBCRCU.ts
 #EXTINF:-1 tvg-chno="28984" tvg-name="BBC Radio Cymru" tvg-logo="https://zap2it.tmsimg.com/assets/s28984_ll_h9_ac.png" group-title="United Kingdom" tvg-id="BBCYMRU" tvc-guide-stationid="28984",BBC Radio Cymru
 http://example.local/GBR-BBCYMRU.ts
 #EXTINF:-1 tvg-chno="110555" tvg-name="BBC Radio Cymru 2" tvg-logo="https://zap2it.tmsimg.com/assets/s110555_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCYMR2" tvc-guide-stationid="110555",BBC Radio Cymru 2
 http://example.local/GBR-BBCYMR2.ts
-#EXTINF:-1 tvg-chno="82551" tvg-name="BBC Radio Derby" tvg-logo="https://zap2it.tmsimg.com/assets/s82551_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRDRB" tvc-guide-stationid="82551",BBC Radio Derby
-http://example.local/GBR-BBCRDRB.ts
-#EXTINF:-1 tvg-chno="80577" tvg-name="BBC Radio Devon" tvg-logo="https://zap2it.tmsimg.com/assets/s80577_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRDE" tvc-guide-stationid="80577",BBC Radio Devon
-http://example.local/GBR-BBCRDE.ts
-#EXTINF:-1 tvg-chno="33762" tvg-name="BBC Radio Essex" tvg-logo="https://zap2it.tmsimg.com/assets/s33762_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBCREX" tvc-guide-stationid="33762",BBC Radio Essex
-http://example.local/GBR-BBCREX.ts
 #EXTINF:-1 tvg-chno="96945" tvg-name="BBC Radio Foyle" tvg-logo="https://zap2it.tmsimg.com/assets/s96945_ll_h15_ab.png" group-title="United Kingdom" tvg-id="BBCRFYL" tvc-guide-stationid="96945",BBC Radio Foyle
 http://example.local/GBR-BBCRFYL.ts
-#EXTINF:-1 tvg-chno="82553" tvg-name="BBC Radio Gloucestershire" tvg-logo="https://zap2it.tmsimg.com/assets/s82553_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRGLS" tvc-guide-stationid="82553",BBC Radio Gloucestershire
-http://example.local/GBR-BBCRGLS.ts
 #EXTINF:-1 tvg-chno="86838" tvg-name="BBC Radio Guernsey" tvg-logo="https://zap2it.tmsimg.com/assets/s86838_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBCRGUE" tvc-guide-stationid="86838",BBC Radio Guernsey
 http://example.local/GBR-BBCRGUE.ts
-#EXTINF:-1 tvg-chno="82554" tvg-name="BBC Radio Hereford & Worcester" tvg-logo="https://zap2it.tmsimg.com/assets/s82554_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRHW" tvc-guide-stationid="82554",BBC Radio Hereford & Worcester
-http://example.local/GBR-BBCRHW.ts
-#EXTINF:-1 tvg-chno="80578" tvg-name="BBC Radio Humberside" tvg-logo="https://zap2it.tmsimg.com/assets/s80578_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRHU" tvc-guide-stationid="80578",BBC Radio Humberside
-http://example.local/GBR-BBCRHU.ts
 #EXTINF:-1 tvg-chno="86829" tvg-name="BBC Radio Jersey" tvg-logo="https://zap2it.tmsimg.com/assets/s86829_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBCRJER" tvc-guide-stationid="86829",BBC Radio Jersey
 http://example.local/GBR-BBCRJER.ts
-#EXTINF:-1 tvg-chno="80579" tvg-name="BBC Radio Kent" tvg-logo="https://zap2it.tmsimg.com/assets/s80579_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRKE" tvc-guide-stationid="80579",BBC Radio Kent
-http://example.local/GBR-BBCRKE.ts
 #EXTINF:-1 tvg-chno="33764" tvg-name="BBC Radio Lancashire" tvg-logo="https://zap2it.tmsimg.com/assets/s33764_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBCRLC" tvc-guide-stationid="33764",BBC Radio Lancashire
 http://example.local/GBR-BBCRLC.ts
 #EXTINF:-1 tvg-chno="80580" tvg-name="BBC Radio Leeds" tvg-logo="https://zap2it.tmsimg.com/assets/s80580_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRLE" tvc-guide-stationid="80580",BBC Radio Leeds
 http://example.local/GBR-BBCRLE.ts
-#EXTINF:-1 tvg-chno="80581" tvg-name="BBC Radio Leicester" tvg-logo="https://zap2it.tmsimg.com/assets/s80581_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRLCE" tvc-guide-stationid="80581",BBC Radio Leicester
-http://example.local/GBR-BBCRLCE.ts
-#EXTINF:-1 tvg-chno="80582" tvg-name="BBC Radio Lincolnshire" tvg-logo="https://zap2it.tmsimg.com/assets/s80582_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRLI" tvc-guide-stationid="80582",BBC Radio Lincolnshire
-http://example.local/GBR-BBCRLI.ts
 #EXTINF:-1 tvg-chno="25604" tvg-name="BBC Radio London" tvg-logo="https://zap2it.tmsimg.com/assets/s25604_ll_h15_ab.png" group-title="United Kingdom" tvg-id="BBCLON" tvc-guide-stationid="25604",BBC Radio London
 http://example.local/GBR-BBCLON.ts
-#EXTINF:-1 tvg-chno="80583" tvg-name="BBC Radio Manchester" tvg-logo="https://zap2it.tmsimg.com/assets/s80583_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBCRMA" tvc-guide-stationid="80583",BBC Radio Manchester
-http://example.local/GBR-BBCRMA.ts
-#EXTINF:-1 tvg-chno="80584" tvg-name="BBC Radio Merseyside" tvg-logo="https://zap2it.tmsimg.com/assets/s80584_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRME" tvc-guide-stationid="80584",BBC Radio Merseyside
-http://example.local/GBR-BBCRME.ts
 #EXTINF:-1 tvg-chno="27209" tvg-name="BBC Radio nan Gaidheal" tvg-logo="https://zap2it.tmsimg.com/assets/s27209_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRNGD" tvc-guide-stationid="27209",BBC Radio nan Gaidheal
 http://example.local/GBR-BBCRNGD.ts
-#EXTINF:-1 tvg-chno="80585" tvg-name="BBC Radio Newcastle" tvg-logo="https://zap2it.tmsimg.com/assets/s80585_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBCRNE" tvc-guide-stationid="80585",BBC Radio Newcastle
-http://example.local/GBR-BBCRNE.ts
-#EXTINF:-1 tvg-chno="80586" tvg-name="BBC Radio Norfolk" tvg-logo="https://zap2it.tmsimg.com/assets/s80586_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRNO" tvc-guide-stationid="80586",BBC Radio Norfolk
-http://example.local/GBR-BBCRNO.ts
-#EXTINF:-1 tvg-chno="82555" tvg-name="BBC Radio Northampton" tvg-logo="https://zap2it.tmsimg.com/assets/s82555_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRNH" tvc-guide-stationid="82555",BBC Radio Northampton
-http://example.local/GBR-BBCRNH.ts
-#EXTINF:-1 tvg-chno="82556" tvg-name="BBC Radio Nottingham" tvg-logo="https://zap2it.tmsimg.com/assets/s82556_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRNTT" tvc-guide-stationid="82556",BBC Radio Nottingham
-http://example.local/GBR-BBCRNTT.ts
 #EXTINF:-1 tvg-chno="86826" tvg-name="BBC Radio Oxford" tvg-logo="https://zap2it.tmsimg.com/assets/s86826_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBCROXF" tvc-guide-stationid="86826",BBC Radio Oxford
 http://example.local/GBR-BBCROXF.ts
 #EXTINF:-1 tvg-chno="45985" tvg-name="BBC Radio Scotland (FM)" tvg-logo="https://zap2it.tmsimg.com/assets/s45985_ll_h15_ab.png" group-title="United Kingdom" tvg-id="BBCRSFM" tvc-guide-stationid="45985",BBC Radio Scotland (FM)
@@ -461,42 +429,20 @@ http://example.local/GBR-BBCRSFM.ts
 http://example.local/GBR-BBCRSM.ts
 #EXTINF:-1 tvg-chno="80587" tvg-name="BBC Radio Sheffield" tvg-logo="https://zap2it.tmsimg.com/assets/s80587_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBCRSH" tvc-guide-stationid="80587",BBC Radio Sheffield
 http://example.local/GBR-BBCRSH.ts
-#EXTINF:-1 tvg-chno="30964" tvg-name="BBC Radio Shropshire" tvg-logo="https://zap2it.tmsimg.com/assets/s30964_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBCRSHR" tvc-guide-stationid="30964",BBC Radio Shropshire
-http://example.local/GBR-BBCRSHR.ts
 #EXTINF:-1 tvg-chno="82557" tvg-name="BBC Radio Solent" tvg-logo="https://zap2it.tmsimg.com/assets/s82557_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBCRSOL" tvc-guide-stationid="82557",BBC Radio Solent
 http://example.local/GBR-BBCRSOL.ts
-#EXTINF:-1 tvg-chno="82558" tvg-name="BBC Radio Somerset" tvg-logo="https://zap2it.tmsimg.com/assets/s82558_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRSMR" tvc-guide-stationid="82558",BBC Radio Somerset
-http://example.local/GBR-BBCRSMR.ts
 #EXTINF:-1 tvg-chno="82559" tvg-name="BBC Radio Stoke" tvg-logo="https://zap2it.tmsimg.com/assets/s82559_ll_h15_ac.png" group-title="United Kingdom" tvg-id="BBCRSTK" tvc-guide-stationid="82559",BBC Radio Stoke
 http://example.local/GBR-BBCRSTK.ts
-#EXTINF:-1 tvg-chno="80588" tvg-name="BBC Radio Suffolk" tvg-logo="https://zap2it.tmsimg.com/assets/s80588_ll_h9_aa.png" group-title="United Kingdom" tvg-id="BBCRSU" tvc-guide-stationid="80588",BBC Radio Suffolk
-http://example.local/GBR-BBCRSU.ts
-#EXTINF:-1 tvg-chno="86817" tvg-name="BBC Radio Surrey" tvg-logo="https://zap2it.tmsimg.com/assets/s86817_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBCRSUR" tvc-guide-stationid="86817",BBC Radio Surrey
-http://example.local/GBR-BBCRSUR.ts
-#EXTINF:-1 tvg-chno="82560" tvg-name="BBC Radio Sussex" tvg-logo="https://zap2it.tmsimg.com/assets/s82560_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRSSX" tvc-guide-stationid="82560",BBC Radio Sussex
-http://example.local/GBR-BBCRSSX.ts
 #EXTINF:-1 tvg-chno="24451" tvg-name="BBC Radio Ulster" tvg-logo="https://zap2it.tmsimg.com/assets/s24451_ll_h9_aa.png" group-title="United Kingdom" tvg-id="BBCRUL" tvc-guide-stationid="24451",BBC Radio Ulster
 http://example.local/GBR-BBCRUL.ts
 #EXTINF:-1 tvg-chno="24450" tvg-name="BBC Radio Wales" tvg-logo="https://zap2it.tmsimg.com/assets/s24450_ll_h15_ab.png" group-title="United Kingdom" tvg-id="BBCRWL" tvc-guide-stationid="24450",BBC Radio Wales
 http://example.local/GBR-BBCRWL.ts
-#EXTINF:-1 tvg-chno="82561" tvg-name="BBC Radio Wiltshire" tvg-logo="https://zap2it.tmsimg.com/assets/s82561_ll_h9_ab.png" group-title="United Kingdom" tvg-id="BBCRWTS" tvc-guide-stationid="82561",BBC Radio Wiltshire
-http://example.local/GBR-BBCRWTS.ts
-#EXTINF:-1 tvg-chno="80590" tvg-name="BBC Radio WM" tvg-logo="https://zap2it.tmsimg.com/assets/s80590_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBCRWM" tvc-guide-stationid="80590",BBC Radio WM
-http://example.local/GBR-BBCRWM.ts
-#EXTINF:-1 tvg-chno="80591" tvg-name="BBC Radio York" tvg-logo="https://zap2it.tmsimg.com/assets/s80591_ll_h15_ac.png" group-title="United Kingdom" tvg-id="BBCRYO" tvc-guide-stationid="80591",BBC Radio York
-http://example.local/GBR-BBCRYO.ts
 #EXTINF:-1 tvg-chno="81004" tvg-name="BBC Red Button 1" tvg-logo="https://zap2it.tmsimg.com/assets/s81004_ll_h15_ab.png" group-title="United Kingdom" tvg-id="BBCRDB1" tvc-guide-stationid="81004",BBC Red Button 1
 http://example.local/GBR-BBCRDB1.ts
 #EXTINF:-1 tvg-chno="104281" tvg-name="BBC Red Button 2" tvg-logo="https://zap2it.tmsimg.com/assets/s104281_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BRED2" tvc-guide-stationid="104281",BBC Red Button 2
 http://example.local/GBR-BRED2.ts
 #EXTINF:-1 tvg-chno="104282" tvg-name="BBC Red Button 3" tvg-logo="https://zap2it.tmsimg.com/assets/s104282_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BRED3" tvc-guide-stationid="104282",BBC Red Button 3
 http://example.local/GBR-BRED3.ts
-#EXTINF:-1 tvg-chno="104283" tvg-name="BBC Red Button 4" tvg-logo="https://zap2it.tmsimg.com/assets/s104283_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BRED4" tvc-guide-stationid="104283",BBC Red Button 4
-http://example.local/GBR-BRED4.ts
-#EXTINF:-1 tvg-chno="104284" tvg-name="BBC Red Button 5" tvg-logo="https://zap2it.tmsimg.com/assets/s104284_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BRED5" tvc-guide-stationid="104284",BBC Red Button 5
-http://example.local/GBR-BRED5.ts
-#EXTINF:-1 tvg-chno="104286" tvg-name="BBC Red Button 6" tvg-logo="https://zap2it.tmsimg.com/assets/s104286_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BRED6" tvc-guide-stationid="104286",BBC Red Button 6
-http://example.local/GBR-BRED6.ts
 #EXTINF:-1 tvg-chno="95088" tvg-name="BBC Red Button HD" tvg-logo="https://zap2it.tmsimg.com/assets/s95088_ll_h9_aa.png" group-title="United Kingdom" tvg-id="BBCRDBH" tvc-guide-stationid="95088",BBC Red Button HD
 http://example.local/GBR-BBCRDBH.ts
 #EXTINF:-1 tvg-chno="104288" tvg-name="BBC Red Button HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104288_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BREDHD" tvc-guide-stationid="104288",BBC Red Button HD
@@ -509,12 +455,8 @@ http://example.local/GBR-BBCSCOT.ts
 http://example.local/GBR-BBCSEHD.ts
 #EXTINF:-1 tvg-chno="110539" tvg-name="BBC Scotland HD (Scotland)" tvg-logo="https://zap2it.tmsimg.com/assets/s110539_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBCSCVM" tvc-guide-stationid="110539",BBC Scotland HD (Scotland)
 http://example.local/GBR-BBCSCVM.ts
-#EXTINF:-1 tvg-chno="112592" tvg-name="BBC Tees" tvg-logo="https://zap2it.tmsimg.com/assets/s112592_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBCTEES" tvc-guide-stationid="112592",BBC Tees
-http://example.local/GBR-BBCTEES.ts
 #EXTINF:-1 tvg-chno="20683" tvg-name="BBC Three" tvg-logo="https://zap2it.tmsimg.com/assets/s20683_ll_h15_ab.png" group-title="United Kingdom" tvg-id="BBC3" tvc-guide-stationid="20683",BBC Three
 http://example.local/GBR-BBC3.ts
-#EXTINF:-1 tvg-chno="82562" tvg-name="BBC Three Counties Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s82562_ll_h9_aa.png" group-title="United Kingdom" tvg-id="BBCTCR" tvc-guide-stationid="82562",BBC Three Counties Radio
-http://example.local/GBR-BBCTCR.ts
 #EXTINF:-1 tvg-chno="122089" tvg-name="BBC Three HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122089_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BBC3H" tvc-guide-stationid="122089",BBC Three HD
 http://example.local/GBR-BBC3H.ts
 #EXTINF:-1 tvg-chno="17154" tvg-name="BBC Two" tvg-logo="https://zap2it.tmsimg.com/assets/s17154_ll_h15_ab.png" group-title="United Kingdom" tvg-id="BBC2" tvc-guide-stationid="17154",BBC Two
@@ -611,6 +553,8 @@ http://example.local/GBR-BRSUED.ts
 http://example.local/GBR-BRISTV.ts
 #EXTINF:-1 tvg-chno="117241" tvg-name="British Muslim TV" tvg-logo="https://zap2it.tmsimg.com/assets/s117241_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BRMUSTV" tvc-guide-stationid="117241",British Muslim TV
 http://example.local/GBR-BRMUSTV.ts
+#EXTINF:-1 tvg-chno="161500" tvg-name="British Screen Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s161500_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BRSCC" tvc-guide-stationid="161500",British Screen Classics
+http://example.local/GBR-BRSCC.ts
 #EXTINF:-1 tvg-chno="185870" tvg-name="British Screen Classics" group-title="United Kingdom" tvg-id="BRSCCVMT" tvc-guide-stationid="185870",British Screen Classics
 http://example.local/GBR-BRSCCVMT.ts
 #EXTINF:-1 tvg-chno="111272" tvg-name="BT Sport 4K Hidden Content" tvg-logo="https://zap2it.tmsimg.com/assets/s111272_ll_h15_ab.png" group-title="United Kingdom" tvg-id="BTS4KH" tvc-guide-stationid="111272",BT Sport 4K Hidden Content
@@ -619,8 +563,6 @@ http://example.local/GBR-BTS4KH.ts
 http://example.local/GBR-BTSE1VM.ts
 #EXTINF:-1 tvg-chno="111219" tvg-name="BT SPORT HD HIDDEN" tvg-logo="https://zap2it.tmsimg.com/assets/s111219_ll_h15_aa.png" group-title="United Kingdom" tvg-id="BTSPHDH" tvc-guide-stationid="111219",BT SPORT HD HIDDEN
 http://example.local/GBR-BTSPHDH.ts
-#EXTINF:-1 tvg-chno="111218" tvg-name="BT SPORT ULTIMATE POP UP" tvg-logo="https://zap2it.tmsimg.com/assets/s111218_ll_h15_ab.png" group-title="United Kingdom" tvg-id="BTSP4KP" tvc-guide-stationid="111218",BT SPORT ULTIMATE POP UP
-http://example.local/GBR-BTSP4KP.ts
 #EXTINF:-1 tvg-chno="113316" tvg-name="BunnyClub 24" group-title="United Kingdom" tvg-id="BUNNY24" tvc-guide-stationid="113316",BunnyClub 24
 http://example.local/GBR-BUNNY24.ts
 #EXTINF:-1 tvg-chno="90353" tvg-name="Canal 24H" tvg-logo="https://zap2it.tmsimg.com/assets/s90353_ll_h15_aa.png" group-title="United Kingdom" tvg-id="CAN24H" tvc-guide-stationid="90353",Canal 24H
@@ -643,6 +585,8 @@ http://example.local/GBR-CRTONHD.ts
 http://example.local/GBR-CRTONVM.ts
 #EXTINF:-1 tvg-chno="31760" tvg-name="Cartoonito HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31760_ll_h15_ab.png" group-title="United Kingdom" tvg-id="CARNITO" tvc-guide-stationid="31760",Cartoonito HD
 http://example.local/GBR-CARNITO.ts
+#EXTINF:-1 tvg-chno="139566" tvg-name="Catfish on PlutoTV (HZN)" tvg-logo="https://zap2it.tmsimg.com/assets/s139566_ll_h9_aa.png" group-title="United Kingdom" tvg-id="CFHZNVM" tvc-guide-stationid="139566",Catfish on PlutoTV (HZN)
+http://example.local/GBR-CFHZNVM.ts
 #EXTINF:-1 tvg-chno="29324" tvg-name="CBBC" tvg-logo="https://zap2it.tmsimg.com/assets/s29324_ll_h15_ac.png" group-title="United Kingdom" tvg-id="CBBC" tvc-guide-stationid="29324",CBBC
 http://example.local/GBR-CBBC.ts
 #EXTINF:-1 tvg-chno="83281" tvg-name="CBBC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83281_ll_h15_ac.png" group-title="United Kingdom" tvg-id="CBBCHD" tvc-guide-stationid="83281",CBBC HD
@@ -661,8 +605,6 @@ http://example.local/GBR-CGTNDEU.ts
 http://example.local/GBR-CGTNFR.ts
 #EXTINF:-1 tvg-chno="21793" tvg-name="Challenge" tvg-logo="https://zap2it.tmsimg.com/assets/s21793_ll_h15_aa.png" group-title="United Kingdom" tvg-id="CHALL" tvc-guide-stationid="21793",Challenge
 http://example.local/GBR-CHALL.ts
-#EXTINF:-1 tvg-chno="109890" tvg-name="Challenge" tvg-logo="https://zap2it.tmsimg.com/assets/s109890_ll_h15_aa.png" group-title="United Kingdom" tvg-id="CHALLVM" tvc-guide-stationid="109890",Challenge
-http://example.local/GBR-CHALLVM.ts
 #EXTINF:-1 tvg-chno="106914" tvg-name="Channel 21 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106914_ll_h15_ab.png" group-title="United Kingdom" tvg-id="CH21HD" tvc-guide-stationid="106914",Channel 21 HD
 http://example.local/GBR-CH21HD.ts
 #EXTINF:-1 tvg-chno="17155" tvg-name="Channel 4" tvg-logo="https://zap2it.tmsimg.com/assets/s17155_ll_h15_ad.png" group-title="United Kingdom" tvg-id="C4" tvc-guide-stationid="17155",Channel 4
@@ -759,6 +701,8 @@ http://example.local/GBR-CKPR.ts
 http://example.local/GBR-CLASSFM.ts
 #EXTINF:-1 tvg-chno="103259" tvg-name="CLASSIC ROCK" group-title="United Kingdom" tvg-id="MXCRANZ" tvc-guide-stationid="103259",CLASSIC ROCK
 http://example.local/GBR-MXCRANZ.ts
+#EXTINF:-1 tvg-chno="198827" tvg-name="Classica" tvg-logo="https://zap2it.tmsimg.com/assets/s67641_ll_h15_aa.png" group-title="United Kingdom" tvg-id="CLTIVM" tvc-guide-stationid="198827",Classica
+http://example.local/GBR-CLTIVM.ts
 #EXTINF:-1 tvg-chno="113317" tvg-name="Clipmobile" group-title="United Kingdom" tvg-id="CLIPMOB" tvc-guide-stationid="113317",Clipmobile
 http://example.local/GBR-CLIPMOB.ts
 #EXTINF:-1 tvg-chno="24214" tvg-name="Club MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s24214_ll_h15_ae.png" group-title="United Kingdom" tvg-id="CLMTVUK" tvc-guide-stationid="24214",Club MTV
@@ -767,6 +711,8 @@ http://example.local/GBR-CLMTVUK.ts
 http://example.local/GBR-CLUBTV.ts
 #EXTINF:-1 tvg-chno="97304" tvg-name="Clubland" tvg-logo="https://zap2it.tmsimg.com/assets/s97304_ll_h9_aa.png" group-title="United Kingdom" tvg-id="CLUBLVM" tvc-guide-stationid="97304",Clubland
 http://example.local/GBR-CLUBLVM.ts
+#EXTINF:-1 tvg-chno="199473" tvg-name="CNA Originals" group-title="United Kingdom" tvg-id="CNAORIG" tvc-guide-stationid="199473",CNA Originals
+http://example.local/GBR-CNAORIG.ts
 #EXTINF:-1 tvg-chno="68892" tvg-name="CNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s68892_ll_h15_ac.png" group-title="United Kingdom" tvg-id="CNBCUK" tvc-guide-stationid="68892",CNBC
 http://example.local/GBR-CNBCUK.ts
 #EXTINF:-1 tvg-chno="16230" tvg-name="CNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s16230_ll_h15_ab.png" group-title="United Kingdom" tvg-id="CNBCEU" tvc-guide-stationid="16230",CNBC
@@ -775,14 +721,16 @@ http://example.local/GBR-CNBCEU.ts
 http://example.local/GBR-CNBCEHD.ts
 #EXTINF:-1 tvg-chno="125075" tvg-name="CNN" tvg-logo="https://zap2it.tmsimg.com/assets/s125075_ll_h15_aa.png" group-title="United Kingdom" tvg-id="CNNEUSK" tvc-guide-stationid="125075",CNN
 http://example.local/GBR-CNNEUSK.ts
+#EXTINF:-1 tvg-chno="101634" tvg-name="CNN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s101634_ll_h15_ad.png" group-title="United Kingdom" tvg-id="CNNEURH" tvc-guide-stationid="101634",CNN HD
+http://example.local/GBR-CNNEURH.ts
 #EXTINF:-1 tvg-chno="68053" tvg-name="CNN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68053_ll_h15_aa.png" group-title="United Kingdom" tvg-id="CNNEUVM" tvc-guide-stationid="68053",CNN HD
 http://example.local/GBR-CNNEUVM.ts
 #EXTINF:-1 tvg-chno="138109" tvg-name="CNN Headlines" tvg-logo="https://zap2it.tmsimg.com/assets/s138109_ll_h9_ab.png" group-title="United Kingdom" tvg-id="CNNFAUK" tvc-guide-stationid="138109",CNN Headlines
 http://example.local/GBR-CNNFAUK.ts
-#EXTINF:-1 tvg-chno="17664" tvg-name="CNN International" tvg-logo="https://zap2it.tmsimg.com/assets/s17664_ll_h15_ab.png" group-title="United Kingdom" tvg-id="CNNEU" tvc-guide-stationid="17664",CNN International
-http://example.local/GBR-CNNEU.ts
 #EXTINF:-1 tvg-chno="152938" tvg-name="CNN International" tvg-logo="https://zap2it.tmsimg.com/assets/s17664_ll_h15_ab.png" group-title="United Kingdom" tvg-id="CNNEMEA" tvc-guide-stationid="152938",CNN International
 http://example.local/GBR-CNNEMEA.ts
+#EXTINF:-1 tvg-chno="17664" tvg-name="CNN International" tvg-logo="https://zap2it.tmsimg.com/assets/s17664_ll_h15_ab.png" group-title="United Kingdom" tvg-id="CNNEU" tvc-guide-stationid="17664",CNN International
+http://example.local/GBR-CNNEU.ts
 #EXTINF:-1 tvg-chno="91065" tvg-name="CNN International HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91065_ll_h9_aa.png" group-title="United Kingdom" tvg-id="CNNEUHD" tvc-guide-stationid="91065",CNN International HD
 http://example.local/GBR-CNNEUHD.ts
 #EXTINF:-1 tvg-chno="55671" tvg-name="Colors" tvg-logo="https://zap2it.tmsimg.com/assets/s55671_ll_h15_ab.png" group-title="United Kingdom" tvg-id="COLORS" tvc-guide-stationid="55671",Colors
@@ -819,16 +767,12 @@ http://example.local/GBR-COMCLN.ts
 http://example.local/GBR-NSYCFP.ts
 #EXTINF:-1 tvg-chno="138177" tvg-name="Country House Hunters" group-title="United Kingdom" tvg-id="CHHUK" tvc-guide-stationid="138177",Country House Hunters
 http://example.local/GBR-CHHUK.ts
-#EXTINF:-1 tvg-chno="146962" tvg-name="Court Sports Network" tvg-logo="https://zap2it.tmsimg.com/assets/s146962_ll_h9_aa.png" group-title="United Kingdom" tvg-id="CRTSN" tvc-guide-stationid="146962",Court Sports Network
-http://example.local/GBR-CRTSN.ts
 #EXTINF:-1 tvg-chno="117160" tvg-name="Court TV" tvg-logo="https://zap2it.tmsimg.com/assets/s117160_ll_h15_aa.png" group-title="United Kingdom" tvg-id="COURTUK" tvc-guide-stationid="117160",Court TV
 http://example.local/GBR-COURTUK.ts
 #EXTINF:-1 tvg-chno="118527" tvg-name="Craft Extra (Sky)" tvg-logo="https://zap2it.tmsimg.com/assets/s118527_ll_h9_aa.png" group-title="United Kingdom" tvg-id="CRAFTEX" tvc-guide-stationid="118527",Craft Extra (Sky)
 http://example.local/GBR-CRAFTEX.ts
 #EXTINF:-1 tvg-chno="132607" tvg-name="CraftsyTV" tvg-logo="https://zap2it.tmsimg.com/assets/s132607_ll_h9_aa.png" group-title="United Kingdom" tvg-id="CRAFT" tvc-guide-stationid="132607",CraftsyTV
 http://example.local/GBR-CRAFT.ts
-#EXTINF:-1 tvg-chno="118518" tvg-name="Create & Craft HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118518_ll_h9_aa.png" group-title="United Kingdom" tvg-id="CRECRAFT" tvc-guide-stationid="118518",Create & Craft HD
-http://example.local/GBR-CRECRAFT.ts
 #EXTINF:-1 tvg-chno="33345" tvg-name="Create and Craft" tvg-logo="https://zap2it.tmsimg.com/assets/s33345_ll_h15_aa.png" group-title="United Kingdom" tvg-id="CREATEC" tvc-guide-stationid="33345",Create and Craft
 http://example.local/GBR-CREATEC.ts
 #EXTINF:-1 tvg-chno="172208" tvg-name="Creator Television" tvg-logo="https://zap2it.tmsimg.com/assets/s172208_ll_h15_aa.png" group-title="United Kingdom" tvg-id="CREATOR" tvc-guide-stationid="172208",Creator Television
@@ -853,6 +797,8 @@ http://example.local/GBR-PTVUKCI.ts
 http://example.local/GBR-CRUI1ST.ts
 #EXTINF:-1 tvg-chno="118529" tvg-name="Cruise1st.tv" tvg-logo="https://zap2it.tmsimg.com/assets/s118529_ll_h9_aa.png" group-title="United Kingdom" tvg-id="CRUISE1ST" tvc-guide-stationid="118529",Cruise1st.tv
 http://example.local/GBR-CRUISE1ST.ts
+#EXTINF:-1 tvg-chno="192036" tvg-name="CSI: Crime Scene Investigation on PlutoTV" group-title="United Kingdom" tvg-id="CSIHZNVM" tvc-guide-stationid="192036",CSI: Crime Scene Investigation on PlutoTV
+http://example.local/GBR-CSIHZNVM.ts
 #EXTINF:-1 tvg-chno="66080" tvg-name="CTC" group-title="United Kingdom" tvg-id="CTC" tvc-guide-stationid="66080",CTC
 http://example.local/GBR-CTC.ts
 #EXTINF:-1 tvg-chno="113657" tvg-name="Cubavisión Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s113657_ll_h15_aa.png" group-title="United Kingdom" tvg-id="CUBAINT" tvc-guide-stationid="113657",Cubavisión Internacional
@@ -869,8 +815,6 @@ http://example.local/GBR-DAYSTR.ts
 http://example.local/GBR-DAYSTHD.ts
 #EXTINF:-1 tvg-chno="133887" tvg-name="DAZN PPV HD" group-title="United Kingdom" tvg-id="3PSPPPV" tvc-guide-stationid="133887",DAZN PPV HD
 http://example.local/GBR-3PSPPPV.ts
-#EXTINF:-1 tvg-chno="155601" tvg-name="DAZN Women's Football" tvg-logo="https://zap2it.tmsimg.com/assets/s155601_ll_h15_aa.png" group-title="United Kingdom" tvg-id="FASTDUVM" tvc-guide-stationid="155601",DAZN Women's Football
-http://example.local/GBR-FASTDUVM.ts
 #EXTINF:-1 tvg-chno="135377" tvg-name="DAZNUK 1" tvg-logo="https://zap2it.tmsimg.com/assets/s135377_ll_h15_aa.png" group-title="United Kingdom" tvg-id="DAZNUK1" tvc-guide-stationid="135377",DAZNUK 1
 http://example.local/GBR-DAZNUK1.ts
 #EXTINF:-1 tvg-chno="120097" tvg-name="Deadly Women" group-title="United Kingdom" tvg-id="PTVUKDW" tvc-guide-stationid="120097",Deadly Women
@@ -917,6 +861,8 @@ http://example.local/GBR-DITURBO.ts
 http://example.local/GBR-DISTUP1.ts
 #EXTINF:-1 tvg-chno="83574" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s83574_ll_h15_ac.png" group-title="United Kingdom" tvg-id="DISNG" tvc-guide-stationid="83574",Disney Channel
 http://example.local/GBR-DISNG.ts
+#EXTINF:-1 tvg-chno="198829" tvg-name="Djazz" tvg-logo="https://zap2it.tmsimg.com/assets/s100442_ll_h15_ac.png" group-title="United Kingdom" tvg-id="DJTIVM" tvc-guide-stationid="198829",Djazz
+http://example.local/GBR-DJTIVM.ts
 #EXTINF:-1 tvg-chno="58793" tvg-name="DMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s58793_ll_h15_ab.png" group-title="United Kingdom" tvg-id="DMAXE" tvc-guide-stationid="58793",DMAX
 http://example.local/GBR-DMAXE.ts
 #EXTINF:-1 tvg-chno="83579" tvg-name="DMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s83579_ll_h15_ac.png" group-title="United Kingdom" tvg-id="DMAXD" tvc-guide-stationid="83579",DMAX
@@ -943,10 +889,10 @@ http://example.local/GBR-DTTB.ts
 http://example.local/GBR-DPWRLDT.ts
 #EXTINF:-1 tvg-chno="160302" tvg-name="Drool" tvg-logo="https://zap2it.tmsimg.com/assets/s160302_ll_h15_aa.png" group-title="United Kingdom" tvg-id="DROOL" tvc-guide-stationid="160302",Drool
 http://example.local/GBR-DROOL.ts
-#EXTINF:-1 tvg-chno="131429" tvg-name="Duck Dynasty" tvg-logo="https://zap2it.tmsimg.com/assets/s131429_ll_h15_aa.png" group-title="United Kingdom" tvg-id="DUCKDYN" tvc-guide-stationid="131429",Duck Dynasty
-http://example.local/GBR-DUCKDYN.ts
 #EXTINF:-1 tvg-chno="120102" tvg-name="Duck Dynasty" group-title="United Kingdom" tvg-id="PTVUKDD" tvc-guide-stationid="120102",Duck Dynasty
 http://example.local/GBR-PTVUKDD.ts
+#EXTINF:-1 tvg-chno="131429" tvg-name="Duck Dynasty" tvg-logo="https://zap2it.tmsimg.com/assets/s131429_ll_h15_aa.png" group-title="United Kingdom" tvg-id="DUCKDYN" tvc-guide-stationid="131429",Duck Dynasty
+http://example.local/GBR-DUCKDYN.ts
 #EXTINF:-1 tvg-chno="118530" tvg-name="Dunamis TV" tvg-logo="https://zap2it.tmsimg.com/assets/s118530_ll_h9_aa.png" group-title="United Kingdom" tvg-id="DUNAMIS" tvc-guide-stationid="118530",Dunamis TV
 http://example.local/GBR-DUNAMIS.ts
 #EXTINF:-1 tvg-chno="116315" tvg-name="Dunya News" tvg-logo="https://zap2it.tmsimg.com/assets/s116315_ll_h9_aa.png" group-title="United Kingdom" tvg-id="DUNNEWS" tvc-guide-stationid="116315",Dunya News
@@ -965,10 +911,14 @@ http://example.local/GBR-EARTHXEU.ts
 http://example.local/GBR-ESYLSTN.ts
 #EXTINF:-1 tvg-chno="101280" tvg-name="Edge Sport" tvg-logo="https://zap2it.tmsimg.com/assets/s101280_ll_h15_aa.png" group-title="United Kingdom" tvg-id="EDGESP" tvc-guide-stationid="101280",Edge Sport
 http://example.local/GBR-EDGESP.ts
+#EXTINF:-1 tvg-chno="160435" tvg-name="Eggheads" group-title="United Kingdom" tvg-id="EGHS" tvc-guide-stationid="160435",Eggheads
+http://example.local/GBR-EGHS.ts
 #EXTINF:-1 tvg-chno="156685" tvg-name="Eggheads (TiVo)" group-title="United Kingdom" tvg-id="EGFASTVMT" tvc-guide-stationid="156685",Eggheads (TiVo)
 http://example.local/GBR-EGFASTVMT.ts
 #EXTINF:-1 tvg-chno="28174" tvg-name="Euro News" tvg-logo="https://zap2it.tmsimg.com/assets/s28174_ll_h15_ab.png" group-title="United Kingdom" tvg-id="EURONEW" tvc-guide-stationid="28174",Euro News
 http://example.local/GBR-EURONEW.ts
+#EXTINF:-1 tvg-chno="19039" tvg-name="Euronews (EURONEW)" tvg-logo="https://zap2it.tmsimg.com/assets/s19039_ll_h15_ab.png" group-title="United Kingdom" tvg-id="EURNEWS" tvc-guide-stationid="19039",Euronews (EURONEW)
+http://example.local/GBR-EURNEWS.ts
 #EXTINF:-1 tvg-chno="67870" tvg-name="euronews" tvg-logo="https://zap2it.tmsimg.com/assets/s67870_ll_h15_ab.png" group-title="United Kingdom" tvg-id="EURNWSV" tvc-guide-stationid="67870",euronews
 http://example.local/GBR-EURNWSV.ts
 #EXTINF:-1 tvg-chno="59421" tvg-name="euronews" tvg-logo="https://zap2it.tmsimg.com/assets/s59421_ll_h15_ab.png" group-title="United Kingdom" tvg-id="EURNWGR" tvc-guide-stationid="59421",euronews
@@ -977,14 +927,12 @@ http://example.local/GBR-EURNWGR.ts
 http://example.local/GBR-EUROFRA.ts
 #EXTINF:-1 tvg-chno="83671" tvg-name="euronews" tvg-logo="https://zap2it.tmsimg.com/assets/s83671_ll_h15_ab.png" group-title="United Kingdom" tvg-id="EURONAR" tvc-guide-stationid="83671",euronews
 http://example.local/GBR-EURONAR.ts
-#EXTINF:-1 tvg-chno="19039" tvg-name="Euronews (EURONEW)" tvg-logo="https://zap2it.tmsimg.com/assets/s19039_ll_h15_ab.png" group-title="United Kingdom" tvg-id="EURNEWS" tvc-guide-stationid="19039",Euronews (EURONEW)
-http://example.local/GBR-EURNEWS.ts
 #EXTINF:-1 tvg-chno="103473" tvg-name="Euronews HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103473_ll_h15_ab.png" group-title="United Kingdom" tvg-id="EURNWHD" tvc-guide-stationid="103473",Euronews HD
 http://example.local/GBR-EURNWHD.ts
-#EXTINF:-1 tvg-chno="66603" tvg-name="Eurosport 1" tvg-logo="https://zap2it.tmsimg.com/assets/s66603_ll_h15_aa.png" group-title="United Kingdom" tvg-id="EUROSGR" tvc-guide-stationid="66603",Eurosport 1
-http://example.local/GBR-EUROSGR.ts
 #EXTINF:-1 tvg-chno="18337" tvg-name="Eurosport 1" tvg-logo="https://zap2it.tmsimg.com/assets/s18337_ll_h15_ac.png" group-title="United Kingdom" tvg-id="ESUK1" tvc-guide-stationid="18337",Eurosport 1
 http://example.local/GBR-ESUK1.ts
+#EXTINF:-1 tvg-chno="66603" tvg-name="Eurosport 1" tvg-logo="https://zap2it.tmsimg.com/assets/s66603_ll_h15_aa.png" group-title="United Kingdom" tvg-id="EUROSGR" tvc-guide-stationid="66603",Eurosport 1
+http://example.local/GBR-EUROSGR.ts
 #EXTINF:-1 tvg-chno="60821" tvg-name="Eurosport 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60821_ll_h15_ad.png" group-title="United Kingdom" tvg-id="ESUK1HD" tvc-guide-stationid="60821",Eurosport 1 HD
 http://example.local/GBR-ESUK1HD.ts
 #EXTINF:-1 tvg-chno="72791" tvg-name="Eurosport 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s72791_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ESINT1H" tvc-guide-stationid="72791",Eurosport 1 HD
@@ -1019,3 +967,55 @@ http://example.local/GBR-DESXT12.ts
 http://example.local/GBR-DESXT13.ts
 #EXTINF:-1 tvg-chno="117615" tvg-name="Eurosport Extra 14" tvg-logo="https://zap2it.tmsimg.com/assets/s117615_ll_h9_aa.png" group-title="United Kingdom" tvg-id="DESXT14" tvc-guide-stationid="117615",Eurosport Extra 14
 http://example.local/GBR-DESXT14.ts
+#EXTINF:-1 tvg-chno="117616" tvg-name="Eurosport Extra 15" tvg-logo="https://zap2it.tmsimg.com/assets/s117616_ll_h9_aa.png" group-title="United Kingdom" tvg-id="DESXT15" tvc-guide-stationid="117616",Eurosport Extra 15
+http://example.local/GBR-DESXT15.ts
+#EXTINF:-1 tvg-chno="117617" tvg-name="Eurosport Extra 16" tvg-logo="https://zap2it.tmsimg.com/assets/s117617_ll_h9_aa.png" group-title="United Kingdom" tvg-id="DESXT16" tvc-guide-stationid="117617",Eurosport Extra 16
+http://example.local/GBR-DESXT16.ts
+#EXTINF:-1 tvg-chno="117603" tvg-name="Eurosport Extra 2" tvg-logo="https://zap2it.tmsimg.com/assets/s117603_ll_h9_aa.png" group-title="United Kingdom" tvg-id="DESXTR2" tvc-guide-stationid="117603",Eurosport Extra 2
+http://example.local/GBR-DESXTR2.ts
+#EXTINF:-1 tvg-chno="117604" tvg-name="Eurosport Extra 3" tvg-logo="https://zap2it.tmsimg.com/assets/s117604_ll_h9_aa.png" group-title="United Kingdom" tvg-id="DESXTR3" tvc-guide-stationid="117604",Eurosport Extra 3
+http://example.local/GBR-DESXTR3.ts
+#EXTINF:-1 tvg-chno="117605" tvg-name="Eurosport Extra 4" tvg-logo="https://zap2it.tmsimg.com/assets/s117605_ll_h9_aa.png" group-title="United Kingdom" tvg-id="DESXTR4" tvc-guide-stationid="117605",Eurosport Extra 4
+http://example.local/GBR-DESXTR4.ts
+#EXTINF:-1 tvg-chno="117606" tvg-name="Eurosport Extra 5" tvg-logo="https://zap2it.tmsimg.com/assets/s117606_ll_h9_aa.png" group-title="United Kingdom" tvg-id="DESXTR5" tvc-guide-stationid="117606",Eurosport Extra 5
+http://example.local/GBR-DESXTR5.ts
+#EXTINF:-1 tvg-chno="117607" tvg-name="Eurosport Extra 6" tvg-logo="https://zap2it.tmsimg.com/assets/s117607_ll_h9_aa.png" group-title="United Kingdom" tvg-id="DESXTR6" tvc-guide-stationid="117607",Eurosport Extra 6
+http://example.local/GBR-DESXTR6.ts
+#EXTINF:-1 tvg-chno="117608" tvg-name="Eurosport Extra 7" tvg-logo="https://zap2it.tmsimg.com/assets/s117608_ll_h9_aa.png" group-title="United Kingdom" tvg-id="DESXTR7" tvc-guide-stationid="117608",Eurosport Extra 7
+http://example.local/GBR-DESXTR7.ts
+#EXTINF:-1 tvg-chno="117609" tvg-name="Eurosport Extra 8" tvg-logo="https://zap2it.tmsimg.com/assets/s117609_ll_h9_aa.png" group-title="United Kingdom" tvg-id="DESXTR8" tvc-guide-stationid="117609",Eurosport Extra 8
+http://example.local/GBR-DESXTR8.ts
+#EXTINF:-1 tvg-chno="117610" tvg-name="Eurosport Extra 9" tvg-logo="https://zap2it.tmsimg.com/assets/s117610_ll_h9_aa.png" group-title="United Kingdom" tvg-id="DESXTR9" tvc-guide-stationid="117610",Eurosport Extra 9
+http://example.local/GBR-DESXTR9.ts
+#EXTINF:-1 tvg-chno="117804" tvg-name="Eurosport Live 10" tvg-logo="https://zap2it.tmsimg.com/assets/s117804_ll_h9_aa.png" group-title="United Kingdom" tvg-id="AMESUK10" tvc-guide-stationid="117804",Eurosport Live 10
+http://example.local/GBR-AMESUK10.ts
+#EXTINF:-1 tvg-chno="117805" tvg-name="Eurosport Live 11" tvg-logo="https://zap2it.tmsimg.com/assets/s117805_ll_h9_aa.png" group-title="United Kingdom" tvg-id="AMESUK11" tvc-guide-stationid="117805",Eurosport Live 11
+http://example.local/GBR-AMESUK11.ts
+#EXTINF:-1 tvg-chno="117806" tvg-name="Eurosport Live 12" tvg-logo="https://zap2it.tmsimg.com/assets/s117806_ll_h9_aa.png" group-title="United Kingdom" tvg-id="AMESUK12" tvc-guide-stationid="117806",Eurosport Live 12
+http://example.local/GBR-AMESUK12.ts
+#EXTINF:-1 tvg-chno="117807" tvg-name="Eurosport Live 13" tvg-logo="https://zap2it.tmsimg.com/assets/s117807_ll_h9_aa.png" group-title="United Kingdom" tvg-id="AMESUK13" tvc-guide-stationid="117807",Eurosport Live 13
+http://example.local/GBR-AMESUK13.ts
+#EXTINF:-1 tvg-chno="117808" tvg-name="Eurosport Live 14" tvg-logo="https://zap2it.tmsimg.com/assets/s117808_ll_h9_aa.png" group-title="United Kingdom" tvg-id="AMESUK14" tvc-guide-stationid="117808",Eurosport Live 14
+http://example.local/GBR-AMESUK14.ts
+#EXTINF:-1 tvg-chno="117809" tvg-name="Eurosport Live 15" tvg-logo="https://zap2it.tmsimg.com/assets/s117809_ll_h9_aa.png" group-title="United Kingdom" tvg-id="AMESUK15" tvc-guide-stationid="117809",Eurosport Live 15
+http://example.local/GBR-AMESUK15.ts
+#EXTINF:-1 tvg-chno="117810" tvg-name="Eurosport Live 16" tvg-logo="https://zap2it.tmsimg.com/assets/s117810_ll_h9_aa.png" group-title="United Kingdom" tvg-id="AMESUK16" tvc-guide-stationid="117810",Eurosport Live 16
+http://example.local/GBR-AMESUK16.ts
+#EXTINF:-1 tvg-chno="117799" tvg-name="Eurosport Live 5" tvg-logo="https://zap2it.tmsimg.com/assets/s117799_ll_h9_aa.png" group-title="United Kingdom" tvg-id="AMESUK5" tvc-guide-stationid="117799",Eurosport Live 5
+http://example.local/GBR-AMESUK5.ts
+#EXTINF:-1 tvg-chno="117800" tvg-name="Eurosport Live 6" tvg-logo="https://zap2it.tmsimg.com/assets/s117800_ll_h9_aa.png" group-title="United Kingdom" tvg-id="AMESUK6" tvc-guide-stationid="117800",Eurosport Live 6
+http://example.local/GBR-AMESUK6.ts
+#EXTINF:-1 tvg-chno="117801" tvg-name="Eurosport Live 7" tvg-logo="https://zap2it.tmsimg.com/assets/s117801_ll_h9_aa.png" group-title="United Kingdom" tvg-id="AMESUK7" tvc-guide-stationid="117801",Eurosport Live 7
+http://example.local/GBR-AMESUK7.ts
+#EXTINF:-1 tvg-chno="117802" tvg-name="Eurosport Live 8" tvg-logo="https://zap2it.tmsimg.com/assets/s117802_ll_h9_aa.png" group-title="United Kingdom" tvg-id="AMESUK8" tvc-guide-stationid="117802",Eurosport Live 8
+http://example.local/GBR-AMESUK8.ts
+#EXTINF:-1 tvg-chno="117803" tvg-name="Eurosport Live 9" tvg-logo="https://zap2it.tmsimg.com/assets/s117803_ll_h9_aa.png" group-title="United Kingdom" tvg-id="AMESUK9" tvc-guide-stationid="117803",Eurosport Live 9
+http://example.local/GBR-AMESUK9.ts
+#EXTINF:-1 tvg-chno="102919" tvg-name="Eurosport Xtra 1" tvg-logo="https://zap2it.tmsimg.com/assets/s102919_ll_h9_am.png" group-title="United Kingdom" tvg-id="ESXTR1" tvc-guide-stationid="102919",Eurosport Xtra 1
+http://example.local/GBR-ESXTR1.ts
+#EXTINF:-1 tvg-chno="102928" tvg-name="Eurosport Xtra 10" tvg-logo="https://zap2it.tmsimg.com/assets/s102928_ll_h9_ab.png" group-title="United Kingdom" tvg-id="ESXTR10" tvc-guide-stationid="102928",Eurosport Xtra 10
+http://example.local/GBR-ESXTR10.ts
+#EXTINF:-1 tvg-chno="102929" tvg-name="Eurosport Xtra 11" tvg-logo="https://zap2it.tmsimg.com/assets/s102929_ll_h9_ab.png" group-title="United Kingdom" tvg-id="ESXTR11" tvc-guide-stationid="102929",Eurosport Xtra 11
+http://example.local/GBR-ESXTR11.ts
+#EXTINF:-1 tvg-chno="102930" tvg-name="Eurosport Xtra 12" tvg-logo="https://zap2it.tmsimg.com/assets/s102930_ll_h9_ab.png" group-title="United Kingdom" tvg-id="ESXTR12" tvc-guide-stationid="102930",Eurosport Xtra 12
+http://example.local/GBR-ESXTR12.ts

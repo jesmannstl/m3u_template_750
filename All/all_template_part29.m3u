@@ -1,136 +1,318 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="107509" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOEAL1" tvc-guide-stationid="107509",FanDuel Sports Network Extra
-http://example.local/USA-FSOEAL1.ts
-#EXTINF:-1 tvg-chno="107466" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOEAL2" tvc-guide-stationid="107466",FanDuel Sports Network Extra
-http://example.local/USA-FSOEAL2.ts
-#EXTINF:-1 tvg-chno="107472" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOEAL3" tvc-guide-stationid="107472",FanDuel Sports Network Extra
-http://example.local/USA-FSOEAL3.ts
-#EXTINF:-1 tvg-chno="107511" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOEAL4" tvc-guide-stationid="107511",FanDuel Sports Network Extra
-http://example.local/USA-FSOEAL4.ts
-#EXTINF:-1 tvg-chno="107548" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOEGA1" tvc-guide-stationid="107548",FanDuel Sports Network Extra
-http://example.local/USA-FSOEGA1.ts
-#EXTINF:-1 tvg-chno="107550" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOEGA2" tvc-guide-stationid="107550",FanDuel Sports Network Extra
-http://example.local/USA-FSOEGA2.ts
-#EXTINF:-1 tvg-chno="107546" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOEKY1" tvc-guide-stationid="107546",FanDuel Sports Network Extra
-http://example.local/USA-FSOEKY1.ts
+#EXTINF:-1 tvg-chno="24149" tvg-name="Family Friendly Entertainment" group-title="Barbados" tvg-id="FFE" tvc-guide-stationid="24149",Family Friendly Entertainment
+http://example.local/BRB-FFE.ts
+#EXTINF:-1 tvg-chno="24149" tvg-name="Family Friendly Entertainment" group-title="Saint Martin" tvg-id="FFE" tvc-guide-stationid="24149",Family Friendly Entertainment
+http://example.local/MAF-FFE.ts
+#EXTINF:-1 tvg-chno="182209" tvg-name="Family Hour" group-title="United States" tvg-id="FMLYHR" tvc-guide-stationid="182209",Family Hour
+http://example.local/USA-FMLYHR.ts
+#EXTINF:-1 tvg-chno="72106" tvg-name="Family Junior On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s72106_ll_h15_aa.png" group-title="United States" tvg-id="FJRDM" tvc-guide-stationid="72106",Family Junior On Demand
+http://example.local/USA-FJRDM.ts
+#EXTINF:-1 tvg-chno="122068" tvg-name="Family Movie Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s122068_ll_h15_aa.png" group-title="United States" tvg-id="FMC" tvc-guide-stationid="122068",Family Movie Classics
+http://example.local/USA-FMC.ts
+#EXTINF:-1 tvg-chno="127501" tvg-name="Family Movie Classics HD" group-title="United States" tvg-id="FMCHD" tvc-guide-stationid="127501",Family Movie Classics HD
+http://example.local/USA-FMCHD.ts
+#EXTINF:-1 tvg-chno="54207" tvg-name="Family Movies On Demand" group-title="United States" tvg-id="FAMMVDM" tvc-guide-stationid="54207",Family Movies On Demand
+http://example.local/USA-FAMMVDM.ts
+#EXTINF:-1 tvg-chno="104746" tvg-name="Family TV" tvg-logo="https://zap2it.tmsimg.com/assets/s104746_ll_h15_aa.png" group-title="France" tvg-id="FAMITVD" tvc-guide-stationid="104746",Family TV
+http://example.local/FRA-FAMITVD.ts
+#EXTINF:-1 tvg-chno="138035" tvg-name="Family Unscripted" tvg-logo="https://zap2it.tmsimg.com/assets/s138035_ll_h15_ab.png" group-title="United States" tvg-id="WBTV8" tvc-guide-stationid="138035",Family Unscripted
+http://example.local/USA-WBTV8.ts
+#EXTINF:-1 tvg-chno="169317" tvg-name="Family Unscripted" tvg-logo="https://zap2it.tmsimg.com/assets/s169317_ll_h15_aa.png" group-title="United States" tvg-id="WBTV8S" tvc-guide-stationid="169317",Family Unscripted
+http://example.local/USA-WBTV8S.ts
+#EXTINF:-1 tvg-chno="115464" tvg-name="Family7" tvg-logo="https://zap2it.tmsimg.com/assets/s115464_ll_h9_aa.png" group-title="Netherlands" tvg-id="FAM7NL" tvc-guide-stationid="115464",Family7
+http://example.local/NLD-FAM7NL.ts
+#EXTINF:-1 tvg-chno="128102" tvg-name="Family7 HD" group-title="Netherlands" tvg-id="FAM7HD" tvc-guide-stationid="128102",Family7 HD
+http://example.local/NLD-FAM7HD.ts
+#EXTINF:-1 tvg-chno="127467" tvg-name="FamilyTime" tvg-logo="https://zap2it.tmsimg.com/assets/s127467_ll_h15_aa.png" group-title="United States" tvg-id="FT" tvc-guide-stationid="127467",FamilyTime
+http://example.local/USA-FT.ts
+#EXTINF:-1 tvg-chno="32258" tvg-name="FanDuel Racing" tvg-logo="https://zap2it.tmsimg.com/assets/s32258_ll_h15_ab.png" group-title="United States" tvg-id="FDUELRC" tvc-guide-stationid="32258",FanDuel Racing
+http://example.local/USA-FDUELRC.ts
+#EXTINF:-1 tvg-chno="32258" tvg-name="FanDuel Racing" tvg-logo="https://zap2it.tmsimg.com/assets/s32258_ll_h15_ab.png" group-title="Panama" tvg-id="FDUELRC" tvc-guide-stationid="32258",FanDuel Racing
+http://example.local/PAN-FDUELRC.ts
+#EXTINF:-1 tvg-chno="32258" tvg-name="FanDuel Racing" tvg-logo="https://zap2it.tmsimg.com/assets/s32258_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="FDUELRC" tvc-guide-stationid="32258",FanDuel Racing
+http://example.local/PRI-FDUELRC.ts
+#EXTINF:-1 tvg-chno="32258" tvg-name="FanDuel Racing" tvg-logo="https://zap2it.tmsimg.com/assets/s32258_ll_h15_ab.png" group-title="Barbados" tvg-id="FDUELRC" tvc-guide-stationid="32258",FanDuel Racing
+http://example.local/BRB-FDUELRC.ts
+#EXTINF:-1 tvg-chno="124109" tvg-name="FanDuel Racing HD" tvg-logo="https://zap2it.tmsimg.com/assets/s124109_ll_h15_aa.png" group-title="United States" tvg-id="FDLRCHD" tvc-guide-stationid="124109",FanDuel Racing HD
+http://example.local/USA-FDLRCHD.ts
+#EXTINF:-1 tvg-chno="17619" tvg-name="FanDuel Sports Network Detroit" tvg-logo="https://zap2it.tmsimg.com/assets/s17619_ll_h15_ac.png" group-title="United States" tvg-id="FDSD" tvc-guide-stationid="17619",FanDuel Sports Network Detroit
+http://example.local/USA-FDSD.ts
+#EXTINF:-1 tvg-chno="54153" tvg-name="FanDuel Sports Network Detroit" tvg-logo="https://zap2it.tmsimg.com/assets/s17619_ll_h15_ac.png" group-title="United States" tvg-id="FDSDALT" tvc-guide-stationid="54153",FanDuel Sports Network Detroit
+http://example.local/USA-FDSDALT.ts
+#EXTINF:-1 tvg-chno="102047" tvg-name="FanDuel Sports Network Detroit" tvg-logo="https://zap2it.tmsimg.com/assets/s17619_ll_h15_ac.png" group-title="United States" tvg-id="FDSDOH2" tvc-guide-stationid="102047",FanDuel Sports Network Detroit
+http://example.local/USA-FDSDOH2.ts
+#EXTINF:-1 tvg-chno="54286" tvg-name="FanDuel Sports Network Detroit HD" tvg-logo="https://zap2it.tmsimg.com/assets/s54286_ll_h15_ac.png" group-title="United States" tvg-id="FDSDHD" tvc-guide-stationid="54286",FanDuel Sports Network Detroit HD
+http://example.local/USA-FDSDHD.ts
+#EXTINF:-1 tvg-chno="96251" tvg-name="FanDuel Sports Network Detroit HD" tvg-logo="https://zap2it.tmsimg.com/assets/s17619_ll_h15_ac.png" group-title="United States" tvg-id="FDSDDH" tvc-guide-stationid="96251",FanDuel Sports Network Detroit HD
+http://example.local/USA-FDSDDH.ts
+#EXTINF:-1 tvg-chno="70926" tvg-name="FanDuel Sports Network Detroit HD" tvg-logo="https://zap2it.tmsimg.com/assets/s17619_ll_h15_ac.png" group-title="United States" tvg-id="FDSDALH" tvc-guide-stationid="70926",FanDuel Sports Network Detroit HD
+http://example.local/USA-FDSDALH.ts
+#EXTINF:-1 tvg-chno="102048" tvg-name="FanDuel Sports Network Detroit HD" tvg-logo="https://zap2it.tmsimg.com/assets/s17619_ll_h15_ac.png" group-title="United States" tvg-id="FDDOH2H" tvc-guide-stationid="102048",FanDuel Sports Network Detroit HD
+http://example.local/USA-FDDOH2H.ts
+#EXTINF:-1 tvg-chno="59644" tvg-name="FanDuel Sports Network Detroit HD" tvg-logo="https://zap2it.tmsimg.com/assets/s17619_ll_h15_ac.png" group-title="United States" tvg-id="FDSTHD" tvc-guide-stationid="59644",FanDuel Sports Network Detroit HD
+http://example.local/USA-FDSTHD.ts
+#EXTINF:-1 tvg-chno="71234" tvg-name="FanDuel Sports Network Detroit HD- Out of Market" tvg-logo="https://zap2it.tmsimg.com/assets/s17619_ll_h15_ac.png" group-title="United States" tvg-id="FDSDOMH" tvc-guide-stationid="71234",FanDuel Sports Network Detroit HD- Out of Market
+http://example.local/USA-FDSDOMH.ts
+#EXTINF:-1 tvg-chno="158736" tvg-name="FanDuel Sports Network Detroit HD- Toledo/Lansing" tvg-logo="https://zap2it.tmsimg.com/assets/s17619_ll_h15_ac.png" group-title="United States" tvg-id="FDSDMI2" tvc-guide-stationid="158736",FanDuel Sports Network Detroit HD- Toledo/Lansing
+http://example.local/USA-FDSDMI2.ts
+#EXTINF:-1 tvg-chno="71232" tvg-name="FanDuel Sports Network Detroit- Out of Market" tvg-logo="https://zap2it.tmsimg.com/assets/s17619_ll_h15_ac.png" group-title="United States" tvg-id="FDSDOM" tvc-guide-stationid="71232",FanDuel Sports Network Detroit- Out of Market
+http://example.local/USA-FDSDOM.ts
+#EXTINF:-1 tvg-chno="158830" tvg-name="FanDuel Sports Network Detroit- Toledo/Lansing" tvg-logo="https://zap2it.tmsimg.com/assets/s17619_ll_h15_ac.png" group-title="United States" tvg-id="FDDMI2S" tvc-guide-stationid="158830",FanDuel Sports Network Detroit- Toledo/Lansing
+http://example.local/USA-FDDMI2S.ts
+#EXTINF:-1 tvg-chno="80606" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDMEIA" tvc-guide-stationid="80606",FanDuel Sports Network Extra
+http://example.local/USA-FDMEIA.ts
+#EXTINF:-1 tvg-chno="88462" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDMEIA2" tvc-guide-stationid="88462",FanDuel Sports Network Extra
+http://example.local/USA-FDMEIA2.ts
+#EXTINF:-1 tvg-chno="74219" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDNOR1E" tvc-guide-stationid="74219",FanDuel Sports Network Extra
+http://example.local/USA-FDNOR1E.ts
+#EXTINF:-1 tvg-chno="66554" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSWAR1" tvc-guide-stationid="66554",FanDuel Sports Network Extra
+http://example.local/USA-FDSWAR1.ts
+#EXTINF:-1 tvg-chno="66556" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSWAR2" tvc-guide-stationid="66556",FanDuel Sports Network Extra
+http://example.local/USA-FDSWAR2.ts
+#EXTINF:-1 tvg-chno="80609" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDMMOE" tvc-guide-stationid="80609",FanDuel Sports Network Extra
+http://example.local/USA-FDMMOE.ts
+#EXTINF:-1 tvg-chno="80613" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDMENE" tvc-guide-stationid="80613",FanDuel Sports Network Extra
+http://example.local/USA-FDMENE.ts
+#EXTINF:-1 tvg-chno="74654" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSINE" tvc-guide-stationid="74654",FanDuel Sports Network Extra
+http://example.local/USA-FDSINE.ts
+#EXTINF:-1 tvg-chno="105530" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOHE11" tvc-guide-stationid="105530",FanDuel Sports Network Extra
+http://example.local/USA-FDOHE11.ts
+#EXTINF:-1 tvg-chno="105527" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOHE5" tvc-guide-stationid="105527",FanDuel Sports Network Extra
+http://example.local/USA-FDOHE5.ts
 #EXTINF:-1 tvg-chno="107541" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOEKY2" tvc-guide-stationid="107541",FanDuel Sports Network Extra
 http://example.local/USA-FSOEKY2.ts
-#EXTINF:-1 tvg-chno="107538" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOEMS1" tvc-guide-stationid="107538",FanDuel Sports Network Extra
-http://example.local/USA-FSOEMS1.ts
-#EXTINF:-1 tvg-chno="107504" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOETN1" tvc-guide-stationid="107504",FanDuel Sports Network Extra
-http://example.local/USA-FSOETN1.ts
+#EXTINF:-1 tvg-chno="55739" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSDE" tvc-guide-stationid="55739",FanDuel Sports Network Extra
+http://example.local/USA-FDSDE.ts
 #EXTINF:-1 tvg-chno="107544" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOETN2" tvc-guide-stationid="107544",FanDuel Sports Network Extra
 http://example.local/USA-FSOETN2.ts
-#EXTINF:-1 tvg-chno="107536" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOETN3" tvc-guide-stationid="107536",FanDuel Sports Network Extra
-http://example.local/USA-FSOETN3.ts
+#EXTINF:-1 tvg-chno="66580" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSW5TX" tvc-guide-stationid="66580",FanDuel Sports Network Extra
+http://example.local/USA-FDSW5TX.ts
 #EXTINF:-1 tvg-chno="66558" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSW3AR" tvc-guide-stationid="66558",FanDuel Sports Network Extra
 http://example.local/USA-FDSW3AR.ts
+#EXTINF:-1 tvg-chno="74217" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDWIE" tvc-guide-stationid="74217",FanDuel Sports Network Extra
+http://example.local/USA-FDWIE.ts
+#EXTINF:-1 tvg-chno="66578" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSW4TX" tvc-guide-stationid="66578",FanDuel Sports Network Extra
+http://example.local/USA-FDSW4TX.ts
+#EXTINF:-1 tvg-chno="66542" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOK2" tvc-guide-stationid="66542",FanDuel Sports Network Extra
+http://example.local/USA-FSOK2.ts
+#EXTINF:-1 tvg-chno="66588" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSW8TX" tvc-guide-stationid="66588",FanDuel Sports Network Extra
+http://example.local/USA-FDSW8TX.ts
+#EXTINF:-1 tvg-chno="107530" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOENC2" tvc-guide-stationid="107530",FanDuel Sports Network Extra
+http://example.local/USA-FSOENC2.ts
+#EXTINF:-1 tvg-chno="73945" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDMEKC" tvc-guide-stationid="73945",FanDuel Sports Network Extra
+http://example.local/USA-FDMEKC.ts
+#EXTINF:-1 tvg-chno="107528" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOENC1" tvc-guide-stationid="107528",FanDuel Sports Network Extra
+http://example.local/USA-FSOENC1.ts
+#EXTINF:-1 tvg-chno="66572" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSW1TX" tvc-guide-stationid="66572",FanDuel Sports Network Extra
+http://example.local/USA-FDSW1TX.ts
+#EXTINF:-1 tvg-chno="88508" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOH2E" tvc-guide-stationid="88508",FanDuel Sports Network Extra
+http://example.local/USA-FDOH2E.ts
+#EXTINF:-1 tvg-chno="73698" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDMSTLE" tvc-guide-stationid="73698",FanDuel Sports Network Extra
+http://example.local/USA-FDMSTLE.ts
+#EXTINF:-1 tvg-chno="107466" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOEAL2" tvc-guide-stationid="107466",FanDuel Sports Network Extra
+http://example.local/USA-FSOEAL2.ts
+#EXTINF:-1 tvg-chno="66584" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSW6TX" tvc-guide-stationid="66584",FanDuel Sports Network Extra
+http://example.local/USA-FDSW6TX.ts
+#EXTINF:-1 tvg-chno="107461" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOEMS2" tvc-guide-stationid="107461",FanDuel Sports Network Extra
+http://example.local/USA-FSOEMS2.ts
+#EXTINF:-1 tvg-chno="107546" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOEKY1" tvc-guide-stationid="107546",FanDuel Sports Network Extra
+http://example.local/USA-FSOEKY1.ts
+#EXTINF:-1 tvg-chno="105531" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOHE6" tvc-guide-stationid="105531",FanDuel Sports Network Extra
+http://example.local/USA-FDOHE6.ts
+#EXTINF:-1 tvg-chno="107532" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOENC3" tvc-guide-stationid="107532",FanDuel Sports Network Extra
+http://example.local/USA-FSOENC3.ts
+#EXTINF:-1 tvg-chno="66562" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSWLA2" tvc-guide-stationid="66562",FanDuel Sports Network Extra
+http://example.local/USA-FDSWLA2.ts
+#EXTINF:-1 tvg-chno="107548" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOEGA1" tvc-guide-stationid="107548",FanDuel Sports Network Extra
+http://example.local/USA-FSOEGA1.ts
+#EXTINF:-1 tvg-chno="74646" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSIEVP" tvc-guide-stationid="74646",FanDuel Sports Network Extra
+http://example.local/USA-FDSIEVP.ts
+#EXTINF:-1 tvg-chno="105513" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOHE4" tvc-guide-stationid="105513",FanDuel Sports Network Extra
+http://example.local/USA-FDOHE4.ts
+#EXTINF:-1 tvg-chno="66599" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSW7TX" tvc-guide-stationid="66599",FanDuel Sports Network Extra
+http://example.local/USA-FDSW7TX.ts
+#EXTINF:-1 tvg-chno="88513" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOHE1" tvc-guide-stationid="88513",FanDuel Sports Network Extra
+http://example.local/USA-FDOHE1.ts
+#EXTINF:-1 tvg-chno="107468" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOESC3" tvc-guide-stationid="107468",FanDuel Sports Network Extra
+http://example.local/USA-FSOESC3.ts
+#EXTINF:-1 tvg-chno="88460" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDMMOP2" tvc-guide-stationid="88460",FanDuel Sports Network Extra
+http://example.local/USA-FDMMOP2.ts
+#EXTINF:-1 tvg-chno="116000" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDMWSJ2" tvc-guide-stationid="116000",FanDuel Sports Network Extra
+http://example.local/USA-FDMWSJ2.ts
+#EXTINF:-1 tvg-chno="102055" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDMEMO3" tvc-guide-stationid="102055",FanDuel Sports Network Extra
+http://example.local/USA-FDMEMO3.ts
+#EXTINF:-1 tvg-chno="66597" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSW9TX" tvc-guide-stationid="66597",FanDuel Sports Network Extra
+http://example.local/USA-FDSW9TX.ts
+#EXTINF:-1 tvg-chno="107550" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOEGA2" tvc-guide-stationid="107550",FanDuel Sports Network Extra
+http://example.local/USA-FSOEGA2.ts
+#EXTINF:-1 tvg-chno="66538" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOK1" tvc-guide-stationid="66538",FanDuel Sports Network Extra
+http://example.local/USA-FSOK1.ts
+#EXTINF:-1 tvg-chno="105517" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOHE7" tvc-guide-stationid="105517",FanDuel Sports Network Extra
+http://example.local/USA-FDOHE7.ts
+#EXTINF:-1 tvg-chno="66560" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSWLA1" tvc-guide-stationid="66560",FanDuel Sports Network Extra
+http://example.local/USA-FDSWLA1.ts
+#EXTINF:-1 tvg-chno="105529" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOHE10" tvc-guide-stationid="105529",FanDuel Sports Network Extra
+http://example.local/USA-FDOHE10.ts
+#EXTINF:-1 tvg-chno="66574" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSW2TX" tvc-guide-stationid="66574",FanDuel Sports Network Extra
+http://example.local/USA-FDSW2TX.ts
+#EXTINF:-1 tvg-chno="107536" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOETN3" tvc-guide-stationid="107536",FanDuel Sports Network Extra
+http://example.local/USA-FSOETN3.ts
+#EXTINF:-1 tvg-chno="108406" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSINE2" tvc-guide-stationid="108406",FanDuel Sports Network Extra
+http://example.local/USA-FDSINE2.ts
+#EXTINF:-1 tvg-chno="105520" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOHE9" tvc-guide-stationid="105520",FanDuel Sports Network Extra
+http://example.local/USA-FDOHE9.ts
+#EXTINF:-1 tvg-chno="74640" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDINEFW" tvc-guide-stationid="74640",FanDuel Sports Network Extra
+http://example.local/USA-FDINEFW.ts
+#EXTINF:-1 tvg-chno="107504" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOETN1" tvc-guide-stationid="107504",FanDuel Sports Network Extra
+http://example.local/USA-FSOETN1.ts
+#EXTINF:-1 tvg-chno="107506" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOESC1" tvc-guide-stationid="107506",FanDuel Sports Network Extra
+http://example.local/USA-FSOESC1.ts
+#EXTINF:-1 tvg-chno="66568" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSWLA3" tvc-guide-stationid="66568",FanDuel Sports Network Extra
+http://example.local/USA-FDSWLA3.ts
+#EXTINF:-1 tvg-chno="107472" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOEAL3" tvc-guide-stationid="107472",FanDuel Sports Network Extra
+http://example.local/USA-FSOEAL3.ts
+#EXTINF:-1 tvg-chno="107470" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOESC2" tvc-guide-stationid="107470",FanDuel Sports Network Extra
+http://example.local/USA-FSOESC2.ts
+#EXTINF:-1 tvg-chno="105519" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOHE8" tvc-guide-stationid="105519",FanDuel Sports Network Extra
+http://example.local/USA-FDOHE8.ts
+#EXTINF:-1 tvg-chno="107539" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOEMS3" tvc-guide-stationid="107539",FanDuel Sports Network Extra
+http://example.local/USA-FSOEMS3.ts
+#EXTINF:-1 tvg-chno="107538" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOEMS1" tvc-guide-stationid="107538",FanDuel Sports Network Extra
+http://example.local/USA-FSOEMS1.ts
+#EXTINF:-1 tvg-chno="107509" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOEAL1" tvc-guide-stationid="107509",FanDuel Sports Network Extra
+http://example.local/USA-FSOEAL1.ts
+#EXTINF:-1 tvg-chno="107511" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOEAL4" tvc-guide-stationid="107511",FanDuel Sports Network Extra
+http://example.local/USA-FSOEAL4.ts
+#EXTINF:-1 tvg-chno="102071" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s102071_ll_h15_ab.png" group-title="United States" tvg-id="FDWIE2" tvc-guide-stationid="102071",FanDuel Sports Network Extra
+http://example.local/USA-FDWIE2.ts
+#EXTINF:-1 tvg-chno="26044" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOHA" tvc-guide-stationid="26044",FanDuel Sports Network Extra
+http://example.local/USA-FDOHA.ts
+#EXTINF:-1 tvg-chno="118604" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSWE" tvc-guide-stationid="118604",FanDuel Sports Network Extra
+http://example.local/USA-FDSWE.ts
+#EXTINF:-1 tvg-chno="96874" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDMECI" tvc-guide-stationid="96874",FanDuel Sports Network Extra
+http://example.local/USA-FDMECI.ts
+#EXTINF:-1 tvg-chno="118606" tvg-name="FanDuel Sports Network Extra" group-title="United States" tvg-id="FDFLE" tvc-guide-stationid="118606",FanDuel Sports Network Extra
+http://example.local/USA-FDFLE.ts
+#EXTINF:-1 tvg-chno="111014" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSWKCR" tvc-guide-stationid="111014",FanDuel Sports Network Extra
+http://example.local/USA-FDSWKCR.ts
+#EXTINF:-1 tvg-chno="99338" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOH4E" tvc-guide-stationid="99338",FanDuel Sports Network Extra
+http://example.local/USA-FDOH4E.ts
+#EXTINF:-1 tvg-chno="99342" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOH5E" tvc-guide-stationid="99342",FanDuel Sports Network Extra
+http://example.local/USA-FDOH5E.ts
+#EXTINF:-1 tvg-chno="99339" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOH6E" tvc-guide-stationid="99339",FanDuel Sports Network Extra
+http://example.local/USA-FDOH6E.ts
+#EXTINF:-1 tvg-chno="99341" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOH9E" tvc-guide-stationid="99341",FanDuel Sports Network Extra
+http://example.local/USA-FDOH9E.ts
+#EXTINF:-1 tvg-chno="99344" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOH10E" tvc-guide-stationid="99344",FanDuel Sports Network Extra
+http://example.local/USA-FDOH10E.ts
+#EXTINF:-1 tvg-chno="99345" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOH13E" tvc-guide-stationid="99345",FanDuel Sports Network Extra
+http://example.local/USA-FDOH13E.ts
+#EXTINF:-1 tvg-chno="99357" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOH7E" tvc-guide-stationid="99357",FanDuel Sports Network Extra
+http://example.local/USA-FDOH7E.ts
+#EXTINF:-1 tvg-chno="99360" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOH11E" tvc-guide-stationid="99360",FanDuel Sports Network Extra
+http://example.local/USA-FDOH11E.ts
+#EXTINF:-1 tvg-chno="99358" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOH12E" tvc-guide-stationid="99358",FanDuel Sports Network Extra
+http://example.local/USA-FDOH12E.ts
+#EXTINF:-1 tvg-chno="79909" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSWAR1A" tvc-guide-stationid="79909",FanDuel Sports Network Extra
+http://example.local/USA-FSWAR1A.ts
+#EXTINF:-1 tvg-chno="105533" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOHE13" tvc-guide-stationid="105533",FanDuel Sports Network Extra
+http://example.local/USA-FDOHE13.ts
+#EXTINF:-1 tvg-chno="80612" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDMEKSC" tvc-guide-stationid="80612",FanDuel Sports Network Extra
+http://example.local/USA-FDMEKSC.ts
+#EXTINF:-1 tvg-chno="102049" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDDEOH1" tvc-guide-stationid="102049",FanDuel Sports Network Extra
+http://example.local/USA-FDDEOH1.ts
+#EXTINF:-1 tvg-chno="102051" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDDEOH2" tvc-guide-stationid="102051",FanDuel Sports Network Extra
+http://example.local/USA-FDDEOH2.ts
+#EXTINF:-1 tvg-chno="80604" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDMEKS" tvc-guide-stationid="80604",FanDuel Sports Network Extra
+http://example.local/USA-FDMEKS.ts
+#EXTINF:-1 tvg-chno="107534" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSOETN4" tvc-guide-stationid="107534",FanDuel Sports Network Extra
+http://example.local/USA-FSOETN4.ts
 #EXTINF:-1 tvg-chno="66576" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSW3TX" tvc-guide-stationid="66576",FanDuel Sports Network Extra
 http://example.local/USA-FDSW3TX.ts
 #EXTINF:-1 tvg-chno="105532" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOHE12" tvc-guide-stationid="105532",FanDuel Sports Network Extra
 http://example.local/USA-FDOHE12.ts
-#EXTINF:-1 tvg-chno="74654" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSINE" tvc-guide-stationid="74654",FanDuel Sports Network Extra
-http://example.local/USA-FDSINE.ts
-#EXTINF:-1 tvg-chno="66574" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSW2TX" tvc-guide-stationid="66574",FanDuel Sports Network Extra
-http://example.local/USA-FDSW2TX.ts
-#EXTINF:-1 tvg-chno="111014" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSWKCR" tvc-guide-stationid="111014",FanDuel Sports Network Extra
-http://example.local/USA-FDSWKCR.ts
-#EXTINF:-1 tvg-chno="66568" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSWLA3" tvc-guide-stationid="66568",FanDuel Sports Network Extra
-http://example.local/USA-FDSWLA3.ts
-#EXTINF:-1 tvg-chno="74646" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSIEVP" tvc-guide-stationid="74646",FanDuel Sports Network Extra
-http://example.local/USA-FDSIEVP.ts
-#EXTINF:-1 tvg-chno="66578" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSW4TX" tvc-guide-stationid="66578",FanDuel Sports Network Extra
-http://example.local/USA-FDSW4TX.ts
-#EXTINF:-1 tvg-chno="80613" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDMENE" tvc-guide-stationid="80613",FanDuel Sports Network Extra
-http://example.local/USA-FDMENE.ts
-#EXTINF:-1 tvg-chno="102055" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDMEMO3" tvc-guide-stationid="102055",FanDuel Sports Network Extra
-http://example.local/USA-FDMEMO3.ts
-#EXTINF:-1 tvg-chno="105531" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOHE6" tvc-guide-stationid="105531",FanDuel Sports Network Extra
-http://example.local/USA-FDOHE6.ts
+#EXTINF:-1 tvg-chno="118603" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSFPLUS" tvc-guide-stationid="118603",FanDuel Sports Network Extra
+http://example.local/USA-FSFPLUS.ts
+#EXTINF:-1 tvg-chno="73957" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSNALT" tvc-guide-stationid="73957",FanDuel Sports Network Extra
+http://example.local/USA-FDSNALT.ts
+#EXTINF:-1 tvg-chno="92154" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSESUD" tvc-guide-stationid="92154",FanDuel Sports Network Extra
+http://example.local/USA-FDSESUD.ts
+#EXTINF:-1 tvg-chno="79910" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSWAR1B" tvc-guide-stationid="79910",FanDuel Sports Network Extra
+http://example.local/USA-FSWAR1B.ts
+#EXTINF:-1 tvg-chno="74309" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="CFDNP" tvc-guide-stationid="74309",FanDuel Sports Network Extra
+http://example.local/USA-CFDNP.ts
 #EXTINF:-1 tvg-chno="20649" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSNSCA" tvc-guide-stationid="20649",FanDuel Sports Network Extra
 http://example.local/USA-FDSNSCA.ts
 #EXTINF:-1 tvg-chno="24895" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDOHNH" tvc-guide-stationid="24895",FanDuel Sports Network Extra
 http://example.local/USA-FDOHNH.ts
-#EXTINF:-1 tvg-chno="74309" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="CFDNP" tvc-guide-stationid="74309",FanDuel Sports Network Extra
-http://example.local/USA-CFDNP.ts
-#EXTINF:-1 tvg-chno="73957" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDSNALT" tvc-guide-stationid="73957",FanDuel Sports Network Extra
-http://example.local/USA-FDSNALT.ts
-#EXTINF:-1 tvg-chno="79910" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSWAR1B" tvc-guide-stationid="79910",FanDuel Sports Network Extra
-http://example.local/USA-FSWAR1B.ts
-#EXTINF:-1 tvg-chno="74354" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDNREHD" tvc-guide-stationid="74354",FanDuel Sports Network Extra HD
-http://example.local/USA-FDNREHD.ts
-#EXTINF:-1 tvg-chno="67472" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSOK1H" tvc-guide-stationid="67472",FanDuel Sports Network Extra HD
-http://example.local/USA-FSOK1H.ts
-#EXTINF:-1 tvg-chno="75217" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDWIEHD" tvc-guide-stationid="75217",FanDuel Sports Network Extra HD
-http://example.local/USA-FDWIEHD.ts
 #EXTINF:-1 tvg-chno="69777" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDMIA1H" tvc-guide-stationid="69777",FanDuel Sports Network Extra HD
 http://example.local/USA-FDMIA1H.ts
-#EXTINF:-1 tvg-chno="80607" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDMEIAH" tvc-guide-stationid="80607",FanDuel Sports Network Extra HD
-http://example.local/USA-FDMEIAH.ts
-#EXTINF:-1 tvg-chno="96875" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDMECIH" tvc-guide-stationid="96875",FanDuel Sports Network Extra HD
-http://example.local/USA-FDMECIH.ts
-#EXTINF:-1 tvg-chno="102050" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDDOH1H" tvc-guide-stationid="102050",FanDuel Sports Network Extra HD
-http://example.local/USA-FDDOH1H.ts
-#EXTINF:-1 tvg-chno="69629" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDDESH" tvc-guide-stationid="69629",FanDuel Sports Network Extra HD
-http://example.local/USA-FDDESH.ts
+#EXTINF:-1 tvg-chno="80610" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDMMOEH" tvc-guide-stationid="80610",FanDuel Sports Network Extra HD
+http://example.local/USA-FDMMOEH.ts
 #EXTINF:-1 tvg-chno="80605" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDMKSEH" tvc-guide-stationid="80605",FanDuel Sports Network Extra HD
 http://example.local/USA-FDMKSEH.ts
-#EXTINF:-1 tvg-chno="88512" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDOH2HD" tvc-guide-stationid="88512",FanDuel Sports Network Extra HD
-http://example.local/USA-FDOH2HD.ts
-#EXTINF:-1 tvg-chno="87120" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDOHEH" tvc-guide-stationid="87120",FanDuel Sports Network Extra HD
-http://example.local/USA-FDOHEH.ts
-#EXTINF:-1 tvg-chno="71188" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSWTX1H" tvc-guide-stationid="71188",FanDuel Sports Network Extra HD
-http://example.local/USA-FSWTX1H.ts
-#EXTINF:-1 tvg-chno="71746" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDSOEHD" tvc-guide-stationid="71746",FanDuel Sports Network Extra HD
-http://example.local/USA-FDSOEHD.ts
+#EXTINF:-1 tvg-chno="69901" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDKS2H" tvc-guide-stationid="69901",FanDuel Sports Network Extra HD
+http://example.local/USA-FDKS2H.ts
+#EXTINF:-1 tvg-chno="67481" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSOK2H" tvc-guide-stationid="67481",FanDuel Sports Network Extra HD
+http://example.local/USA-FSOK2H.ts
+#EXTINF:-1 tvg-chno="75355" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDKCEH" tvc-guide-stationid="75355",FanDuel Sports Network Extra HD
+http://example.local/USA-FDKCEH.ts
 #EXTINF:-1 tvg-chno="107533" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSENC3H" tvc-guide-stationid="107533",FanDuel Sports Network Extra HD
 http://example.local/USA-FSENC3H.ts
+#EXTINF:-1 tvg-chno="100571" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSWTX9H" tvc-guide-stationid="100571",FanDuel Sports Network Extra HD
+http://example.local/USA-FSWTX9H.ts
+#EXTINF:-1 tvg-chno="107535" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSETN4H" tvc-guide-stationid="107535",FanDuel Sports Network Extra HD
+http://example.local/USA-FSETN4H.ts
+#EXTINF:-1 tvg-chno="108525" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSWLAH3" tvc-guide-stationid="108525",FanDuel Sports Network Extra HD
+http://example.local/USA-FSWLAH3.ts
+#EXTINF:-1 tvg-chno="102072" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDWIE2H" tvc-guide-stationid="102072",FanDuel Sports Network Extra HD
+http://example.local/USA-FDWIE2H.ts
+#EXTINF:-1 tvg-chno="74354" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDNREHD" tvc-guide-stationid="74354",FanDuel Sports Network Extra HD
+http://example.local/USA-FDNREHD.ts
+#EXTINF:-1 tvg-chno="88514" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDOHE1H" tvc-guide-stationid="88514",FanDuel Sports Network Extra HD
+http://example.local/USA-FDOHE1H.ts
+#EXTINF:-1 tvg-chno="69629" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDDESH" tvc-guide-stationid="69629",FanDuel Sports Network Extra HD
+http://example.local/USA-FDDESH.ts
+#EXTINF:-1 tvg-chno="80607" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDMEIAH" tvc-guide-stationid="80607",FanDuel Sports Network Extra HD
+http://example.local/USA-FDMEIAH.ts
 #EXTINF:-1 tvg-chno="91114" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDOH3EH" tvc-guide-stationid="91114",FanDuel Sports Network Extra HD
 http://example.local/USA-FDOH3EH.ts
+#EXTINF:-1 tvg-chno="88512" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDOH2HD" tvc-guide-stationid="88512",FanDuel Sports Network Extra HD
+http://example.local/USA-FDOH2HD.ts
+#EXTINF:-1 tvg-chno="105515" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDOHE4H" tvc-guide-stationid="105515",FanDuel Sports Network Extra HD
+http://example.local/USA-FDOHE4H.ts
+#EXTINF:-1 tvg-chno="75217" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDWIEHD" tvc-guide-stationid="75217",FanDuel Sports Network Extra HD
+http://example.local/USA-FDWIEHD.ts
+#EXTINF:-1 tvg-chno="71746" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDSOEHD" tvc-guide-stationid="71746",FanDuel Sports Network Extra HD
+http://example.local/USA-FDSOEHD.ts
 #EXTINF:-1 tvg-chno="80616" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDMENEH" tvc-guide-stationid="80616",FanDuel Sports Network Extra HD
 http://example.local/USA-FDMENEH.ts
 #EXTINF:-1 tvg-chno="80601" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDMSTLH" tvc-guide-stationid="80601",FanDuel Sports Network Extra HD
 http://example.local/USA-FDMSTLH.ts
 #EXTINF:-1 tvg-chno="100570" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSWTX8H" tvc-guide-stationid="100570",FanDuel Sports Network Extra HD
 http://example.local/USA-FSWTX8H.ts
-#EXTINF:-1 tvg-chno="100571" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSWTX9H" tvc-guide-stationid="100571",FanDuel Sports Network Extra HD
-http://example.local/USA-FSWTX9H.ts
-#EXTINF:-1 tvg-chno="69901" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDKS2H" tvc-guide-stationid="69901",FanDuel Sports Network Extra HD
-http://example.local/USA-FDKS2H.ts
-#EXTINF:-1 tvg-chno="69805" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDKS1DH" tvc-guide-stationid="69805",FanDuel Sports Network Extra HD
-http://example.local/USA-FDKS1DH.ts
-#EXTINF:-1 tvg-chno="75355" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDKCEH" tvc-guide-stationid="75355",FanDuel Sports Network Extra HD
-http://example.local/USA-FDKCEH.ts
-#EXTINF:-1 tvg-chno="79601" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSWLA2H" tvc-guide-stationid="79601",FanDuel Sports Network Extra HD
-http://example.local/USA-FSWLA2H.ts
-#EXTINF:-1 tvg-chno="88514" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDOHE1H" tvc-guide-stationid="88514",FanDuel Sports Network Extra HD
-http://example.local/USA-FDOHE1H.ts
-#EXTINF:-1 tvg-chno="102072" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDWIE2H" tvc-guide-stationid="102072",FanDuel Sports Network Extra HD
-http://example.local/USA-FDWIE2H.ts
-#EXTINF:-1 tvg-chno="80610" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDMMOEH" tvc-guide-stationid="80610",FanDuel Sports Network Extra HD
-http://example.local/USA-FDMMOEH.ts
+#EXTINF:-1 tvg-chno="67472" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSOK1H" tvc-guide-stationid="67472",FanDuel Sports Network Extra HD
+http://example.local/USA-FSOK1H.ts
 #EXTINF:-1 tvg-chno="75787" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSWARHD" tvc-guide-stationid="75787",FanDuel Sports Network Extra HD
 http://example.local/USA-FSWARHD.ts
-#EXTINF:-1 tvg-chno="107551" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSEGA2H" tvc-guide-stationid="107551",FanDuel Sports Network Extra HD
-http://example.local/USA-FSEGA2H.ts
-#EXTINF:-1 tvg-chno="80464" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDINFWH" tvc-guide-stationid="80464",FanDuel Sports Network Extra HD
-http://example.local/USA-FDINFWH.ts
-#EXTINF:-1 tvg-chno="108525" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSWLAH3" tvc-guide-stationid="108525",FanDuel Sports Network Extra HD
-http://example.local/USA-FSWLAH3.ts
-#EXTINF:-1 tvg-chno="67481" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSOK2H" tvc-guide-stationid="67481",FanDuel Sports Network Extra HD
-http://example.local/USA-FSOK2H.ts
-#EXTINF:-1 tvg-chno="100569" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDSTX5H" tvc-guide-stationid="100569",FanDuel Sports Network Extra HD
-http://example.local/USA-FDSTX5H.ts
-#EXTINF:-1 tvg-chno="99718" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDSTX2H" tvc-guide-stationid="99718",FanDuel Sports Network Extra HD
-http://example.local/USA-FDSTX2H.ts
-#EXTINF:-1 tvg-chno="105515" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDOHE4H" tvc-guide-stationid="105515",FanDuel Sports Network Extra HD
-http://example.local/USA-FDOHE4H.ts
-#EXTINF:-1 tvg-chno="102346" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDMME2H" tvc-guide-stationid="102346",FanDuel Sports Network Extra HD
-http://example.local/USA-FDMME2H.ts
+#EXTINF:-1 tvg-chno="87119" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDOHAHD" tvc-guide-stationid="87119",FanDuel Sports Network Extra HD
+http://example.local/USA-FDOHAHD.ts
+#EXTINF:-1 tvg-chno="96875" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDMECIH" tvc-guide-stationid="96875",FanDuel Sports Network Extra HD
+http://example.local/USA-FDMECIH.ts
 #EXTINF:-1 tvg-chno="107531" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSENC2H" tvc-guide-stationid="107531",FanDuel Sports Network Extra HD
 http://example.local/USA-FSENC2H.ts
 #EXTINF:-1 tvg-chno="107529" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSENC1H" tvc-guide-stationid="107529",FanDuel Sports Network Extra HD
 http://example.local/USA-FSENC1H.ts
+#EXTINF:-1 tvg-chno="102050" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDDOH1H" tvc-guide-stationid="102050",FanDuel Sports Network Extra HD
+http://example.local/USA-FDDOH1H.ts
+#EXTINF:-1 tvg-chno="71188" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSWTX1H" tvc-guide-stationid="71188",FanDuel Sports Network Extra HD
+http://example.local/USA-FSWTX1H.ts
+#EXTINF:-1 tvg-chno="102346" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDMME2H" tvc-guide-stationid="102346",FanDuel Sports Network Extra HD
+http://example.local/USA-FDMME2H.ts
+#EXTINF:-1 tvg-chno="99718" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDSTX2H" tvc-guide-stationid="99718",FanDuel Sports Network Extra HD
+http://example.local/USA-FDSTX2H.ts
+#EXTINF:-1 tvg-chno="99755" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSWLA1H" tvc-guide-stationid="99755",FanDuel Sports Network Extra HD
+http://example.local/USA-FSWLA1H.ts
 #EXTINF:-1 tvg-chno="105535" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FOHE10H" tvc-guide-stationid="105535",FanDuel Sports Network Extra HD
 http://example.local/USA-FOHE10H.ts
 #EXTINF:-1 tvg-chno="105523" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDOHE9H" tvc-guide-stationid="105523",FanDuel Sports Network Extra HD
@@ -153,6 +335,8 @@ http://example.local/USA-FDIEVEH.ts
 http://example.local/USA-FDIEFWH.ts
 #EXTINF:-1 tvg-chno="74655" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDSINEH" tvc-guide-stationid="74655",FanDuel Sports Network Extra HD
 http://example.local/USA-FDSINEH.ts
+#EXTINF:-1 tvg-chno="79601" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSWLA2H" tvc-guide-stationid="79601",FanDuel Sports Network Extra HD
+http://example.local/USA-FSWLA2H.ts
 #EXTINF:-1 tvg-chno="92416" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSWAR2H" tvc-guide-stationid="92416",FanDuel Sports Network Extra HD
 http://example.local/USA-FSWAR2H.ts
 #EXTINF:-1 tvg-chno="95285" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSWTX6H" tvc-guide-stationid="95285",FanDuel Sports Network Extra HD
@@ -161,8 +345,8 @@ http://example.local/USA-FSWTX6H.ts
 http://example.local/USA-FDSTX7H.ts
 #EXTINF:-1 tvg-chno="95976" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDSTX3H" tvc-guide-stationid="95976",FanDuel Sports Network Extra HD
 http://example.local/USA-FDSTX3H.ts
-#EXTINF:-1 tvg-chno="99755" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSWLA1H" tvc-guide-stationid="99755",FanDuel Sports Network Extra HD
-http://example.local/USA-FSWLA1H.ts
+#EXTINF:-1 tvg-chno="100569" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDSTX5H" tvc-guide-stationid="100569",FanDuel Sports Network Extra HD
+http://example.local/USA-FDSTX5H.ts
 #EXTINF:-1 tvg-chno="102792" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDSAR3H" tvc-guide-stationid="102792",FanDuel Sports Network Extra HD
 http://example.local/USA-FDSAR3H.ts
 #EXTINF:-1 tvg-chno="105521" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDOHE7H" tvc-guide-stationid="105521",FanDuel Sports Network Extra HD
@@ -199,8 +383,6 @@ http://example.local/USA-FSETN1H.ts
 http://example.local/USA-FSETN2H.ts
 #EXTINF:-1 tvg-chno="107537" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSETN3H" tvc-guide-stationid="107537",FanDuel Sports Network Extra HD
 http://example.local/USA-FSETN3H.ts
-#EXTINF:-1 tvg-chno="107535" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSETN4H" tvc-guide-stationid="107535",FanDuel Sports Network Extra HD
-http://example.local/USA-FSETN4H.ts
 #EXTINF:-1 tvg-chno="108410" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDINE2H" tvc-guide-stationid="108410",FanDuel Sports Network Extra HD
 http://example.local/USA-FDINE2H.ts
 #EXTINF:-1 tvg-chno="105538" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FOHE13H" tvc-guide-stationid="105538",FanDuel Sports Network Extra HD
@@ -209,76 +391,80 @@ http://example.local/USA-FOHE13H.ts
 http://example.local/USA-FDOHE5H.ts
 #EXTINF:-1 tvg-chno="107549" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSEGA1H" tvc-guide-stationid="107549",FanDuel Sports Network Extra HD
 http://example.local/USA-FSEGA1H.ts
+#EXTINF:-1 tvg-chno="107551" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSEGA2H" tvc-guide-stationid="107551",FanDuel Sports Network Extra HD
+http://example.local/USA-FSEGA2H.ts
 #EXTINF:-1 tvg-chno="107507" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSESC1H" tvc-guide-stationid="107507",FanDuel Sports Network Extra HD
 http://example.local/USA-FSESC1H.ts
 #EXTINF:-1 tvg-chno="107471" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSESC2H" tvc-guide-stationid="107471",FanDuel Sports Network Extra HD
 http://example.local/USA-FSESC2H.ts
 #EXTINF:-1 tvg-chno="107469" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FSESC3H" tvc-guide-stationid="107469",FanDuel Sports Network Extra HD
 http://example.local/USA-FSESC3H.ts
-#EXTINF:-1 tvg-chno="87119" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDOHAHD" tvc-guide-stationid="87119",FanDuel Sports Network Extra HD
-http://example.local/USA-FDOHAHD.ts
-#EXTINF:-1 tvg-chno="69904" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FMIA1CH" tvc-guide-stationid="69904",FanDuel Sports Network Extra HD
-http://example.local/USA-FMIA1CH.ts
-#EXTINF:-1 tvg-chno="69898" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FDIN1BH" tvc-guide-stationid="69898",FanDuel Sports Network Extra HD
+#EXTINF:-1 tvg-chno="69898" tvg-name="FanDuel Sports Network Extra HD" group-title="United States" tvg-id="FDIN1BH" tvc-guide-stationid="69898",FanDuel Sports Network Extra HD
 http://example.local/USA-FDIN1BH.ts
+#EXTINF:-1 tvg-chno="69904" tvg-name="FanDuel Sports Network Extra HD" group-title="United States" tvg-id="FMIA1CH" tvc-guide-stationid="69904",FanDuel Sports Network Extra HD
+http://example.local/USA-FMIA1CH.ts
+#EXTINF:-1 tvg-chno="87120" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69629_ll_h15_ac.png" group-title="United States" tvg-id="FDOHEH" tvc-guide-stationid="87120",FanDuel Sports Network Extra HD
+http://example.local/USA-FDOHEH.ts
+#EXTINF:-1 tvg-chno="69805" tvg-name="FanDuel Sports Network Extra HD" group-title="United States" tvg-id="FDKS1DH" tvc-guide-stationid="69805",FanDuel Sports Network Extra HD
+http://example.local/USA-FDKS1DH.ts
 #EXTINF:-1 tvg-chno="91113" tvg-name="FanDuel Sports Network Extra- Columbus" tvg-logo="https://zap2it.tmsimg.com/assets/s11106_ll_h15_ac.png" group-title="United States" tvg-id="FDOH3E" tvc-guide-stationid="91113",FanDuel Sports Network Extra- Columbus
 http://example.local/USA-FDOH3E.ts
-#EXTINF:-1 tvg-chno="11095" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDSFL" tvc-guide-stationid="11095",FanDuel Sports Network Florida
-http://example.local/USA-FDSFL.ts
-#EXTINF:-1 tvg-chno="65684" tvg-name="FanDuel Sports Network Florida" group-title="United States" tvg-id="FDFLBO" tvc-guide-stationid="65684",FanDuel Sports Network Florida
-http://example.local/USA-FDFLBO.ts
 #EXTINF:-1 tvg-chno="102053" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLTPA" tvc-guide-stationid="102053",FanDuel Sports Network Florida
 http://example.local/USA-FDFLTPA.ts
-#EXTINF:-1 tvg-chno="108411" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLGNV" tvc-guide-stationid="108411",FanDuel Sports Network Florida
-http://example.local/USA-FDFLGNV.ts
-#EXTINF:-1 tvg-chno="108412" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLJAX" tvc-guide-stationid="108412",FanDuel Sports Network Florida
-http://example.local/USA-FDFLJAX.ts
 #EXTINF:-1 tvg-chno="108409" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLFTP" tvc-guide-stationid="108409",FanDuel Sports Network Florida
 http://example.local/USA-FDFLFTP.ts
-#EXTINF:-1 tvg-chno="95967" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFALL" tvc-guide-stationid="95967",FanDuel Sports Network Florida
-http://example.local/USA-FDFALL.ts
-#EXTINF:-1 tvg-chno="108408" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLFTM" tvc-guide-stationid="108408",FanDuel Sports Network Florida
-http://example.local/USA-FDFLFTM.ts
-#EXTINF:-1 tvg-chno="108407" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLDHN" tvc-guide-stationid="108407",FanDuel Sports Network Florida
-http://example.local/USA-FDFLDHN.ts
-#EXTINF:-1 tvg-chno="108413" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLPFN" tvc-guide-stationid="108413",FanDuel Sports Network Florida
-http://example.local/USA-FDFLPFN.ts
-#EXTINF:-1 tvg-chno="108414" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLPNS" tvc-guide-stationid="108414",FanDuel Sports Network Florida
-http://example.local/USA-FDFLPNS.ts
-#EXTINF:-1 tvg-chno="108415" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLNAP" tvc-guide-stationid="108415",FanDuel Sports Network Florida
-http://example.local/USA-FDFLNAP.ts
 #EXTINF:-1 tvg-chno="108416" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLPSL" tvc-guide-stationid="108416",FanDuel Sports Network Florida
 http://example.local/USA-FDFLPSL.ts
-#EXTINF:-1 tvg-chno="50728" tvg-name="FanDuel Sports Network Florida HD" tvg-logo="https://zap2it.tmsimg.com/assets/s50728_ll_h15_ac.png" group-title="United States" tvg-id="FDNFLHD" tvc-guide-stationid="50728",FanDuel Sports Network Florida HD
-http://example.local/USA-FDNFLHD.ts
-#EXTINF:-1 tvg-chno="65695" tvg-name="FanDuel Sports Network Florida HD" group-title="United States" tvg-id="FDFNHD" tvc-guide-stationid="65695",FanDuel Sports Network Florida HD
-http://example.local/USA-FDFNHD.ts
+#EXTINF:-1 tvg-chno="108415" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLNAP" tvc-guide-stationid="108415",FanDuel Sports Network Florida
+http://example.local/USA-FDFLNAP.ts
+#EXTINF:-1 tvg-chno="108408" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLFTM" tvc-guide-stationid="108408",FanDuel Sports Network Florida
+http://example.local/USA-FDFLFTM.ts
+#EXTINF:-1 tvg-chno="11095" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDSFL" tvc-guide-stationid="11095",FanDuel Sports Network Florida
+http://example.local/USA-FDSFL.ts
+#EXTINF:-1 tvg-chno="108412" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLJAX" tvc-guide-stationid="108412",FanDuel Sports Network Florida
+http://example.local/USA-FDFLJAX.ts
+#EXTINF:-1 tvg-chno="108413" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLPFN" tvc-guide-stationid="108413",FanDuel Sports Network Florida
+http://example.local/USA-FDFLPFN.ts
+#EXTINF:-1 tvg-chno="108411" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLGNV" tvc-guide-stationid="108411",FanDuel Sports Network Florida
+http://example.local/USA-FDFLGNV.ts
+#EXTINF:-1 tvg-chno="65684" tvg-name="FanDuel Sports Network Florida" group-title="United States" tvg-id="FDFLBO" tvc-guide-stationid="65684",FanDuel Sports Network Florida
+http://example.local/USA-FDFLBO.ts
+#EXTINF:-1 tvg-chno="108407" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLDHN" tvc-guide-stationid="108407",FanDuel Sports Network Florida
+http://example.local/USA-FDFLDHN.ts
+#EXTINF:-1 tvg-chno="108414" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLPNS" tvc-guide-stationid="108414",FanDuel Sports Network Florida
+http://example.local/USA-FDFLPNS.ts
+#EXTINF:-1 tvg-chno="95967" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFALL" tvc-guide-stationid="95967",FanDuel Sports Network Florida
+http://example.local/USA-FDFALL.ts
 #EXTINF:-1 tvg-chno="102054" tvg-name="FanDuel Sports Network Florida HD" group-title="United States" tvg-id="FDFTPH" tvc-guide-stationid="102054",FanDuel Sports Network Florida HD
 http://example.local/USA-FDFTPH.ts
-#EXTINF:-1 tvg-chno="108424" tvg-name="FanDuel Sports Network Florida HD" tvg-logo="https://zap2it.tmsimg.com/assets/s50728_ll_h15_ac.png" group-title="United States" tvg-id="FDFNAPH" tvc-guide-stationid="108424",FanDuel Sports Network Florida HD
-http://example.local/USA-FDFNAPH.ts
-#EXTINF:-1 tvg-chno="108420" tvg-name="FanDuel Sports Network Florida HD" group-title="United States" tvg-id="FDFGNVH" tvc-guide-stationid="108420",FanDuel Sports Network Florida HD
-http://example.local/USA-FDFGNVH.ts
-#EXTINF:-1 tvg-chno="65412" tvg-name="FanDuel Sports Network Florida HD" tvg-logo="https://zap2it.tmsimg.com/assets/s50728_ll_h15_ac.png" group-title="United States" tvg-id="FDFLHD" tvc-guide-stationid="65412",FanDuel Sports Network Florida HD
-http://example.local/USA-FDFLHD.ts
-#EXTINF:-1 tvg-chno="95969" tvg-name="FanDuel Sports Network Florida HD" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFMRH" tvc-guide-stationid="95969",FanDuel Sports Network Florida HD
-http://example.local/USA-FDFMRH.ts
-#EXTINF:-1 tvg-chno="108421" tvg-name="FanDuel Sports Network Florida HD" group-title="United States" tvg-id="FDFJAXH" tvc-guide-stationid="108421",FanDuel Sports Network Florida HD
-http://example.local/USA-FDFJAXH.ts
 #EXTINF:-1 tvg-chno="108419" tvg-name="FanDuel Sports Network Florida HD" tvg-logo="https://zap2it.tmsimg.com/assets/s50728_ll_h15_ac.png" group-title="United States" tvg-id="FDFFTPH" tvc-guide-stationid="108419",FanDuel Sports Network Florida HD
 http://example.local/USA-FDFFTPH.ts
-#EXTINF:-1 tvg-chno="95971" tvg-name="FanDuel Sports Network Florida HD" group-title="United States" tvg-id="FDFALH" tvc-guide-stationid="95971",FanDuel Sports Network Florida HD
-http://example.local/USA-FDFALH.ts
 #EXTINF:-1 tvg-chno="108418" tvg-name="FanDuel Sports Network Florida HD" tvg-logo="https://zap2it.tmsimg.com/assets/s50728_ll_h15_ac.png" group-title="United States" tvg-id="FDFTMH" tvc-guide-stationid="108418",FanDuel Sports Network Florida HD
 http://example.local/USA-FDFTMH.ts
-#EXTINF:-1 tvg-chno="108417" tvg-name="FanDuel Sports Network Florida HD" group-title="United States" tvg-id="FDFDNH" tvc-guide-stationid="108417",FanDuel Sports Network Florida HD
-http://example.local/USA-FDFDNH.ts
+#EXTINF:-1 tvg-chno="108421" tvg-name="FanDuel Sports Network Florida HD" group-title="United States" tvg-id="FDFJAXH" tvc-guide-stationid="108421",FanDuel Sports Network Florida HD
+http://example.local/USA-FDFJAXH.ts
 #EXTINF:-1 tvg-chno="108422" tvg-name="FanDuel Sports Network Florida HD" group-title="United States" tvg-id="FDFPFNH" tvc-guide-stationid="108422",FanDuel Sports Network Florida HD
 http://example.local/USA-FDFPFNH.ts
+#EXTINF:-1 tvg-chno="108420" tvg-name="FanDuel Sports Network Florida HD" group-title="United States" tvg-id="FDFGNVH" tvc-guide-stationid="108420",FanDuel Sports Network Florida HD
+http://example.local/USA-FDFGNVH.ts
+#EXTINF:-1 tvg-chno="50728" tvg-name="FanDuel Sports Network Florida HD" tvg-logo="https://zap2it.tmsimg.com/assets/s50728_ll_h15_ac.png" group-title="United States" tvg-id="FDNFLHD" tvc-guide-stationid="50728",FanDuel Sports Network Florida HD
+http://example.local/USA-FDNFLHD.ts
+#EXTINF:-1 tvg-chno="108424" tvg-name="FanDuel Sports Network Florida HD" tvg-logo="https://zap2it.tmsimg.com/assets/s50728_ll_h15_ac.png" group-title="United States" tvg-id="FDFNAPH" tvc-guide-stationid="108424",FanDuel Sports Network Florida HD
+http://example.local/USA-FDFNAPH.ts
+#EXTINF:-1 tvg-chno="95969" tvg-name="FanDuel Sports Network Florida HD" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFMRH" tvc-guide-stationid="95969",FanDuel Sports Network Florida HD
+http://example.local/USA-FDFMRH.ts
+#EXTINF:-1 tvg-chno="65412" tvg-name="FanDuel Sports Network Florida HD" tvg-logo="https://zap2it.tmsimg.com/assets/s50728_ll_h15_ac.png" group-title="United States" tvg-id="FDFLHD" tvc-guide-stationid="65412",FanDuel Sports Network Florida HD
+http://example.local/USA-FDFLHD.ts
+#EXTINF:-1 tvg-chno="108417" tvg-name="FanDuel Sports Network Florida HD" group-title="United States" tvg-id="FDFDNH" tvc-guide-stationid="108417",FanDuel Sports Network Florida HD
+http://example.local/USA-FDFDNH.ts
 #EXTINF:-1 tvg-chno="108423" tvg-name="FanDuel Sports Network Florida HD" tvg-logo="https://zap2it.tmsimg.com/assets/s50728_ll_h15_ac.png" group-title="United States" tvg-id="FDFPNSH" tvc-guide-stationid="108423",FanDuel Sports Network Florida HD
 http://example.local/USA-FDFPNSH.ts
 #EXTINF:-1 tvg-chno="108425" tvg-name="FanDuel Sports Network Florida HD" group-title="United States" tvg-id="FDFPSLH" tvc-guide-stationid="108425",FanDuel Sports Network Florida HD
 http://example.local/USA-FDFPSLH.ts
+#EXTINF:-1 tvg-chno="95971" tvg-name="FanDuel Sports Network Florida HD" group-title="United States" tvg-id="FDFALH" tvc-guide-stationid="95971",FanDuel Sports Network Florida HD
+http://example.local/USA-FDFALH.ts
+#EXTINF:-1 tvg-chno="65695" tvg-name="FanDuel Sports Network Florida HD" group-title="United States" tvg-id="FDFNHD" tvc-guide-stationid="65695",FanDuel Sports Network Florida HD
+http://example.local/USA-FDFNHD.ts
 #EXTINF:-1 tvg-chno="95970" tvg-name="FanDuel Sports Network Florida HD" tvg-logo="https://zap2it.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFBHD" tvc-guide-stationid="95970",FanDuel Sports Network Florida HD
 http://example.local/USA-FDFBHD.ts
 #EXTINF:-1 tvg-chno="81307" tvg-name="FanDuel Sports Network Florida HD- North Florida" group-title="United States" tvg-id="FDFLHCF" tvc-guide-stationid="81307",FanDuel Sports Network Florida HD- North Florida
@@ -315,14 +501,14 @@ http://example.local/USA-FDSIN2.ts
 http://example.local/USA-FDSIN3.ts
 #EXTINF:-1 tvg-chno="63725" tvg-name="FanDuel Sports Network Indiana HD" tvg-logo="https://zap2it.tmsimg.com/assets/s63725_ll_h15_ac.png" group-title="United States" tvg-id="FDSIN1H" tvc-guide-stationid="63725",FanDuel Sports Network Indiana HD
 http://example.local/USA-FDSIN1H.ts
-#EXTINF:-1 tvg-chno="108166" tvg-name="FanDuel Sports Network Indiana HD" tvg-logo="https://zap2it.tmsimg.com/assets/s63531_ll_h15_ac.png" group-title="United States" tvg-id="FDSIN3H" tvc-guide-stationid="108166",FanDuel Sports Network Indiana HD
-http://example.local/USA-FDSIN3H.ts
 #EXTINF:-1 tvg-chno="67696" tvg-name="FanDuel Sports Network Indiana HD" tvg-logo="https://zap2it.tmsimg.com/assets/s63531_ll_h15_ac.png" group-title="United States" tvg-id="FDSIN2H" tvc-guide-stationid="67696",FanDuel Sports Network Indiana HD
 http://example.local/USA-FDSIN2H.ts
-#EXTINF:-1 tvg-chno="19739" tvg-name="FanDuel Sports Network Kansas City" tvg-logo="https://zap2it.tmsimg.com/assets/s19739_ll_h15_ac.png" group-title="United States" tvg-id="FDSKC1" tvc-guide-stationid="19739",FanDuel Sports Network Kansas City
-http://example.local/USA-FDSKC1.ts
+#EXTINF:-1 tvg-chno="108166" tvg-name="FanDuel Sports Network Indiana HD" tvg-logo="https://zap2it.tmsimg.com/assets/s63531_ll_h15_ac.png" group-title="United States" tvg-id="FDSIN3H" tvc-guide-stationid="108166",FanDuel Sports Network Indiana HD
+http://example.local/USA-FDSIN3H.ts
 #EXTINF:-1 tvg-chno="69779" tvg-name="FanDuel Sports Network Kansas City" tvg-logo="https://zap2it.tmsimg.com/assets/s19739_ll_h15_ac.png" group-title="United States" tvg-id="FDSKC2" tvc-guide-stationid="69779",FanDuel Sports Network Kansas City
 http://example.local/USA-FDSKC2.ts
+#EXTINF:-1 tvg-chno="19739" tvg-name="FanDuel Sports Network Kansas City" tvg-logo="https://zap2it.tmsimg.com/assets/s19739_ll_h15_ac.png" group-title="United States" tvg-id="FDSKC1" tvc-guide-stationid="19739",FanDuel Sports Network Kansas City
+http://example.local/USA-FDSKC1.ts
 #EXTINF:-1 tvg-chno="59945" tvg-name="FanDuel Sports Network Kansas City HD" tvg-logo="https://zap2it.tmsimg.com/assets/s19739_ll_h15_ac.png" group-title="United States" tvg-id="FDKC1H" tvc-guide-stationid="59945",FanDuel Sports Network Kansas City HD
 http://example.local/USA-FDKC1H.ts
 #EXTINF:-1 tvg-chno="65658" tvg-name="FanDuel Sports Network Kansas City- Nebraska" tvg-logo="https://zap2it.tmsimg.com/assets/s19739_ll_h15_ac.png" group-title="United States" tvg-id="FDMNE1H" tvc-guide-stationid="65658",FanDuel Sports Network Kansas City- Nebraska
@@ -335,10 +521,10 @@ http://example.local/USA-FDMWSAT.ts
 http://example.local/USA-FDMWBCB.ts
 #EXTINF:-1 tvg-chno="50057" tvg-name="FanDuel Sports Network Midwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s50057_ll_h15_ac.png" group-title="United States" tvg-id="FDNHDMW" tvc-guide-stationid="50057",FanDuel Sports Network Midwest HD
 http://example.local/USA-FDNHDMW.ts
-#EXTINF:-1 tvg-chno="74333" tvg-name="FanDuel Sports Network Midwest HD" group-title="United States" tvg-id="FDMSATH" tvc-guide-stationid="74333",FanDuel Sports Network Midwest HD
-http://example.local/USA-FDMSATH.ts
 #EXTINF:-1 tvg-chno="61088" tvg-name="FanDuel Sports Network Midwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s11058_ll_h15_ac.png" group-title="United States" tvg-id="DFDMWHD" tvc-guide-stationid="61088",FanDuel Sports Network Midwest HD
 http://example.local/USA-DFDMWHD.ts
+#EXTINF:-1 tvg-chno="74333" tvg-name="FanDuel Sports Network Midwest HD" group-title="United States" tvg-id="FDMSATH" tvc-guide-stationid="74333",FanDuel Sports Network Midwest HD
+http://example.local/USA-FDMSATH.ts
 #EXTINF:-1 tvg-chno="82794" tvg-name="FanDuel Sports Network Midwest HD- Illinois" tvg-logo="https://zap2it.tmsimg.com/assets/s50057_ll_h15_ac.png" group-title="United States" tvg-id="FDMWHD" tvc-guide-stationid="82794",FanDuel Sports Network Midwest HD- Illinois
 http://example.local/USA-FDMWHD.ts
 #EXTINF:-1 tvg-chno="107961" tvg-name="FanDuel Sports Network Midwest HD- Illinois" tvg-logo="https://zap2it.tmsimg.com/assets/s11058_ll_h15_ac.png" group-title="United States" tvg-id="FDMIL2H" tvc-guide-stationid="107961",FanDuel Sports Network Midwest HD- Illinois
@@ -373,9 +559,9 @@ http://example.local/USA-FDMWMO3.ts
 http://example.local/USA-FDSNOR.ts
 #EXTINF:-1 tvg-chno="71686" tvg-name="FanDuel Sports Network North" tvg-logo="https://zap2it.tmsimg.com/assets/s10977_ll_h15_ac.png" group-title="United States" tvg-id="FDNO2NS" tvc-guide-stationid="71686",FanDuel Sports Network North
 http://example.local/USA-FDNO2NS.ts
-#EXTINF:-1 tvg-chno="180594" tvg-name="FanDuel Sports Network North Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSNOPIA" tvc-guide-stationid="180594",FanDuel Sports Network North Extra
+#EXTINF:-1 tvg-chno="180594" tvg-name="FanDuel Sports Network North Extra" group-title="United States" tvg-id="FSNOPIA" tvc-guide-stationid="180594",FanDuel Sports Network North Extra
 http://example.local/USA-FSNOPIA.ts
-#EXTINF:-1 tvg-chno="180627" tvg-name="FanDuel Sports Network North Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s55739_ll_h15_ad.png" group-title="United States" tvg-id="FSNOPMN" tvc-guide-stationid="180627",FanDuel Sports Network North Extra
+#EXTINF:-1 tvg-chno="180627" tvg-name="FanDuel Sports Network North Extra" group-title="United States" tvg-id="FSNOPMN" tvc-guide-stationid="180627",FanDuel Sports Network North Extra
 http://example.local/USA-FSNOPMN.ts
 #EXTINF:-1 tvg-chno="74436" tvg-name="FanDuel Sports Network North HD" tvg-logo="https://zap2it.tmsimg.com/assets/s74436_ll_h15_ab.png" group-title="United States" tvg-id="FDNORHD" tvc-guide-stationid="74436",FanDuel Sports Network North HD
 http://example.local/USA-FDNORHD.ts
@@ -393,16 +579,16 @@ http://example.local/USA-FDSNOH.ts
 http://example.local/USA-FDOH13.ts
 #EXTINF:-1 tvg-chno="24227" tvg-name="FanDuel Sports Network Ohio" tvg-logo="https://zap2it.tmsimg.com/assets/s11106_ll_h15_ac.png" group-title="United States" tvg-id="FDOHNR" tvc-guide-stationid="24227",FanDuel Sports Network Ohio
 http://example.local/USA-FDOHNR.ts
-#EXTINF:-1 tvg-chno="63712" tvg-name="FanDuel Sports Network Ohio HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49691_ll_h15_ac.png" group-title="United States" tvg-id="FDOHHD1" tvc-guide-stationid="63712",FanDuel Sports Network Ohio HD
-http://example.local/USA-FDOHHD1.ts
-#EXTINF:-1 tvg-chno="49691" tvg-name="FanDuel Sports Network Ohio HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49691_ll_h15_ac.png" group-title="United States" tvg-id="FDOHHD" tvc-guide-stationid="49691",FanDuel Sports Network Ohio HD
-http://example.local/USA-FDOHHD.ts
-#EXTINF:-1 tvg-chno="82887" tvg-name="FanDuel Sports Network Ohio HD" tvg-logo="https://zap2it.tmsimg.com/assets/s11106_ll_h15_ac.png" group-title="United States" tvg-id="FDOH8HD" tvc-guide-stationid="82887",FanDuel Sports Network Ohio HD
-http://example.local/USA-FDOH8HD.ts
 #EXTINF:-1 tvg-chno="63199" tvg-name="FanDuel Sports Network Ohio HD" tvg-logo="https://zap2it.tmsimg.com/assets/s11106_ll_h15_ac.png" group-title="United States" tvg-id="FDOH7HD" tvc-guide-stationid="63199",FanDuel Sports Network Ohio HD
 http://example.local/USA-FDOH7HD.ts
+#EXTINF:-1 tvg-chno="63712" tvg-name="FanDuel Sports Network Ohio HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49691_ll_h15_ac.png" group-title="United States" tvg-id="FDOHHD1" tvc-guide-stationid="63712",FanDuel Sports Network Ohio HD
+http://example.local/USA-FDOHHD1.ts
+#EXTINF:-1 tvg-chno="82887" tvg-name="FanDuel Sports Network Ohio HD" tvg-logo="https://zap2it.tmsimg.com/assets/s11106_ll_h15_ac.png" group-title="United States" tvg-id="FDOH8HD" tvc-guide-stationid="82887",FanDuel Sports Network Ohio HD
+http://example.local/USA-FDOH8HD.ts
 #EXTINF:-1 tvg-chno="71711" tvg-name="FanDuel Sports Network Ohio HD" tvg-logo="https://zap2it.tmsimg.com/assets/s11106_ll_h15_ac.png" group-title="United States" tvg-id="FDOH6H" tvc-guide-stationid="71711",FanDuel Sports Network Ohio HD
 http://example.local/USA-FDOH6H.ts
+#EXTINF:-1 tvg-chno="49691" tvg-name="FanDuel Sports Network Ohio HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49691_ll_h15_ac.png" group-title="United States" tvg-id="FDOHHD" tvc-guide-stationid="49691",FanDuel Sports Network Ohio HD
+http://example.local/USA-FDOHHD.ts
 #EXTINF:-1 tvg-chno="82990" tvg-name="FanDuel Sports Network Ohio HD" tvg-logo="https://zap2it.tmsimg.com/assets/s11106_ll_h15_ac.png" group-title="United States" tvg-id="FDOH13H" tvc-guide-stationid="82990",FanDuel Sports Network Ohio HD
 http://example.local/USA-FDOH13H.ts
 #EXTINF:-1 tvg-chno="61872" tvg-name="FanDuel Sports Network Ohio HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49691_ll_h15_ac.png" group-title="United States" tvg-id="TWFDOHD" tvc-guide-stationid="61872",FanDuel Sports Network Ohio HD
@@ -465,10 +651,10 @@ http://example.local/USA-FDSW4HD.ts
 http://example.local/USA-FDSWOM4.ts
 #EXTINF:-1 tvg-chno="16743" tvg-name="FanDuel Sports Network SoCal" tvg-logo="https://zap2it.tmsimg.com/assets/s16743_ll_h15_ac.png" group-title="United States" tvg-id="FDSNSC" tvc-guide-stationid="16743",FanDuel Sports Network SoCal
 http://example.local/USA-FDSNSC.ts
-#EXTINF:-1 tvg-chno="102057" tvg-name="FanDuel Sports Network SoCal" tvg-logo="https://zap2it.tmsimg.com/assets/s16743_ll_h15_ac.png" group-title="United States" tvg-id="FDSNSC1" tvc-guide-stationid="102057",FanDuel Sports Network SoCal
-http://example.local/USA-FDSNSC1.ts
 #EXTINF:-1 tvg-chno="106641" tvg-name="FanDuel Sports Network SoCal" tvg-logo="https://zap2it.tmsimg.com/assets/s16743_ll_h15_ac.png" group-title="United States" tvg-id="FDSNSC4" tvc-guide-stationid="106641",FanDuel Sports Network SoCal
 http://example.local/USA-FDSNSC4.ts
+#EXTINF:-1 tvg-chno="102057" tvg-name="FanDuel Sports Network SoCal" tvg-logo="https://zap2it.tmsimg.com/assets/s16743_ll_h15_ac.png" group-title="United States" tvg-id="FDSNSC1" tvc-guide-stationid="102057",FanDuel Sports Network SoCal
+http://example.local/USA-FDSNSC1.ts
 #EXTINF:-1 tvg-chno="59625" tvg-name="FanDuel Sports Network SoCal HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59625_ll_h15_ac.png" group-title="United States" tvg-id="FDSCHD" tvc-guide-stationid="59625",FanDuel Sports Network SoCal HD
 http://example.local/USA-FDSCHD.ts
 #EXTINF:-1 tvg-chno="102058" tvg-name="FanDuel Sports Network SoCal HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59625_ll_h15_ac.png" group-title="United States" tvg-id="FDSC1HD" tvc-guide-stationid="102058",FanDuel Sports Network SoCal HD
@@ -495,52 +681,54 @@ http://example.local/USA-FDSC4LA.ts
 http://example.local/USA-FDSCOM.ts
 #EXTINF:-1 tvg-chno="74859" tvg-name="FanDuel Sports Network SoCal- San Diego" group-title="United States" tvg-id="FDSCSD" tvc-guide-stationid="74859",FanDuel Sports Network SoCal- San Diego
 http://example.local/USA-FDSCSD.ts
-#EXTINF:-1 tvg-chno="12410" tvg-name="FanDuel Sports Network South" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSSO" tvc-guide-stationid="12410",FanDuel Sports Network South
-http://example.local/USA-FDSSO.ts
+#EXTINF:-1 tvg-chno="46147" tvg-name="FanDuel Sports Network South" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOTN2" tvc-guide-stationid="46147",FanDuel Sports Network South
+http://example.local/USA-FDSOTN2.ts
 #EXTINF:-1 tvg-chno="102192" tvg-name="FanDuel Sports Network South" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOAL2" tvc-guide-stationid="102192",FanDuel Sports Network South
 http://example.local/USA-FDSOAL2.ts
+#EXTINF:-1 tvg-chno="102197" tvg-name="FanDuel Sports Network South" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOMS2" tvc-guide-stationid="102197",FanDuel Sports Network South
+http://example.local/USA-FDSOMS2.ts
 #EXTINF:-1 tvg-chno="11129" tvg-name="FanDuel Sports Network South" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOGA1" tvc-guide-stationid="11129",FanDuel Sports Network South
 http://example.local/USA-FDSOGA1.ts
 #EXTINF:-1 tvg-chno="75057" tvg-name="FanDuel Sports Network South" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOGA2" tvc-guide-stationid="75057",FanDuel Sports Network South
 http://example.local/USA-FDSOGA2.ts
+#EXTINF:-1 tvg-chno="12410" tvg-name="FanDuel Sports Network South" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSSO" tvc-guide-stationid="12410",FanDuel Sports Network South
+http://example.local/USA-FDSSO.ts
+#EXTINF:-1 tvg-chno="40999" tvg-name="FanDuel Sports Network South" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOAL3" tvc-guide-stationid="40999",FanDuel Sports Network South
+http://example.local/USA-FDSOAL3.ts
+#EXTINF:-1 tvg-chno="71750" tvg-name="FanDuel Sports Network South" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOMS3" tvc-guide-stationid="71750",FanDuel Sports Network South
+http://example.local/USA-FDSOMS3.ts
 #EXTINF:-1 tvg-chno="49604" tvg-name="FanDuel Sports Network South" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOMS1" tvc-guide-stationid="49604",FanDuel Sports Network South
 http://example.local/USA-FDSOMS1.ts
+#EXTINF:-1 tvg-chno="40707" tvg-name="FanDuel Sports Network South" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOAL1" tvc-guide-stationid="40707",FanDuel Sports Network South
+http://example.local/USA-FDSOAL1.ts
+#EXTINF:-1 tvg-chno="105516" tvg-name="FanDuel Sports Network South" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOAL4" tvc-guide-stationid="105516",FanDuel Sports Network South
+http://example.local/USA-FDSOAL4.ts
 #EXTINF:-1 tvg-chno="68587" tvg-name="FanDuel Sports Network South" group-title="United States" tvg-id="TWFSCHD" tvc-guide-stationid="68587",FanDuel Sports Network South
 http://example.local/USA-TWFSCHD.ts
 #EXTINF:-1 tvg-chno="61994" tvg-name="FanDuel Sports Network South" group-title="United States" tvg-id="TWFSCR1" tvc-guide-stationid="61994",FanDuel Sports Network South
 http://example.local/USA-TWFSCR1.ts
-#EXTINF:-1 tvg-chno="105516" tvg-name="FanDuel Sports Network South" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOAL4" tvc-guide-stationid="105516",FanDuel Sports Network South
-http://example.local/USA-FDSOAL4.ts
-#EXTINF:-1 tvg-chno="71750" tvg-name="FanDuel Sports Network South" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOMS3" tvc-guide-stationid="71750",FanDuel Sports Network South
-http://example.local/USA-FDSOMS3.ts
-#EXTINF:-1 tvg-chno="40707" tvg-name="FanDuel Sports Network South" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOAL1" tvc-guide-stationid="40707",FanDuel Sports Network South
-http://example.local/USA-FDSOAL1.ts
-#EXTINF:-1 tvg-chno="40999" tvg-name="FanDuel Sports Network South" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOAL3" tvc-guide-stationid="40999",FanDuel Sports Network South
-http://example.local/USA-FDSOAL3.ts
-#EXTINF:-1 tvg-chno="46147" tvg-name="FanDuel Sports Network South" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOTN2" tvc-guide-stationid="46147",FanDuel Sports Network South
-http://example.local/USA-FDSOTN2.ts
 #EXTINF:-1 tvg-chno="75970" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSSOHD" tvc-guide-stationid="75970",FanDuel Sports Network South HD
 http://example.local/USA-FDSSOHD.ts
-#EXTINF:-1 tvg-chno="96921" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOHD4" tvc-guide-stationid="96921",FanDuel Sports Network South HD
-http://example.local/USA-FDSOHD4.ts
-#EXTINF:-1 tvg-chno="61092" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="DFDSOHD" tvc-guide-stationid="61092",FanDuel Sports Network South HD
-http://example.local/USA-DFDSOHD.ts
 #EXTINF:-1 tvg-chno="102193" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOBHH" tvc-guide-stationid="102193",FanDuel Sports Network South HD
 http://example.local/USA-FDSOBHH.ts
-#EXTINF:-1 tvg-chno="58949" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FXFSSEH" tvc-guide-stationid="58949",FanDuel Sports Network South HD
-http://example.local/USA-FXFSSEH.ts
-#EXTINF:-1 tvg-chno="91955" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSO1MH" tvc-guide-stationid="91955",FanDuel Sports Network South HD
-http://example.local/USA-FDSO1MH.ts
-#EXTINF:-1 tvg-chno="105518" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSAL4H" tvc-guide-stationid="105518",FanDuel Sports Network South HD
-http://example.local/USA-FDSAL4H.ts
-#EXTINF:-1 tvg-chno="101888" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDS1MNH" tvc-guide-stationid="101888",FanDuel Sports Network South HD
-http://example.local/USA-FDS1MNH.ts
 #EXTINF:-1 tvg-chno="102198" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOEVH" tvc-guide-stationid="102198",FanDuel Sports Network South HD
 http://example.local/USA-FDSOEVH.ts
 #EXTINF:-1 tvg-chno="105359" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSAL3H" tvc-guide-stationid="105359",FanDuel Sports Network South HD
 http://example.local/USA-FDSAL3H.ts
+#EXTINF:-1 tvg-chno="101888" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDS1MNH" tvc-guide-stationid="101888",FanDuel Sports Network South HD
+http://example.local/USA-FDS1MNH.ts
+#EXTINF:-1 tvg-chno="91955" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSO1MH" tvc-guide-stationid="91955",FanDuel Sports Network South HD
+http://example.local/USA-FDSO1MH.ts
 #EXTINF:-1 tvg-chno="105360" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSAL1H" tvc-guide-stationid="105360",FanDuel Sports Network South HD
 http://example.local/USA-FDSAL1H.ts
+#EXTINF:-1 tvg-chno="105518" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSAL4H" tvc-guide-stationid="105518",FanDuel Sports Network South HD
+http://example.local/USA-FDSAL4H.ts
+#EXTINF:-1 tvg-chno="61092" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="DFDSOHD" tvc-guide-stationid="61092",FanDuel Sports Network South HD
+http://example.local/USA-DFDSOHD.ts
+#EXTINF:-1 tvg-chno="96921" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOHD4" tvc-guide-stationid="96921",FanDuel Sports Network South HD
+http://example.local/USA-FDSOHD4.ts
+#EXTINF:-1 tvg-chno="58949" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FXFSSEH" tvc-guide-stationid="58949",FanDuel Sports Network South HD
+http://example.local/USA-FXFSSEH.ts
 #EXTINF:-1 tvg-chno="62113" tvg-name="FanDuel Sports Network South HD- Carolina" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSCR1H" tvc-guide-stationid="62113",FanDuel Sports Network South HD- Carolina
 http://example.local/USA-FDSCR1H.ts
 #EXTINF:-1 tvg-chno="65466" tvg-name="FanDuel Sports Network South HD- Georgia" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDS1GHD" tvc-guide-stationid="65466",FanDuel Sports Network South HD- Georgia
@@ -567,10 +755,10 @@ http://example.local/USA-FDSSOOH.ts
 http://example.local/USA-FSCRANH.ts
 #EXTINF:-1 tvg-chno="71909" tvg-name="FanDuel Sports Network South HD- Tennessee" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FSTNBPH" tvc-guide-stationid="71909",FanDuel Sports Network South HD- Tennessee
 http://example.local/USA-FSTNBPH.ts
-#EXTINF:-1 tvg-chno="69027" tvg-name="FanDuel Sports Network South HD- Tennessee (Non-Memphis)" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FSTNMPH" tvc-guide-stationid="69027",FanDuel Sports Network South HD- Tennessee (Non-Memphis)
-http://example.local/USA-FSTNMPH.ts
 #EXTINF:-1 tvg-chno="95978" tvg-name="FanDuel Sports Network South HD- Tennessee (Non-Memphis)" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FSNS11H" tvc-guide-stationid="95978",FanDuel Sports Network South HD- Tennessee (Non-Memphis)
 http://example.local/USA-FSNS11H.ts
+#EXTINF:-1 tvg-chno="69027" tvg-name="FanDuel Sports Network South HD- Tennessee (Non-Memphis)" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FSTNMPH" tvc-guide-stationid="69027",FanDuel Sports Network South HD- Tennessee (Non-Memphis)
+http://example.local/USA-FSTNMPH.ts
 #EXTINF:-1 tvg-chno="65266" tvg-name="FanDuel Sports Network South HD- Tennessee East" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FSTNEHD" tvc-guide-stationid="65266",FanDuel Sports Network South HD- Tennessee East
 http://example.local/USA-FSTNEHD.ts
 #EXTINF:-1 tvg-chno="62128" tvg-name="FanDuel Sports Network South HD- Tennessee/Memphis" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FSTNHD" tvc-guide-stationid="62128",FanDuel Sports Network South HD- Tennessee/Memphis
@@ -599,10 +787,10 @@ http://example.local/USA-FDSSOO.ts
 http://example.local/USA-FDSOKY1.ts
 #EXTINF:-1 tvg-chno="18022" tvg-name="FanDuel Sports Network South- South Carolina" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOSC1" tvc-guide-stationid="18022",FanDuel Sports Network South- South Carolina
 http://example.local/USA-FDSOSC1.ts
-#EXTINF:-1 tvg-chno="96968" tvg-name="FanDuel Sports Network South- Tennessee" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSNS25" tvc-guide-stationid="96968",FanDuel Sports Network South- Tennessee
-http://example.local/USA-FDSNS25.ts
 #EXTINF:-1 tvg-chno="95962" tvg-name="FanDuel Sports Network South- Tennessee" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSNS11" tvc-guide-stationid="95962",FanDuel Sports Network South- Tennessee
 http://example.local/USA-FDSNS11.ts
+#EXTINF:-1 tvg-chno="96968" tvg-name="FanDuel Sports Network South- Tennessee" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSNS25" tvc-guide-stationid="96968",FanDuel Sports Network South- Tennessee
+http://example.local/USA-FDSNS25.ts
 #EXTINF:-1 tvg-chno="96969" tvg-name="FanDuel Sports Network South- Tennessee" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSNS3" tvc-guide-stationid="96969",FanDuel Sports Network South- Tennessee
 http://example.local/USA-FDSNS3.ts
 #EXTINF:-1 tvg-chno="25515" tvg-name="FanDuel Sports Network South- Tennessee East" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOTN4" tvc-guide-stationid="25515",FanDuel Sports Network South- Tennessee East
@@ -611,76 +799,78 @@ http://example.local/USA-FDSOTN4.ts
 http://example.local/USA-FDSOTN1.ts
 #EXTINF:-1 tvg-chno="50608" tvg-name="FanDuel Sports Network South- Tennesssee (Non-Memphis)" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOTN3" tvc-guide-stationid="50608",FanDuel Sports Network South- Tennesssee (Non-Memphis)
 http://example.local/USA-FDSOTN3.ts
-#EXTINF:-1 tvg-chno="20789" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSE" tvc-guide-stationid="20789",FanDuel Sports Network Southeast
-http://example.local/USA-FDSE.ts
-#EXTINF:-1 tvg-chno="102215" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEGA2" tvc-guide-stationid="102215",FanDuel Sports Network Southeast
-http://example.local/USA-FDSEGA2.ts
-#EXTINF:-1 tvg-chno="61825" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSETN3" tvc-guide-stationid="61825",FanDuel Sports Network Southeast
-http://example.local/USA-FDSETN3.ts
+#EXTINF:-1 tvg-chno="102195" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSETN2" tvc-guide-stationid="102195",FanDuel Sports Network Southeast
+http://example.local/USA-FDSETN2.ts
 #EXTINF:-1 tvg-chno="61819" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSECN2" tvc-guide-stationid="61819",FanDuel Sports Network Southeast
 http://example.local/USA-FDSECN2.ts
 #EXTINF:-1 tvg-chno="67172" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSENC1" tvc-guide-stationid="67172",FanDuel Sports Network Southeast
 http://example.local/USA-FDSENC1.ts
+#EXTINF:-1 tvg-chno="102200" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEMS2" tvc-guide-stationid="102200",FanDuel Sports Network Southeast
+http://example.local/USA-FDSEMS2.ts
+#EXTINF:-1 tvg-chno="20789" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSE" tvc-guide-stationid="20789",FanDuel Sports Network Southeast
+http://example.local/USA-FDSE.ts
 #EXTINF:-1 tvg-chno="102213" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSESC3" tvc-guide-stationid="102213",FanDuel Sports Network Southeast
 http://example.local/USA-FDSESC3.ts
 #EXTINF:-1 tvg-chno="80398" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSETN4" tvc-guide-stationid="80398",FanDuel Sports Network Southeast
 http://example.local/USA-FDSETN4.ts
-#EXTINF:-1 tvg-chno="102218" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEMS1" tvc-guide-stationid="102218",FanDuel Sports Network Southeast
-http://example.local/USA-FDSEMS1.ts
-#EXTINF:-1 tvg-chno="102195" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSETN2" tvc-guide-stationid="102195",FanDuel Sports Network Southeast
-http://example.local/USA-FDSETN2.ts
-#EXTINF:-1 tvg-chno="105379" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSESC2" tvc-guide-stationid="105379",FanDuel Sports Network Southeast
-http://example.local/USA-FDSESC2.ts
-#EXTINF:-1 tvg-chno="105381" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEAL4" tvc-guide-stationid="105381",FanDuel Sports Network Southeast
-http://example.local/USA-FDSEAL4.ts
-#EXTINF:-1 tvg-chno="89889" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEMS3" tvc-guide-stationid="89889",FanDuel Sports Network Southeast
-http://example.local/USA-FDSEMS3.ts
-#EXTINF:-1 tvg-chno="55774" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEC" tvc-guide-stationid="55774",FanDuel Sports Network Southeast
-http://example.local/USA-FDSEC.ts
-#EXTINF:-1 tvg-chno="102222" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEAL1" tvc-guide-stationid="102222",FanDuel Sports Network Southeast
-http://example.local/USA-FDSEAL1.ts
-#EXTINF:-1 tvg-chno="97722" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEHPG" tvc-guide-stationid="97722",FanDuel Sports Network Southeast
-http://example.local/USA-FDSEHPG.ts
+#EXTINF:-1 tvg-chno="102215" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEGA2" tvc-guide-stationid="102215",FanDuel Sports Network Southeast
+http://example.local/USA-FDSEGA2.ts
+#EXTINF:-1 tvg-chno="61825" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSETN3" tvc-guide-stationid="61825",FanDuel Sports Network Southeast
+http://example.local/USA-FDSETN3.ts
 #EXTINF:-1 tvg-chno="102220" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEAL3" tvc-guide-stationid="102220",FanDuel Sports Network Southeast
 http://example.local/USA-FDSEAL3.ts
+#EXTINF:-1 tvg-chno="105379" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSESC2" tvc-guide-stationid="105379",FanDuel Sports Network Southeast
+http://example.local/USA-FDSESC2.ts
+#EXTINF:-1 tvg-chno="89889" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEMS3" tvc-guide-stationid="89889",FanDuel Sports Network Southeast
+http://example.local/USA-FDSEMS3.ts
+#EXTINF:-1 tvg-chno="102218" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEMS1" tvc-guide-stationid="102218",FanDuel Sports Network Southeast
+http://example.local/USA-FDSEMS1.ts
+#EXTINF:-1 tvg-chno="102222" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEAL1" tvc-guide-stationid="102222",FanDuel Sports Network Southeast
+http://example.local/USA-FDSEAL1.ts
+#EXTINF:-1 tvg-chno="105381" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEAL4" tvc-guide-stationid="105381",FanDuel Sports Network Southeast
+http://example.local/USA-FDSEAL4.ts
+#EXTINF:-1 tvg-chno="55774" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEC" tvc-guide-stationid="55774",FanDuel Sports Network Southeast
+http://example.local/USA-FDSEC.ts
+#EXTINF:-1 tvg-chno="97722" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEHPG" tvc-guide-stationid="97722",FanDuel Sports Network Southeast
+http://example.local/USA-FDSEHPG.ts
 #EXTINF:-1 tvg-chno="72091" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEBR" tvc-guide-stationid="72091",FanDuel Sports Network Southeast
 http://example.local/USA-FDSEBR.ts
 #EXTINF:-1 tvg-chno="61138" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSEG1H" tvc-guide-stationid="61138",FanDuel Sports Network Southeast HD
 http://example.local/USA-FDSEG1H.ts
 #EXTINF:-1 tvg-chno="102212" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSEA2H" tvc-guide-stationid="102212",FanDuel Sports Network Southeast HD
 http://example.local/USA-FDSEA2H.ts
+#EXTINF:-1 tvg-chno="102221" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSEA3H" tvc-guide-stationid="102221",FanDuel Sports Network Southeast HD
+http://example.local/USA-FDSEA3H.ts
+#EXTINF:-1 tvg-chno="80403" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSET4H" tvc-guide-stationid="80403",FanDuel Sports Network Southeast HD
+http://example.local/USA-FDSET4H.ts
 #EXTINF:-1 tvg-chno="102216" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSEG2H" tvc-guide-stationid="102216",FanDuel Sports Network Southeast HD
 http://example.local/USA-FDSEG2H.ts
 #EXTINF:-1 tvg-chno="70340" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSET3H" tvc-guide-stationid="70340",FanDuel Sports Network Southeast HD
 http://example.local/USA-FDSET3H.ts
-#EXTINF:-1 tvg-chno="70015" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEN2H" tvc-guide-stationid="70015",FanDuel Sports Network Southeast HD
-http://example.local/USA-FDSEN2H.ts
-#EXTINF:-1 tvg-chno="80403" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSET4H" tvc-guide-stationid="80403",FanDuel Sports Network Southeast HD
-http://example.local/USA-FDSET4H.ts
-#EXTINF:-1 tvg-chno="102219" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSEM1H" tvc-guide-stationid="102219",FanDuel Sports Network Southeast HD
-http://example.local/USA-FDSEM1H.ts
 #EXTINF:-1 tvg-chno="105380" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSES2H" tvc-guide-stationid="105380",FanDuel Sports Network Southeast HD
 http://example.local/USA-FDSES2H.ts
+#EXTINF:-1 tvg-chno="89890" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSEM3H" tvc-guide-stationid="89890",FanDuel Sports Network Southeast HD
+http://example.local/USA-FDSEM3H.ts
+#EXTINF:-1 tvg-chno="102219" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSEM1H" tvc-guide-stationid="102219",FanDuel Sports Network Southeast HD
+http://example.local/USA-FDSEM1H.ts
+#EXTINF:-1 tvg-chno="102223" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSEA1H" tvc-guide-stationid="102223",FanDuel Sports Network Southeast HD
+http://example.local/USA-FDSEA1H.ts
 #EXTINF:-1 tvg-chno="105382" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSEA4H" tvc-guide-stationid="105382",FanDuel Sports Network Southeast HD
 http://example.local/USA-FDSEA4H.ts
+#EXTINF:-1 tvg-chno="70015" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEN2H" tvc-guide-stationid="70015",FanDuel Sports Network Southeast HD
+http://example.local/USA-FDSEN2H.ts
 #EXTINF:-1 tvg-chno="67795" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSECRH" tvc-guide-stationid="67795",FanDuel Sports Network Southeast HD
 http://example.local/USA-FDSECRH.ts
 #EXTINF:-1 tvg-chno="99217" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSERDH" tvc-guide-stationid="99217",FanDuel Sports Network Southeast HD
 http://example.local/USA-FDSERDH.ts
-#EXTINF:-1 tvg-chno="89890" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSEM3H" tvc-guide-stationid="89890",FanDuel Sports Network Southeast HD
-http://example.local/USA-FDSEM3H.ts
 #EXTINF:-1 tvg-chno="102202" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSEM2H" tvc-guide-stationid="102202",FanDuel Sports Network Southeast HD
 http://example.local/USA-FDSEM2H.ts
-#EXTINF:-1 tvg-chno="102221" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSEA3H" tvc-guide-stationid="102221",FanDuel Sports Network Southeast HD
-http://example.local/USA-FDSEA3H.ts
-#EXTINF:-1 tvg-chno="102223" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSEA1H" tvc-guide-stationid="102223",FanDuel Sports Network Southeast HD
-http://example.local/USA-FDSEA1H.ts
+#EXTINF:-1 tvg-chno="98070" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSECHD" tvc-guide-stationid="98070",FanDuel Sports Network Southeast HD
+http://example.local/USA-FDSECHD.ts
 #EXTINF:-1 tvg-chno="69994" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSENHH" tvc-guide-stationid="69994",FanDuel Sports Network Southeast HD
 http://example.local/USA-FDSENHH.ts
 #EXTINF:-1 tvg-chno="82246" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSEBRH" tvc-guide-stationid="82246",FanDuel Sports Network Southeast HD
 http://example.local/USA-FDSEBRH.ts
-#EXTINF:-1 tvg-chno="98070" tvg-name="FanDuel Sports Network Southeast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61138_ll_h15_ac.png" group-title="United States" tvg-id="FDSECHD" tvc-guide-stationid="98070",FanDuel Sports Network Southeast HD
-http://example.local/USA-FDSECHD.ts
 #EXTINF:-1 tvg-chno="102226" tvg-name="FanDuel Sports Network Southeast HD- Baton Rouge" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSEBHD" tvc-guide-stationid="102226",FanDuel Sports Network Southeast HD- Baton Rouge
 http://example.local/USA-FDSEBHD.ts
 #EXTINF:-1 tvg-chno="102214" tvg-name="FanDuel Sports Network Southeast HD- Charleston SC" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSES3H" tvc-guide-stationid="102214",FanDuel Sports Network Southeast HD- Charleston SC
@@ -713,84 +903,84 @@ http://example.local/USA-FDSEOM.ts
 http://example.local/USA-FDSESC1.ts
 #EXTINF:-1 tvg-chno="71706" tvg-name="FanDuel Sports Network Southeast- Tennessee" tvg-logo="https://zap2it.tmsimg.com/assets/s20789_ll_h15_ac.png" group-title="United States" tvg-id="FDSETN" tvc-guide-stationid="71706",FanDuel Sports Network Southeast- Tennessee
 http://example.local/USA-FDSETN.ts
-#EXTINF:-1 tvg-chno="59564" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSWIHD" tvc-guide-stationid="59564",FanDuel Sports Network Southwest
-http://example.local/USA-FDSWIHD.ts
-#EXTINF:-1 tvg-chno="35295" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FSWBALH" tvc-guide-stationid="35295",FanDuel Sports Network Southwest
-http://example.local/USA-FSWBALH.ts
-#EXTINF:-1 tvg-chno="10264" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSW1" tvc-guide-stationid="10264",FanDuel Sports Network Southwest
-http://example.local/USA-FDSW1.ts
-#EXTINF:-1 tvg-chno="10265" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSW2" tvc-guide-stationid="10265",FanDuel Sports Network Southwest
-http://example.local/USA-FDSW2.ts
-#EXTINF:-1 tvg-chno="15001" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSW3" tvc-guide-stationid="15001",FanDuel Sports Network Southwest
-http://example.local/USA-FDSW3.ts
-#EXTINF:-1 tvg-chno="10262" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSW" tvc-guide-stationid="10262",FanDuel Sports Network Southwest
-http://example.local/USA-FDSW.ts
-#EXTINF:-1 tvg-chno="108432" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSWTX4" tvc-guide-stationid="108432",FanDuel Sports Network Southwest
-http://example.local/USA-FDSWTX4.ts
-#EXTINF:-1 tvg-chno="108430" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSWTX5" tvc-guide-stationid="108430",FanDuel Sports Network Southwest
-http://example.local/USA-FDSWTX5.ts
 #EXTINF:-1 tvg-chno="18514" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSW5" tvc-guide-stationid="18514",FanDuel Sports Network Southwest
 http://example.local/USA-FDSW5.ts
 #EXTINF:-1 tvg-chno="84842" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FSWGRIZ" tvc-guide-stationid="84842",FanDuel Sports Network Southwest
 http://example.local/USA-FSWGRIZ.ts
-#EXTINF:-1 tvg-chno="108455" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSWTX2" tvc-guide-stationid="108455",FanDuel Sports Network Southwest
-http://example.local/USA-FDSWTX2.ts
-#EXTINF:-1 tvg-chno="108453" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSWTX3" tvc-guide-stationid="108453",FanDuel Sports Network Southwest
-http://example.local/USA-FDSWTX3.ts
-#EXTINF:-1 tvg-chno="108428" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSWTX7" tvc-guide-stationid="108428",FanDuel Sports Network Southwest
-http://example.local/USA-FDSWTX7.ts
+#EXTINF:-1 tvg-chno="108430" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSWTX5" tvc-guide-stationid="108430",FanDuel Sports Network Southwest
+http://example.local/USA-FDSWTX5.ts
 #EXTINF:-1 tvg-chno="108426" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSWAR3" tvc-guide-stationid="108426",FanDuel Sports Network Southwest
 http://example.local/USA-FDSWAR3.ts
+#EXTINF:-1 tvg-chno="108432" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSWTX4" tvc-guide-stationid="108432",FanDuel Sports Network Southwest
+http://example.local/USA-FDSWTX4.ts
+#EXTINF:-1 tvg-chno="15001" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSW3" tvc-guide-stationid="15001",FanDuel Sports Network Southwest
+http://example.local/USA-FDSW3.ts
+#EXTINF:-1 tvg-chno="10264" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSW1" tvc-guide-stationid="10264",FanDuel Sports Network Southwest
+http://example.local/USA-FDSW1.ts
+#EXTINF:-1 tvg-chno="59564" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSWIHD" tvc-guide-stationid="59564",FanDuel Sports Network Southwest
+http://example.local/USA-FDSWIHD.ts
+#EXTINF:-1 tvg-chno="10265" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSW2" tvc-guide-stationid="10265",FanDuel Sports Network Southwest
+http://example.local/USA-FDSW2.ts
+#EXTINF:-1 tvg-chno="108428" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSWTX7" tvc-guide-stationid="108428",FanDuel Sports Network Southwest
+http://example.local/USA-FDSWTX7.ts
+#EXTINF:-1 tvg-chno="69989" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FSW1BOM" tvc-guide-stationid="69989",FanDuel Sports Network Southwest
+http://example.local/USA-FSW1BOM.ts
+#EXTINF:-1 tvg-chno="108455" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSWTX2" tvc-guide-stationid="108455",FanDuel Sports Network Southwest
+http://example.local/USA-FDSWTX2.ts
+#EXTINF:-1 tvg-chno="10262" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSW" tvc-guide-stationid="10262",FanDuel Sports Network Southwest
+http://example.local/USA-FDSW.ts
+#EXTINF:-1 tvg-chno="35295" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FSWBALH" tvc-guide-stationid="35295",FanDuel Sports Network Southwest
+http://example.local/USA-FSWBALH.ts
+#EXTINF:-1 tvg-chno="108453" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSWTX3" tvc-guide-stationid="108453",FanDuel Sports Network Southwest
+http://example.local/USA-FDSWTX3.ts
 #EXTINF:-1 tvg-chno="42460" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSWH2" tvc-guide-stationid="42460",FanDuel Sports Network Southwest
 http://example.local/USA-FDSWH2.ts
 #EXTINF:-1 tvg-chno="63446" tvg-name="FanDuel Sports Network Southwest" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSW1BO" tvc-guide-stationid="63446",FanDuel Sports Network Southwest
 http://example.local/USA-FDSW1BO.ts
-#EXTINF:-1 tvg-chno="97711" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FSW4MAV" tvc-guide-stationid="97711",FanDuel Sports Network Southwest HD
-http://example.local/USA-FSW4MAV.ts
+#EXTINF:-1 tvg-chno="92415" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FDSW5HD" tvc-guide-stationid="92415",FanDuel Sports Network Southwest HD
+http://example.local/USA-FDSW5HD.ts
+#EXTINF:-1 tvg-chno="108431" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FSWTX5H" tvc-guide-stationid="108431",FanDuel Sports Network Southwest HD
+http://example.local/USA-FSWTX5H.ts
+#EXTINF:-1 tvg-chno="108427" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FSWAR3H" tvc-guide-stationid="108427",FanDuel Sports Network Southwest HD
+http://example.local/USA-FSWAR3H.ts
+#EXTINF:-1 tvg-chno="108433" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FSWTX4H" tvc-guide-stationid="108433",FanDuel Sports Network Southwest HD
+http://example.local/USA-FSWTX4H.ts
+#EXTINF:-1 tvg-chno="98242" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FDSW3HD" tvc-guide-stationid="98242",FanDuel Sports Network Southwest HD
+http://example.local/USA-FDSW3HD.ts
 #EXTINF:-1 tvg-chno="79786" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FDSW2H" tvc-guide-stationid="79786",FanDuel Sports Network Southwest HD
 http://example.local/USA-FDSW2H.ts
-#EXTINF:-1 tvg-chno="58348" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FHDSW2" tvc-guide-stationid="58348",FanDuel Sports Network Southwest HD
-http://example.local/USA-FHDSW2.ts
+#EXTINF:-1 tvg-chno="69448" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FSWNO6H" tvc-guide-stationid="69448",FanDuel Sports Network Southwest HD
+http://example.local/USA-FSWNO6H.ts
+#EXTINF:-1 tvg-chno="108456" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FSWTX2H" tvc-guide-stationid="108456",FanDuel Sports Network Southwest HD
+http://example.local/USA-FSWTX2H.ts
+#EXTINF:-1 tvg-chno="69850" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FSWTXHD" tvc-guide-stationid="69850",FanDuel Sports Network Southwest HD
+http://example.local/USA-FSWTXHD.ts
 #EXTINF:-1 tvg-chno="59629" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FDSWHD" tvc-guide-stationid="59629",FanDuel Sports Network Southwest HD
 http://example.local/USA-FDSWHD.ts
 #EXTINF:-1 tvg-chno="57831" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FHDSWNA" tvc-guide-stationid="57831",FanDuel Sports Network Southwest HD
 http://example.local/USA-FHDSWNA.ts
+#EXTINF:-1 tvg-chno="58348" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FHDSW2" tvc-guide-stationid="58348",FanDuel Sports Network Southwest HD
+http://example.local/USA-FHDSW2.ts
 #EXTINF:-1 tvg-chno="63444" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FDSWBO" tvc-guide-stationid="63444",FanDuel Sports Network Southwest HD
 http://example.local/USA-FDSWBO.ts
-#EXTINF:-1 tvg-chno="98242" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FDSW3HD" tvc-guide-stationid="98242",FanDuel Sports Network Southwest HD
-http://example.local/USA-FDSW3HD.ts
-#EXTINF:-1 tvg-chno="69850" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FSWTXHD" tvc-guide-stationid="69850",FanDuel Sports Network Southwest HD
-http://example.local/USA-FSWTXHD.ts
-#EXTINF:-1 tvg-chno="108433" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FSWTX4H" tvc-guide-stationid="108433",FanDuel Sports Network Southwest HD
-http://example.local/USA-FSWTX4H.ts
-#EXTINF:-1 tvg-chno="69448" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FSWNO6H" tvc-guide-stationid="69448",FanDuel Sports Network Southwest HD
-http://example.local/USA-FSWNO6H.ts
 #EXTINF:-1 tvg-chno="50350" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FHDSWNR" tvc-guide-stationid="50350",FanDuel Sports Network Southwest HD
 http://example.local/USA-FHDSWNR.ts
-#EXTINF:-1 tvg-chno="108431" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FSWTX5H" tvc-guide-stationid="108431",FanDuel Sports Network Southwest HD
-http://example.local/USA-FSWTX5H.ts
-#EXTINF:-1 tvg-chno="95975" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FDSWDH" tvc-guide-stationid="95975",FanDuel Sports Network Southwest HD
-http://example.local/USA-FDSWDH.ts
-#EXTINF:-1 tvg-chno="54847" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FHDSWM" tvc-guide-stationid="54847",FanDuel Sports Network Southwest HD
-http://example.local/USA-FHDSWM.ts
-#EXTINF:-1 tvg-chno="95940" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSWNOD" tvc-guide-stationid="95940",FanDuel Sports Network Southwest HD
-http://example.local/USA-FDSWNOD.ts
 #EXTINF:-1 tvg-chno="101600" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FSW1BMH" tvc-guide-stationid="101600",FanDuel Sports Network Southwest HD
 http://example.local/USA-FSW1BMH.ts
 #EXTINF:-1 tvg-chno="85010" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FSWGRZH" tvc-guide-stationid="85010",FanDuel Sports Network Southwest HD
 http://example.local/USA-FSWGRZH.ts
-#EXTINF:-1 tvg-chno="92415" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FDSW5HD" tvc-guide-stationid="92415",FanDuel Sports Network Southwest HD
-http://example.local/USA-FDSW5HD.ts
-#EXTINF:-1 tvg-chno="108456" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FSWTX2H" tvc-guide-stationid="108456",FanDuel Sports Network Southwest HD
-http://example.local/USA-FSWTX2H.ts
 #EXTINF:-1 tvg-chno="108454" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FSWTX3H" tvc-guide-stationid="108454",FanDuel Sports Network Southwest HD
 http://example.local/USA-FSWTX3H.ts
 #EXTINF:-1 tvg-chno="108429" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FSWTX7H" tvc-guide-stationid="108429",FanDuel Sports Network Southwest HD
 http://example.local/USA-FSWTX7H.ts
-#EXTINF:-1 tvg-chno="108427" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FSWAR3H" tvc-guide-stationid="108427",FanDuel Sports Network Southwest HD
-http://example.local/USA-FSWAR3H.ts
+#EXTINF:-1 tvg-chno="95940" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s10262_ll_h15_ac.png" group-title="United States" tvg-id="FDSWNOD" tvc-guide-stationid="95940",FanDuel Sports Network Southwest HD
+http://example.local/USA-FDSWNOD.ts
 #EXTINF:-1 tvg-chno="95566" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FSW10HD" tvc-guide-stationid="95566",FanDuel Sports Network Southwest HD
 http://example.local/USA-FSW10HD.ts
+#EXTINF:-1 tvg-chno="97711" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FSW4MAV" tvc-guide-stationid="97711",FanDuel Sports Network Southwest HD
+http://example.local/USA-FSW4MAV.ts
+#EXTINF:-1 tvg-chno="54847" tvg-name="FanDuel Sports Network Southwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FHDSWM" tvc-guide-stationid="54847",FanDuel Sports Network Southwest HD
+http://example.local/USA-FHDSWM.ts
 #EXTINF:-1 tvg-chno="65044" tvg-name="FanDuel Sports Network Southwest HD- Austin" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FSWTAHD" tvc-guide-stationid="65044",FanDuel Sports Network Southwest HD- Austin
 http://example.local/USA-FSWTAHD.ts
 #EXTINF:-1 tvg-chno="70329" tvg-name="FanDuel Sports Network Southwest HD- New Orleans" group-title="United States" tvg-id="FSWNOHD" tvc-guide-stationid="70329",FanDuel Sports Network Southwest HD- New Orleans
@@ -809,213 +999,23 @@ http://example.local/USA-FDSWNNO.ts
 http://example.local/USA-FDSWNO.ts
 #EXTINF:-1 tvg-chno="71290" tvg-name="FanDuel Sports Network Southwest- Out of Market" tvg-logo="https://zap2it.tmsimg.com/assets/s59629_ll_h15_ac.png" group-title="United States" tvg-id="FDSWOM" tvc-guide-stationid="71290",FanDuel Sports Network Southwest- Out of Market
 http://example.local/USA-FDSWOM.ts
-#EXTINF:-1 tvg-chno="18003" tvg-name="FanDuel Sports Network Sun" tvg-logo="https://zap2it.tmsimg.com/assets/s18003_ll_h15_ad.png" group-title="United States" tvg-id="SUNNET" tvc-guide-stationid="18003",FanDuel Sports Network Sun
-http://example.local/USA-SUNNET.ts
 #EXTINF:-1 tvg-chno="108441" tvg-name="FanDuel Sports Network Sun" tvg-logo="https://zap2it.tmsimg.com/assets/s18003_ll_h15_ad.png" group-title="United States" tvg-id="FDSNTPA" tvc-guide-stationid="108441",FanDuel Sports Network Sun
 http://example.local/USA-FDSNTPA.ts
 #EXTINF:-1 tvg-chno="11141" tvg-name="FanDuel Sports Network Sun" tvg-logo="https://zap2it.tmsimg.com/assets/s18003_ll_h15_ad.png" group-title="United States" tvg-id="SUN" tvc-guide-stationid="11141",FanDuel Sports Network Sun
 http://example.local/USA-SUN.ts
-#EXTINF:-1 tvg-chno="96010" tvg-name="FanDuel Sports Network Sun" tvg-logo="https://zap2it.tmsimg.com/assets/s18003_ll_h15_ad.png" group-title="United States" tvg-id="SUNSO" tvc-guide-stationid="96010",FanDuel Sports Network Sun
-http://example.local/USA-SUNSO.ts
-#EXTINF:-1 tvg-chno="108436" tvg-name="FanDuel Sports Network Sun" group-title="United States" tvg-id="FDSNGNV" tvc-guide-stationid="108436",FanDuel Sports Network Sun
-http://example.local/USA-FDSNGNV.ts
-#EXTINF:-1 tvg-chno="108437" tvg-name="FanDuel Sports Network Sun" tvg-logo="https://zap2it.tmsimg.com/assets/s18003_ll_h15_ad.png" group-title="United States" tvg-id="FDSNJAX" tvc-guide-stationid="108437",FanDuel Sports Network Sun
-http://example.local/USA-FDSNJAX.ts
 #EXTINF:-1 tvg-chno="108435" tvg-name="FanDuel Sports Network Sun" group-title="United States" tvg-id="FDSNFTP" tvc-guide-stationid="108435",FanDuel Sports Network Sun
 http://example.local/USA-FDSNFTP.ts
-#EXTINF:-1 tvg-chno="108434" tvg-name="FanDuel Sports Network Sun" group-title="United States" tvg-id="FDSNFTM" tvc-guide-stationid="108434",FanDuel Sports Network Sun
-http://example.local/USA-FDSNFTM.ts
-#EXTINF:-1 tvg-chno="108438" tvg-name="FanDuel Sports Network Sun" tvg-logo="https://zap2it.tmsimg.com/assets/s18003_ll_h15_ad.png" group-title="United States" tvg-id="FDSNNAP" tvc-guide-stationid="108438",FanDuel Sports Network Sun
-http://example.local/USA-FDSNNAP.ts
-#EXTINF:-1 tvg-chno="108439" tvg-name="FanDuel Sports Network Sun" tvg-logo="https://zap2it.tmsimg.com/assets/s18003_ll_h15_ad.png" group-title="United States" tvg-id="FDSNPFN" tvc-guide-stationid="108439",FanDuel Sports Network Sun
-http://example.local/USA-FDSNPFN.ts
 #EXTINF:-1 tvg-chno="108440" tvg-name="FanDuel Sports Network Sun" tvg-logo="https://zap2it.tmsimg.com/assets/s18003_ll_h15_ad.png" group-title="United States" tvg-id="FDSNPSL" tvc-guide-stationid="108440",FanDuel Sports Network Sun
 http://example.local/USA-FDSNPSL.ts
-#EXTINF:-1 tvg-chno="65655" tvg-name="FanDuel Sports Network Sun HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="SUNHD" tvc-guide-stationid="65655",FanDuel Sports Network Sun HD
-http://example.local/USA-SUNHD.ts
-#EXTINF:-1 tvg-chno="108449" tvg-name="FanDuel Sports Network Sun HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="FSNTPAH" tvc-guide-stationid="108449",FanDuel Sports Network Sun HD
-http://example.local/USA-FSNTPAH.ts
-#EXTINF:-1 tvg-chno="108524" tvg-name="FanDuel Sports Network Sun HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="SUNTALH" tvc-guide-stationid="108524",FanDuel Sports Network Sun HD
-http://example.local/USA-SUNTALH.ts
-#EXTINF:-1 tvg-chno="108444" tvg-name="FanDuel Sports Network Sun HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="FSNGNVH" tvc-guide-stationid="108444",FanDuel Sports Network Sun HD
-http://example.local/USA-FSNGNVH.ts
-#EXTINF:-1 tvg-chno="61084" tvg-name="FanDuel Sports Network Sun HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="DTVSUNN" tvc-guide-stationid="61084",FanDuel Sports Network Sun HD
-http://example.local/USA-DTVSUNN.ts
-#EXTINF:-1 tvg-chno="108445" tvg-name="FanDuel Sports Network Sun HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="FSNJAXH" tvc-guide-stationid="108445",FanDuel Sports Network Sun HD
-http://example.local/USA-FSNJAXH.ts
-#EXTINF:-1 tvg-chno="108443" tvg-name="FanDuel Sports Network Sun HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="FSNFTPH" tvc-guide-stationid="108443",FanDuel Sports Network Sun HD
-http://example.local/USA-FSNFTPH.ts
-#EXTINF:-1 tvg-chno="96021" tvg-name="FanDuel Sports Network Sun HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="SUNSOHD" tvc-guide-stationid="96021",FanDuel Sports Network Sun HD
-http://example.local/USA-SUNSOHD.ts
-#EXTINF:-1 tvg-chno="108442" tvg-name="FanDuel Sports Network Sun HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="FSNFTMH" tvc-guide-stationid="108442",FanDuel Sports Network Sun HD
-http://example.local/USA-FSNFTMH.ts
-#EXTINF:-1 tvg-chno="108446" tvg-name="FanDuel Sports Network Sun HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="FSNNAPH" tvc-guide-stationid="108446",FanDuel Sports Network Sun HD
-http://example.local/USA-FSNNAPH.ts
-#EXTINF:-1 tvg-chno="108447" tvg-name="FanDuel Sports Network Sun HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="FSNPFNH" tvc-guide-stationid="108447",FanDuel Sports Network Sun HD
-http://example.local/USA-FSNPFNH.ts
-#EXTINF:-1 tvg-chno="108448" tvg-name="FanDuel Sports Network Sun HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="FSNPSLH" tvc-guide-stationid="108448",FanDuel Sports Network Sun HD
-http://example.local/USA-FSNPSLH.ts
-#EXTINF:-1 tvg-chno="54383" tvg-name="FanDuel Sports Network Sun HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="SUNHEAT" tvc-guide-stationid="54383",FanDuel Sports Network Sun HD
-http://example.local/USA-SUNHEAT.ts
-#EXTINF:-1 tvg-chno="102064" tvg-name="FanDuel Sports Network Sun HD- Dothan" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="FSNDHNH" tvc-guide-stationid="102064",FanDuel Sports Network Sun HD- Dothan
-http://example.local/USA-FSNDHNH.ts
-#EXTINF:-1 tvg-chno="81305" tvg-name="FanDuel Sports Network Sun HD- North" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="SUNSHCF" tvc-guide-stationid="81305",FanDuel Sports Network Sun HD- North
-http://example.local/USA-SUNSHCF.ts
-#EXTINF:-1 tvg-chno="54994" tvg-name="FanDuel Sports Network Sun HD- North Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="SUNNHD" tvc-guide-stationid="54994",FanDuel Sports Network Sun HD- North Florida
-http://example.local/USA-SUNNHD.ts
-#EXTINF:-1 tvg-chno="100689" tvg-name="FanDuel Sports Network Sun HD- North Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="SUNCHD" tvc-guide-stationid="100689",FanDuel Sports Network Sun HD- North Florida
-http://example.local/USA-SUNCHD.ts
-#EXTINF:-1 tvg-chno="71266" tvg-name="FanDuel Sports Network Sun HD- Out of Market" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="SUNOMH" tvc-guide-stationid="71266",FanDuel Sports Network Sun HD- Out of Market
-http://example.local/USA-SUNOMH.ts
-#EXTINF:-1 tvg-chno="102066" tvg-name="FanDuel Sports Network Sun HD- Pensacola" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="FDSNPNH" tvc-guide-stationid="102066",FanDuel Sports Network Sun HD- Pensacola
-http://example.local/USA-FDSNPNH.ts
-#EXTINF:-1 tvg-chno="101695" tvg-name="FanDuel Sports Network Sun HD- Vero Beach" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="SUNVBHD" tvc-guide-stationid="101695",FanDuel Sports Network Sun HD- Vero Beach
-http://example.local/USA-SUNVBHD.ts
-#EXTINF:-1 tvg-chno="102063" tvg-name="FanDuel Sports Network Sun- Dothan" tvg-logo="https://zap2it.tmsimg.com/assets/s18003_ll_h15_ad.png" group-title="United States" tvg-id="FDSNDHN" tvc-guide-stationid="102063",FanDuel Sports Network Sun- Dothan
-http://example.local/USA-FDSNDHN.ts
-#EXTINF:-1 tvg-chno="11142" tvg-name="FanDuel Sports Network Sun- North Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s18003_ll_h15_ad.png" group-title="United States" tvg-id="SUNB" tvc-guide-stationid="11142",FanDuel Sports Network Sun- North Florida
-http://example.local/USA-SUNB.ts
-#EXTINF:-1 tvg-chno="71262" tvg-name="FanDuel Sports Network Sun- Out of Market" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="SUNOM" tvc-guide-stationid="71262",FanDuel Sports Network Sun- Out of Market
-http://example.local/USA-SUNOM.ts
-#EXTINF:-1 tvg-chno="102065" tvg-name="FanDuel Sports Network Sun- Pensacola" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="FDSNPNS" tvc-guide-stationid="102065",FanDuel Sports Network Sun- Pensacola
-http://example.local/USA-FDSNPNS.ts
-#EXTINF:-1 tvg-chno="96018" tvg-name="FanDuel Sports Network Sun- Tallahassee" tvg-logo="https://zap2it.tmsimg.com/assets/s61084_ll_h15_ac.png" group-title="United States" tvg-id="SUNTAL" tvc-guide-stationid="96018",FanDuel Sports Network Sun- Tallahassee
-http://example.local/USA-SUNTAL.ts
-#EXTINF:-1 tvg-chno="101694" tvg-name="FanDuel Sports Network Sun- Vero Beach" tvg-logo="https://zap2it.tmsimg.com/assets/s18003_ll_h15_ad.png" group-title="United States" tvg-id="SUNSVB" tvc-guide-stationid="101694",FanDuel Sports Network Sun- Vero Beach
-http://example.local/USA-SUNSVB.ts
-#EXTINF:-1 tvg-chno="11054" tvg-name="FanDuel Sports Network West" tvg-logo="https://zap2it.tmsimg.com/assets/s59627_ll_h15_ac.png" group-title="United States" tvg-id="FDW" tvc-guide-stationid="11054",FanDuel Sports Network West
-http://example.local/USA-FDW.ts
-#EXTINF:-1 tvg-chno="110767" tvg-name="FanDuel Sports Network West" tvg-logo="https://zap2it.tmsimg.com/assets/s59627_ll_h15_ac.png" group-title="United States" tvg-id="FDWPL" tvc-guide-stationid="110767",FanDuel Sports Network West
-http://example.local/USA-FDWPL.ts
-#EXTINF:-1 tvg-chno="10883" tvg-name="FanDuel Sports Network West" tvg-logo="https://zap2it.tmsimg.com/assets/s102067_ll_h15_ab.png" group-title="United States" tvg-id="FDW2" tvc-guide-stationid="10883",FanDuel Sports Network West
-http://example.local/USA-FDW2.ts
-#EXTINF:-1 tvg-chno="102067" tvg-name="FanDuel Sports Network West" tvg-logo="https://zap2it.tmsimg.com/assets/s102067_ll_h15_ab.png" group-title="United States" tvg-id="FDWF2" tvc-guide-stationid="102067",FanDuel Sports Network West
-http://example.local/USA-FDWF2.ts
-#EXTINF:-1 tvg-chno="59627" tvg-name="FanDuel Sports Network West HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59627_ll_h15_ac.png" group-title="United States" tvg-id="FDWHD" tvc-guide-stationid="59627",FanDuel Sports Network West HD
-http://example.local/USA-FDWHD.ts
-#EXTINF:-1 tvg-chno="56139" tvg-name="FanDuel Sports Network West HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59627_ll_h15_ac.png" group-title="United States" tvg-id="FSWPTHD" tvc-guide-stationid="56139",FanDuel Sports Network West HD
-http://example.local/USA-FSWPTHD.ts
-#EXTINF:-1 tvg-chno="87927" tvg-name="FanDuel Sports Network West HD- BAK" tvg-logo="https://zap2it.tmsimg.com/assets/s102067_ll_h15_ab.png" group-title="United States" tvg-id="BAKFDWH" tvc-guide-stationid="87927",FanDuel Sports Network West HD- BAK
-http://example.local/USA-BAKFDWH.ts
-#EXTINF:-1 tvg-chno="102068" tvg-name="FanDuel Sports Network West HD- Fresno" tvg-logo="https://zap2it.tmsimg.com/assets/s59627_ll_h15_ac.png" group-title="United States" tvg-id="FDWF2HD" tvc-guide-stationid="102068",FanDuel Sports Network West HD- Fresno
-http://example.local/USA-FDWF2HD.ts
-#EXTINF:-1 tvg-chno="106401" tvg-name="FanDuel Sports Network West HD- Las Vegas" tvg-logo="https://zap2it.tmsimg.com/assets/s59627_ll_h15_ac.png" group-title="United States" tvg-id="FDW3LVH" tvc-guide-stationid="106401",FanDuel Sports Network West HD- Las Vegas
-http://example.local/USA-FDW3LVH.ts
-#EXTINF:-1 tvg-chno="71284" tvg-name="FanDuel Sports Network West HD- Out of Market" tvg-logo="https://zap2it.tmsimg.com/assets/s59627_ll_h15_ac.png" group-title="United States" tvg-id="FDWOMH" tvc-guide-stationid="71284",FanDuel Sports Network West HD- Out of Market
-http://example.local/USA-FDWOMH.ts
-#EXTINF:-1 tvg-chno="107384" tvg-name="FanDuel Sports Network West HD- Reno Fresno" tvg-logo="https://zap2it.tmsimg.com/assets/s59627_ll_h15_ac.png" group-title="United States" tvg-id="FDW5HD" tvc-guide-stationid="107384",FanDuel Sports Network West HD- Reno Fresno
-http://example.local/USA-FDW5HD.ts
-#EXTINF:-1 tvg-chno="82125" tvg-name="FanDuel Sports Network West HD- San Diego" tvg-logo="https://zap2it.tmsimg.com/assets/s102067_ll_h15_ab.png" group-title="United States" tvg-id="FDW1HD" tvc-guide-stationid="82125",FanDuel Sports Network West HD- San Diego
-http://example.local/USA-FDW1HD.ts
-#EXTINF:-1 tvg-chno="87926" tvg-name="FanDuel Sports Network West- BAK" tvg-logo="https://zap2it.tmsimg.com/assets/s102067_ll_h15_ab.png" group-title="United States" tvg-id="BAKFDW" tvc-guide-stationid="87926",FanDuel Sports Network West- BAK
-http://example.local/USA-BAKFDW.ts
-#EXTINF:-1 tvg-chno="12715" tvg-name="FanDuel Sports Network West- Hawaii" tvg-logo="https://zap2it.tmsimg.com/assets/s102067_ll_h15_ab.png" group-title="United States" tvg-id="FDWH" tvc-guide-stationid="12715",FanDuel Sports Network West- Hawaii
-http://example.local/USA-FDWH.ts
-#EXTINF:-1 tvg-chno="106400" tvg-name="FanDuel Sports Network West- Las Vegas" tvg-logo="https://zap2it.tmsimg.com/assets/s59627_ll_h15_ac.png" group-title="United States" tvg-id="FDW3LV" tvc-guide-stationid="106400",FanDuel Sports Network West- Las Vegas
-http://example.local/USA-FDW3LV.ts
-#EXTINF:-1 tvg-chno="116193" tvg-name="FanDuel Sports Network West- Las Vegas 2 NFL" tvg-logo="https://zap2it.tmsimg.com/assets/s59627_ll_h15_ac.png" group-title="United States" tvg-id="FDW2LV" tvc-guide-stationid="116193",FanDuel Sports Network West- Las Vegas 2 NFL
-http://example.local/USA-FDW2LV.ts
-#EXTINF:-1 tvg-chno="116189" tvg-name="FanDuel Sports Network West- Los Angeles 1 NFL" tvg-logo="https://zap2it.tmsimg.com/assets/s59627_ll_h15_ac.png" group-title="United States" tvg-id="FDW1LA" tvc-guide-stationid="116189",FanDuel Sports Network West- Los Angeles 1 NFL
-http://example.local/USA-FDW1LA.ts
-#EXTINF:-1 tvg-chno="116190" tvg-name="FanDuel Sports Network West- Los Angeles 2 NFL" tvg-logo="https://zap2it.tmsimg.com/assets/s59627_ll_h15_ac.png" group-title="United States" tvg-id="FDW2LA" tvc-guide-stationid="116190",FanDuel Sports Network West- Los Angeles 2 NFL
-http://example.local/USA-FDW2LA.ts
-#EXTINF:-1 tvg-chno="116191" tvg-name="FanDuel Sports Network West- Los Angeles 3 NFL" tvg-logo="https://zap2it.tmsimg.com/assets/s59627_ll_h15_ac.png" group-title="United States" tvg-id="FDW3LA" tvc-guide-stationid="116191",FanDuel Sports Network West- Los Angeles 3 NFL
-http://example.local/USA-FDW3LA.ts
-#EXTINF:-1 tvg-chno="71282" tvg-name="FanDuel Sports Network West- Out of Market" tvg-logo="https://zap2it.tmsimg.com/assets/s59627_ll_h15_ac.png" group-title="United States" tvg-id="FDWOM" tvc-guide-stationid="71282",FanDuel Sports Network West- Out of Market
-http://example.local/USA-FDWOM.ts
-#EXTINF:-1 tvg-chno="107383" tvg-name="FanDuel Sports Network West- Reno Fresno" tvg-logo="https://zap2it.tmsimg.com/assets/s102067_ll_h15_ab.png" group-title="United States" tvg-id="FDW5" tvc-guide-stationid="107383",FanDuel Sports Network West- Reno Fresno
-http://example.local/USA-FDW5.ts
-#EXTINF:-1 tvg-chno="12809" tvg-name="FanDuel Sports Network West- San Diego" tvg-logo="https://zap2it.tmsimg.com/assets/s102067_ll_h15_ab.png" group-title="United States" tvg-id="FDW1" tvc-guide-stationid="12809",FanDuel Sports Network West- San Diego
-http://example.local/USA-FDW1.ts
-#EXTINF:-1 tvg-chno="116192" tvg-name="FanDuel Sports Network West- San Diego 4 NFL" tvg-logo="https://zap2it.tmsimg.com/assets/s59627_ll_h15_ac.png" group-title="United States" tvg-id="FDW4SD" tvc-guide-stationid="116192",FanDuel Sports Network West- San Diego 4 NFL
-http://example.local/USA-FDW4SD.ts
-#EXTINF:-1 tvg-chno="16348" tvg-name="FanDuel Sports Network Wisconsin" tvg-logo="https://zap2it.tmsimg.com/assets/s16348_ll_h15_ac.png" group-title="United States" tvg-id="FDWI" tvc-guide-stationid="16348",FanDuel Sports Network Wisconsin
-http://example.local/USA-FDWI.ts
-#EXTINF:-1 tvg-chno="102069" tvg-name="FanDuel Sports Network Wisconsin" tvg-logo="https://zap2it.tmsimg.com/assets/s16348_ll_h15_ac.png" group-title="United States" tvg-id="FDWI2" tvc-guide-stationid="102069",FanDuel Sports Network Wisconsin
-http://example.local/USA-FDWI2.ts
-#EXTINF:-1 tvg-chno="99151" tvg-name="FanDuel Sports Network Wisconsin" tvg-logo="https://zap2it.tmsimg.com/assets/s16348_ll_h15_ac.png" group-title="United States" tvg-id="FWI3BR" tvc-guide-stationid="99151",FanDuel Sports Network Wisconsin
-http://example.local/USA-FWI3BR.ts
-#EXTINF:-1 tvg-chno="18412" tvg-name="FanDuel Sports Network Wisconsin" tvg-logo="https://zap2it.tmsimg.com/assets/s16348_ll_h15_ac.png" group-title="United States" tvg-id="FDPRO" tvc-guide-stationid="18412",FanDuel Sports Network Wisconsin
-http://example.local/USA-FDPRO.ts
-#EXTINF:-1 tvg-chno="65460" tvg-name="FanDuel Sports Network Wisconsin HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65460_ll_h15_ac.png" group-title="United States" tvg-id="FDWIHD" tvc-guide-stationid="65460",FanDuel Sports Network Wisconsin HD
-http://example.local/USA-FDWIHD.ts
-#EXTINF:-1 tvg-chno="102070" tvg-name="FanDuel Sports Network Wisconsin HD" tvg-logo="https://zap2it.tmsimg.com/assets/s16348_ll_h15_ac.png" group-title="United States" tvg-id="FDWI2HD" tvc-guide-stationid="102070",FanDuel Sports Network Wisconsin HD
-http://example.local/USA-FDWI2HD.ts
-#EXTINF:-1 tvg-chno="71258" tvg-name="FanDuel Sports Network Wisconsin HD- Out of Market" tvg-logo="https://zap2it.tmsimg.com/assets/s16348_ll_h15_ac.png" group-title="United States" tvg-id="FWI3OMH" tvc-guide-stationid="71258",FanDuel Sports Network Wisconsin HD- Out of Market
-http://example.local/USA-FWI3OMH.ts
-#EXTINF:-1 tvg-chno="71253" tvg-name="FanDuel Sports Network Wisconsin- Out of Market" tvg-logo="https://zap2it.tmsimg.com/assets/s16348_ll_h15_ac.png" group-title="United States" tvg-id="FDWI3OM" tvc-guide-stationid="71253",FanDuel Sports Network Wisconsin- Out of Market
-http://example.local/USA-FDWI3OM.ts
-#EXTINF:-1 tvg-chno="21345" tvg-name="FanDuel TV" tvg-logo="https://zap2it.tmsimg.com/assets/s21345_ll_h15_ab.png" group-title="United States" tvg-id="FDUELTV" tvc-guide-stationid="21345",FanDuel TV
-http://example.local/USA-FDUELTV.ts
-#EXTINF:-1 tvg-chno="145517" tvg-name="FanDuel TV Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s145517_ll_h9_aa.png" group-title="United States" tvg-id="FDTVX" tvc-guide-stationid="145517",FanDuel TV Extra
-http://example.local/USA-FDTVX.ts
-#EXTINF:-1 tvg-chno="103679" tvg-name="FanDuel TV SD" tvg-logo="https://zap2it.tmsimg.com/assets/s103679_ll_h15_ab.png" group-title="United States" tvg-id="FDUELSD" tvc-guide-stationid="103679",FanDuel TV SD
-http://example.local/USA-FDUELSD.ts
-#EXTINF:-1 tvg-chno="108859" tvg-name="Farmington Government HDTV" group-title="United States" tvg-id="FGHD" tvc-guide-stationid="108859",Farmington Government HDTV
-http://example.local/USA-FGHD.ts
-#EXTINF:-1 tvg-chno="108858" tvg-name="Farmington Government SD" group-title="United States" tvg-id="FGTVSD" tvc-guide-stationid="108858",Farmington Government SD
-http://example.local/USA-FGTVSD.ts
-#EXTINF:-1 tvg-chno="148290" tvg-name="FarmLandTV" tvg-logo="https://zap2it.tmsimg.com/assets/s148290_ll_h15_ab.png" group-title="Switzerland" tvg-id="FARMLAND" tvc-guide-stationid="148290",FarmLandTV
-http://example.local/CHE-FARMLAND.ts
-#EXTINF:-1 tvg-chno="148290" tvg-name="FarmLandTV" tvg-logo="https://zap2it.tmsimg.com/assets/s148290_ll_h15_ab.png" group-title="Germany" tvg-id="FARMLAND" tvc-guide-stationid="148290",FarmLandTV
-http://example.local/DEU-FARMLAND.ts
-#EXTINF:-1 tvg-chno="130175" tvg-name="Farscape" tvg-logo="https://zap2it.tmsimg.com/assets/s130175_ll_h15_aa.png" group-title="United States" tvg-id="FSCAPE" tvc-guide-stationid="130175",Farscape
-http://example.local/USA-FSCAPE.ts
-#EXTINF:-1 tvg-chno="180799" tvg-name="FARSCAPE" group-title="United States" tvg-id="FRSCP" tvc-guide-stationid="180799",FARSCAPE
-http://example.local/USA-FRSCP.ts
-#EXTINF:-1 tvg-chno="180799" tvg-name="FARSCAPE" group-title="United Kingdom" tvg-id="FRSCP" tvc-guide-stationid="180799",FARSCAPE
-http://example.local/GBR-FRSCP.ts
-#EXTINF:-1 tvg-chno="97724" tvg-name="FAS Stralsund TV" tvg-logo="https://zap2it.tmsimg.com/assets/s97724_ll_h15_aa.png" group-title="Germany" tvg-id="FASTV" tvc-guide-stationid="97724",FAS Stralsund TV
-http://example.local/DEU-FASTV.ts
-#EXTINF:-1 tvg-chno="168092" tvg-name="FASCINO TV HD" group-title="Italy" tvg-id="FASCINOH" tvc-guide-stationid="168092",FASCINO TV HD
-http://example.local/ITA-FASCINOH.ts
-#EXTINF:-1 tvg-chno="113658" tvg-name="Fashion 4K" tvg-logo="https://zap2it.tmsimg.com/assets/s113658_ll_h9_aa.png" group-title="Spain" tvg-id="FT4KUHD" tvc-guide-stationid="113658",Fashion 4K
-http://example.local/ESP-FT4KUHD.ts
-#EXTINF:-1 tvg-chno="113658" tvg-name="Fashion 4K" tvg-logo="https://zap2it.tmsimg.com/assets/s113658_ll_h9_aa.png" group-title="Italy" tvg-id="FT4KUHD" tvc-guide-stationid="113658",Fashion 4K
-http://example.local/ITA-FT4KUHD.ts
-#EXTINF:-1 tvg-chno="113658" tvg-name="Fashion 4K" tvg-logo="https://zap2it.tmsimg.com/assets/s113658_ll_h9_aa.png" group-title="United Kingdom" tvg-id="FT4KUHD" tvc-guide-stationid="113658",Fashion 4K
-http://example.local/GBR-FT4KUHD.ts
-#EXTINF:-1 tvg-chno="91833" tvg-name="Fashion One" tvg-logo="https://zap2it.tmsimg.com/assets/s91833_ll_h15_aa.png" group-title="Mexico" tvg-id="FAS" tvc-guide-stationid="91833",Fashion One
-http://example.local/MEX-FAS.ts
-#EXTINF:-1 tvg-chno="91833" tvg-name="Fashion One" tvg-logo="https://zap2it.tmsimg.com/assets/s91833_ll_h15_aa.png" group-title="United States" tvg-id="FAS" tvc-guide-stationid="91833",Fashion One
-http://example.local/USA-FAS.ts
-#EXTINF:-1 tvg-chno="91833" tvg-name="Fashion One" tvg-logo="https://zap2it.tmsimg.com/assets/s91833_ll_h15_aa.png" group-title="Venezuela" tvg-id="FAS" tvc-guide-stationid="91833",Fashion One
-http://example.local/VEN-FAS.ts
-#EXTINF:-1 tvg-chno="100166" tvg-name="Fashion One 4K" group-title="Poland" tvg-id="FASO4K" tvc-guide-stationid="100166",Fashion One 4K
-http://example.local/POL-FASO4K.ts
-#EXTINF:-1 tvg-chno="100166" tvg-name="Fashion One 4K" group-title="United States" tvg-id="FASO4K" tvc-guide-stationid="100166",Fashion One 4K
-http://example.local/USA-FASO4K.ts
-#EXTINF:-1 tvg-chno="162139" tvg-name="Fashion TV" tvg-logo="https://zap2it.tmsimg.com/assets/s162139_ll_h15_aa.png" group-title="United Kingdom" tvg-id="FTVANZ" tvc-guide-stationid="162139",Fashion TV
-http://example.local/GBR-FTVANZ.ts
-#EXTINF:-1 tvg-chno="162139" tvg-name="Fashion TV" tvg-logo="https://zap2it.tmsimg.com/assets/s162139_ll_h15_aa.png" group-title="Australia" tvg-id="FTVANZ" tvc-guide-stationid="162139",Fashion TV
-http://example.local/AUS-FTVANZ.ts
-#EXTINF:-1 tvg-chno="98036" tvg-name="Fashion TV Brazil" tvg-logo="https://zap2it.tmsimg.com/assets/s98036_ll_h15_aa.png" group-title="Brazil" tvg-id="FASHBR" tvc-guide-stationid="98036",Fashion TV Brazil
-http://example.local/BRA-FASHBR.ts
-#EXTINF:-1 tvg-chno="121366" tvg-name="Fashion TV Europe HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121366_ll_h9_aa.png" group-title="Germany" tvg-id="FASHTHD" tvc-guide-stationid="121366",Fashion TV Europe HD
-http://example.local/DEU-FASHTHD.ts
-#EXTINF:-1 tvg-chno="120844" tvg-name="FashionBox" tvg-logo="https://zap2it.tmsimg.com/assets/s78762_ll_h15_ab.png" group-title="Mexico" tvg-id="FASLBOX" tvc-guide-stationid="120844",FashionBox
-http://example.local/MEX-FASLBOX.ts
-#EXTINF:-1 tvg-chno="78762" tvg-name="FashionBox" tvg-logo="https://zap2it.tmsimg.com/assets/s78762_ll_h15_ab.png" group-title="Poland" tvg-id="FASHBOX" tvc-guide-stationid="78762",FashionBox
-http://example.local/POL-FASHBOX.ts
-#EXTINF:-1 tvg-chno="78762" tvg-name="FashionBox" tvg-logo="https://zap2it.tmsimg.com/assets/s78762_ll_h15_ab.png" group-title="Ireland" tvg-id="FASHBOX" tvc-guide-stationid="78762",FashionBox
-http://example.local/IRL-FASHBOX.ts
-#EXTINF:-1 tvg-chno="124744" tvg-name="FashionTV Brazil HD" tvg-logo="https://zap2it.tmsimg.com/assets/s124744_ll_h15_aa.png" group-title="Brazil" tvg-id="FASHBHD" tvc-guide-stationid="124744",FashionTV Brazil HD
-http://example.local/BRA-FASHBHD.ts
-#EXTINF:-1 tvg-chno="114736" tvg-name="Fast&FunBox HD" tvg-logo="https://zap2it.tmsimg.com/assets/s114736_ll_h15_aa.png" group-title="Spain" tvg-id="FFBXHD" tvc-guide-stationid="114736",Fast&FunBox HD
-http://example.local/ESP-FFBXHD.ts
-#EXTINF:-1 tvg-chno="114736" tvg-name="Fast&FunBox HD" tvg-logo="https://zap2it.tmsimg.com/assets/s114736_ll_h15_aa.png" group-title="Poland" tvg-id="FFBXHD" tvc-guide-stationid="114736",Fast&FunBox HD
-http://example.local/POL-FFBXHD.ts
-#EXTINF:-1 tvg-chno="114736" tvg-name="Fast&FunBox HD" tvg-logo="https://zap2it.tmsimg.com/assets/s114736_ll_h15_aa.png" group-title="Germany" tvg-id="FFBXHD" tvc-guide-stationid="114736",Fast&FunBox HD
-http://example.local/DEU-FFBXHD.ts
-#EXTINF:-1 tvg-chno="114736" tvg-name="Fast&FunBox HD" tvg-logo="https://zap2it.tmsimg.com/assets/s114736_ll_h15_aa.png" group-title="Ireland" tvg-id="FFBXHD" tvc-guide-stationid="114736",Fast&FunBox HD
-http://example.local/IRL-FFBXHD.ts
-#EXTINF:-1 tvg-chno="83458" tvg-name="Fastnfunbox" tvg-logo="https://zap2it.tmsimg.com/assets/s83458_ll_h15_aa.png" group-title="Mexico" tvg-id="FFBOX" tvc-guide-stationid="83458",Fastnfunbox
-http://example.local/MEX-FFBOX.ts
-#EXTINF:-1 tvg-chno="83458" tvg-name="Fastnfunbox" tvg-logo="https://zap2it.tmsimg.com/assets/s83458_ll_h15_aa.png" group-title="United States" tvg-id="FFBOX" tvc-guide-stationid="83458",Fastnfunbox
-http://example.local/USA-FFBOX.ts
-#EXTINF:-1 tvg-chno="83458" tvg-name="Fastnfunbox" tvg-logo="https://zap2it.tmsimg.com/assets/s83458_ll_h15_aa.png" group-title="Austria" tvg-id="FFBOX" tvc-guide-stationid="83458",Fastnfunbox
-http://example.local/AUT-FFBOX.ts
-#EXTINF:-1 tvg-chno="100309" tvg-name="Fastnfunbox HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100309_ll_h15_aa.png" group-title="Mexico" tvg-id="FFBOXHD" tvc-guide-stationid="100309",Fastnfunbox HD
-http://example.local/MEX-FFBOXHD.ts
-#EXTINF:-1 tvg-chno="117058" tvg-name="FaveTV Eastern" tvg-logo="https://zap2it.tmsimg.com/assets/s117058_ll_h15_aa.png" group-title="United States" tvg-id="FAVETV" tvc-guide-stationid="117058",FaveTV Eastern
-http://example.local/USA-FAVETV.ts
+#EXTINF:-1 tvg-chno="108438" tvg-name="FanDuel Sports Network Sun" tvg-logo="https://zap2it.tmsimg.com/assets/s18003_ll_h15_ad.png" group-title="United States" tvg-id="FDSNNAP" tvc-guide-stationid="108438",FanDuel Sports Network Sun
+http://example.local/USA-FDSNNAP.ts
+#EXTINF:-1 tvg-chno="108434" tvg-name="FanDuel Sports Network Sun" group-title="United States" tvg-id="FDSNFTM" tvc-guide-stationid="108434",FanDuel Sports Network Sun
+http://example.local/USA-FDSNFTM.ts
+#EXTINF:-1 tvg-chno="18003" tvg-name="FanDuel Sports Network Sun" tvg-logo="https://zap2it.tmsimg.com/assets/s18003_ll_h15_ad.png" group-title="United States" tvg-id="SUNNET" tvc-guide-stationid="18003",FanDuel Sports Network Sun
+http://example.local/USA-SUNNET.ts
+#EXTINF:-1 tvg-chno="108437" tvg-name="FanDuel Sports Network Sun" tvg-logo="https://zap2it.tmsimg.com/assets/s18003_ll_h15_ad.png" group-title="United States" tvg-id="FDSNJAX" tvc-guide-stationid="108437",FanDuel Sports Network Sun
+http://example.local/USA-FDSNJAX.ts
+#EXTINF:-1 tvg-chno="108439" tvg-name="FanDuel Sports Network Sun" tvg-logo="https://zap2it.tmsimg.com/assets/s18003_ll_h15_ad.png" group-title="United States" tvg-id="FDSNPFN" tvc-guide-stationid="108439",FanDuel Sports Network Sun
+http://example.local/USA-FDSNPFN.ts
+#EXTINF:-1 tvg-chno="108436" tvg-name="FanDuel Sports Network Sun" group-title="United States" tvg-id="FDSNGNV" tvc-guide-stationid="108436",FanDuel Sports Network Sun
+http://example.local/USA-FDSNGNV.ts

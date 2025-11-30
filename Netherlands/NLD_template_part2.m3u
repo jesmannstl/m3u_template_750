@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="125385" tvg-name="Radio Italia Trend TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s125385_ll_h15_aa.png" group-title="Netherlands" tvg-id="RADTRTV" tvc-guide-stationid="125385",Radio Italia Trend TV HD
-http://example.local/NLD-RADTRTV.ts
-#EXTINF:-1 tvg-chno="84691" tvg-name="Radio Italia TV" tvg-logo="https://zap2it.tmsimg.com/assets/s84691_ll_h15_ac.png" group-title="Netherlands" tvg-id="RITALTV" tvc-guide-stationid="84691",Radio Italia TV
-http://example.local/NLD-RITALTV.ts
-#EXTINF:-1 tvg-chno="109852" tvg-name="Radio Zeta" tvg-logo="https://zap2it.tmsimg.com/assets/s109852_ll_h15_ab.png" group-title="Netherlands" tvg-id="ZETA" tvc-guide-stationid="109852",Radio Zeta
-http://example.local/NLD-ZETA.ts
 #EXTINF:-1 tvg-chno="109851" tvg-name="Radiofreccia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109851_ll_h9_aa.png" group-title="Netherlands" tvg-id="FRECCHD" tvc-guide-stationid="109851",Radiofreccia HD
 http://example.local/NLD-FRECCHD.ts
 #EXTINF:-1 tvg-chno="119775" tvg-name="Radionorba TV" tvg-logo="https://zap2it.tmsimg.com/assets/s119775_ll_h15_aa.png" group-title="Netherlands" tvg-id="NORBATV" tvc-guide-stationid="119775",Radionorba TV
@@ -59,10 +53,10 @@ http://example.local/NLD-RHMAIN.ts
 http://example.local/NLD-RICRC.ts
 #EXTINF:-1 tvg-chno="119766" tvg-name="RIK Sat" tvg-logo="https://zap2it.tmsimg.com/assets/s119766_ll_h15_aa.png" group-title="Netherlands" tvg-id="RIKSATEU" tvc-guide-stationid="119766",RIK Sat
 http://example.local/NLD-RIKSATEU.ts
-#EXTINF:-1 tvg-chno="53955" tvg-name="RTL" tvg-logo="https://zap2it.tmsimg.com/assets/s53955_ll_h9_ac.png" group-title="Netherlands" tvg-id="RTLOSTR" tvc-guide-stationid="53955",RTL
-http://example.local/NLD-RTLOSTR.ts
 #EXTINF:-1 tvg-chno="52564" tvg-name="RTL" tvg-logo="https://zap2it.tmsimg.com/assets/s52564_ll_h9_ac.png" group-title="Netherlands" tvg-id="RTLGER" tvc-guide-stationid="52564",RTL
 http://example.local/NLD-RTLGER.ts
+#EXTINF:-1 tvg-chno="53955" tvg-name="RTL" tvg-logo="https://zap2it.tmsimg.com/assets/s53955_ll_h9_ac.png" group-title="Netherlands" tvg-id="RTLOSTR" tvc-guide-stationid="53955",RTL
+http://example.local/NLD-RTLOSTR.ts
 #EXTINF:-1 tvg-chno="125505" tvg-name="RTL 102.5 NEWS HD" group-title="Netherlands" tvg-id="RTLNEWS" tvc-guide-stationid="125505",RTL 102.5 NEWS HD
 http://example.local/NLD-RTLNEWS.ts
 #EXTINF:-1 tvg-chno="105182" tvg-name="RTL 102.5 TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105182_ll_h15_aa.png" group-title="Netherlands" tvg-id="RTL102H" tvc-guide-stationid="105182",RTL 102.5 TV HD
@@ -111,10 +105,10 @@ http://example.local/NLD-RTL8NL.ts
 http://example.local/NLD-RTLUP.ts
 #EXTINF:-1 tvg-chno="122162" tvg-name="RTLup Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s122162_ll_h15_aa.png" group-title="Netherlands" tvg-id="RTLUPAT" tvc-guide-stationid="122162",RTLup Austria
 http://example.local/NLD-RTLUPAT.ts
-#EXTINF:-1 tvg-chno="66610" tvg-name="RTLZWEI" tvg-logo="https://zap2it.tmsimg.com/assets/s66610_ll_h15_ac.png" group-title="Netherlands" tvg-id="RTL2GRH" tvc-guide-stationid="66610",RTLZWEI
-http://example.local/NLD-RTL2GRH.ts
 #EXTINF:-1 tvg-chno="83956" tvg-name="RTLZWEI" tvg-logo="https://zap2it.tmsimg.com/assets/s83956_ll_h15_ac.png" group-title="Netherlands" tvg-id="RTL2OST" tvc-guide-stationid="83956",RTLZWEI
 http://example.local/NLD-RTL2OST.ts
+#EXTINF:-1 tvg-chno="66610" tvg-name="RTLZWEI" tvg-logo="https://zap2it.tmsimg.com/assets/s66610_ll_h15_ac.png" group-title="Netherlands" tvg-id="RTL2GRH" tvc-guide-stationid="66610",RTLZWEI
+http://example.local/NLD-RTL2GRH.ts
 #EXTINF:-1 tvg-chno="83642" tvg-name="RTLZWEI HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83642_ll_h15_ac.png" group-title="Netherlands" tvg-id="RTL2HD" tvc-guide-stationid="83642",RTLZWEI HD
 http://example.local/NLD-RTL2HD.ts
 #EXTINF:-1 tvg-chno="97666" tvg-name="RTP Internacional Europe" tvg-logo="https://zap2it.tmsimg.com/assets/s97666_ll_h15_aa.png" group-title="Netherlands" tvg-id="RTPIE" tvc-guide-stationid="97666",RTP Internacional Europe
@@ -261,11 +255,13 @@ http://example.local/NLD-DJAZZHDNL.ts
 http://example.local/NLD-SFE4KUS.ts
 #EXTINF:-1 tvg-chno="118919" tvg-name="Stingray Lite TV" group-title="Netherlands" tvg-id="STRLITE" tvc-guide-stationid="118919",Stingray Lite TV
 http://example.local/NLD-STRLITE.ts
-#EXTINF:-1 tvg-chno="52814" tvg-name="Super RTL" tvg-logo="https://zap2it.tmsimg.com/assets/s52814_ll_h15_ac.png" group-title="Netherlands" tvg-id="SUPRTL" tvc-guide-stationid="52814",Super RTL
+#EXTINF:-1 tvg-chno="115643" tvg-name="StoryZoo & Friends" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002GMMJ4.png" group-title="Netherlands" tvg-id="SZOOFRI" tvc-guide-stationid="115643",StoryZoo & Friends
+http://example.local/NLD-SZOOFRI.ts
+#EXTINF:-1 tvg-chno="52814" tvg-name="Super RTL" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FLHWV.png" group-title="Netherlands" tvg-id="SUPRTL" tvc-guide-stationid="52814",Super RTL
 http://example.local/NLD-SUPRTL.ts
-#EXTINF:-1 tvg-chno="83643" tvg-name="Super RTL HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83643_ll_h15_ac.png" group-title="Netherlands" tvg-id="SURTLHD" tvc-guide-stationid="83643",Super RTL HD
+#EXTINF:-1 tvg-chno="83643" tvg-name="Super RTL HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FYLC6.png" group-title="Netherlands" tvg-id="SURTLHD" tvc-guide-stationid="83643",Super RTL HD
 http://example.local/NLD-SURTLHD.ts
-#EXTINF:-1 tvg-chno="83957" tvg-name="Super RTL Österreich" tvg-logo="https://zap2it.tmsimg.com/assets/s83957_ll_h9_aa.png" group-title="Netherlands" tvg-id="SRTLOST" tvc-guide-stationid="83957",Super RTL Österreich
+#EXTINF:-1 tvg-chno="83957" tvg-name="Super RTL Österreich" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FYL4T.png" group-title="Netherlands" tvg-id="SRTLOST" tvc-guide-stationid="83957",Super RTL Österreich
 http://example.local/NLD-SRTLOST.ts
 #EXTINF:-1 tvg-chno="82937" tvg-name="SWR Fernsehen BW" tvg-logo="https://zap2it.tmsimg.com/assets/s82937_ll_h15_ad.png" group-title="Netherlands" tvg-id="SW3BWG" tvc-guide-stationid="82937",SWR Fernsehen BW
 http://example.local/NLD-SW3BWG.ts
@@ -407,7 +403,7 @@ http://example.local/NLD-TVAOBHD.ts
 http://example.local/NLD-TVCSDPL.ts
 #EXTINF:-1 tvg-chno="117901" tvg-name="TVC News" tvg-logo="https://zap2it.tmsimg.com/assets/s117901_ll_h9_aa.png" group-title="Netherlands" tvg-id="TVCNEWS" tvc-guide-stationid="117901",TVC News
 http://example.local/NLD-TVCNEWS.ts
-#EXTINF:-1 tvg-chno="115873" tvg-name="TVCG Sat" tvg-logo="https://zap2it.tmsimg.com/assets/s115873_ll_h15_aa.png" group-title="Netherlands" tvg-id="TVCGST" tvc-guide-stationid="115873",TVCG Sat
+#EXTINF:-1 tvg-chno="115873" tvg-name="TVCG MNE" tvg-logo="https://zap2it.tmsimg.com/assets/s115873_ll_h15_aa.png" group-title="Netherlands" tvg-id="TVCGST" tvc-guide-stationid="115873",TVCG MNE
 http://example.local/NLD-TVCGST.ts
 #EXTINF:-1 tvg-chno="90320" tvg-name="TVE Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s90320_ll_h15_aa.png" group-title="Netherlands" tvg-id="TVEINTS" tvc-guide-stationid="90320",TVE Internacional
 http://example.local/NLD-TVEINTS.ts
