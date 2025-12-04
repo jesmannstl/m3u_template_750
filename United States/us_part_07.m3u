@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="KYWDT2" tvg-name="KYW-DT2 (STARTTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s109454_ll_h15_ab.png" tvg-chno="77056" tvc-guide-stationid="77056" group-title="",KYW-DT2 (STARTTV)
+http://example.local/KYWDT2.ts
+#EXTINF:-1 tvg-id="KYWDT3" tvg-name="KYW-DT3 (DABL)" tvg-logo="https://zap2it.tmsimg.com/assets/s112157_ll_h15_ab.png" tvg-chno="112555" tvc-guide-stationid="112555" group-title="",KYW-DT3 (DABL)
+http://example.local/KYWDT3.ts
+#EXTINF:-1 tvg-id="KZJL" tvg-name="KZJL (ESTRLLA)" tvg-logo="https://zap2it.tmsimg.com/assets/s65064_ll_h15_af.png" tvg-chno="15648" tvc-guide-stationid="15648" group-title="",KZJL (ESTRLLA)
+http://example.local/KZJL.ts
+#EXTINF:-1 tvg-id="KZJLDT" tvg-name="KZJL-DT (ESTRLLA)" tvg-logo="https://zap2it.tmsimg.com/assets/s65064_ll_h15_af.png" tvg-chno="64009" tvc-guide-stationid="64009" group-title="",KZJL-DT (ESTRLLA)
+http://example.local/KZJLDT.ts
+#EXTINF:-1 tvg-id="KZJO" tvg-name="KZJO" tvg-logo="https://zap2it.tmsimg.com/assets/s10769_ll_h15_ab.png" tvg-chno="10769" tvc-guide-stationid="10769" group-title="",KZJO
+http://example.local/KZJO.ts
+#EXTINF:-1 tvg-id="KZJODT" tvg-name="KZJO-DT" tvg-logo="https://logos.jesmann.com/kzjodt.png" tvg-chno="30240" tvc-guide-stationid="30240" group-title="",KZJO-DT
+http://example.local/KZJODT.ts
+#EXTINF:-1 tvg-id="KZJODT3" tvg-name="KZJO-DT3 (ANTENNA)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y4HS.png" tvg-chno="70444" tvc-guide-stationid="70444" group-title="",KZJO-DT3 (ANTENNA)
+http://example.local/KZJODT3.ts
+#EXTINF:-1 tvg-id="KZJODT5" tvg-name="KZJO-DT5 (NOSEYTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s157427_ll_h15_aa.png" tvg-chno="111738" tvc-guide-stationid="111738" group-title="",KZJO-DT5 (NOSEYTV)
+http://example.local/KZJODT5.ts
 #EXTINF:-1 tvg-id="KZTV" tvg-name="KZTV (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" tvg-chno="10856" tvc-guide-stationid="10856" group-title="",KZTV (CBS)
 http://example.local/KZTV.ts
 #EXTINF:-1 tvg-id="KZTVDT" tvg-name="KZTV-DT (CBS)" tvg-logo="https://logos.jesmann.com/kztvdt.png" tvg-chno="42551" tvc-guide-stationid="42551" group-title="",KZTV-DT (CBS)
@@ -285,6 +301,8 @@ http://example.local/LOOR961.ts
 http://example.local/LOOR989.ts
 #EXTINF:-1 tvg-id="LOOR993" tvg-name="Local Origination - LOOR993" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="61338" tvc-guide-stationid="61338" group-title="",Local Origination - LOOR993
 http://example.local/LOOR993.ts
+#EXTINF:-1 tvg-id="LOOR1001" tvg-name="Local Origination - LOOR1001" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="61047" tvc-guide-stationid="61047" group-title="",Local Origination - LOOR1001
+http://example.local/LOOR1001.ts
 #EXTINF:-1 tvg-id="LOOR1075" tvg-name="Local Origination - LOOR1075" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="106677" tvc-guide-stationid="106677" group-title="",Local Origination - LOOR1075
 http://example.local/LOOR1075.ts
 #EXTINF:-1 tvg-id="LOOR1082" tvg-name="Local Origination - LOOR1082" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="79634" tvc-guide-stationid="79634" group-title="",Local Origination - LOOR1082
@@ -1001,21 +1019,3 @@ http://example.local/NORAFTV.ts
 http://example.local/NOSEYTV.ts
 #EXTINF:-1 tvg-id="NOURSAT" tvg-name="NOURSAT (International)" tvg-logo="https://zap2it.tmsimg.com/assets/s43428_ll_h9_aa.png" tvg-chno="43428" tvc-guide-stationid="43428" group-title="",NOURSAT (International)
 http://example.local/NOURSAT.ts
-#EXTINF:-1 tvg-id="NOVELIS" tvg-name="Novelisima" tvg-logo="https://zap2it.tmsimg.com/assets/s120979_h3_aa.png" tvg-chno="120979" tvc-guide-stationid="120979" group-title="",Novelisima
-http://example.local/NOVELIS.ts
-#EXTINF:-1 tvg-id="NOWHAI" tvg-name="now HaiRun" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="81308" tvc-guide-stationid="81308" group-title="",now HaiRun
-http://example.local/NOWHAI.ts
-#EXTINF:-1 tvg-id="NOWTV" tvg-name="now TV International" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="81309" tvc-guide-stationid="81309" group-title="",now TV International
-http://example.local/NOWTV.ts
-#EXTINF:-1 tvg-id="NOWTVH" tvg-name="now TV International HD" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="81319" tvc-guide-stationid="81319" group-title="",now TV International HD
-http://example.local/NOWTVH.ts
-#EXTINF:-1 tvg-id="NRBTV" tvg-name="NRB TV" tvg-logo="https://zap2it.tmsimg.com/assets/s49097_ll_h15_ab.png" tvg-chno="49097" tvc-guide-stationid="49097" group-title="",NRB TV
-http://example.local/NRBTV.ts
-#EXTINF:-1 tvg-id="NSTRAVI" tvg-name="Nuestra Visión" tvg-logo="https://zap2it.tmsimg.com/assets/s106819_h3_ba.png" tvg-chno="106819" tvc-guide-stationid="106819" group-title="",Nuestra Visión
-http://example.local/NSTRAVI.ts
-#EXTINF:-1 tvg-id="NTDA24" tvg-name="New Tang Dynasty Television" tvg-logo="https://zap2it.tmsimg.com/assets/s118335_ll_h15_aa.png" tvg-chno="118335" tvc-guide-stationid="118335" group-title="",New Tang Dynasty Television
-http://example.local/NTDA24.ts
-#EXTINF:-1 tvg-id="NTN24" tvg-name="NTN24" tvg-logo="https://zap2it.tmsimg.com/assets/s61988_ll_h15_ac.png" tvg-chno="61988" tvc-guide-stationid="61988" group-title="",NTN24
-http://example.local/NTN24.ts
-#EXTINF:-1 tvg-id="NTV1" tvg-name="NTV1 (Echostar) NTV International Channel Banglad" tvg-logo="https://zap2it.tmsimg.com/assets/s44377_ll_h15_ab.png" tvg-chno="44377" tvc-guide-stationid="44377" group-title="",NTV1 (Echostar) NTV International Channel Banglad
-http://example.local/NTV1.ts

@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="KCYUDT2" tvg-name="KCYU-DT2 (TELE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73245_ll_h15_ac.png" tvg-chno="62924" tvc-guide-stationid="62924" group-title="",KCYU-DT2 (TELE)
+http://example.local/KCYUDT2.ts
+#EXTINF:-1 tvg-id="KCYULP" tvg-name="KCYU-LP (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" tvg-chno="10397" tvc-guide-stationid="10397" group-title="",KCYU-LP (FOX)
+http://example.local/KCYULP.ts
 #EXTINF:-1 tvg-id="KDAF" tvg-name="KDAF (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png" tvg-chno="10398" tvc-guide-stationid="10398" group-title="",KDAF (CW)
 http://example.local/KDAF.ts
 #EXTINF:-1 tvg-id="KDAFDT" tvg-name="KDAF-DT (CW)" tvg-logo="https://logos.jesmann.com/kdafdt.png" tvg-chno="26636" tvc-guide-stationid="26636" group-title="",KDAF-DT (CW)
@@ -665,6 +669,8 @@ http://example.local/KIDSSHD.ts
 http://example.local/KIDY.ts
 #EXTINF:-1 tvg-id="KIDYDT" tvg-name="KIDY-DT (FOX)" tvg-logo="https://logos.jesmann.com/kidydt.png" tvg-chno="43402" tvc-guide-stationid="43402" group-title="",KIDY-DT (FOX)
 http://example.local/KIDYDT.ts
+#EXTINF:-1 tvg-id="KIDZLD2" tvg-name="KIDZ-LD2 (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" tvg-chno="74327" tvc-guide-stationid="74327" group-title="",KIDZ-LD2 (MNT)
+http://example.local/KIDZLD2.ts
 #EXTINF:-1 tvg-id="KIEMDT" tvg-name="KIEM-DT (NBC)" tvg-logo="https://logos.jesmann.com/kiemdt.png" tvg-chno="34913" tvc-guide-stationid="34913" group-title="",KIEM-DT (NBC)
 http://example.local/KIEMDT.ts
 #EXTINF:-1 tvg-id="KIFIDT" tvg-name="KIFI-DT (ABC)" tvg-logo="https://logos.jesmann.com/kifidt.png" tvg-chno="34687" tvc-guide-stationid="34687" group-title="",KIFI-DT (ABC)
@@ -1013,9 +1019,3 @@ http://example.local/KMIDDT.ts
 http://example.local/KMIRDT.ts
 #EXTINF:-1 tvg-id="KMIZ" tvg-name="KMIZ (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" tvg-chno="15336" tvc-guide-stationid="15336" group-title="",KMIZ (ABC)
 http://example.local/KMIZ.ts
-#EXTINF:-1 tvg-id="KMIZDT" tvg-name="KMIZ-DT (ABC)" tvg-logo="https://logos.jesmann.com/kmizdt.png" tvg-chno="43479" tvc-guide-stationid="43479" group-title="",KMIZ-DT (ABC)
-http://example.local/KMIZDT.ts
-#EXTINF:-1 tvg-id="KMIZDT2" tvg-name="KMIZ-DT2 (METVN)" tvg-logo="https://logos.jesmann.com/kmizdt2.png" tvg-chno="43481" tvc-guide-stationid="43481" group-title="",KMIZ-DT2 (METVN)
-http://example.local/KMIZDT2.ts
-#EXTINF:-1 tvg-id="KMIZDT3" tvg-name="KMIZ-DT3 (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" tvg-chno="43484" tvc-guide-stationid="43484" group-title="",KMIZ-DT3 (MNT)
-http://example.local/KMIZDT3.ts
