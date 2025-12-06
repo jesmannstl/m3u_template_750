@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="WNPXDT3" tvg-name="WNPX-DT3 (GRIT)" tvg-logo="https://zap2it.tmsimg.com/assets/s89922_h3_aa.png" tvg-chno="52750" tvc-guide-stationid="52750" group-title="",WNPX-DT3 (GRIT)
+http://example.local/WNPXDT3.ts
+#EXTINF:-1 tvg-id="WNSC" tvg-name="WNSC (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_h3_ba.png" tvg-chno="11736" tvc-guide-stationid="11736" group-title="",WNSC (PBS)
+http://example.local/WNSC.ts
+#EXTINF:-1 tvg-id="WNSCDT" tvg-name="WNSC-DT (PBS)" tvg-logo="https://logos.jesmann.com/wnscdt.png" tvg-chno="44041" tvc-guide-stationid="44041" group-title="",WNSC-DT (PBS)
+http://example.local/WNSCDT.ts
+#EXTINF:-1 tvg-id="WNTV" tvg-name="WNTV (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" tvg-chno="11737" tvc-guide-stationid="11737" group-title="",WNTV (PBS)
+http://example.local/WNTV.ts
 #EXTINF:-1 tvg-id="WNTVDT" tvg-name="WNTV-DT (PBS)" tvg-logo="https://logos.jesmann.com/wntvdt.png" tvg-chno="34537" tvc-guide-stationid="34537" group-title="",WNTV-DT (PBS)
 http://example.local/WNTVDT.ts
 #EXTINF:-1 tvg-id="WNTZDT" tvg-name="WNTZ-DT (FOX)" tvg-logo="https://logos.jesmann.com/wntzdt.png" tvg-chno="54465" tvc-guide-stationid="54465" group-title="",WNTZ-DT (FOX)
@@ -1011,11 +1019,3 @@ http://example.local/WTRFDT3.ts
 http://example.local/WTSNCD.ts
 #EXTINF:-1 tvg-id="WTSP" tvg-name="WTSP (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" tvg-chno="11902" tvc-guide-stationid="11902" group-title="",WTSP (CBS)
 http://example.local/WTSP.ts
-#EXTINF:-1 tvg-id="WTSPDT" tvg-name="WTSP-DT (CBS)" tvg-logo="https://logos.jesmann.com/wtspdt.png" tvg-chno="20495" tvc-guide-stationid="20495" group-title="",WTSP-DT (CBS)
-http://example.local/WTSPDT.ts
-#EXTINF:-1 tvg-id="WTTA" tvg-name="WTTA (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png" tvg-chno="11903" tvc-guide-stationid="11903" group-title="",WTTA (CW)
-http://example.local/WTTA.ts
-#EXTINF:-1 tvg-id="WTTADT" tvg-name="WTTA-DT (CW)" tvg-logo="https://logos.jesmann.com/wttadt.png" tvg-chno="36145" tvc-guide-stationid="36145" group-title="",WTTA-DT (CW)
-http://example.local/WTTADT.ts
-#EXTINF:-1 tvg-id="WTTG" tvg-name="WTTG (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" tvg-chno="11905" tvc-guide-stationid="11905" group-title="",WTTG (FOX)
-http://example.local/WTTG.ts

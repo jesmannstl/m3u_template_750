@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="WCBB" tvg-name="WCBB (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_h3_ba.png" tvg-chno="11328" tvc-guide-stationid="11328" group-title="",WCBB (PBS)
+http://example.local/WCBB.ts
+#EXTINF:-1 tvg-id="WCBBDT" tvg-name="WCBB-DT (PBS)" tvg-logo="https://logos.jesmann.com/wcbbdt.png" tvg-chno="21725" tvc-guide-stationid="21725" group-title="",WCBB-DT (PBS)
+http://example.local/WCBBDT.ts
+#EXTINF:-1 tvg-id="WCBD2SD" tvg-name="WCBD-DT2 (SD Feed) (CWPLUS)" tvg-logo="https://zap2it.tmsimg.com/assets/s18749_ll_h15_ad.png" tvg-chno="101254" tvc-guide-stationid="101254" group-title="",WCBD-DT2 (SD Feed) (CWPLUS)
+http://example.local/WCBD2SD.ts
+#EXTINF:-1 tvg-id="WCBDDT" tvg-name="WCBD-DT (NBC)" tvg-logo="https://logos.jesmann.com/wcbddt.png" tvg-chno="31413" tvc-guide-stationid="31413" group-title="",WCBD-DT (NBC)
+http://example.local/WCBDDT.ts
 #EXTINF:-1 tvg-id="WCBDDT2" tvg-name="WCBD-DT2 (CWPLUS)" tvg-logo="https://logos.jesmann.com/wcbddt2.png" tvg-chno="51894" tvc-guide-stationid="51894" group-title="",WCBD-DT2 (CWPLUS)
 http://example.local/WCBDDT2.ts
 #EXTINF:-1 tvg-id="WCBI" tvg-name="WCBI (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" tvg-chno="12426" tvc-guide-stationid="12426" group-title="",WCBI (CBS)
@@ -1011,11 +1019,3 @@ http://example.local/WHSVDT.ts
 http://example.local/WHSVDT4.ts
 #EXTINF:-1 tvg-id="WHTJDT" tvg-name="WHTJ-DT (PBS)" tvg-logo="https://logos.jesmann.com/whtjdt.png" tvg-chno="43784" tvc-guide-stationid="43784" group-title="",WHTJ-DT (PBS)
 http://example.local/WHTJDT.ts
-#EXTINF:-1 tvg-id="WHTM" tvg-name="WHTM (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" tvg-chno="11534" tvc-guide-stationid="11534" group-title="",WHTM (ABC)
-http://example.local/WHTM.ts
-#EXTINF:-1 tvg-id="WHTMDT" tvg-name="WHTM-DT (ABC)" tvg-logo="https://logos.jesmann.com/whtmdt.png" tvg-chno="44627" tvc-guide-stationid="44627" group-title="",WHTM-DT (ABC)
-http://example.local/WHTMDT.ts
-#EXTINF:-1 tvg-id="WHTN" tvg-name="WHTN" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="11535" tvc-guide-stationid="11535" group-title="",WHTN
-http://example.local/WHTN.ts
-#EXTINF:-1 tvg-id="WHTNDT" tvg-name="WHTN-DT" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="34855" tvc-guide-stationid="34855" group-title="",WHTN-DT
-http://example.local/WHTNDT.ts

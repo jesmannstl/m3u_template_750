@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="NGMUNDO" tvg-name="Nat Geo Mundo" tvg-logo="https://zap2it.tmsimg.com/assets/s72449_ll_h15_aa.png" tvg-chno="72449" tvc-guide-stationid="72449" group-title="",Nat Geo Mundo
+http://example.local/NGMUNDO.ts
+#EXTINF:-1 tvg-id="NGN3" tvg-name="NGN3" tvg-logo="https://zap2it.tmsimg.com/assets/s35382_ll_h15_aa.png" tvg-chno="35382" tvc-guide-stationid="35382" group-title="",NGN3
+http://example.local/NGN3.ts
+#EXTINF:-1 tvg-id="NGN3HD" tvg-name="NGN3 HD" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="102807" tvc-guide-stationid="102807" group-title="",NGN3 HD
+http://example.local/NGN3HD.ts
+#EXTINF:-1 tvg-id="NGNHD" tvg-name="Nippon Golden Network HD (NGN HD)" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="102806" tvc-guide-stationid="102806" group-title="",Nippon Golden Network HD (NGN HD)
+http://example.local/NGNHD.ts
 #EXTINF:-1 tvg-id="NGWIHD" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67331_ll_h15_ab.png" tvg-chno="67331" tvc-guide-stationid="67331" group-title="",National Geographic Wild HD
 http://example.local/NGWIHD.ts
 #EXTINF:-1 tvg-id="NGWILD" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s66804_ll_h15_ab.png" tvg-chno="66804" tvc-guide-stationid="66804" group-title="",National Geographic Wild
@@ -1011,11 +1019,3 @@ http://example.local/STZENBP.ts
 http://example.local/STZENC.ts
 #EXTINF:-1 tvg-id="STZENCL" tvg-name="Starz Encore Classic" tvg-logo="https://zap2it.tmsimg.com/assets/s14764_ll_h15_ac.png" tvg-chno="14764" tvc-guide-stationid="14764" group-title="",Starz Encore Classic
 http://example.local/STZENCL.ts
-#EXTINF:-1 tvg-id="STZENCP" tvg-name="Starz Encore (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10178_ll_h15_ac.png" tvg-chno="17125" tvc-guide-stationid="17125" group-title="",Starz Encore (Pacific)
-http://example.local/STZENCP.ts
-#EXTINF:-1 tvg-id="STZENDM" tvg-name="EPG Starz Encore On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s10178_ll_h15_ac.png" tvg-chno="49317" tvc-guide-stationid="49317" group-title="",EPG Starz Encore On Demand
-http://example.local/STZENDM.ts
-#EXTINF:-1 tvg-id="STZENFM" tvg-name="Starz Encore Family" tvg-logo="https://zap2it.tmsimg.com/assets/s14886_ll_h15_ab.png" tvg-chno="14886" tvc-guide-stationid="14886" group-title="",Starz Encore Family
-http://example.local/STZENFM.ts
-#EXTINF:-1 tvg-id="STZENFP" tvg-name="Starz Encore Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s14886_ll_h15_ab.png" tvg-chno="17131" tvc-guide-stationid="17131" group-title="",Starz Encore Family (Pacific)
-http://example.local/STZENFP.ts

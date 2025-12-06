@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="KLTSDT3" tvg-name="KLTS-DT3 (CREATE)" tvg-logo="https://zap2it.tmsimg.com/assets/s48990_h3_aa.png" tvg-chno="32098" tvc-guide-stationid="32098" group-title="",KLTS-DT3 (CREATE)
+http://example.local/KLTSDT3.ts
+#EXTINF:-1 tvg-id="KLTV" tvg-name="KLTV (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" tvg-chno="10559" tvc-guide-stationid="10559" group-title="",KLTV (ABC)
+http://example.local/KLTV.ts
+#EXTINF:-1 tvg-id="KLTVDT" tvg-name="KLTV-DT (ABC)" tvg-logo="https://logos.jesmann.com/kltvdt.png" tvg-chno="49529" tvc-guide-stationid="49529" group-title="",KLTV-DT (ABC)
+http://example.local/KLTVDT.ts
+#EXTINF:-1 tvg-id="KLUZ" tvg-name="KLUZ (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" tvg-chno="19050" tvc-guide-stationid="19050" group-title="",KLUZ (UNI)
+http://example.local/KLUZ.ts
 #EXTINF:-1 tvg-id="KLUZDT" tvg-name="KLUZ-DT (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" tvg-chno="63776" tvc-guide-stationid="63776" group-title="",KLUZ-DT (UNI)
 http://example.local/KLUZDT.ts
 #EXTINF:-1 tvg-id="KLVXDT" tvg-name="KLVX-DT (PBS)" tvg-logo="https://logos.jesmann.com/klvxdt.png" tvg-chno="30461" tvc-guide-stationid="30461" group-title="",KLVX-DT (PBS)
@@ -1011,11 +1019,3 @@ http://example.local/KSDKDT.ts
 http://example.local/KSDKDT2.ts
 #EXTINF:-1 tvg-id="KSDKDT3" tvg-name="KSDK-DT3 (CRIME)" tvg-logo="https://zap2it.tmsimg.com/assets/s91496_h3_ba.png" tvg-chno="91518" tvc-guide-stationid="91518" group-title="",KSDK-DT3 (CRIME)
 http://example.local/KSDKDT3.ts
-#EXTINF:-1 tvg-id="KSDKDT4" tvg-name="KSDK-DT4 (QUESTSD)" tvg-logo="https://zap2it.tmsimg.com/assets/s106838_ll_h9_ad.png" tvg-chno="107218" tvc-guide-stationid="107218" group-title="",KSDK-DT4 (QUESTSD)
-http://example.local/KSDKDT4.ts
-#EXTINF:-1 tvg-id="KSDKDT5" tvg-name="KSDK-DT5 (NOSEYTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s157427_ll_h15_aa.png" tvg-chno="118887" tvc-guide-stationid="118887" group-title="",KSDK-DT5 (NOSEYTV)
-http://example.local/KSDKDT5.ts
-#EXTINF:-1 tvg-id="KSDKDT6" tvg-name="KSDK-DT6 (CONFESS)" tvg-logo="https://zap2it.tmsimg.com/assets/s161190_ll_h15_aa.png" tvg-chno="121438" tvc-guide-stationid="121438" group-title="",KSDK-DT6 (CONFESS)
-http://example.local/KSDKDT6.ts
-#EXTINF:-1 tvg-id="KSDXLD" tvg-name="KSDX-LD (ESTNWS)" tvg-logo="https://zap2it.tmsimg.com/assets/s117478_ll_h15_aa.png" tvg-chno="71987" tvc-guide-stationid="71987" group-title="",KSDX-LD (ESTNWS)
-http://example.local/KSDXLD.ts
