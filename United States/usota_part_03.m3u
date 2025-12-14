@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="KBFXCD" tvg-name="KBFX-CD (FOX)" tvg-logo="https://logos.jesmann.com/kbfxcd.png" tvg-chno="69718" tvc-guide-stationid="69718" group-title="",KBFX-CD (FOX)
+http://example.local/KBFXCD.ts
 #EXTINF:-1 tvg-id="KBFXCD2" tvg-name="KBFX-CD2 (ROARTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s102116_ll_h15_ac.png" tvg-chno="70178" tvc-guide-stationid="70178" group-title="",KBFX-CD2 (ROARTV)
 http://example.local/KBFXCD2.ts
 #EXTINF:-1 tvg-id="KBFXCD3" tvg-name="KBFX-CD3 (COMET)" tvg-logo="https://zap2it.tmsimg.com/assets/s97051_ll_h15_ab.png" tvg-chno="97060" tvc-guide-stationid="97060" group-title="",KBFX-CD3 (COMET)
@@ -295,7 +297,7 @@ http://example.local/KBVODT2.ts
 http://example.local/KBVODT3.ts
 #EXTINF:-1 tvg-id="KBVODT4" tvg-name="KBVO-DT4 (IONPLUS)" tvg-logo="https://zap2it.tmsimg.com/assets/s55241_ll_h15_ad.png" tvg-chno="114084" tvc-guide-stationid="114084" group-title="",KBVO-DT4 (IONPLUS)
 http://example.local/KBVODT4.ts
-#EXTINF:-1 tvg-id="KBVUDT" tvg-name="KBVU-DT (FOX)" tvg-logo="https://logos.jesmann.com/kbvudt.png" tvg-chno="35315" tvc-guide-stationid="35315" group-title="",KBVU-DT (FOX)
+#EXTINF:-1 tvg-id="KBVUDT" tvg-name="KBVU-DT (ROARTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s102116_ll_h15_ac.png" tvg-chno="35315" tvc-guide-stationid="35315" group-title="",KBVU-DT (ROARTV)
 http://example.local/KBVUDT.ts
 #EXTINF:-1 tvg-id="KBVUDT2" tvg-name="KBVU-DT2 (COMET)" tvg-logo="https://zap2it.tmsimg.com/assets/s97051_ll_h15_ab.png" tvg-chno="62901" tvc-guide-stationid="62901" group-title="",KBVU-DT2 (COMET)
 http://example.local/KBVUDT2.ts
@@ -771,7 +773,7 @@ http://example.local/KCTVDT4.ts
 http://example.local/KCTVDT5.ts
 #EXTINF:-1 tvg-id="KCVHLD" tvg-name="KCVH-LD" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="72298" tvc-guide-stationid="72298" group-title="",KCVH-LD
 http://example.local/KCVHLD.ts
-#EXTINF:-1 tvg-id="KCVUDT" tvg-name="KCVU-DT (FOX)" tvg-logo="https://logos.jesmann.com/kcvudt.png" tvg-chno="34959" tvc-guide-stationid="34959" group-title="",KCVU-DT (FOX)
+#EXTINF:-1 tvg-id="KCVUDT" tvg-name="KCVU-DT (ROARTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s102116_ll_h15_ac.png" tvg-chno="34959" tvc-guide-stationid="34959" group-title="",KCVU-DT (ROARTV)
 http://example.local/KCVUDT.ts
 #EXTINF:-1 tvg-id="KCVUDT2" tvg-name="KCVU-DT2 (COMET)" tvg-logo="https://zap2it.tmsimg.com/assets/s97051_h3_aa.png" tvg-chno="53244" tvc-guide-stationid="53244" group-title="",KCVU-DT2 (COMET)
 http://example.local/KCVUDT2.ts
@@ -1017,5 +1019,3 @@ http://example.local/KDLTDT.ts
 http://example.local/KDLTDT2.ts
 #EXTINF:-1 tvg-id="KDLTDT3" tvg-name="KDLT-DT3 (365BLK)" tvg-logo="https://zap2it.tmsimg.com/assets/s150571_ll_h15_ab.png" tvg-chno="116722" tvc-guide-stationid="116722" group-title="",KDLT-DT3 (365BLK)
 http://example.local/KDLTDT3.ts
-#EXTINF:-1 tvg-id="KDLTDT4" tvg-name="KDLT-DT4 (COZITV)" tvg-logo="https://zap2it.tmsimg.com/assets/s78851_ll_h15_ab.png" tvg-chno="116723" tvc-guide-stationid="116723" group-title="",KDLT-DT4 (COZITV)
-http://example.local/KDLTDT4.ts
