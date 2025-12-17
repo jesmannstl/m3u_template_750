@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="84071" tvg-name="WDR Münster HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84071_ll_h15_ac.png" group-title="Netherlands" tvg-id="WDRMUNH" tvc-guide-stationid="84071",WDR Münster HD
+http://example.local/NLD-WDRMUNH.ts
 #EXTINF:-1 tvg-chno="84071" tvg-name="WDR Münster HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84071_ll_h15_ac.png" group-title="Spain" tvg-id="WDRMUNH" tvc-guide-stationid="84071",WDR Münster HD
 http://example.local/ESP-WDRMUNH.ts
 #EXTINF:-1 tvg-chno="84071" tvg-name="WDR Münster HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84071_ll_h15_ac.png" group-title="Switzerland" tvg-id="WDRMUNH" tvc-guide-stationid="84071",WDR Münster HD
@@ -1017,5 +1019,3 @@ http://example.local/CAN-WETKDT.ts
 http://example.local/USA-WETKDT.ts
 #EXTINF:-1 tvg-chno="51040" tvg-name="WETK-DT2 (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s32356_ll_h15_ac.png" group-title="Canada" tvg-id="WETKDT2" tvc-guide-stationid="51040",WETK-DT2 (PBS)
 http://example.local/CAN-WETKDT2.ts
-#EXTINF:-1 tvg-chno="51040" tvg-name="WETK-DT2 (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s32356_ll_h15_ac.png" group-title="United States" tvg-id="WETKDT2" tvc-guide-stationid="51040",WETK-DT2 (PBS)
-http://example.local/USA-WETKDT2.ts

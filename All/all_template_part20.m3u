@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="84316" tvg-name="Curiosity Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s84316_ll_h15_ag.png" group-title="United States" tvg-id="SPIELW" tvc-guide-stationid="84316",Curiosity Channel
+http://example.local/USA-SPIELW.ts
 #EXTINF:-1 tvg-chno="84316" tvg-name="Curiosity Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s84316_ll_h15_ag.png" group-title="Austria" tvg-id="SPIELW" tvc-guide-stationid="84316",Curiosity Channel
 http://example.local/AUT-SPIELW.ts
 #EXTINF:-1 tvg-chno="124551" tvg-name="Curiosity Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s124551_ll_h9_aa.png" group-title="Netherlands" tvg-id="CURIZIG" tvc-guide-stationid="124551",Curiosity Channel
@@ -1017,5 +1019,3 @@ http://example.local/USA-DT227.ts
 http://example.local/USA-DT320.ts
 #EXTINF:-1 tvg-chno="20609" tvg-name="DirecTV - MLB Extra Innings - MLBEI" tvg-logo="https://zap2it.tmsimg.com/assets/s95839_ll_h15_ab.png" group-title="United States" tvg-id="MLBEI" tvc-guide-stationid="20609",DirecTV - MLB Extra Innings - MLBEI
 http://example.local/USA-MLBEI.ts
-#EXTINF:-1 tvg-chno="20604" tvg-name="DirecTV - NFL Sunday Ticket - NFLST" group-title="Puerto Rico" tvg-id="NFLST" tvc-guide-stationid="20604",DirecTV - NFL Sunday Ticket - NFLST
-http://example.local/PRI-NFLST.ts

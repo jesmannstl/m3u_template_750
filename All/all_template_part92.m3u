@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="61714" tvg-name="Sportsnet (Pacific) HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61714_ll_h15_aa.png" group-title="Canada" tvg-id="SNPHD" tvc-guide-stationid="61714",Sportsnet (Pacific) HD
+http://example.local/CAN-SNPHD.ts
 #EXTINF:-1 tvg-chno="20203" tvg-name="Sportsnet 360" tvg-logo="https://zap2it.tmsimg.com/assets/s20203_ll_h15_aa.png" group-title="Canada" tvg-id="SN360" tvc-guide-stationid="20203",Sportsnet 360
 http://example.local/CAN-SN360.ts
 #EXTINF:-1 tvg-chno="49952" tvg-name="Sportsnet 360 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49952_ll_h15_aa.png" group-title="Canada" tvg-id="SN360H" tvc-guide-stationid="49952",Sportsnet 360 HD
@@ -1017,5 +1019,3 @@ http://example.local/KNA-STRFAEH.ts
 http://example.local/DMA-STARFAM.ts
 #EXTINF:-1 tvg-chno="92028" tvg-name="STAR FUN" tvg-logo="https://zap2it.tmsimg.com/assets/s65399_ll_h15_ac.png" group-title="Dominica" tvg-id="STRFAEH" tvc-guide-stationid="92028",STAR FUN
 http://example.local/DMA-STRFAEH.ts
-#EXTINF:-1 tvg-chno="65399" tvg-name="STAR FUN" tvg-logo="https://zap2it.tmsimg.com/assets/s65399_h3_aa.png" group-title="Guyana" tvg-id="STARFAM" tvc-guide-stationid="65399",STAR FUN
-http://example.local/GUY-STARFAM.ts

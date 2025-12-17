@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="55596" tvg-name="Game HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55596_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="GMHD1" tvc-guide-stationid="55596",Game HD
+http://example.local/PRI-GMHD1.ts
 #EXTINF:-1 tvg-chno="55596" tvg-name="Game HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55596_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="GMHD1" tvc-guide-stationid="55596",Game HD
 http://example.local/CYM-GMHD1.ts
 #EXTINF:-1 tvg-chno="55596" tvg-name="Game HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55596_ll_h15_aa.png" group-title="Curacao" tvg-id="GMHD1" tvc-guide-stationid="55596",Game HD
@@ -1017,5 +1019,3 @@ http://example.local/MAF-GLDEN.ts
 http://example.local/GRD-GLDEN.ts
 #EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
 http://example.local/ATG-GLDEN.ts
-#EXTINF:-1 tvg-chno="18999" tvg-name="Golden Eagle Broadcasting" tvg-logo="https://zap2it.tmsimg.com/assets/s18999_ll_h15_aa.png" group-title="United States" tvg-id="GEB" tvc-guide-stationid="18999",Golden Eagle Broadcasting
-http://example.local/USA-GEB.ts

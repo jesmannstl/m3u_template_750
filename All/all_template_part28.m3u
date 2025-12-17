@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="119166" tvg-name="euronews HD" group-title="Poland" tvg-id="EUNEWSHD" tvc-guide-stationid="119166",euronews HD
+http://example.local/POL-EUNEWSHD.ts
 #EXTINF:-1 tvg-chno="103499" tvg-name="euronews HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103499_ll_h15_aa.png" group-title="Austria" tvg-id="EUNHDDE" tvc-guide-stationid="103499",euronews HD
 http://example.local/AUT-EUNHDDE.ts
 #EXTINF:-1 tvg-chno="103473" tvg-name="Euronews HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103473_ll_h15_ab.png" group-title="Austria" tvg-id="EURNWHD" tvc-guide-stationid="103473",Euronews HD
@@ -1017,5 +1019,3 @@ http://example.local/USA-FFCL.ts
 http://example.local/USA-FFE.ts
 #EXTINF:-1 tvg-chno="24149" tvg-name="Family Friendly Entertainment" group-title="Cayman Islands" tvg-id="FFE" tvc-guide-stationid="24149",Family Friendly Entertainment
 http://example.local/CYM-FFE.ts
-#EXTINF:-1 tvg-chno="24149" tvg-name="Family Friendly Entertainment" group-title="Jamaica" tvg-id="FFE" tvc-guide-stationid="24149",Family Friendly Entertainment
-http://example.local/JAM-FFE.ts

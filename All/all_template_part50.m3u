@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="97717" tvg-name="Kabeljournal Chemnitz" tvg-logo="https://zap2it.tmsimg.com/assets/s97717_ll_h15_aa.png" group-title="Germany" tvg-id="KJCHEM" tvc-guide-stationid="97717",Kabeljournal Chemnitz
+http://example.local/DEU-KJCHEM.ts
 #EXTINF:-1 tvg-chno="92161" tvg-name="KABH-CD (YTA)" tvg-logo="https://zap2it.tmsimg.com/assets/s10982_ll_h15_ab.png" group-title="United States" tvg-id="KABHCD" tvc-guide-stationid="92161",KABH-CD (YTA)
 http://example.local/USA-KABHCD.ts
 #EXTINF:-1 tvg-chno="96372" tvg-name="KABI-LD (HEROICN)" tvg-logo="https://zap2it.tmsimg.com/assets/s90401_ll_h15_ad.png" group-title="United States" tvg-id="KABILD" tvc-guide-stationid="96372",KABI-LD (HEROICN)
@@ -55,7 +57,7 @@ http://example.local/USA-KADTLD.ts
 http://example.local/USA-KAEF.ts
 #EXTINF:-1 tvg-chno="54489" tvg-name="KAEF-DT (ABC)" tvg-logo="https://logos.jesmann.com/kaefdt.png" group-title="United States" tvg-id="KAEFDT" tvc-guide-stationid="54489",KAEF-DT (ABC)
 http://example.local/USA-KAEFDT.ts
-#EXTINF:-1 tvg-chno="72627" tvg-name="KAEF-DT2 (ROARTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s102116_ll_h15_ac.png" group-title="United States" tvg-id="KAEFDT2" tvc-guide-stationid="72627",KAEF-DT2 (ROARTV)
+#EXTINF:-1 tvg-chno="72627" tvg-name="KAEF-DT2 (FOX)" tvg-logo="https://logos.jesmann.com/kaefdt2.png" group-title="United States" tvg-id="KAEFDT2" tvc-guide-stationid="72627",KAEF-DT2 (FOX)
 http://example.local/USA-KAEFDT2.ts
 #EXTINF:-1 tvg-chno="73213" tvg-name="KAEF-DT3 (COMET)" tvg-logo="https://zap2it.tmsimg.com/assets/s97051_ll_h15_ab.png" group-title="United States" tvg-id="KAEFDT3" tvc-guide-stationid="73213",KAEF-DT3 (COMET)
 http://example.local/USA-KAEFDT3.ts
@@ -1017,5 +1019,3 @@ http://example.local/USA-KBIDLD3.ts
 http://example.local/USA-KBIDLD4.ts
 #EXTINF:-1 tvg-chno="97413" tvg-name="KBID-LD5" group-title="United States" tvg-id="KBIDLD5" tvc-guide-stationid="97413",KBID-LD5
 http://example.local/USA-KBIDLD5.ts
-#EXTINF:-1 tvg-chno="104966" tvg-name="KBID-LD6" tvg-logo="https://zap2it.tmsimg.com/assets/s104966_ll_h15_aa.png" group-title="United States" tvg-id="KBIDLD6" tvc-guide-stationid="104966",KBID-LD6
-http://example.local/USA-KBIDLD6.ts

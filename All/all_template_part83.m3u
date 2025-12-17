@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="123668" tvg-name="Radio Capital" tvg-logo="https://zap2it.tmsimg.com/assets/s123668_ll_h15_aa.png" group-title="Italy" tvg-id="RADCAPITAL" tvc-guide-stationid="123668",Radio Capital
+http://example.local/ITA-RADCAPITAL.ts
 #EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Trinidad and Tobago" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
 http://example.local/TTO-RCARA.ts
 #EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Peru" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
@@ -1017,5 +1019,3 @@ http://example.local/CHE-RAISPHD.ts
 http://example.local/FRA-RAISTIT.ts
 #EXTINF:-1 tvg-chno="90940" tvg-name="Rai Storia" tvg-logo="https://zap2it.tmsimg.com/assets/s90940_ll_h15_aa.png" group-title="Italy" tvg-id="RAISTIT" tvc-guide-stationid="90940",Rai Storia
 http://example.local/ITA-RAISTIT.ts
-#EXTINF:-1 tvg-chno="140390" tvg-name="Rai Storia" tvg-logo="https://zap2it.tmsimg.com/assets/s90940_ll_h15_aa.png" group-title="Italy" tvg-id="RAISTSKY" tvc-guide-stationid="140390",Rai Storia
-http://example.local/ITA-RAISTSKY.ts

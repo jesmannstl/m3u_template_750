@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="10849" tvg-name="KYNE (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="United States" tvg-id="KYNE" tvc-guide-stationid="10849",KYNE (PBS)
+http://example.local/USA-KYNE.ts
 #EXTINF:-1 tvg-chno="33940" tvg-name="KYNE-DT (PBS)" tvg-logo="https://logos.jesmann.com/kynedt.png" group-title="United States" tvg-id="KYNEDT" tvc-guide-stationid="33940",KYNE-DT (PBS)
 http://example.local/USA-KYNEDT.ts
 #EXTINF:-1 tvg-chno="33943" tvg-name="KYNE-DT2 (WORLD)" tvg-logo="https://zap2it.tmsimg.com/assets/s56725_ll_h15_ab.png" group-title="United States" tvg-id="KYNEDT2" tvc-guide-stationid="33943",KYNE-DT2 (WORLD)
@@ -1017,5 +1019,3 @@ http://example.local/USA-LOOR1979.ts
 http://example.local/USA-LOOR1993.ts
 #EXTINF:-1 tvg-chno="92455" tvg-name="Local Origination - LOOR 2" group-title="United States" tvg-id="LOOR2" tvc-guide-stationid="92455",Local Origination - LOOR 2
 http://example.local/USA-LOOR2.ts
-#EXTINF:-1 tvg-chno="102832" tvg-name="Local Origination - LOOR 275" group-title="United States" tvg-id="LOOR275" tvc-guide-stationid="102832",Local Origination - LOOR 275
-http://example.local/USA-LOOR275.ts

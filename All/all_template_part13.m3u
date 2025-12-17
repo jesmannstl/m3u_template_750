@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="118495" tvg-name="CANAL+ Dokument HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118495_h3_aa.png" group-title="Poland" tvg-id="CANALDOK" tvc-guide-stationid="118495",CANAL+ Dokument HD
+http://example.local/POL-CANALDOK.ts
 #EXTINF:-1 tvg-chno="120427" tvg-name="CANAL+ DOKUMENT SD (POLAND)" tvg-logo="https://zap2it.tmsimg.com/assets/s120427_ll_h9_ab.png" group-title="Poland" tvg-id="CANALDOKSD" tvc-guide-stationid="120427",CANAL+ DOKUMENT SD (POLAND)
 http://example.local/POL-CANALDOKSD.ts
 #EXTINF:-1 tvg-chno="118300" tvg-name="CANAL+ Domo HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118300_ll_h15_aa.png" group-title="Poland" tvg-id="DOMOHD" tvc-guide-stationid="118300",CANAL+ Domo HD
@@ -1017,5 +1019,3 @@ http://example.local/CAN-CBATDT.ts
 http://example.local/USA-CBATDT.ts
 #EXTINF:-1 tvg-chno="29324" tvg-name="CBBC" tvg-logo="https://zap2it.tmsimg.com/assets/s29324_ll_h15_ac.png" group-title="United Kingdom" tvg-id="CBBC" tvc-guide-stationid="29324",CBBC
 http://example.local/GBR-CBBC.ts
-#EXTINF:-1 tvg-chno="116433" tvg-name="CBBC" tvg-logo="https://zap2it.tmsimg.com/assets/s116433_ll_h15_ab.png" group-title="Ireland" tvg-id="CBBCIRE" tvc-guide-stationid="116433",CBBC
-http://example.local/IRL-CBBCIRE.ts

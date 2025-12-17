@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="76844" tvg-name="Viasat Nature" tvg-logo="https://zap2it.tmsimg.com/assets/s76844_ll_h9_aa.png" group-title="Sweden" tvg-id="VIANAT" tvc-guide-stationid="76844",Viasat Nature
+http://example.local/SWE-VIANAT.ts
 #EXTINF:-1 tvg-chno="90816" tvg-name="Viasat Nature" tvg-logo="https://zap2it.tmsimg.com/assets/s90816_ll_h9_aa.png" group-title="Norway" tvg-id="VNATRN" tvc-guide-stationid="90816",Viasat Nature
 http://example.local/NOR-VNATRN.ts
 #EXTINF:-1 tvg-chno="87685" tvg-name="Viasat Nature HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87685_ll_h15_aa.png" group-title="Sweden" tvg-id="VIANAHD" tvc-guide-stationid="87685",Viasat Nature HD
@@ -1017,5 +1019,3 @@ http://example.local/USA-W21DSD5.ts
 http://example.local/USA-W22DOD.ts
 #EXTINF:-1 tvg-chno="74361" tvg-name="W22DO-D2 (CREATE)" tvg-logo="https://zap2it.tmsimg.com/assets/s48990_ll_h15_aa.png" group-title="United States" tvg-id="W22DOD2" tvc-guide-stationid="74361",W22DO-D2 (CREATE)
 http://example.local/USA-W22DOD2.ts
-#EXTINF:-1 tvg-chno="74363" tvg-name="W22DO-D3 (WORLD)" tvg-logo="https://zap2it.tmsimg.com/assets/s56725_ll_h15_ab.png" group-title="United States" tvg-id="W22DOD3" tvc-guide-stationid="74363",W22DO-D3 (WORLD)
-http://example.local/USA-W22DOD3.ts

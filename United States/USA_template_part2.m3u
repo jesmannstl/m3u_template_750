@@ -529,6 +529,8 @@ http://example.local/USA-BBCNEUHD.ts
 http://example.local/USA-BBCNEUST.ts
 #EXTINF:-1 tvg-chno="43222" tvg-name="BBC Radio 1" tvg-logo="https://zap2it.tmsimg.com/assets/s43222_ll_h15_aa.png" group-title="United States" tvg-id="SRBBCR1" tvc-guide-stationid="43222",BBC Radio 1
 http://example.local/USA-SRBBCR1.ts
+#EXTINF:-1 tvg-chno="141829" tvg-name="BBC Travel" group-title="United States" tvg-id="BBCTRVL" tvc-guide-stationid="141829",BBC Travel
+http://example.local/USA-BBCTRVL.ts
 #EXTINF:-1 tvg-chno="95165" tvg-name="BCPS Education Channel" group-title="United States" tvg-id="TOWSON7" tvc-guide-stationid="95165",BCPS Education Channel
 http://example.local/USA-TOWSON7.ts
 #EXTINF:-1 tvg-chno="95309" tvg-name="BCPS Education Channel" group-title="United States" tvg-id="TOWSON" tvc-guide-stationid="95309",BCPS Education Channel
@@ -1017,5 +1019,3 @@ http://example.local/USA-BLOOMHD.ts
 http://example.local/USA-QUICKTK.ts
 #EXTINF:-1 tvg-chno="120971" tvg-name="BLOOMBERG ORIGINALS" group-title="United States" tvg-id="VIZQUTK" tvc-guide-stationid="120971",BLOOMBERG ORIGINALS
 http://example.local/USA-VIZQUTK.ts
-#EXTINF:-1 tvg-chno="84530" tvg-name="Bloomberg TV" tvg-logo="https://zap2it.tmsimg.com/assets/s14755_ll_h15_ab.png" group-title="United States" tvg-id="DBLMIS" tvc-guide-stationid="84530",Bloomberg TV
-http://example.local/USA-DBLMIS.ts

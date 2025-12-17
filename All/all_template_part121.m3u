@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="30921" tvg-name="WPXR-DT (ION)" tvg-logo="https://zap2it.tmsimg.com/assets/s18633_ll_h15_ad.png" group-title="United States" tvg-id="WPXRDT" tvc-guide-stationid="30921",WPXR-DT (ION)
+http://example.local/USA-WPXRDT.ts
 #EXTINF:-1 tvg-chno="54622" tvg-name="WPXR-DT2 (COURT)" tvg-logo="https://zap2it.tmsimg.com/assets/s111043_h3_aa.png" group-title="United States" tvg-id="WPXRDT2" tvc-guide-stationid="54622",WPXR-DT2 (COURT)
 http://example.local/USA-WPXRDT2.ts
 #EXTINF:-1 tvg-chno="55316" tvg-name="WPXR-DT3 (LAFF)" tvg-logo="https://zap2it.tmsimg.com/assets/s92091_ll_h15_aa.png" group-title="United States" tvg-id="WPXRDT3" tvc-guide-stationid="55316",WPXR-DT3 (LAFF)
@@ -1017,5 +1019,3 @@ http://example.local/USA-WSBK.ts
 http://example.local/BHS-WSBK.ts
 #EXTINF:-1 tvg-chno="32723" tvg-name="WSBK-DT" tvg-logo="https://logos.jesmann.com/wsbkdt.png" group-title="Canada" tvg-id="WSBKDT" tvc-guide-stationid="32723",WSBK-DT
 http://example.local/CAN-WSBKDT.ts
-#EXTINF:-1 tvg-chno="32723" tvg-name="WSBK-DT" tvg-logo="https://logos.jesmann.com/wsbkdt.png" group-title="United States" tvg-id="WSBKDT" tvc-guide-stationid="32723",WSBK-DT
-http://example.local/USA-WSBKDT.ts

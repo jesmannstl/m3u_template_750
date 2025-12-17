@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="176728" tvg-name="The Apprentice" tvg-logo="https://zap2it.tmsimg.com/assets/s176728_ll_h9_aa.png" group-title="United States" tvg-id="APPRNTC" tvc-guide-stationid="176728",The Apprentice
+http://example.local/USA-APPRNTC.ts
 #EXTINF:-1 tvg-chno="23775" tvg-name="The Arabic Channel" group-title="United States" tvg-id="ARABCH" tvc-guide-stationid="23775",The Arabic Channel
 http://example.local/USA-ARABCH.ts
 #EXTINF:-1 tvg-chno="122652" tvg-name="The Asylum" tvg-logo="https://zap2it.tmsimg.com/assets/s122652_ll_h15_aa.png" group-title="United States" tvg-id="XMVASY" tvc-guide-stationid="122652",The Asylum
@@ -1017,5 +1019,3 @@ http://example.local/CAN-TIMEF.ts
 http://example.local/USA-CFSUMM.ts
 #EXTINF:-1 tvg-chno="21763" tvg-name="Time Warner Akron BET/Local split" group-title="United States" tvg-id="BETLO3" tvc-guide-stationid="21763",Time Warner Akron BET/Local split
 http://example.local/USA-BETLO3.ts
-#EXTINF:-1 tvg-chno="21158" tvg-name="Time Warner Albany BET/LO1" group-title="United States" tvg-id="BETLO2" tvc-guide-stationid="21158",Time Warner Albany BET/LO1
-http://example.local/USA-BETLO2.ts

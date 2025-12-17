@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="United States" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
+http://example.local/USA-CANALHD.ts
 #EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Mexico" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
 http://example.local/MEX-CCL.ts
 #EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Mexico" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
@@ -315,9 +317,9 @@ http://example.local/ATG-CINACT.ts
 http://example.local/USA-CINACSP.ts
 #EXTINF:-1 tvg-chno="18434" tvg-name="Cinemax Action (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC1Q.png" group-title="Puerto Rico" tvg-id="CINACSP" tvc-guide-stationid="18434",Cinemax Action (Pacific)
 http://example.local/PRI-CINACSP.ts
-#EXTINF:-1 tvg-chno="59948" tvg-name="Cinemax Action HD" tvg-logo="https://tmsimg.fancybits.co/assets/GNLZZGG0029BC3L" group-title="United States" tvg-id="CINACHD" tvc-guide-stationid="59948",Cinemax Action HD
+#EXTINF:-1 tvg-chno="59948" tvg-name="Cinemax Action HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC3L.png" group-title="United States" tvg-id="CINACHD" tvc-guide-stationid="59948",Cinemax Action HD
 http://example.local/USA-CINACHD.ts
-#EXTINF:-1 tvg-chno="59950" tvg-name="Cinemax Action HD (Pacific)" tvg-logo="https://tmsimg.fancybits.co/assets/GNLZZGG0029BC3L" group-title="United States" tvg-id="CINAHDP" tvc-guide-stationid="59950",Cinemax Action HD (Pacific)
+#EXTINF:-1 tvg-chno="59950" tvg-name="Cinemax Action HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC3L.png" group-title="United States" tvg-id="CINAHDP" tvc-guide-stationid="59950",Cinemax Action HD (Pacific)
 http://example.local/USA-CINAHDP.ts
 #EXTINF:-1 tvg-chno="25620" tvg-name="Cinemax Classics" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBLL.png" group-title="United States" tvg-id="CINECLS" tvc-guide-stationid="25620",Cinemax Classics
 http://example.local/USA-CINECLS.ts
@@ -1017,5 +1019,3 @@ http://example.local/CAN-CKXAFM.ts
 http://example.local/USA-CKYHD.ts
 #EXTINF:-1 tvg-chno="26546" tvg-name="CKZZ FM Radio" group-title="Canada" tvg-id="CKZZ" tvc-guide-stationid="26546",CKZZ FM Radio
 http://example.local/CAN-CKZZ.ts
-#EXTINF:-1 tvg-chno="100109" tvg-name="CL beIN Sports English SD in Spanish" group-title="United States" tvg-id="BEINS1S" tvc-guide-stationid="100109",CL beIN Sports English SD in Spanish
-http://example.local/USA-BEINS1S.ts

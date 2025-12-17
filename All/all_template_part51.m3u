@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="104966" tvg-name="KBID-LD6" tvg-logo="https://zap2it.tmsimg.com/assets/s104966_ll_h15_aa.png" group-title="United States" tvg-id="KBIDLD6" tvc-guide-stationid="104966",KBID-LD6
+http://example.local/USA-KBIDLD6.ts
 #EXTINF:-1 tvg-chno="89916" tvg-name="KBID-LD7" tvg-logo="https://zap2it.tmsimg.com/assets/s89916_ll_h15_aa.png" group-title="United States" tvg-id="KBIDLD7" tvc-guide-stationid="89916",KBID-LD7
 http://example.local/USA-KBIDLD7.ts
 #EXTINF:-1 tvg-chno="102804" tvg-name="KBID-LD8" tvg-logo="https://zap2it.tmsimg.com/assets/s96965_ll_h9_aa.png" group-title="United States" tvg-id="KBIDLD8" tvc-guide-stationid="102804",KBID-LD8
@@ -373,9 +375,9 @@ http://example.local/USA-KBVODT2.ts
 http://example.local/USA-KBVODT3.ts
 #EXTINF:-1 tvg-chno="114084" tvg-name="KBVO-DT4 (IONPLUS)" tvg-logo="https://zap2it.tmsimg.com/assets/s55241_ll_h15_ad.png" group-title="United States" tvg-id="KBVODT4" tvc-guide-stationid="114084",KBVO-DT4 (IONPLUS)
 http://example.local/USA-KBVODT4.ts
-#EXTINF:-1 tvg-chno="14862" tvg-name="KBVU (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="United States" tvg-id="KBVU" tvc-guide-stationid="14862",KBVU (FOX)
+#EXTINF:-1 tvg-chno="14862" tvg-name="KBVU (ROARTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s102116_ll_h15_ac.png" group-title="United States" tvg-id="KBVU" tvc-guide-stationid="14862",KBVU (ROARTV)
 http://example.local/USA-KBVU.ts
-#EXTINF:-1 tvg-chno="35315" tvg-name="KBVU-DT (FOX)" tvg-logo="https://logos.jesmann.com/kbvudt.png" group-title="United States" tvg-id="KBVUDT" tvc-guide-stationid="35315",KBVU-DT (FOX)
+#EXTINF:-1 tvg-chno="35315" tvg-name="KBVU-DT (ROARTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s102116_ll_h15_ac.png" group-title="United States" tvg-id="KBVUDT" tvc-guide-stationid="35315",KBVU-DT (ROARTV)
 http://example.local/USA-KBVUDT.ts
 #EXTINF:-1 tvg-chno="62901" tvg-name="KBVU-DT2 (COMET)" tvg-logo="https://zap2it.tmsimg.com/assets/s97051_ll_h15_ab.png" group-title="United States" tvg-id="KBVUDT2" tvc-guide-stationid="62901",KBVU-DT2 (COMET)
 http://example.local/USA-KBVUDT2.ts
@@ -1017,5 +1019,3 @@ http://example.local/USA-KCSG.ts
 http://example.local/USA-KCSGDT.ts
 #EXTINF:-1 tvg-chno="128543" tvg-name="KCSG-DT12" group-title="United States" tvg-id="KCSGD12" tvc-guide-stationid="128543",KCSG-DT12
 http://example.local/USA-KCSGD12.ts
-#EXTINF:-1 tvg-chno="78852" tvg-name="KCSG-DT2 (CATCHYC)" tvg-logo="https://zap2it.tmsimg.com/assets/s91415_ll_h15_ab.png" group-title="United States" tvg-id="KCSGDT2" tvc-guide-stationid="78852",KCSG-DT2 (CATCHYC)
-http://example.local/USA-KCSGDT2.ts

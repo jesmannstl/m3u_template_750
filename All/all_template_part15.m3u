@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="106914" tvg-name="Channel 21 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106914_ll_h15_ab.png" group-title="Switzerland" tvg-id="CH21HD" tvc-guide-stationid="106914",Channel 21 HD
+http://example.local/CHE-CH21HD.ts
 #EXTINF:-1 tvg-chno="164503" tvg-name="Channel 24" tvg-logo="https://zap2it.tmsimg.com/assets/s164503_ll_h15_aa.png" group-title="United States" tvg-id="WATNSTR" tvc-guide-stationid="164503",Channel 24
 http://example.local/USA-WATNSTR.ts
 #EXTINF:-1 tvg-chno="102587" tvg-name="Channel 299" tvg-logo="https://zap2it.tmsimg.com/assets/s102587_ll_h15_ae.png" group-title="Canada" tvg-id="SUNSTHD" tvc-guide-stationid="102587",Channel 299
@@ -1017,5 +1019,3 @@ http://example.local/CHE-CINE34.ts
 http://example.local/USA-CINEBAN.ts
 #EXTINF:-1 tvg-chno="77914" tvg-name="CineBrasil TV" tvg-logo="https://zap2it.tmsimg.com/assets/s77914_ll_h15_ab.png" group-title="Brazil" tvg-id="CNBRAS" tvc-guide-stationid="77914",CineBrasil TV
 http://example.local/BRA-CNBRAS.ts
-#EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="United States" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
-http://example.local/USA-CANALHD.ts

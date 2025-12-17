@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="32148" tvg-name="TVB8" tvg-logo="https://zap2it.tmsimg.com/assets/s32148_ll_h15_aa.png" group-title="United States" tvg-id="TVB8" tvc-guide-stationid="32148",TVB8
+http://example.local/USA-TVB8.ts
 #EXTINF:-1 tvg-chno="21187" tvg-name="TVBE" group-title="United States" tvg-id="TVBE" tvc-guide-stationid="21187",TVBE
 http://example.local/USA-TVBE.ts
 #EXTINF:-1 tvg-chno="122129" tvg-name="TVBE" group-title="United States" tvg-id="TVBEH" tvc-guide-stationid="122129",TVBE
@@ -1017,5 +1019,3 @@ http://example.local/USA-VIDEODM.ts
 http://example.local/USA-VDM.ts
 #EXTINF:-1 tvg-chno="110378" tvg-name="Video On Demand HD" group-title="United States" tvg-id="VODDMHD" tvc-guide-stationid="110378",Video On Demand HD
 http://example.local/USA-VODDMHD.ts
-#EXTINF:-1 tvg-chno="25615" tvg-name="Video Rola" tvg-logo="https://zap2it.tmsimg.com/assets/s25615_ll_h15_ad.png" group-title="United States" tvg-id="VROLA" tvc-guide-stationid="25615",Video Rola
-http://example.local/USA-VROLA.ts

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="77792" tvg-name="Univision Network HD (Pacific) (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="United States" tvg-id="UNIPHD" tvc-guide-stationid="77792",Univision Network HD (Pacific) (UNI)
+http://example.local/USA-UNIPHD.ts
 #EXTINF:-1 tvg-chno="91259" tvg-name="Univision Satellite HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="United States" tvg-id="CUNIHD" tvc-guide-stationid="91259",Univision Satellite HD (UNI)
 http://example.local/USA-CUNIHD.ts
 #EXTINF:-1 tvg-chno="75951" tvg-name="Univision TDN" tvg-logo="https://zap2it.tmsimg.com/assets/s75176_ll_h15_ae.png" group-title="Mexico" tvg-id="UTDN" tvc-guide-stationid="75951",Univision TDN
@@ -1017,5 +1019,3 @@ http://example.local/NOR-VIAHSTY.ts
 http://example.local/SWE-VHISTHD.ts
 #EXTINF:-1 tvg-chno="88425" tvg-name="Viasat History HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88425_ll_h15_aa.png" group-title="Finland" tvg-id="VIAHHD" tvc-guide-stationid="88425",Viasat History HD
 http://example.local/FIN-VIAHHD.ts
-#EXTINF:-1 tvg-chno="76844" tvg-name="Viasat Nature" tvg-logo="https://zap2it.tmsimg.com/assets/s76844_ll_h9_aa.png" group-title="Sweden" tvg-id="VIANAT" tvc-guide-stationid="76844",Viasat Nature
-http://example.local/SWE-VIANAT.ts

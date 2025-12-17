@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="77059" tvg-name="KYPK-LD (TLEX)" tvg-logo="https://zap2it.tmsimg.com/assets/s74299_ll_h15_ab.png" group-title="United States" tvg-id="KYPKLD" tvc-guide-stationid="77059",KYPK-LD (TLEX)
+http://example.local/USA-KYPKLD.ts
 #EXTINF:-1 tvg-chno="98957" tvg-name="KYPK-LD (SD Feed) (TLEX)" tvg-logo="https://zap2it.tmsimg.com/assets/s74299_ll_h15_ab.png" group-title="United States" tvg-id="KYPKSD" tvc-guide-stationid="98957",KYPK-LD (SD Feed) (TLEX)
 http://example.local/USA-KYPKSD.ts
 #EXTINF:-1 tvg-chno="106970" tvg-name="KYPK-LD2" group-title="United States" tvg-id="KYPKLD2" tvc-guide-stationid="106970",KYPK-LD2
@@ -1017,5 +1019,3 @@ http://example.local/USA-LEAC029.ts
 http://example.local/USA-LEAC036.ts
 #EXTINF:-1 tvg-chno="23722" tvg-name="Leased Access - LEAC047" group-title="United States" tvg-id="LEAC047" tvc-guide-stationid="23722",Leased Access - LEAC047
 http://example.local/USA-LEAC047.ts
-#EXTINF:-1 tvg-chno="23727" tvg-name="Leased Access - LEAC052" group-title="United States" tvg-id="LEAC052" tvc-guide-stationid="23727",Leased Access - LEAC052
-http://example.local/USA-LEAC052.ts

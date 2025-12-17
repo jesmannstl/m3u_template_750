@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png" group-title="United States" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
+http://example.local/USA-NBATVHD.ts
 #EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
 http://example.local/TTO-NBATVHD.ts
 #EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png" group-title="Panama" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
@@ -1017,5 +1019,3 @@ http://example.local/GBR-NFLGP105.ts
 http://example.local/GBR-NFLGP106.ts
 #EXTINF:-1 tvg-chno="145222" tvg-name="NFL Gamepass 107" group-title="United Kingdom" tvg-id="NFLGP107" tvc-guide-stationid="145222",NFL Gamepass 107
 http://example.local/GBR-NFLGP107.ts
-#EXTINF:-1 tvg-chno="145223" tvg-name="NFL Gamepass 108" group-title="United Kingdom" tvg-id="NFLGP108" tvc-guide-stationid="145223",NFL Gamepass 108
-http://example.local/GBR-NFLGP108.ts

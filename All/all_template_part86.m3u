@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="105976" tvg-name="RT International" group-title="Argentina" tvg-id="RTINT" tvc-guide-stationid="105976",RT International
+http://example.local/ARG-RTINT.ts
 #EXTINF:-1 tvg-chno="105976" tvg-name="RT International" group-title="Colombia" tvg-id="RTINT" tvc-guide-stationid="105976",RT International
 http://example.local/COL-RTINT.ts
 #EXTINF:-1 tvg-chno="105976" tvg-name="RT International" group-title="Chile" tvg-id="RTINT" tvc-guide-stationid="105976",RT International
@@ -1017,5 +1019,3 @@ http://example.local/IRL-SANSKTV.ts
 http://example.local/BEL-SANSKTV.ts
 #EXTINF:-1 tvg-chno="107069" tvg-name="Santa Clara Public Access" group-title="United States" tvg-id="SCCITY" tvc-guide-stationid="107069",Santa Clara Public Access
 http://example.local/USA-SCCITY.ts
-#EXTINF:-1 tvg-chno="107074" tvg-name="Santa Clara RTPi" group-title="United States" tvg-id="SCPORT" tvc-guide-stationid="107074",Santa Clara RTPi
-http://example.local/USA-SCPORT.ts

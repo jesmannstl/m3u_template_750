@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="100406" tvg-name="KCBT-LD9 (QVC)" tvg-logo="https://zap2it.tmsimg.com/assets/s11069_ll_h15_ad.png" group-title="United States" tvg-id="KCBTLD9" tvc-guide-stationid="100406",KCBT-LD9 (QVC)
+http://example.local/USA-KCBTLD9.ts
 #EXTINF:-1 tvg-chno="15422" tvg-name="KCBY (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="United States" tvg-id="KCBY" tvc-guide-stationid="15422",KCBY (CBS)
 http://example.local/USA-KCBY.ts
 #EXTINF:-1 tvg-chno="32508" tvg-name="KCBY-DT (CBS)" tvg-logo="https://logos.jesmann.com/kcbydt.png" group-title="United States" tvg-id="KCBYDT" tvc-guide-stationid="32508",KCBY-DT (CBS)
@@ -563,7 +565,7 @@ http://example.local/USA-KCVBCD.ts
 http://example.local/USA-KCVHLD.ts
 #EXTINF:-1 tvg-chno="12670" tvg-name="KCVU (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="United States" tvg-id="KCVU" tvc-guide-stationid="12670",KCVU (FOX)
 http://example.local/USA-KCVU.ts
-#EXTINF:-1 tvg-chno="34959" tvg-name="KCVU-DT (FOX)" tvg-logo="https://logos.jesmann.com/kcvudt.png" group-title="United States" tvg-id="KCVUDT" tvc-guide-stationid="34959",KCVU-DT (FOX)
+#EXTINF:-1 tvg-chno="34959" tvg-name="KCVU-DT (ROARTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s102116_ll_h15_ac.png" group-title="United States" tvg-id="KCVUDT" tvc-guide-stationid="34959",KCVU-DT (ROARTV)
 http://example.local/USA-KCVUDT.ts
 #EXTINF:-1 tvg-chno="53244" tvg-name="KCVU-DT2 (COMET)" tvg-logo="https://zap2it.tmsimg.com/assets/s97051_h3_aa.png" group-title="United States" tvg-id="KCVUDT2" tvc-guide-stationid="53244",KCVU-DT2 (COMET)
 http://example.local/USA-KCVUDT2.ts
@@ -1017,5 +1019,3 @@ http://example.local/USA-KDNFLD.ts
 http://example.local/USA-KDNL.ts
 #EXTINF:-1 tvg-chno="21237" tvg-name="KDNL-DT (ABC)" tvg-logo="https://logos.jesmann.com/kdnldt.png" group-title="United States" tvg-id="KDNLDT" tvc-guide-stationid="21237",KDNL-DT (ABC)
 http://example.local/USA-KDNLDT.ts
-#EXTINF:-1 tvg-chno="69661" tvg-name="KDNL-DT2 (ROARTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s102116_ll_h15_ac.png" group-title="United States" tvg-id="KDNLDT2" tvc-guide-stationid="69661",KDNL-DT2 (ROARTV)
-http://example.local/USA-KDNLDT2.ts

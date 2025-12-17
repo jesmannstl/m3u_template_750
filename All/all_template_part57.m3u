@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="10593" tvg-name="KNLC (METVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" group-title="United States" tvg-id="KNLC" tvc-guide-stationid="10593",KNLC (METVN)
+http://example.local/USA-KNLC.ts
 #EXTINF:-1 tvg-chno="54439" tvg-name="KNLC-DT (METVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" group-title="United States" tvg-id="KNLCDT" tvc-guide-stationid="54439",KNLC-DT (METVN)
 http://example.local/USA-KNLCDT.ts
 #EXTINF:-1 tvg-chno="64120" tvg-name="KNLC-DT2 (METOONS)" tvg-logo="https://zap2it.tmsimg.com/assets/s159817_ll_h15_aa.png" group-title="United States" tvg-id="KNLCDT2" tvc-guide-stationid="64120",KNLC-DT2 (METOONS)
@@ -1017,5 +1019,3 @@ http://example.local/USA-KPCB.ts
 http://example.local/USA-KPCBDT.ts
 #EXTINF:-1 tvg-chno="32971" tvg-name="KPDF-CA" group-title="United States" tvg-id="KPDFCA" tvc-guide-stationid="32971",KPDF-CA
 http://example.local/USA-KPDFCA.ts
-#EXTINF:-1 tvg-chno="71622" tvg-name="KPDF-CD" group-title="United States" tvg-id="KPDFCD" tvc-guide-stationid="71622",KPDF-CD
-http://example.local/USA-KPDFCD.ts

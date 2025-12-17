@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="84621" tvg-name="Iris HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84621_ll_h9_aa.png" group-title="Germany" tvg-id="IRIS" tvc-guide-stationid="84621",Iris HD
+http://example.local/DEU-IRIS.ts
 #EXTINF:-1 tvg-chno="84621" tvg-name="Iris HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84621_ll_h9_aa.png" group-title="Switzerland" tvg-id="IRIS" tvc-guide-stationid="84621",Iris HD
 http://example.local/CHE-IRIS.ts
 #EXTINF:-1 tvg-chno="147882" tvg-name="Iron Chef" tvg-logo="https://zap2it.tmsimg.com/assets/s147882_ll_h15_aa.png" group-title="United States" tvg-id="XMVIC" tvc-guide-stationid="147882",Iron Chef
@@ -1017,5 +1019,3 @@ http://example.local/USA-K06NYD2.ts
 http://example.local/USA-K06PGD.ts
 #EXTINF:-1 tvg-chno="82216" tvg-name="K06PG-D2 (CREATE)" tvg-logo="https://zap2it.tmsimg.com/assets/s48990_ll_h15_aa.png" group-title="United States" tvg-id="K06PGD2" tvc-guide-stationid="82216",K06PG-D2 (CREATE)
 http://example.local/USA-K06PGD2.ts
-#EXTINF:-1 tvg-chno="82217" tvg-name="K06PG-D3 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_h3_aa.png" group-title="United States" tvg-id="K06PGD3" tvc-guide-stationid="82217",K06PG-D3 (HD06)
-http://example.local/USA-K06PGD3.ts

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="64230" tvg-name="DW en español" tvg-logo="https://zap2it.tmsimg.com/assets/s64230_ll_h15_ag.png" group-title="Costa Rica" tvg-id="DWLA" tvc-guide-stationid="64230",DW en español
+http://example.local/CRI-DWLA.ts
 #EXTINF:-1 tvg-chno="64230" tvg-name="DW en español" tvg-logo="https://zap2it.tmsimg.com/assets/s64230_ll_h15_ag.png" group-title="Chile" tvg-id="DWLA" tvc-guide-stationid="64230",DW en español
 http://example.local/CHL-DWLA.ts
 #EXTINF:-1 tvg-chno="64230" tvg-name="DW en español" tvg-logo="https://zap2it.tmsimg.com/assets/s64230_ll_h15_ag.png" group-title="Ecuador" tvg-id="DWLA" tvc-guide-stationid="64230",DW en español
@@ -1017,5 +1019,3 @@ http://example.local/POL-11SP1VM.ts
 http://example.local/BEL-ELSP2SNL.ts
 #EXTINF:-1 tvg-chno="120518" tvg-name="ELEVEN SPORTS 2 PL" group-title="Poland" tvg-id="ELSPO2PL" tvc-guide-stationid="120518",ELEVEN SPORTS 2 PL
 http://example.local/POL-ELSPO2PL.ts
-#EXTINF:-1 tvg-chno="121146" tvg-name="Eleven Sports 3" tvg-logo="https://zap2it.tmsimg.com/assets/s121146_ll_h15_aa.png" group-title="Belgium" tvg-id="ELSP3NLSD" tvc-guide-stationid="121146",Eleven Sports 3
-http://example.local/BEL-ELSP3NLSD.ts

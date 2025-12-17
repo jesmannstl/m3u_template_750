@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="84530" tvg-name="Bloomberg TV" tvg-logo="https://zap2it.tmsimg.com/assets/s14755_ll_h15_ab.png" group-title="United States" tvg-id="DBLMIS" tvc-guide-stationid="84530",Bloomberg TV
+http://example.local/USA-DBLMIS.ts
 #EXTINF:-1 tvg-chno="114652" tvg-name="Bloomberg TV" tvg-logo="https://zap2it.tmsimg.com/assets/s114652_h3_aa.png" group-title="United States" tvg-id="PTVBLTV" tvc-guide-stationid="114652",Bloomberg TV
 http://example.local/USA-PTVBLTV.ts
 #EXTINF:-1 tvg-chno="146958" tvg-name="Bloomberg TV+" tvg-logo="https://zap2it.tmsimg.com/assets/s14755_ll_h15_ab.png" group-title="United States" tvg-id="BLPLUK" tvc-guide-stationid="146958",Bloomberg TV+
@@ -1017,5 +1019,3 @@ http://example.local/USA-CHESTLA.ts
 http://example.local/USA-CHEXDT.ts
 #EXTINF:-1 tvg-chno="100270" tvg-name="Chicago Blackhawks: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlchg.png" group-title="United States" tvg-id="NHLCHG" tvc-guide-stationid="100270",Chicago Blackhawks: NHL Center Ice
 http://example.local/USA-NHLCHG.ts
-#EXTINF:-1 tvg-chno="104886" tvg-name="Chicago Bulls: NBA League Pass" tvg-logo="https://logos.jesmann.com/nbachi.png" group-title="United States" tvg-id="NBACHI" tvc-guide-stationid="104886",Chicago Bulls: NBA League Pass
-http://example.local/USA-NBACHI.ts

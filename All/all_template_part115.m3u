@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="99581" tvg-name="WHPS-CD2" group-title="Canada" tvg-id="WHPSCD2" tvc-guide-stationid="99581",WHPS-CD2
+http://example.local/CAN-WHPSCD2.ts
 #EXTINF:-1 tvg-chno="99581" tvg-name="WHPS-CD2" group-title="United States" tvg-id="WHPSCD2" tvc-guide-stationid="99581",WHPS-CD2
 http://example.local/USA-WHPSCD2.ts
 #EXTINF:-1 tvg-chno="113597" tvg-name="WHPS-CD4 (RETROTV)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y479.png" group-title="Canada" tvg-id="WHPSCD4" tvc-guide-stationid="113597",WHPS-CD4 (RETROTV)
@@ -1011,11 +1013,9 @@ http://example.local/USA-WJANCD2.ts
 http://example.local/USA-WJAR.ts
 #EXTINF:-1 tvg-chno="35936" tvg-name="WJAR-DT (NBC)" tvg-logo="https://logos.jesmann.com/wjardt.png" group-title="United States" tvg-id="WJARDT" tvc-guide-stationid="35936",WJAR-DT (NBC)
 http://example.local/USA-WJARDT.ts
-#EXTINF:-1 tvg-chno="45748" tvg-name="WJAR-DT2 (CHARGE)" tvg-logo="https://zap2it.tmsimg.com/assets/s102148_ll_h15_ab.png" group-title="United States" tvg-id="WJARDT2" tvc-guide-stationid="45748",WJAR-DT2 (CHARGE)
+#EXTINF:-1 tvg-chno="45748" tvg-name="WJAR-DT2 (ABC)" tvg-logo="https://logos.jesmann.com/wjardt2.png" group-title="United States" tvg-id="WJARDT2" tvc-guide-stationid="45748",WJAR-DT2 (ABC)
 http://example.local/USA-WJARDT2.ts
-#EXTINF:-1 tvg-chno="60264" tvg-name="WJAR-DT3 (COMET)" tvg-logo="https://zap2it.tmsimg.com/assets/s97051_ll_h15_ab.png" group-title="United States" tvg-id="WJARDT3" tvc-guide-stationid="60264",WJAR-DT3 (COMET)
+#EXTINF:-1 tvg-chno="60264" tvg-name="WJAR-DT3 (CHARGE)" tvg-logo="https://zap2it.tmsimg.com/assets/s102148_h3_ba.png" group-title="United States" tvg-id="WJARDT3" tvc-guide-stationid="60264",WJAR-DT3 (CHARGE)
 http://example.local/USA-WJARDT3.ts
-#EXTINF:-1 tvg-chno="102373" tvg-name="WJAR-DT4 (ROARTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s102116_ll_h15_ac.png" group-title="United States" tvg-id="WJARDT4" tvc-guide-stationid="102373",WJAR-DT4 (ROARTV)
+#EXTINF:-1 tvg-chno="102373" tvg-name="WJAR-DT4 (COMET)" tvg-logo="https://zap2it.tmsimg.com/assets/s97051_ll_h15_ab.png" group-title="United States" tvg-id="WJARDT4" tvc-guide-stationid="102373",WJAR-DT4 (COMET)
 http://example.local/USA-WJARDT4.ts
-#EXTINF:-1 tvg-chno="11717" tvg-name="WJAX (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="United States" tvg-id="WJAX" tvc-guide-stationid="11717",WJAX (CBS)
-http://example.local/USA-WJAX.ts

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="87911" tvg-name="KFPH-CD3 (GET)" tvg-logo="https://zap2it.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="KFPHCD3" tvc-guide-stationid="87911",KFPH-CD3 (GET)
+http://example.local/USA-KFPHCD3.ts
 #EXTINF:-1 tvg-chno="90191" tvg-name="KFPH-CD4 (IMYS)" tvg-logo="https://zap2it.tmsimg.com/assets/s89923_ll_h15_ad.png" group-title="United States" tvg-id="KFPHCD4" tvc-guide-stationid="90191",KFPH-CD4 (IMYS)
 http://example.local/USA-KFPHCD4.ts
 #EXTINF:-1 tvg-chno="35176" tvg-name="KFPH-DT (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_h3_aa.png" group-title="United States" tvg-id="KFPHDT" tvc-guide-stationid="35176",KFPH-DT (UNIMAS)
@@ -1017,5 +1019,3 @@ http://example.local/USA-KHPZCD.ts
 http://example.local/USA-KHQ.ts
 #EXTINF:-1 tvg-chno="33819" tvg-name="KHQ-DT (NBC)" tvg-logo="https://logos.jesmann.com/khqdt.png" group-title="United States" tvg-id="KHQDT" tvc-guide-stationid="33819",KHQ-DT (NBC)
 http://example.local/USA-KHQDT.ts
-#EXTINF:-1 tvg-chno="33843" tvg-name="KHQ-DT2" group-title="United States" tvg-id="KHQDT2" tvc-guide-stationid="33843",KHQ-DT2
-http://example.local/USA-KHQDT2.ts

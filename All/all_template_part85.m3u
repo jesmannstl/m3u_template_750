@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="96883" tvg-name="Revenue Frontier (SHOPHQ)" tvg-logo="https://zap2it.tmsimg.com/assets/s14948_ll_h15_ae.png" group-title="United States" tvg-id="SHOPHQRF" tvc-guide-stationid="96883",Revenue Frontier (SHOPHQ)
+http://example.local/USA-SHOPHQRF.ts
 #EXTINF:-1 tvg-chno="58799" tvg-name="Revenue Frontier" group-title="United States" tvg-id="REVFRNT" tvc-guide-stationid="58799",Revenue Frontier
 http://example.local/USA-REVFRNT.ts
 #EXTINF:-1 tvg-chno="78913" tvg-name="Revenue Frontier 3" group-title="United States" tvg-id="RVF3" tvc-guide-stationid="78913",Revenue Frontier 3
@@ -1017,5 +1019,3 @@ http://example.local/CHL-RTSPANH.ts
 http://example.local/BMU-RTSPANH.ts
 #EXTINF:-1 tvg-chno="105169" tvg-name="RT in Spanish HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105169_ll_h9_aa.png" group-title="Belize" tvg-id="RTSPANH" tvc-guide-stationid="105169",RT in Spanish HD
 http://example.local/BLZ-RTSPANH.ts
-#EXTINF:-1 tvg-chno="105976" tvg-name="RT International" group-title="Argentina" tvg-id="RTINT" tvc-guide-stationid="105976",RT International
-http://example.local/ARG-RTINT.ts

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="53606" tvg-name="Health On Demand" group-title="United States" tvg-id="HELTHDM" tvc-guide-stationid="53606",Health On Demand
+http://example.local/USA-HELTHDM.ts
 #EXTINF:-1 tvg-chno="107567" tvg-name="HealthTV" tvg-logo="https://zap2it.tmsimg.com/assets/s107567_ll_h15_ab.png" group-title="France" tvg-id="HEALTHD" tvc-guide-stationid="107567",HealthTV
 http://example.local/FRA-HEALTHD.ts
 #EXTINF:-1 tvg-chno="107567" tvg-name="HealthTV" tvg-logo="https://zap2it.tmsimg.com/assets/s107567_ll_h15_ab.png" group-title="Italy" tvg-id="HEALTHD" tvc-guide-stationid="107567",HealthTV
@@ -1017,5 +1019,3 @@ http://example.local/USA-HMTV.ts
 http://example.local/USA-VIZHCAU.ts
 #EXTINF:-1 tvg-chno="80772" tvg-name="HOA Channel" group-title="United States" tvg-id="HOA" tvc-guide-stationid="80772",HOA Channel
 http://example.local/USA-HOA.ts
-#EXTINF:-1 tvg-chno="106471" tvg-name="HOA Channel 1" group-title="United States" tvg-id="HOA1" tvc-guide-stationid="106471",HOA Channel 1
-http://example.local/USA-HOA1.ts

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="69606" tvg-name="KUGF-DT (PBS)" tvg-logo="https://logos.jesmann.com/kugfdt.png" group-title="United States" tvg-id="KUGFDT" tvc-guide-stationid="69606",KUGF-DT (PBS)
+http://example.local/USA-KUGFDT.ts
 #EXTINF:-1 tvg-chno="96175" tvg-name="KUGF-DT (SD Feed) (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="United States" tvg-id="KUGFSD" tvc-guide-stationid="96175",KUGF-DT (SD Feed) (PBS)
 http://example.local/USA-KUGFSD.ts
 #EXTINF:-1 tvg-chno="69608" tvg-name="KUGF-DT2 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="United States" tvg-id="KUGFDT2" tvc-guide-stationid="69608",KUGF-DT2 (HD06)
@@ -1017,5 +1019,3 @@ http://example.local/USA-KVVKCD3.ts
 http://example.local/USA-KVVKCD4.ts
 #EXTINF:-1 tvg-chno="10811" tvg-name="KVVU (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="United States" tvg-id="KVVU" tvc-guide-stationid="10811",KVVU (FOX)
 http://example.local/USA-KVVU.ts
-#EXTINF:-1 tvg-chno="32432" tvg-name="KVVU-DT (FOX)" tvg-logo="https://logos.jesmann.com/kvvudt.png" group-title="United States" tvg-id="KVVUDT" tvc-guide-stationid="32432",KVVU-DT (FOX)
-http://example.local/USA-KVVUDT.ts

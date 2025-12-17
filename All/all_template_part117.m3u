@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="15628" tvg-name="WKTC (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" group-title="United States" tvg-id="WKTC" tvc-guide-stationid="15628",WKTC (MNT)
+http://example.local/USA-WKTC.ts
 #EXTINF:-1 tvg-chno="54471" tvg-name="WKTC-DT (MNT)" tvg-logo="https://logos.jesmann.com/wktcdt.png" group-title="United States" tvg-id="WKTCDT" tvc-guide-stationid="54471",WKTC-DT (MNT)
 http://example.local/USA-WKTCDT.ts
 #EXTINF:-1 tvg-chno="65975" tvg-name="WKTC-DT2 (COZITV)" tvg-logo="https://zap2it.tmsimg.com/assets/s78851_h3_aa.png" group-title="United States" tvg-id="WKTCDT2" tvc-guide-stationid="65975",WKTC-DT2 (COZITV)
@@ -457,9 +459,9 @@ http://example.local/USA-WLMTDT6.ts
 http://example.local/USA-WLMTDT7.ts
 #EXTINF:-1 tvg-chno="127395" tvg-name="WLMT-DT8 (REWIND)" tvg-logo="https://zap2it.tmsimg.com/assets/s119814_h3_ba.png" group-title="United States" tvg-id="WLMTDT8" tvc-guide-stationid="127395",WLMT-DT8 (REWIND)
 http://example.local/USA-WLMTDT8.ts
-#EXTINF:-1 tvg-chno="11647" tvg-name="WLNE (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="United States" tvg-id="WLNE" tvc-guide-stationid="11647",WLNE (ABC)
+#EXTINF:-1 tvg-chno="11647" tvg-name="WLNE (ROARTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="United States" tvg-id="WLNE" tvc-guide-stationid="11647",WLNE (ROARTV)
 http://example.local/USA-WLNE.ts
-#EXTINF:-1 tvg-chno="44085" tvg-name="WLNE-DT (ABC)" tvg-logo="https://logos.jesmann.com/wlnedt.png" group-title="United States" tvg-id="WLNEDT" tvc-guide-stationid="44085",WLNE-DT (ABC)
+#EXTINF:-1 tvg-chno="44085" tvg-name="WLNE-DT (ROARTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s102116_ll_h15_ac.png" group-title="United States" tvg-id="WLNEDT" tvc-guide-stationid="44085",WLNE-DT (ROARTV)
 http://example.local/USA-WLNEDT.ts
 #EXTINF:-1 tvg-chno="59442" tvg-name="WLNE-DT2 (GRIT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FEPV8.png" group-title="United States" tvg-id="WLNEDT2" tvc-guide-stationid="59442",WLNE-DT2 (GRIT)
 http://example.local/USA-WLNEDT2.ts
@@ -1017,5 +1019,3 @@ http://example.local/USA-WMCFDT5.ts
 http://example.local/USA-WMCNSD.ts
 #EXTINF:-1 tvg-chno="11976" tvg-name="WMCN-DT" group-title="United States" tvg-id="WMCNDT" tvc-guide-stationid="11976",WMCN-DT
 http://example.local/USA-WMCNDT.ts
-#EXTINF:-1 tvg-chno="73955" tvg-name="WMCN-DT2 (365BLK)" tvg-logo="https://zap2it.tmsimg.com/assets/s150571_ll_h15_ab.png" group-title="United States" tvg-id="WMCNDT2" tvc-guide-stationid="73955",WMCN-DT2 (365BLK)
-http://example.local/USA-WMCNDT2.ts

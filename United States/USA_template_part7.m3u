@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="27764" tvg-name="EPG Educational Access" group-title="United States" tvg-id="EPGEA" tvc-guide-stationid="27764",EPG Educational Access
+http://example.local/USA-EPGEA.ts
 #EXTINF:-1 tvg-chno="27759" tvg-name="EPG Government Access" group-title="United States" tvg-id="EPGGA" tvc-guide-stationid="27759",EPG Government Access
 http://example.local/USA-EPGGA.ts
 #EXTINF:-1 tvg-chno="80160" tvg-name="EPG Government Access 5" group-title="United States" tvg-id="NTV" tvc-guide-stationid="80160",EPG Government Access 5
@@ -1017,5 +1019,3 @@ http://example.local/USA-FDFTPH.ts
 http://example.local/USA-FDFFTPH.ts
 #EXTINF:-1 tvg-chno="108418" tvg-name="FanDuel Sports Network Florida HD" tvg-logo="https://zap2it.tmsimg.com/assets/s50728_ll_h15_ac.png" group-title="United States" tvg-id="FDFTMH" tvc-guide-stationid="108418",FanDuel Sports Network Florida HD
 http://example.local/USA-FDFTMH.ts
-#EXTINF:-1 tvg-chno="108421" tvg-name="FanDuel Sports Network Florida HD" group-title="United States" tvg-id="FDFJAXH" tvc-guide-stationid="108421",FanDuel Sports Network Florida HD
-http://example.local/USA-FDFJAXH.ts

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="50270" tvg-name="MBC America" tvg-logo="https://zap2it.tmsimg.com/assets/s50270_ll_h9_aa.png" group-title="St. Lucia" tvg-id="MBCKOR" tvc-guide-stationid="50270",MBC America
+http://example.local/LCA-MBCKOR.ts
 #EXTINF:-1 tvg-chno="70622" tvg-name="MBC D" tvg-logo="https://zap2it.tmsimg.com/assets/s70622_ll_h15_aa.png" group-title="United States" tvg-id="MBCD" tvc-guide-stationid="70622",MBC D
 http://example.local/USA-MBCD.ts
 #EXTINF:-1 tvg-chno="83267" tvg-name="MBC Drama HD" group-title="United States" tvg-id="MBCDRHD" tvc-guide-stationid="83267",MBC Drama HD
@@ -1017,5 +1019,3 @@ http://example.local/USA-MLBX8.ts
 http://example.local/USA-MLBX10.ts
 #EXTINF:-1 tvg-chno="18219" tvg-name="MLB Extra Innings (Royals)" tvg-logo="https://logos.jesmann.com/mlbx14.png" group-title="United States" tvg-id="MLBX14" tvc-guide-stationid="18219",MLB Extra Innings (Royals)
 http://example.local/USA-MLBX14.ts
-#EXTINF:-1 tvg-chno="18216" tvg-name="MLB Extra Innings (Tigers)" tvg-logo="https://logos.jesmann.com/mlbx11.png" group-title="United States" tvg-id="MLBX11" tvc-guide-stationid="18216",MLB Extra Innings (Tigers)
-http://example.local/USA-MLBX11.ts

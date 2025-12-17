@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="12797" tvg-name="DITV119" group-title="United States" tvg-id="DITV119" tvc-guide-stationid="12797",DITV119
+http://example.local/USA-DITV119.ts
 #EXTINF:-1 tvg-chno="12798" tvg-name="DITV120" group-title="United States" tvg-id="DITV120" tvc-guide-stationid="12798",DITV120
 http://example.local/USA-DITV120.ts
 #EXTINF:-1 tvg-chno="12799" tvg-name="DITV121" group-title="United States" tvg-id="DITV121" tvc-guide-stationid="12799",DITV121
@@ -1017,5 +1019,3 @@ http://example.local/USA-REDROCK.ts
 http://example.local/USA-REGGAE.ts
 #EXTINF:-1 tvg-chno="19005" tvg-name="DMX: Reggae" tvg-logo="https://zap2it.tmsimg.com/assets/s19005_ll_h9_aa.png" group-title="Jamaica" tvg-id="REGGAE" tvc-guide-stationid="19005",DMX: Reggae
 http://example.local/JAM-REGGAE.ts
-#EXTINF:-1 tvg-chno="19005" tvg-name="DMX: Reggae" tvg-logo="https://zap2it.tmsimg.com/assets/s19005_ll_h9_aa.png" group-title="Curacao" tvg-id="REGGAE" tvc-guide-stationid="19005",DMX: Reggae
-http://example.local/CUW-REGGAE.ts

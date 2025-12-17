@@ -403,6 +403,8 @@ http://example.local/CHE-BBC3H.ts
 http://example.local/ITA-TGITA.ts
 #EXTINF:-1 tvg-chno="124238" tvg-name="BBC Travel" tvg-logo="https://zap2it.tmsimg.com/assets/s124238_ll_h9_aa.png" group-title="Germany" tvg-id="BBCTRAV" tvc-guide-stationid="124238",BBC Travel
 http://example.local/DEU-BBCTRAV.ts
+#EXTINF:-1 tvg-chno="141829" tvg-name="BBC Travel" group-title="United States" tvg-id="BBCTRVL" tvc-guide-stationid="141829",BBC Travel
+http://example.local/USA-BBCTRVL.ts
 #EXTINF:-1 tvg-chno="17154" tvg-name="BBC Two" tvg-logo="https://zap2it.tmsimg.com/assets/s17154_ll_h15_ab.png" group-title="Germany" tvg-id="BBC2" tvc-guide-stationid="17154",BBC Two
 http://example.local/DEU-BBC2.ts
 #EXTINF:-1 tvg-chno="17154" tvg-name="BBC Two" tvg-logo="https://zap2it.tmsimg.com/assets/s17154_ll_h15_ab.png" group-title="United Kingdom" tvg-id="BBC2" tvc-guide-stationid="17154",BBC Two
@@ -1017,5 +1019,3 @@ http://example.local/PRI-BETJ.ts
 http://example.local/CHL-BETJ.ts
 #EXTINF:-1 tvg-chno="30419" tvg-name="BET Jams" tvg-logo="https://zap2it.tmsimg.com/assets/s30419_ll_h15_ac.png" group-title="Jamaica" tvg-id="BETJ" tvc-guide-stationid="30419",BET Jams
 http://example.local/JAM-BETJ.ts
-#EXTINF:-1 tvg-chno="30419" tvg-name="BET Jams" tvg-logo="https://zap2it.tmsimg.com/assets/s30419_ll_h15_ac.png" group-title="Venezuela" tvg-id="BETJ" tvc-guide-stationid="30419",BET Jams
-http://example.local/VEN-BETJ.ts

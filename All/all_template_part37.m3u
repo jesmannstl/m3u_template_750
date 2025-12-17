@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="10241" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="Curacao" tvg-id="HBOHTS" tvc-guide-stationid="10241",HBO Hits
+http://example.local/CUW-HBOHTS.ts
 #EXTINF:-1 tvg-chno="10241" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="Saint Martin" tvg-id="HBOHTS" tvc-guide-stationid="10241",HBO Hits
 http://example.local/MAF-HBOHTS.ts
 #EXTINF:-1 tvg-chno="10241" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="Grenada" tvg-id="HBOHTS" tvc-guide-stationid="10241",HBO Hits
@@ -1017,5 +1019,3 @@ http://example.local/USA-HHSN.ts
 http://example.local/USA-HLTHLDM.ts
 #EXTINF:-1 tvg-chno="59464" tvg-name="Health and Wellness" group-title="St. Lucia" tvg-id="HWELL" tvc-guide-stationid="59464",Health and Wellness
 http://example.local/LCA-HWELL.ts
-#EXTINF:-1 tvg-chno="53606" tvg-name="Health On Demand" group-title="United States" tvg-id="HELTHDM" tvc-guide-stationid="53606",Health On Demand
-http://example.local/USA-HELTHDM.ts

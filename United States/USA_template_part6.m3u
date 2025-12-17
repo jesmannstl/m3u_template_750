@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="44308" tvg-name="DITV139 (DirecTv)" group-title="United States" tvg-id="DITV139" tvc-guide-stationid="44308",DITV139 (DirecTv)
+http://example.local/USA-DITV139.ts
 #EXTINF:-1 tvg-chno="22428" tvg-name="DITV140" group-title="United States" tvg-id="DITV140" tvc-guide-stationid="22428",DITV140
 http://example.local/USA-DITV140.ts
 #EXTINF:-1 tvg-chno="31553" tvg-name="DITV141" group-title="United States" tvg-id="DITV141" tvc-guide-stationid="31553",DITV141
@@ -1017,5 +1019,3 @@ http://example.local/USA-CITYGOV.ts
 http://example.local/USA-COXPPV.ts
 #EXTINF:-1 tvg-chno="46181" tvg-name="EPG Educational 02" group-title="United States" tvg-id="EPGED02" tvc-guide-stationid="46181",EPG Educational 02
 http://example.local/USA-EPGED02.ts
-#EXTINF:-1 tvg-chno="27764" tvg-name="EPG Educational Access" group-title="United States" tvg-id="EPGEA" tvc-guide-stationid="27764",EPG Educational Access
-http://example.local/USA-EPGEA.ts

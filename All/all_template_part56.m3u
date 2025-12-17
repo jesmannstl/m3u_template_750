@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="52734" tvg-name="KLSR-DT2 (MNT)" tvg-logo="https://logos.jesmann.com/klsrdt2.png" group-title="United States" tvg-id="KLSRDT2" tvc-guide-stationid="52734",KLSR-DT2 (MNT)
+http://example.local/USA-KLSRDT2.ts
 #EXTINF:-1 tvg-chno="12458" tvg-name="KLST (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="United States" tvg-id="KLST" tvc-guide-stationid="12458",KLST (CBS)
 http://example.local/USA-KLST.ts
 #EXTINF:-1 tvg-chno="31513" tvg-name="KLST-DT (CBS)" tvg-logo="https://logos.jesmann.com/klstdt.png" group-title="United States" tvg-id="KLSTDT" tvc-guide-stationid="31513",KLST-DT (CBS)
@@ -1017,5 +1019,3 @@ http://example.local/USA-KNLACD3.ts
 http://example.local/USA-KNLACD4.ts
 #EXTINF:-1 tvg-chno="98190" tvg-name="KNLA-CD9" group-title="United States" tvg-id="KNLACD9" tvc-guide-stationid="98190",KNLA-CD9
 http://example.local/USA-KNLACD9.ts
-#EXTINF:-1 tvg-chno="10593" tvg-name="KNLC (METVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" group-title="United States" tvg-id="KNLC" tvc-guide-stationid="10593",KNLC (METVN)
-http://example.local/USA-KNLC.ts

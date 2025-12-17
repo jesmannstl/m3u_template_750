@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="108465" tvg-name="WYBE-CD (BIZTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s66281_ll_h15_ab.png" group-title="United States" tvg-id="WYBECD" tvc-guide-stationid="108465",WYBE-CD (BIZTV)
+http://example.local/USA-WYBECD.ts
 #EXTINF:-1 tvg-chno="73163" tvg-name="WYBN-LD (BUZZR)" tvg-logo="https://zap2it.tmsimg.com/assets/s93430_ll_h15_ab.png" group-title="United States" tvg-id="WYBNLD" tvc-guide-stationid="73163",WYBN-LD (BUZZR)
 http://example.local/USA-WYBNLD.ts
 #EXTINF:-1 tvg-chno="73165" tvg-name="WYBN-LD2 (HEARTHD)" tvg-logo="https://zap2it.tmsimg.com/assets/s78584_ll_h15_ab.png" group-title="United States" tvg-id="WYBNLD2" tvc-guide-stationid="73165",WYBN-LD2 (HEARTHD)
@@ -1017,5 +1019,3 @@ http://example.local/MEX-XHCVI.ts
 http://example.local/MEX-XHCVOTDT.ts
 #EXTINF:-1 tvg-chno="96634" tvg-name="XHCVT-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png" group-title="Mexico" tvg-id="XHCVTTDT" tvc-guide-stationid="96634",XHCVT-TDT (AZ1NET)
 http://example.local/MEX-XHCVTTDT.ts
-#EXTINF:-1 tvg-chno="96668" tvg-name="XHD-TDT (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_ll_h15_aa.png" group-title="Mexico" tvg-id="XHDTDT" tvc-guide-stationid="96668",XHD-TDT (C5NET)
-http://example.local/MEX-XHDTDT.ts

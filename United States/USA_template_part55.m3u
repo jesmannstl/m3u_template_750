@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="91522" tvg-name="WKTV-DT3" group-title="United States" tvg-id="WKTVDT3" tvc-guide-stationid="91522",WKTV-DT3
+http://example.local/USA-WKTVDT3.ts
 #EXTINF:-1 tvg-chno="97687" tvg-name="WKTV-DT4 (METVN)" tvg-logo="https://logos.jesmann.com/wktvdt4.png" group-title="United States" tvg-id="WKTVDT4" tvc-guide-stationid="97687",WKTV-DT4 (METVN)
 http://example.local/USA-WKTVDT4.ts
 #EXTINF:-1 tvg-chno="38700" tvg-name="WKTV1" group-title="United States" tvg-id="WKTV1" tvc-guide-stationid="38700",WKTV1
@@ -397,9 +399,9 @@ http://example.local/USA-WLMTDT6.ts
 http://example.local/USA-WLMTDT7.ts
 #EXTINF:-1 tvg-chno="127395" tvg-name="WLMT-DT8 (REWIND)" tvg-logo="https://zap2it.tmsimg.com/assets/s119814_h3_ba.png" group-title="United States" tvg-id="WLMTDT8" tvc-guide-stationid="127395",WLMT-DT8 (REWIND)
 http://example.local/USA-WLMTDT8.ts
-#EXTINF:-1 tvg-chno="11647" tvg-name="WLNE (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="United States" tvg-id="WLNE" tvc-guide-stationid="11647",WLNE (ABC)
+#EXTINF:-1 tvg-chno="11647" tvg-name="WLNE (ROARTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="United States" tvg-id="WLNE" tvc-guide-stationid="11647",WLNE (ROARTV)
 http://example.local/USA-WLNE.ts
-#EXTINF:-1 tvg-chno="44085" tvg-name="WLNE-DT (ABC)" tvg-logo="https://logos.jesmann.com/wlnedt.png" group-title="United States" tvg-id="WLNEDT" tvc-guide-stationid="44085",WLNE-DT (ABC)
+#EXTINF:-1 tvg-chno="44085" tvg-name="WLNE-DT (ROARTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s102116_ll_h15_ac.png" group-title="United States" tvg-id="WLNEDT" tvc-guide-stationid="44085",WLNE-DT (ROARTV)
 http://example.local/USA-WLNEDT.ts
 #EXTINF:-1 tvg-chno="59442" tvg-name="WLNE-DT2 (GRIT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FEPV8.png" group-title="United States" tvg-id="WLNEDT2" tvc-guide-stationid="59442",WLNE-DT2 (GRIT)
 http://example.local/USA-WLNEDT2.ts
@@ -1017,5 +1019,3 @@ http://example.local/USA-WMEB.ts
 http://example.local/USA-WMEBDT.ts
 #EXTINF:-1 tvg-chno="30989" tvg-name="WMEB-DT2 (CREATE)" tvg-logo="https://zap2it.tmsimg.com/assets/s48990_ll_h15_aa.png" group-title="United States" tvg-id="WMEBDT2" tvc-guide-stationid="30989",WMEB-DT2 (CREATE)
 http://example.local/USA-WMEBDT2.ts
-#EXTINF:-1 tvg-chno="30990" tvg-name="WMEB-DT3 (WORLD)" tvg-logo="https://zap2it.tmsimg.com/assets/s56725_ll_h15_ab.png" group-title="United States" tvg-id="WMEBDT3" tvc-guide-stationid="30990",WMEB-DT3 (WORLD)
-http://example.local/USA-WMEBDT3.ts

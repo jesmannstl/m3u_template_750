@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="11506" tvg-name="WHIQ (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_h3_ba.png" group-title="United States" tvg-id="WHIQ" tvc-guide-stationid="11506",WHIQ (PBS)
+http://example.local/USA-WHIQ.ts
 #EXTINF:-1 tvg-chno="35121" tvg-name="WHIQ-DT (PBS)" tvg-logo="https://logos.jesmann.com/whiqdt.png" group-title="United States" tvg-id="WHIQDT" tvc-guide-stationid="35121",WHIQ-DT (PBS)
 http://example.local/USA-WHIQDT.ts
 #EXTINF:-1 tvg-chno="43810" tvg-name="WHIQ-DT2 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="United States" tvg-id="WHIQDT2" tvc-guide-stationid="43810",WHIQ-DT2 (HD06)
@@ -1017,5 +1019,3 @@ http://example.local/USA-WIWNDT7.ts
 http://example.local/USA-WIWNDT8.ts
 #EXTINF:-1 tvg-chno="118849" tvg-name="WIWN-DT9" group-title="United States" tvg-id="WIWNDT9" tvc-guide-stationid="118849",WIWN-DT9
 http://example.local/USA-WIWNDT9.ts
-#EXTINF:-1 tvg-chno="18531" tvg-name="WIWU-CA" group-title="United States" tvg-id="WIWUCA" tvc-guide-stationid="18531",WIWU-CA
-http://example.local/USA-WIWUCA.ts

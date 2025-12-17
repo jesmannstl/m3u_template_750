@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="11816" tvg-name="WRET (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_h3_ba.png" group-title="United States" tvg-id="WRET" tvc-guide-stationid="11816",WRET (PBS)
+http://example.local/USA-WRET.ts
 #EXTINF:-1 tvg-chno="46516" tvg-name="WRET-DT (PBS)" tvg-logo="https://logos.jesmann.com/wretdt.png" group-title="United States" tvg-id="WRETDT" tvc-guide-stationid="46516",WRET-DT (PBS)
 http://example.local/USA-WRETDT.ts
 #EXTINF:-1 tvg-chno="46519" tvg-name="WRET-DT2 (CREATE)" tvg-logo="https://zap2it.tmsimg.com/assets/s48990_ll_h15_aa.png" group-title="United States" tvg-id="WRETDT2" tvc-guide-stationid="46519",WRET-DT2 (CREATE)
@@ -757,7 +759,7 @@ http://example.local/USA-WSMH.ts
 http://example.local/USA-WSMHD21.ts
 #EXTINF:-1 tvg-chno="52618" tvg-name="WSMH-DT (FOX)" tvg-logo="https://logos.jesmann.com/wsmhdt.png" group-title="United States" tvg-id="WSMHDT" tvc-guide-stationid="52618",WSMH-DT (FOX)
 http://example.local/USA-WSMHDT.ts
-#EXTINF:-1 tvg-chno="53062" tvg-name="WSMH-DT2 (ANTENNA)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y4HS.png" group-title="United States" tvg-id="WSMHDT2" tvc-guide-stationid="53062",WSMH-DT2 (ANTENNA)
+#EXTINF:-1 tvg-chno="53062" tvg-name="WSMH-DT2 (NBC)" tvg-logo="https://logos.jesmann.com/wsmhdt2.png" group-title="United States" tvg-id="WSMHDT2" tvc-guide-stationid="53062",WSMH-DT2 (NBC)
 http://example.local/USA-WSMHDT2.ts
 #EXTINF:-1 tvg-chno="70941" tvg-name="WSMH-DT3 (COMET)" tvg-logo="https://zap2it.tmsimg.com/assets/s97051_ll_h15_ab.png" group-title="United States" tvg-id="WSMHDT3" tvc-guide-stationid="70941",WSMH-DT3 (COMET)
 http://example.local/USA-WSMHDT3.ts
@@ -1017,5 +1019,3 @@ http://example.local/USA-WSWPDT2.ts
 http://example.local/USA-WSWPDT3.ts
 #EXTINF:-1 tvg-chno="177613" tvg-name="WSWY-LD5 (FAM)" tvg-logo="https://zap2it.tmsimg.com/assets/s87122_ll_h15_aa.png" group-title="United States" tvg-id="WSWYLD5" tvc-guide-stationid="177613",WSWY-LD5 (FAM)
 http://example.local/USA-WSWYLD5.ts
-#EXTINF:-1 tvg-chno="11860" tvg-name="WSYM (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="United States" tvg-id="WSYM" tvc-guide-stationid="11860",WSYM (FOX)
-http://example.local/USA-WSYM.ts

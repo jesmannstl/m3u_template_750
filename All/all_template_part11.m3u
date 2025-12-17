@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="89170" tvg-name="blue Sport D 1" tvg-logo="https://zap2it.tmsimg.com/assets/s89170_ll_h15_aa.png" group-title="Switzerland" tvg-id="TELESP1" tvc-guide-stationid="89170",blue Sport D 1
+http://example.local/CHE-TELESP1.ts
 #EXTINF:-1 tvg-chno="89171" tvg-name="blue Sport D 2" tvg-logo="https://zap2it.tmsimg.com/assets/s89171_ll_h15_aa.png" group-title="Germany" tvg-id="TELESP2" tvc-guide-stationid="89171",blue Sport D 2
 http://example.local/DEU-TELESP2.ts
 #EXTINF:-1 tvg-chno="89171" tvg-name="blue Sport D 2" tvg-logo="https://zap2it.tmsimg.com/assets/s89171_ll_h15_aa.png" group-title="Switzerland" tvg-id="TELESP2" tvc-guide-stationid="89171",blue Sport D 2
@@ -1017,5 +1019,3 @@ http://example.local/GRD-CLCSC.ts
 http://example.local/BMU-CALAWST.ts
 #EXTINF:-1 tvg-chno="108183" tvg-name="Cala Westerns" tvg-logo="https://zap2it.tmsimg.com/assets/s108183_ll_h15_aa.png" group-title="British Virgin Islands" tvg-id="CWEST" tvc-guide-stationid="108183",Cala Westerns
 http://example.local/VGB-CWEST.ts
-#EXTINF:-1 tvg-chno="98191" tvg-name="CALA Westerns" group-title="Grenada" tvg-id="CALAWST" tvc-guide-stationid="98191",CALA Westerns
-http://example.local/GRD-CALAWST.ts

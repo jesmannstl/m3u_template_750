@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="107074" tvg-name="Santa Clara RTPi" group-title="United States" tvg-id="SCPORT" tvc-guide-stationid="107074",Santa Clara RTPi
+http://example.local/USA-SCPORT.ts
 #EXTINF:-1 tvg-chno="95359" tvg-name="Santa Maria Community Television Ch. 23" group-title="United States" tvg-id="SMC23" tvc-guide-stationid="95359",Santa Maria Community Television Ch. 23
 http://example.local/USA-SMC23.ts
 #EXTINF:-1 tvg-chno="96819" tvg-name="Santa Maria Community Television Ch. 24" group-title="United States" tvg-id="SMC24" tvc-guide-stationid="96819",Santa Maria Community Television Ch. 24
@@ -1017,5 +1019,3 @@ http://example.local/USA-DISSTNK.ts
 http://example.local/USA-SHARKTL.ts
 #EXTINF:-1 tvg-chno="109669" tvg-name="Shaw BIGTEN 01" tvg-logo="https://zap2it.tmsimg.com/assets/s109669_ll_h15_ab.png" group-title="Canada" tvg-id="BIGTEN1" tvc-guide-stationid="109669",Shaw BIGTEN 01
 http://example.local/CAN-BIGTEN1.ts
-#EXTINF:-1 tvg-chno="109670" tvg-name="Shaw BIGTEN 02" tvg-logo="https://zap2it.tmsimg.com/assets/s109670_ll_h15_aa.png" group-title="Canada" tvg-id="BIGTEN2" tvc-guide-stationid="109670",Shaw BIGTEN 02
-http://example.local/CAN-BIGTEN2.ts

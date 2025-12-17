@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="116433" tvg-name="CBBC" tvg-logo="https://zap2it.tmsimg.com/assets/s116433_ll_h15_ab.png" group-title="Ireland" tvg-id="CBBCIRE" tvc-guide-stationid="116433",CBBC
+http://example.local/IRL-CBBCIRE.ts
 #EXTINF:-1 tvg-chno="29324" tvg-name="CBBC" tvg-logo="https://zap2it.tmsimg.com/assets/s29324_ll_h15_ac.png" group-title="Ireland" tvg-id="CBBC" tvc-guide-stationid="29324",CBBC
 http://example.local/IRL-CBBC.ts
 #EXTINF:-1 tvg-chno="29324" tvg-name="CBBC" tvg-logo="https://zap2it.tmsimg.com/assets/s29324_ll_h15_ac.png" group-title="Belgium" tvg-id="CBBC" tvc-guide-stationid="29324",CBBC
@@ -1017,5 +1019,3 @@ http://example.local/BEL-CH21HD.ts
 http://example.local/NLD-CH21HD.ts
 #EXTINF:-1 tvg-chno="106914" tvg-name="Channel 21 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106914_ll_h15_ab.png" group-title="Spain" tvg-id="CH21HD" tvc-guide-stationid="106914",Channel 21 HD
 http://example.local/ESP-CH21HD.ts
-#EXTINF:-1 tvg-chno="106914" tvg-name="Channel 21 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106914_ll_h15_ab.png" group-title="Switzerland" tvg-id="CH21HD" tvc-guide-stationid="106914",Channel 21 HD
-http://example.local/CHE-CH21HD.ts
