@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="139609" tvg-name="U&Laughs" tvg-logo="https://zap2it.tmsimg.com/assets/s139609_ll_h15_ac.png" group-title="United Kingdom" tvg-id="ULAUGHS" tvc-guide-stationid="139609",U&Laughs
-http://example.local/GBR-ULAUGHS.ts
-#EXTINF:-1 tvg-chno="156687" tvg-name="U&Laughs (TiVo)" group-title="United Kingdom" tvg-id="LFASTVMT" tvc-guide-stationid="156687",U&Laughs (TiVo)
-http://example.local/GBR-LFASTVMT.ts
-#EXTINF:-1 tvg-chno="139610" tvg-name="U&Real Heroes" tvg-logo="https://zap2it.tmsimg.com/assets/s139610_ll_h15_ac.png" group-title="United Kingdom" tvg-id="UREAHEO" tvc-guide-stationid="139610",U&Real Heroes
-http://example.local/GBR-UREAHEO.ts
-#EXTINF:-1 tvg-chno="156691" tvg-name="U&Real Heroes (TiVo)" group-title="United Kingdom" tvg-id="HFASTVMT" tvc-guide-stationid="156691",U&Real Heroes (TiVo)
-http://example.local/GBR-HFASTVMT.ts
 #EXTINF:-1 tvg-chno="139611" tvg-name="U&The Past" tvg-logo="https://zap2it.tmsimg.com/assets/s139611_ll_h15_ac.png" group-title="United Kingdom" tvg-id="UPAST" tvc-guide-stationid="139611",U&The Past
 http://example.local/GBR-UPAST.ts
 #EXTINF:-1 tvg-chno="156689" tvg-name="U&The Past (TiVo)" group-title="United Kingdom" tvg-id="UCFASTVMT" tvc-guide-stationid="156689",U&The Past (TiVo)
@@ -1019,3 +1011,11 @@ http://example.local/KNA-UNIHD.ts
 http://example.local/BRB-UNIHD.ts
 #EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="Belize" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
 http://example.local/BLZ-UNIHD.ts
+#EXTINF:-1 tvg-chno="77792" tvg-name="Univision Network HD (Pacific) (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="United States" tvg-id="UNIPHD" tvc-guide-stationid="77792",Univision Network HD (Pacific) (UNI)
+http://example.local/USA-UNIPHD.ts
+#EXTINF:-1 tvg-chno="91259" tvg-name="Univision Satellite HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="United States" tvg-id="CUNIHD" tvc-guide-stationid="91259",Univision Satellite HD (UNI)
+http://example.local/USA-CUNIHD.ts
+#EXTINF:-1 tvg-chno="75951" tvg-name="Univision TDN" tvg-logo="https://zap2it.tmsimg.com/assets/s75176_ll_h15_ae.png" group-title="Mexico" tvg-id="UTDN" tvc-guide-stationid="75951",Univision TDN
+http://example.local/MEX-UTDN.ts
+#EXTINF:-1 tvg-chno="75951" tvg-name="Univision TDN" tvg-logo="https://zap2it.tmsimg.com/assets/s75176_ll_h15_ae.png" group-title="Panama" tvg-id="UTDN" tvc-guide-stationid="75951",Univision TDN
+http://example.local/PAN-UTDN.ts

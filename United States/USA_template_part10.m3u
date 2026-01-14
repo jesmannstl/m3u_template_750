@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="44792" tvg-name="Global Toronto HD (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s44792_ll_h15_ab.png" group-title="United States" tvg-id="CIIIDT" tvc-guide-stationid="44792",Global Toronto HD (GLOBAL)
+http://example.local/USA-CIIIDT.ts
+#EXTINF:-1 tvg-chno="74724" tvg-name="Globecast ARTN" group-title="United States" tvg-id="ARTN" tvc-guide-stationid="74724",Globecast ARTN
+http://example.local/USA-ARTN.ts
+#EXTINF:-1 tvg-chno="42206" tvg-name="Globo" tvg-logo="https://zap2it.tmsimg.com/assets/s42206_ll_h15_cc.png" group-title="United States" tvg-id="REDEGL" tvc-guide-stationid="42206",Globo
+http://example.local/USA-REDEGL.ts
+#EXTINF:-1 tvg-chno="76135" tvg-name="Globo HD (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s76135_ll_h15_ce.png" group-title="United States" tvg-id="GLOBOH" tvc-guide-stationid="76135",Globo HD (REDEGL)
+http://example.local/USA-GLOBOH.ts
+#EXTINF:-1 tvg-chno="131359" tvg-name="GLORY Kickboxing" tvg-logo="https://zap2it.tmsimg.com/assets/s131359_ll_h9_aa.png" group-title="United States" tvg-id="GLORY" tvc-guide-stationid="131359",GLORY Kickboxing
+http://example.local/USA-GLORY.ts
 #EXTINF:-1 tvg-chno="112694" tvg-name="Gloucester Leased Access (CBNNEWS)" tvg-logo="https://zap2it.tmsimg.com/assets/s109977_ll_h15_aa.png" group-title="United States" tvg-id="GLOUCLA" tvc-guide-stationid="112694",Gloucester Leased Access (CBNNEWS)
 http://example.local/USA-GLOUCLA.ts
 #EXTINF:-1 tvg-chno="60152" tvg-name="GMA Life TV" tvg-logo="https://zap2it.tmsimg.com/assets/s60152_ll_h9_aa.png" group-title="United States" tvg-id="GMALIFE" tvc-guide-stationid="60152",GMA Life TV
@@ -1009,13 +1019,3 @@ http://example.local/USA-HLISTIC.ts
 http://example.local/USA-HOMTV.ts
 #EXTINF:-1 tvg-chno="14902" tvg-name="Home & Garden Television" tvg-logo="https://zap2it.tmsimg.com/assets/s14902_ll_h15_ab.png" group-title="United States" tvg-id="HGTV" tvc-guide-stationid="14902",Home & Garden Television
 http://example.local/USA-HGTV.ts
-#EXTINF:-1 tvg-chno="167586" tvg-name="Home & Garden Television" tvg-logo="https://zap2it.tmsimg.com/assets/s167586_ll_h15_aa.png" group-title="United States" tvg-id="HGTHD" tvc-guide-stationid="167586",Home & Garden Television
-http://example.local/USA-HGTHD.ts
-#EXTINF:-1 tvg-chno="34215" tvg-name="Home & Garden Television (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s14902_h3_aa.png" group-title="United States" tvg-id="HGTVP" tvc-guide-stationid="34215",Home & Garden Television (Pacific)
-http://example.local/USA-HGTVP.ts
-#EXTINF:-1 tvg-chno="49788" tvg-name="Home & Garden Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49788_ll_h15_ab.png" group-title="United States" tvg-id="HGTVD" tvc-guide-stationid="49788",Home & Garden Television HD
-http://example.local/USA-HGTVD.ts
-#EXTINF:-1 tvg-chno="186008" tvg-name="Home & Garden Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s14902_ll_h15_ab.png" group-title="United States" tvg-id="HGTVDS" tvc-guide-stationid="186008",Home & Garden Television HD
-http://example.local/USA-HGTVDS.ts
-#EXTINF:-1 tvg-chno="87317" tvg-name="Home & Garden Television HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s49788_ll_h15_ab.png" group-title="United States" tvg-id="HGTVPHD" tvc-guide-stationid="87317",Home & Garden Television HD (Pacific)
-http://example.local/USA-HGTVPHD.ts

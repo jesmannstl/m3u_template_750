@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="176728" tvg-name="The Apprentice" tvg-logo="https://zap2it.tmsimg.com/assets/s176728_ll_h9_aa.png" group-title="United States" tvg-id="APPRNTC" tvc-guide-stationid="176728",The Apprentice
-http://example.local/USA-APPRNTC.ts
-#EXTINF:-1 tvg-chno="23775" tvg-name="The Arabic Channel" group-title="United States" tvg-id="ARABCH" tvc-guide-stationid="23775",The Arabic Channel
-http://example.local/USA-ARABCH.ts
-#EXTINF:-1 tvg-chno="122652" tvg-name="The Asylum" tvg-logo="https://zap2it.tmsimg.com/assets/s122652_ll_h15_aa.png" group-title="United States" tvg-id="XMVASY" tvc-guide-stationid="122652",The Asylum
-http://example.local/USA-XMVASY.ts
-#EXTINF:-1 tvg-chno="156201" tvg-name="The Asylum" tvg-logo="https://zap2it.tmsimg.com/assets/s156201_ll_h9_aa.png" group-title="United States" tvg-id="XPLASY" tvc-guide-stationid="156201",The Asylum
-http://example.local/USA-XPLASY.ts
 #EXTINF:-1 tvg-chno="114841" tvg-name="The Asylum Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s114841_ll_h9_aa.png" group-title="Germany" tvg-id="PTVDEAS" tvc-guide-stationid="114841",The Asylum Channel
 http://example.local/DEU-PTVDEAS.ts
 #EXTINF:-1 tvg-chno="115035" tvg-name="The Asylum Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s115035_ll_h9_aa.png" group-title="United Kingdom" tvg-id="PTVUKAS" tvc-guide-stationid="115035",The Asylum Channel
@@ -1019,3 +1011,11 @@ http://example.local/CAN-TIMEF.ts
 http://example.local/USA-CFSUMM.ts
 #EXTINF:-1 tvg-chno="21763" tvg-name="Time Warner Akron BET/Local split" group-title="United States" tvg-id="BETLO3" tvc-guide-stationid="21763",Time Warner Akron BET/Local split
 http://example.local/USA-BETLO3.ts
+#EXTINF:-1 tvg-chno="21158" tvg-name="Time Warner Albany BET/LO1" group-title="United States" tvg-id="BETLO2" tvc-guide-stationid="21158",Time Warner Albany BET/LO1
+http://example.local/USA-BETLO2.ts
+#EXTINF:-1 tvg-chno="19922" tvg-name="Time Warner Auburndale FL CSPAN2/ETV" group-title="United States" tvg-id="ETCSP2" tvc-guide-stationid="19922",Time Warner Auburndale FL CSPAN2/ETV
+http://example.local/USA-ETCSP2.ts
+#EXTINF:-1 tvg-chno="55878" tvg-name="Time Warner Austin GAMEHD" group-title="United States" tvg-id="GAMEHTA" tvc-guide-stationid="55878",Time Warner Austin GAMEHD
+http://example.local/USA-GAMEHTA.ts
+#EXTINF:-1 tvg-chno="62114" tvg-name="Time Warner Austin PPV" group-title="United States" tvg-id="TWCAIN1" tvc-guide-stationid="62114",Time Warner Austin PPV
+http://example.local/USA-TWCAIN1.ts

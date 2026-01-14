@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="24533" tvg-name="Syfy (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s11097_ll_h15_ae.png" group-title="United States" tvg-id="SYFYP" tvc-guide-stationid="24533",Syfy (Pacific)
-http://example.local/USA-SYFYP.ts
-#EXTINF:-1 tvg-chno="24533" tvg-name="Syfy (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s11097_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="SYFYP" tvc-guide-stationid="24533",Syfy (Pacific)
-http://example.local/PRI-SYFYP.ts
-#EXTINF:-1 tvg-chno="24533" tvg-name="Syfy (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s11097_ll_h15_ae.png" group-title="St. Lucia" tvg-id="SYFYP" tvc-guide-stationid="24533",Syfy (Pacific)
-http://example.local/LCA-SYFYP.ts
-#EXTINF:-1 tvg-chno="86884" tvg-name="SyFy HD" tvg-logo="https://zap2it.tmsimg.com/assets/s86884_ll_h9_ab.png" group-title="Germany" tvg-id="SYFYHDG" tvc-guide-stationid="86884",SyFy HD
-http://example.local/DEU-SYFYHDG.ts
 #EXTINF:-1 tvg-chno="112620" tvg-name="SYFY HD" tvg-logo="https://zap2it.tmsimg.com/assets/s112620_ll_h15_aa.png" group-title="Germany" tvg-id="SYFYSKY" tvc-guide-stationid="112620",SYFY HD
 http://example.local/DEU-SYFYSKY.ts
 #EXTINF:-1 tvg-chno="58623" tvg-name="Syfy HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58623_ll_h15_ae.png" group-title="United States" tvg-id="SYFYHD" tvc-guide-stationid="58623",Syfy HD
@@ -1019,3 +1011,11 @@ http://example.local/CHE-TELEGOLD.ts
 http://example.local/USA-GMFXM.ts
 #EXTINF:-1 tvg-chno="50403" tvg-name="TELEGUAM PARAMOUNT NETWORK" group-title="United States" tvg-id="GPAR" tvc-guide-stationid="50403",TELEGUAM PARAMOUNT NETWORK
 http://example.local/USA-GPAR.ts
+#EXTINF:-1 tvg-chno="75709" tvg-name="TeleHaiti Tele Metropole" group-title="Jamaica" tvg-id="TLEMTRO" tvc-guide-stationid="75709",TeleHaiti Tele Metropole
+http://example.local/JAM-TLEMTRO.ts
+#EXTINF:-1 tvg-chno="75710" tvg-name="TeleHaiti Tele National" group-title="Turks and Caicos" tvg-id="TLENATL" tvc-guide-stationid="75710",TeleHaiti Tele National
+http://example.local/TCA-TLENATL.ts
+#EXTINF:-1 tvg-chno="75710" tvg-name="TeleHaiti Tele National" group-title="Jamaica" tvg-id="TLENATL" tvc-guide-stationid="75710",TeleHaiti Tele National
+http://example.local/JAM-TLENATL.ts
+#EXTINF:-1 tvg-chno="34393" tvg-name="Telehit" tvg-logo="https://zap2it.tmsimg.com/assets/s15211_ll_h15_ac.png" group-title="United States" tvg-id="THITUS" tvc-guide-stationid="34393",Telehit
+http://example.local/USA-THITUS.ts

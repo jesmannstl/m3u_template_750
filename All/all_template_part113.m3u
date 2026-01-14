@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="51040" tvg-name="WETK-DT2 (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s32356_ll_h15_ac.png" group-title="United States" tvg-id="WETKDT2" tvc-guide-stationid="51040",WETK-DT2 (PBS)
-http://example.local/USA-WETKDT2.ts
-#EXTINF:-1 tvg-chno="57598" tvg-name="WETK-DT3 (CREATE)" tvg-logo="https://zap2it.tmsimg.com/assets/s48990_h3_aa.png" group-title="Canada" tvg-id="WETKDT3" tvc-guide-stationid="57598",WETK-DT3 (CREATE)
-http://example.local/CAN-WETKDT3.ts
-#EXTINF:-1 tvg-chno="57598" tvg-name="WETK-DT3 (CREATE)" tvg-logo="https://zap2it.tmsimg.com/assets/s48990_h3_aa.png" group-title="United States" tvg-id="WETKDT3" tvc-guide-stationid="57598",WETK-DT3 (CREATE)
-http://example.local/USA-WETKDT3.ts
-#EXTINF:-1 tvg-chno="60038" tvg-name="WETK-DT4 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="Canada" tvg-id="WETKDT4" tvc-guide-stationid="60038",WETK-DT4 (HD06)
-http://example.local/CAN-WETKDT4.ts
 #EXTINF:-1 tvg-chno="60038" tvg-name="WETK-DT4 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="United States" tvg-id="WETKDT4" tvc-guide-stationid="60038",WETK-DT4 (HD06)
 http://example.local/USA-WETKDT4.ts
 #EXTINF:-1 tvg-chno="11424" tvg-name="WETM (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="United States" tvg-id="WETM" tvc-guide-stationid="11424",WETM (NBC)
@@ -1019,3 +1011,11 @@ http://example.local/USA-WGCTCD.ts
 http://example.local/USA-WGCTCD2.ts
 #EXTINF:-1 tvg-chno="82950" tvg-name="WGCT-CD3 (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_ba.png" group-title="United States" tvg-id="WGCTCD3" tvc-guide-stationid="82950",WGCT-CD3 (DYSTR)
 http://example.local/USA-WGCTCD3.ts
+#EXTINF:-1 tvg-chno="82966" tvg-name="WGCT-CD4 (QVC)" tvg-logo="https://zap2it.tmsimg.com/assets/s11069_ll_h15_ad.png" group-title="United States" tvg-id="WGCTCD4" tvc-guide-stationid="82966",WGCT-CD4 (QVC)
+http://example.local/USA-WGCTCD4.ts
+#EXTINF:-1 tvg-chno="101114" tvg-name="WGCT-CD5 (GRIOTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s101752_ll_h15_ae.png" group-title="United States" tvg-id="WGCTCD5" tvc-guide-stationid="101114",WGCT-CD5 (GRIOTV)
+http://example.local/USA-WGCTCD5.ts
+#EXTINF:-1 tvg-chno="110519" tvg-name="WGCT-CD6 (SHOPLC)" tvg-logo="https://zap2it.tmsimg.com/assets/s56032_ll_h15_ac.png" group-title="United States" tvg-id="WGCTCD6" tvc-guide-stationid="110519",WGCT-CD6 (SHOPLC)
+http://example.local/USA-WGCTCD6.ts
+#EXTINF:-1 tvg-chno="115589" tvg-name="WGCT-LD" group-title="United States" tvg-id="WGCTLD" tvc-guide-stationid="115589",WGCT-LD
+http://example.local/USA-WGCTLD.ts

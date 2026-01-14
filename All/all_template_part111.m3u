@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="79536" tvg-name="WCSN-LD2 (HEROICN)" tvg-logo="https://zap2it.tmsimg.com/assets/s90401_ll_h15_ad.png" group-title="United States" tvg-id="WCSNLD2" tvc-guide-stationid="79536",WCSN-LD2 (HEROICN)
-http://example.local/USA-WCSNLD2.ts
-#EXTINF:-1 tvg-chno="112848" tvg-name="WCSN-LD3 (STARTTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s109454_ll_h15_ab.png" group-title="United States" tvg-id="WCSNLD3" tvc-guide-stationid="112848",WCSN-LD3 (STARTTV)
-http://example.local/USA-WCSNLD3.ts
-#EXTINF:-1 tvg-chno="79537" tvg-name="WCSN-LD4 (NSTRAVI)" tvg-logo="https://zap2it.tmsimg.com/assets/s106819_h3_aa.png" group-title="United States" tvg-id="WCSNLD4" tvc-guide-stationid="79537",WCSN-LD4 (NSTRAVI)
-http://example.local/USA-WCSNLD4.ts
-#EXTINF:-1 tvg-chno="112849" tvg-name="WCSN-LD5 (OANPLS)" tvg-logo="https://zap2it.tmsimg.com/assets/s138745_ll_h15_aa.png" group-title="United States" tvg-id="WCSNLD5" tvc-guide-stationid="112849",WCSN-LD5 (OANPLS)
-http://example.local/USA-WCSNLD5.ts
 #EXTINF:-1 tvg-chno="83372" tvg-name="WCSN-LD6" group-title="United States" tvg-id="WCSNLD6" tvc-guide-stationid="83372",WCSN-LD6
 http://example.local/USA-WCSNLD6.ts
 #EXTINF:-1 tvg-chno="91347" tvg-name="WCSN-LD7 (HSN)" tvg-logo="https://zap2it.tmsimg.com/assets/s10269_h3_aa.png" group-title="United States" tvg-id="WCSNLD7" tvc-guide-stationid="91347",WCSN-LD7 (HSN)
@@ -1019,3 +1011,11 @@ http://example.local/POL-WDRMUNH.ts
 http://example.local/AUT-WDRMUNH.ts
 #EXTINF:-1 tvg-chno="84071" tvg-name="WDR Münster HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84071_ll_h15_ac.png" group-title="Belgium" tvg-id="WDRMUNH" tvc-guide-stationid="84071",WDR Münster HD
 http://example.local/BEL-WDRMUNH.ts
+#EXTINF:-1 tvg-chno="84071" tvg-name="WDR Münster HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84071_ll_h15_ac.png" group-title="Netherlands" tvg-id="WDRMUNH" tvc-guide-stationid="84071",WDR Münster HD
+http://example.local/NLD-WDRMUNH.ts
+#EXTINF:-1 tvg-chno="84071" tvg-name="WDR Münster HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84071_ll_h15_ac.png" group-title="Spain" tvg-id="WDRMUNH" tvc-guide-stationid="84071",WDR Münster HD
+http://example.local/ESP-WDRMUNH.ts
+#EXTINF:-1 tvg-chno="84071" tvg-name="WDR Münster HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84071_ll_h15_ac.png" group-title="Switzerland" tvg-id="WDRMUNH" tvc-guide-stationid="84071",WDR Münster HD
+http://example.local/CHE-WDRMUNH.ts
+#EXTINF:-1 tvg-chno="54112" tvg-name="WDR Siegen (WDRFERN)" tvg-logo="https://zap2it.tmsimg.com/assets/s54112_ll_h15_ac.png" group-title="France" tvg-id="WDRSIEG" tvc-guide-stationid="54112",WDR Siegen (WDRFERN)
+http://example.local/FRA-WDRSIEG.ts

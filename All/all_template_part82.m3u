@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="23480" tvg-name="Public Access - PUAC005" group-title="United States" tvg-id="PUAC005" tvc-guide-stationid="23480",Public Access - PUAC005
-http://example.local/USA-PUAC005.ts
-#EXTINF:-1 tvg-chno="23481" tvg-name="Public Access - PUAC006" group-title="United States" tvg-id="PUAC006" tvc-guide-stationid="23481",Public Access - PUAC006
-http://example.local/USA-PUAC006.ts
-#EXTINF:-1 tvg-chno="23482" tvg-name="Public Access - PUAC007" group-title="United States" tvg-id="PUAC007" tvc-guide-stationid="23482",Public Access - PUAC007
-http://example.local/USA-PUAC007.ts
-#EXTINF:-1 tvg-chno="23483" tvg-name="Public Access - PUAC008" group-title="United States" tvg-id="PUAC008" tvc-guide-stationid="23483",Public Access - PUAC008
-http://example.local/USA-PUAC008.ts
 #EXTINF:-1 tvg-chno="23484" tvg-name="Public Access - PUAC009" group-title="United States" tvg-id="PUAC009" tvc-guide-stationid="23484",Public Access - PUAC009
 http://example.local/USA-PUAC009.ts
 #EXTINF:-1 tvg-chno="23485" tvg-name="Public Access - PUAC010" group-title="United States" tvg-id="PUAC010" tvc-guide-stationid="23485",Public Access - PUAC010
@@ -1019,3 +1011,11 @@ http://example.local/DEU-BROHALL.ts
 http://example.local/DEU-BROMAGD.ts
 #EXTINF:-1 tvg-chno="107883" tvg-name="Radio Brocken - Wittenberg" tvg-logo="https://zap2it.tmsimg.com/assets/s107883_ll_h15_aa.png" group-title="Germany" tvg-id="BROWITT" tvc-guide-stationid="107883",Radio Brocken - Wittenberg
 http://example.local/DEU-BROWITT.ts
+#EXTINF:-1 tvg-chno="123668" tvg-name="Radio Capital" tvg-logo="https://zap2it.tmsimg.com/assets/s123668_ll_h15_aa.png" group-title="Italy" tvg-id="RADCAPITAL" tvc-guide-stationid="123668",Radio Capital
+http://example.local/ITA-RADCAPITAL.ts
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Trinidad and Tobago" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+http://example.local/TTO-RCARA.ts
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Peru" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+http://example.local/PER-RCARA.ts
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Anguilla" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+http://example.local/AIA-RCARA.ts

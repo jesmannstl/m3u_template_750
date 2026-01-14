@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="145223" tvg-name="NFL Gamepass 108" group-title="United Kingdom" tvg-id="NFLGP108" tvc-guide-stationid="145223",NFL Gamepass 108
-http://example.local/GBR-NFLGP108.ts
-#EXTINF:-1 tvg-chno="145224" tvg-name="NFL Gamepass 109" group-title="United Kingdom" tvg-id="NFLGP109" tvc-guide-stationid="145224",NFL Gamepass 109
-http://example.local/GBR-NFLGP109.ts
-#EXTINF:-1 tvg-chno="145088" tvg-name="NFL Gamepass 11" group-title="United Kingdom" tvg-id="NFLGP11" tvc-guide-stationid="145088",NFL Gamepass 11
-http://example.local/GBR-NFLGP11.ts
-#EXTINF:-1 tvg-chno="145225" tvg-name="NFL Gamepass 110" group-title="United Kingdom" tvg-id="NFLGP110" tvc-guide-stationid="145225",NFL Gamepass 110
-http://example.local/GBR-NFLGP110.ts
 #EXTINF:-1 tvg-chno="145226" tvg-name="NFL Gamepass 111" group-title="United Kingdom" tvg-id="NFLGP111" tvc-guide-stationid="145226",NFL Gamepass 111
 http://example.local/GBR-NFLGP111.ts
 #EXTINF:-1 tvg-chno="145227" tvg-name="NFL Gamepass 112" group-title="United Kingdom" tvg-id="NFLGP112" tvc-guide-stationid="145227",NFL Gamepass 112
@@ -1019,3 +1011,11 @@ http://example.local/USA-YNFLS7.ts
 http://example.local/USA-YNFLS8.ts
 #EXTINF:-1 tvg-chno="89872" tvg-name="NFL Sunday Ticket 9" group-title="Canada" tvg-id="NFL9" tvc-guide-stationid="89872",NFL Sunday Ticket 9
 http://example.local/CAN-NFL9.ts
+#EXTINF:-1 tvg-chno="139488" tvg-name="NFL Sunday Ticket 9" tvg-logo="https://zap2it.tmsimg.com/assets/s139448_ll_h15_aa.png" group-title="United States" tvg-id="YNFLS9" tvc-guide-stationid="139488",NFL Sunday Ticket 9
+http://example.local/USA-YNFLS9.ts
+#EXTINF:-1 tvg-chno="52650" tvg-name="NFL Sunday Ticket AC 1" tvg-logo="https://zap2it.tmsimg.com/assets/s52650_ll_h15_aa.png" group-title="Canada" tvg-id="NFL1AC" tvc-guide-stationid="52650",NFL Sunday Ticket AC 1
+http://example.local/CAN-NFL1AC.ts
+#EXTINF:-1 tvg-chno="52659" tvg-name="NFL Sunday Ticket AC 10" tvg-logo="https://zap2it.tmsimg.com/assets/s52659_ll_h15_aa.png" group-title="Canada" tvg-id="NFL10AC" tvc-guide-stationid="52659",NFL Sunday Ticket AC 10
+http://example.local/CAN-NFL10AC.ts
+#EXTINF:-1 tvg-chno="52660" tvg-name="NFL Sunday Ticket AC 11" tvg-logo="https://zap2it.tmsimg.com/assets/s52660_ll_h15_aa.png" group-title="Canada" tvg-id="NFL11AC" tvc-guide-stationid="52660",NFL Sunday Ticket AC 11
+http://example.local/CAN-NFL11AC.ts

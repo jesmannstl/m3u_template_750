@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="84071" tvg-name="WDR Münster HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84071_ll_h15_ac.png" group-title="Netherlands" tvg-id="WDRMUNH" tvc-guide-stationid="84071",WDR Münster HD
-http://example.local/NLD-WDRMUNH.ts
-#EXTINF:-1 tvg-chno="84071" tvg-name="WDR Münster HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84071_ll_h15_ac.png" group-title="Spain" tvg-id="WDRMUNH" tvc-guide-stationid="84071",WDR Münster HD
-http://example.local/ESP-WDRMUNH.ts
-#EXTINF:-1 tvg-chno="84071" tvg-name="WDR Münster HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84071_ll_h15_ac.png" group-title="Switzerland" tvg-id="WDRMUNH" tvc-guide-stationid="84071",WDR Münster HD
-http://example.local/CHE-WDRMUNH.ts
-#EXTINF:-1 tvg-chno="54112" tvg-name="WDR Siegen (WDRFERN)" tvg-logo="https://zap2it.tmsimg.com/assets/s54112_ll_h15_ac.png" group-title="France" tvg-id="WDRSIEG" tvc-guide-stationid="54112",WDR Siegen (WDRFERN)
-http://example.local/FRA-WDRSIEG.ts
 #EXTINF:-1 tvg-chno="54112" tvg-name="WDR Siegen (WDRFERN)" tvg-logo="https://zap2it.tmsimg.com/assets/s54112_ll_h15_ac.png" group-title="Italy" tvg-id="WDRSIEG" tvc-guide-stationid="54112",WDR Siegen (WDRFERN)
 http://example.local/ITA-WDRSIEG.ts
 #EXTINF:-1 tvg-chno="54112" tvg-name="WDR Siegen (WDRFERN)" tvg-logo="https://zap2it.tmsimg.com/assets/s54112_ll_h15_ac.png" group-title="United Kingdom" tvg-id="WDRSIEG" tvc-guide-stationid="54112",WDR Siegen (WDRFERN)
@@ -1019,3 +1011,11 @@ http://example.local/CAN-WETKDT.ts
 http://example.local/USA-WETKDT.ts
 #EXTINF:-1 tvg-chno="51040" tvg-name="WETK-DT2 (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s32356_ll_h15_ac.png" group-title="Canada" tvg-id="WETKDT2" tvc-guide-stationid="51040",WETK-DT2 (PBS)
 http://example.local/CAN-WETKDT2.ts
+#EXTINF:-1 tvg-chno="51040" tvg-name="WETK-DT2 (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s32356_ll_h15_ac.png" group-title="United States" tvg-id="WETKDT2" tvc-guide-stationid="51040",WETK-DT2 (PBS)
+http://example.local/USA-WETKDT2.ts
+#EXTINF:-1 tvg-chno="57598" tvg-name="WETK-DT3 (CREATE)" tvg-logo="https://zap2it.tmsimg.com/assets/s48990_h3_aa.png" group-title="Canada" tvg-id="WETKDT3" tvc-guide-stationid="57598",WETK-DT3 (CREATE)
+http://example.local/CAN-WETKDT3.ts
+#EXTINF:-1 tvg-chno="57598" tvg-name="WETK-DT3 (CREATE)" tvg-logo="https://zap2it.tmsimg.com/assets/s48990_h3_aa.png" group-title="United States" tvg-id="WETKDT3" tvc-guide-stationid="57598",WETK-DT3 (CREATE)
+http://example.local/USA-WETKDT3.ts
+#EXTINF:-1 tvg-chno="60038" tvg-name="WETK-DT4 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="Canada" tvg-id="WETKDT4" tvc-guide-stationid="60038",WETK-DT4 (HD06)
+http://example.local/CAN-WETKDT4.ts

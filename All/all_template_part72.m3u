@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="68979" tvg-name="Music Choice Alt & Rock Favorites HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68979_ll_h15_aa.png" group-title="United States" tvg-id="MC17H" tvc-guide-stationid="68979",Music Choice Alt & Rock Favorites HD
-http://example.local/USA-MC17H.ts
-#EXTINF:-1 tvg-chno="107583" tvg-name="Music Choice Big Band" tvg-logo="https://zap2it.tmsimg.com/assets/s66345_ll_h15_aa.png" group-title="United States" tvg-id="MCBIG" tvc-guide-stationid="107583",Music Choice Big Band
-http://example.local/USA-MCBIG.ts
-#EXTINF:-1 tvg-chno="19341" tvg-name="Music Choice Blues" tvg-logo="https://zap2it.tmsimg.com/assets/s19341_ll_h15_ab.png" group-title="United States" tvg-id="MC46" tvc-guide-stationid="19341",Music Choice Blues
-http://example.local/USA-MC46.ts
-#EXTINF:-1 tvg-chno="19341" tvg-name="Music Choice Blues" tvg-logo="https://zap2it.tmsimg.com/assets/s19341_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="MC46" tvc-guide-stationid="19341",Music Choice Blues
-http://example.local/CYM-MC46.ts
 #EXTINF:-1 tvg-chno="19341" tvg-name="Music Choice Blues" tvg-logo="https://zap2it.tmsimg.com/assets/s19341_ll_h15_ab.png" group-title="Jamaica" tvg-id="MC46" tvc-guide-stationid="19341",Music Choice Blues
 http://example.local/JAM-MC46.ts
 #EXTINF:-1 tvg-chno="19341" tvg-name="Music Choice Blues" tvg-logo="https://zap2it.tmsimg.com/assets/s19341_ll_h15_ab.png" group-title="Bermuda" tvg-id="MC46" tvc-guide-stationid="19341",Music Choice Blues
@@ -1019,3 +1011,11 @@ http://example.local/CHE-NTVCH.ts
 http://example.local/CHE-NTVGERH.ts
 #EXTINF:-1 tvg-chno="66607" tvg-name="n-tv" tvg-logo="https://zap2it.tmsimg.com/assets/s66607_ll_h15_ab.png" group-title="Norway" tvg-id="NTVGERH" tvc-guide-stationid="66607",n-tv
 http://example.local/NOR-NTVGERH.ts
+#EXTINF:-1 tvg-chno="122443" tvg-name="n-tv Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s122443_ll_h15_aa.png" group-title="France" tvg-id="NTVATSD" tvc-guide-stationid="122443",n-tv Austria
+http://example.local/FRA-NTVATSD.ts
+#EXTINF:-1 tvg-chno="122443" tvg-name="n-tv Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s122443_ll_h15_aa.png" group-title="Germany" tvg-id="NTVATSD" tvc-guide-stationid="122443",n-tv Austria
+http://example.local/DEU-NTVATSD.ts
+#EXTINF:-1 tvg-chno="122443" tvg-name="n-tv Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s122443_ll_h15_aa.png" group-title="Poland" tvg-id="NTVATSD" tvc-guide-stationid="122443",n-tv Austria
+http://example.local/POL-NTVATSD.ts
+#EXTINF:-1 tvg-chno="122443" tvg-name="n-tv Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s122443_ll_h15_aa.png" group-title="Austria" tvg-id="NTVATSD" tvc-guide-stationid="122443",n-tv Austria
+http://example.local/AUT-NTVATSD.ts

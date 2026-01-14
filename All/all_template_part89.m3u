@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="115218" tvg-name="Sky Cinema Animation HD" tvg-logo="https://zap2it.tmsimg.com/assets/s115218_ll_h15_ab.png" group-title="Ireland" tvg-id="SCINANI" tvc-guide-stationid="115218",Sky Cinema Animation HD
-http://example.local/IRL-SCINANI.ts
-#EXTINF:-1 tvg-chno="83668" tvg-name="Sky Cinema Classics HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83668_ll_h15_ad.png" group-title="Germany" tvg-id="SKYCCLAS" tvc-guide-stationid="83668",Sky Cinema Classics HD
-http://example.local/DEU-SKYCCLAS.ts
-#EXTINF:-1 tvg-chno="123028" tvg-name="Sky Cinema Classics HD" tvg-logo="https://zap2it.tmsimg.com/assets/s123028_ll_h15_aa.png" group-title="Germany" tvg-id="SCCHD" tvc-guide-stationid="123028",Sky Cinema Classics HD
-http://example.local/DEU-SCCHD.ts
-#EXTINF:-1 tvg-chno="123028" tvg-name="Sky Cinema Classics HD" tvg-logo="https://zap2it.tmsimg.com/assets/s123028_ll_h15_aa.png" group-title="Austria" tvg-id="SCCHD" tvc-guide-stationid="123028",Sky Cinema Classics HD
-http://example.local/AUT-SCCHD.ts
 #EXTINF:-1 tvg-chno="83668" tvg-name="Sky Cinema Classics HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83668_ll_h15_ad.png" group-title="Austria" tvg-id="SKYCCLAS" tvc-guide-stationid="83668",Sky Cinema Classics HD
 http://example.local/AUT-SKYCCLAS.ts
 #EXTINF:-1 tvg-chno="83668" tvg-name="Sky Cinema Classics HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83668_ll_h15_ad.png" group-title="Ireland" tvg-id="SKYCCLAS" tvc-guide-stationid="83668",Sky Cinema Classics HD
@@ -1019,3 +1011,11 @@ http://example.local/ITA-SSP1SKY.ts
 http://example.local/ITA-SKYSPT1.ts
 #EXTINF:-1 tvg-chno="19038" tvg-name="Sky Sports Action" tvg-logo="https://zap2it.tmsimg.com/assets/s19038_ll_h15_ab.png" group-title="Germany" tvg-id="SSPOAC" tvc-guide-stationid="19038",Sky Sports Action
 http://example.local/DEU-SSPOAC.ts
+#EXTINF:-1 tvg-chno="19038" tvg-name="Sky Sports Action" tvg-logo="https://zap2it.tmsimg.com/assets/s19038_ll_h15_ab.png" group-title="United Kingdom" tvg-id="SSPOAC" tvc-guide-stationid="19038",Sky Sports Action
+http://example.local/GBR-SSPOAC.ts
+#EXTINF:-1 tvg-chno="19038" tvg-name="Sky Sports Action" tvg-logo="https://zap2it.tmsimg.com/assets/s19038_ll_h15_ab.png" group-title="Ireland" tvg-id="SSPOAC" tvc-guide-stationid="19038",Sky Sports Action
+http://example.local/IRL-SSPOAC.ts
+#EXTINF:-1 tvg-chno="59533" tvg-name="Sky Sports Action HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59533_ll_h15_aa.png" group-title="United Kingdom" tvg-id="SSPOACD" tvc-guide-stationid="59533",Sky Sports Action HD
+http://example.local/GBR-SSPOACD.ts
+#EXTINF:-1 tvg-chno="87577" tvg-name="Sky Sports Action HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87577_ll_h15_aa.png" group-title="United Kingdom" tvg-id="SSPOACH" tvc-guide-stationid="87577",Sky Sports Action HD
+http://example.local/GBR-SSPOACH.ts

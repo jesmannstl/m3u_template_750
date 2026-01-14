@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="140390" tvg-name="Rai Storia" tvg-logo="https://zap2it.tmsimg.com/assets/s90940_ll_h15_aa.png" group-title="Italy" tvg-id="RAISTSKY" tvc-guide-stationid="140390",Rai Storia
-http://example.local/ITA-RAISTSKY.ts
-#EXTINF:-1 tvg-chno="90940" tvg-name="Rai Storia" tvg-logo="https://zap2it.tmsimg.com/assets/s90940_ll_h15_aa.png" group-title="Germany" tvg-id="RAISTIT" tvc-guide-stationid="90940",Rai Storia
-http://example.local/DEU-RAISTIT.ts
-#EXTINF:-1 tvg-chno="66187" tvg-name="Rai Storia" tvg-logo="https://zap2it.tmsimg.com/assets/s66187_ll_h15_aa.png" group-title="Germany" tvg-id="RAISTOR" tvc-guide-stationid="66187",Rai Storia
-http://example.local/DEU-RAISTOR.ts
-#EXTINF:-1 tvg-chno="90940" tvg-name="Rai Storia" tvg-logo="https://zap2it.tmsimg.com/assets/s90940_ll_h15_aa.png" group-title="Poland" tvg-id="RAISTIT" tvc-guide-stationid="90940",Rai Storia
-http://example.local/POL-RAISTIT.ts
 #EXTINF:-1 tvg-chno="90940" tvg-name="Rai Storia" tvg-logo="https://zap2it.tmsimg.com/assets/s90940_ll_h15_aa.png" group-title="Austria" tvg-id="RAISTIT" tvc-guide-stationid="90940",Rai Storia
 http://example.local/AUT-RAISTIT.ts
 #EXTINF:-1 tvg-chno="90940" tvg-name="Rai Storia" tvg-logo="https://zap2it.tmsimg.com/assets/s90940_ll_h15_aa.png" group-title="Switzerland" tvg-id="RAISTIT" tvc-guide-stationid="90940",Rai Storia
@@ -1019,3 +1011,11 @@ http://example.local/GBR-REVEL.ts
 http://example.local/IRL-REVEL.ts
 #EXTINF:-1 tvg-chno="32561" tvg-name="Revelation TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32561_ll_h15_ac.png" group-title="Belgium" tvg-id="REVEL" tvc-guide-stationid="32561",Revelation TV
 http://example.local/BEL-REVEL.ts
+#EXTINF:-1 tvg-chno="96883" tvg-name="Revenue Frontier (SHOPHQ)" tvg-logo="https://zap2it.tmsimg.com/assets/s14948_ll_h15_ae.png" group-title="United States" tvg-id="SHOPHQRF" tvc-guide-stationid="96883",Revenue Frontier (SHOPHQ)
+http://example.local/USA-SHOPHQRF.ts
+#EXTINF:-1 tvg-chno="58799" tvg-name="Revenue Frontier" group-title="United States" tvg-id="REVFRNT" tvc-guide-stationid="58799",Revenue Frontier
+http://example.local/USA-REVFRNT.ts
+#EXTINF:-1 tvg-chno="78913" tvg-name="Revenue Frontier 3" group-title="United States" tvg-id="RVF3" tvc-guide-stationid="78913",Revenue Frontier 3
+http://example.local/USA-RVF3.ts
+#EXTINF:-1 tvg-chno="100960" tvg-name="Revenue Frontier Albuquerque" tvg-logo="https://zap2it.tmsimg.com/assets/s14948_ll_h15_ae.png" group-title="United States" tvg-id="REVFRA" tvc-guide-stationid="100960",Revenue Frontier Albuquerque
+http://example.local/USA-REVFRA.ts

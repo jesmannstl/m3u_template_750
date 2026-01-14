@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="90948" tvg-name="FXX Canada SD" tvg-logo="https://zap2it.tmsimg.com/assets/s90948_ll_h9_aa.png" group-title="Canada" tvg-id="FXXCSD" tvc-guide-stationid="90948",FXX Canada SD
+http://example.local/CAN-FXXCSD.ts
 #EXTINF:-1 tvg-chno="26197" tvg-name="GAME 1" tvg-logo="https://zap2it.tmsimg.com/assets/s26197_ll_h15_ad.png" group-title="Canada" tvg-id="GAME1" tvc-guide-stationid="26197",GAME 1
 http://example.local/CAN-GAME1.ts
 #EXTINF:-1 tvg-chno="31250" tvg-name="GAME 10" tvg-logo="https://zap2it.tmsimg.com/assets/s31250_ll_h15_ad.png" group-title="Canada" tvg-id="GME10" tvc-guide-stationid="31250",GAME 10
@@ -831,8 +833,6 @@ http://example.local/CAN-MLBHD.ts
 http://example.local/CAN-MOMO.ts
 #EXTINF:-1 tvg-chno="102602" tvg-name="More 103.9 FM" group-title="Canada" tvg-id="CKDKFM" tvc-guide-stationid="102602",More 103.9 FM
 http://example.local/CAN-CKDKFM.ts
-#EXTINF:-1 tvg-chno="169059" tvg-name="Motor Trend" tvg-logo="https://zap2it.tmsimg.com/assets/s169059_ll_h15_aa.png" group-title="Canada" tvg-id="MTCFAST" tvc-guide-stationid="169059",Motor Trend
-http://example.local/CAN-MTCFAST.ts
 #EXTINF:-1 tvg-chno="55510" tvg-name="Movie Channel On Demand" group-title="Canada" tvg-id="MOVCHDM" tvc-guide-stationid="55510",Movie Channel On Demand
 http://example.local/CAN-MOVCHDM.ts
 #EXTINF:-1 tvg-chno="27125" tvg-name="MovieTime" tvg-logo="https://zap2it.tmsimg.com/assets/s27125_ll_h15_aa.png" group-title="Canada" tvg-id="MTIME" tvc-guide-stationid="27125",MovieTime

@@ -721,6 +721,8 @@ http://example.local/CAN-NHLCI9.ts
 http://example.local/CAN-TDCSD.ts
 #EXTINF:-1 tvg-chno="167588" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s167588_ll_h9_ab.png" group-title="Canada" tvg-id="TDC" tvc-guide-stationid="167588",Discovery Channel
 http://example.local/CAN-TDC.ts
+#EXTINF:-1 tvg-chno="169059" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RSB24.png" group-title="Canada" tvg-id="MTCFAST" tvc-guide-stationid="169059",Discovery Turbo
+http://example.local/CAN-MTCFAST.ts
 #EXTINF:-1 tvg-chno="96509" tvg-name="Disney Channel Canada" tvg-logo="https://zap2it.tmsimg.com/assets/s96509_ll_h15_ab.png" group-title="Canada" tvg-id="DISCA" tvc-guide-stationid="96509",Disney Channel Canada
 http://example.local/CAN-DISCA.ts
 #EXTINF:-1 tvg-chno="96515" tvg-name="Disney Channel Canada - West" tvg-logo="https://zap2it.tmsimg.com/assets/s96515_ll_h15_ab.png" group-title="Canada" tvg-id="DISCW" tvc-guide-stationid="96515",Disney Channel Canada - West
@@ -1017,5 +1019,3 @@ http://example.local/CAN-FXCHD.ts
 http://example.local/CAN-FXXC.ts
 #EXTINF:-1 tvg-chno="121531" tvg-name="FXX Canada Pacific" group-title="Canada" tvg-id="FXXCP" tvc-guide-stationid="121531",FXX Canada Pacific
 http://example.local/CAN-FXXCP.ts
-#EXTINF:-1 tvg-chno="90948" tvg-name="FXX Canada SD" tvg-logo="https://zap2it.tmsimg.com/assets/s90948_ll_h9_aa.png" group-title="Canada" tvg-id="FXXCSD" tvc-guide-stationid="90948",FXX Canada SD
-http://example.local/CAN-FXXCSD.ts

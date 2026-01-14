@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="99581" tvg-name="WHPS-CD2" group-title="Canada" tvg-id="WHPSCD2" tvc-guide-stationid="99581",WHPS-CD2
-http://example.local/CAN-WHPSCD2.ts
-#EXTINF:-1 tvg-chno="99581" tvg-name="WHPS-CD2" group-title="United States" tvg-id="WHPSCD2" tvc-guide-stationid="99581",WHPS-CD2
-http://example.local/USA-WHPSCD2.ts
-#EXTINF:-1 tvg-chno="113597" tvg-name="WHPS-CD4 (RETROTV)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y479.png" group-title="Canada" tvg-id="WHPSCD4" tvc-guide-stationid="113597",WHPS-CD4 (RETROTV)
-http://example.local/CAN-WHPSCD4.ts
-#EXTINF:-1 tvg-chno="113597" tvg-name="WHPS-CD4 (RETROTV)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y479.png" group-title="United States" tvg-id="WHPSCD4" tvc-guide-stationid="113597",WHPS-CD4 (RETROTV)
-http://example.local/USA-WHPSCD4.ts
 #EXTINF:-1 tvg-chno="113600" tvg-name="WHPS-CD5 (HEARTHD)" tvg-logo="https://zap2it.tmsimg.com/assets/s78584_ll_h15_ab.png" group-title="Canada" tvg-id="WHPSCD5" tvc-guide-stationid="113600",WHPS-CD5 (HEARTHD)
 http://example.local/CAN-WHPSCD5.ts
 #EXTINF:-1 tvg-chno="113600" tvg-name="WHPS-CD5 (HEARTHD)" tvg-logo="https://zap2it.tmsimg.com/assets/s78584_ll_h15_ab.png" group-title="United States" tvg-id="WHPSCD5" tvc-guide-stationid="113600",WHPS-CD5 (HEARTHD)
@@ -1019,3 +1011,11 @@ http://example.local/USA-WJARDT2.ts
 http://example.local/USA-WJARDT3.ts
 #EXTINF:-1 tvg-chno="102373" tvg-name="WJAR-DT4 (COMET)" tvg-logo="https://zap2it.tmsimg.com/assets/s97051_ll_h15_ab.png" group-title="United States" tvg-id="WJARDT4" tvc-guide-stationid="102373",WJAR-DT4 (COMET)
 http://example.local/USA-WJARDT4.ts
+#EXTINF:-1 tvg-chno="11717" tvg-name="WJAX (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="United States" tvg-id="WJAX" tvc-guide-stationid="11717",WJAX (CBS)
+http://example.local/USA-WJAX.ts
+#EXTINF:-1 tvg-chno="33485" tvg-name="WJAX-DT (CBS)" tvg-logo="https://logos.jesmann.com/wjaxdt.png" group-title="United States" tvg-id="WJAXDT" tvc-guide-stationid="33485",WJAX-DT (CBS)
+http://example.local/USA-WJAXDT.ts
+#EXTINF:-1 tvg-chno="71916" tvg-name="WJAX-DT2 (COZITV)" tvg-logo="https://zap2it.tmsimg.com/assets/s78851_h3_aa.png" group-title="United States" tvg-id="WJAXDT2" tvc-guide-stationid="71916",WJAX-DT2 (COZITV)
+http://example.local/USA-WJAXDT2.ts
+#EXTINF:-1 tvg-chno="96178" tvg-name="WJAX-DT2 (HD Feed)" group-title="United States" tvg-id="WJAX2HD" tvc-guide-stationid="96178",WJAX-DT2 (HD Feed)
+http://example.local/USA-WJAX2HD.ts

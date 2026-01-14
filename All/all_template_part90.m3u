@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="19038" tvg-name="Sky Sports Action" tvg-logo="https://zap2it.tmsimg.com/assets/s19038_ll_h15_ab.png" group-title="United Kingdom" tvg-id="SSPOAC" tvc-guide-stationid="19038",Sky Sports Action
-http://example.local/GBR-SSPOAC.ts
-#EXTINF:-1 tvg-chno="19038" tvg-name="Sky Sports Action" tvg-logo="https://zap2it.tmsimg.com/assets/s19038_ll_h15_ab.png" group-title="Ireland" tvg-id="SSPOAC" tvc-guide-stationid="19038",Sky Sports Action
-http://example.local/IRL-SSPOAC.ts
-#EXTINF:-1 tvg-chno="59533" tvg-name="Sky Sports Action HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59533_ll_h15_aa.png" group-title="United Kingdom" tvg-id="SSPOACD" tvc-guide-stationid="59533",Sky Sports Action HD
-http://example.local/GBR-SSPOACD.ts
-#EXTINF:-1 tvg-chno="87577" tvg-name="Sky Sports Action HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87577_ll_h15_aa.png" group-title="United Kingdom" tvg-id="SSPOACH" tvc-guide-stationid="87577",Sky Sports Action HD
-http://example.local/GBR-SSPOACH.ts
 #EXTINF:-1 tvg-chno="59533" tvg-name="Sky Sports Action HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59533_ll_h15_aa.png" group-title="Ireland" tvg-id="SSPOACD" tvc-guide-stationid="59533",Sky Sports Action HD
 http://example.local/IRL-SSPOACD.ts
 #EXTINF:-1 tvg-chno="87577" tvg-name="Sky Sports Action HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87577_ll_h15_aa.png" group-title="Ireland" tvg-id="SSPOACH" tvc-guide-stationid="87577",Sky Sports Action HD
@@ -1019,3 +1011,11 @@ http://example.local/USA-SPVNTHD.ts
 http://example.local/USA-SEPPV.ts
 #EXTINF:-1 tvg-chno="73807" tvg-name="Special Events 2" group-title="United States" tvg-id="SPLEVT2" tvc-guide-stationid="73807",Special Events 2
 http://example.local/USA-SPLEVT2.ts
+#EXTINF:-1 tvg-chno="62748" tvg-name="Special Events 3" group-title="United States" tvg-id="SPEEVT3" tvc-guide-stationid="62748",Special Events 3
+http://example.local/USA-SPEEVT3.ts
+#EXTINF:-1 tvg-chno="73808" tvg-name="Special Events 3" group-title="United States" tvg-id="SPLEVT3" tvc-guide-stationid="73808",Special Events 3
+http://example.local/USA-SPLEVT3.ts
+#EXTINF:-1 tvg-chno="73894" tvg-name="Special Events 3" group-title="United States" tvg-id="SEVNTS3" tvc-guide-stationid="73894",Special Events 3
+http://example.local/USA-SEVNTS3.ts
+#EXTINF:-1 tvg-chno="72803" tvg-name="Special Events 4" group-title="United States" tvg-id="SPLEVT4" tvc-guide-stationid="72803",Special Events 4
+http://example.local/USA-SPLEVT4.ts

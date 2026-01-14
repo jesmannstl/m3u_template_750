@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="122443" tvg-name="n-tv Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s122443_ll_h15_aa.png" group-title="France" tvg-id="NTVATSD" tvc-guide-stationid="122443",n-tv Austria
-http://example.local/FRA-NTVATSD.ts
-#EXTINF:-1 tvg-chno="122443" tvg-name="n-tv Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s122443_ll_h15_aa.png" group-title="Germany" tvg-id="NTVATSD" tvc-guide-stationid="122443",n-tv Austria
-http://example.local/DEU-NTVATSD.ts
-#EXTINF:-1 tvg-chno="122443" tvg-name="n-tv Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s122443_ll_h15_aa.png" group-title="Poland" tvg-id="NTVATSD" tvc-guide-stationid="122443",n-tv Austria
-http://example.local/POL-NTVATSD.ts
-#EXTINF:-1 tvg-chno="122443" tvg-name="n-tv Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s122443_ll_h15_aa.png" group-title="Austria" tvg-id="NTVATSD" tvc-guide-stationid="122443",n-tv Austria
-http://example.local/AUT-NTVATSD.ts
 #EXTINF:-1 tvg-chno="122443" tvg-name="n-tv Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s122443_ll_h15_aa.png" group-title="Belgium" tvg-id="NTVATSD" tvc-guide-stationid="122443",n-tv Austria
 http://example.local/BEL-NTVATSD.ts
 #EXTINF:-1 tvg-chno="122443" tvg-name="n-tv Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s122443_ll_h15_aa.png" group-title="Netherlands" tvg-id="NTVATSD" tvc-guide-stationid="122443",n-tv Austria
@@ -1019,3 +1011,11 @@ http://example.local/USA-NBATV4K.ts
 http://example.local/CAN-NBATVC.ts
 #EXTINF:-1 tvg-chno="53242" tvg-name="NBA TV Canada HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53242_ll_h15_ab.png" group-title="Canada" tvg-id="NBATVCD" tvc-guide-stationid="53242",NBA TV Canada HD
 http://example.local/CAN-NBATVCD.ts
+#EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png" group-title="United States" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
+http://example.local/USA-NBATVHD.ts
+#EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
+http://example.local/TTO-NBATVHD.ts
+#EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png" group-title="Panama" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
+http://example.local/PAN-NBATVHD.ts
+#EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png" group-title="Argentina" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
+http://example.local/ARG-NBATVHD.ts

@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="16526" tvg-name="TVN" tvg-logo="https://zap2it.tmsimg.com/assets/s16526_ll_h15_ab.png" group-title="Argentina" tvg-id="TVN" tvc-guide-stationid="16526",TVN
-http://example.local/ARG-TVN.ts
-#EXTINF:-1 tvg-chno="16526" tvg-name="TVN" tvg-logo="https://zap2it.tmsimg.com/assets/s16526_ll_h15_ab.png" group-title="Peru" tvg-id="TVN" tvc-guide-stationid="16526",TVN
-http://example.local/PER-TVN.ts
-#EXTINF:-1 tvg-chno="16526" tvg-name="TVN" tvg-logo="https://zap2it.tmsimg.com/assets/s16526_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="TVN" tvc-guide-stationid="16526",TVN
-http://example.local/PRI-TVN.ts
-#EXTINF:-1 tvg-chno="16526" tvg-name="TVN" tvg-logo="https://zap2it.tmsimg.com/assets/s16526_ll_h15_ab.png" group-title="Chile" tvg-id="TVN" tvc-guide-stationid="16526",TVN
-http://example.local/CHL-TVN.ts
 #EXTINF:-1 tvg-chno="111806" tvg-name="TVN" tvg-logo="https://zap2it.tmsimg.com/assets/s16526_ll_h15_ab.png" group-title="Chile" tvg-id="TVNSTGS" tvc-guide-stationid="111806",TVN
 http://example.local/CHL-TVNSTGS.ts
 #EXTINF:-1 tvg-chno="111550" tvg-name="TVN" tvg-logo="https://zap2it.tmsimg.com/assets/s16526_ll_h15_ab.png" group-title="Chile" tvg-id="TVNSTGO" tvc-guide-stationid="111550",TVN
@@ -1019,3 +1011,11 @@ http://example.local/IRL-GOLDP1.ts
 http://example.local/GBR-GOLDHD.ts
 #EXTINF:-1 tvg-chno="105776" tvg-name="U&GOLD HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105776_ll_h15_ab.png" group-title="Ireland" tvg-id="GOLDHD" tvc-guide-stationid="105776",U&GOLD HD
 http://example.local/IRL-GOLDHD.ts
+#EXTINF:-1 tvg-chno="139609" tvg-name="U&Laughs" tvg-logo="https://zap2it.tmsimg.com/assets/s139609_ll_h15_ac.png" group-title="United Kingdom" tvg-id="ULAUGHS" tvc-guide-stationid="139609",U&Laughs
+http://example.local/GBR-ULAUGHS.ts
+#EXTINF:-1 tvg-chno="156687" tvg-name="U&Laughs (TiVo)" group-title="United Kingdom" tvg-id="LFASTVMT" tvc-guide-stationid="156687",U&Laughs (TiVo)
+http://example.local/GBR-LFASTVMT.ts
+#EXTINF:-1 tvg-chno="139610" tvg-name="U&Real Heroes" tvg-logo="https://zap2it.tmsimg.com/assets/s139610_ll_h15_ac.png" group-title="United Kingdom" tvg-id="UREAHEO" tvc-guide-stationid="139610",U&Real Heroes
+http://example.local/GBR-UREAHEO.ts
+#EXTINF:-1 tvg-chno="156691" tvg-name="U&Real Heroes (TiVo)" group-title="United Kingdom" tvg-id="HFASTVMT" tvc-guide-stationid="156691",U&Real Heroes (TiVo)
+http://example.local/GBR-HFASTVMT.ts
