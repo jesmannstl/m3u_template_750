@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="147882" tvg-name="Iron Chef" tvg-logo="https://zap2it.tmsimg.com/assets/s147882_ll_h15_aa.png" group-title="United States" tvg-id="XMVIC" tvc-guide-stationid="147882",Iron Chef
+http://example.local/USA-XMVIC.ts
+#EXTINF:-1 tvg-chno="182349" tvg-name="Island Vibes" group-title="United States" tvg-id="ISLVIBE" tvc-guide-stationid="182349",Island Vibes
+http://example.local/USA-ISLVIBE.ts
+#EXTINF:-1 tvg-chno="147302" tvg-name="Isn't It Romantic" tvg-logo="https://zap2it.tmsimg.com/assets/s147302_ll_h15_ab.png" group-title="United States" tvg-id="AMZADH" tvc-guide-stationid="147302",Isn't It Romantic
+http://example.local/USA-AMZADH.ts
+#EXTINF:-1 tvg-chno="135519" tvg-name="It's a Vibe" group-title="United States" tvg-id="ITSAVB" tvc-guide-stationid="135519",It's a Vibe
+http://example.local/USA-ITSAVB.ts
 #EXTINF:-1 tvg-chno="136770" tvg-name="ITV DEPORTES" tvg-logo="https://zap2it.tmsimg.com/assets/s136770_ll_h15_aa.png" group-title="United States" tvg-id="ITVDEP" tvc-guide-stationid="136770",ITV DEPORTES
 http://example.local/USA-ITVDEP.ts
 #EXTINF:-1 tvg-chno="21858" tvg-name="ITV Gold (Indian Channel)" tvg-logo="https://zap2it.tmsimg.com/assets/s21858_ll_h6_aa.png" group-title="United States" tvg-id="ITVG" tvc-guide-stationid="21858",ITV Gold (Indian Channel)
@@ -159,7 +167,7 @@ http://example.local/USA-KBSIDT.ts
 http://example.local/USA-KBTCDT.ts
 #EXTINF:-1 tvg-chno="42574" tvg-name="KBTX-DT (CBS)" tvg-logo="https://logos.jesmann.com/kbtxdt.png" group-title="United States" tvg-id="KBTXDT" tvc-guide-stationid="42574",KBTX-DT (CBS)
 http://example.local/USA-KBTXDT.ts
-#EXTINF:-1 tvg-chno="35315" tvg-name="KBVU-DT (FOX)" tvg-logo="https://logos.jesmann.com/kbvudt.png" group-title="United States" tvg-id="KBVUDT" tvc-guide-stationid="35315",KBVU-DT (FOX)
+#EXTINF:-1 tvg-chno="35315" tvg-name="KBVU-DT (ROARTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s102116_ll_h15_ac.png" group-title="United States" tvg-id="KBVUDT" tvc-guide-stationid="35315",KBVU-DT (ROARTV)
 http://example.local/USA-KBVUDT.ts
 #EXTINF:-1 tvg-chno="33702" tvg-name="KCBD-DT (NBC)" tvg-logo="https://logos.jesmann.com/kcbddt.png" group-title="United States" tvg-id="KCBDDT" tvc-guide-stationid="33702",KCBD-DT (NBC)
 http://example.local/USA-KCBDDT.ts
@@ -197,7 +205,7 @@ http://example.local/USA-VKCRA.ts
 http://example.local/USA-KCRADT.ts
 #EXTINF:-1 tvg-chno="34348" tvg-name="KCTV-DT (CBS)" tvg-logo="https://logos.jesmann.com/kctvdt.png" group-title="United States" tvg-id="KCTVDT" tvc-guide-stationid="34348",KCTV-DT (CBS)
 http://example.local/USA-KCTVDT.ts
-#EXTINF:-1 tvg-chno="34959" tvg-name="KCVU-DT (FOX)" tvg-logo="https://logos.jesmann.com/kcvudt.png" group-title="United States" tvg-id="KCVUDT" tvc-guide-stationid="34959",KCVU-DT (FOX)
+#EXTINF:-1 tvg-chno="34959" tvg-name="KCVU-DT (ROARTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s102116_ll_h15_ac.png" group-title="United States" tvg-id="KCVUDT" tvc-guide-stationid="34959",KCVU-DT (ROARTV)
 http://example.local/USA-KCVUDT.ts
 #EXTINF:-1 tvg-chno="33698" tvg-name="KCWC-DT (PBS)" tvg-logo="https://logos.jesmann.com/kcwcdt.png" group-title="United States" tvg-id="KCWCDT" tvc-guide-stationid="33698",KCWC-DT (PBS)
 http://example.local/USA-KCWCDT.ts
@@ -997,7 +1005,7 @@ http://example.local/USA-LMTV.ts
 http://example.local/USA-LIFESKR.ts
 #EXTINF:-1 tvg-chno="10918" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s10918_ll_h15_ac.png" group-title="United States" tvg-id="LIFE" tvc-guide-stationid="10918",Lifetime
 http://example.local/USA-LIFE.ts
-#EXTINF:-1 tvg-chno="10919" tvg-name="Lifetime (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10918_ll_h15_ac.png" group-title="United States" tvg-id="LIFEP" tvc-guide-stationid="10919",Lifetime (Pacific)
+#EXTINF:-1 tvg-chno="10919" tvg-name="Lifetime (Pacific)" tvg-logo="https://logos.jesmann.com/lifep.png" group-title="United States" tvg-id="LIFEP" tvc-guide-stationid="10919",Lifetime (Pacific)
 http://example.local/USA-LIFEP.ts
 #EXTINF:-1 tvg-chno="60150" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60150_ll_h15_ad.png" group-title="United States" tvg-id="LIFEHD" tvc-guide-stationid="60150",Lifetime HD
 http://example.local/USA-LIFEHD.ts
@@ -1021,11 +1029,3 @@ http://example.local/USA-LXLTV.ts
 http://example.local/USA-LFOODZ.ts
 #EXTINF:-1 tvg-chno="170382" tvg-name="Living With Evil" tvg-logo="https://zap2it.tmsimg.com/assets/s170382_ll_h15_aa.png" group-title="United States" tvg-id="WBTVLWE" tvc-guide-stationid="170382",Living With Evil
 http://example.local/USA-WBTVLWE.ts
-#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="United States" tvg-id="LMN" tvc-guide-stationid="18480",LMN
-http://example.local/USA-LMN.ts
-#EXTINF:-1 tvg-chno="19192" tvg-name="LMN (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="United States" tvg-id="LMNP" tvc-guide-stationid="19192",LMN (Pacific)
-http://example.local/USA-LMNP.ts
-#EXTINF:-1 tvg-chno="55887" tvg-name="LMN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55887_ll_h15_ag.png" group-title="United States" tvg-id="LMNHD" tvc-guide-stationid="55887",LMN HD
-http://example.local/USA-LMNHD.ts
-#EXTINF:-1 tvg-chno="92261" tvg-name="LMN Stream" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="United States" tvg-id="LMNSTR" tvc-guide-stationid="92261",LMN Stream
-http://example.local/USA-LMNSTR.ts

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CBLTDT" tvg-name="CBC Toronto HD (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s46245_ll_h15_aa.png" tvg-chno="46245" tvc-guide-stationid="46245" group-title="",CBC Toronto HD (CBC)
+#EXTINF:-1 tvg-id="CBLTDT" tvg-name="CBC Toronto HD (CBC)" tvg-logo="https://logos.jesmann.com/cbltdt.png" tvg-chno="46245" tvc-guide-stationid="46245" group-title="",CBC Toronto HD (CBC)
 http://example.local/CBLTDT.ts
 #EXTINF:-1 tvg-id="CBETDT" tvg-name="CBET-DT (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10084_ll_h15_ab.png" tvg-chno="72772" tvc-guide-stationid="72772" group-title="",CBET-DT (CBC)
 http://example.local/CBETDT.ts
@@ -67,7 +67,7 @@ http://example.local/CKSHDT.ts
 http://example.local/CKVPDT.ts
 #EXTINF:-1 tvg-id="CKWSDT" tvg-name="CKWS-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s85778_ll_h15_ab.png" tvg-chno="85778" tvc-guide-stationid="85778" group-title="",CKWS-DT
 http://example.local/CKWSDT.ts
-#EXTINF:-1 tvg-id="CFTODT" tvg-name="CTV Toronto HD (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s44784_ll_h15_aa.png" tvg-chno="44784" tvc-guide-stationid="44784" group-title="",CTV Toronto HD (CTV)
+#EXTINF:-1 tvg-id="CFTODT" tvg-name="CTV Toronto HD (CTV)" tvg-logo="https://logos.jesmann.com/cftodt.png" tvg-chno="44784" tvc-guide-stationid="44784" group-title="",CTV Toronto HD (CTV)
 http://example.local/CFTODT.ts
 #EXTINF:-1 tvg-id="K46LGD" tvg-name="DNU K46LG-D (AZTECAE)" tvg-logo="https://zap2it.tmsimg.com/assets/s33652_h3_aa.png" tvg-chno="98273" tvc-guide-stationid="98273" group-title="",DNU K46LG-D (AZTECAE)
 http://example.local/K46LGD.ts
@@ -77,8 +77,6 @@ http://example.local/KAKZLD3.ts
 http://example.local/KEBKLD4.ts
 #EXTINF:-1 tvg-id="KETFCD4" tvg-name="DNU KETF-CD4 (AZTECAE)" tvg-logo="https://zap2it.tmsimg.com/assets/s33652_h3_aa.png" tvg-chno="110408" tvc-guide-stationid="110408" group-title="",DNU KETF-CD4 (AZTECAE)
 http://example.local/KETFCD4.ts
-#EXTINF:-1 tvg-id="KGMCDT2" tvg-name="DNU KGMC-DT2 (AZTECAE)" tvg-logo="https://zap2it.tmsimg.com/assets/s33652_ll_h15_aa.png" tvg-chno="75210" tvc-guide-stationid="75210" group-title="",DNU KGMC-DT2 (AZTECAE)
-http://example.local/KGMCDT2.ts
 #EXTINF:-1 tvg-id="KMCELP" tvg-name="DNU KMCE-LP (AZTECAE)" tvg-logo="https://zap2it.tmsimg.com/assets/s33652_ll_h15_aa.png" tvg-chno="35952" tvc-guide-stationid="35952" group-title="",DNU KMCE-LP (AZTECAE)
 http://example.local/KMCELP.ts
 #EXTINF:-1 tvg-id="W21DAD" tvg-name="DNU W21DA-D (AZTECAE)" tvg-logo="https://zap2it.tmsimg.com/assets/s33652_h3_aa.png" tvg-chno="114749" tvc-guide-stationid="114749" group-title="",DNU W21DA-D (AZTECAE)
@@ -401,7 +399,7 @@ http://example.local/K18KOD.ts
 http://example.local/K18KOD2.ts
 #EXTINF:-1 tvg-id="K18KOD3" tvg-name="K18KO-D3 (DEFY)" tvg-logo="https://zap2it.tmsimg.com/assets/s159206_ll_h15_aa.png" tvg-chno="96145" tvc-guide-stationid="96145" group-title="",K18KO-D3 (DEFY)
 http://example.local/K18KOD3.ts
-#EXTINF:-1 tvg-id="K18NE" tvg-name="K18NE" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/54881/s92091_ll_h15_aa.png" tvg-chno="54881" tvc-guide-stationid="54881" group-title="",K18NE
+#EXTINF:-1 tvg-id="K18NE" tvg-name="K18NE" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/54881/GNLZZGG002NRDSC.png" tvg-chno="54881" tvc-guide-stationid="54881" group-title="",K18NE
 http://example.local/K18NE.ts
 #EXTINF:-1 tvg-id="K18NED" tvg-name="K18NE-D (LAFF)" tvg-logo="https://zap2it.tmsimg.com/assets/s92091_ll_h15_aa.png" tvg-chno="66961" tvc-guide-stationid="66961" group-title="",K18NE-D (LAFF)
 http://example.local/K18NED.ts
@@ -1019,3 +1017,5 @@ http://example.local/K33LND.ts
 http://example.local/K33LND2.ts
 #EXTINF:-1 tvg-id="K33LND3" tvg-name="K33LN-D3 (FUBOOTA)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FER8B.png" tvg-chno="79032" tvc-guide-stationid="79032" group-title="",K33LN-D3 (FUBOOTA)
 http://example.local/K33LND3.ts
+#EXTINF:-1 tvg-id="K33LND4" tvg-name="K33LN-D4 (SHOPLC)" tvg-logo="https://zap2it.tmsimg.com/assets/s56032_ll_h15_ac.png" tvg-chno="79033" tvc-guide-stationid="79033" group-title="",K33LN-D4 (SHOPLC)
+http://example.local/K33LND4.ts

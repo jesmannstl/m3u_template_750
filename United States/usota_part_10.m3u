@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="KUBEDT3" tvg-name="KUBE-DT3 (SBND)" tvg-logo="https://zap2it.tmsimg.com/assets/s67676_ll_h15_aa.png" tvg-chno="68141" tvc-guide-stationid="68141" group-title="",KUBE-DT3 (SBND)
+http://example.local/KUBEDT3.ts
+#EXTINF:-1 tvg-id="KUBEDT4" tvg-name="KUBE-DT4 (SHOPLC)" tvg-logo="https://zap2it.tmsimg.com/assets/s56032_ll_h15_ac.png" tvg-chno="74336" tvc-guide-stationid="74336" group-title="",KUBE-DT4 (SHOPLC)
+http://example.local/KUBEDT4.ts
+#EXTINF:-1 tvg-id="KUBEDT5" tvg-name="KUBE-DT5 (RNNGRP)" tvg-logo="https://zap2it.tmsimg.com/assets/s115515_ll_h9_ab.png" tvg-chno="72512" tvc-guide-stationid="72512" group-title="",KUBE-DT5 (RNNGRP)
+http://example.local/KUBEDT5.ts
 #EXTINF:-1 tvg-id="KUBEDT6" tvg-name="KUBE-DT6" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="102607" tvc-guide-stationid="102607" group-title="",KUBE-DT6
 http://example.local/KUBEDT6.ts
 #EXTINF:-1 tvg-id="KUBEDT7" tvg-name="KUBE-DT7" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="107684" tvc-guide-stationid="107684" group-title="",KUBE-DT7
@@ -1013,9 +1019,3 @@ http://example.local/KWHSLD3.ts
 http://example.local/KWHSLD4.ts
 #EXTINF:-1 tvg-id="KWHYDT2" tvg-name="KWHY-DT2" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="64575" tvc-guide-stationid="64575" group-title="",KWHY-DT2
 http://example.local/KWHYDT2.ts
-#EXTINF:-1 tvg-id="KWHYDT3" tvg-name="KWHY-DT3" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="87653" tvc-guide-stationid="87653" group-title="",KWHY-DT3
-http://example.local/KWHYDT3.ts
-#EXTINF:-1 tvg-id="KWHYDT4" tvg-name="KWHY-DT4" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="87654" tvc-guide-stationid="87654" group-title="",KWHY-DT4
-http://example.local/KWHYDT4.ts
-#EXTINF:-1 tvg-id="KWHYDT5" tvg-name="KWHY-DT5" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="97810" tvc-guide-stationid="97810" group-title="",KWHY-DT5
-http://example.local/KWHYDT5.ts

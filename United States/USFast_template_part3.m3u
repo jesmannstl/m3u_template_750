@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="103696" tvg-name="FNE Boston" tvg-logo="https://zap2it.tmsimg.com/assets/s103482_h3_ba.png" group-title="United States" tvg-id="FNEBOST" tvc-guide-stationid="103696",FNE Boston
+http://example.local/USA-FNEBOST.ts
+#EXTINF:-1 tvg-chno="103697" tvg-name="FNE Bowling Green" tvg-logo="https://zap2it.tmsimg.com/assets/s103482_h3_ba.png" group-title="United States" tvg-id="FNEBOWL" tvc-guide-stationid="103697",FNE Bowling Green
+http://example.local/USA-FNEBOWL.ts
+#EXTINF:-1 tvg-chno="103698" tvg-name="FNE Buffalo" tvg-logo="https://zap2it.tmsimg.com/assets/s103482_ll_h15_aa.png" group-title="United States" tvg-id="FNEBUFF" tvc-guide-stationid="103698",FNE Buffalo
+http://example.local/USA-FNEBUFF.ts
+#EXTINF:-1 tvg-chno="116325" tvg-name="FNE BURLINGTON VT" group-title="United States" tvg-id="FNEBURL" tvc-guide-stationid="116325",FNE BURLINGTON VT
+http://example.local/USA-FNEBURL.ts
 #EXTINF:-1 tvg-chno="103699" tvg-name="FNE Cedar Rapids" tvg-logo="https://zap2it.tmsimg.com/assets/s103482_h3_ba.png" group-title="United States" tvg-id="FNECEDA" tvc-guide-stationid="103699",FNE Cedar Rapids
 http://example.local/USA-FNECEDA.ts
 #EXTINF:-1 tvg-chno="103700" tvg-name="FNE Champaign" tvg-logo="https://zap2it.tmsimg.com/assets/s103482_h3_aa.png" group-title="United States" tvg-id="FNECHAM" tvc-guide-stationid="103700",FNE Champaign
@@ -243,11 +251,11 @@ http://example.local/USA-FOOD2.ts
 http://example.local/USA-FOODN.ts
 #EXTINF:-1 tvg-chno="12574" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s12574_ll_h15_ab.png" group-title="United States" tvg-id="FOOD" tvc-guide-stationid="12574",Food Network
 http://example.local/USA-FOOD.ts
-#EXTINF:-1 tvg-chno="33648" tvg-name="Food Network (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s12574_ll_h15_ab.png" group-title="United States" tvg-id="FOODP" tvc-guide-stationid="33648",Food Network (Pacific)
+#EXTINF:-1 tvg-chno="33648" tvg-name="Food Network (Pacific)" tvg-logo="https://logos.jesmann.com/foodp.png" group-title="United States" tvg-id="FOODP" tvc-guide-stationid="33648",Food Network (Pacific)
 http://example.local/USA-FOODP.ts
 #EXTINF:-1 tvg-chno="50747" tvg-name="Food Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s50747_ll_h15_ab.png" group-title="United States" tvg-id="FOODHD" tvc-guide-stationid="50747",Food Network HD
 http://example.local/USA-FOODHD.ts
-#EXTINF:-1 tvg-chno="82119" tvg-name="Food Network HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s50747_ll_h15_ab.png" group-title="United States" tvg-id="FOODPHD" tvc-guide-stationid="82119",Food Network HD (Pacific)
+#EXTINF:-1 tvg-chno="82119" tvg-name="Food Network HD (Pacific)" tvg-logo="https://logos.jesmann.com/foodphd.png" group-title="United States" tvg-id="FOODPHD" tvc-guide-stationid="82119",Food Network HD (Pacific)
 http://example.local/USA-FOODPHD.ts
 #EXTINF:-1 tvg-chno="116727" tvg-name="Food52" group-title="United States" tvg-id="XALFFT" tvc-guide-stationid="116727",Food52
 http://example.local/USA-XALFFT.ts
@@ -381,11 +389,11 @@ http://example.local/USA-FREMOV.ts
 http://example.local/USA-FSTV.ts
 #EXTINF:-1 tvg-chno="10093" tvg-name="Freeform" tvg-logo="https://zap2it.tmsimg.com/assets/s10093_ll_h15_ae.png" group-title="United States" tvg-id="FREEFRM" tvc-guide-stationid="10093",Freeform
 http://example.local/USA-FREEFRM.ts
-#EXTINF:-1 tvg-chno="12499" tvg-name="Freeform (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10093_h3_aa.png" group-title="United States" tvg-id="FREFRMP" tvc-guide-stationid="12499",Freeform (Pacific)
+#EXTINF:-1 tvg-chno="12499" tvg-name="Freeform (Pacific)" tvg-logo="https://logos.jesmann.com/frefrmp.png" group-title="United States" tvg-id="FREFRMP" tvc-guide-stationid="12499",Freeform (Pacific)
 http://example.local/USA-FREFRMP.ts
 #EXTINF:-1 tvg-chno="59615" tvg-name="Freeform HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59615_ll_h15_ae.png" group-title="United States" tvg-id="FREFMHD" tvc-guide-stationid="59615",Freeform HD
 http://example.local/USA-FREFMHD.ts
-#EXTINF:-1 tvg-chno="63324" tvg-name="Freeform HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s59615_h3_aa.png" group-title="United States" tvg-id="FRFMHDP" tvc-guide-stationid="63324",Freeform HD (Pacific)
+#EXTINF:-1 tvg-chno="63324" tvg-name="Freeform HD (Pacific)" tvg-logo="https://logos.jesmann.com/frfmhdp.png" group-title="United States" tvg-id="FRFMHDP" tvc-guide-stationid="63324",Freeform HD (Pacific)
 http://example.local/USA-FRFMHDP.ts
 #EXTINF:-1 tvg-chno="121949" tvg-name="Freeform Streaming East" tvg-logo="https://zap2it.tmsimg.com/assets/s10093_h3_aa.png" group-title="United States" tvg-id="FREESTR" tvc-guide-stationid="121949",Freeform Streaming East
 http://example.local/USA-FREESTR.ts
@@ -433,31 +441,31 @@ http://example.local/USA-VIZFSXL.ts
 http://example.local/USA-FUTURE.ts
 #EXTINF:-1 tvg-chno="14321" tvg-name="FX" tvg-logo="https://zap2it.tmsimg.com/assets/s14321_ll_h15_aa.png" group-title="United States" tvg-id="FX" tvc-guide-stationid="14321",FX
 http://example.local/USA-FX.ts
-#EXTINF:-1 tvg-chno="14753" tvg-name="FX (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s14321_ll_h15_aa.png" group-title="United States" tvg-id="FXP" tvc-guide-stationid="14753",FX (Pacific)
+#EXTINF:-1 tvg-chno="14753" tvg-name="FX (Pacific)" tvg-logo="https://logos.jesmann.com/fxp.png" group-title="United States" tvg-id="FXP" tvc-guide-stationid="14753",FX (Pacific)
 http://example.local/USA-FXP.ts
 #EXTINF:-1 tvg-chno="58574" tvg-name="FX HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58574_ll_h15_aa.png" group-title="United States" tvg-id="FXHD" tvc-guide-stationid="58574",FX HD
 http://example.local/USA-FXHD.ts
-#EXTINF:-1 tvg-chno="59814" tvg-name="FX HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s58574_ll_h15_aa.png" group-title="United States" tvg-id="FXPHD" tvc-guide-stationid="59814",FX HD (Pacific)
+#EXTINF:-1 tvg-chno="59814" tvg-name="FX HD (Pacific)" tvg-logo="https://logos.jesmann.com/fxphd.png" group-title="United States" tvg-id="FXPHD" tvc-guide-stationid="59814",FX HD (Pacific)
 http://example.local/USA-FXPHD.ts
 #EXTINF:-1 tvg-chno="70253" tvg-name="FX Movie Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s70253_ll_h15_aa.png" group-title="United States" tvg-id="FXMHD" tvc-guide-stationid="70253",FX Movie Channel HD
 http://example.local/USA-FXMHD.ts
 #EXTINF:-1 tvg-chno="14988" tvg-name="FXM" tvg-logo="https://zap2it.tmsimg.com/assets/s14988_ll_h15_aa.png" group-title="United States" tvg-id="FXM" tvc-guide-stationid="14988",FXM
 http://example.local/USA-FXM.ts
-#EXTINF:-1 tvg-chno="98487" tvg-name="FXM (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s14988_ll_h15_aa.png" group-title="United States" tvg-id="FXMP" tvc-guide-stationid="98487",FXM (Pacific)
+#EXTINF:-1 tvg-chno="98487" tvg-name="FXM (Pacific)" tvg-logo="https://logos.jesmann.com/fxmp.png" group-title="United States" tvg-id="FXMP" tvc-guide-stationid="98487",FXM (Pacific)
 http://example.local/USA-FXMP.ts
 #EXTINF:-1 tvg-chno="17927" tvg-name="FXX" tvg-logo="https://zap2it.tmsimg.com/assets/s17927_ll_h15_aa.png" group-title="United States" tvg-id="FXX" tvc-guide-stationid="17927",FXX
 http://example.local/USA-FXX.ts
-#EXTINF:-1 tvg-chno="82570" tvg-name="FXX (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s17927_ll_h15_aa.png" group-title="United States" tvg-id="FXXP" tvc-guide-stationid="82570",FXX (Pacific)
+#EXTINF:-1 tvg-chno="82570" tvg-name="FXX (Pacific)" tvg-logo="https://logos.jesmann.com/fxxp.png" group-title="United States" tvg-id="FXXP" tvc-guide-stationid="82570",FXX (Pacific)
 http://example.local/USA-FXXP.ts
 #EXTINF:-1 tvg-chno="66379" tvg-name="FXX HD" tvg-logo="https://zap2it.tmsimg.com/assets/s66379_ll_h9_aa.png" group-title="United States" tvg-id="FXXHD" tvc-guide-stationid="66379",FXX HD
 http://example.local/USA-FXXHD.ts
-#EXTINF:-1 tvg-chno="82571" tvg-name="FXX HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s66379_ll_h9_aa.png" group-title="United States" tvg-id="FXXPHD" tvc-guide-stationid="82571",FXX HD (Pacific)
+#EXTINF:-1 tvg-chno="82571" tvg-name="FXX HD (Pacific)" tvg-logo="https://logos.jesmann.com/fxxphd.png" group-title="United States" tvg-id="FXXPHD" tvc-guide-stationid="82571",FXX HD (Pacific)
 http://example.local/USA-FXXPHD.ts
 #EXTINF:-1 tvg-chno="20049" tvg-name="FYI" tvg-logo="https://zap2it.tmsimg.com/assets/s20049_ll_h15_aa.png" group-title="United States" tvg-id="FYI" tvc-guide-stationid="20049",FYI
 http://example.local/USA-FYI.ts
 #EXTINF:-1 tvg-chno="16834" tvg-name="FYI" tvg-logo="https://zap2it.tmsimg.com/assets/s16834_ll_h15_aa.png" group-title="United States" tvg-id="FYISD" tvc-guide-stationid="16834",FYI
 http://example.local/USA-FYISD.ts
-#EXTINF:-1 tvg-chno="92371" tvg-name="FYI (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16834_ll_h15_aa.png" group-title="United States" tvg-id="FYIP" tvc-guide-stationid="92371",FYI (Pacific)
+#EXTINF:-1 tvg-chno="92371" tvg-name="FYI (Pacific)" tvg-logo="https://logos.jesmann.com/fyip.png" group-title="United States" tvg-id="FYIP" tvc-guide-stationid="92371",FYI (Pacific)
 http://example.local/USA-FYIP.ts
 #EXTINF:-1 tvg-chno="58988" tvg-name="FYI Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58988_ll_h15_aa.png" group-title="United States" tvg-id="FYIHD" tvc-guide-stationid="58988",FYI Channel HD
 http://example.local/USA-FYIHD.ts
@@ -469,7 +477,7 @@ http://example.local/USA-GALANA.ts
 http://example.local/USA-GALA.ts
 #EXTINF:-1 tvg-chno="68367" tvg-name="Galavision Cable Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68367_ll_h15_ac.png" group-title="United States" tvg-id="GALAHD" tvc-guide-stationid="68367",Galavision Cable Network HD
 http://example.local/USA-GALAHD.ts
-#EXTINF:-1 tvg-chno="71021" tvg-name="Galavision Cable Network HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10222_ll_h15_ac.png" group-title="United States" tvg-id="GALAPHD" tvc-guide-stationid="71021",Galavision Cable Network HD (Pacific)
+#EXTINF:-1 tvg-chno="71021" tvg-name="Galavision Cable Network HD (Pacific)" tvg-logo="https://logos.jesmann.com/galaphd.png" group-title="United States" tvg-id="GALAPHD" tvc-guide-stationid="71021",Galavision Cable Network HD (Pacific)
 http://example.local/USA-GALAPHD.ts
 #EXTINF:-1 tvg-chno="95602" tvg-name="Game Plus HD" tvg-logo="https://zap2it.tmsimg.com/assets/s95602_ll_h15_ab.png" group-title="United States" tvg-id="GMPLH" tvc-guide-stationid="95602",Game Plus HD
 http://example.local/USA-GMPLH.ts
@@ -479,7 +487,7 @@ http://example.local/USA-GMSHCE.ts
 http://example.local/USA-VIZGSN.ts
 #EXTINF:-1 tvg-chno="14909" tvg-name="Game Show Network" tvg-logo="https://zap2it.tmsimg.com/assets/s14909_ll_h15_ad.png" group-title="United States" tvg-id="GSN" tvc-guide-stationid="14909",Game Show Network
 http://example.local/USA-GSN.ts
-#EXTINF:-1 tvg-chno="44382" tvg-name="Game Show Network (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s14909_ll_h15_ad.png" group-title="United States" tvg-id="GSNP" tvc-guide-stationid="44382",Game Show Network (Pacific)
+#EXTINF:-1 tvg-chno="44382" tvg-name="Game Show Network (Pacific)" tvg-logo="https://logos.jesmann.com/gsnp.png" group-title="United States" tvg-id="GSNP" tvc-guide-stationid="44382",Game Show Network (Pacific)
 http://example.local/USA-GSNP.ts
 #EXTINF:-1 tvg-chno="68827" tvg-name="Game Show Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68827_ll_h15_ab.png" group-title="United States" tvg-id="GSNHD" tvc-guide-stationid="68827",Game Show Network HD
 http://example.local/USA-GSNHD.ts
@@ -611,9 +619,9 @@ http://example.local/USA-GLIVHD.ts
 http://example.local/USA-GFAM.ts
 #EXTINF:-1 tvg-chno="82892" tvg-name="Great American Family HD" tvg-logo="https://zap2it.tmsimg.com/assets/s82892_ll_h15_ac.png" group-title="United States" tvg-id="GFAMHD" tvc-guide-stationid="82892",Great American Family HD
 http://example.local/USA-GFAMHD.ts
-#EXTINF:-1 tvg-chno="127641" tvg-name="Great American Family West" tvg-logo="https://zap2it.tmsimg.com/assets/s16062_ll_h15_ad.png" group-title="United States" tvg-id="GFAMP" tvc-guide-stationid="127641",Great American Family West
+#EXTINF:-1 tvg-chno="127641" tvg-name="Great American Family West" tvg-logo="https://logos.jesmann.com/gfamp.png" group-title="United States" tvg-id="GFAMP" tvc-guide-stationid="127641",Great American Family West
 http://example.local/USA-GFAMP.ts
-#EXTINF:-1 tvg-chno="127642" tvg-name="Great American Family West HD" tvg-logo="https://zap2it.tmsimg.com/assets/s82892_ll_h15_ac.png" group-title="United States" tvg-id="GFAMPHD" tvc-guide-stationid="127642",Great American Family West HD
+#EXTINF:-1 tvg-chno="127642" tvg-name="Great American Family West HD" tvg-logo="https://logos.jesmann.com/gfamphd.png" group-title="United States" tvg-id="GFAMPHD" tvc-guide-stationid="127642",Great American Family West HD
 http://example.local/USA-GFAMPHD.ts
 #EXTINF:-1 tvg-chno="138878" tvg-name="Great British Menu" tvg-logo="https://zap2it.tmsimg.com/assets/s138878_ll_h9_aa.png" group-title="United States" tvg-id="GBM" tvc-guide-stationid="138878",Great British Menu
 http://example.local/USA-GBM.ts
@@ -691,17 +699,17 @@ http://example.local/USA-HAUNT.ts
 http://example.local/USA-HBCUGO.ts
 #EXTINF:-1 tvg-chno="10240" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s10240_ll_h15_aa.png" group-title="United States" tvg-id="HBO" tvc-guide-stationid="10240",HBO
 http://example.local/USA-HBO.ts
-#EXTINF:-1 tvg-chno="10244" tvg-name="HBO (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10240_ll_h15_aa.png" group-title="United States" tvg-id="HBOP" tvc-guide-stationid="10244",HBO (Pacific)
+#EXTINF:-1 tvg-chno="10244" tvg-name="HBO (Pacific)" tvg-logo="https://logos.jesmann.com/hbop.png" group-title="United States" tvg-id="HBOP" tvc-guide-stationid="10244",HBO (Pacific)
 http://example.local/USA-HBOP.ts
 #EXTINF:-1 tvg-chno="59839" tvg-name="HBO Comedy HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59839_h3_aa.png" group-title="United States" tvg-id="HBOCHD" tvc-guide-stationid="59839",HBO Comedy HD
 http://example.local/USA-HBOCHD.ts
-#EXTINF:-1 tvg-chno="59841" tvg-name="HBO Comedy HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s59839_ll_h15_aa.png" group-title="United States" tvg-id="HBOCPHD" tvc-guide-stationid="59841",HBO Comedy HD (Pacific)
+#EXTINF:-1 tvg-chno="59841" tvg-name="HBO Comedy HD (Pacific)" tvg-logo="https://logos.jesmann.com/hbocphd.png" group-title="United States" tvg-id="HBOCPHD" tvc-guide-stationid="59841",HBO Comedy HD (Pacific)
 http://example.local/USA-HBOCPHD.ts
 #EXTINF:-1 tvg-chno="10243" tvg-name="HBO Drama" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBV2.png" group-title="United States" tvg-id="HBODRMA" tvc-guide-stationid="10243",HBO Drama
 http://example.local/USA-HBODRMA.ts
 #EXTINF:-1 tvg-chno="59363" tvg-name="HBO Drama HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBV6.png" group-title="United States" tvg-id="HBODRHD" tvc-guide-stationid="59363",HBO Drama HD
 http://example.local/USA-HBODRHD.ts
-#EXTINF:-1 tvg-chno="59366" tvg-name="HBO Drama HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBV6.png" group-title="United States" tvg-id="HBODHDP" tvc-guide-stationid="59366",HBO Drama HD (Pacific)
+#EXTINF:-1 tvg-chno="59366" tvg-name="HBO Drama HD (Pacific)" tvg-logo="https://logos.jesmann.com/hbodhdp.png" group-title="United States" tvg-id="HBODHDP" tvc-guide-stationid="59366",HBO Drama HD (Pacific)
 http://example.local/USA-HBODHDP.ts
 #EXTINF:-1 tvg-chno="19548" tvg-name="HBO East" tvg-logo="https://zap2it.tmsimg.com/assets/s19548_ll_h15_aa.png" group-title="United States" tvg-id="HBOHD" tvc-guide-stationid="19548",HBO East
 http://example.local/USA-HBOHD.ts
@@ -709,13 +717,13 @@ http://example.local/USA-HBOHD.ts
 http://example.local/USA-HBOHTS.ts
 #EXTINF:-1 tvg-chno="59368" tvg-name="HBO Hits HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="United States" tvg-id="HBOHTHD" tvc-guide-stationid="59368",HBO Hits HD
 http://example.local/USA-HBOHTHD.ts
-#EXTINF:-1 tvg-chno="59355" tvg-name="HBO Hits HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="United States" tvg-id="HBOHHDP" tvc-guide-stationid="59355",HBO Hits HD (Pacific)
+#EXTINF:-1 tvg-chno="59355" tvg-name="HBO Hits HD (Pacific)" tvg-logo="https://logos.jesmann.com/hbohhdp.png" group-title="United States" tvg-id="HBOHHDP" tvc-guide-stationid="59355",HBO Hits HD (Pacific)
 http://example.local/USA-HBOHHDP.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="United States" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/USA-HBOLAT.ts
 #EXTINF:-1 tvg-chno="59837" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_ba.png" group-title="United States" tvg-id="HBOLAHD" tvc-guide-stationid="59837",HBO Latino HD
 http://example.local/USA-HBOLAHD.ts
-#EXTINF:-1 tvg-chno="59849" tvg-name="HBO Latino HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_ll_h9_ab.png" group-title="United States" tvg-id="HBOLPHD" tvc-guide-stationid="59849",HBO Latino HD (Pacific)
+#EXTINF:-1 tvg-chno="59849" tvg-name="HBO Latino HD (Pacific)" tvg-logo="https://logos.jesmann.com/hbolphd.png" group-title="United States" tvg-id="HBOLPHD" tvc-guide-stationid="59849",HBO Latino HD (Pacific)
 http://example.local/USA-HBOLPHD.ts
 #EXTINF:-1 tvg-chno="115053" tvg-name="HBO MAX" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0025RSZ9.png" group-title="United States" tvg-id="HBMAX" tvc-guide-stationid="115053",HBO MAX
 http://example.local/USA-HBMAX.ts
@@ -731,9 +739,9 @@ http://example.local/USA-MLA4.ts
 http://example.local/USA-MLA5.ts
 #EXTINF:-1 tvg-chno="59845" tvg-name="HBO Movies HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBXT.png" group-title="United States" tvg-id="HBOMVHD" tvc-guide-stationid="59845",HBO Movies HD
 http://example.local/USA-HBOMVHD.ts
-#EXTINF:-1 tvg-chno="59847" tvg-name="HBO Movies HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBXT.png" group-title="United States" tvg-id="HBOMHDP" tvc-guide-stationid="59847",HBO Movies HD (Pacific)
+#EXTINF:-1 tvg-chno="59847" tvg-name="HBO Movies HD (Pacific)" tvg-logo="https://logos.jesmann.com/hbomhdp.png" group-title="United States" tvg-id="HBOMHDP" tvc-guide-stationid="59847",HBO Movies HD (Pacific)
 http://example.local/USA-HBOMHDP.ts
-#EXTINF:-1 tvg-chno="19566" tvg-name="HBO West" tvg-logo="https://zap2it.tmsimg.com/assets/s19548_h3_ba.png" group-title="United States" tvg-id="HBOHDP" tvc-guide-stationid="19566",HBO West
+#EXTINF:-1 tvg-chno="19566" tvg-name="HBO West" tvg-logo="https://logos.jesmann.com/hbohdp.png" group-title="United States" tvg-id="HBOHDP" tvc-guide-stationid="19566",HBO West
 http://example.local/USA-HBOHDP.ts
 #EXTINF:-1 tvg-chno="33668" tvg-name="HDNet Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s33668_ll_h15_ae.png" group-title="United States" tvg-id="HDNETMV" tvc-guide-stationid="33668",HDNet Movies
 http://example.local/USA-HDNETMV.ts
@@ -803,7 +811,7 @@ http://example.local/USA-HISTORY.ts
 http://example.local/USA-PPLUSHISUN.ts
 #EXTINF:-1 tvg-chno="135379" tvg-name="History & Warfare" tvg-logo="https://zap2it.tmsimg.com/assets/s135379_ll_h15_ac.png" group-title="United States" tvg-id="HWNEST1" tvc-guide-stationid="135379",History & Warfare
 http://example.local/USA-HWNEST1.ts
-#EXTINF:-1 tvg-chno="21762" tvg-name="History (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s14771_ll_h15_af.png" group-title="United States" tvg-id="HISTP" tvc-guide-stationid="21762",History (Pacific)
+#EXTINF:-1 tvg-chno="21762" tvg-name="History (Pacific)" tvg-logo="https://logos.jesmann.com/histp.png" group-title="United States" tvg-id="HISTP" tvc-guide-stationid="21762",History (Pacific)
 http://example.local/USA-HISTP.ts
 #EXTINF:-1 tvg-chno="43362" tvg-name="History Channel En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s105678_ll_h15_ab.png" group-title="United States" tvg-id="HISTE" tvc-guide-stationid="43362",History Channel En Español
 http://example.local/USA-HISTE.ts
@@ -849,11 +857,11 @@ http://example.local/USA-HPFM.ts
 http://example.local/USA-HGTHD.ts
 #EXTINF:-1 tvg-chno="14902" tvg-name="Home & Garden Television" tvg-logo="https://zap2it.tmsimg.com/assets/s14902_ll_h15_ab.png" group-title="United States" tvg-id="HGTV" tvc-guide-stationid="14902",Home & Garden Television
 http://example.local/USA-HGTV.ts
-#EXTINF:-1 tvg-chno="34215" tvg-name="Home & Garden Television (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s14902_h3_aa.png" group-title="United States" tvg-id="HGTVP" tvc-guide-stationid="34215",Home & Garden Television (Pacific)
+#EXTINF:-1 tvg-chno="34215" tvg-name="Home & Garden Television (Pacific)" tvg-logo="https://logos.jesmann.com/hgtvp.png" group-title="United States" tvg-id="HGTVP" tvc-guide-stationid="34215",Home & Garden Television (Pacific)
 http://example.local/USA-HGTVP.ts
 #EXTINF:-1 tvg-chno="49788" tvg-name="Home & Garden Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49788_ll_h15_ab.png" group-title="United States" tvg-id="HGTVD" tvc-guide-stationid="49788",Home & Garden Television HD
 http://example.local/USA-HGTVD.ts
-#EXTINF:-1 tvg-chno="87317" tvg-name="Home & Garden Television HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s49788_ll_h15_ab.png" group-title="United States" tvg-id="HGTVPHD" tvc-guide-stationid="87317",Home & Garden Television HD (Pacific)
+#EXTINF:-1 tvg-chno="87317" tvg-name="Home & Garden Television HD (Pacific)" tvg-logo="https://logos.jesmann.com/hgtvphd.png" group-title="United States" tvg-id="HGTVPHD" tvc-guide-stationid="87317",Home & Garden Television HD (Pacific)
 http://example.local/USA-HGTVPHD.ts
 #EXTINF:-1 tvg-chno="117290" tvg-name="Home Made Nation" tvg-logo="https://zap2it.tmsimg.com/assets/s117290_ll_h15_ac.png" group-title="United States" tvg-id="PTVHOME" tvc-guide-stationid="117290",Home Made Nation
 http://example.local/USA-PTVHOME.ts
@@ -933,7 +941,7 @@ http://example.local/USA-VIZICERT.ts
 http://example.local/USA-ICONCRH.ts
 #EXTINF:-1 tvg-chno="14873" tvg-name="IFC" tvg-logo="https://zap2it.tmsimg.com/assets/s14873_ll_h15_ac.png" group-title="United States" tvg-id="IFC" tvc-guide-stationid="14873",IFC
 http://example.local/USA-IFC.ts
-#EXTINF:-1 tvg-chno="61866" tvg-name="IFC (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s14873_ll_h15_ac.png" group-title="United States" tvg-id="IFCP" tvc-guide-stationid="61866",IFC (Pacific)
+#EXTINF:-1 tvg-chno="61866" tvg-name="IFC (Pacific)" tvg-logo="https://logos.jesmann.com/ifcp.png" group-title="United States" tvg-id="IFCP" tvc-guide-stationid="61866",IFC (Pacific)
 http://example.local/USA-IFCP.ts
 #EXTINF:-1 tvg-chno="115677" tvg-name="IFC Films Picks" tvg-logo="https://zap2it.tmsimg.com/assets/s115677_ll_h15_ab.png" group-title="United States" tvg-id="IFCFILM" tvc-guide-stationid="115677",IFC Films Picks
 http://example.local/USA-IFCFILM.ts
@@ -993,7 +1001,7 @@ http://example.local/USA-VIZINV.ts
 http://example.local/USA-IDISC.ts
 #EXTINF:-1 tvg-chno="65342" tvg-name="Investigation Discovery HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65342_ll_h15_ac.png" group-title="United States" tvg-id="IDHD" tvc-guide-stationid="65342",Investigation Discovery HD
 http://example.local/USA-IDHD.ts
-#EXTINF:-1 tvg-chno="80309" tvg-name="Investigation Discovery HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s65342_ll_h15_ac.png" group-title="United States" tvg-id="IDPACHD" tvc-guide-stationid="80309",Investigation Discovery HD (Pacific)
+#EXTINF:-1 tvg-chno="80309" tvg-name="Investigation Discovery HD (Pacific)" tvg-logo="https://logos.jesmann.com/idpachd.png" group-title="United States" tvg-id="IDPACHD" tvc-guide-stationid="80309",Investigation Discovery HD (Pacific)
 http://example.local/USA-IDPACHD.ts
 #EXTINF:-1 tvg-chno="65973" tvg-name="Investigation Discovery Pan Regional" tvg-logo="https://zap2it.tmsimg.com/assets/s65973_ll_h15_ac.png" group-title="United States" tvg-id="INVDIPR" tvc-guide-stationid="65973",Investigation Discovery Pan Regional
 http://example.local/USA-INVDIPR.ts
@@ -1021,11 +1029,3 @@ http://example.local/USA-VIZIONP.ts
 http://example.local/USA-ION.ts
 #EXTINF:-1 tvg-chno="18774" tvg-name="ION Television Satellite Feed (ION)" tvg-logo="https://zap2it.tmsimg.com/assets/s18774_ll_h15_ad.png" group-title="United States" tvg-id="IONSAT" tvc-guide-stationid="18774",ION Television Satellite Feed (ION)
 http://example.local/USA-IONSAT.ts
-#EXTINF:-1 tvg-chno="147882" tvg-name="Iron Chef" tvg-logo="https://zap2it.tmsimg.com/assets/s147882_ll_h15_aa.png" group-title="United States" tvg-id="XMVIC" tvc-guide-stationid="147882",Iron Chef
-http://example.local/USA-XMVIC.ts
-#EXTINF:-1 tvg-chno="182349" tvg-name="Island Vibes" group-title="United States" tvg-id="ISLVIBE" tvc-guide-stationid="182349",Island Vibes
-http://example.local/USA-ISLVIBE.ts
-#EXTINF:-1 tvg-chno="147302" tvg-name="Isn't It Romantic" tvg-logo="https://zap2it.tmsimg.com/assets/s147302_ll_h15_ab.png" group-title="United States" tvg-id="AMZADH" tvc-guide-stationid="147302",Isn't It Romantic
-http://example.local/USA-AMZADH.ts
-#EXTINF:-1 tvg-chno="135519" tvg-name="It's a Vibe" group-title="United States" tvg-id="ITSAVB" tvc-guide-stationid="135519",It's a Vibe
-http://example.local/USA-ITSAVB.ts

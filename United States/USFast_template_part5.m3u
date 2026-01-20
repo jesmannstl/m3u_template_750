@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="United States" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/USA-LMN.ts
+#EXTINF:-1 tvg-chno="19192" tvg-name="LMN (Pacific)" tvg-logo="https://logos.jesmann.com/lmnp.png" group-title="United States" tvg-id="LMNP" tvc-guide-stationid="19192",LMN (Pacific)
+http://example.local/USA-LMNP.ts
+#EXTINF:-1 tvg-chno="55887" tvg-name="LMN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55887_ll_h15_ag.png" group-title="United States" tvg-id="LMNHD" tvc-guide-stationid="55887",LMN HD
+http://example.local/USA-LMNHD.ts
+#EXTINF:-1 tvg-chno="92261" tvg-name="LMN Stream" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="United States" tvg-id="LMNSTR" tvc-guide-stationid="92261",LMN Stream
+http://example.local/USA-LMNSTR.ts
 #EXTINF:-1 tvg-chno="124015" tvg-name="Lo Mejor de la Liga MX" tvg-logo="https://zap2it.tmsimg.com/assets/s124015_ll_h15_ab.png" group-title="United States" tvg-id="LOMLIG" tvc-guide-stationid="124015",Lo Mejor de la Liga MX
 http://example.local/USA-LOMLIG.ts
 #EXTINF:-1 tvg-chno="145183" tvg-name="Lo Mejor de Telemundo" tvg-logo="https://zap2it.tmsimg.com/assets/s145183_ll_h15_aa.png" group-title="United States" tvg-id="XCCLMT" tvc-guide-stationid="145183",Lo Mejor de Telemundo
@@ -87,11 +95,11 @@ http://example.local/USA-VIZMAG.ts
 http://example.local/USA-MAGNW.ts
 #EXTINF:-1 tvg-chno="18544" tvg-name="Magnolia Network" tvg-logo="https://zap2it.tmsimg.com/assets/s18544_ll_h15_ad.png" group-title="United States" tvg-id="MAGN" tvc-guide-stationid="18544",Magnolia Network
 http://example.local/USA-MAGN.ts
-#EXTINF:-1 tvg-chno="122080" tvg-name="Magnolia Network (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s18544_h3_ba.png" group-title="United States" tvg-id="MAGNP" tvc-guide-stationid="122080",Magnolia Network (Pacific)
+#EXTINF:-1 tvg-chno="122080" tvg-name="Magnolia Network (Pacific)" tvg-logo="https://logos.jesmann.com/magnp.png" group-title="United States" tvg-id="MAGNP" tvc-guide-stationid="122080",Magnolia Network (Pacific)
 http://example.local/USA-MAGNP.ts
 #EXTINF:-1 tvg-chno="67375" tvg-name="Magnolia Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67375_ll_h15_ad.png" group-title="United States" tvg-id="MAGNHD" tvc-guide-stationid="67375",Magnolia Network HD
 http://example.local/USA-MAGNHD.ts
-#EXTINF:-1 tvg-chno="122081" tvg-name="Magnolia Network HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s18544_ll_h15_ad.png" group-title="United States" tvg-id="MAGNPHD" tvc-guide-stationid="122081",Magnolia Network HD (Pacific)
+#EXTINF:-1 tvg-chno="122081" tvg-name="Magnolia Network HD (Pacific)" tvg-logo="https://logos.jesmann.com/magnphd.png" group-title="United States" tvg-id="MAGNPHD" tvc-guide-stationid="122081",Magnolia Network HD (Pacific)
 http://example.local/USA-MAGNPHD.ts
 #EXTINF:-1 tvg-chno="122994" tvg-name="Manorama News" tvg-logo="https://zap2it.tmsimg.com/assets/s122994_ll_h15_aa.png" group-title="United States" tvg-id="MNINDAMZ" tvc-guide-stationid="122994",Manorama News
 http://example.local/USA-MNINDAMZ.ts
@@ -181,7 +189,7 @@ http://example.local/USA-MGMDRHD.ts
 http://example.local/USA-MGM.ts
 #EXTINF:-1 tvg-chno="65687" tvg-name="MGM+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65687_ll_h15_ag.png" group-title="United States" tvg-id="MGMHD" tvc-guide-stationid="65687",MGM+ HD
 http://example.local/USA-MGMHD.ts
-#EXTINF:-1 tvg-chno="66075" tvg-name="MGM+ HD West" tvg-logo="https://zap2it.tmsimg.com/assets/s65687_ll_h15_ag.png" group-title="United States" tvg-id="MGMWHD" tvc-guide-stationid="66075",MGM+ HD West
+#EXTINF:-1 tvg-chno="66075" tvg-name="MGM+ HD West" tvg-logo="https://logos.jesmann.com/mgmwhd.png" group-title="United States" tvg-id="MGMWHD" tvc-guide-stationid="66075",MGM+ HD West
 http://example.local/USA-MGMWHD.ts
 #EXTINF:-1 tvg-chno="73075" tvg-name="MGM+ Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s73075_ll_h15_ad.png" group-title="United States" tvg-id="MGMHIT" tvc-guide-stationid="73075",MGM+ Hits
 http://example.local/USA-MGMHIT.ts
@@ -335,14 +343,6 @@ http://example.local/USA-PTVMTVS.ts
 http://example.local/USA-MOBBBRA.ts
 #EXTINF:-1 tvg-chno="187515" tvg-name="MotoGP Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028DRTM.png" group-title="United States" tvg-id="MTGP" tvc-guide-stationid="187515",MotoGP Channel
 http://example.local/USA-MTGP.ts
-#EXTINF:-1 tvg-chno="117331" tvg-name="Discovery Turbo (West Coast Feed)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="United States" tvg-id="MTPHD" tvc-guide-stationid="117331",Discovery Turbo (West Coast Feed)
-http://example.local/USA-MTPHD.ts
-#EXTINF:-1 tvg-chno="92052" tvg-name="DISCOVERY TURBO" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTYH.png" group-title="United States" tvg-id="MT" tvc-guide-stationid="92052",DISCOVERY TURBO
-http://example.local/USA-MT.ts
-#EXTINF:-1 tvg-chno="126737" tvg-name="DISCOVERY TURBO TV" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RZ26T.png" group-title="United States" tvg-id="MTFAST" tvc-guide-stationid="126737",DISCOVERY TURBO TV
-http://example.local/USA-MTFAST.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="United States" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
-http://example.local/USA-MTHD.ts
 #EXTINF:-1 tvg-chno="152864" tvg-name="MotorTrend VELOZ TV" tvg-logo="https://zap2it.tmsimg.com/assets/s152864_ll_h15_aa.png" group-title="United States" tvg-id="MTVELOZ" tvc-guide-stationid="152864",MotorTrend VELOZ TV
 http://example.local/USA-MTVELOZ.ts
 #EXTINF:-1 tvg-chno="149475" tvg-name="Motorvision" group-title="United States" tvg-id="MVFR" tvc-guide-stationid="149475",Motorvision
@@ -393,17 +393,17 @@ http://example.local/USA-MSGZONE.ts
 http://example.local/USA-VIZMST3.ts
 #EXTINF:-1 tvg-chno="10986" tvg-name="MTV - Music Television" tvg-logo="https://zap2it.tmsimg.com/assets/s10986_ll_h15_aa.png" group-title="United States" tvg-id="MTV" tvc-guide-stationid="10986",MTV - Music Television
 http://example.local/USA-MTV.ts
-#EXTINF:-1 tvg-chno="10987" tvg-name="MTV - Music Television (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10986_ll_h15_aa.png" group-title="United States" tvg-id="MTVP" tvc-guide-stationid="10987",MTV - Music Television (Pacific)
+#EXTINF:-1 tvg-chno="10987" tvg-name="MTV - Music Television (Pacific)" tvg-logo="https://logos.jesmann.com/mtvp.png" group-title="United States" tvg-id="MTVP" tvc-guide-stationid="10987",MTV - Music Television (Pacific)
 http://example.local/USA-MTVP.ts
 #EXTINF:-1 tvg-chno="60964" tvg-name="MTV - Music Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60964_ll_h15_aa.png" group-title="United States" tvg-id="MTVHD" tvc-guide-stationid="60964",MTV - Music Television HD
 http://example.local/USA-MTVHD.ts
-#EXTINF:-1 tvg-chno="64630" tvg-name="MTV - Music Television HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s60964_h3_ba.png" group-title="United States" tvg-id="MTVPHD" tvc-guide-stationid="64630",MTV - Music Television HD (Pacific)
+#EXTINF:-1 tvg-chno="64630" tvg-name="MTV - Music Television HD (Pacific)" tvg-logo="https://logos.jesmann.com/mtvphd.png" group-title="United States" tvg-id="MTVPHD" tvc-guide-stationid="64630",MTV - Music Television HD (Pacific)
 http://example.local/USA-MTVPHD.ts
 #EXTINF:-1 tvg-chno="121584" tvg-name="MTV Beirut" group-title="United States" tvg-id="MTVBRT" tvc-guide-stationid="121584",MTV Beirut
 http://example.local/USA-MTVBRT.ts
 #EXTINF:-1 tvg-chno="22561" tvg-name="MTV Classic" tvg-logo="https://zap2it.tmsimg.com/assets/s22561_ll_h15_ad.png" group-title="United States" tvg-id="MTVCLAS" tvc-guide-stationid="22561",MTV Classic
 http://example.local/USA-MTVCLAS.ts
-#EXTINF:-1 tvg-chno="59054" tvg-name="MTV Classic (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s22561_ll_h15_ad.png" group-title="United States" tvg-id="MTVCLAP" tvc-guide-stationid="59054",MTV Classic (Pacific)
+#EXTINF:-1 tvg-chno="59054" tvg-name="MTV Classic (Pacific)" tvg-logo="https://logos.jesmann.com/mtvclap.png" group-title="United States" tvg-id="MTVCLAP" tvc-guide-stationid="59054",MTV Classic (Pacific)
 http://example.local/USA-MTVCLAP.ts
 #EXTINF:-1 tvg-chno="92240" tvg-name="MTV Classic HD" group-title="United States" tvg-id="MTVCLHD" tvc-guide-stationid="92240",MTV Classic HD
 http://example.local/USA-MTVCLHD.ts
@@ -415,9 +415,9 @@ http://example.local/USA-PTVMTV.ts
 http://example.local/USA-PTVWILD.ts
 #EXTINF:-1 tvg-chno="44228" tvg-name="mtv-U" tvg-logo="https://zap2it.tmsimg.com/assets/s44228_ll_h15_aa.png" group-title="United States" tvg-id="MTVU" tvc-guide-stationid="44228",mtv-U
 http://example.local/USA-MTVU.ts
-#EXTINF:-1 tvg-chno="48129" tvg-name="MTV2 West" tvg-logo="https://zap2it.tmsimg.com/assets/s16361_ll_h15_aa.png" group-title="United States" tvg-id="MTV2P" tvc-guide-stationid="48129",MTV2 West
+#EXTINF:-1 tvg-chno="48129" tvg-name="MTV2 West" tvg-logo="https://logos.jesmann.com/mtv2p.png" group-title="United States" tvg-id="MTV2P" tvc-guide-stationid="48129",MTV2 West
 http://example.local/USA-MTV2P.ts
-#EXTINF:-1 tvg-chno="75506" tvg-name="MTV2 West HD" tvg-logo="https://zap2it.tmsimg.com/assets/s16361_ll_h15_aa.png" group-title="United States" tvg-id="MTV2PHD" tvc-guide-stationid="75506",MTV2 West HD
+#EXTINF:-1 tvg-chno="75506" tvg-name="MTV2 West HD" tvg-logo="https://logos.jesmann.com/mtv2phd.png" group-title="United States" tvg-id="MTV2PHD" tvc-guide-stationid="75506",MTV2 West HD
 http://example.local/USA-MTV2PHD.ts
 #EXTINF:-1 tvg-chno="16361" tvg-name="MTV2: Music Television" tvg-logo="https://zap2it.tmsimg.com/assets/s16361_ll_h15_aa.png" group-title="United States" tvg-id="MTV2" tvc-guide-stationid="16361",MTV2: Music Television
 http://example.local/USA-MTV2.ts
@@ -589,9 +589,9 @@ http://example.local/USA-NGMUNDO.ts
 http://example.local/USA-NGMUNDH.ts
 #EXTINF:-1 tvg-chno="49438" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49438_h3_aa.png" group-title="United States" tvg-id="NGCHD" tvc-guide-stationid="49438",National Geographic HD
 http://example.local/USA-NGCHD.ts
-#EXTINF:-1 tvg-chno="71601" tvg-name="National Geographic HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s49438_ll_h15_ab.png" group-title="United States" tvg-id="NGCPHD" tvc-guide-stationid="71601",National Geographic HD (Pacific)
+#EXTINF:-1 tvg-chno="71601" tvg-name="National Geographic HD (Pacific)" tvg-logo="https://logos.jesmann.com/ngcphd.png" group-title="United States" tvg-id="NGCPHD" tvc-guide-stationid="71601",National Geographic HD (Pacific)
 http://example.local/USA-NGCPHD.ts
-#EXTINF:-1 tvg-chno="71595" tvg-name="National Geographic Pacific" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="United States" tvg-id="NGCP" tvc-guide-stationid="71595",National Geographic Pacific
+#EXTINF:-1 tvg-chno="71595" tvg-name="National Geographic Pacific" tvg-logo="https://logos.jesmann.com/ngcp.png" group-title="United States" tvg-id="NGCP" tvc-guide-stationid="71595",National Geographic Pacific
 http://example.local/USA-NGCP.ts
 #EXTINF:-1 tvg-chno="160651" tvg-name="National Geographic Sharks" tvg-logo="https://zap2it.tmsimg.com/assets/s160651_ll_h9_aa.png" group-title="United States" tvg-id="DISNGS" tvc-guide-stationid="160651",National Geographic Sharks
 http://example.local/USA-DISNGS.ts
@@ -805,7 +805,7 @@ http://example.local/USA-NBCSPPF.ts
 http://example.local/USA-NBCSPPS.ts
 #EXTINF:-1 tvg-chno="198075" tvg-name="NBC Sports Philadelphia+ (Phillies Only)" tvg-logo="https://zap2it.tmsimg.com/assets/s88829_ll_h15_ac.png" group-title="United States" tvg-id="NBCSPP" tvc-guide-stationid="198075",NBC Sports Philadelphia+ (Phillies Only)
 http://example.local/USA-NBCSPP.ts
-#EXTINF:-1 tvg-chno="109719" tvg-name="NBC West Stream" tvg-logo="https://zap2it.tmsimg.com/assets/s28717_ll_h15_ad.png" group-title="United States" tvg-id="NBCWSTR" tvc-guide-stationid="109719",NBC West Stream
+#EXTINF:-1 tvg-chno="109719" tvg-name="NBC West Stream" tvg-logo="https://logos.jesmann.com/nbcwstr.png" group-title="United States" tvg-id="NBCWSTR" tvc-guide-stationid="109719",NBC West Stream
 http://example.local/USA-NBCWSTR.ts
 #EXTINF:-1 tvg-chno="154942" tvg-name="NBCSN Game 1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002H5F1T.png" group-title="United States" tvg-id="NBCSN2" tvc-guide-stationid="154942",NBCSN Game 1
 http://example.local/USA-NBCSN2.ts

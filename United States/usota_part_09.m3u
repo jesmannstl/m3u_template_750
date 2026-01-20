@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="KSPSDT" tvg-name="KSPS-DT (PBS)" tvg-logo="https://logos.jesmann.com/kspsdt.png" tvg-chno="34339" tvc-guide-stationid="34339" group-title="",KSPS-DT (PBS)
+http://example.local/KSPSDT.ts
+#EXTINF:-1 tvg-id="KSPSDT2" tvg-name="KSPS-DT2 (WORLD)" tvg-logo="https://zap2it.tmsimg.com/assets/s56725_ll_h15_ab.png" tvg-chno="47256" tvc-guide-stationid="47256" group-title="",KSPS-DT2 (WORLD)
+http://example.local/KSPSDT2.ts
+#EXTINF:-1 tvg-id="KSPSDT3" tvg-name="KSPS-DT3 (CREATE)" tvg-logo="https://zap2it.tmsimg.com/assets/s48990_ll_h15_aa.png" tvg-chno="59247" tvc-guide-stationid="59247" group-title="",KSPS-DT3 (CREATE)
+http://example.local/KSPSDT3.ts
 #EXTINF:-1 tvg-id="KSPSDT4" tvg-name="KSPS-DT4 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_ll_h15_ac.png" tvg-chno="105612" tvc-guide-stationid="105612" group-title="",KSPS-DT4 (HD06)
 http://example.local/KSPSDT4.ts
 #EXTINF:-1 tvg-id="KSTPDT3" tvg-name="KSPT-DT3 (HEROICN)" tvg-logo="https://zap2it.tmsimg.com/assets/s90401_ll_h15_ad.png" tvg-chno="46095" tvc-guide-stationid="46095" group-title="",KSPT-DT3 (HEROICN)
@@ -911,7 +917,7 @@ http://example.local/KTVXDT3.ts
 http://example.local/KTVXDT4.ts
 #EXTINF:-1 tvg-id="KTVZDT" tvg-name="KTVZ-DT (NBC)" tvg-logo="https://logos.jesmann.com/ktvzdt.png" tvg-chno="34742" tvc-guide-stationid="34742" group-title="",KTVZ-DT (NBC)
 http://example.local/KTVZDT.ts
-#EXTINF:-1 tvg-id="KTVZDT2" tvg-name="KTVZ-DT2 (CWPLUS)" tvg-logo="https://zap2it.tmsimg.com/assets/s18749_ll_h15_ad.png" tvg-chno="51963" tvc-guide-stationid="51963" group-title="",KTVZ-DT2 (CWPLUS)
+#EXTINF:-1 tvg-id="KTVZDT2" tvg-name="KTVZ-DT2 (CWPLUS)" tvg-logo="https://logos.jesmann.com/ktvzdt2.png" tvg-chno="51963" tvc-guide-stationid="51963" group-title="",KTVZ-DT2 (CWPLUS)
 http://example.local/KTVZDT2.ts
 #EXTINF:-1 tvg-id="KTVZDT3" tvg-name="KTVZ-DT3 (FOX)" tvg-logo="https://logos.jesmann.com/ktvzdt3.png" tvg-chno="55654" tvc-guide-stationid="55654" group-title="",KTVZ-DT3 (FOX)
 http://example.local/KTVZDT3.ts
@@ -1013,9 +1019,3 @@ http://example.local/KUATDT3.ts
 http://example.local/KUBEDT.ts
 #EXTINF:-1 tvg-id="KUBEDT2" tvg-name="KUBE-DT2 (ACE)" tvg-logo="https://zap2it.tmsimg.com/assets/s112576_h3_ba.png" tvg-chno="72008" tvc-guide-stationid="72008" group-title="",KUBE-DT2 (ACE)
 http://example.local/KUBEDT2.ts
-#EXTINF:-1 tvg-id="KUBEDT3" tvg-name="KUBE-DT3 (SBND)" tvg-logo="https://zap2it.tmsimg.com/assets/s67676_ll_h15_aa.png" tvg-chno="68141" tvc-guide-stationid="68141" group-title="",KUBE-DT3 (SBND)
-http://example.local/KUBEDT3.ts
-#EXTINF:-1 tvg-id="KUBEDT4" tvg-name="KUBE-DT4 (SHOPLC)" tvg-logo="https://zap2it.tmsimg.com/assets/s56032_ll_h15_ac.png" tvg-chno="74336" tvc-guide-stationid="74336" group-title="",KUBE-DT4 (SHOPLC)
-http://example.local/KUBEDT4.ts
-#EXTINF:-1 tvg-id="KUBEDT5" tvg-name="KUBE-DT5 (RNNGRP)" tvg-logo="https://zap2it.tmsimg.com/assets/s115515_ll_h9_ab.png" tvg-chno="72512" tvc-guide-stationid="72512" group-title="",KUBE-DT5 (RNNGRP)
-http://example.local/KUBEDT5.ts
