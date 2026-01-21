@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="104514" tvg-name="gecko VIC" tvg-logo="https://zap2it.tmsimg.com/assets/s104511_h3_aa.png" group-title="Australia" tvg-id="SPVIANZ" tvc-guide-stationid="104514",gecko VIC
+http://example.local/AUS-SPVIANZ.ts
+#EXTINF:-1 tvg-chno="104515" tvg-name="gecko WA" tvg-logo="https://zap2it.tmsimg.com/assets/s104511_h3_aa.png" group-title="Australia" tvg-id="SPWAANZ" tvc-guide-stationid="104515",gecko WA
+http://example.local/AUS-SPWAANZ.ts
+#EXTINF:-1 tvg-chno="103220" tvg-name="GOOD." tvg-logo="https://zap2it.tmsimg.com/assets/s103220_ll_h9_aa.png" group-title="Australia" tvg-id="ACCANZ" tvc-guide-stationid="103220",GOOD.
+http://example.local/AUS-ACCANZ.ts
 #EXTINF:-1 tvg-chno="104107" tvg-name="Imparja GEM NSW (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104107_ll_h9_aa.png" group-title="Australia" tvg-id="GINANZ" tvc-guide-stationid="104107",Imparja GEM NSW (NINE)
 http://example.local/AUS-GINANZ.ts
 #EXTINF:-1 tvg-chno="104110" tvg-name="Imparja GEM Qld (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104110_ll_h9_aa.png" group-title="Australia" tvg-id="GIQANZ" tvc-guide-stationid="104110",Imparja GEM Qld (NINE)
@@ -69,8 +75,6 @@ http://example.local/AUS-NBGCANZ.ts
 http://example.local/AUS-NBNANZ.ts
 #EXTINF:-1 tvg-chno="103320" tvg-name="NHK World" tvg-logo="https://zap2it.tmsimg.com/assets/s103320_ll_h15_aa.png" group-title="Australia" tvg-id="NHKWANZ" tvc-guide-stationid="103320",NHK World
 http://example.local/AUS-NHKWANZ.ts
-#EXTINF:-1 tvg-chno="103322" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s103322_ll_h15_ab.png" group-title="Australia" tvg-id="NCKANZ" tvc-guide-stationid="103322",Nickelodeon
-http://example.local/AUS-NCKANZ.ts
 #EXTINF:-1 tvg-chno="115988" tvg-name="Nickelodeon Adelaide (NETTN)" tvg-logo="https://zap2it.tmsimg.com/assets/s115988_ll_h9_ag.png" group-title="Australia" tvg-id="SHADANZ" tvc-guide-stationid="115988",Nickelodeon Adelaide (NETTN)
 http://example.local/AUS-SHADANZ.ts
 #EXTINF:-1 tvg-chno="115989" tvg-name="Nickelodeon Brisbane (NETTN)" tvg-logo="https://zap2it.tmsimg.com/assets/s115989_ll_h9_ag.png" group-title="Australia" tvg-id="SHBRANZ" tvc-guide-stationid="115989",Nickelodeon Brisbane (NETTN)
@@ -351,14 +355,14 @@ http://example.local/AUS-SHOHANZ.ts
 http://example.local/AUS-APACANZ.ts
 #EXTINF:-1 tvg-chno="103132" tvg-name="Sky News HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103132_ll_h15_aa.png" group-title="Australia" tvg-id="SNWHANZ" tvc-guide-stationid="103132",Sky News HD
 http://example.local/AUS-SNWHANZ.ts
-#EXTINF:-1 tvg-chno="104489" tvg-name="Sky News Regional" tvg-logo="https://zap2it.tmsimg.com/assets/s104489_ll_h15_ad.png" group-title="Australia" tvg-id="ASPQANZ" tvc-guide-stationid="104489",Sky News Regional
-http://example.local/AUS-ASPQANZ.ts
 #EXTINF:-1 tvg-chno="104492" tvg-name="Sky News Regional" tvg-logo="https://zap2it.tmsimg.com/assets/s104492_ll_h15_ac.png" group-title="Australia" tvg-id="ASPVANZ" tvc-guide-stationid="104492",Sky News Regional
 http://example.local/AUS-ASPVANZ.ts
-#EXTINF:-1 tvg-chno="109792" tvg-name="Sky News Regional" tvg-logo="https://zap2it.tmsimg.com/assets/s109792_ll_h15_ab.png" group-title="Australia" tvg-id="ANZYNNS" tvc-guide-stationid="109792",Sky News Regional
-http://example.local/AUS-ANZYNNS.ts
+#EXTINF:-1 tvg-chno="104489" tvg-name="Sky News Regional" tvg-logo="https://zap2it.tmsimg.com/assets/s104489_ll_h15_ad.png" group-title="Australia" tvg-id="ASPQANZ" tvc-guide-stationid="104489",Sky News Regional
+http://example.local/AUS-ASPQANZ.ts
 #EXTINF:-1 tvg-chno="104488" tvg-name="Sky News Regional" tvg-logo="https://zap2it.tmsimg.com/assets/s104488_ll_h15_ac.png" group-title="Australia" tvg-id="ASPNANZ" tvc-guide-stationid="104488",Sky News Regional
 http://example.local/AUS-ASPNANZ.ts
+#EXTINF:-1 tvg-chno="109792" tvg-name="Sky News Regional" tvg-logo="https://zap2it.tmsimg.com/assets/s109792_ll_h15_ab.png" group-title="Australia" tvg-id="ANZYNNS" tvc-guide-stationid="109792",Sky News Regional
+http://example.local/AUS-ANZYNNS.ts
 #EXTINF:-1 tvg-chno="111798" tvg-name="Sky News UK HD" tvg-logo="https://zap2it.tmsimg.com/assets/s111798_ll_h15_ab.png" group-title="Australia" tvg-id="SUKHDANZ" tvc-guide-stationid="111798",Sky News UK HD
 http://example.local/AUS-SUKHDANZ.ts
 #EXTINF:-1 tvg-chno="103137" tvg-name="SKY News Weather" tvg-logo="https://zap2it.tmsimg.com/assets/s103137_ll_h15_ab.png" group-title="Australia" tvg-id="SWTHANZ" tvc-guide-stationid="103137",SKY News Weather

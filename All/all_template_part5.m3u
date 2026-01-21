@@ -1,72 +1,132 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="United States" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/USA-ANT3I.ts
-#EXTINF:-1 tvg-chno="83230" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s83230_ll_h9_aa.png" group-title="United States" tvg-id="ANT3IHD" tvc-guide-stationid="83230",Antena 3 Internacional
-http://example.local/USA-ANT3IHD.ts
-#EXTINF:-1 tvg-chno="100024" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s100024_ll_h9_aa.png" group-title="United States" tvg-id="ANT3HEN" tvc-guide-stationid="100024",Antena 3 Internacional
-http://example.local/USA-ANT3HEN.ts
-#EXTINF:-1 tvg-chno="83230" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s83230_ll_h9_aa.png" group-title="Mexico" tvg-id="ANT3IHD" tvc-guide-stationid="83230",Antena 3 Internacional
-http://example.local/MEX-ANT3IHD.ts
+#EXTINF:-1 tvg-chno="110084" tvg-name="Anne Arundel Community Television HD" group-title="United States" tvg-id="AACTVH" tvc-guide-stationid="110084",Anne Arundel Community Television HD
+http://example.local/USA-AACTVH.ts
+#EXTINF:-1 tvg-chno="94615" tvg-name="Anne Arundel County Public Schools" group-title="United States" tvg-id="AACPS" tvc-guide-stationid="94615",Anne Arundel County Public Schools
+http://example.local/USA-AACPS.ts
+#EXTINF:-1 tvg-chno="110083" tvg-name="Anne Arundel County Public Schools HD" group-title="United States" tvg-id="AACPSH" tvc-guide-stationid="110083",Anne Arundel County Public Schools HD
+http://example.local/USA-AACPSH.ts
+#EXTINF:-1 tvg-chno="97975" tvg-name="Anne Arundel Government Television" group-title="United States" tvg-id="AAGOV" tvc-guide-stationid="97975",Anne Arundel Government Television
+http://example.local/USA-AAGOV.ts
+#EXTINF:-1 tvg-chno="110127" tvg-name="Anne Arundel Government Television HD" group-title="United States" tvg-id="AAGOVH" tvc-guide-stationid="110127",Anne Arundel Government Television HD
+http://example.local/USA-AAGOVH.ts
+#EXTINF:-1 tvg-chno="112613" tvg-name="Anne Arundel Leased Access (CBNNEWS)" tvg-logo="https://zap2it.tmsimg.com/assets/s109977_ll_h15_aa.png" group-title="United States" tvg-id="AALA" tvc-guide-stationid="112613",Anne Arundel Leased Access (CBNNEWS)
+http://example.local/USA-AALA.ts
+#EXTINF:-1 tvg-chno="32400" tvg-name="Answers On Demand" group-title="United States" tvg-id="ANSWDM" tvc-guide-stationid="32400",Answers On Demand
+http://example.local/USA-ANSWDM.ts
+#EXTINF:-1 tvg-chno="99059" tvg-name="Ant1 Europe" tvg-logo="https://zap2it.tmsimg.com/assets/s99059_ll_h15_ab.png" group-title="Germany" tvg-id="ANT1EU" tvc-guide-stationid="99059",Ant1 Europe
+http://example.local/DEU-ANT1EU.ts
+#EXTINF:-1 tvg-chno="99059" tvg-name="Ant1 Europe" tvg-logo="https://zap2it.tmsimg.com/assets/s99059_ll_h15_ab.png" group-title="France" tvg-id="ANT1EU" tvc-guide-stationid="99059",Ant1 Europe
+http://example.local/FRA-ANT1EU.ts
+#EXTINF:-1 tvg-chno="99059" tvg-name="Ant1 Europe" tvg-logo="https://zap2it.tmsimg.com/assets/s99059_ll_h15_ab.png" group-title="Switzerland" tvg-id="ANT1EU" tvc-guide-stationid="99059",Ant1 Europe
+http://example.local/CHE-ANT1EU.ts
+#EXTINF:-1 tvg-chno="120421" tvg-name="ANTENA" group-title="Poland" tvg-id="ANTENASD" tvc-guide-stationid="120421",ANTENA
+http://example.local/POL-ANTENASD.ts
+#EXTINF:-1 tvg-chno="120421" tvg-name="ANTENA" group-title="Belgium" tvg-id="ANTENASD" tvc-guide-stationid="120421",ANTENA
+http://example.local/BEL-ANTENASD.ts
+#EXTINF:-1 tvg-chno="60659" tvg-name="ANTENA 21" tvg-logo="https://zap2it.tmsimg.com/assets/s60659_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="ANTNA21" tvc-guide-stationid="60659",ANTENA 21
+http://example.local/DOM-ANTNA21.ts
+#EXTINF:-1 tvg-chno="90309" tvg-name="Antena 3" tvg-logo="https://zap2it.tmsimg.com/assets/s90309_ll_h9_ab.png" group-title="Germany" tvg-id="ANTENA3" tvc-guide-stationid="90309",Antena 3
+http://example.local/DEU-ANTENA3.ts
+#EXTINF:-1 tvg-chno="90309" tvg-name="Antena 3" tvg-logo="https://zap2it.tmsimg.com/assets/s90309_ll_h9_ab.png" group-title="Mexico" tvg-id="ANTENA3" tvc-guide-stationid="90309",Antena 3
+http://example.local/MEX-ANTENA3.ts
+#EXTINF:-1 tvg-chno="90309" tvg-name="Antena 3" tvg-logo="https://zap2it.tmsimg.com/assets/s90309_ll_h9_ab.png" group-title="France" tvg-id="ANTENA3" tvc-guide-stationid="90309",Antena 3
+http://example.local/FRA-ANTENA3.ts
+#EXTINF:-1 tvg-chno="90309" tvg-name="Antena 3" tvg-logo="https://zap2it.tmsimg.com/assets/s90309_ll_h9_ab.png" group-title="Netherlands" tvg-id="ANTENA3" tvc-guide-stationid="90309",Antena 3
+http://example.local/NLD-ANTENA3.ts
+#EXTINF:-1 tvg-chno="90309" tvg-name="Antena 3" tvg-logo="https://zap2it.tmsimg.com/assets/s90309_ll_h9_ab.png" group-title="Austria" tvg-id="ANTENA3" tvc-guide-stationid="90309",Antena 3
+http://example.local/AUT-ANTENA3.ts
+#EXTINF:-1 tvg-chno="91176" tvg-name="Antena 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91176_ll_h9_ac.png" group-title="France" tvg-id="ANT3SPH" tvc-guide-stationid="91176",Antena 3 HD
+http://example.local/FRA-ANT3SPH.ts
+#EXTINF:-1 tvg-chno="91176" tvg-name="Antena 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91176_ll_h9_ac.png" group-title="Spain" tvg-id="ANT3SPH" tvc-guide-stationid="91176",Antena 3 HD
+http://example.local/ESP-ANT3SPH.ts
+#EXTINF:-1 tvg-chno="91176" tvg-name="Antena 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91176_ll_h9_ac.png" group-title="Netherlands" tvg-id="ANT3SPH" tvc-guide-stationid="91176",Antena 3 HD
+http://example.local/NLD-ANT3SPH.ts
+#EXTINF:-1 tvg-chno="91176" tvg-name="Antena 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91176_ll_h9_ac.png" group-title="Chile" tvg-id="ANT3SPH" tvc-guide-stationid="91176",Antena 3 HD
+http://example.local/CHL-ANT3SPH.ts
+#EXTINF:-1 tvg-chno="91176" tvg-name="Antena 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91176_ll_h9_ac.png" group-title="Colombia" tvg-id="ANT3SPH" tvc-guide-stationid="91176",Antena 3 HD
+http://example.local/COL-ANT3SPH.ts
+#EXTINF:-1 tvg-chno="91176" tvg-name="Antena 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91176_ll_h9_ac.png" group-title="Peru" tvg-id="ANT3SPH" tvc-guide-stationid="91176",Antena 3 HD
+http://example.local/PER-ANT3SPH.ts
+#EXTINF:-1 tvg-chno="91176" tvg-name="Antena 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91176_ll_h9_ac.png" group-title="Argentina" tvg-id="ANT3SPH" tvc-guide-stationid="91176",Antena 3 HD
+http://example.local/ARG-ANT3SPH.ts
+#EXTINF:-1 tvg-chno="91176" tvg-name="Antena 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91176_ll_h9_ac.png" group-title="Venezuela" tvg-id="ANT3SPH" tvc-guide-stationid="91176",Antena 3 HD
+http://example.local/VEN-ANT3SPH.ts
+#EXTINF:-1 tvg-chno="91176" tvg-name="Antena 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91176_ll_h9_ac.png" group-title="Ecuador" tvg-id="ANT3SPH" tvc-guide-stationid="91176",Antena 3 HD
+http://example.local/ECU-ANT3SPH.ts
+#EXTINF:-1 tvg-chno="91176" tvg-name="Antena 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91176_ll_h9_ac.png" group-title="Uruguay" tvg-id="ANT3SPH" tvc-guide-stationid="91176",Antena 3 HD
+http://example.local/URY-ANT3SPH.ts
+#EXTINF:-1 tvg-chno="91176" tvg-name="Antena 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91176_ll_h9_ac.png" group-title="Switzerland" tvg-id="ANT3SPH" tvc-guide-stationid="91176",Antena 3 HD
+http://example.local/CHE-ANT3SPH.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Canada" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/CAN-ANT3I.ts
 #EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Mexico" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
 http://example.local/MEX-ANT3I.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Trinidad and Tobago" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/TTO-ANT3I.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Panama" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/PAN-ANT3I.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Argentina" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/ARG-ANT3I.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Peru" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/PER-ANT3I.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Anguilla" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/AIA-ANT3I.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Puerto Rico" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/PRI-ANT3I.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Colombia" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/COL-ANT3I.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Costa Rica" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/CRI-ANT3I.ts
+#EXTINF:-1 tvg-chno="83230" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s83230_ll_h9_aa.png" group-title="Mexico" tvg-id="ANT3IHD" tvc-guide-stationid="83230",Antena 3 Internacional
+http://example.local/MEX-ANT3IHD.ts
+#EXTINF:-1 tvg-chno="83230" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s83230_ll_h9_aa.png" group-title="United States" tvg-id="ANT3IHD" tvc-guide-stationid="83230",Antena 3 Internacional
+http://example.local/USA-ANT3IHD.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="United States" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/USA-ANT3I.ts
+#EXTINF:-1 tvg-chno="100024" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s100024_ll_h9_aa.png" group-title="United States" tvg-id="ANT3HEN" tvc-guide-stationid="100024",Antena 3 Internacional
+http://example.local/USA-ANT3HEN.ts
 #EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Chile" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
 http://example.local/CHL-ANT3I.ts
 #EXTINF:-1 tvg-chno="83230" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s83230_ll_h9_aa.png" group-title="Chile" tvg-id="ANT3IHD" tvc-guide-stationid="83230",Antena 3 Internacional
 http://example.local/CHL-ANT3IHD.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Ecuador" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/ECU-ANT3I.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Colombia" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/COL-ANT3I.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Peru" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/PER-ANT3I.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Argentina" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/ARG-ANT3I.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Costa Rica" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/CRI-ANT3I.ts
 #EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Venezuela" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
 http://example.local/VEN-ANT3I.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Uruguay" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/URY-ANT3I.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Dominican Republic" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/DOM-ANT3I.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Puerto Rico" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/PRI-ANT3I.ts
 #EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Guatemala" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
 http://example.local/GTM-ANT3I.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Aruba" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/ABW-ANT3I.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="St. Lucia" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/LCA-ANT3I.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="St. Kitts and Nevis" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/KNA-ANT3I.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Dominica" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/DMA-ANT3I.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Guyana" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/GUY-ANT3I.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Barbados" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/BRB-ANT3I.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Ecuador" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/ECU-ANT3I.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Dominican Republic" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/DOM-ANT3I.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Uruguay" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/URY-ANT3I.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Trinidad and Tobago" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/TTO-ANT3I.ts
 #EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Saint Vincent and the Grenadines" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
 http://example.local/VCT-ANT3I.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Curacao" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/CUW-ANT3I.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Saint Martin" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/MAF-ANT3I.ts
-#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Grenada" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
-http://example.local/GRD-ANT3I.ts
 #EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Belize" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
 http://example.local/BLZ-ANT3I.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Panama" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/PAN-ANT3I.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Barbados" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/BRB-ANT3I.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Dominica" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/DMA-ANT3I.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Grenada" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/GRD-ANT3I.ts
 #EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Antigua and Barbuda" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
 http://example.local/ATG-ANT3I.ts
-#EXTINF:-1 tvg-chno="100652" tvg-name="Antena 3 Internacional HD DTVPA" tvg-logo="https://zap2it.tmsimg.com/assets/s100652_ll_h9_aa.png" group-title="Argentina" tvg-id="DANT3IH" tvc-guide-stationid="100652",Antena 3 Internacional HD DTVPA
-http://example.local/ARG-DANT3IH.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="St. Lucia" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/LCA-ANT3I.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Curacao" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/CUW-ANT3I.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Aruba" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/ABW-ANT3I.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Anguilla" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/AIA-ANT3I.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="St. Kitts and Nevis" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/KNA-ANT3I.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Saint Martin" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/MAF-ANT3I.ts
+#EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Guyana" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
+http://example.local/GUY-ANT3I.ts
 #EXTINF:-1 tvg-chno="100652" tvg-name="Antena 3 Internacional HD DTVPA" tvg-logo="https://zap2it.tmsimg.com/assets/s100652_ll_h9_aa.png" group-title="Colombia" tvg-id="DANT3IH" tvc-guide-stationid="100652",Antena 3 Internacional HD DTVPA
 http://example.local/COL-DANT3IH.ts
+#EXTINF:-1 tvg-chno="100652" tvg-name="Antena 3 Internacional HD DTVPA" tvg-logo="https://zap2it.tmsimg.com/assets/s100652_ll_h9_aa.png" group-title="Argentina" tvg-id="DANT3IH" tvc-guide-stationid="100652",Antena 3 Internacional HD DTVPA
+http://example.local/ARG-DANT3IH.ts
 #EXTINF:-1 tvg-chno="60657" tvg-name="Antena 7" tvg-logo="https://zap2it.tmsimg.com/assets/s60657_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="ANT7" tvc-guide-stationid="60657",Antena 7
 http://example.local/DOM-ANT7.ts
 #EXTINF:-1 tvg-chno="120212" tvg-name="Antena HD" tvg-logo="https://zap2it.tmsimg.com/assets/s120212_ll_h15_ab.png" group-title="Poland" tvg-id="ANTENA" tvc-guide-stationid="120212",Antena HD
@@ -165,44 +225,46 @@ http://example.local/CHL-ANTATV.ts
 http://example.local/VEN-ANTV.ts
 #EXTINF:-1 tvg-chno="82694" tvg-name="AON - Apostolic Oneness Network" group-title="United States" tvg-id="AONTV" tvc-guide-stationid="82694",AON - Apostolic Oneness Network
 http://example.local/USA-AONTV.ts
+#EXTINF:-1 tvg-chno="172251" tvg-name="AP Channel" group-title="Italy" tvg-id="APCHL" tvc-guide-stationid="172251",AP Channel
+http://example.local/ITA-APCHL.ts
 #EXTINF:-1 tvg-chno="109204" tvg-name="APB Sanjha" tvg-logo="https://zap2it.tmsimg.com/assets/s109204_ll_h6_aa.png" group-title="Canada" tvg-id="APBSJ" tvc-guide-stationid="109204",APB Sanjha
 http://example.local/CAN-APBSJ.ts
 #EXTINF:-1 tvg-chno="80559" tvg-name="Aplauso" tvg-logo="https://zap2it.tmsimg.com/assets/s80559_ll_h15_aa.png" group-title="United States" tvg-id="APLAUSO" tvc-guide-stationid="80559",Aplauso
 http://example.local/USA-APLAUSO.ts
 #EXTINF:-1 tvg-chno="109111" tvg-name="Aplauso (SD)" group-title="United States" tvg-id="APLAUSD" tvc-guide-stationid="109111",Aplauso (SD)
 http://example.local/USA-APLAUSD.ts
-#EXTINF:-1 tvg-chno="199955" tvg-name="Apostarias por mi: Baños" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="United States" tvg-id="APPMBA" tvc-guide-stationid="199955",Apostarias por mi: Baños
-http://example.local/USA-APPMBA.ts
-#EXTINF:-1 tvg-chno="199955" tvg-name="Apostarias por mi: Baños" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Mexico" tvg-id="APPMBA" tvc-guide-stationid="199955",Apostarias por mi: Baños
+#EXTINF:-1 tvg-chno="199955" tvg-name="Apostarias por mi: Baños" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N96KD.png" group-title="Mexico" tvg-id="APPMBA" tvc-guide-stationid="199955",Apostarias por mi: Baños
 http://example.local/MEX-APPMBA.ts
-#EXTINF:-1 tvg-chno="199956" tvg-name="Apostarias por mi: Cocina" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="United States" tvg-id="APPMCO" tvc-guide-stationid="199956",Apostarias por mi: Cocina
-http://example.local/USA-APPMCO.ts
-#EXTINF:-1 tvg-chno="199956" tvg-name="Apostarias por mi: Cocina" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="Mexico" tvg-id="APPMCO" tvc-guide-stationid="199956",Apostarias por mi: Cocina
+#EXTINF:-1 tvg-chno="199955" tvg-name="Apostarias por mi: Baños" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N96KD.png" group-title="United States" tvg-id="APPMBA" tvc-guide-stationid="199955",Apostarias por mi: Baños
+http://example.local/USA-APPMBA.ts
+#EXTINF:-1 tvg-chno="199956" tvg-name="Apostarias por mi: Cocina" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N96ED.png" group-title="Mexico" tvg-id="APPMCO" tvc-guide-stationid="199956",Apostarias por mi: Cocina
 http://example.local/MEX-APPMCO.ts
-#EXTINF:-1 tvg-chno="199948" tvg-name="Apostarias por mi: Conexión Total 24/7" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="United States" tvg-id="APPMCT" tvc-guide-stationid="199948",Apostarias por mi: Conexión Total 24/7
-http://example.local/USA-APPMCT.ts
-#EXTINF:-1 tvg-chno="199951" tvg-name="Apostarias por mi: Conexión Total 24/7" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Mexico" tvg-id="APPMCTM" tvc-guide-stationid="199951",Apostarias por mi: Conexión Total 24/7
+#EXTINF:-1 tvg-chno="199956" tvg-name="Apostarias por mi: Cocina" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N96ED.png" group-title="United States" tvg-id="APPMCO" tvc-guide-stationid="199956",Apostarias por mi: Cocina
+http://example.local/USA-APPMCO.ts
+#EXTINF:-1 tvg-chno="199951" tvg-name="Apostarias por mi: Conexión Total 24/7" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N96JS.png" group-title="Mexico" tvg-id="APPMCTM" tvc-guide-stationid="199951",Apostarias por mi: Conexión Total 24/7
 http://example.local/MEX-APPMCTM.ts
-#EXTINF:-1 tvg-chno="199953" tvg-name="Apostarias por mi: Habitación Corazón" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="United States" tvg-id="APPMHC" tvc-guide-stationid="199953",Apostarias por mi: Habitación Corazón
-http://example.local/USA-APPMHC.ts
-#EXTINF:-1 tvg-chno="199953" tvg-name="Apostarias por mi: Habitación Corazón" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Mexico" tvg-id="APPMHC" tvc-guide-stationid="199953",Apostarias por mi: Habitación Corazón
+#EXTINF:-1 tvg-chno="199948" tvg-name="Apostarias por mi: Conexión Total 24/7" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N96JS.png" group-title="United States" tvg-id="APPMCT" tvc-guide-stationid="199948",Apostarias por mi: Conexión Total 24/7
+http://example.local/USA-APPMCT.ts
+#EXTINF:-1 tvg-chno="199953" tvg-name="Apostarias por mi: Habitación Corazón" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N972W.png" group-title="Mexico" tvg-id="APPMHC" tvc-guide-stationid="199953",Apostarias por mi: Habitación Corazón
 http://example.local/MEX-APPMHC.ts
-#EXTINF:-1 tvg-chno="199954" tvg-name="Apostarias por mi: Habitación Trébol" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="United States" tvg-id="APPMHT" tvc-guide-stationid="199954",Apostarias por mi: Habitación Trébol
-http://example.local/USA-APPMHT.ts
-#EXTINF:-1 tvg-chno="199954" tvg-name="Apostarias por mi: Habitación Trébol" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Mexico" tvg-id="APPMHT" tvc-guide-stationid="199954",Apostarias por mi: Habitación Trébol
+#EXTINF:-1 tvg-chno="199953" tvg-name="Apostarias por mi: Habitación Corazón" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N972W.png" group-title="United States" tvg-id="APPMHC" tvc-guide-stationid="199953",Apostarias por mi: Habitación Corazón
+http://example.local/USA-APPMHC.ts
+#EXTINF:-1 tvg-chno="199954" tvg-name="Apostarias por mi: Habitación Trébol" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N9764.png" group-title="Mexico" tvg-id="APPMHT" tvc-guide-stationid="199954",Apostarias por mi: Habitación Trébol
 http://example.local/MEX-APPMHT.ts
-#EXTINF:-1 tvg-chno="199958" tvg-name="Apostarias por mi: Multicámaras" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="United States" tvg-id="APPMMU" tvc-guide-stationid="199958",Apostarias por mi: Multicámaras
-http://example.local/USA-APPMMU.ts
-#EXTINF:-1 tvg-chno="199958" tvg-name="Apostarias por mi: Multicámaras" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="Mexico" tvg-id="APPMMU" tvc-guide-stationid="199958",Apostarias por mi: Multicámaras
+#EXTINF:-1 tvg-chno="199954" tvg-name="Apostarias por mi: Habitación Trébol" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N9764.png" group-title="United States" tvg-id="APPMHT" tvc-guide-stationid="199954",Apostarias por mi: Habitación Trébol
+http://example.local/USA-APPMHT.ts
+#EXTINF:-1 tvg-chno="199958" tvg-name="Apostarias por mi: Multicámaras" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N979R.png" group-title="Mexico" tvg-id="APPMMU" tvc-guide-stationid="199958",Apostarias por mi: Multicámaras
 http://example.local/MEX-APPMMU.ts
-#EXTINF:-1 tvg-chno="199957" tvg-name="Apostarias por mi: Sala" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="United States" tvg-id="APPMSA" tvc-guide-stationid="199957",Apostarias por mi: Sala
-http://example.local/USA-APPMSA.ts
-#EXTINF:-1 tvg-chno="199957" tvg-name="Apostarias por mi: Sala" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="Mexico" tvg-id="APPMSA" tvc-guide-stationid="199957",Apostarias por mi: Sala
+#EXTINF:-1 tvg-chno="199958" tvg-name="Apostarias por mi: Multicámaras" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N979R.png" group-title="United States" tvg-id="APPMMU" tvc-guide-stationid="199958",Apostarias por mi: Multicámaras
+http://example.local/USA-APPMMU.ts
+#EXTINF:-1 tvg-chno="199957" tvg-name="Apostarias por mi: Sala" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N987T.png" group-title="Mexico" tvg-id="APPMSA" tvc-guide-stationid="199957",Apostarias por mi: Sala
 http://example.local/MEX-APPMSA.ts
-#EXTINF:-1 tvg-chno="199952" tvg-name="Apostarias por mi: Villa en Vivo" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="United States" tvg-id="APPMVV" tvc-guide-stationid="199952",Apostarias por mi: Villa en Vivo
-http://example.local/USA-APPMVV.ts
-#EXTINF:-1 tvg-chno="199952" tvg-name="Apostarias por mi: Villa en Vivo" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Mexico" tvg-id="APPMVV" tvc-guide-stationid="199952",Apostarias por mi: Villa en Vivo
+#EXTINF:-1 tvg-chno="199957" tvg-name="Apostarias por mi: Sala" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N987T.png" group-title="United States" tvg-id="APPMSA" tvc-guide-stationid="199957",Apostarias por mi: Sala
+http://example.local/USA-APPMSA.ts
+#EXTINF:-1 tvg-chno="199952" tvg-name="Apostarias por mi: Villa en Vivo" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N98K9.png" group-title="Mexico" tvg-id="APPMVV" tvc-guide-stationid="199952",Apostarias por mi: Villa en Vivo
 http://example.local/MEX-APPMVV.ts
+#EXTINF:-1 tvg-chno="199952" tvg-name="Apostarias por mi: Villa en Vivo" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N98K9.png" group-title="United States" tvg-id="APPMVV" tvc-guide-stationid="199952",Apostarias por mi: Villa en Vivo
+http://example.local/USA-APPMVV.ts
 #EXTINF:-1 tvg-chno="173459" tvg-name="Appennino TV" group-title="Italy" tvg-id="APNNTV" tvc-guide-stationid="173459",Appennino TV
 http://example.local/ITA-APNNTV.ts
 #EXTINF:-1 tvg-chno="108857" tvg-name="Apple Valley Government HD" group-title="United States" tvg-id="AVGHD" tvc-guide-stationid="108857",Apple Valley Government HD
@@ -211,14 +273,14 @@ http://example.local/USA-AVGHD.ts
 http://example.local/USA-AVGTV.ts
 #EXTINF:-1 tvg-chno="87915" tvg-name="Aprende+" tvg-logo="https://zap2it.tmsimg.com/assets/s87915_ll_h15_ab.png" group-title="Mexico" tvg-id="APRENMAS" tvc-guide-stationid="87915",Aprende+
 http://example.local/MEX-APRENMAS.ts
-#EXTINF:-1 tvg-chno="87915" tvg-name="Aprende+" tvg-logo="https://zap2it.tmsimg.com/assets/s87915_ll_h15_ab.png" group-title="Panama" tvg-id="APRENMAS" tvc-guide-stationid="87915",Aprende+
-http://example.local/PAN-APRENMAS.ts
 #EXTINF:-1 tvg-chno="87915" tvg-name="Aprende+" tvg-logo="https://zap2it.tmsimg.com/assets/s87915_ll_h15_ab.png" group-title="Costa Rica" tvg-id="APRENMAS" tvc-guide-stationid="87915",Aprende+
 http://example.local/CRI-APRENMAS.ts
-#EXTINF:-1 tvg-chno="87915" tvg-name="Aprende+" tvg-logo="https://zap2it.tmsimg.com/assets/s87915_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="APRENMAS" tvc-guide-stationid="87915",Aprende+
-http://example.local/DOM-APRENMAS.ts
 #EXTINF:-1 tvg-chno="87915" tvg-name="Aprende+" tvg-logo="https://zap2it.tmsimg.com/assets/s87915_ll_h15_ab.png" group-title="Guatemala" tvg-id="APRENMAS" tvc-guide-stationid="87915",Aprende+
 http://example.local/GTM-APRENMAS.ts
+#EXTINF:-1 tvg-chno="87915" tvg-name="Aprende+" tvg-logo="https://zap2it.tmsimg.com/assets/s87915_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="APRENMAS" tvc-guide-stationid="87915",Aprende+
+http://example.local/DOM-APRENMAS.ts
+#EXTINF:-1 tvg-chno="87915" tvg-name="Aprende+" tvg-logo="https://zap2it.tmsimg.com/assets/s87915_ll_h15_ab.png" group-title="Panama" tvg-id="APRENMAS" tvc-guide-stationid="87915",Aprende+
+http://example.local/PAN-APRENMAS.ts
 #EXTINF:-1 tvg-chno="38061" tvg-name="APTN Languages" tvg-logo="https://zap2it.tmsimg.com/assets/s38061_ll_h15_aa.png" group-title="Canada" tvg-id="APTNL" tvc-guide-stationid="38061",APTN Languages
 http://example.local/CAN-APTNL.ts
 #EXTINF:-1 tvg-chno="89009" tvg-name="Aquarium Channel HD" group-title="Canada" tvg-id="AQTVHD" tvc-guide-stationid="89009",Aquarium Channel HD
@@ -229,10 +291,10 @@ http://example.local/CAN-AQUAR.ts
 http://example.local/CAN-AQUARSD.ts
 #EXTINF:-1 tvg-chno="94062" tvg-name="AQUI Network" group-title="United States" tvg-id="AQUI" tvc-guide-stationid="94062",AQUI Network
 http://example.local/USA-AQUI.ts
-#EXTINF:-1 tvg-chno="123964" tvg-name="Aquí y Ahora" tvg-logo="https://zap2it.tmsimg.com/assets/s123964_ll_h15_ab.png" group-title="United States" tvg-id="AYAA" tvc-guide-stationid="123964",Aquí y Ahora
-http://example.local/USA-AYAA.ts
 #EXTINF:-1 tvg-chno="123964" tvg-name="Aquí y Ahora" tvg-logo="https://zap2it.tmsimg.com/assets/s123964_ll_h15_ab.png" group-title="Mexico" tvg-id="AYAA" tvc-guide-stationid="123964",Aquí y Ahora
 http://example.local/MEX-AYAA.ts
+#EXTINF:-1 tvg-chno="123964" tvg-name="Aquí y Ahora" tvg-logo="https://zap2it.tmsimg.com/assets/s123964_ll_h15_ab.png" group-title="United States" tvg-id="AYAA" tvc-guide-stationid="123964",Aquí y Ahora
+http://example.local/USA-AYAA.ts
 #EXTINF:-1 tvg-chno="111187" tvg-name="Arabella Kult" tvg-logo="https://zap2it.tmsimg.com/assets/s111187_ll_h9_aa.png" group-title="Germany" tvg-id="ARAKURA" tvc-guide-stationid="111187",Arabella Kult
 http://example.local/DEU-ARAKURA.ts
 #EXTINF:-1 tvg-chno="101612" tvg-name="Arabic" tvg-logo="https://zap2it.tmsimg.com/assets/s101612_ll_h9_aa.png" group-title="Germany" tvg-id="ARABICR" tvc-guide-stationid="101612",Arabic
@@ -241,16 +303,16 @@ http://example.local/DEU-ARABICR.ts
 http://example.local/USA-ARRADTV.ts
 #EXTINF:-1 tvg-chno="72629" tvg-name="Arabica" group-title="United States" tvg-id="ARBMU" tvc-guide-stationid="72629",Arabica
 http://example.local/USA-ARBMU.ts
-#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png" group-title="Italy" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
-http://example.local/ITA-ARAGON.ts
 #EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png" group-title="Germany" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
 http://example.local/DEU-ARAGON.ts
-#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png" group-title="Austria" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
-http://example.local/AUT-ARAGON.ts
-#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png" group-title="United Kingdom" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
-http://example.local/GBR-ARAGON.ts
 #EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png" group-title="Spain" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
 http://example.local/ESP-ARAGON.ts
+#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png" group-title="Austria" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
+http://example.local/AUT-ARAGON.ts
+#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png" group-title="Italy" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
+http://example.local/ITA-ARAGON.ts
+#EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png" group-title="United Kingdom" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
+http://example.local/GBR-ARAGON.ts
 #EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png" group-title="Switzerland" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
 http://example.local/CHE-ARAGON.ts
 #EXTINF:-1 tvg-chno="118662" tvg-name="Aragon TV HD" group-title="Switzerland" tvg-id="ARAGHD" tvc-guide-stationid="118662",Aragon TV HD
@@ -273,68 +335,68 @@ http://example.local/DEU-ARDKRIM.ts
 http://example.local/DEU-LINDSTR.ts
 #EXTINF:-1 tvg-chno="144885" tvg-name="ARD Plus Lindenstraße" tvg-logo="https://zap2it.tmsimg.com/assets/s144885_ll_h15_aa.png" group-title="United States" tvg-id="LINDSTR" tvc-guide-stationid="144885",ARD Plus Lindenstraße
 http://example.local/USA-LINDSTR.ts
-#EXTINF:-1 tvg-chno="66624" tvg-name="ARD-alpha" tvg-logo="https://zap2it.tmsimg.com/assets/s66624_ll_h15_ac.png" group-title="Italy" tvg-id="ARDALPH" tvc-guide-stationid="66624",ARD-alpha
-http://example.local/ITA-ARDALPH.ts
 #EXTINF:-1 tvg-chno="66624" tvg-name="ARD-alpha" tvg-logo="https://zap2it.tmsimg.com/assets/s66624_ll_h15_ac.png" group-title="Germany" tvg-id="ARDALPH" tvc-guide-stationid="66624",ARD-alpha
 http://example.local/DEU-ARDALPH.ts
+#EXTINF:-1 tvg-chno="66624" tvg-name="ARD-alpha" tvg-logo="https://zap2it.tmsimg.com/assets/s66624_ll_h15_ac.png" group-title="Spain" tvg-id="ARDALPH" tvc-guide-stationid="66624",ARD-alpha
+http://example.local/ESP-ARDALPH.ts
 #EXTINF:-1 tvg-chno="66624" tvg-name="ARD-alpha" tvg-logo="https://zap2it.tmsimg.com/assets/s66624_ll_h15_ac.png" group-title="Poland" tvg-id="ARDALPH" tvc-guide-stationid="66624",ARD-alpha
 http://example.local/POL-ARDALPH.ts
 #EXTINF:-1 tvg-chno="66624" tvg-name="ARD-alpha" tvg-logo="https://zap2it.tmsimg.com/assets/s66624_ll_h15_ac.png" group-title="Austria" tvg-id="ARDALPH" tvc-guide-stationid="66624",ARD-alpha
 http://example.local/AUT-ARDALPH.ts
+#EXTINF:-1 tvg-chno="66624" tvg-name="ARD-alpha" tvg-logo="https://zap2it.tmsimg.com/assets/s66624_ll_h15_ac.png" group-title="Italy" tvg-id="ARDALPH" tvc-guide-stationid="66624",ARD-alpha
+http://example.local/ITA-ARDALPH.ts
 #EXTINF:-1 tvg-chno="66624" tvg-name="ARD-alpha" tvg-logo="https://zap2it.tmsimg.com/assets/s66624_ll_h15_ac.png" group-title="United Kingdom" tvg-id="ARDALPH" tvc-guide-stationid="66624",ARD-alpha
 http://example.local/GBR-ARDALPH.ts
-#EXTINF:-1 tvg-chno="66624" tvg-name="ARD-alpha" tvg-logo="https://zap2it.tmsimg.com/assets/s66624_ll_h15_ac.png" group-title="Spain" tvg-id="ARDALPH" tvc-guide-stationid="66624",ARD-alpha
-http://example.local/ESP-ARDALPH.ts
 #EXTINF:-1 tvg-chno="66624" tvg-name="ARD-alpha" tvg-logo="https://zap2it.tmsimg.com/assets/s66624_ll_h15_ac.png" group-title="Switzerland" tvg-id="ARDALPH" tvc-guide-stationid="66624",ARD-alpha
 http://example.local/CHE-ARDALPH.ts
-#EXTINF:-1 tvg-chno="110440" tvg-name="ARD-alpha HD" tvg-logo="https://logos.jesmann.com/ARDALHD.png" group-title="France" tvg-id="ARDALHD" tvc-guide-stationid="110440",ARD-alpha HD
-http://example.local/FRA-ARDALHD.ts
-#EXTINF:-1 tvg-chno="110440" tvg-name="ARD-alpha HD" tvg-logo="https://logos.jesmann.com/ARDALHD.png" group-title="Italy" tvg-id="ARDALHD" tvc-guide-stationid="110440",ARD-alpha HD
-http://example.local/ITA-ARDALHD.ts
 #EXTINF:-1 tvg-chno="110440" tvg-name="ARD-alpha HD" tvg-logo="https://logos.jesmann.com/ARDALHD.png" group-title="Germany" tvg-id="ARDALHD" tvc-guide-stationid="110440",ARD-alpha HD
 http://example.local/DEU-ARDALHD.ts
+#EXTINF:-1 tvg-chno="110440" tvg-name="ARD-alpha HD" tvg-logo="https://logos.jesmann.com/ARDALHD.png" group-title="France" tvg-id="ARDALHD" tvc-guide-stationid="110440",ARD-alpha HD
+http://example.local/FRA-ARDALHD.ts
+#EXTINF:-1 tvg-chno="110440" tvg-name="ARD-alpha HD" tvg-logo="https://logos.jesmann.com/ARDALHD.png" group-title="Spain" tvg-id="ARDALHD" tvc-guide-stationid="110440",ARD-alpha HD
+http://example.local/ESP-ARDALHD.ts
 #EXTINF:-1 tvg-chno="110440" tvg-name="ARD-alpha HD" tvg-logo="https://logos.jesmann.com/ARDALHD.png" group-title="Poland" tvg-id="ARDALHD" tvc-guide-stationid="110440",ARD-alpha HD
 http://example.local/POL-ARDALHD.ts
-#EXTINF:-1 tvg-chno="110440" tvg-name="ARD-alpha HD" tvg-logo="https://logos.jesmann.com/ARDALHD.png" group-title="Austria" tvg-id="ARDALHD" tvc-guide-stationid="110440",ARD-alpha HD
-http://example.local/AUT-ARDALHD.ts
-#EXTINF:-1 tvg-chno="110440" tvg-name="ARD-alpha HD" tvg-logo="https://logos.jesmann.com/ARDALHD.png" group-title="United Kingdom" tvg-id="ARDALHD" tvc-guide-stationid="110440",ARD-alpha HD
-http://example.local/GBR-ARDALHD.ts
 #EXTINF:-1 tvg-chno="110440" tvg-name="ARD-alpha HD" tvg-logo="https://logos.jesmann.com/ARDALHD.png" group-title="Belgium" tvg-id="ARDALHD" tvc-guide-stationid="110440",ARD-alpha HD
 http://example.local/BEL-ARDALHD.ts
 #EXTINF:-1 tvg-chno="110440" tvg-name="ARD-alpha HD" tvg-logo="https://logos.jesmann.com/ARDALHD.png" group-title="Netherlands" tvg-id="ARDALHD" tvc-guide-stationid="110440",ARD-alpha HD
 http://example.local/NLD-ARDALHD.ts
-#EXTINF:-1 tvg-chno="110440" tvg-name="ARD-alpha HD" tvg-logo="https://logos.jesmann.com/ARDALHD.png" group-title="Spain" tvg-id="ARDALHD" tvc-guide-stationid="110440",ARD-alpha HD
-http://example.local/ESP-ARDALHD.ts
+#EXTINF:-1 tvg-chno="110440" tvg-name="ARD-alpha HD" tvg-logo="https://logos.jesmann.com/ARDALHD.png" group-title="Austria" tvg-id="ARDALHD" tvc-guide-stationid="110440",ARD-alpha HD
+http://example.local/AUT-ARDALHD.ts
+#EXTINF:-1 tvg-chno="110440" tvg-name="ARD-alpha HD" tvg-logo="https://logos.jesmann.com/ARDALHD.png" group-title="Italy" tvg-id="ARDALHD" tvc-guide-stationid="110440",ARD-alpha HD
+http://example.local/ITA-ARDALHD.ts
+#EXTINF:-1 tvg-chno="110440" tvg-name="ARD-alpha HD" tvg-logo="https://logos.jesmann.com/ARDALHD.png" group-title="United Kingdom" tvg-id="ARDALHD" tvc-guide-stationid="110440",ARD-alpha HD
+http://example.local/GBR-ARDALHD.ts
 #EXTINF:-1 tvg-chno="110440" tvg-name="ARD-alpha HD" tvg-logo="https://logos.jesmann.com/ARDALHD.png" group-title="Switzerland" tvg-id="ARDALHD" tvc-guide-stationid="110440",ARD-alpha HD
 http://example.local/CHE-ARDALHD.ts
 #EXTINF:-1 tvg-chno="120377" tvg-name="Are We There Yet?" tvg-logo="https://zap2it.tmsimg.com/assets/s120377_ll_h15_aa.png" group-title="United States" tvg-id="AWTYSTR" tvc-guide-stationid="120377",Are We There Yet?
 http://example.local/USA-AWTYSTR.ts
-#EXTINF:-1 tvg-chno="162226" tvg-name="Are We There Yet?" tvg-logo="https://zap2it.tmsimg.com/assets/s162226_ll_h15_aa.png" group-title="United States" tvg-id="XCCAWTY" tvc-guide-stationid="162226",Are We There Yet?
-http://example.local/USA-XCCAWTY.ts
 #EXTINF:-1 tvg-chno="120237" tvg-name="Are We There Yet?" tvg-logo="https://zap2it.tmsimg.com/assets/s120237_ll_h15_aa.png" group-title="United States" tvg-id="AWTY" tvc-guide-stationid="120237",Are We There Yet?
 http://example.local/USA-AWTY.ts
+#EXTINF:-1 tvg-chno="162226" tvg-name="Are We There Yet?" tvg-logo="https://zap2it.tmsimg.com/assets/s162226_ll_h15_aa.png" group-title="United States" tvg-id="XCCAWTY" tvc-guide-stationid="162226",Are We There Yet?
+http://example.local/USA-XCCAWTY.ts
 #EXTINF:-1 tvg-chno="124610" tvg-name="Are We There Yet?" group-title="United States" tvg-id="VIZAWTY" tvc-guide-stationid="124610",Are We There Yet?
 http://example.local/USA-VIZAWTY.ts
-#EXTINF:-1 tvg-chno="120377" tvg-name="Are We There Yet?" tvg-logo="https://zap2it.tmsimg.com/assets/s120377_ll_h15_aa.png" group-title="United Kingdom" tvg-id="AWTYSTR" tvc-guide-stationid="120377",Are We There Yet?
-http://example.local/GBR-AWTYSTR.ts
 #EXTINF:-1 tvg-chno="120237" tvg-name="Are We There Yet?" tvg-logo="https://zap2it.tmsimg.com/assets/s120237_ll_h15_aa.png" group-title="United Kingdom" tvg-id="AWTY" tvc-guide-stationid="120237",Are We There Yet?
 http://example.local/GBR-AWTY.ts
+#EXTINF:-1 tvg-chno="120377" tvg-name="Are We There Yet?" tvg-logo="https://zap2it.tmsimg.com/assets/s120377_ll_h15_aa.png" group-title="United Kingdom" tvg-id="AWTYSTR" tvc-guide-stationid="120377",Are We There Yet?
+http://example.local/GBR-AWTYSTR.ts
 #EXTINF:-1 tvg-chno="167583" tvg-name="Are You Smarter Than A 5th Grader?" tvg-logo="https://zap2it.tmsimg.com/assets/s167583_ll_h9_aa.png" group-title="United States" tvg-id="SMRFTHG" tvc-guide-stationid="167583",Are You Smarter Than A 5th Grader?
 http://example.local/USA-SMRFTHG.ts
 #EXTINF:-1 tvg-chno="48406" tvg-name="Area" group-title="United States" tvg-id="SRARE38" tvc-guide-stationid="48406",Area
 http://example.local/USA-SRARE38.ts
 #EXTINF:-1 tvg-chno="103066" tvg-name="Arena +2" tvg-logo="https://zap2it.tmsimg.com/assets/s103066_ll_h15_aa.png" group-title="Australia" tvg-id="ARE2ANZ" tvc-guide-stationid="103066",Arena +2
 http://example.local/AUS-ARE2ANZ.ts
-#EXTINF:-1 tvg-chno="116903" tvg-name="Arena HD" group-title="Austria" tvg-id="ARENAHD" tvc-guide-stationid="116903",Arena HD
-http://example.local/AUT-ARENAHD.ts
 #EXTINF:-1 tvg-chno="103071" tvg-name="Arena HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103071_ll_h15_ad.png" group-title="Australia" tvg-id="ARHDANZ" tvc-guide-stationid="103071",Arena HD
 http://example.local/AUS-ARHDANZ.ts
+#EXTINF:-1 tvg-chno="116903" tvg-name="Arena HD" group-title="Austria" tvg-id="ARENAHD" tvc-guide-stationid="116903",Arena HD
+http://example.local/AUT-ARENAHD.ts
 #EXTINF:-1 tvg-chno="116322" tvg-name="Argentina 12" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002H3TS9.png" group-title="Argentina" tvg-id="ARG12" tvc-guide-stationid="116322",Argentina 12
 http://example.local/ARG-ARG12.ts
-#EXTINF:-1 tvg-chno="18091" tvg-name="Argentinisima" group-title="Argentina" tvg-id="ARGEN" tvc-guide-stationid="18091",Argentinisima
-http://example.local/ARG-ARGEN.ts
 #EXTINF:-1 tvg-chno="18091" tvg-name="Argentinisima" group-title="Chile" tvg-id="ARGEN" tvc-guide-stationid="18091",Argentinisima
 http://example.local/CHL-ARGEN.ts
+#EXTINF:-1 tvg-chno="18091" tvg-name="Argentinisima" group-title="Argentina" tvg-id="ARGEN" tvc-guide-stationid="18091",Argentinisima
+http://example.local/ARG-ARGEN.ts
 #EXTINF:-1 tvg-chno="18091" tvg-name="Argentinisima" group-title="Uruguay" tvg-id="ARGEN" tvc-guide-stationid="18091",Argentinisima
 http://example.local/URY-ARGEN.ts
 #EXTINF:-1 tvg-chno="122585" tvg-name="ARIA" group-title="United States" tvg-id="ARIA2" tvc-guide-stationid="122585",ARIA
@@ -349,108 +411,108 @@ http://example.local/USA-ARIA1.ts
 http://example.local/USA-ARIAEV.ts
 #EXTINF:-1 tvg-chno="122581" tvg-name="Aria Promo" group-title="United States" tvg-id="ARIAPR" tvc-guide-stationid="122581",Aria Promo
 http://example.local/USA-ARIAPR.ts
-#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="France" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
-http://example.local/FRA-ARANG.ts
-#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Italy" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
-http://example.local/ITA-ARANG.ts
 #EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Germany" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
 http://example.local/DEU-ARANG.ts
+#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Mexico" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
+http://example.local/MEX-ARANG.ts
+#EXTINF:-1 tvg-chno="120581" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Mexico" tvg-id="ARANGSP" tvc-guide-stationid="120581",Arirang
+http://example.local/MEX-ARANGSP.ts
+#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="France" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
+http://example.local/FRA-ARANG.ts
+#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Spain" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
+http://example.local/ESP-ARANG.ts
 #EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="United States" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
 http://example.local/USA-ARANG.ts
 #EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Poland" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
 http://example.local/POL-ARANG.ts
-#EXTINF:-1 tvg-chno="120581" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Mexico" tvg-id="ARANGSP" tvc-guide-stationid="120581",Arirang
-http://example.local/MEX-ARANGSP.ts
-#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Mexico" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
-http://example.local/MEX-ARANG.ts
 #EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Austria" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
 http://example.local/AUT-ARANG.ts
+#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Italy" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
+http://example.local/ITA-ARANG.ts
+#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Chile" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
+http://example.local/CHL-ARANG.ts
 #EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
 http://example.local/GBR-ARANG.ts
-#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Ireland" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
-http://example.local/IRL-ARANG.ts
-#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Spain" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
-http://example.local/ESP-ARANG.ts
-#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Switzerland" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
-http://example.local/CHE-ARANG.ts
-#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Panama" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
-http://example.local/PAN-ARANG.ts
+#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Colombia" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
+http://example.local/COL-ARANG.ts
+#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Peru" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
+http://example.local/PER-ARANG.ts
 #EXTINF:-1 tvg-chno="120581" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Argentina" tvg-id="ARANGSP" tvc-guide-stationid="120581",Arirang
 http://example.local/ARG-ARANGSP.ts
 #EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Argentina" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
 http://example.local/ARG-ARANG.ts
-#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Peru" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
-http://example.local/PER-ARANG.ts
-#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Colombia" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
-http://example.local/COL-ARANG.ts
 #EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Costa Rica" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
 http://example.local/CRI-ARANG.ts
-#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Chile" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
-http://example.local/CHL-ARANG.ts
 #EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Jamaica" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
 http://example.local/JAM-ARANG.ts
-#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
-http://example.local/DOM-ARANG.ts
+#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Ireland" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
+http://example.local/IRL-ARANG.ts
 #EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Guatemala" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
 http://example.local/GTM-ARANG.ts
-#EXTINF:-1 tvg-chno="116976" tvg-name="Arirang TV" tvg-logo="https://zap2it.tmsimg.com/assets/s116976_ll_h15_aa.png" group-title="France" tvg-id="ARITVEU" tvc-guide-stationid="116976",Arirang TV
-http://example.local/FRA-ARITVEU.ts
+#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
+http://example.local/DOM-ARANG.ts
+#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Switzerland" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
+http://example.local/CHE-ARANG.ts
+#EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Panama" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
+http://example.local/PAN-ARANG.ts
 #EXTINF:-1 tvg-chno="116976" tvg-name="Arirang TV" tvg-logo="https://zap2it.tmsimg.com/assets/s116976_ll_h15_aa.png" group-title="Germany" tvg-id="ARITVEU" tvc-guide-stationid="116976",Arirang TV
 http://example.local/DEU-ARITVEU.ts
+#EXTINF:-1 tvg-chno="116976" tvg-name="Arirang TV" tvg-logo="https://zap2it.tmsimg.com/assets/s116976_ll_h15_aa.png" group-title="France" tvg-id="ARITVEU" tvc-guide-stationid="116976",Arirang TV
+http://example.local/FRA-ARITVEU.ts
 #EXTINF:-1 tvg-chno="120289" tvg-name="Arirang TV" tvg-logo="https://zap2it.tmsimg.com/assets/s120289_ll_h9_aa.png" group-title="United States" tvg-id="ARANGKR" tvc-guide-stationid="120289",Arirang TV
 http://example.local/USA-ARANGKR.ts
-#EXTINF:-1 tvg-chno="119081" tvg-name="Arirang TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119081_ll_h15_aa.png" group-title="France" tvg-id="ARIEUHD" tvc-guide-stationid="119081",Arirang TV HD
-http://example.local/FRA-ARIEUHD.ts
 #EXTINF:-1 tvg-chno="119081" tvg-name="Arirang TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119081_ll_h15_aa.png" group-title="Germany" tvg-id="ARIEUHD" tvc-guide-stationid="119081",Arirang TV HD
 http://example.local/DEU-ARIEUHD.ts
+#EXTINF:-1 tvg-chno="119081" tvg-name="Arirang TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119081_ll_h15_aa.png" group-title="France" tvg-id="ARIEUHD" tvc-guide-stationid="119081",Arirang TV HD
+http://example.local/FRA-ARIEUHD.ts
+#EXTINF:-1 tvg-chno="119081" tvg-name="Arirang TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119081_ll_h15_aa.png" group-title="Spain" tvg-id="ARIEUHD" tvc-guide-stationid="119081",Arirang TV HD
+http://example.local/ESP-ARIEUHD.ts
 #EXTINF:-1 tvg-chno="119081" tvg-name="Arirang TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119081_ll_h15_aa.png" group-title="Poland" tvg-id="ARIEUHD" tvc-guide-stationid="119081",Arirang TV HD
 http://example.local/POL-ARIEUHD.ts
-#EXTINF:-1 tvg-chno="119081" tvg-name="Arirang TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119081_ll_h15_aa.png" group-title="Austria" tvg-id="ARIEUHD" tvc-guide-stationid="119081",Arirang TV HD
-http://example.local/AUT-ARIEUHD.ts
-#EXTINF:-1 tvg-chno="119081" tvg-name="Arirang TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119081_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ARIEUHD" tvc-guide-stationid="119081",Arirang TV HD
-http://example.local/GBR-ARIEUHD.ts
-#EXTINF:-1 tvg-chno="119081" tvg-name="Arirang TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119081_ll_h15_aa.png" group-title="Ireland" tvg-id="ARIEUHD" tvc-guide-stationid="119081",Arirang TV HD
-http://example.local/IRL-ARIEUHD.ts
 #EXTINF:-1 tvg-chno="119081" tvg-name="Arirang TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119081_ll_h15_aa.png" group-title="Belgium" tvg-id="ARIEUHD" tvc-guide-stationid="119081",Arirang TV HD
 http://example.local/BEL-ARIEUHD.ts
 #EXTINF:-1 tvg-chno="119081" tvg-name="Arirang TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119081_ll_h15_aa.png" group-title="Netherlands" tvg-id="ARIEUHD" tvc-guide-stationid="119081",Arirang TV HD
 http://example.local/NLD-ARIEUHD.ts
-#EXTINF:-1 tvg-chno="119081" tvg-name="Arirang TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119081_ll_h15_aa.png" group-title="Spain" tvg-id="ARIEUHD" tvc-guide-stationid="119081",Arirang TV HD
-http://example.local/ESP-ARIEUHD.ts
-#EXTINF:-1 tvg-chno="119081" tvg-name="Arirang TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119081_ll_h15_aa.png" group-title="Switzerland" tvg-id="ARIEUHD" tvc-guide-stationid="119081",Arirang TV HD
-http://example.local/CHE-ARIEUHD.ts
+#EXTINF:-1 tvg-chno="119081" tvg-name="Arirang TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119081_ll_h15_aa.png" group-title="Austria" tvg-id="ARIEUHD" tvc-guide-stationid="119081",Arirang TV HD
+http://example.local/AUT-ARIEUHD.ts
+#EXTINF:-1 tvg-chno="119081" tvg-name="Arirang TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119081_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ARIEUHD" tvc-guide-stationid="119081",Arirang TV HD
+http://example.local/GBR-ARIEUHD.ts
 #EXTINF:-1 tvg-chno="119081" tvg-name="Arirang TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119081_ll_h15_aa.png" group-title="Argentina" tvg-id="ARIEUHD" tvc-guide-stationid="119081",Arirang TV HD
 http://example.local/ARG-ARIEUHD.ts
+#EXTINF:-1 tvg-chno="119081" tvg-name="Arirang TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119081_ll_h15_aa.png" group-title="Ireland" tvg-id="ARIEUHD" tvc-guide-stationid="119081",Arirang TV HD
+http://example.local/IRL-ARIEUHD.ts
+#EXTINF:-1 tvg-chno="119081" tvg-name="Arirang TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119081_ll_h15_aa.png" group-title="Switzerland" tvg-id="ARIEUHD" tvc-guide-stationid="119081",Arirang TV HD
+http://example.local/CHE-ARIEUHD.ts
 #EXTINF:-1 tvg-chno="101741" tvg-name="Arirang TV/Fashion TV" tvg-logo="https://zap2it.tmsimg.com/assets/s101741_ll_h15_aa.png" group-title="Germany" tvg-id="ARIFTV" tvc-guide-stationid="101741",Arirang TV/Fashion TV
 http://example.local/DEU-ARIFTV.ts
 #EXTINF:-1 tvg-chno="44098" tvg-name="ARISE" tvg-logo="https://zap2it.tmsimg.com/assets/s44098_ll_h15_aa.png" group-title="United States" tvg-id="ARISE" tvc-guide-stationid="44098",ARISE
 http://example.local/USA-ARISE.ts
-#EXTINF:-1 tvg-chno="44098" tvg-name="ARISE" tvg-logo="https://zap2it.tmsimg.com/assets/s44098_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ARISE" tvc-guide-stationid="44098",ARISE
-http://example.local/GBR-ARISE.ts
 #EXTINF:-1 tvg-chno="44098" tvg-name="ARISE" tvg-logo="https://zap2it.tmsimg.com/assets/s44098_ll_h15_aa.png" group-title="Belgium" tvg-id="ARISE" tvc-guide-stationid="44098",ARISE
 http://example.local/BEL-ARISE.ts
+#EXTINF:-1 tvg-chno="44098" tvg-name="ARISE" tvg-logo="https://zap2it.tmsimg.com/assets/s44098_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ARISE" tvc-guide-stationid="44098",ARISE
+http://example.local/GBR-ARISE.ts
 #EXTINF:-1 tvg-chno="118331" tvg-name="Arise News" tvg-logo="https://zap2it.tmsimg.com/assets/s118331_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ARISEUK" tvc-guide-stationid="118331",Arise News
 http://example.local/GBR-ARISEUK.ts
 #EXTINF:-1 tvg-chno="118331" tvg-name="Arise News" tvg-logo="https://zap2it.tmsimg.com/assets/s118331_ll_h15_aa.png" group-title="Ireland" tvg-id="ARISEUK" tvc-guide-stationid="118331",Arise News
 http://example.local/IRL-ARISEUK.ts
-#EXTINF:-1 tvg-chno="113311" tvg-name="Aristo.TV" group-title="France" tvg-id="ARISTO" tvc-guide-stationid="113311",Aristo.TV
-http://example.local/FRA-ARISTO.ts
-#EXTINF:-1 tvg-chno="113311" tvg-name="Aristo.TV" group-title="Italy" tvg-id="ARISTO" tvc-guide-stationid="113311",Aristo.TV
-http://example.local/ITA-ARISTO.ts
 #EXTINF:-1 tvg-chno="113311" tvg-name="Aristo.TV" group-title="Germany" tvg-id="ARISTO" tvc-guide-stationid="113311",Aristo.TV
 http://example.local/DEU-ARISTO.ts
+#EXTINF:-1 tvg-chno="113311" tvg-name="Aristo.TV" group-title="France" tvg-id="ARISTO" tvc-guide-stationid="113311",Aristo.TV
+http://example.local/FRA-ARISTO.ts
+#EXTINF:-1 tvg-chno="113311" tvg-name="Aristo.TV" group-title="Spain" tvg-id="ARISTO" tvc-guide-stationid="113311",Aristo.TV
+http://example.local/ESP-ARISTO.ts
 #EXTINF:-1 tvg-chno="113311" tvg-name="Aristo.TV" group-title="Poland" tvg-id="ARISTO" tvc-guide-stationid="113311",Aristo.TV
 http://example.local/POL-ARISTO.ts
-#EXTINF:-1 tvg-chno="113311" tvg-name="Aristo.TV" group-title="Austria" tvg-id="ARISTO" tvc-guide-stationid="113311",Aristo.TV
-http://example.local/AUT-ARISTO.ts
-#EXTINF:-1 tvg-chno="113311" tvg-name="Aristo.TV" group-title="United Kingdom" tvg-id="ARISTO" tvc-guide-stationid="113311",Aristo.TV
-http://example.local/GBR-ARISTO.ts
 #EXTINF:-1 tvg-chno="113311" tvg-name="Aristo.TV" group-title="Belgium" tvg-id="ARISTO" tvc-guide-stationid="113311",Aristo.TV
 http://example.local/BEL-ARISTO.ts
 #EXTINF:-1 tvg-chno="113311" tvg-name="Aristo.TV" group-title="Netherlands" tvg-id="ARISTO" tvc-guide-stationid="113311",Aristo.TV
 http://example.local/NLD-ARISTO.ts
-#EXTINF:-1 tvg-chno="113311" tvg-name="Aristo.TV" group-title="Spain" tvg-id="ARISTO" tvc-guide-stationid="113311",Aristo.TV
-http://example.local/ESP-ARISTO.ts
+#EXTINF:-1 tvg-chno="113311" tvg-name="Aristo.TV" group-title="Austria" tvg-id="ARISTO" tvc-guide-stationid="113311",Aristo.TV
+http://example.local/AUT-ARISTO.ts
+#EXTINF:-1 tvg-chno="113311" tvg-name="Aristo.TV" group-title="Italy" tvg-id="ARISTO" tvc-guide-stationid="113311",Aristo.TV
+http://example.local/ITA-ARISTO.ts
+#EXTINF:-1 tvg-chno="113311" tvg-name="Aristo.TV" group-title="United Kingdom" tvg-id="ARISTO" tvc-guide-stationid="113311",Aristo.TV
+http://example.local/GBR-ARISTO.ts
 #EXTINF:-1 tvg-chno="113311" tvg-name="Aristo.TV" group-title="Switzerland" tvg-id="ARISTO" tvc-guide-stationid="113311",Aristo.TV
 http://example.local/CHE-ARISTO.ts
 #EXTINF:-1 tvg-chno="97446" tvg-name="Arizona Capitol TV" tvg-logo="https://zap2it.tmsimg.com/assets/s97446_ll_h9_aa.png" group-title="United States" tvg-id="AZCTV" tvc-guide-stationid="97446",Arizona Capitol TV
@@ -459,12 +521,12 @@ http://example.local/USA-AZCTV.ts
 http://example.local/USA-ARID.ts
 #EXTINF:-1 tvg-chno="102280" tvg-name="Arizona Diamondbacks: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbari.png" group-title="United States" tvg-id="MLBARI" tvc-guide-stationid="102280",Arizona Diamondbacks: MLB Extra Innings
 http://example.local/USA-MLBARI.ts
+#EXTINF:-1 tvg-chno="102897" tvg-name="Armenia 1" tvg-logo="https://zap2it.tmsimg.com/assets/s102897_ll_h15_aa.png" group-title="Germany" tvg-id="ARMEN1" tvc-guide-stationid="102897",Armenia 1
+http://example.local/DEU-ARMEN1.ts
 #EXTINF:-1 tvg-chno="102897" tvg-name="Armenia 1" tvg-logo="https://zap2it.tmsimg.com/assets/s102897_ll_h15_aa.png" group-title="France" tvg-id="ARMEN1" tvc-guide-stationid="102897",Armenia 1
 http://example.local/FRA-ARMEN1.ts
 #EXTINF:-1 tvg-chno="168508" tvg-name="Armenia 1" group-title="France" tvg-id="ARMENIA1" tvc-guide-stationid="168508",Armenia 1
 http://example.local/FRA-ARMENIA1.ts
-#EXTINF:-1 tvg-chno="102897" tvg-name="Armenia 1" tvg-logo="https://zap2it.tmsimg.com/assets/s102897_ll_h15_aa.png" group-title="Germany" tvg-id="ARMEN1" tvc-guide-stationid="102897",Armenia 1
-http://example.local/DEU-ARMEN1.ts
 #EXTINF:-1 tvg-chno="102897" tvg-name="Armenia 1" tvg-logo="https://zap2it.tmsimg.com/assets/s102897_ll_h15_aa.png" group-title="Poland" tvg-id="ARMEN1" tvc-guide-stationid="102897",Armenia 1
 http://example.local/POL-ARMEN1.ts
 #EXTINF:-1 tvg-chno="102897" tvg-name="Armenia 1" tvg-logo="https://zap2it.tmsimg.com/assets/s102897_ll_h15_aa.png" group-title="Belgium" tvg-id="ARMEN1" tvc-guide-stationid="102897",Armenia 1
@@ -477,6 +539,8 @@ http://example.local/USA-TVARM.ts
 http://example.local/USA-AABC.ts
 #EXTINF:-1 tvg-chno="83381" tvg-name="Armenian Russian Television Network" group-title="United States" tvg-id="ARTVN" tvc-guide-stationid="83381",Armenian Russian Television Network
 http://example.local/USA-ARTVN.ts
+#EXTINF:-1 tvg-chno="175481" tvg-name="ARMPUB TV" group-title="Poland" tvg-id="ARMPUB" tvc-guide-stationid="175481",ARMPUB TV
+http://example.local/POL-ARMPUB.ts
 #EXTINF:-1 tvg-chno="94092" tvg-name="Armstrong On Demand" group-title="United States" tvg-id="ARMDM" tvc-guide-stationid="94092",Armstrong On Demand
 http://example.local/USA-ARMDM.ts
 #EXTINF:-1 tvg-chno="92894" tvg-name="Army Command Channel" group-title="United States" tvg-id="ACCHAN" tvc-guide-stationid="92894",Army Command Channel
@@ -507,14 +571,14 @@ http://example.local/BES-ARTAMER.ts
 http://example.local/CUW-ARTAMER.ts
 #EXTINF:-1 tvg-chno="18741" tvg-name="ART Cable" tvg-logo="https://zap2it.tmsimg.com/assets/s18741_ll_h15_aa.png" group-title="United States" tvg-id="ARTL" tvc-guide-stationid="18741",ART Cable
 http://example.local/USA-ARTL.ts
-#EXTINF:-1 tvg-chno="18741" tvg-name="ART Cable" tvg-logo="https://zap2it.tmsimg.com/assets/s18741_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="ARTL" tvc-guide-stationid="18741",ART Cable
-http://example.local/TTO-ARTL.ts
-#EXTINF:-1 tvg-chno="18741" tvg-name="ART Cable" tvg-logo="https://zap2it.tmsimg.com/assets/s18741_ll_h15_aa.png" group-title="Panama" tvg-id="ARTL" tvc-guide-stationid="18741",ART Cable
-http://example.local/PAN-ARTL.ts
 #EXTINF:-1 tvg-chno="18741" tvg-name="ART Cable" tvg-logo="https://zap2it.tmsimg.com/assets/s18741_ll_h15_aa.png" group-title="Peru" tvg-id="ARTL" tvc-guide-stationid="18741",ART Cable
 http://example.local/PER-ARTL.ts
 #EXTINF:-1 tvg-chno="18741" tvg-name="ART Cable" tvg-logo="https://zap2it.tmsimg.com/assets/s18741_ll_h15_aa.png" group-title="Venezuela" tvg-id="ARTL" tvc-guide-stationid="18741",ART Cable
 http://example.local/VEN-ARTL.ts
+#EXTINF:-1 tvg-chno="18741" tvg-name="ART Cable" tvg-logo="https://zap2it.tmsimg.com/assets/s18741_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="ARTL" tvc-guide-stationid="18741",ART Cable
+http://example.local/TTO-ARTL.ts
+#EXTINF:-1 tvg-chno="18741" tvg-name="ART Cable" tvg-logo="https://zap2it.tmsimg.com/assets/s18741_ll_h15_aa.png" group-title="Panama" tvg-id="ARTL" tvc-guide-stationid="18741",ART Cable
+http://example.local/PAN-ARTL.ts
 #EXTINF:-1 tvg-chno="92511" tvg-name="ART Cima" tvg-logo="https://zap2it.tmsimg.com/assets/s92511_ll_h15_ab.png" group-title="Canada" tvg-id="ARTCIMA" tvc-guide-stationid="92511",ART Cima
 http://example.local/CAN-ARTCIMA.ts
 #EXTINF:-1 tvg-chno="92511" tvg-name="ART Cima" tvg-logo="https://zap2it.tmsimg.com/assets/s92511_ll_h15_ab.png" group-title="United States" tvg-id="ARTCIMA" tvc-guide-stationid="92511",ART Cima
@@ -529,36 +593,36 @@ http://example.local/CAN-HKYAT2.ts
 http://example.local/USA-HKYAT2.ts
 #EXTINF:-1 tvg-chno="20304" tvg-name="Art Movies (Arabic for DISH)" group-title="United States" tvg-id="ARMO" tvc-guide-stationid="20304",Art Movies (Arabic for DISH)
 http://example.local/USA-ARMO.ts
-#EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png" group-title="Sweden" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
-http://example.local/SWE-ARTEGRH.ts
-#EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png" group-title="France" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
-http://example.local/FRA-ARTEGRH.ts
-#EXTINF:-1 tvg-chno="78974" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s78974_ll_h15_aa.png" group-title="France" tvg-id="ARTEFRC" tvc-guide-stationid="78974",ARTE
-http://example.local/FRA-ARTEFRC.ts
-#EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png" group-title="Italy" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
-http://example.local/ITA-ARTEGRH.ts
-#EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png" group-title="Finland" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
-http://example.local/FIN-ARTEGRH.ts
-#EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png" group-title="Germany" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
-http://example.local/DEU-ARTEGRH.ts
 #EXTINF:-1 tvg-chno="78974" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s78974_ll_h15_aa.png" group-title="Germany" tvg-id="ARTEFRC" tvc-guide-stationid="78974",ARTE
 http://example.local/DEU-ARTEFRC.ts
-#EXTINF:-1 tvg-chno="78974" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s78974_ll_h15_aa.png" group-title="Poland" tvg-id="ARTEFRC" tvc-guide-stationid="78974",ARTE
-http://example.local/POL-ARTEFRC.ts
-#EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png" group-title="Austria" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
-http://example.local/AUT-ARTEGRH.ts
-#EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png" group-title="United Kingdom" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
-http://example.local/GBR-ARTEGRH.ts
-#EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png" group-title="Netherlands" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
-http://example.local/NLD-ARTEGRH.ts
+#EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png" group-title="Germany" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
+http://example.local/DEU-ARTEGRH.ts
+#EXTINF:-1 tvg-chno="78974" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s78974_ll_h15_aa.png" group-title="France" tvg-id="ARTEFRC" tvc-guide-stationid="78974",ARTE
+http://example.local/FRA-ARTEFRC.ts
+#EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png" group-title="France" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
+http://example.local/FRA-ARTEGRH.ts
 #EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png" group-title="Spain" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
 http://example.local/ESP-ARTEGRH.ts
-#EXTINF:-1 tvg-chno="78974" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s78974_ll_h15_aa.png" group-title="Switzerland" tvg-id="ARTEFRC" tvc-guide-stationid="78974",ARTE
-http://example.local/CHE-ARTEFRC.ts
-#EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png" group-title="Switzerland" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
-http://example.local/CHE-ARTEGRH.ts
+#EXTINF:-1 tvg-chno="78974" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s78974_ll_h15_aa.png" group-title="Poland" tvg-id="ARTEFRC" tvc-guide-stationid="78974",ARTE
+http://example.local/POL-ARTEFRC.ts
+#EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png" group-title="Netherlands" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
+http://example.local/NLD-ARTEGRH.ts
+#EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png" group-title="Finland" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
+http://example.local/FIN-ARTEGRH.ts
+#EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png" group-title="Sweden" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
+http://example.local/SWE-ARTEGRH.ts
+#EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png" group-title="Austria" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
+http://example.local/AUT-ARTEGRH.ts
+#EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png" group-title="Italy" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
+http://example.local/ITA-ARTEGRH.ts
+#EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png" group-title="United Kingdom" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
+http://example.local/GBR-ARTEGRH.ts
 #EXTINF:-1 tvg-chno="78974" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s78974_ll_h15_aa.png" group-title="Jamaica" tvg-id="ARTEFRC" tvc-guide-stationid="78974",ARTE
 http://example.local/JAM-ARTEFRC.ts
+#EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png" group-title="Switzerland" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
+http://example.local/CHE-ARTEGRH.ts
+#EXTINF:-1 tvg-chno="78974" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s78974_ll_h15_aa.png" group-title="Switzerland" tvg-id="ARTEFRC" tvc-guide-stationid="78974",ARTE
+http://example.local/CHE-ARTEFRC.ts
 #EXTINF:-1 tvg-chno="79689" tvg-name="Arte 1" tvg-logo="https://zap2it.tmsimg.com/assets/s79689_ll_h15_aa.png" group-title="Brazil" tvg-id="ARTE1" tvc-guide-stationid="79689",Arte 1
 http://example.local/BRA-ARTE1.ts
 #EXTINF:-1 tvg-chno="103707" tvg-name="Arte 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103707_ll_h15_aa.png" group-title="Brazil" tvg-id="ARTE1HD" tvc-guide-stationid="103707",Arte 1 HD
@@ -567,38 +631,38 @@ http://example.local/BRA-ARTE1HD.ts
 http://example.local/BEL-ARTEBE.ts
 #EXTINF:-1 tvg-chno="116030" tvg-name="ARTE Belgique HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116030_ll_h15_aa.png" group-title="Belgium" tvg-id="ARTEBEH" tvc-guide-stationid="116030",ARTE Belgique HD
 http://example.local/BEL-ARTEBEH.ts
-#EXTINF:-1 tvg-chno="79103" tvg-name="ARTE HD" tvg-logo="https://logos.jesmann.com/ARTEHD.png" group-title="France" tvg-id="ARTEHD" tvc-guide-stationid="79103",ARTE HD
-http://example.local/FRA-ARTEHD.ts
-#EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="France" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
-http://example.local/FRA-ARTDEUH.ts
-#EXTINF:-1 tvg-chno="79103" tvg-name="ARTE HD" tvg-logo="https://logos.jesmann.com/ARTEHD.png" group-title="Italy" tvg-id="ARTEHD" tvc-guide-stationid="79103",ARTE HD
-http://example.local/ITA-ARTEHD.ts
-#EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="Italy" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
-http://example.local/ITA-ARTDEUH.ts
-#EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="Finland" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
-http://example.local/FIN-ARTDEUH.ts
 #EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="Germany" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
 http://example.local/DEU-ARTDEUH.ts
 #EXTINF:-1 tvg-chno="79103" tvg-name="ARTE HD" tvg-logo="https://logos.jesmann.com/ARTEHD.png" group-title="Germany" tvg-id="ARTEHD" tvc-guide-stationid="79103",ARTE HD
 http://example.local/DEU-ARTEHD.ts
-#EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="Poland" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
-http://example.local/POL-ARTDEUH.ts
+#EXTINF:-1 tvg-chno="79103" tvg-name="ARTE HD" tvg-logo="https://logos.jesmann.com/ARTEHD.png" group-title="France" tvg-id="ARTEHD" tvc-guide-stationid="79103",ARTE HD
+http://example.local/FRA-ARTEHD.ts
+#EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="France" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
+http://example.local/FRA-ARTDEUH.ts
+#EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="Spain" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
+http://example.local/ESP-ARTDEUH.ts
 #EXTINF:-1 tvg-chno="79103" tvg-name="ARTE HD" tvg-logo="https://logos.jesmann.com/ARTEHD.png" group-title="Poland" tvg-id="ARTEHD" tvc-guide-stationid="79103",ARTE HD
 http://example.local/POL-ARTEHD.ts
-#EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="Austria" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
-http://example.local/AUT-ARTDEUH.ts
-#EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="United Kingdom" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
-http://example.local/GBR-ARTDEUH.ts
-#EXTINF:-1 tvg-chno="79103" tvg-name="ARTE HD" tvg-logo="https://logos.jesmann.com/ARTEHD.png" group-title="Belgium" tvg-id="ARTEHD" tvc-guide-stationid="79103",ARTE HD
-http://example.local/BEL-ARTEHD.ts
+#EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="Poland" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
+http://example.local/POL-ARTDEUH.ts
 #EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="Belgium" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
 http://example.local/BEL-ARTDEUH.ts
+#EXTINF:-1 tvg-chno="79103" tvg-name="ARTE HD" tvg-logo="https://logos.jesmann.com/ARTEHD.png" group-title="Belgium" tvg-id="ARTEHD" tvc-guide-stationid="79103",ARTE HD
+http://example.local/BEL-ARTEHD.ts
 #EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="Netherlands" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
 http://example.local/NLD-ARTDEUH.ts
 #EXTINF:-1 tvg-chno="79103" tvg-name="ARTE HD" tvg-logo="https://logos.jesmann.com/ARTEHD.png" group-title="Netherlands" tvg-id="ARTEHD" tvc-guide-stationid="79103",ARTE HD
 http://example.local/NLD-ARTEHD.ts
-#EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="Spain" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
-http://example.local/ESP-ARTDEUH.ts
+#EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="Finland" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
+http://example.local/FIN-ARTDEUH.ts
+#EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="Austria" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
+http://example.local/AUT-ARTDEUH.ts
+#EXTINF:-1 tvg-chno="79103" tvg-name="ARTE HD" tvg-logo="https://logos.jesmann.com/ARTEHD.png" group-title="Italy" tvg-id="ARTEHD" tvc-guide-stationid="79103",ARTE HD
+http://example.local/ITA-ARTEHD.ts
+#EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="Italy" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
+http://example.local/ITA-ARTDEUH.ts
+#EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="United Kingdom" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
+http://example.local/GBR-ARTDEUH.ts
 #EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="Switzerland" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
 http://example.local/CHE-ARTDEUH.ts
 #EXTINF:-1 tvg-chno="79103" tvg-name="ARTE HD" tvg-logo="https://logos.jesmann.com/ARTEHD.png" group-title="Switzerland" tvg-id="ARTEHD" tvc-guide-stationid="79103",ARTE HD
@@ -609,10 +673,10 @@ http://example.local/ITA-ARTEATE.ts
 http://example.local/DEU-ARTFLIX.ts
 #EXTINF:-1 tvg-chno="26176" tvg-name="ARTMUSIC" group-title="United States" tvg-id="ARTMUSIC" tvc-guide-stationid="26176",ARTMUSIC
 http://example.local/USA-ARTMUSIC.ts
-#EXTINF:-1 tvg-chno="94552" tvg-name="Arts" group-title="United States" tvg-id="ARTS" tvc-guide-stationid="94552",Arts
-http://example.local/USA-ARTS.ts
 #EXTINF:-1 tvg-chno="36250" tvg-name="ARTS" group-title="Mexico" tvg-id="ARTST" tvc-guide-stationid="36250",ARTS
 http://example.local/MEX-ARTST.ts
+#EXTINF:-1 tvg-chno="94552" tvg-name="Arts" group-title="United States" tvg-id="ARTS" tvc-guide-stationid="94552",Arts
+http://example.local/USA-ARTS.ts
 #EXTINF:-1 tvg-chno="124119" tvg-name="ARTS TWG+" tvg-logo="https://zap2it.tmsimg.com/assets/s124119_ll_h9_aa.png" group-title="United States" tvg-id="ARTSTWG" tvc-guide-stationid="124119",ARTS TWG+
 http://example.local/USA-ARTSTWG.ts
 #EXTINF:-1 tvg-chno="53236" tvg-name="ARTV Televisión" tvg-logo="https://zap2it.tmsimg.com/assets/s53236_ll_h15_ab.png" group-title="Chile" tvg-id="ARTVC" tvc-guide-stationid="53236",ARTV Televisión
@@ -627,12 +691,12 @@ http://example.local/CAN-ARYMK.ts
 http://example.local/USA-ARYNEWS.ts
 #EXTINF:-1 tvg-chno="102618" tvg-name="ARY QTV" tvg-logo="https://zap2it.tmsimg.com/assets/s102618_ll_h15_ac.png" group-title="Canada" tvg-id="ARYQTVC" tvc-guide-stationid="102618",ARY QTV
 http://example.local/CAN-ARYQTVC.ts
+#EXTINF:-1 tvg-chno="49314" tvg-name="ARY QTV" tvg-logo="https://zap2it.tmsimg.com/assets/s49314_ll_h15_aa.png" group-title="Belgium" tvg-id="ARYQTV" tvc-guide-stationid="49314",ARY QTV
+http://example.local/BEL-ARYQTV.ts
 #EXTINF:-1 tvg-chno="49314" tvg-name="ARY QTV" tvg-logo="https://zap2it.tmsimg.com/assets/s49314_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ARYQTV" tvc-guide-stationid="49314",ARY QTV
 http://example.local/GBR-ARYQTV.ts
 #EXTINF:-1 tvg-chno="49314" tvg-name="ARY QTV" tvg-logo="https://zap2it.tmsimg.com/assets/s49314_ll_h15_aa.png" group-title="Ireland" tvg-id="ARYQTV" tvc-guide-stationid="49314",ARY QTV
 http://example.local/IRL-ARYQTV.ts
-#EXTINF:-1 tvg-chno="49314" tvg-name="ARY QTV" tvg-logo="https://zap2it.tmsimg.com/assets/s49314_ll_h15_aa.png" group-title="Belgium" tvg-id="ARYQTV" tvc-guide-stationid="49314",ARY QTV
-http://example.local/BEL-ARYQTV.ts
 #EXTINF:-1 tvg-chno="70524" tvg-name="ARY Zauq" group-title="United States" tvg-id="ARYZAUQ" tvc-guide-stationid="70524",ARY Zauq
 http://example.local/USA-ARYZAUQ.ts
 #EXTINF:-1 tvg-chno="102562" tvg-name="Ary ZAUQ Canada" tvg-logo="https://zap2it.tmsimg.com/assets/s102562_ll_h15_ab.png" group-title="Canada" tvg-id="ARYZAUC" tvc-guide-stationid="102562",Ary ZAUQ Canada
@@ -641,16 +705,16 @@ http://example.local/CAN-ARYZAUC.ts
 http://example.local/USA-ARYDI.ts
 #EXTINF:-1 tvg-chno="92853" tvg-name="As Seen On TV" group-title="United States" tvg-id="ASOTV" tvc-guide-stationid="92853",As Seen On TV
 http://example.local/USA-ASOTV.ts
-#EXTINF:-1 tvg-chno="75763" tvg-name="Asamblea Nacional" group-title="Panama" tvg-id="ASNTV" tvc-guide-stationid="75763",Asamblea Nacional
-http://example.local/PAN-ASNTV.ts
 #EXTINF:-1 tvg-chno="75763" tvg-name="Asamblea Nacional" group-title="Venezuela" tvg-id="ASNTV" tvc-guide-stationid="75763",Asamblea Nacional
 http://example.local/VEN-ASNTV.ts
+#EXTINF:-1 tvg-chno="75763" tvg-name="Asamblea Nacional" group-title="Panama" tvg-id="ASNTV" tvc-guide-stationid="75763",Asamblea Nacional
+http://example.local/PAN-ASNTV.ts
 #EXTINF:-1 tvg-chno="120516" tvg-name="Asharq" group-title="Germany" tvg-id="ASHARQ" tvc-guide-stationid="120516",Asharq
 http://example.local/DEU-ASHARQ.ts
-#EXTINF:-1 tvg-chno="122965" tvg-name="Asharq News" tvg-logo="https://zap2it.tmsimg.com/assets/s122965_ll_h9_aa.png" group-title="France" tvg-id="ASHN" tvc-guide-stationid="122965",Asharq News
-http://example.local/FRA-ASHN.ts
 #EXTINF:-1 tvg-chno="122965" tvg-name="Asharq News" tvg-logo="https://zap2it.tmsimg.com/assets/s122965_ll_h9_aa.png" group-title="Germany" tvg-id="ASHN" tvc-guide-stationid="122965",Asharq News
 http://example.local/DEU-ASHN.ts
+#EXTINF:-1 tvg-chno="122965" tvg-name="Asharq News" tvg-logo="https://zap2it.tmsimg.com/assets/s122965_ll_h9_aa.png" group-title="France" tvg-id="ASHN" tvc-guide-stationid="122965",Asharq News
+http://example.local/FRA-ASHN.ts
 #EXTINF:-1 tvg-chno="122965" tvg-name="Asharq News" tvg-logo="https://zap2it.tmsimg.com/assets/s122965_ll_h9_aa.png" group-title="United States" tvg-id="ASHN" tvc-guide-stationid="122965",Asharq News
 http://example.local/USA-ASHN.ts
 #EXTINF:-1 tvg-chno="165082" tvg-name="Asharq News" group-title="United Kingdom" tvg-id="ASHNEWS" tvc-guide-stationid="165082",Asharq News
@@ -759,12 +823,12 @@ http://example.local/USA-ATNBANG.ts
 http://example.local/CAN-ATNBNGC.ts
 #EXTINF:-1 tvg-chno="52041" tvg-name="ATN Bangla UK" tvg-logo="https://zap2it.tmsimg.com/assets/s52041_ll_h15_aa.png" group-title="Germany" tvg-id="ATNBNUK" tvc-guide-stationid="52041",ATN Bangla UK
 http://example.local/DEU-ATNBNUK.ts
+#EXTINF:-1 tvg-chno="52041" tvg-name="ATN Bangla UK" tvg-logo="https://zap2it.tmsimg.com/assets/s52041_ll_h15_aa.png" group-title="Belgium" tvg-id="ATNBNUK" tvc-guide-stationid="52041",ATN Bangla UK
+http://example.local/BEL-ATNBNUK.ts
 #EXTINF:-1 tvg-chno="52041" tvg-name="ATN Bangla UK" tvg-logo="https://zap2it.tmsimg.com/assets/s52041_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ATNBNUK" tvc-guide-stationid="52041",ATN Bangla UK
 http://example.local/GBR-ATNBNUK.ts
 #EXTINF:-1 tvg-chno="52041" tvg-name="ATN Bangla UK" tvg-logo="https://zap2it.tmsimg.com/assets/s52041_ll_h15_aa.png" group-title="Ireland" tvg-id="ATNBNUK" tvc-guide-stationid="52041",ATN Bangla UK
 http://example.local/IRL-ATNBNUK.ts
-#EXTINF:-1 tvg-chno="52041" tvg-name="ATN Bangla UK" tvg-logo="https://zap2it.tmsimg.com/assets/s52041_ll_h15_aa.png" group-title="Belgium" tvg-id="ATNBNUK" tvc-guide-stationid="52041",ATN Bangla UK
-http://example.local/BEL-ATNBNUK.ts
 #EXTINF:-1 tvg-chno="85862" tvg-name="ATN Colors" tvg-logo="https://zap2it.tmsimg.com/assets/s85862_h3_aa.png" group-title="Canada" tvg-id="ATNCLRS" tvc-guide-stationid="85862",ATN Colors
 http://example.local/CAN-ATNCLRS.ts
 #EXTINF:-1 tvg-chno="85862" tvg-name="ATN Colors" tvg-logo="https://zap2it.tmsimg.com/assets/s85862_h3_aa.png" group-title="Belize" tvg-id="ATNCLRS" tvc-guide-stationid="85862",ATN Colors
@@ -777,26 +841,26 @@ http://example.local/CAN-ATNCOLM.ts
 http://example.local/CAN-ATNCRKP.ts
 #EXTINF:-1 tvg-chno="118890" tvg-name="ATN Cricket Plus HD Feed" group-title="Canada" tvg-id="ATNCRKH" tvc-guide-stationid="118890",ATN Cricket Plus HD Feed
 http://example.local/CAN-ATNCRKH.ts
-#EXTINF:-1 tvg-chno="104974" tvg-name="ATN DD Bharati" tvg-logo="https://zap2it.tmsimg.com/assets/s104974_ll_h15_aa.png" group-title="Canada" tvg-id="BHARASD" tvc-guide-stationid="104974",ATN DD Bharati
-http://example.local/CAN-BHARASD.ts
 #EXTINF:-1 tvg-chno="89708" tvg-name="ATN DD Bharati" tvg-logo="https://zap2it.tmsimg.com/assets/s89708_ll_h15_aa.png" group-title="Canada" tvg-id="BHARATI" tvc-guide-stationid="89708",ATN DD Bharati
 http://example.local/CAN-BHARATI.ts
+#EXTINF:-1 tvg-chno="104974" tvg-name="ATN DD Bharati" tvg-logo="https://zap2it.tmsimg.com/assets/s104974_ll_h15_aa.png" group-title="Canada" tvg-id="BHARASD" tvc-guide-stationid="104974",ATN DD Bharati
+http://example.local/CAN-BHARASD.ts
 #EXTINF:-1 tvg-chno="89709" tvg-name="ATN DD India" tvg-logo="https://zap2it.tmsimg.com/assets/s89709_ll_h15_aa.png" group-title="Canada" tvg-id="ADINDIA" tvc-guide-stationid="89709",ATN DD India
 http://example.local/CAN-ADINDIA.ts
 #EXTINF:-1 tvg-chno="104973" tvg-name="ATN DD India SD" tvg-logo="https://zap2it.tmsimg.com/assets/s89709_ll_h15_aa.png" group-title="Canada" tvg-id="AINDISD" tvc-guide-stationid="104973",ATN DD India SD
 http://example.local/CAN-AINDISD.ts
-#EXTINF:-1 tvg-chno="104972" tvg-name="ATN DD News" tvg-logo="https://zap2it.tmsimg.com/assets/s89710_ll_h15_ab.png" group-title="Canada" tvg-id="ANEWSSD" tvc-guide-stationid="104972",ATN DD News
-http://example.local/CAN-ANEWSSD.ts
 #EXTINF:-1 tvg-chno="89710" tvg-name="ATN DD News" tvg-logo="https://zap2it.tmsimg.com/assets/s89710_ll_h15_ab.png" group-title="Canada" tvg-id="ATNNEWS" tvc-guide-stationid="89710",ATN DD News
 http://example.local/CAN-ATNNEWS.ts
+#EXTINF:-1 tvg-chno="104972" tvg-name="ATN DD News" tvg-logo="https://zap2it.tmsimg.com/assets/s89710_ll_h15_ab.png" group-title="Canada" tvg-id="ANEWSSD" tvc-guide-stationid="104972",ATN DD News
+http://example.local/CAN-ANEWSSD.ts
 #EXTINF:-1 tvg-chno="83580" tvg-name="ATN Food Food" tvg-logo="https://zap2it.tmsimg.com/assets/s83580_ll_h15_ab.png" group-title="Canada" tvg-id="ATNFF" tvc-guide-stationid="83580",ATN Food Food
 http://example.local/CAN-ATNFF.ts
 #EXTINF:-1 tvg-chno="83580" tvg-name="ATN Food Food" tvg-logo="https://zap2it.tmsimg.com/assets/s83580_ll_h15_ab.png" group-title="United States" tvg-id="ATNFF" tvc-guide-stationid="83580",ATN Food Food
 http://example.local/USA-ATNFF.ts
-#EXTINF:-1 tvg-chno="104969" tvg-name="ATN Gujarati" tvg-logo="https://zap2it.tmsimg.com/assets/s104969_ll_h6_aa.png" group-title="Canada" tvg-id="ATNGUJS" tvc-guide-stationid="104969",ATN Gujarati
-http://example.local/CAN-ATNGUJS.ts
 #EXTINF:-1 tvg-chno="89704" tvg-name="ATN Gujarati" tvg-logo="https://zap2it.tmsimg.com/assets/s89704_ll_h6_aa.png" group-title="Canada" tvg-id="ATNGUJ" tvc-guide-stationid="89704",ATN Gujarati
 http://example.local/CAN-ATNGUJ.ts
+#EXTINF:-1 tvg-chno="104969" tvg-name="ATN Gujarati" tvg-logo="https://zap2it.tmsimg.com/assets/s104969_ll_h6_aa.png" group-title="Canada" tvg-id="ATNGUJS" tvc-guide-stationid="104969",ATN Gujarati
+http://example.local/CAN-ATNGUJS.ts
 #EXTINF:-1 tvg-chno="28756" tvg-name="ATN Jaya TV" tvg-logo="https://zap2it.tmsimg.com/assets/s28756_ll_h15_aa.png" group-title="Canada" tvg-id="JAYATV" tvc-guide-stationid="28756",ATN Jaya TV
 http://example.local/CAN-JAYATV.ts
 #EXTINF:-1 tvg-chno="28756" tvg-name="ATN Jaya TV" tvg-logo="https://zap2it.tmsimg.com/assets/s28756_ll_h15_aa.png" group-title="United States" tvg-id="JAYATV" tvc-guide-stationid="28756",ATN Jaya TV
@@ -869,153 +933,89 @@ http://example.local/CAN-ATNVJYT.ts
 http://example.local/CAN-ATNVJTSD.ts
 #EXTINF:-1 tvg-chno="89775" tvg-name="ATN Zee Punjabi" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0022KXN6.png" group-title="Canada" tvg-id="ATNZEEPN" tvc-guide-stationid="89775",ATN Zee Punjabi
 http://example.local/CAN-ATNZEEPN.ts
-#EXTINF:-1 tvg-chno="82808" tvg-name="Atrescine" tvg-logo="https://zap2it.tmsimg.com/assets/s82808_ll_h15_aa.png" group-title="United States" tvg-id="A3CINE" tvc-guide-stationid="82808",Atrescine
-http://example.local/USA-A3CINE.ts
-#EXTINF:-1 tvg-chno="111412" tvg-name="Atrescine" tvg-logo="https://zap2it.tmsimg.com/assets/s82808_ll_h15_aa.png" group-title="Mexico" tvg-id="A3CI" tvc-guide-stationid="111412",Atrescine
-http://example.local/MEX-A3CI.ts
 #EXTINF:-1 tvg-chno="82808" tvg-name="Atrescine" tvg-logo="https://zap2it.tmsimg.com/assets/s82808_ll_h15_aa.png" group-title="Mexico" tvg-id="A3CINE" tvc-guide-stationid="82808",Atrescine
 http://example.local/MEX-A3CINE.ts
+#EXTINF:-1 tvg-chno="111412" tvg-name="Atrescine" tvg-logo="https://zap2it.tmsimg.com/assets/s82808_ll_h15_aa.png" group-title="Mexico" tvg-id="A3CI" tvc-guide-stationid="111412",Atrescine
+http://example.local/MEX-A3CI.ts
+#EXTINF:-1 tvg-chno="82808" tvg-name="Atrescine" tvg-logo="https://zap2it.tmsimg.com/assets/s82808_ll_h15_aa.png" group-title="United States" tvg-id="A3CINE" tvc-guide-stationid="82808",Atrescine
+http://example.local/USA-A3CINE.ts
 #EXTINF:-1 tvg-chno="82808" tvg-name="Atrescine" tvg-logo="https://zap2it.tmsimg.com/assets/s82808_ll_h15_aa.png" group-title="Chile" tvg-id="A3CINE" tvc-guide-stationid="82808",Atrescine
 http://example.local/CHL-A3CINE.ts
 #EXTINF:-1 tvg-chno="111412" tvg-name="Atrescine" tvg-logo="https://zap2it.tmsimg.com/assets/s82808_ll_h15_aa.png" group-title="Chile" tvg-id="A3CI" tvc-guide-stationid="111412",Atrescine
 http://example.local/CHL-A3CI.ts
-#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="France" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
-http://example.local/FRA-ATRESSD.ts
-#EXTINF:-1 tvg-chno="90898" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="France" tvg-id="ATRES" tvc-guide-stationid="90898",Atreseries
-http://example.local/FRA-ATRES.ts
-#EXTINF:-1 tvg-chno="91998" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="United States" tvg-id="ATRESSE" tvc-guide-stationid="91998",Atreseries
-http://example.local/USA-ATRESSE.ts
-#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="United States" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
-http://example.local/USA-ATRESSD.ts
-#EXTINF:-1 tvg-chno="90898" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="United States" tvg-id="ATRES" tvc-guide-stationid="90898",Atreseries
-http://example.local/USA-ATRES.ts
-#EXTINF:-1 tvg-chno="92001" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="United States" tvg-id="ATRESE" tvc-guide-stationid="92001",Atreseries
-http://example.local/USA-ATRESE.ts
 #EXTINF:-1 tvg-chno="90898" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Mexico" tvg-id="ATRES" tvc-guide-stationid="90898",Atreseries
 http://example.local/MEX-ATRES.ts
 #EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Mexico" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
 http://example.local/MEX-ATRESSD.ts
+#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="France" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
+http://example.local/FRA-ATRESSD.ts
+#EXTINF:-1 tvg-chno="90898" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="France" tvg-id="ATRES" tvc-guide-stationid="90898",Atreseries
+http://example.local/FRA-ATRES.ts
 #EXTINF:-1 tvg-chno="96446" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s96446_ll_h15_ac.png" group-title="Spain" tvg-id="ATSRIES" tvc-guide-stationid="96446",Atreseries
 http://example.local/ESP-ATSRIES.ts
 #EXTINF:-1 tvg-chno="90898" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Spain" tvg-id="ATRES" tvc-guide-stationid="90898",Atreseries
 http://example.local/ESP-ATRES.ts
-#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
-http://example.local/TTO-ATRESSD.ts
-#EXTINF:-1 tvg-chno="92001" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Argentina" tvg-id="ATRESE" tvc-guide-stationid="92001",Atreseries
-http://example.local/ARG-ATRESE.ts
-#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Argentina" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
-http://example.local/ARG-ATRESSD.ts
-#EXTINF:-1 tvg-chno="90898" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Argentina" tvg-id="ATRES" tvc-guide-stationid="90898",Atreseries
-http://example.local/ARG-ATRES.ts
-#EXTINF:-1 tvg-chno="92001" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Peru" tvg-id="ATRESE" tvc-guide-stationid="92001",Atreseries
-http://example.local/PER-ATRESE.ts
-#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Peru" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
-http://example.local/PER-ATRESSD.ts
-#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Anguilla" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
-http://example.local/AIA-ATRESSD.ts
-#EXTINF:-1 tvg-chno="92001" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Colombia" tvg-id="ATRESE" tvc-guide-stationid="92001",Atreseries
-http://example.local/COL-ATRESE.ts
-#EXTINF:-1 tvg-chno="90898" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Colombia" tvg-id="ATRES" tvc-guide-stationid="90898",Atreseries
-http://example.local/COL-ATRES.ts
-#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Colombia" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
-http://example.local/COL-ATRESSD.ts
-#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Costa Rica" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
-http://example.local/CRI-ATRESSD.ts
+#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="United States" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
+http://example.local/USA-ATRESSD.ts
+#EXTINF:-1 tvg-chno="90898" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="United States" tvg-id="ATRES" tvc-guide-stationid="90898",Atreseries
+http://example.local/USA-ATRES.ts
+#EXTINF:-1 tvg-chno="91998" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="United States" tvg-id="ATRESSE" tvc-guide-stationid="91998",Atreseries
+http://example.local/USA-ATRESSE.ts
+#EXTINF:-1 tvg-chno="92001" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="United States" tvg-id="ATRESE" tvc-guide-stationid="92001",Atreseries
+http://example.local/USA-ATRESE.ts
 #EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Chile" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
 http://example.local/CHL-ATRESSD.ts
 #EXTINF:-1 tvg-chno="92001" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Chile" tvg-id="ATRESE" tvc-guide-stationid="92001",Atreseries
 http://example.local/CHL-ATRESE.ts
 #EXTINF:-1 tvg-chno="90898" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Chile" tvg-id="ATRES" tvc-guide-stationid="90898",Atreseries
 http://example.local/CHL-ATRES.ts
+#EXTINF:-1 tvg-chno="90898" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Colombia" tvg-id="ATRES" tvc-guide-stationid="90898",Atreseries
+http://example.local/COL-ATRES.ts
+#EXTINF:-1 tvg-chno="92001" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Colombia" tvg-id="ATRESE" tvc-guide-stationid="92001",Atreseries
+http://example.local/COL-ATRESE.ts
+#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Colombia" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
+http://example.local/COL-ATRESSD.ts
+#EXTINF:-1 tvg-chno="92001" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Peru" tvg-id="ATRESE" tvc-guide-stationid="92001",Atreseries
+http://example.local/PER-ATRESE.ts
+#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Peru" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
+http://example.local/PER-ATRESSD.ts
+#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Argentina" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
+http://example.local/ARG-ATRESSD.ts
+#EXTINF:-1 tvg-chno="92001" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Argentina" tvg-id="ATRESE" tvc-guide-stationid="92001",Atreseries
+http://example.local/ARG-ATRESE.ts
+#EXTINF:-1 tvg-chno="90898" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Argentina" tvg-id="ATRES" tvc-guide-stationid="90898",Atreseries
+http://example.local/ARG-ATRES.ts
+#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Costa Rica" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
+http://example.local/CRI-ATRESSD.ts
+#EXTINF:-1 tvg-chno="92001" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Venezuela" tvg-id="ATRESE" tvc-guide-stationid="92001",Atreseries
+http://example.local/VEN-ATRESE.ts
+#EXTINF:-1 tvg-chno="96446" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s96446_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="ATSRIES" tvc-guide-stationid="96446",Atreseries
+http://example.local/PRI-ATSRIES.ts
+#EXTINF:-1 tvg-chno="92001" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Guatemala" tvg-id="ATRESE" tvc-guide-stationid="92001",Atreseries
+http://example.local/GTM-ATRESE.ts
 #EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Ecuador" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
 http://example.local/ECU-ATRESSD.ts
 #EXTINF:-1 tvg-chno="92001" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Ecuador" tvg-id="ATRESE" tvc-guide-stationid="92001",Atreseries
 http://example.local/ECU-ATRESE.ts
-#EXTINF:-1 tvg-chno="92001" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Venezuela" tvg-id="ATRESE" tvc-guide-stationid="92001",Atreseries
-http://example.local/VEN-ATRESE.ts
 #EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Uruguay" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
 http://example.local/URY-ATRESSD.ts
 #EXTINF:-1 tvg-chno="92001" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Uruguay" tvg-id="ATRESE" tvc-guide-stationid="92001",Atreseries
 http://example.local/URY-ATRESE.ts
-#EXTINF:-1 tvg-chno="92001" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Guatemala" tvg-id="ATRESE" tvc-guide-stationid="92001",Atreseries
-http://example.local/GTM-ATRESE.ts
-#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Aruba" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
-http://example.local/ABW-ATRESSD.ts
-#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="St. Lucia" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
-http://example.local/LCA-ATRESSD.ts
-#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="St. Kitts and Nevis" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
-http://example.local/KNA-ATRESSD.ts
-#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Dominica" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
-http://example.local/DMA-ATRESSD.ts
-#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Barbados" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
-http://example.local/BRB-ATRESSD.ts
+#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
+http://example.local/TTO-ATRESSD.ts
 #EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Saint Vincent and the Grenadines" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
 http://example.local/VCT-ATRESSD.ts
-#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Curacao" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
-http://example.local/CUW-ATRESSD.ts
-#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Saint Martin" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
-http://example.local/MAF-ATRESSD.ts
+#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Barbados" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
+http://example.local/BRB-ATRESSD.ts
+#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Dominica" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
+http://example.local/DMA-ATRESSD.ts
 #EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Grenada" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
 http://example.local/GRD-ATRESSD.ts
 #EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Antigua and Barbuda" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
 http://example.local/ATG-ATRESSD.ts
-#EXTINF:-1 tvg-chno="102943" tvg-name="Atreseries HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Mexico" tvg-id="ATSESHD" tvc-guide-stationid="102943",Atreseries HD
-http://example.local/MEX-ATSESHD.ts
-#EXTINF:-1 tvg-chno="102943" tvg-name="Atreseries HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Spain" tvg-id="ATSESHD" tvc-guide-stationid="102943",Atreseries HD
-http://example.local/ESP-ATSESHD.ts
-#EXTINF:-1 tvg-chno="102943" tvg-name="Atreseries HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Switzerland" tvg-id="ATSESHD" tvc-guide-stationid="102943",Atreseries HD
-http://example.local/CHE-ATSESHD.ts
-#EXTINF:-1 tvg-chno="88174" tvg-name="ATV" tvg-logo="https://zap2it.tmsimg.com/assets/s88174_ll_h15_ab.png" group-title="Germany" tvg-id="ATVAUS" tvc-guide-stationid="88174",ATV
-http://example.local/DEU-ATVAUS.ts
-#EXTINF:-1 tvg-chno="109513" tvg-name="ATV" tvg-logo="https://zap2it.tmsimg.com/assets/s109513_ll_h15_aa.png" group-title="Germany" tvg-id="ATVBA" tvc-guide-stationid="109513",ATV
-http://example.local/DEU-ATVBA.ts
-#EXTINF:-1 tvg-chno="88174" tvg-name="ATV" tvg-logo="https://zap2it.tmsimg.com/assets/s88174_ll_h15_ab.png" group-title="Austria" tvg-id="ATVAUS" tvc-guide-stationid="88174",ATV
-http://example.local/AUT-ATVAUS.ts
-#EXTINF:-1 tvg-chno="109513" tvg-name="ATV" tvg-logo="https://zap2it.tmsimg.com/assets/s109513_ll_h15_aa.png" group-title="Austria" tvg-id="ATVBA" tvc-guide-stationid="109513",ATV
-http://example.local/AUT-ATVBA.ts
-#EXTINF:-1 tvg-chno="120862" tvg-name="ATV" group-title="Belgium" tvg-id="ATVBE" tvc-guide-stationid="120862",ATV
-http://example.local/BEL-ATVBE.ts
-#EXTINF:-1 tvg-chno="88174" tvg-name="ATV" tvg-logo="https://zap2it.tmsimg.com/assets/s88174_ll_h15_ab.png" group-title="Spain" tvg-id="ATVAUS" tvc-guide-stationid="88174",ATV
-http://example.local/ESP-ATVAUS.ts
-#EXTINF:-1 tvg-chno="49145" tvg-name="ATV" tvg-logo="https://zap2it.tmsimg.com/assets/s91679_h3_aa.png" group-title="Peru" tvg-id="ATVPERU" tvc-guide-stationid="49145",ATV
-http://example.local/PER-ATVPERU.ts
-#EXTINF:-1 tvg-chno="122000" tvg-name="ATV Albania HD" group-title="Germany" tvg-id="ATVALB" tvc-guide-stationid="122000",ATV Albania HD
-http://example.local/DEU-ATVALB.ts
-#EXTINF:-1 tvg-chno="96483" tvg-name="ATV Avrupa" tvg-logo="https://zap2it.tmsimg.com/assets/s96483_ll_h15_ab.png" group-title="France" tvg-id="AVRPTU" tvc-guide-stationid="96483",ATV Avrupa
-http://example.local/FRA-AVRPTU.ts
-#EXTINF:-1 tvg-chno="96483" tvg-name="ATV Avrupa" tvg-logo="https://zap2it.tmsimg.com/assets/s96483_ll_h15_ab.png" group-title="Germany" tvg-id="AVRPTU" tvc-guide-stationid="96483",ATV Avrupa
-http://example.local/DEU-AVRPTU.ts
-#EXTINF:-1 tvg-chno="96483" tvg-name="ATV Avrupa" tvg-logo="https://zap2it.tmsimg.com/assets/s96483_ll_h15_ab.png" group-title="Austria" tvg-id="AVRPTU" tvc-guide-stationid="96483",ATV Avrupa
-http://example.local/AUT-AVRPTU.ts
-#EXTINF:-1 tvg-chno="96483" tvg-name="ATV Avrupa" tvg-logo="https://zap2it.tmsimg.com/assets/s96483_ll_h15_ab.png" group-title="Netherlands" tvg-id="AVRPTU" tvc-guide-stationid="96483",ATV Avrupa
-http://example.local/NLD-AVRPTU.ts
-#EXTINF:-1 tvg-chno="96483" tvg-name="ATV Avrupa" tvg-logo="https://zap2it.tmsimg.com/assets/s96483_ll_h15_ab.png" group-title="Switzerland" tvg-id="AVRPTU" tvc-guide-stationid="96483",ATV Avrupa
-http://example.local/CHE-AVRPTU.ts
-#EXTINF:-1 tvg-chno="96483" tvg-name="ATV Avrupa" tvg-logo="https://zap2it.tmsimg.com/assets/s96483_ll_h15_ab.png" group-title="Curacao" tvg-id="AVRPTU" tvc-guide-stationid="96483",ATV Avrupa
-http://example.local/CUW-AVRPTU.ts
-#EXTINF:-1 tvg-chno="96483" tvg-name="ATV Avrupa" tvg-logo="https://zap2it.tmsimg.com/assets/s96483_ll_h15_ab.png" group-title="Belize" tvg-id="AVRPTU" tvc-guide-stationid="96483",ATV Avrupa
-http://example.local/BLZ-AVRPTU.ts
-#EXTINF:-1 tvg-chno="88733" tvg-name="ATV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88733_ll_h15_ac.png" group-title="Germany" tvg-id="ATVHDAU" tvc-guide-stationid="88733",ATV HD
-http://example.local/DEU-ATVHDAU.ts
-#EXTINF:-1 tvg-chno="88733" tvg-name="ATV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88733_ll_h15_ac.png" group-title="Austria" tvg-id="ATVHDAU" tvc-guide-stationid="88733",ATV HD
-http://example.local/AUT-ATVHDAU.ts
-#EXTINF:-1 tvg-chno="122688" tvg-name="ATV HD" group-title="Belgium" tvg-id="ATVBEHD" tvc-guide-stationid="122688",ATV HD
-http://example.local/BEL-ATVBEHD.ts
-#EXTINF:-1 tvg-chno="120051" tvg-name="ATV HD" group-title="Switzerland" tvg-id="ATVHDTR" tvc-guide-stationid="120051",ATV HD
-http://example.local/CHE-ATVHDTR.ts
-#EXTINF:-1 tvg-chno="101672" tvg-name="ATV II HD" tvg-logo="https://zap2it.tmsimg.com/assets/s101672_ll_h15_aa.png" group-title="Austria" tvg-id="ATV2AHD" tvc-guide-stationid="101672",ATV II HD
-http://example.local/AUT-ATV2AHD.ts
-#EXTINF:-1 tvg-chno="91679" tvg-name="ATV PERU HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91679_h3_aa.png" group-title="Peru" tvg-id="ATVPRHD" tvc-guide-stationid="91679",ATV PERU HD
-http://example.local/PER-ATVPRHD.ts
-#EXTINF:-1 tvg-chno="74632" tvg-name="ATV Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s102811_ll_h15_aa.png" group-title="Peru" tvg-id="ATVPLUS" tvc-guide-stationid="74632",ATV Plus
-http://example.local/PER-ATVPLUS.ts
-#EXTINF:-1 tvg-chno="102811" tvg-name="ATV Plus HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102811_h3_aa.png" group-title="Peru" tvg-id="ATVPLHD" tvc-guide-stationid="102811",ATV Plus HD
-http://example.local/PER-ATVPLHD.ts
-#EXTINF:-1 tvg-chno="81338" tvg-name="ATV Sur" tvg-logo="https://zap2it.tmsimg.com/assets/s81338_ll_h15_aa.png" group-title="Peru" tvg-id="ATVSUR" tvc-guide-stationid="81338",ATV Sur
-http://example.local/PER-ATVSUR.ts
-#EXTINF:-1 tvg-chno="88175" tvg-name="ATV2" tvg-logo="https://zap2it.tmsimg.com/assets/s88175_ll_h15_ac.png" group-title="Germany" tvg-id="ATV2AUS" tvc-guide-stationid="88175",ATV2
-http://example.local/DEU-ATV2AUS.ts
-#EXTINF:-1 tvg-chno="88175" tvg-name="ATV2" tvg-logo="https://zap2it.tmsimg.com/assets/s88175_ll_h15_ac.png" group-title="Austria" tvg-id="ATV2AUS" tvc-guide-stationid="88175",ATV2
-http://example.local/AUT-ATV2AUS.ts
-#EXTINF:-1 tvg-chno="88175" tvg-name="ATV2" tvg-logo="https://zap2it.tmsimg.com/assets/s88175_ll_h15_ac.png" group-title="Switzerland" tvg-id="ATV2AUS" tvc-guide-stationid="88175",ATV2
-http://example.local/CHE-ATV2AUS.ts
+#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="St. Lucia" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
+http://example.local/LCA-ATRESSD.ts
+#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Curacao" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
+http://example.local/CUW-ATRESSD.ts
+#EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Aruba" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
+http://example.local/ABW-ATRESSD.ts

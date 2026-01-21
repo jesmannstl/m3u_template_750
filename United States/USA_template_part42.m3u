@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="16869" tvg-name="ROOT Sports Northwest (Alt.) - RTN5" tvg-logo="https://zap2it.tmsimg.com/assets/s11062_ll_h15_aa.png" group-title="United States" tvg-id="RTN5" tvc-guide-stationid="16869",ROOT Sports Northwest (Alt.) - RTN5
-http://example.local/USA-RTN5.ts
-#EXTINF:-1 tvg-chno="95929" tvg-name="ROOT Sports Northwest (Alt.) HD" tvg-logo="https://zap2it.tmsimg.com/assets/s11062_ll_h15_aa.png" group-title="United States" tvg-id="RTN5HD" tvc-guide-stationid="95929",ROOT Sports Northwest (Alt.) HD
-http://example.local/USA-RTN5HD.ts
 #EXTINF:-1 tvg-chno="49946" tvg-name="ROOT Sports Northwest (Spokane)" tvg-logo="https://zap2it.tmsimg.com/assets/s11062_ll_h15_aa.png" group-title="United States" tvg-id="RTNSPK" tvc-guide-stationid="49946",ROOT Sports Northwest (Spokane)
 http://example.local/USA-RTNSPK.ts
 #EXTINF:-1 tvg-chno="95922" tvg-name="ROOT Sports Northwest (Spokane) HD" tvg-logo="https://zap2it.tmsimg.com/assets/s11062_ll_h15_aa.png" group-title="United States" tvg-id="RTNSPKH" tvc-guide-stationid="95922",ROOT Sports Northwest (Spokane) HD
@@ -11,8 +7,6 @@ http://example.local/USA-RTNSPKH.ts
 http://example.local/USA-RTN3BOM.ts
 #EXTINF:-1 tvg-chno="61090" tvg-name="ROOT Sports Northwest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61090_ll_h15_aa.png" group-title="United States" tvg-id="RTNWHD" tvc-guide-stationid="61090",ROOT Sports Northwest HD
 http://example.local/USA-RTNWHD.ts
-#EXTINF:-1 tvg-chno="65802" tvg-name="ROOT Sports Northwest HD (Alt.) - FSN1" tvg-logo="https://zap2it.tmsimg.com/assets/s11062_ll_h15_aa.png" group-title="United States" tvg-id="RTN1HD" tvc-guide-stationid="65802",ROOT Sports Northwest HD (Alt.) - FSN1
-http://example.local/USA-RTN1HD.ts
 #EXTINF:-1 tvg-chno="59675" tvg-name="ROOT Sports Northwest HD (Alt.) - RTN4HD" tvg-logo="https://zap2it.tmsimg.com/assets/s11062_ll_h15_aa.png" group-title="United States" tvg-id="RTN4HD" tvc-guide-stationid="59675",ROOT Sports Northwest HD (Alt.) - RTN4HD
 http://example.local/USA-RTN4HD.ts
 #EXTINF:-1 tvg-chno="140461" tvg-name="Root Sports Northwest Overflow" group-title="United States" tvg-id="RTNWI" tvc-guide-stationid="140461",Root Sports Northwest Overflow
@@ -121,6 +115,8 @@ http://example.local/USA-RVGTV.ts
 http://example.local/USA-RVTVSTR.ts
 #EXTINF:-1 tvg-chno="118462" tvg-name="Ryan and Friends" tvg-logo="https://zap2it.tmsimg.com/assets/s118462_ll_h15_aa.png" group-title="United States" tvg-id="RAF" tvc-guide-stationid="118462",Ryan and Friends
 http://example.local/USA-RAF.ts
+#EXTINF:-1 tvg-chno="198536" tvg-name="Ryan Trahan" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002HNK82.png" group-title="United States" tvg-id="XMVRT" tvc-guide-stationid="198536",Ryan Trahan
+http://example.local/USA-XMVRT.ts
 #EXTINF:-1 tvg-chno="119129" tvg-name="RyanandFriends" group-title="United States" tvg-id="VIZRTFR" tvc-guide-stationid="119129",RyanandFriends
 http://example.local/USA-VIZRTFR.ts
 #EXTINF:-1 tvg-chno="173352" tvg-name="Ryz Sports Network" tvg-logo="https://zap2it.tmsimg.com/assets/s173352_ll_h15_aa.png" group-title="United States" tvg-id="RYZSPRT" tvc-guide-stationid="173352",Ryz Sports Network
@@ -173,7 +169,9 @@ http://example.local/USA-SBLA.ts
 http://example.local/USA-SDCLA.ts
 #EXTINF:-1 tvg-chno="79315" tvg-name="SalSoul 99.1 FM" group-title="United States" tvg-id="SALSOUL" tvc-guide-stationid="79315",SalSoul 99.1 FM
 http://example.local/USA-SALSOUL.ts
-#EXTINF:-1 tvg-chno="106086" tvg-name="Sama Dubai" group-title="United States" tvg-id="SAMADUB" tvc-guide-stationid="106086",Sama Dubai
+#EXTINF:-1 tvg-chno="198532" tvg-name="Sam and Colby" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002HNKPT.png" group-title="United States" tvg-id="XMVSNC" tvc-guide-stationid="198532",Sam and Colby
+http://example.local/USA-XMVSNC.ts
+#EXTINF:-1 tvg-chno="106086" tvg-name="Sama Dubai" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002HSYDJ.png" group-title="United States" tvg-id="SAMADUB" tvc-guide-stationid="106086",Sama Dubai
 http://example.local/USA-SAMADUB.ts
 #EXTINF:-1 tvg-chno="183200" tvg-name="Samsung Showcase" group-title="United States" tvg-id="SHOWCSE" tvc-guide-stationid="183200",Samsung Showcase
 http://example.local/USA-SHOWCSE.ts
@@ -341,7 +339,7 @@ http://example.local/USA-SCWSTHD.ts
 http://example.local/USA-SCNEWST.ts
 #EXTINF:-1 tvg-chno="96827" tvg-name="Scripps News" tvg-logo="https://zap2it.tmsimg.com/assets/s96827_ll_h15_ad.png" group-title="United States" tvg-id="SCNEWS" tvc-guide-stationid="96827",Scripps News
 http://example.local/USA-SCNEWS.ts
-#EXTINF:-1 tvg-chno="62612" tvg-name="SD01 (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_h3_aa.png" group-title="United States" tvg-id="SD01" tvc-guide-stationid="62612",SD01 (PBS)
+#EXTINF:-1 tvg-chno="62612" tvg-name="SD01 (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="United States" tvg-id="SD01" tvc-guide-stationid="62612",SD01 (PBS)
 http://example.local/USA-SD01.ts
 #EXTINF:-1 tvg-chno="92565" tvg-name="SDSU Channel" group-title="United States" tvg-id="SDSU" tvc-guide-stationid="92565",SDSU Channel
 http://example.local/USA-SDSU.ts
@@ -495,7 +493,7 @@ http://example.local/USA-SHO2HST.ts
 http://example.local/USA-SHOWSTR.ts
 #EXTINF:-1 tvg-chno="91621" tvg-name="Sho Stream (Pacific)" tvg-logo="https://logos.jesmann.com/showstp.png" group-title="United States" tvg-id="SHOWSTP" tvc-guide-stationid="91621",Sho Stream (Pacific)
 http://example.local/USA-SHOWSTP.ts
-#EXTINF:-1 tvg-chno="20622" tvg-name="SHO x BET" tvg-logo="https://zap2it.tmsimg.com/assets/s20622_h3_aa.png" group-title="United States" tvg-id="SHOBET" tvc-guide-stationid="20622",SHO x BET
+#EXTINF:-1 tvg-chno="20622" tvg-name="SHO x BET" tvg-logo="https://zap2it.tmsimg.com/assets/s20622_ll_h15_ad.png" group-title="United States" tvg-id="SHOBET" tvc-guide-stationid="20622",SHO x BET
 http://example.local/USA-SHOBET.ts
 #EXTINF:-1 tvg-chno="20625" tvg-name="SHO x BET (Pacific)" tvg-logo="https://logos.jesmann.com/shobetp.png" group-title="United States" tvg-id="SHOBETP" tvc-guide-stationid="20625",SHO x BET (Pacific)
 http://example.local/USA-SHOBETP.ts
@@ -551,10 +549,10 @@ http://example.local/USA-HEALTHHQ.ts
 http://example.local/USA-SHPNBC.ts
 #EXTINF:-1 tvg-chno="66110" tvg-name="SHOPnow" group-title="United States" tvg-id="DT309" tvc-guide-stationid="66110",SHOPnow
 http://example.local/USA-DT309.ts
-#EXTINF:-1 tvg-chno="95946" tvg-name="Shopping" group-title="United States" tvg-id="CSL95" tvc-guide-stationid="95946",Shopping
-http://example.local/USA-CSL95.ts
 #EXTINF:-1 tvg-chno="94630" tvg-name="Shopping" group-title="United States" tvg-id="SHOPNG" tvc-guide-stationid="94630",Shopping
 http://example.local/USA-SHOPNG.ts
+#EXTINF:-1 tvg-chno="95946" tvg-name="Shopping" group-title="United States" tvg-id="CSL95" tvc-guide-stationid="95946",Shopping
+http://example.local/USA-CSL95.ts
 #EXTINF:-1 tvg-chno="93211" tvg-name="Shopping Channel" group-title="United States" tvg-id="COXSH" tvc-guide-stationid="93211",Shopping Channel
 http://example.local/USA-COXSH.ts
 #EXTINF:-1 tvg-chno="94479" tvg-name="Shopping Network" group-title="United States" tvg-id="PACTV" tvc-guide-stationid="94479",Shopping Network
@@ -655,8 +653,6 @@ http://example.local/USA-SICCAB.ts
 http://example.local/USA-SIC.ts
 #EXTINF:-1 tvg-chno="141396" tvg-name="SIC Internacional" group-title="United States" tvg-id="SICHD" tvc-guide-stationid="141396",SIC Internacional
 http://example.local/USA-SICHD.ts
-#EXTINF:-1 tvg-chno="76103" tvg-name="SIC Internacional Europa" tvg-logo="https://zap2it.tmsimg.com/assets/s76103_ll_h9_ab.png" group-title="United States" tvg-id="SICINT" tvc-guide-stationid="76103",SIC Internacional Europa
-http://example.local/USA-SICINT.ts
 #EXTINF:-1 tvg-chno="53004" tvg-name="SIC Notícias" tvg-logo="https://zap2it.tmsimg.com/assets/s53004_ll_h15_aa.png" group-title="United States" tvg-id="SICNO" tvc-guide-stationid="53004",SIC Notícias
 http://example.local/USA-SICNO.ts
 #EXTINF:-1 tvg-chno="92790" tvg-name="Sierra College" group-title="United States" tvg-id="SIERA" tvc-guide-stationid="92790",Sierra College
@@ -1019,3 +1015,7 @@ http://example.local/USA-SWTVP.ts
 http://example.local/USA-SWPUB.ts
 #EXTINF:-1 tvg-chno="119118" tvg-name="SoYummy" group-title="United States" tvg-id="VIZSOYM" tvc-guide-stationid="119118",SoYummy
 http://example.local/USA-VIZSOYM.ts
+#EXTINF:-1 tvg-chno="64262" tvg-name="SP Cust SPSM Leased Access" group-title="United States" tvg-id="SPLEASE" tvc-guide-stationid="64262",SP Cust SPSM Leased Access
+http://example.local/USA-SPLEASE.ts
+#EXTINF:-1 tvg-chno="43264" tvg-name="Spa" group-title="United States" tvg-id="SRSPA73" tvc-guide-stationid="43264",Spa
+http://example.local/USA-SRSPA73.ts

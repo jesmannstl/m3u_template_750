@@ -1,11 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="11097" tvg-name="SYFY" tvg-logo="https://zap2it.tmsimg.com/assets/s11097_h3_aa.png" group-title="Dominican Republic" tvg-id="SYFY" tvc-guide-stationid="11097",SYFY
+#EXTINF:-1 tvg-chno="16431" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s29017_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="STULAI" tvc-guide-stationid="16431",Studio Universal
+http://example.local/DOM-STULAI.ts
+#EXTINF:-1 tvg-chno="60329" tvg-name="Sun Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s60329_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="SUNCH" tvc-guide-stationid="60329",Sun Channel
+http://example.local/DOM-SUNCH.ts
+#EXTINF:-1 tvg-chno="24515" tvg-name="SuperCanal (Dominican)" tvg-logo="https://zap2it.tmsimg.com/assets/s24515_ll_h9_aa.png" group-title="Dominican Republic" tvg-id="SUPCAN" tvc-guide-stationid="24515",SuperCanal (Dominican)
+http://example.local/DOM-SUPCAN.ts
+#EXTINF:-1 tvg-chno="11097" tvg-name="SYFY" tvg-logo="https://zap2it.tmsimg.com/assets/s11097_ll_h15_ae.png" group-title="Dominican Republic" tvg-id="SYFY" tvc-guide-stationid="11097",SYFY
 http://example.local/DOM-SYFY.ts
-#EXTINF:-1 tvg-chno="19246" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_h3_aa.png" group-title="Dominican Republic" tvg-id="TCML" tvc-guide-stationid="19246",TCM
+#EXTINF:-1 tvg-chno="19246" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_ll_h15_ac.png" group-title="Dominican Republic" tvg-id="TCML" tvc-guide-stationid="19246",TCM
 http://example.local/DOM-TCML.ts
 #EXTINF:-1 tvg-chno="44824" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_ll_h15_ac.png" group-title="Dominican Republic" tvg-id="TCMLI" tvc-guide-stationid="44824",TCM
 http://example.local/DOM-TCMLI.ts
-#EXTINF:-1 tvg-chno="72294" tvg-name="TeenNick" tvg-logo="https://zap2it.tmsimg.com/assets/s77783_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="NIKLAHD" tvc-guide-stationid="72294",TeenNick
+#EXTINF:-1 tvg-chno="72294" tvg-name="TeenNick" group-title="Dominican Republic" tvg-id="NIKLAHD" tvc-guide-stationid="72294",TeenNick
 http://example.local/DOM-NIKLAHD.ts
 #EXTINF:-1 tvg-chno="92228" tvg-name="Tele VID" tvg-logo="https://zap2it.tmsimg.com/assets/s92228_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="TELEVID" tvc-guide-stationid="92228",Tele VID
 http://example.local/DOM-TELEVID.ts
@@ -57,11 +63,11 @@ http://example.local/DOM-TRAV.ts
 http://example.local/DOM-WEATH.ts
 #EXTINF:-1 tvg-chno="73822" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png" group-title="Dominican Republic" tvg-id="TLCLASP" tvc-guide-stationid="73822",TLC
 http://example.local/DOM-TLCLASP.ts
-#EXTINF:-1 tvg-chno="11158" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s11158_ll_h15_ad.png" group-title="Dominican Republic" tvg-id="TLC" tvc-guide-stationid="11158",TLC
+#EXTINF:-1 tvg-chno="11158" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s11158_h3_aa.png" group-title="Dominican Republic" tvg-id="TLC" tvc-guide-stationid="11158",TLC
 http://example.local/DOM-TLC.ts
 #EXTINF:-1 tvg-chno="37232" tvg-name="TLNovelas" tvg-logo="https://zap2it.tmsimg.com/assets/s37232_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="TLNOVEL" tvc-guide-stationid="37232",TLNovelas
 http://example.local/DOM-TLNOVEL.ts
-#EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Dominican Republic" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
+#EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_h3_ba.png" group-title="Dominican Republic" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
 http://example.local/DOM-TNTLC.ts
 #EXTINF:-1 tvg-chno="106062" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="TNTLCHH" tvc-guide-stationid="106062",TNT
 http://example.local/DOM-TNTLCHH.ts
@@ -79,7 +85,7 @@ http://example.local/DOM-TNTSERH.ts
 http://example.local/DOM-TOONCST.ts
 #EXTINF:-1 tvg-chno="10153" tvg-name="truTV" tvg-logo="https://zap2it.tmsimg.com/assets/s10153_ll_h15_ad.png" group-title="Dominican Republic" tvg-id="TRUTV" tvc-guide-stationid="10153",truTV
 http://example.local/DOM-TRUTV.ts
-#EXTINF:-1 tvg-chno="38683" tvg-name="TUDN" tvg-logo="https://zap2it.tmsimg.com/assets/s65129_h3_aa.png" group-title="Dominican Republic" tvg-id="TUDNM" tvc-guide-stationid="38683",TUDN
+#EXTINF:-1 tvg-chno="38683" tvg-name="TUDN" tvg-logo="https://zap2it.tmsimg.com/assets/s65129_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="TUDNM" tvc-guide-stationid="38683",TUDN
 http://example.local/DOM-TUDNM.ts
 #EXTINF:-1 tvg-chno="65129" tvg-name="TUDN" tvg-logo="https://zap2it.tmsimg.com/assets/s65129_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="TUDNMH" tvc-guide-stationid="65129",TUDN
 http://example.local/DOM-TUDNMH.ts
@@ -101,23 +107,23 @@ http://example.local/DOM-TVEI.ts
 http://example.local/DOM-TVELAT.ts
 #EXTINF:-1 tvg-chno="49262" tvg-name="TVV" tvg-logo="https://zap2it.tmsimg.com/assets/s49262_ll_h15_ac.png" group-title="Dominican Republic" tvg-id="TVV" tvc-guide-stationid="49262",TVV
 http://example.local/DOM-TVV.ts
-#EXTINF:-1 tvg-chno="16275" tvg-name="TyC Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s16275_h3_ba.png" group-title="Dominican Republic" tvg-id="TYC" tvc-guide-stationid="16275",TyC Sports
+#EXTINF:-1 tvg-chno="16275" tvg-name="TyC Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s16275_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="TYC" tvc-guide-stationid="16275",TyC Sports
 http://example.local/DOM-TYC.ts
 #EXTINF:-1 tvg-chno="16521" tvg-name="Unicable" tvg-logo="https://zap2it.tmsimg.com/assets/s16521_ll_h15_ad.png" group-title="Dominican Republic" tvg-id="UNIC" tvc-guide-stationid="16521",Unicable
 http://example.local/DOM-UNIC.ts
 #EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/DOM-UNILAHD.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
-http://example.local/DOM-UNTVM.ts
 #EXTINF:-1 tvg-chno="49005" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="UNTVL" tvc-guide-stationid="49005",Universal TV
 http://example.local/DOM-UNTVL.ts
-#EXTINF:-1 tvg-chno="14791" tvg-name="UNIVERSO" tvg-logo="https://zap2it.tmsimg.com/assets/s14791_h3_aa.png" group-title="Dominican Republic" tvg-id="UNVSO" tvc-guide-stationid="14791",UNIVERSO
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+http://example.local/DOM-UNTVM.ts
+#EXTINF:-1 tvg-chno="14791" tvg-name="UNIVERSO" tvg-logo="https://zap2it.tmsimg.com/assets/s14791_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="UNVSO" tvc-guide-stationid="14791",UNIVERSO
 http://example.local/DOM-UNVSO.ts
 #EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Dominican Republic" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/DOM-USALA.ts
 #EXTINF:-1 tvg-chno="11207" tvg-name="USA Network" tvg-logo="https://zap2it.tmsimg.com/assets/s11207_ll_h15_af.png" group-title="Dominican Republic" tvg-id="USA" tvc-guide-stationid="11207",USA Network
 http://example.local/DOM-USA.ts
-#EXTINF:-1 tvg-chno="61067" tvg-name="Ve Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s99240_h3_aa.png" group-title="Dominican Republic" tvg-id="VEPTVV" tvc-guide-stationid="61067",Ve Plus
+#EXTINF:-1 tvg-chno="61067" tvg-name="Ve Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s99240_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="VEPTVV" tvc-guide-stationid="61067",Ve Plus
 http://example.local/DOM-VEPTVV.ts
 #EXTINF:-1 tvg-chno="81483" tvg-name="Ve Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s99240_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="VEPTV" tvc-guide-stationid="81483",Ve Plus
 http://example.local/DOM-VEPTV.ts
@@ -129,15 +135,15 @@ http://example.local/DOM-VH1L.ts
 http://example.local/DOM-VH1.ts
 #EXTINF:-1 tvg-chno="72418" tvg-name="VH1 Mexico HD" tvg-logo="https://zap2it.tmsimg.com/assets/s11218_ll_h15_ac.png" group-title="Dominican Republic" tvg-id="VH1MXHD" tvc-guide-stationid="72418",VH1 Mexico HD
 http://example.local/DOM-VH1MXHD.ts
-#EXTINF:-1 tvg-chno="11259" tvg-name="WABC (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="Dominican Republic" tvg-id="WABC" tvc-guide-stationid="11259",WABC (ABC)
+#EXTINF:-1 tvg-chno="11259" tvg-name="WABC (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="Dominican Republic" tvg-id="WABC" tvc-guide-stationid="11259",WABC (ABC)
 http://example.local/DOM-WABC.ts
-#EXTINF:-1 tvg-chno="12466" tvg-name="WAPA" tvg-logo="https://zap2it.tmsimg.com/assets/s63389_ll_h15_ac.png" group-title="Dominican Republic" tvg-id="WAPA" tvc-guide-stationid="12466",WAPA
+#EXTINF:-1 tvg-chno="12466" tvg-name="WAPA" tvg-logo="https://zap2it.tmsimg.com/assets/s63389_h3_aa.png" group-title="Dominican Republic" tvg-id="WAPA" tvc-guide-stationid="12466",WAPA
 http://example.local/DOM-WAPA.ts
 #EXTINF:-1 tvg-chno="16213" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_ll_h15_ae.png" group-title="Dominican Republic" tvg-id="WBL" tvc-guide-stationid="16213",Warner Channel
 http://example.local/DOM-WBL.ts
-#EXTINF:-1 tvg-chno="98111" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Dominican Republic" tvg-id="WBLMHD" tvc-guide-stationid="98111",Warner Channel
+#EXTINF:-1 tvg-chno="98111" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_ll_h15_ae.png" group-title="Dominican Republic" tvg-id="WBLMHD" tvc-guide-stationid="98111",Warner Channel
 http://example.local/DOM-WBLMHD.ts
-#EXTINF:-1 tvg-chno="38303" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Dominican Republic" tvg-id="OLEAND" tvc-guide-stationid="38303",Warner Channel
+#EXTINF:-1 tvg-chno="38303" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_ll_h15_ae.png" group-title="Dominican Republic" tvg-id="OLEAND" tvc-guide-stationid="38303",Warner Channel
 http://example.local/DOM-OLEAND.ts
 #EXTINF:-1 tvg-chno="72166" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Dominican Republic" tvg-id="WBLHD" tvc-guide-stationid="72166",Warner Channel
 http://example.local/DOM-WBLHD.ts
@@ -151,19 +157,19 @@ http://example.local/DOM-WFORDT.ts
 http://example.local/DOM-WGN.ts
 #EXTINF:-1 tvg-chno="15603" tvg-name="WIPR" tvg-logo="https://zap2it.tmsimg.com/assets/s63811_ll_h9_aa.png" group-title="Dominican Republic" tvg-id="WIPR" tvc-guide-stationid="15603",WIPR
 http://example.local/DOM-WIPR.ts
-#EXTINF:-1 tvg-chno="35032" tvg-name="WJPX-DT (AMTEVE)" tvg-logo="https://zap2it.tmsimg.com/assets/s93459_h3_aa.png" group-title="Dominican Republic" tvg-id="WJPXDT" tvc-guide-stationid="35032",WJPX-DT (AMTEVE)
+#EXTINF:-1 tvg-chno="35032" tvg-name="WJPX-DT (AMTEVE)" tvg-logo="https://zap2it.tmsimg.com/assets/s93459_ll_h9_aa.png" group-title="Dominican Republic" tvg-id="WJPXDT" tvc-guide-stationid="35032",WJPX-DT (AMTEVE)
 http://example.local/DOM-WJPXDT.ts
 #EXTINF:-1 tvg-chno="12468" tvg-name="WKAQ (TELE)" tvg-logo="https://zap2it.tmsimg.com/assets/s12468_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="WKAQ" tvc-guide-stationid="12468",WKAQ (TELE)
 http://example.local/DOM-WKAQ.ts
-#EXTINF:-1 tvg-chno="43726" tvg-name="WLII-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s43726_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="WLIIDT" tvc-guide-stationid="43726",WLII-DT
+#EXTINF:-1 tvg-chno="43726" tvg-name="WLII-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s43726_h3_aa.png" group-title="Dominican Republic" tvg-id="WLIIDT" tvc-guide-stationid="43726",WLII-DT
 http://example.local/DOM-WLIIDT.ts
 #EXTINF:-1 tvg-chno="63792" tvg-name="WMTJ-DT (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="WMTJDT" tvc-guide-stationid="63792",WMTJ-DT (PBS)
 http://example.local/DOM-WMTJDT.ts
-#EXTINF:-1 tvg-chno="11705" tvg-name="WNBC (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_h3_ba.png" group-title="Dominican Republic" tvg-id="WNBC" tvc-guide-stationid="11705",WNBC (NBC)
+#EXTINF:-1 tvg-chno="11705" tvg-name="WNBC (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="Dominican Republic" tvg-id="WNBC" tvc-guide-stationid="11705",WNBC (NBC)
 http://example.local/DOM-WNBC.ts
 #EXTINF:-1 tvg-chno="59014" tvg-name="Wobi" tvg-logo="https://zap2it.tmsimg.com/assets/s59014_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="WOBI" tvc-guide-stationid="59014",Wobi
 http://example.local/DOM-WOBI.ts
-#EXTINF:-1 tvg-chno="15619" tvg-name="WORA (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="Dominican Republic" tvg-id="WORA" tvc-guide-stationid="15619",WORA (ABC)
+#EXTINF:-1 tvg-chno="15619" tvg-name="WORA (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="Dominican Republic" tvg-id="WORA" tvc-guide-stationid="15619",WORA (ABC)
 http://example.local/DOM-WORA.ts
 #EXTINF:-1 tvg-chno="11779" tvg-name="WPIX (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s11779_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="WPIX" tvc-guide-stationid="11779",WPIX (CW)
 http://example.local/DOM-WPIX.ts
@@ -173,7 +179,7 @@ http://example.local/DOM-WPIXDT.ts
 http://example.local/DOM-WPLGDT.ts
 #EXTINF:-1 tvg-chno="11837" tvg-name="WSEE (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="Dominican Republic" tvg-id="WSEE" tvc-guide-stationid="11837",WSEE (CBS)
 http://example.local/DOM-WSEE.ts
-#EXTINF:-1 tvg-chno="85923" tvg-name="WSJPLP (Spanish) (COZITV)" tvg-logo="https://zap2it.tmsimg.com/assets/s78851_h3_aa.png" group-title="Dominican Republic" tvg-id="WSJPLPS" tvc-guide-stationid="85923",WSJPLP (Spanish) (COZITV)
+#EXTINF:-1 tvg-chno="85923" tvg-name="WSJPLP (Spanish) (COZITV)" tvg-logo="https://zap2it.tmsimg.com/assets/s78851_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="WSJPLPS" tvc-guide-stationid="85923",WSJPLP (Spanish) (COZITV)
 http://example.local/DOM-WSJPLPS.ts
 #EXTINF:-1 tvg-chno="51605" tvg-name="WSJX-LP (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="WSJXLP" tvc-guide-stationid="51605",WSJX-LP (FOX)
 http://example.local/DOM-WSJXLP.ts
@@ -195,7 +201,7 @@ http://example.local/DOM-DXHDF.ts
 http://example.local/DOM-XHDF.ts
 #EXTINF:-1 tvg-chno="52762" tvg-name="XHGC-TDT (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="XHGCTDT" tvc-guide-stationid="52762",XHGC-TDT (C5NET)
 http://example.local/DOM-XHGCTDT.ts
-#EXTINF:-1 tvg-chno="98192" tvg-name="XHOPMA-TDT (SD Feed)" tvg-logo="https://zap2it.tmsimg.com/assets/s90518_h3_aa.png" group-title="Dominican Republic" tvg-id="CANL14" tvc-guide-stationid="98192",XHOPMA-TDT (SD Feed)
+#EXTINF:-1 tvg-chno="98192" tvg-name="XHOPMA-TDT (SD Feed)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0023XQ01.png" group-title="Dominican Republic" tvg-id="CANL14" tvc-guide-stationid="98192",XHOPMA-TDT (SD Feed)
 http://example.local/DOM-CANL14.ts
 #EXTINF:-1 tvg-chno="48293" tvg-name="XHUNAM (TVUNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116169_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="XHUNAM" tvc-guide-stationid="48293",XHUNAM (TVUNET)
 http://example.local/DOM-XHUNAM.ts

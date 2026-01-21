@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="151953" tvg-name="Confess by Nosey" tvg-logo="https://zap2it.tmsimg.com/assets/s151953_ll_h15_aa.png" group-title="United States" tvg-id="NSYCFP" tvc-guide-stationid="151953",Confess by Nosey
-http://example.local/USA-NSYCFP.ts
-#EXTINF:-1 tvg-chno="154547" tvg-name="Conflict" tvg-logo="https://zap2it.tmsimg.com/assets/s154547_ll_h15_aa.png" group-title="United States" tvg-id="CONFLICT" tvc-guide-stationid="154547",Conflict
-http://example.local/USA-CONFLICT.ts
-#EXTINF:-1 tvg-chno="10102" tvg-name="Connecticut Spirit Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10102_ll_h9_aa.png" group-title="United States" tvg-id="CPTVSPT" tvc-guide-stationid="10102",Connecticut Spirit Network
-http://example.local/USA-CPTVSPT.ts
-#EXTINF:-1 tvg-chno="27649" tvg-name="Consolidated Communications Community Channel" group-title="United States" tvg-id="CCICC" tvc-guide-stationid="27649",Consolidated Communications Community Channel
-http://example.local/USA-CCICC.ts
-#EXTINF:-1 tvg-chno="183237" tvg-name="Continuum" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002018RJ.png" group-title="United States" tvg-id="CWCON" tvc-guide-stationid="183237",Continuum
-http://example.local/USA-CWCON.ts
-#EXTINF:-1 tvg-chno="107034" tvg-name="Continuum Local" group-title="United States" tvg-id="LOCALA" tvc-guide-stationid="107034",Continuum Local
-http://example.local/USA-LOCALA.ts
-#EXTINF:-1 tvg-chno="124640" tvg-name="Contour 2 BKR" group-title="United States" tvg-id="C2BKR" tvc-guide-stationid="124640",Contour 2 BKR
-http://example.local/USA-C2BKR.ts
-#EXTINF:-1 tvg-chno="109717" tvg-name="Contour Stream Player" tvg-logo="https://zap2it.tmsimg.com/assets/s109717_ll_h15_ab.png" group-title="United States" tvg-id="STREAMS" tvc-guide-stationid="109717",Contour Stream Player
-http://example.local/USA-STREAMS.ts
-#EXTINF:-1 tvg-chno="93846" tvg-name="Contra Costa County Television" group-title="United States" tvg-id="COMCCTV" tvc-guide-stationid="93846",Contra Costa County Television
-http://example.local/USA-COMCCTV.ts
-#EXTINF:-1 tvg-chno="101970" tvg-name="Contra Costa Educational Television" tvg-logo="https://zap2it.tmsimg.com/assets/s101970_ll_h15_aa.png" group-title="United States" tvg-id="CCEDTV" tvc-guide-stationid="101970",Contra Costa Educational Television
-http://example.local/USA-CCEDTV.ts
 #EXTINF:-1 tvg-chno="18719" tvg-name="Contra Costa Television (CCTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s18719_ll_h15_aa.png" group-title="United States" tvg-id="CONTRA" tvc-guide-stationid="18719",Contra Costa Television (CCTV)
 http://example.local/USA-CONTRA.ts
 #EXTINF:-1 tvg-chno="121930" tvg-name="Conway Citizen Access Network" group-title="United States" tvg-id="CCAN" tvc-guide-stationid="121930",Conway Citizen Access Network
@@ -41,7 +21,7 @@ http://example.local/USA-COOK.ts
 http://example.local/USA-GCOOK.ts
 #EXTINF:-1 tvg-chno="68065" tvg-name="Cooking Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68065_ll_h15_aa.png" group-title="United States" tvg-id="COOKHD" tvc-guide-stationid="68065",Cooking Channel HD
 http://example.local/USA-COOKHD.ts
-#EXTINF:-1 tvg-chno="186016" tvg-name="Cooking Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68065_h3_aa.png" group-title="United States" tvg-id="COOKHDS" tvc-guide-stationid="186016",Cooking Channel HD
+#EXTINF:-1 tvg-chno="186016" tvg-name="Cooking Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68065_ll_h15_aa.png" group-title="United States" tvg-id="COOKHDS" tvc-guide-stationid="186016",Cooking Channel HD
 http://example.local/USA-COOKHDS.ts
 #EXTINF:-1 tvg-chno="46872" tvg-name="Cooking Channel On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s30156_ll_h15_aa.png" group-title="United States" tvg-id="COKDM" tvc-guide-stationid="46872",Cooking Channel On Demand
 http://example.local/USA-COKDM.ts
@@ -53,10 +33,10 @@ http://example.local/USA-COPSE.ts
 http://example.local/USA-CORAZ.ts
 #EXTINF:-1 tvg-chno="100594" tvg-name="Corazón" tvg-logo="https://zap2it.tmsimg.com/assets/s61404_ll_h15_ad.png" group-title="United States" tvg-id="CORAZH" tvc-guide-stationid="100594",Corazón
 http://example.local/USA-CORAZH.ts
-#EXTINF:-1 tvg-chno="163838" tvg-name="Corner Gas" tvg-logo="https://zap2it.tmsimg.com/assets/s163838_ll_h15_aa.png" group-title="United States" tvg-id="XMVCG" tvc-guide-stationid="163838",Corner Gas
-http://example.local/USA-XMVCG.ts
 #EXTINF:-1 tvg-chno="124226" tvg-name="Corner Gas" tvg-logo="https://zap2it.tmsimg.com/assets/s124226_ll_h9_aa.png" group-title="United States" tvg-id="WAZCGAS" tvc-guide-stationid="124226",Corner Gas
 http://example.local/USA-WAZCGAS.ts
+#EXTINF:-1 tvg-chno="163838" tvg-name="Corner Gas" tvg-logo="https://zap2it.tmsimg.com/assets/s163838_ll_h15_aa.png" group-title="United States" tvg-id="XMVCG" tvc-guide-stationid="163838",Corner Gas
+http://example.local/USA-XMVCG.ts
 #EXTINF:-1 tvg-chno="14355" tvg-name="Cornerstone Television" tvg-logo="https://zap2it.tmsimg.com/assets/s14355_ll_h15_aa.png" group-title="United States" tvg-id="WPCBSAT" tvc-guide-stationid="14355",Cornerstone Television
 http://example.local/USA-WPCBSAT.ts
 #EXTINF:-1 tvg-chno="50240" tvg-name="CornerStoneTV - CRNSBEL" group-title="United States" tvg-id="CRNSBEL" tvc-guide-stationid="50240",CornerStoneTV - CRNSBEL
@@ -91,8 +71,8 @@ http://example.local/USA-COR29.ts
 http://example.local/USA-SSNEST1.ts
 #EXTINF:-1 tvg-chno="73469" tvg-name="COTV HD" group-title="United States" tvg-id="COTVHD" tvc-guide-stationid="73469",COTV HD
 http://example.local/USA-COTVHD.ts
-#EXTINF:-1 tvg-chno="200288" tvg-name="Cougar Town" group-title="United States" tvg-id="COUGAR" tvc-guide-stationid="200288",Cougar Town
-http://example.local/USA-COUGAR.ts
+#EXTINF:-1 tvg-chno="200288" tvg-name="Cougar Town" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N32PM.png" group-title="United States" tvg-id="DISCOUG" tvc-guide-stationid="200288",Cougar Town
+http://example.local/USA-DISCOUG.ts
 #EXTINF:-1 tvg-chno="94415" tvg-name="Council 13 Ch. 13 District Cablevision" group-title="United States" tvg-id="OCTT13" tvc-guide-stationid="94415",Council 13 Ch. 13 District Cablevision
 http://example.local/USA-OCTT13.ts
 #EXTINF:-1 tvg-chno="110912" tvg-name="Council 13 Ch. 13 District Cablevision HD" group-title="United States" tvg-id="OCTTHD" tvc-guide-stationid="110912",Council 13 Ch. 13 District Cablevision HD
@@ -341,10 +321,10 @@ http://example.local/USA-COZIHD.ts
 http://example.local/USA-COZYVIB.ts
 #EXTINF:-1 tvg-chno="47260" tvg-name="CPC Community Programming" group-title="United States" tvg-id="CPC" tvc-guide-stationid="47260",CPC Community Programming
 http://example.local/USA-CPC.ts
-#EXTINF:-1 tvg-chno="125049" tvg-name="Crackle Classics" group-title="United States" tvg-id="CRC0622" tvc-guide-stationid="125049",Crackle Classics
-http://example.local/USA-CRC0622.ts
 #EXTINF:-1 tvg-chno="121003" tvg-name="Crackle Classics" group-title="United States" tvg-id="VIZCRCL" tvc-guide-stationid="121003",Crackle Classics
 http://example.local/USA-VIZCRCL.ts
+#EXTINF:-1 tvg-chno="125049" tvg-name="Crackle Classics" group-title="United States" tvg-id="CRC0622" tvc-guide-stationid="125049",Crackle Classics
+http://example.local/USA-CRC0622.ts
 #EXTINF:-1 tvg-chno="121004" tvg-name="Crackle Spotlight" group-title="United States" tvg-id="VIZCRSP" tvc-guide-stationid="121004",Crackle Spotlight
 http://example.local/USA-VIZCRSP.ts
 #EXTINF:-1 tvg-chno="132607" tvg-name="CraftsyTV" tvg-logo="https://zap2it.tmsimg.com/assets/s132607_ll_h9_aa.png" group-title="United States" tvg-id="CRAFT" tvc-guide-stationid="132607",CraftsyTV
@@ -363,10 +343,6 @@ http://example.local/USA-CRTV27.ts
 http://example.local/USA-CRTV15.ts
 #EXTINF:-1 tvg-chno="94940" tvg-name="CreaTV Silicon Valley Channel" group-title="United States" tvg-id="CRTV30" tvc-guide-stationid="94940",CreaTV Silicon Valley Channel
 http://example.local/USA-CRTV30.ts
-#EXTINF:-1 tvg-chno="10014" tvg-name="Credo Channel 18" group-title="United States" tvg-id="CREDO18" tvc-guide-stationid="10014",Credo Channel 18
-http://example.local/USA-CREDO18.ts
-#EXTINF:-1 tvg-chno="59473" tvg-name="Credo TV" group-title="United States" tvg-id="CREDOTV" tvc-guide-stationid="59473",Credo TV
-http://example.local/USA-CREDOTV.ts
 #EXTINF:-1 tvg-chno="64130" tvg-name="Crime & Investigation" group-title="United States" tvg-id="GMCIN" tvc-guide-stationid="64130",Crime & Investigation
 http://example.local/USA-GMCIN.ts
 #EXTINF:-1 tvg-chno="182725" tvg-name="Crime & Investigation HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61469_ll_h15_ab.png" group-title="United States" tvg-id="CINHDS" tvc-guide-stationid="182725",Crime & Investigation HD
@@ -437,10 +413,10 @@ http://example.local/USA-CROWN.ts
 http://example.local/USA-CRUNCHY.ts
 #EXTINF:-1 tvg-chno="122580" tvg-name="Crystal" group-title="United States" tvg-id="CRYSTAL" tvc-guide-stationid="122580",Crystal
 http://example.local/USA-CRYSTAL.ts
-#EXTINF:-1 tvg-chno="124626" tvg-name="CSI" tvg-logo="https://zap2it.tmsimg.com/assets/s124626_ll_h15_ab.png" group-title="United States" tvg-id="PPLUSCSI" tvc-guide-stationid="124626",CSI
-http://example.local/USA-PPLUSCSI.ts
 #EXTINF:-1 tvg-chno="115994" tvg-name="CSI" tvg-logo="https://zap2it.tmsimg.com/assets/s115994_ll_h6_aa.png" group-title="United States" tvg-id="PTVCSI" tvc-guide-stationid="115994",CSI
 http://example.local/USA-PTVCSI.ts
+#EXTINF:-1 tvg-chno="124626" tvg-name="CSI" tvg-logo="https://zap2it.tmsimg.com/assets/s124626_ll_h15_ab.png" group-title="United States" tvg-id="PPLUSCSI" tvc-guide-stationid="124626",CSI
+http://example.local/USA-PPLUSCSI.ts
 #EXTINF:-1 tvg-chno="10161" tvg-name="CSPAN" tvg-logo="https://zap2it.tmsimg.com/assets/s10161_ll_h15_ad.png" group-title="United States" tvg-id="CSPAN" tvc-guide-stationid="10161",CSPAN
 http://example.local/USA-CSPAN.ts
 #EXTINF:-1 tvg-chno="68344" tvg-name="CSPAN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68344_ll_h15_ad.png" group-title="United States" tvg-id="CSPANHD" tvc-guide-stationid="68344",CSPAN HD
@@ -639,10 +615,10 @@ http://example.local/USA-PK12.ts
 http://example.local/USA-DATV.ts
 #EXTINF:-1 tvg-chno="183129" tvg-name="Dawson's Creek" group-title="United States" tvg-id="TVPDAWS" tvc-guide-stationid="183129",Dawson's Creek
 http://example.local/USA-TVPDAWS.ts
-#EXTINF:-1 tvg-chno="102973" tvg-name="Daystar" tvg-logo="https://zap2it.tmsimg.com/assets/s102973_ll_h15_aa.png" group-title="United States" tvg-id="DAYSTR" tvc-guide-stationid="102973",Daystar
-http://example.local/USA-DAYSTR.ts
 #EXTINF:-1 tvg-chno="32285" tvg-name="Daystar" tvg-logo="https://zap2it.tmsimg.com/assets/s32285_ll_h15_aa.png" group-title="United States" tvg-id="DAYSTAR" tvc-guide-stationid="32285",Daystar
 http://example.local/USA-DAYSTAR.ts
+#EXTINF:-1 tvg-chno="102973" tvg-name="Daystar" tvg-logo="https://zap2it.tmsimg.com/assets/s102973_ll_h15_aa.png" group-title="United States" tvg-id="DAYSTR" tvc-guide-stationid="102973",Daystar
+http://example.local/USA-DAYSTR.ts
 #EXTINF:-1 tvg-chno="132423" tvg-name="Daystar Español" tvg-logo="https://zap2it.tmsimg.com/assets/s132423_h3_aa.png" group-title="United States" tvg-id="DSTRESP" tvc-guide-stationid="132423",Daystar Español
 http://example.local/USA-DSTRESP.ts
 #EXTINF:-1 tvg-chno="154611" tvg-name="Daystar Español (HD Feed)" tvg-logo="https://zap2it.tmsimg.com/assets/s132423_h3_aa.png" group-title="United States" tvg-id="DSTRESPH" tvc-guide-stationid="154611",Daystar Español (HD Feed)
@@ -651,9 +627,9 @@ http://example.local/USA-DSTRESPH.ts
 http://example.local/USA-DAYSTHD.ts
 #EXTINF:-1 tvg-chno="19026" tvg-name="Daystar Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y563.png" group-title="United States" tvg-id="DYSTR" tvc-guide-stationid="19026",Daystar Television Network
 http://example.local/USA-DYSTR.ts
-#EXTINF:-1 tvg-chno="180525" tvg-name="Daystar Television Network (SD Feed)" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_aa.png" group-title="United States" tvg-id="DYSTRSD" tvc-guide-stationid="180525",Daystar Television Network (SD Feed)
+#EXTINF:-1 tvg-chno="180525" tvg-name="Daystar Television Network (SD Feed)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y563.png" group-title="United States" tvg-id="DYSTRSD" tvc-guide-stationid="180525",Daystar Television Network (SD Feed)
 http://example.local/USA-DYSTRSD.ts
-#EXTINF:-1 tvg-chno="87001" tvg-name="Daystar Television Network HD [CHARTER] (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_ba.png" group-title="United States" tvg-id="DYSTRHD" tvc-guide-stationid="87001",Daystar Television Network HD [CHARTER] (DYSTR)
+#EXTINF:-1 tvg-chno="87001" tvg-name="Daystar Television Network HD [CHARTER] (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y563.png" group-title="United States" tvg-id="DYSTRHD" tvc-guide-stationid="87001",Daystar Television Network HD [CHARTER] (DYSTR)
 http://example.local/USA-DYSTRHD.ts
 #EXTINF:-1 tvg-chno="31526" tvg-name="Dayton Spiritual Television" group-title="United States" tvg-id="DSTV" tvc-guide-stationid="31526",Dayton Spiritual Television
 http://example.local/USA-DSTV.ts
@@ -665,6 +641,8 @@ http://example.local/USA-DAZNTVC.ts
 http://example.local/USA-DAZNWF.ts
 #EXTINF:-1 tvg-chno="95414" tvg-name="DCTV Public Access 95" group-title="United States" tvg-id="DCTV95" tvc-guide-stationid="95414",DCTV Public Access 95
 http://example.local/USA-DCTV95.ts
+#EXTINF:-1 tvg-chno="110914" tvg-name="DCTV Public Access 95 HD" group-title="United States" tvg-id="DC95HD" tvc-guide-stationid="110914",DCTV Public Access 95 HD
+http://example.local/USA-DC95HD.ts
 #EXTINF:-1 tvg-chno="70624" tvg-name="DCTV2" group-title="United States" tvg-id="DCTV2" tvc-guide-stationid="70624",DCTV2
 http://example.local/USA-DCTV2.ts
 #EXTINF:-1 tvg-chno="70149" tvg-name="DCTV96" group-title="United States" tvg-id="DCTV96" tvc-guide-stationid="70149",DCTV96
@@ -685,10 +663,10 @@ http://example.local/USA-DORNOD.ts
 http://example.local/USA-VIZDOND.ts
 #EXTINF:-1 tvg-chno="123432" tvg-name="Deal Zone" tvg-logo="https://zap2it.tmsimg.com/assets/s123432_ll_h15_ab.png" group-title="United States" tvg-id="DEALZON" tvc-guide-stationid="123432",Deal Zone
 http://example.local/USA-DEALZON.ts
-#EXTINF:-1 tvg-chno="181762" tvg-name="Death Valley Days" group-title="United States" tvg-id="TVPDVLY" tvc-guide-stationid="181762",Death Valley Days
-http://example.local/USA-TVPDVLY.ts
 #EXTINF:-1 tvg-chno="157393" tvg-name="Death Valley Days" tvg-logo="https://zap2it.tmsimg.com/assets/s157393_ll_h15_ab.png" group-title="United States" tvg-id="XMVDTH" tvc-guide-stationid="157393",Death Valley Days
 http://example.local/USA-XMVDTH.ts
+#EXTINF:-1 tvg-chno="181762" tvg-name="Death Valley Days" group-title="United States" tvg-id="TVPDVLY" tvc-guide-stationid="181762",Death Valley Days
+http://example.local/USA-TVPDVLY.ts
 #EXTINF:-1 tvg-chno="113759" tvg-name="Decision 2024" tvg-logo="https://zap2it.tmsimg.com/assets/s113759_ll_h9_ac.png" group-title="United States" tvg-id="PK9" tvc-guide-stationid="113759",Decision 2024
 http://example.local/USA-PK9.ts
 #EXTINF:-1 tvg-chno="130514" tvg-name="Declassified" tvg-logo="https://zap2it.tmsimg.com/assets/s130514_ll_h15_aa.png" group-title="United States" tvg-id="DECLASS" tvc-guide-stationid="130514",Declassified
@@ -829,29 +807,29 @@ http://example.local/USA-DT288.ts
 http://example.local/USA-DTV308.ts
 #EXTINF:-1 tvg-chno="100318" tvg-name="Disco Polo" tvg-logo="https://zap2it.tmsimg.com/assets/s100318_ll_h15_aa.png" group-title="United States" tvg-id="DISCOPL" tvc-guide-stationid="100318",Disco Polo
 http://example.local/USA-DISCOPL.ts
-#EXTINF:-1 tvg-chno="11150" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11150_h3_ba.png" group-title="United States" tvg-id="DSC" tvc-guide-stationid="11150",Discovery Channel
+#EXTINF:-1 tvg-chno="11150" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11150_ll_h15_af.png" group-title="United States" tvg-id="DSC" tvc-guide-stationid="11150",Discovery Channel
 http://example.local/USA-DSC.ts
+#EXTINF:-1 tvg-chno="91515" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="United States" tvg-id="TDCLHD" tvc-guide-stationid="91515",Discovery Channel
+http://example.local/USA-TDCLHD.ts
 #EXTINF:-1 tvg-chno="15798" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="United States" tvg-id="TDCL" tvc-guide-stationid="15798",Discovery Channel
 http://example.local/USA-TDCL.ts
+#EXTINF:-1 tvg-chno="54197" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="United States" tvg-id="TDCLV" tvc-guide-stationid="54197",Discovery Channel
+http://example.local/USA-TDCLV.ts
 #EXTINF:-1 tvg-chno="83572" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s83572_ll_h15_ac.png" group-title="United States" tvg-id="DSCGERM" tvc-guide-stationid="83572",Discovery Channel
 http://example.local/USA-DSCGERM.ts
 #EXTINF:-1 tvg-chno="167588" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s167588_ll_h9_ab.png" group-title="United States" tvg-id="TDC" tvc-guide-stationid="167588",Discovery Channel
 http://example.local/USA-TDC.ts
-#EXTINF:-1 tvg-chno="91515" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="United States" tvg-id="TDCLHD" tvc-guide-stationid="91515",Discovery Channel
-http://example.local/USA-TDCLHD.ts
-#EXTINF:-1 tvg-chno="54197" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="United States" tvg-id="TDCLV" tvc-guide-stationid="54197",Discovery Channel
-http://example.local/USA-TDCLV.ts
 #EXTINF:-1 tvg-chno="12500" tvg-name="Discovery Channel (Pacific)" tvg-logo="https://logos.jesmann.com/dscp.png" group-title="United States" tvg-id="DSCP" tvc-guide-stationid="12500",Discovery Channel (Pacific)
 http://example.local/USA-DSCP.ts
 #EXTINF:-1 tvg-chno="56905" tvg-name="Discovery Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s56905_ll_h15_ad.png" group-title="United States" tvg-id="DSCHD" tvc-guide-stationid="56905",Discovery Channel HD
 http://example.local/USA-DSCHD.ts
-#EXTINF:-1 tvg-chno="83573" tvg-name="Discovery Channel HD" tvg-logo="https://logos.jesmann.com/DSCGHD.png" group-title="United States" tvg-id="DSCGHD" tvc-guide-stationid="83573",Discovery Channel HD
-http://example.local/USA-DSCGHD.ts
 #EXTINF:-1 tvg-chno="186014" tvg-name="Discovery Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s56905_ll_h15_ad.png" group-title="United States" tvg-id="DSCHDS" tvc-guide-stationid="186014",Discovery Channel HD
 http://example.local/USA-DSCHDS.ts
+#EXTINF:-1 tvg-chno="83573" tvg-name="Discovery Channel HD" tvg-logo="https://logos.jesmann.com/DSCGHD.png" group-title="United States" tvg-id="DSCGHD" tvc-guide-stationid="83573",Discovery Channel HD
+http://example.local/USA-DSCGHD.ts
 #EXTINF:-1 tvg-chno="19247" tvg-name="Discovery en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s19247_ll_h15_ac.png" group-title="United States" tvg-id="DSCE" tvc-guide-stationid="19247",Discovery en Español
 http://example.local/USA-DSCE.ts
-#EXTINF:-1 tvg-chno="99629" tvg-name="Discovery en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s19247_h3_ba.png" group-title="United States" tvg-id="DSCESD" tvc-guide-stationid="99629",Discovery en Español
+#EXTINF:-1 tvg-chno="99629" tvg-name="Discovery en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s19247_ll_h15_ac.png" group-title="United States" tvg-id="DSCESD" tvc-guide-stationid="99629",Discovery en Español
 http://example.local/USA-DSCESD.ts
 #EXTINF:-1 tvg-chno="71788" tvg-name="Discovery En Español (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s19247_ll_h15_ac.png" group-title="United States" tvg-id="TDCESE" tvc-guide-stationid="71788",Discovery En Español (English)
 http://example.local/USA-TDCESE.ts
@@ -867,10 +845,10 @@ http://example.local/USA-DFCHDS.ts
 http://example.local/USA-DFCHD.ts
 #EXTINF:-1 tvg-chno="117787" tvg-name="Discovery HD PERRY AD" group-title="United States" tvg-id="DSCHDPA" tvc-guide-stationid="117787",Discovery HD PERRY AD
 http://example.local/USA-DSCHDPA.ts
-#EXTINF:-1 tvg-chno="108976" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_ll_h15_ae.png" group-title="United States" tvg-id="DHHCV" tvc-guide-stationid="108976",Discovery Home & Health
-http://example.local/USA-DHHCV.ts
 #EXTINF:-1 tvg-chno="24424" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_ll_h15_ae.png" group-title="United States" tvg-id="DHEAL" tvc-guide-stationid="24424",Discovery Home & Health
 http://example.local/USA-DHEAL.ts
+#EXTINF:-1 tvg-chno="108976" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_ll_h15_ae.png" group-title="United States" tvg-id="DHHCV" tvc-guide-stationid="108976",Discovery Home & Health
+http://example.local/USA-DHHCV.ts
 #EXTINF:-1 tvg-chno="16680" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="United States" tvg-id="DKNL" tvc-guide-stationid="16680",Discovery Kids
 http://example.local/USA-DKNL.ts
 #EXTINF:-1 tvg-chno="16125" tvg-name="Discovery Life Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16125_ll_h15_ac.png" group-title="United States" tvg-id="DLC" tvc-guide-stationid="16125",Discovery Life Channel
@@ -957,8 +935,12 @@ http://example.local/USA-DXDDM.ts
 http://example.local/USA-TVGAMES.ts
 #EXTINF:-1 tvg-chno="95417" tvg-name="District Knowledge Network" group-title="United States" tvg-id="DKN" tvc-guide-stationid="95417",District Knowledge Network
 http://example.local/USA-DKN.ts
+#EXTINF:-1 tvg-chno="110911" tvg-name="District Knowledge Network HD" group-title="United States" tvg-id="DKNHD" tvc-guide-stationid="110911",District Knowledge Network HD
+http://example.local/USA-DKNHD.ts
 #EXTINF:-1 tvg-chno="95418" tvg-name="District of Columbia Network" group-title="United States" tvg-id="DCN" tvc-guide-stationid="95418",District of Columbia Network
 http://example.local/USA-DCN.ts
+#EXTINF:-1 tvg-chno="110913" tvg-name="District of Columbia Network HD" group-title="United States" tvg-id="DCNHD" tvc-guide-stationid="110913",District of Columbia Network HD
+http://example.local/USA-DCNHD.ts
 #EXTINF:-1 tvg-chno="144884" tvg-name="Dittsche" group-title="United States" tvg-id="DITTSCHE" tvc-guide-stationid="144884",Dittsche
 http://example.local/USA-DITTSCHE.ts
 #EXTINF:-1 tvg-chno="45907" tvg-name="DITV 187" group-title="United States" tvg-id="DITV187" tvc-guide-stationid="45907",DITV 187
@@ -1019,3 +1001,21 @@ http://example.local/USA-DITV131.ts
 http://example.local/USA-DITV132.ts
 #EXTINF:-1 tvg-chno="44307" tvg-name="DITV133 (DirecTv)" group-title="United States" tvg-id="DITV133" tvc-guide-stationid="44307",DITV133 (DirecTv)
 http://example.local/USA-DITV133.ts
+#EXTINF:-1 tvg-chno="22425" tvg-name="DITV134" group-title="United States" tvg-id="DITV134" tvc-guide-stationid="22425",DITV134
+http://example.local/USA-DITV134.ts
+#EXTINF:-1 tvg-chno="22426" tvg-name="DITV135" group-title="United States" tvg-id="DITV135" tvc-guide-stationid="22426",DITV135
+http://example.local/USA-DITV135.ts
+#EXTINF:-1 tvg-chno="31552" tvg-name="DITV136" group-title="United States" tvg-id="DITV136" tvc-guide-stationid="31552",DITV136
+http://example.local/USA-DITV136.ts
+#EXTINF:-1 tvg-chno="47376" tvg-name="DITV137" group-title="United States" tvg-id="DITV137" tvc-guide-stationid="47376",DITV137
+http://example.local/USA-DITV137.ts
+#EXTINF:-1 tvg-chno="22427" tvg-name="DITV138" group-title="United States" tvg-id="DITV138" tvc-guide-stationid="22427",DITV138
+http://example.local/USA-DITV138.ts
+#EXTINF:-1 tvg-chno="44308" tvg-name="DITV139 (DirecTv)" group-title="United States" tvg-id="DITV139" tvc-guide-stationid="44308",DITV139 (DirecTv)
+http://example.local/USA-DITV139.ts
+#EXTINF:-1 tvg-chno="22428" tvg-name="DITV140" group-title="United States" tvg-id="DITV140" tvc-guide-stationid="22428",DITV140
+http://example.local/USA-DITV140.ts
+#EXTINF:-1 tvg-chno="31553" tvg-name="DITV141" group-title="United States" tvg-id="DITV141" tvc-guide-stationid="31553",DITV141
+http://example.local/USA-DITV141.ts
+#EXTINF:-1 tvg-chno="22429" tvg-name="DITV142" group-title="United States" tvg-id="DITV142" tvc-guide-stationid="22429",DITV142
+http://example.local/USA-DITV142.ts

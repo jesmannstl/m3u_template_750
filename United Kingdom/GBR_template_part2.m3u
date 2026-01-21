@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="102931" tvg-name="Eurosport Xtra 13" tvg-logo="https://zap2it.tmsimg.com/assets/s102931_ll_h9_ab.png" group-title="United Kingdom" tvg-id="ESXTR13" tvc-guide-stationid="102931",Eurosport Xtra 13
-http://example.local/GBR-ESXTR13.ts
-#EXTINF:-1 tvg-chno="102932" tvg-name="Eurosport Xtra 14" tvg-logo="https://zap2it.tmsimg.com/assets/s102932_ll_h9_ab.png" group-title="United Kingdom" tvg-id="ESXTR14" tvc-guide-stationid="102932",Eurosport Xtra 14
-http://example.local/GBR-ESXTR14.ts
-#EXTINF:-1 tvg-chno="102933" tvg-name="Eurosport Xtra 15" tvg-logo="https://zap2it.tmsimg.com/assets/s102933_ll_h9_ab.png" group-title="United Kingdom" tvg-id="ESXTR15" tvc-guide-stationid="102933",Eurosport Xtra 15
-http://example.local/GBR-ESXTR15.ts
-#EXTINF:-1 tvg-chno="102935" tvg-name="Eurosport Xtra 16" tvg-logo="https://zap2it.tmsimg.com/assets/s102935_ll_h9_ab.png" group-title="United Kingdom" tvg-id="ESXTR16" tvc-guide-stationid="102935",Eurosport Xtra 16
-http://example.local/GBR-ESXTR16.ts
 #EXTINF:-1 tvg-chno="102920" tvg-name="Eurosport Xtra 2" tvg-logo="https://zap2it.tmsimg.com/assets/s102920_ll_h9_ab.png" group-title="United Kingdom" tvg-id="ESXTR2" tvc-guide-stationid="102920",Eurosport Xtra 2
 http://example.local/GBR-ESXTR2.ts
 #EXTINF:-1 tvg-chno="102921" tvg-name="Eurosport Xtra 3" tvg-logo="https://zap2it.tmsimg.com/assets/s102921_ll_h9_ab.png" group-title="United Kingdom" tvg-id="ESXTR3" tvc-guide-stationid="102921",Eurosport Xtra 3
@@ -35,10 +27,10 @@ http://example.local/GBR-EWTNTV.ts
 http://example.local/GBR-EWTNKF.ts
 #EXTINF:-1 tvg-chno="27143" tvg-name="EWTN Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s27143_ll_h15_ac.png" group-title="United Kingdom" tvg-id="EWTNUK" tvc-guide-stationid="27143",EWTN Radio
 http://example.local/GBR-EWTNUK.ts
-#EXTINF:-1 tvg-chno="133321" tvg-name="FailArmy" tvg-logo="https://zap2it.tmsimg.com/assets/s133321_ll_h15_aa.png" group-title="United Kingdom" tvg-id="FAINTL" tvc-guide-stationid="133321",FailArmy
-http://example.local/GBR-FAINTL.ts
 #EXTINF:-1 tvg-chno="115130" tvg-name="FailArmy" tvg-logo="https://zap2it.tmsimg.com/assets/s115130_ll_h15_aa.png" group-title="United Kingdom" tvg-id="PTVUKFA" tvc-guide-stationid="115130",FailArmy
 http://example.local/GBR-PTVUKFA.ts
+#EXTINF:-1 tvg-chno="133321" tvg-name="FailArmy" tvg-logo="https://zap2it.tmsimg.com/assets/s133321_ll_h15_aa.png" group-title="United Kingdom" tvg-id="FAINTL" tvc-guide-stationid="133321",FailArmy
+http://example.local/GBR-FAINTL.ts
 #EXTINF:-1 tvg-chno="118531" tvg-name="Faith UK" tvg-logo="https://zap2it.tmsimg.com/assets/s118531_ll_h15_aa.png" group-title="United Kingdom" tvg-id="FAITHUK" tvc-guide-stationid="118531",Faith UK
 http://example.local/GBR-FAITHUK.ts
 #EXTINF:-1 tvg-chno="57825" tvg-name="Faith World TV" tvg-logo="https://zap2it.tmsimg.com/assets/s57825_ll_h15_ab.png" group-title="United Kingdom" tvg-id="FATHWD" tvc-guide-stationid="57825",Faith World TV
@@ -67,6 +59,8 @@ http://example.local/GBR-FILM4UK.ts
 http://example.local/GBR-FILM41.ts
 #EXTINF:-1 tvg-chno="68051" tvg-name="Film4 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68051_ll_h15_ab.png" group-title="United Kingdom" tvg-id="FFOURHD" tvc-guide-stationid="68051",Film4 HD
 http://example.local/GBR-FFOURHD.ts
+#EXTINF:-1 tvg-chno="203111" tvg-name="FilmRise True Crime" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NZ3ZW.png" group-title="United Kingdom" tvg-id="XMVTCUK" tvc-guide-stationid="203111",FilmRise True Crime
+http://example.local/GBR-XMVTCUK.ts
 #EXTINF:-1 tvg-chno="97077" tvg-name="Folx TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97077_ll_h15_ab.png" group-title="United Kingdom" tvg-id="FOLXTV" tvc-guide-stationid="97077",Folx TV HD
 http://example.local/GBR-FOLXTV.ts
 #EXTINF:-1 tvg-chno="44718" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s44718_ll_h15_ab.png" group-title="United Kingdom" tvg-id="FOODNET" tvc-guide-stationid="44718",Food Network
@@ -133,10 +127,10 @@ http://example.local/GBR-GEOTV.ts
 http://example.local/GBR-PTVUKGF.ts
 #EXTINF:-1 tvg-chno="115074" tvg-name="Ghost Dimension" tvg-logo="https://zap2it.tmsimg.com/assets/s115074_ll_h15_aa.png" group-title="United Kingdom" tvg-id="PTVUKGD" tvc-guide-stationid="115074",Ghost Dimension
 http://example.local/GBR-PTVUKGD.ts
-#EXTINF:-1 tvg-chno="120099" tvg-name="Ghost Hunters" group-title="United Kingdom" tvg-id="PTVUKGH" tvc-guide-stationid="120099",Ghost Hunters
-http://example.local/GBR-PTVUKGH.ts
 #EXTINF:-1 tvg-chno="137994" tvg-name="Ghost Hunters" tvg-logo="https://zap2it.tmsimg.com/assets/s137994_ll_h15_aa.png" group-title="United Kingdom" tvg-id="GSTHNT" tvc-guide-stationid="137994",Ghost Hunters
 http://example.local/GBR-GSTHNT.ts
+#EXTINF:-1 tvg-chno="120099" tvg-name="Ghost Hunters" group-title="United Kingdom" tvg-id="PTVUKGH" tvc-guide-stationid="120099",Ghost Hunters
+http://example.local/GBR-PTVUKGH.ts
 #EXTINF:-1 tvg-chno="199469" tvg-name="GIGS" group-title="United Kingdom" tvg-id="GIGSUK" tvc-guide-stationid="199469",GIGS
 http://example.local/GBR-GIGSUK.ts
 #EXTINF:-1 tvg-chno="100015" tvg-name="GINX TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100015_ll_h15_aa.png" group-title="United Kingdom" tvg-id="GINXTVH" tvc-guide-stationid="100015",GINX TV HD
@@ -155,7 +149,7 @@ http://example.local/GBR-GOLDRAD.ts
 http://example.local/GBR-GOODNEWS.ts
 #EXTINF:-1 tvg-chno="123897" tvg-name="GoUSA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s123897_ll_h15_aa.png" group-title="United Kingdom" tvg-id="GOUSATV" tvc-guide-stationid="123897",GoUSA TV
 http://example.local/GBR-GOUSATV.ts
-#EXTINF:-1 tvg-chno="148728" tvg-name="GoUSA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s123897_h3_aa.png" group-title="United Kingdom" tvg-id="GOUSA" tvc-guide-stationid="148728",GoUSA TV
+#EXTINF:-1 tvg-chno="148728" tvg-name="GoUSA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s123897_ll_h15_aa.png" group-title="United Kingdom" tvg-id="GOUSA" tvc-guide-stationid="148728",GoUSA TV
 http://example.local/GBR-GOUSA.ts
 #EXTINF:-1 tvg-chno="128069" tvg-name="Gravitas Adrenaline" tvg-logo="https://zap2it.tmsimg.com/assets/s128069_ll_h9_aa.png" group-title="United Kingdom" tvg-id="ADREN" tvc-guide-stationid="128069",Gravitas Adrenaline
 http://example.local/GBR-ADREN.ts
@@ -199,8 +193,6 @@ http://example.local/GBR-GRJNGO.ts
 http://example.local/GBR-PTVUKGU.ts
 #EXTINF:-1 tvg-chno="111140" tvg-name="GUSTOTV" tvg-logo="https://zap2it.tmsimg.com/assets/s111140_ll_h15_aa.png" group-title="United Kingdom" tvg-id="GUSTOTV" tvc-guide-stationid="111140",GUSTOTV
 http://example.local/GBR-GUSTOTV.ts
-#EXTINF:-1 tvg-chno="193356" tvg-name="Halloween Horrors" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028WK14.png" group-title="United Kingdom" tvg-id="XMVHH" tvc-guide-stationid="193356",Halloween Horrors
-http://example.local/GBR-XMVHH.ts
 #EXTINF:-1 tvg-chno="110303" tvg-name="Handystar" tvg-logo="https://zap2it.tmsimg.com/assets/s110303_ll_h15_aa.png" group-title="United Kingdom" tvg-id="SPARTV" tvc-guide-stationid="110303",Handystar
 http://example.local/GBR-SPARTV.ts
 #EXTINF:-1 tvg-chno="154432" tvg-name="Hardcore Pawn" tvg-logo="https://zap2it.tmsimg.com/assets/s154432_ll_h9_aa.png" group-title="United Kingdom" tvg-id="HARDPAW" tvc-guide-stationid="154432",Hardcore Pawn
@@ -247,8 +239,6 @@ http://example.local/GBR-HIGHST.ts
 http://example.local/GBR-HIGHSTR2.ts
 #EXTINF:-1 tvg-chno="118535" tvg-name="High Street TV 3" tvg-logo="https://zap2it.tmsimg.com/assets/s118535_ll_h15_aa.png" group-title="United Kingdom" tvg-id="HIGHSTR3" tvc-guide-stationid="118535",High Street TV 3
 http://example.local/GBR-HIGHSTR3.ts
-#EXTINF:-1 tvg-chno="118537" tvg-name="High Street TV 4" tvg-logo="https://zap2it.tmsimg.com/assets/s118537_ll_h15_aa.png" group-title="United Kingdom" tvg-id="HIST4SKY" tvc-guide-stationid="118537",High Street TV 4
-http://example.local/GBR-HIST4SKY.ts
 #EXTINF:-1 tvg-chno="180800" tvg-name="High Street TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s180800_ll_h15_aa.png" group-title="United Kingdom" tvg-id="HIGSTVM" tvc-guide-stationid="180800",High Street TV HD
 http://example.local/GBR-HIGSTVM.ts
 #EXTINF:-1 tvg-chno="154433" tvg-name="Highway Thru Hell" tvg-logo="https://zap2it.tmsimg.com/assets/s154433_ll_h15_aa.png" group-title="United Kingdom" tvg-id="HIGHTH" tvc-guide-stationid="154433",Highway Thru Hell
@@ -287,10 +277,10 @@ http://example.local/GBR-HUTH.ts
 http://example.local/GBR-FAST10VM.ts
 #EXTINF:-1 tvg-chno="117536" tvg-name="Homicide Hunter Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s117536_ll_h9_aa.png" group-title="United Kingdom" tvg-id="DPLUSHO" tvc-guide-stationid="117536",Homicide Hunter Channel
 http://example.local/GBR-DPLUSHO.ts
-#EXTINF:-1 tvg-chno="105893" tvg-name="Horse & Country" tvg-logo="https://zap2it.tmsimg.com/assets/s105893_ll_h9_aa.png" group-title="United Kingdom" tvg-id="HOCOVM" tvc-guide-stationid="105893",Horse & Country
-http://example.local/GBR-HOCOVM.ts
 #EXTINF:-1 tvg-chno="103808" tvg-name="Horse & Country" tvg-logo="https://zap2it.tmsimg.com/assets/s103808_ll_h9_aa.png" group-title="United Kingdom" tvg-id="HORSEC" tvc-guide-stationid="103808",Horse & Country
 http://example.local/GBR-HORSEC.ts
+#EXTINF:-1 tvg-chno="105893" tvg-name="Horse & Country" tvg-logo="https://zap2it.tmsimg.com/assets/s105893_ll_h9_aa.png" group-title="United Kingdom" tvg-id="HOCOVM" tvc-guide-stationid="105893",Horse & Country
+http://example.local/GBR-HOCOVM.ts
 #EXTINF:-1 tvg-chno="56045" tvg-name="Hot Country" group-title="United Kingdom" tvg-id="MAXCMT" tvc-guide-stationid="56045",Hot Country
 http://example.local/GBR-MAXCMT.ts
 #EXTINF:-1 tvg-chno="149442" tvg-name="Hot Ones" tvg-logo="https://zap2it.tmsimg.com/assets/s149442_ll_h9_aa.png" group-title="United Kingdom" tvg-id="XMVHO" tvc-guide-stationid="149442",Hot Ones
@@ -315,7 +305,7 @@ http://example.local/GBR-HT1INN.ts
 http://example.local/GBR-HUMEU.ts
 #EXTINF:-1 tvg-chno="91013" tvg-name="HUM Europe" tvg-logo="https://zap2it.tmsimg.com/assets/s91013_ll_h15_aa.png" group-title="United Kingdom" tvg-id="HUMEUR" tvc-guide-stationid="91013",HUM Europe
 http://example.local/GBR-HUMEUR.ts
-#EXTINF:-1 tvg-chno="116975" tvg-name="HUM Masala (Europe)" tvg-logo="https://zap2it.tmsimg.com/assets/s116975_ll_h15_ab.png" group-title="United Kingdom" tvg-id="HUMMAEU" tvc-guide-stationid="116975",HUM Masala (Europe)
+#EXTINF:-1 tvg-chno="116975" tvg-name="HUM NEWS" tvg-logo="https://zap2it.tmsimg.com/assets/s116975_ll_h15_ab.png" group-title="United Kingdom" tvg-id="HUMMAEU" tvc-guide-stationid="116975",HUM NEWS
 http://example.local/GBR-HUMMAEU.ts
 #EXTINF:-1 tvg-chno="115043" tvg-name="Hunter" tvg-logo="https://zap2it.tmsimg.com/assets/s115043_ll_h15_aa.png" group-title="United Kingdom" tvg-id="PTVUKHU" tvc-guide-stationid="115043",Hunter
 http://example.local/GBR-PTVUKHU.ts
@@ -477,10 +467,10 @@ http://example.local/GBR-ITV1LON.ts
 http://example.local/GBR-ITV1LNV.ts
 #EXTINF:-1 tvg-chno="86985" tvg-name="ITV1 (London)" tvg-logo="https://zap2it.tmsimg.com/assets/s86985_ll_h15_ac.png" group-title="United Kingdom" tvg-id="ITV1LOV" tvc-guide-stationid="86985",ITV1 (London)
 http://example.local/GBR-ITV1LOV.ts
-#EXTINF:-1 tvg-chno="68163" tvg-name="ITV1 (Meridian South East)" tvg-logo="https://zap2it.tmsimg.com/assets/s68163_ll_h15_ab.png" group-title="United Kingdom" tvg-id="ITV1SE2" tvc-guide-stationid="68163",ITV1 (Meridian South East)
-http://example.local/GBR-ITV1SE2.ts
 #EXTINF:-1 tvg-chno="68152" tvg-name="ITV1 (Meridian South East)" tvg-logo="https://zap2it.tmsimg.com/assets/s68152_ll_h15_ab.png" group-title="United Kingdom" tvg-id="ITV1SSE" tvc-guide-stationid="68152",ITV1 (Meridian South East)
 http://example.local/GBR-ITV1SSE.ts
+#EXTINF:-1 tvg-chno="68163" tvg-name="ITV1 (Meridian South East)" tvg-logo="https://zap2it.tmsimg.com/assets/s68163_ll_h15_ab.png" group-title="United Kingdom" tvg-id="ITV1SE2" tvc-guide-stationid="68163",ITV1 (Meridian South East)
+http://example.local/GBR-ITV1SE2.ts
 #EXTINF:-1 tvg-chno="68162" tvg-name="ITV1 (Meridian South)" tvg-logo="https://zap2it.tmsimg.com/assets/s68162_ll_h15_ab.png" group-title="United Kingdom" tvg-id="ITV1ST2" tvc-guide-stationid="68162",ITV1 (Meridian South)
 http://example.local/GBR-ITV1ST2.ts
 #EXTINF:-1 tvg-chno="21826" tvg-name="ITV1 (South Meridian)" tvg-logo="https://zap2it.tmsimg.com/assets/s21826_ll_h15_ab.png" group-title="United Kingdom" tvg-id="ITV1STH" tvc-guide-stationid="21826",ITV1 (South Meridian)
@@ -523,8 +513,6 @@ http://example.local/GBR-ITV1WAH.ts
 http://example.local/GBR-ITV1MVM.ts
 #EXTINF:-1 tvg-chno="113773" tvg-name="ITV1 London HD (VM Custom)" tvg-logo="https://zap2it.tmsimg.com/assets/s113773_ll_h15_ad.png" group-title="United Kingdom" tvg-id="ITV1LVM" tvc-guide-stationid="113773",ITV1 London HD (VM Custom)
 http://example.local/GBR-ITV1LVM.ts
-#EXTINF:-1 tvg-chno="65162" tvg-name="ITV1 Wales +1" tvg-logo="https://zap2it.tmsimg.com/assets/s65162_ll_h15_ab.png" group-title="United Kingdom" tvg-id="ITVP1WE" tvc-guide-stationid="65162",ITV1 Wales +1
-http://example.local/GBR-ITVP1WE.ts
 #EXTINF:-1 tvg-chno="20630" tvg-name="ITV2" tvg-logo="https://zap2it.tmsimg.com/assets/s20630_ll_h15_ad.png" group-title="United Kingdom" tvg-id="ITV2" tvc-guide-stationid="20630",ITV2
 http://example.local/GBR-ITV2.ts
 #EXTINF:-1 tvg-chno="117814" tvg-name="ITV2 (Global Sports Standards)" tvg-logo="https://zap2it.tmsimg.com/assets/s117814_ll_h15_ab.png" group-title="United Kingdom" tvg-id="ITV2AMZ" tvc-guide-stationid="117814",ITV2 (Global Sports Standards)
@@ -583,10 +571,10 @@ http://example.local/GBR-XMVJFLG.ts
 http://example.local/GBR-JUWELHD.ts
 #EXTINF:-1 tvg-chno="83673" tvg-name="Juwelo TV" tvg-logo="https://zap2it.tmsimg.com/assets/s83673_ll_h9_ab.png" group-title="United Kingdom" tvg-id="JUWELTV" tvc-guide-stationid="83673",Juwelo TV
 http://example.local/GBR-JUWELTV.ts
-#EXTINF:-1 tvg-chno="67197" tvg-name="kabel eins" tvg-logo="https://zap2it.tmsimg.com/assets/s67197_ll_h15_aa.png" group-title="United Kingdom" tvg-id="KAB1H" tvc-guide-stationid="67197",kabel eins
-http://example.local/GBR-KAB1H.ts
 #EXTINF:-1 tvg-chno="88603" tvg-name="kabel eins" tvg-logo="https://zap2it.tmsimg.com/assets/s88603_ll_h15_aa.png" group-title="United Kingdom" tvg-id="KAB1SCH" tvc-guide-stationid="88603",kabel eins
 http://example.local/GBR-KAB1SCH.ts
+#EXTINF:-1 tvg-chno="67197" tvg-name="kabel eins" tvg-logo="https://zap2it.tmsimg.com/assets/s67197_ll_h15_aa.png" group-title="United Kingdom" tvg-id="KAB1H" tvc-guide-stationid="67197",kabel eins
+http://example.local/GBR-KAB1H.ts
 #EXTINF:-1 tvg-chno="88602" tvg-name="kabel eins austria" tvg-logo="https://zap2it.tmsimg.com/assets/s88602_ll_h15_ab.png" group-title="United Kingdom" tvg-id="KAB1O" tvc-guide-stationid="88602",kabel eins austria
 http://example.local/GBR-KAB1O.ts
 #EXTINF:-1 tvg-chno="100867" tvg-name="kabel eins Doku" tvg-logo="https://zap2it.tmsimg.com/assets/s100867_ll_h9_aa.png" group-title="United Kingdom" tvg-id="KAB1DAT" tvc-guide-stationid="100867",kabel eins Doku
@@ -733,8 +721,6 @@ http://example.local/GBR-MDRTHR.ts
 http://example.local/GBR-MDRTHHD.ts
 #EXTINF:-1 tvg-chno="148680" tvg-name="Mech+" group-title="United Kingdom" tvg-id="MECH" tvc-guide-stationid="148680",Mech+
 http://example.local/GBR-MECH.ts
-#EXTINF:-1 tvg-chno="84061" tvg-name="MediaShop - Neuheiten" tvg-logo="https://zap2it.tmsimg.com/assets/s84061_ll_h15_ab.png" group-title="United Kingdom" tvg-id="MEDIASN" tvc-guide-stationid="84061",MediaShop - Neuheiten
-http://example.local/GBR-MEDIASN.ts
 #EXTINF:-1 tvg-chno="84017" tvg-name="MeinTV Shop" tvg-logo="https://zap2it.tmsimg.com/assets/s84017_ll_h9_ab.png" group-title="United Kingdom" tvg-id="MEINSHP" tvc-guide-stationid="84017",MeinTV Shop
 http://example.local/GBR-MEINSHP.ts
 #EXTINF:-1 tvg-chno="89579" tvg-name="Melodie TV" tvg-logo="https://zap2it.tmsimg.com/assets/s89579_ll_h15_ac.png" group-title="United Kingdom" tvg-id="MELODIE" tvc-guide-stationid="89579",Melodie TV
@@ -765,10 +751,10 @@ http://example.local/GBR-MOVDODE.ts
 http://example.local/GBR-MOVIE24.ts
 #EXTINF:-1 tvg-chno="52795" tvg-name="Movies 24+" tvg-logo="https://zap2it.tmsimg.com/assets/s52795_ll_h15_aa.png" group-title="United Kingdom" tvg-id="MOV24P" tvc-guide-stationid="52795",Movies 24+
 http://example.local/GBR-MOV24P.ts
-#EXTINF:-1 tvg-chno="120778" tvg-name="Moviesphere" tvg-logo="https://zap2it.tmsimg.com/assets/s120778_ll_h9_aa.png" group-title="United Kingdom" tvg-id="MVSUKH" tvc-guide-stationid="120778",Moviesphere
-http://example.local/GBR-MVSUKH.ts
 #EXTINF:-1 tvg-chno="120203" tvg-name="Moviesphere" tvg-logo="https://zap2it.tmsimg.com/assets/s115944_ll_h15_ab.png" group-title="United Kingdom" tvg-id="MVSPUK" tvc-guide-stationid="120203",Moviesphere
 http://example.local/GBR-MVSPUK.ts
+#EXTINF:-1 tvg-chno="120778" tvg-name="Moviesphere" tvg-logo="https://zap2it.tmsimg.com/assets/s120778_ll_h9_aa.png" group-title="United Kingdom" tvg-id="MVSUKH" tvc-guide-stationid="120778",Moviesphere
+http://example.local/GBR-MVSUKH.ts
 #EXTINF:-1 tvg-chno="181655" tvg-name="Mr Bean Animated" tvg-logo="https://zap2it.tmsimg.com/assets/s181655_ll_h15_aa.png" group-title="United Kingdom" tvg-id="MRBEANA" tvc-guide-stationid="181655",Mr Bean Animated
 http://example.local/GBR-MRBEANA.ts
 #EXTINF:-1 tvg-chno="179988" tvg-name="Mr Bean Live Action" tvg-logo="https://zap2it.tmsimg.com/assets/s179988_ll_h15_aa.png" group-title="United Kingdom" tvg-id="MRB" tvc-guide-stationid="179988",Mr Bean Live Action
@@ -815,10 +801,10 @@ http://example.local/GBR-MYEXGRV.ts
 http://example.local/GBR-MYSTUK.ts
 #EXTINF:-1 tvg-chno="139539" tvg-name="Mystery TV (TiVo)" tvg-logo="https://zap2it.tmsimg.com/assets/s139539_ll_h9_aa.png" group-title="United Kingdom" tvg-id="FAST6VM" tvc-guide-stationid="139539",Mystery TV (TiVo)
 http://example.local/GBR-FAST6VM.ts
-#EXTINF:-1 tvg-chno="120101" tvg-name="Mythbusters" tvg-logo="https://zap2it.tmsimg.com/assets/s120101_ll_h15_aa.png" group-title="United Kingdom" tvg-id="PTVUKMY" tvc-guide-stationid="120101",Mythbusters
-http://example.local/GBR-PTVUKMY.ts
 #EXTINF:-1 tvg-chno="152232" tvg-name="Mythbusters" tvg-logo="https://zap2it.tmsimg.com/assets/s152232_ll_h15_aa.png" group-title="United Kingdom" tvg-id="MYTHBU" tvc-guide-stationid="152232",Mythbusters
 http://example.local/GBR-MYTHBU.ts
+#EXTINF:-1 tvg-chno="120101" tvg-name="Mythbusters" tvg-logo="https://zap2it.tmsimg.com/assets/s120101_ll_h15_aa.png" group-title="United Kingdom" tvg-id="PTVUKMY" tvc-guide-stationid="120101",Mythbusters
+http://example.local/GBR-PTVUKMY.ts
 #EXTINF:-1 tvg-chno="167095" tvg-name="Mythbusters" group-title="United Kingdom" tvg-id="MYTBUVMT" tvc-guide-stationid="167095",Mythbusters
 http://example.local/GBR-MYTBUVMT.ts
 #EXTINF:-1 tvg-chno="142109" tvg-name="Mythical 24/7" tvg-logo="https://zap2it.tmsimg.com/assets/s142109_ll_h15_aa.png" group-title="United Kingdom" tvg-id="MYTH247" tvc-guide-stationid="142109",Mythical 24/7
@@ -841,14 +827,10 @@ http://example.local/GBR-NATGEO.ts
 http://example.local/GBR-NATG1.ts
 #EXTINF:-1 tvg-chno="49534" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49534_ll_h15_ab.png" group-title="United Kingdom" tvg-id="NGCHDUK" tvc-guide-stationid="49534",National Geographic HD
 http://example.local/GBR-NGCHDUK.ts
-#EXTINF:-1 tvg-chno="68137" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68137_ll_h15_aa.png" group-title="United Kingdom" tvg-id="NATGHDE" tvc-guide-stationid="68137",National Geographic HD
-http://example.local/GBR-NATGHDE.ts
 #EXTINF:-1 tvg-chno="23305" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s23305_ll_h15_ac.png" group-title="United Kingdom" tvg-id="NGWILDE" tvc-guide-stationid="23305",National Geographic Wild
 http://example.local/GBR-NGWILDE.ts
 #EXTINF:-1 tvg-chno="56425" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s56425_ll_h15_aa.png" group-title="United Kingdom" tvg-id="NGWHD" tvc-guide-stationid="56425",National Geographic Wild HD
 http://example.local/GBR-NGWHD.ts
-#EXTINF:-1 tvg-chno="92019" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s92019_ll_h15_aa.png" group-title="United Kingdom" tvg-id="NGWHDVM" tvc-guide-stationid="92019",National Geographic Wild HD
-http://example.local/GBR-NGWHDVM.ts
 #EXTINF:-1 tvg-chno="56242" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s56242_ll_h15_aa.png" group-title="United Kingdom" tvg-id="NAUTCH" tvc-guide-stationid="56242",Nautical Channel
 http://example.local/GBR-NAUTCH.ts
 #EXTINF:-1 tvg-chno="114174" tvg-name="NBC News NOW" tvg-logo="https://zap2it.tmsimg.com/assets/s114174_ll_h15_af.png" group-title="United Kingdom" tvg-id="NBCNN" tvc-guide-stationid="114174",NBC News NOW
@@ -1019,3 +1001,21 @@ http://example.local/GBR-NFLGP35.ts
 http://example.local/GBR-NFLGP36.ts
 #EXTINF:-1 tvg-chno="145115" tvg-name="NFL Gamepass 37" group-title="United Kingdom" tvg-id="NFLGP37" tvc-guide-stationid="145115",NFL Gamepass 37
 http://example.local/GBR-NFLGP37.ts
+#EXTINF:-1 tvg-chno="145116" tvg-name="NFL Gamepass 38" group-title="United Kingdom" tvg-id="NFLGP38" tvc-guide-stationid="145116",NFL Gamepass 38
+http://example.local/GBR-NFLGP38.ts
+#EXTINF:-1 tvg-chno="145117" tvg-name="NFL Gamepass 39" group-title="United Kingdom" tvg-id="NFLGP39" tvc-guide-stationid="145117",NFL Gamepass 39
+http://example.local/GBR-NFLGP39.ts
+#EXTINF:-1 tvg-chno="145081" tvg-name="NFL Gamepass 4" group-title="United Kingdom" tvg-id="NFLGP4" tvc-guide-stationid="145081",NFL Gamepass 4
+http://example.local/GBR-NFLGP4.ts
+#EXTINF:-1 tvg-chno="145118" tvg-name="NFL Gamepass 40" group-title="United Kingdom" tvg-id="NFLGP40" tvc-guide-stationid="145118",NFL Gamepass 40
+http://example.local/GBR-NFLGP40.ts
+#EXTINF:-1 tvg-chno="145121" tvg-name="NFL Gamepass 41" group-title="United Kingdom" tvg-id="NFLGP41" tvc-guide-stationid="145121",NFL Gamepass 41
+http://example.local/GBR-NFLGP41.ts
+#EXTINF:-1 tvg-chno="145122" tvg-name="NFL Gamepass 42" group-title="United Kingdom" tvg-id="NFLGP42" tvc-guide-stationid="145122",NFL Gamepass 42
+http://example.local/GBR-NFLGP42.ts
+#EXTINF:-1 tvg-chno="145123" tvg-name="NFL Gamepass 43" group-title="United Kingdom" tvg-id="NFLGP43" tvc-guide-stationid="145123",NFL Gamepass 43
+http://example.local/GBR-NFLGP43.ts
+#EXTINF:-1 tvg-chno="145124" tvg-name="NFL Gamepass 44" group-title="United Kingdom" tvg-id="NFLGP44" tvc-guide-stationid="145124",NFL Gamepass 44
+http://example.local/GBR-NFLGP44.ts
+#EXTINF:-1 tvg-chno="145125" tvg-name="NFL Gamepass 45" group-title="United Kingdom" tvg-id="NFLGP45" tvc-guide-stationid="145125",NFL Gamepass 45
+http://example.local/GBR-NFLGP45.ts

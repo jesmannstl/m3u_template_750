@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="64262" tvg-name="SP Cust SPSM Leased Access" group-title="United States" tvg-id="SPLEASE" tvc-guide-stationid="64262",SP Cust SPSM Leased Access
-http://example.local/USA-SPLEASE.ts
-#EXTINF:-1 tvg-chno="43264" tvg-name="Spa" group-title="United States" tvg-id="SRSPA73" tvc-guide-stationid="43264",Spa
-http://example.local/USA-SRSPA73.ts
 #EXTINF:-1 tvg-chno="50518" tvg-name="SPAC28" group-title="United States" tvg-id="SPAC28" tvc-guide-stationid="50518",SPAC28
 http://example.local/USA-SPAC28.ts
 #EXTINF:-1 tvg-chno="16499" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="United States" tvg-id="SPACE" tvc-guide-stationid="16499",Space
@@ -435,12 +431,12 @@ http://example.local/USA-SPRADAR.ts
 http://example.local/USA-SPCRADR.ts
 #EXTINF:-1 tvg-chno="59086" tvg-name="Spectrum Reach" group-title="United States" tvg-id="SPREACH" tvc-guide-stationid="59086",Spectrum Reach
 http://example.local/USA-SPREACH.ts
+#EXTINF:-1 tvg-chno="71539" tvg-name="Spectrum Sports" group-title="United States" tvg-id="SPCRMSP" tvc-guide-stationid="71539",Spectrum Sports
+http://example.local/USA-SPCRMSP.ts
 #EXTINF:-1 tvg-chno="33983" tvg-name="Spectrum Sports" group-title="United States" tvg-id="SPCSPOR" tvc-guide-stationid="33983",Spectrum Sports
 http://example.local/USA-SPCSPOR.ts
 #EXTINF:-1 tvg-chno="54540" tvg-name="Spectrum Sports" group-title="United States" tvg-id="SSPRT" tvc-guide-stationid="54540",Spectrum Sports
 http://example.local/USA-SSPRT.ts
-#EXTINF:-1 tvg-chno="71539" tvg-name="Spectrum Sports" group-title="United States" tvg-id="SPCRMSP" tvc-guide-stationid="71539",Spectrum Sports
-http://example.local/USA-SPCRMSP.ts
 #EXTINF:-1 tvg-chno="69201" tvg-name="Spectrum Sports" group-title="United States" tvg-id="SPCRSPT" tvc-guide-stationid="69201",Spectrum Sports
 http://example.local/USA-SPCRSPT.ts
 #EXTINF:-1 tvg-chno="65817" tvg-name="Spectrum Sports 2" group-title="United States" tvg-id="SPCSPR2" tvc-guide-stationid="65817",Spectrum Sports 2
@@ -449,20 +445,20 @@ http://example.local/USA-SPCSPR2.ts
 http://example.local/USA-SPCSPR3.ts
 #EXTINF:-1 tvg-chno="62819" tvg-name="Spectrum Sports Green Bay" group-title="United States" tvg-id="SPECSP" tvc-guide-stationid="62819",Spectrum Sports Green Bay
 http://example.local/USA-SPECSP.ts
+#EXTINF:-1 tvg-chno="73061" tvg-name="Spectrum Sports HD" tvg-logo="https://zap2it.tmsimg.com/assets/s73061_ll_h15_aa.png" group-title="United States" tvg-id="SPCSP" tvc-guide-stationid="73061",Spectrum Sports HD
+http://example.local/USA-SPCSP.ts
 #EXTINF:-1 tvg-chno="70556" tvg-name="Spectrum Sports HD" tvg-logo="https://zap2it.tmsimg.com/assets/s70556_ll_h15_aa.png" group-title="United States" tvg-id="SPSPOR" tvc-guide-stationid="70556",Spectrum Sports HD
 http://example.local/USA-SPSPOR.ts
 #EXTINF:-1 tvg-chno="79803" tvg-name="Spectrum Sports HD" group-title="United States" tvg-id="SSPRTTX" tvc-guide-stationid="79803",Spectrum Sports HD
 http://example.local/USA-SSPRTTX.ts
-#EXTINF:-1 tvg-chno="73061" tvg-name="Spectrum Sports HD" tvg-logo="https://zap2it.tmsimg.com/assets/s73061_ll_h15_aa.png" group-title="United States" tvg-id="SPCSP" tvc-guide-stationid="73061",Spectrum Sports HD
-http://example.local/USA-SPCSP.ts
 #EXTINF:-1 tvg-chno="64488" tvg-name="Spectrum Sports PPV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s73061_h3_aa.png" group-title="United States" tvg-id="SSPPVHD" tvc-guide-stationid="64488",Spectrum Sports PPV HD
 http://example.local/USA-SSPPVHD.ts
 #EXTINF:-1 tvg-chno="38645" tvg-name="Spectrum Sports PPV SD" tvg-logo="https://zap2it.tmsimg.com/assets/s73051_h3_ba.png" group-title="United States" tvg-id="SSPPVSD" tvc-guide-stationid="38645",Spectrum Sports PPV SD
 http://example.local/USA-SSPPVSD.ts
-#EXTINF:-1 tvg-chno="92867" tvg-name="Spectrum Sports SD" group-title="United States" tvg-id="OCSPT" tvc-guide-stationid="92867",Spectrum Sports SD
-http://example.local/USA-OCSPT.ts
 #EXTINF:-1 tvg-chno="73051" tvg-name="Spectrum Sports SD" tvg-logo="https://zap2it.tmsimg.com/assets/s73051_ll_h15_aa.png" group-title="United States" tvg-id="SPCSPSD" tvc-guide-stationid="73051",Spectrum Sports SD
 http://example.local/USA-SPCSPSD.ts
+#EXTINF:-1 tvg-chno="92867" tvg-name="Spectrum Sports SD" group-title="United States" tvg-id="OCSPT" tvc-guide-stationid="92867",Spectrum Sports SD
+http://example.local/USA-OCSPT.ts
 #EXTINF:-1 tvg-chno="123804" tvg-name="Spectrum Sports STVA" tvg-logo="https://zap2it.tmsimg.com/assets/s73061_ll_h15_aa.png" group-title="United States" tvg-id="SSHI" tvc-guide-stationid="123804",Spectrum Sports STVA
 http://example.local/USA-SSHI.ts
 #EXTINF:-1 tvg-chno="102079" tvg-name="Spectrum Sports Xtra" group-title="United States" tvg-id="SPSPXSD" tvc-guide-stationid="102079",Spectrum Sports Xtra
@@ -613,10 +609,6 @@ http://example.local/USA-SPALT.ts
 http://example.local/USA-SPFTDM.ts
 #EXTINF:-1 tvg-chno="29660" tvg-name="Sports and Progressive Talk Radio" group-title="United States" tvg-id="CRN2" tvc-guide-stationid="29660",Sports and Progressive Talk Radio
 http://example.local/USA-CRN2.ts
-#EXTINF:-1 tvg-chno="99427" tvg-name="Sports Extra 1" group-title="United States" tvg-id="SPXTRA1" tvc-guide-stationid="99427",Sports Extra 1
-http://example.local/USA-SPXTRA1.ts
-#EXTINF:-1 tvg-chno="99428" tvg-name="Sports Extra 2" group-title="United States" tvg-id="SPXTRA2" tvc-guide-stationid="99428",Sports Extra 2
-http://example.local/USA-SPXTRA2.ts
 #EXTINF:-1 tvg-chno="62606" tvg-name="Sports Free On Demand" group-title="United States" tvg-id="SPTSFDM" tvc-guide-stationid="62606",Sports Free On Demand
 http://example.local/USA-SPTSFDM.ts
 #EXTINF:-1 tvg-chno="71483" tvg-name="Sports FREE On Demand" group-title="United States" tvg-id="SPRFRDM" tvc-guide-stationid="71483",Sports FREE On Demand
@@ -629,10 +621,10 @@ http://example.local/USA-SNHTV.ts
 http://example.local/USA-SNHTVB.ts
 #EXTINF:-1 tvg-chno="121702" tvg-name="Sports on Contour" tvg-logo="https://zap2it.tmsimg.com/assets/s121702_ll_h15_aa.png" group-title="United States" tvg-id="CNTRSPRTS" tvc-guide-stationid="121702",Sports on Contour
 http://example.local/USA-CNTRSPRTS.ts
-#EXTINF:-1 tvg-chno="32001" tvg-name="Sports On Demand" group-title="United States" tvg-id="SPRTDM" tvc-guide-stationid="32001",Sports On Demand
-http://example.local/USA-SPRTDM.ts
 #EXTINF:-1 tvg-chno="105384" tvg-name="Sports On Demand" group-title="United States" tvg-id="SPODM" tvc-guide-stationid="105384",Sports On Demand
 http://example.local/USA-SPODM.ts
+#EXTINF:-1 tvg-chno="32001" tvg-name="Sports On Demand" group-title="United States" tvg-id="SPRTDM" tvc-guide-stationid="32001",Sports On Demand
+http://example.local/USA-SPRTDM.ts
 #EXTINF:-1 tvg-chno="131773" tvg-name="Sports on Max 1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002663SR.png" group-title="United States" tvg-id="MAX01" tvc-guide-stationid="131773",Sports on Max 1
 http://example.local/USA-MAX01.ts
 #EXTINF:-1 tvg-chno="146087" tvg-name="Sports on Max 10" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002663SR.png" group-title="United States" tvg-id="MAX10" tvc-guide-stationid="146087",Sports on Max 10
@@ -893,7 +885,7 @@ http://example.local/USA-STZENC.ts
 http://example.local/USA-GENC.ts
 #EXTINF:-1 tvg-chno="17125" tvg-name="Starz Encore (Pacific)" tvg-logo="https://logos.jesmann.com/stzencp.png" group-title="United States" tvg-id="STZENCP" tvc-guide-stationid="17125",Starz Encore (Pacific)
 http://example.local/USA-STZENCP.ts
-#EXTINF:-1 tvg-chno="14871" tvg-name="Starz Encore Action" tvg-logo="https://zap2it.tmsimg.com/assets/s14871_ll_h15_ab.png" group-title="United States" tvg-id="STZENAC" tvc-guide-stationid="14871",Starz Encore Action
+#EXTINF:-1 tvg-chno="14871" tvg-name="Starz Encore Action" tvg-logo="https://zap2it.tmsimg.com/assets/s14871_h3_ba.png" group-title="United States" tvg-id="STZENAC" tvc-guide-stationid="14871",Starz Encore Action
 http://example.local/USA-STZENAC.ts
 #EXTINF:-1 tvg-chno="17124" tvg-name="Starz Encore Action (Pacific)" tvg-logo="https://logos.jesmann.com/stzenap.png" group-title="United States" tvg-id="STZENAP" tvc-guide-stationid="17124",Starz Encore Action (Pacific)
 http://example.local/USA-STZENAP.ts
@@ -943,7 +935,7 @@ http://example.local/USA-STZENHD.ts
 http://example.local/USA-SZENHP.ts
 #EXTINF:-1 tvg-chno="48254" tvg-name="Starz Encore On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s48254_ll_h15_aa.png" group-title="United States" tvg-id="STZEDM" tvc-guide-stationid="48254",Starz Encore On Demand
 http://example.local/USA-STZEDM.ts
-#EXTINF:-1 tvg-chno="14766" tvg-name="Starz Encore Suspense" tvg-logo="https://zap2it.tmsimg.com/assets/s14766_h3_ba.png" group-title="United States" tvg-id="STZENSU" tvc-guide-stationid="14766",Starz Encore Suspense
+#EXTINF:-1 tvg-chno="14766" tvg-name="Starz Encore Suspense" tvg-logo="https://zap2it.tmsimg.com/assets/s14766_ll_h15_ab.png" group-title="United States" tvg-id="STZENSU" tvc-guide-stationid="14766",Starz Encore Suspense
 http://example.local/USA-STZENSU.ts
 #EXTINF:-1 tvg-chno="17127" tvg-name="Starz Encore Suspense (Pacific)" tvg-logo="https://logos.jesmann.com/stzensp.png" group-title="United States" tvg-id="STZENSP" tvc-guide-stationid="17127",Starz Encore Suspense (Pacific)
 http://example.local/USA-STZENSP.ts
@@ -965,7 +957,7 @@ http://example.local/USA-STZHD.ts
 http://example.local/USA-STZHDP.ts
 #EXTINF:-1 tvg-chno="61954" tvg-name="Starz HD On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s34941_ll_h15_ac.png" group-title="United States" tvg-id="SZHDDM" tvc-guide-stationid="61954",Starz HD On Demand
 http://example.local/USA-SZHDDM.ts
-#EXTINF:-1 tvg-chno="16833" tvg-name="Starz in Black" tvg-logo="https://zap2it.tmsimg.com/assets/s16833_h3_aa.png" group-title="United States" tvg-id="STZIB" tvc-guide-stationid="16833",Starz in Black
+#EXTINF:-1 tvg-chno="16833" tvg-name="Starz in Black" tvg-logo="https://zap2it.tmsimg.com/assets/s16833_ll_h15_ac.png" group-title="United States" tvg-id="STZIB" tvc-guide-stationid="16833",Starz in Black
 http://example.local/USA-STZIB.ts
 #EXTINF:-1 tvg-chno="17123" tvg-name="Starz in Black (Pacific)" tvg-logo="https://logos.jesmann.com/stzibp.png" group-title="United States" tvg-id="STZIBP" tvc-guide-stationid="17123",Starz in Black (Pacific)
 http://example.local/USA-STZIBP.ts
@@ -983,10 +975,10 @@ http://example.local/USA-STZKP.ts
 http://example.local/USA-STZKHD.ts
 #EXTINF:-1 tvg-chno="57583" tvg-name="Starz Kids HD (Pacific)" tvg-logo="https://logos.jesmann.com/stzkhp.png" group-title="United States" tvg-id="STZKHP" tvc-guide-stationid="57583",Starz Kids HD (Pacific)
 http://example.local/USA-STZKHP.ts
-#EXTINF:-1 tvg-chno="31578" tvg-name="Starz On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s113127_ll_h15_aa.png" group-title="United States" tvg-id="STARZDM" tvc-guide-stationid="31578",Starz On Demand
-http://example.local/USA-STARZDM.ts
 #EXTINF:-1 tvg-chno="65631" tvg-name="Starz On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s113127_ll_h15_aa.png" group-title="United States" tvg-id="STZDM" tvc-guide-stationid="65631",Starz On Demand
 http://example.local/USA-STZDM.ts
+#EXTINF:-1 tvg-chno="31578" tvg-name="Starz On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s113127_ll_h15_aa.png" group-title="United States" tvg-id="STARZDM" tvc-guide-stationid="31578",Starz On Demand
+http://example.local/USA-STARZDM.ts
 #EXTINF:-1 tvg-chno="136411" tvg-name="Stash TV Black Stories" tvg-logo="https://zap2it.tmsimg.com/assets/s136411_ll_h15_aa.png" group-title="United States" tvg-id="BLCK" tvc-guide-stationid="136411",Stash TV Black Stories
 http://example.local/USA-BLCK.ts
 #EXTINF:-1 tvg-chno="136415" tvg-name="Stash TV Crime Time" tvg-logo="https://zap2it.tmsimg.com/assets/s136415_ll_h15_aa.png" group-title="United States" tvg-id="CRME" tvc-guide-stationid="136415",Stash TV Crime Time
@@ -1019,3 +1011,11 @@ http://example.local/USA-SMESP25.ts
 http://example.local/USA-SM089.ts
 #EXTINF:-1 tvg-chno="67574" tvg-name="Stingray Adult Alternative" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png" group-title="United States" tvg-id="SMUS18" tvc-guide-stationid="67574",Stingray Adult Alternative
 http://example.local/USA-SMUS18.ts
+#EXTINF:-1 tvg-chno="21635" tvg-name="Stingray Adult Alternative" tvg-logo="https://zap2it.tmsimg.com/assets/s21635_ll_h15_ac.png" group-title="United States" tvg-id="SM003" tvc-guide-stationid="21635",Stingray Adult Alternative
+http://example.local/USA-SM003.ts
+#EXTINF:-1 tvg-chno="77001" tvg-name="Stingray Adult Alternative" tvg-logo="https://zap2it.tmsimg.com/assets/s77001_ll_h15_aa.png" group-title="United States" tvg-id="SMESP19" tvc-guide-stationid="77001",Stingray Adult Alternative
+http://example.local/USA-SMESP19.ts
+#EXTINF:-1 tvg-chno="68683" tvg-name="Stingray Alt Country/Americana" tvg-logo="https://zap2it.tmsimg.com/assets/s68683_ll_h15_aa.png" group-title="United States" tvg-id="SMUS20" tvc-guide-stationid="68683",Stingray Alt Country/Americana
+http://example.local/USA-SMUS20.ts
+#EXTINF:-1 tvg-chno="68682" tvg-name="Stingray Alt Rock Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s68682_ll_h15_aa.png" group-title="United States" tvg-id="SMUS16" tvc-guide-stationid="68682",Stingray Alt Rock Classics
+http://example.local/USA-SMUS16.ts

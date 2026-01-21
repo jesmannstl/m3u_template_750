@@ -1,44 +1,720 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Colombia" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
-http://example.local/COL-RCARA.ts
+#EXTINF:-1 tvg-chno="88738" tvg-name="PULS 4 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88738_ll_h15_aa.png" group-title="Germany" tvg-id="PULS4HD" tvc-guide-stationid="88738",PULS 4 HD
+http://example.local/DEU-PULS4HD.ts
+#EXTINF:-1 tvg-chno="88738" tvg-name="PULS 4 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88738_ll_h15_aa.png" group-title="Austria" tvg-id="PULS4HD" tvc-guide-stationid="88738",PULS 4 HD
+http://example.local/AUT-PULS4HD.ts
+#EXTINF:-1 tvg-chno="98435" tvg-name="PULS 8" tvg-logo="https://zap2it.tmsimg.com/assets/s98435_ll_h15_aa.png" group-title="Switzerland" tvg-id="PULS8" tvc-guide-stationid="98435",PULS 8
+http://example.local/CHE-PULS8.ts
+#EXTINF:-1 tvg-chno="108565" tvg-name="Puls 8 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s108565_ll_h9_aa.png" group-title="Switzerland" tvg-id="PULS8HD" tvc-guide-stationid="108565",Puls 8 HD
+http://example.local/CHE-PULS8HD.ts
+#EXTINF:-1 tvg-chno="117419" tvg-name="Puls24" tvg-logo="https://zap2it.tmsimg.com/assets/s117419_ll_h15_aa.png" group-title="Austria" tvg-id="PULS24SD" tvc-guide-stationid="117419",Puls24
+http://example.local/AUT-PULS24SD.ts
+#EXTINF:-1 tvg-chno="95505" tvg-name="Pulse of Portland" tvg-logo="https://zap2it.tmsimg.com/assets/s95505_ll_h9_aa.png" group-title="United States" tvg-id="PCM29" tvc-guide-stationid="95505",Pulse of Portland
+http://example.local/USA-PCM29.ts
+#EXTINF:-1 tvg-chno="98525" tvg-name="Pulse of Portland HD" group-title="United States" tvg-id="PCMMEHD" tvc-guide-stationid="98525",Pulse of Portland HD
+http://example.local/USA-PCMMEHD.ts
+#EXTINF:-1 tvg-chno="91391" tvg-name="Punjab TV" group-title="United States" tvg-id="PUNJAB" tvc-guide-stationid="91391",Punjab TV
+http://example.local/USA-PUNJAB.ts
+#EXTINF:-1 tvg-chno="63512" tvg-name="Punjjabi TV" group-title="Canada" tvg-id="PNJBI" tvc-guide-stationid="63512",Punjjabi TV
+http://example.local/CAN-PNJBI.ts
+#EXTINF:-1 tvg-chno="63512" tvg-name="Punjjabi TV" group-title="United States" tvg-id="PNJBI" tvc-guide-stationid="63512",Punjjabi TV
+http://example.local/USA-PNJBI.ts
+#EXTINF:-1 tvg-chno="110145" tvg-name="PUNKT 1 Oberlausitz TV HD" group-title="Germany" tvg-id="PNKT1OL" tvc-guide-stationid="110145",PUNKT 1 Oberlausitz TV HD
+http://example.local/DEU-PNKT1OL.ts
+#EXTINF:-1 tvg-chno="84198" tvg-name="PUNKTum Fernsehen" tvg-logo="https://zap2it.tmsimg.com/assets/s84198_ll_h9_aa.png" group-title="Germany" tvg-id="PUNKTUM" tvc-guide-stationid="84198",PUNKTum Fernsehen
+http://example.local/DEU-PUNKTUM.ts
+#EXTINF:-1 tvg-chno="105910" tvg-name="Punktum TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105910_ll_h9_aa.png" group-title="Germany" tvg-id="PUNKTVH" tvc-guide-stationid="105910",Punktum TV HD
+http://example.local/DEU-PUNKTVH.ts
+#EXTINF:-1 tvg-chno="112645" tvg-name="Punxsutawney Leased Access (CBNNEWS)" tvg-logo="https://zap2it.tmsimg.com/assets/s109977_ll_h15_aa.png" group-title="United States" tvg-id="PUNXLA" tvc-guide-stationid="112645",Punxsutawney Leased Access (CBNNEWS)
+http://example.local/USA-PUNXLA.ts
+#EXTINF:-1 tvg-chno="67881" tvg-name="Pure Babes HD" group-title="Poland" tvg-id="PBHDVM" tvc-guide-stationid="67881",Pure Babes HD
+http://example.local/POL-PBHDVM.ts
+#EXTINF:-1 tvg-chno="67881" tvg-name="Pure Babes HD" group-title="Netherlands" tvg-id="PBHDVM" tvc-guide-stationid="67881",Pure Babes HD
+http://example.local/NLD-PBHDVM.ts
+#EXTINF:-1 tvg-chno="67881" tvg-name="Pure Babes HD" group-title="United Kingdom" tvg-id="PBHDVM" tvc-guide-stationid="67881",Pure Babes HD
+http://example.local/GBR-PBHDVM.ts
+#EXTINF:-1 tvg-chno="149039" tvg-name="PureFlix TV" tvg-logo="https://zap2it.tmsimg.com/assets/s149039_ll_h15_aa.png" group-title="United States" tvg-id="PFTV" tvc-guide-stationid="149039",PureFlix TV
+http://example.local/USA-PFTV.ts
+#EXTINF:-1 tvg-chno="183520" tvg-name="Purpose Media" group-title="United Kingdom" tvg-id="PURPOSE" tvc-guide-stationid="183520",Purpose Media
+http://example.local/GBR-PURPOSE.ts
+#EXTINF:-1 tvg-chno="60111" tvg-name="Pursuit Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s60111_ll_h15_aa.png" group-title="United States" tvg-id="PURST" tvc-guide-stationid="60111",Pursuit Channel
+http://example.local/USA-PURST.ts
+#EXTINF:-1 tvg-chno="84542" tvg-name="Pursuit Channel HD" group-title="United States" tvg-id="PURSTHD" tvc-guide-stationid="84542",Pursuit Channel HD
+http://example.local/USA-PURSTHD.ts
+#EXTINF:-1 tvg-chno="186001" tvg-name="Pursuit Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60111_h3_aa.png" group-title="United States" tvg-id="PURSTS" tvc-guide-stationid="186001",Pursuit Channel HD
+http://example.local/USA-PURSTS.ts
+#EXTINF:-1 tvg-chno="112487" tvg-name="PursuitUP" tvg-logo="https://zap2it.tmsimg.com/assets/s112487_ll_h9_ab.png" group-title="United States" tvg-id="PRSTUP" tvc-guide-stationid="112487",PursuitUP
+http://example.local/USA-PRSTUP.ts
+#EXTINF:-1 tvg-chno="112487" tvg-name="PursuitUP" tvg-logo="https://zap2it.tmsimg.com/assets/s112487_ll_h9_ab.png" group-title="United Kingdom" tvg-id="PRSTUP" tvc-guide-stationid="112487",PursuitUP
+http://example.local/GBR-PRSTUP.ts
+#EXTINF:-1 tvg-chno="89622" tvg-name="PVR" group-title="Canada" tvg-id="PVRC" tvc-guide-stationid="89622",PVR
+http://example.local/CAN-PVRC.ts
+#EXTINF:-1 tvg-chno="138772" tvg-name="PW Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s138772_ll_h15_aa.png" group-title="United States" tvg-id="PWKIDS" tvc-guide-stationid="138772",PW Kids
+http://example.local/USA-PWKIDS.ts
+#EXTINF:-1 tvg-chno="72625" tvg-name="PX Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72625_ll_h15_ab.png" group-title="Mexico" tvg-id="PXSP" tvc-guide-stationid="72625",PX Sports
+http://example.local/MEX-PXSP.ts
+#EXTINF:-1 tvg-chno="72625" tvg-name="PX Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72625_ll_h15_ab.png" group-title="United States" tvg-id="PXSP" tvc-guide-stationid="72625",PX Sports
+http://example.local/USA-PXSP.ts
+#EXTINF:-1 tvg-chno="72625" tvg-name="PX Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72625_ll_h15_ab.png" group-title="Colombia" tvg-id="PXSP" tvc-guide-stationid="72625",PX Sports
+http://example.local/COL-PXSP.ts
+#EXTINF:-1 tvg-chno="72625" tvg-name="PX Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72625_ll_h15_ab.png" group-title="Peru" tvg-id="PXSP" tvc-guide-stationid="72625",PX Sports
+http://example.local/PER-PXSP.ts
+#EXTINF:-1 tvg-chno="115842" tvg-name="PX Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72625_ll_h15_ab.png" group-title="Argentina" tvg-id="PXSPEH" tvc-guide-stationid="115842",PX Sports
+http://example.local/ARG-PXSPEH.ts
+#EXTINF:-1 tvg-chno="72625" tvg-name="PX Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72625_ll_h15_ab.png" group-title="Argentina" tvg-id="PXSP" tvc-guide-stationid="72625",PX Sports
+http://example.local/ARG-PXSP.ts
+#EXTINF:-1 tvg-chno="115842" tvg-name="PX Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72625_ll_h15_ab.png" group-title="Venezuela" tvg-id="PXSPEH" tvc-guide-stationid="115842",PX Sports
+http://example.local/VEN-PXSPEH.ts
+#EXTINF:-1 tvg-chno="115842" tvg-name="PX Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72625_ll_h15_ab.png" group-title="Guatemala" tvg-id="PXSPEH" tvc-guide-stationid="115842",PX Sports
+http://example.local/GTM-PXSPEH.ts
+#EXTINF:-1 tvg-chno="72625" tvg-name="PX Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72625_ll_h15_ab.png" group-title="Uruguay" tvg-id="PXSP" tvc-guide-stationid="72625",PX Sports
+http://example.local/URY-PXSP.ts
+#EXTINF:-1 tvg-chno="84072" tvg-name="PX Sports HD" tvg-logo="https://zap2it.tmsimg.com/assets/s72625_ll_h15_ab.png" group-title="Mexico" tvg-id="PXSPHD" tvc-guide-stationid="84072",PX Sports HD
+http://example.local/MEX-PXSPHD.ts
+#EXTINF:-1 tvg-chno="84072" tvg-name="PX Sports HD" tvg-logo="https://zap2it.tmsimg.com/assets/s72625_ll_h15_ab.png" group-title="United States" tvg-id="PXSPHD" tvc-guide-stationid="84072",PX Sports HD
+http://example.local/USA-PXSPHD.ts
+#EXTINF:-1 tvg-chno="84072" tvg-name="PX Sports HD" tvg-logo="https://zap2it.tmsimg.com/assets/s72625_ll_h15_ab.png" group-title="Colombia" tvg-id="PXSPHD" tvc-guide-stationid="84072",PX Sports HD
+http://example.local/COL-PXSPHD.ts
+#EXTINF:-1 tvg-chno="84072" tvg-name="PX Sports HD" tvg-logo="https://zap2it.tmsimg.com/assets/s72625_ll_h15_ab.png" group-title="Argentina" tvg-id="PXSPHD" tvc-guide-stationid="84072",PX Sports HD
+http://example.local/ARG-PXSPHD.ts
+#EXTINF:-1 tvg-chno="84072" tvg-name="PX Sports HD" tvg-logo="https://zap2it.tmsimg.com/assets/s72625_ll_h15_ab.png" group-title="Ecuador" tvg-id="PXSPHD" tvc-guide-stationid="84072",PX Sports HD
+http://example.local/ECU-PXSPHD.ts
+#EXTINF:-1 tvg-chno="64441" tvg-name="Q Country 91.5FM" group-title="Canada" tvg-id="CKLQ" tvc-guide-stationid="64441",Q Country 91.5FM
+http://example.local/CAN-CKLQ.ts
+#EXTINF:-1 tvg-chno="107122" tvg-name="Q-Music" tvg-logo="https://zap2it.tmsimg.com/assets/s107122_ll_h15_ab.png" group-title="Germany" tvg-id="QMUSIC" tvc-guide-stationid="107122",Q-Music
+http://example.local/DEU-QMUSIC.ts
+#EXTINF:-1 tvg-chno="121796" tvg-name="Q-music" tvg-logo="https://zap2it.tmsimg.com/assets/s121796_ll_h15_aa.png" group-title="Belgium" tvg-id="QMUSICTV" tvc-guide-stationid="121796",Q-music
+http://example.local/BEL-QMUSICTV.ts
+#EXTINF:-1 tvg-chno="122723" tvg-name="Q-music HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122723_ll_h15_aa.png" group-title="Belgium" tvg-id="QMUSHD" tvc-guide-stationid="122723",Q-music HD
+http://example.local/BEL-QMUSHD.ts
+#EXTINF:-1 tvg-chno="156711" tvg-name="Qello Concerts (TiVo)" group-title="United Kingdom" tvg-id="QCFASTVMT" tvc-guide-stationid="156711",Qello Concerts (TiVo)
+http://example.local/GBR-QCFASTVMT.ts
+#EXTINF:-1 tvg-chno="113296" tvg-name="Qello Concerts by Stingray" tvg-logo="https://zap2it.tmsimg.com/assets/s113296_ll_h15_ac.png" group-title="Canada" tvg-id="SMUS68" tvc-guide-stationid="113296",Qello Concerts by Stingray
+http://example.local/CAN-SMUS68.ts
+#EXTINF:-1 tvg-chno="110652" tvg-name="Qello Concerts by Stingray" tvg-logo="https://zap2it.tmsimg.com/assets/s110652_ll_h15_ac.png" group-title="Canada" tvg-id="STGQO" tvc-guide-stationid="110652",Qello Concerts by Stingray
+http://example.local/CAN-STGQO.ts
+#EXTINF:-1 tvg-chno="114716" tvg-name="Qello Concerts By Stingray" tvg-logo="https://zap2it.tmsimg.com/assets/s114716_ll_h9_ab.png" group-title="Germany" tvg-id="SQELEUG" tvc-guide-stationid="114716",Qello Concerts By Stingray
+http://example.local/DEU-SQELEUG.ts
+#EXTINF:-1 tvg-chno="113296" tvg-name="Qello Concerts by Stingray" tvg-logo="https://zap2it.tmsimg.com/assets/s113296_ll_h15_ac.png" group-title="United States" tvg-id="SMUS68" tvc-guide-stationid="113296",Qello Concerts by Stingray
+http://example.local/USA-SMUS68.ts
+#EXTINF:-1 tvg-chno="119149" tvg-name="Qello Concerts by Stingray" tvg-logo="https://zap2it.tmsimg.com/assets/s114791_ll_h15_ac.png" group-title="United States" tvg-id="VIZQELL" tvc-guide-stationid="119149",Qello Concerts by Stingray
+http://example.local/USA-VIZQELL.ts
+#EXTINF:-1 tvg-chno="114791" tvg-name="Qello Concerts By Stingray" tvg-logo="https://zap2it.tmsimg.com/assets/s114791_ll_h15_ac.png" group-title="United States" tvg-id="SQELEUE" tvc-guide-stationid="114791",Qello Concerts By Stingray
+http://example.local/USA-SQELEUE.ts
+#EXTINF:-1 tvg-chno="114791" tvg-name="Qello Concerts By Stingray" tvg-logo="https://zap2it.tmsimg.com/assets/s114791_ll_h15_ac.png" group-title="United Kingdom" tvg-id="SQELEUE" tvc-guide-stationid="114791",Qello Concerts By Stingray
+http://example.local/GBR-SQELEUE.ts
+#EXTINF:-1 tvg-chno="32419" tvg-name="QPTV34" group-title="United States" tvg-id="QPTV34" tvc-guide-stationid="32419",QPTV34
+http://example.local/USA-QPTV34.ts
+#EXTINF:-1 tvg-chno="32421" tvg-name="QPTV35" group-title="United States" tvg-id="QPTV35" tvc-guide-stationid="32421",QPTV35
+http://example.local/USA-QPTV35.ts
+#EXTINF:-1 tvg-chno="32422" tvg-name="QPTV56" group-title="United States" tvg-id="QPTV56" tvc-guide-stationid="32422",QPTV56
+http://example.local/USA-QPTV56.ts
+#EXTINF:-1 tvg-chno="32418" tvg-name="QPTV57 Queens Public Television" group-title="United States" tvg-id="QPTV57" tvc-guide-stationid="32418",QPTV57 Queens Public Television
+http://example.local/USA-QPTV57.ts
+#EXTINF:-1 tvg-chno="113873" tvg-name="QS24 TV" tvg-logo="https://zap2it.tmsimg.com/assets/s113873_ll_h15_aa.png" group-title="Germany" tvg-id="QS24DE" tvc-guide-stationid="113873",QS24 TV
+http://example.local/DEU-QS24DE.ts
+#EXTINF:-1 tvg-chno="113873" tvg-name="QS24 TV" tvg-logo="https://zap2it.tmsimg.com/assets/s113873_ll_h15_aa.png" group-title="Switzerland" tvg-id="QS24DE" tvc-guide-stationid="113873",QS24 TV
+http://example.local/CHE-QS24DE.ts
+#EXTINF:-1 tvg-chno="49689" tvg-name="QTV Pakistan" tvg-logo="https://zap2it.tmsimg.com/assets/s49689_ll_h15_aa.png" group-title="United States" tvg-id="QTVPAK" tvc-guide-stationid="49689",QTV Pakistan
+http://example.local/USA-QTVPAK.ts
+#EXTINF:-1 tvg-chno="116504" tvg-name="Qu4tre HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116504_ll_h15_aa.png" group-title="Belgium" tvg-id="QU4TRE" tvc-guide-stationid="116504",Qu4tre HD
+http://example.local/BEL-QU4TRE.ts
+#EXTINF:-1 tvg-chno="100750" tvg-name="Quad Cities Community TV" group-title="United States" tvg-id="QCTV" tvc-guide-stationid="100750",Quad Cities Community TV
+http://example.local/USA-QCTV.ts
+#EXTINF:-1 tvg-chno="99462" tvg-name="Quad Cities Community TV HD" group-title="United States" tvg-id="QCTVHD" tvc-guide-stationid="99462",Quad Cities Community TV HD
+http://example.local/USA-QCTVHD.ts
+#EXTINF:-1 tvg-chno="106059" tvg-name="Quad Cities Government HD (Champlin MN)" group-title="United States" tvg-id="GOVTHD" tvc-guide-stationid="106059",Quad Cities Government HD (Champlin MN)
+http://example.local/USA-GOVTHD.ts
+#EXTINF:-1 tvg-chno="126484" tvg-name="QUALITY TV" tvg-logo="https://zap2it.tmsimg.com/assets/s126484_ll_h15_aa.png" group-title="Peru" tvg-id="QTVPE" tvc-guide-stationid="126484",QUALITY TV
+http://example.local/PER-QTVPE.ts
+#EXTINF:-1 tvg-chno="200070" tvg-name="Quantum Leap" group-title="Germany" tvg-id="QUALEDE" tvc-guide-stationid="200070",Quantum Leap
+http://example.local/DEU-QUALEDE.ts
+#EXTINF:-1 tvg-chno="67448" tvg-name="QUB" tvg-logo="https://zap2it.tmsimg.com/assets/s67448_ll_h15_ac.png" group-title="Canada" tvg-id="QUBSD" tvc-guide-stationid="67448",QUB
+http://example.local/CAN-QUBSD.ts
+#EXTINF:-1 tvg-chno="67449" tvg-name="QUB HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67449_ll_h15_ac.png" group-title="Canada" tvg-id="QUBHD" tvc-guide-stationid="67449",QUB HD
+http://example.local/CAN-QUBHD.ts
+#EXTINF:-1 tvg-chno="65985" tvg-name="Qubo" tvg-logo="https://zap2it.tmsimg.com/assets/s65985_ll_h15_aa.png" group-title="United States" tvg-id="MOBQUBO" tvc-guide-stationid="65985",Qubo
+http://example.local/USA-MOBQUBO.ts
+#EXTINF:-1 tvg-chno="54596" tvg-name="Qubo Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s54596_ll_h15_aa.png" group-title="Jamaica" tvg-id="QUBO" tvc-guide-stationid="54596",Qubo Channel
+http://example.local/JAM-QUBO.ts
+#EXTINF:-1 tvg-chno="54596" tvg-name="Qubo Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s54596_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="QUBO" tvc-guide-stationid="54596",Qubo Channel
+http://example.local/TTO-QUBO.ts
+#EXTINF:-1 tvg-chno="107123" tvg-name="Querfunk / Lernradio" tvg-logo="https://zap2it.tmsimg.com/assets/s107123_ll_h9_aa.png" group-title="Germany" tvg-id="QFKLR" tvc-guide-stationid="107123",Querfunk / Lernradio
+http://example.local/DEU-QFKLR.ts
+#EXTINF:-1 tvg-chno="106838" tvg-name="Quest" tvg-logo="https://zap2it.tmsimg.com/assets/s106838_ll_h9_ad.png" group-title="United States" tvg-id="QUESTSD" tvc-guide-stationid="106838",Quest
+http://example.local/USA-QUESTSD.ts
+#EXTINF:-1 tvg-chno="62391" tvg-name="Quest" tvg-logo="https://zap2it.tmsimg.com/assets/s62391_ll_h15_ae.png" group-title="Belgium" tvg-id="QUEST" tvc-guide-stationid="62391",Quest
+http://example.local/BEL-QUEST.ts
+#EXTINF:-1 tvg-chno="62391" tvg-name="Quest" tvg-logo="https://zap2it.tmsimg.com/assets/s62391_ll_h15_ae.png" group-title="United Kingdom" tvg-id="QUEST" tvc-guide-stationid="62391",Quest
+http://example.local/GBR-QUEST.ts
+#EXTINF:-1 tvg-chno="62391" tvg-name="Quest" tvg-logo="https://zap2it.tmsimg.com/assets/s62391_ll_h15_ae.png" group-title="Ireland" tvg-id="QUEST" tvc-guide-stationid="62391",Quest
+http://example.local/IRL-QUEST.ts
+#EXTINF:-1 tvg-chno="62391" tvg-name="Quest" tvg-logo="https://zap2it.tmsimg.com/assets/s62391_ll_h15_ae.png" group-title="Switzerland" tvg-id="QUEST" tvc-guide-stationid="62391",Quest
+http://example.local/CHE-QUEST.ts
+#EXTINF:-1 tvg-chno="62391" tvg-name="Quest" tvg-logo="https://zap2it.tmsimg.com/assets/s62391_ll_h15_ae.png" group-title="Belize" tvg-id="QUEST" tvc-guide-stationid="62391",Quest
+http://example.local/BLZ-QUEST.ts
+#EXTINF:-1 tvg-chno="65394" tvg-name="Quest +1" tvg-logo="https://zap2it.tmsimg.com/assets/s65394_ll_h15_ad.png" group-title="Belgium" tvg-id="QUESTP1" tvc-guide-stationid="65394",Quest +1
+http://example.local/BEL-QUESTP1.ts
+#EXTINF:-1 tvg-chno="65394" tvg-name="Quest +1" tvg-logo="https://zap2it.tmsimg.com/assets/s65394_ll_h15_ad.png" group-title="Netherlands" tvg-id="QUESTP1" tvc-guide-stationid="65394",Quest +1
+http://example.local/NLD-QUESTP1.ts
+#EXTINF:-1 tvg-chno="65394" tvg-name="Quest +1" tvg-logo="https://zap2it.tmsimg.com/assets/s65394_ll_h15_ad.png" group-title="United Kingdom" tvg-id="QUESTP1" tvc-guide-stationid="65394",Quest +1
+http://example.local/GBR-QUESTP1.ts
+#EXTINF:-1 tvg-chno="79655" tvg-name="Quest +1" tvg-logo="https://zap2it.tmsimg.com/assets/s79655_ll_h15_ab.png" group-title="United Kingdom" tvg-id="QUESPVM" tvc-guide-stationid="79655",Quest +1
+http://example.local/GBR-QUESPVM.ts
+#EXTINF:-1 tvg-chno="65394" tvg-name="Quest +1" tvg-logo="https://zap2it.tmsimg.com/assets/s65394_ll_h15_ad.png" group-title="Ireland" tvg-id="QUESTP1" tvc-guide-stationid="65394",Quest +1
+http://example.local/IRL-QUESTP1.ts
+#EXTINF:-1 tvg-chno="200901" tvg-name="Quest +1 Eng/NI" group-title="United Kingdom" tvg-id="QENP1VM" tvc-guide-stationid="200901",Quest +1 Eng/NI
+http://example.local/GBR-QENP1VM.ts
+#EXTINF:-1 tvg-chno="200902" tvg-name="Quest +1 Wales/Scotland" group-title="United Kingdom" tvg-id="QWSP1VM" tvc-guide-stationid="200902",Quest +1 Wales/Scotland
+http://example.local/GBR-QWSP1VM.ts
+#EXTINF:-1 tvg-chno="105894" tvg-name="Quest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105894_ll_h15_ac.png" group-title="Belgium" tvg-id="QUESHDV" tvc-guide-stationid="105894",Quest HD
+http://example.local/BEL-QUESHDV.ts
+#EXTINF:-1 tvg-chno="105894" tvg-name="Quest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105894_ll_h15_ac.png" group-title="Netherlands" tvg-id="QUESHDV" tvc-guide-stationid="105894",Quest HD
+http://example.local/NLD-QUESHDV.ts
+#EXTINF:-1 tvg-chno="105894" tvg-name="Quest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105894_ll_h15_ac.png" group-title="United Kingdom" tvg-id="QUESHDV" tvc-guide-stationid="105894",Quest HD
+http://example.local/GBR-QUESHDV.ts
+#EXTINF:-1 tvg-chno="117469" tvg-name="Quest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s117469_ll_h15_aa.png" group-title="United Kingdom" tvg-id="QUESTUKHD" tvc-guide-stationid="117469",Quest HD
+http://example.local/GBR-QUESTUKHD.ts
+#EXTINF:-1 tvg-chno="109198" tvg-name="Quest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109198_ll_h15_ac.png" group-title="United Kingdom" tvg-id="QUESVHD" tvc-guide-stationid="109198",Quest HD
+http://example.local/GBR-QUESVHD.ts
+#EXTINF:-1 tvg-chno="105894" tvg-name="Quest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105894_ll_h15_ac.png" group-title="Ireland" tvg-id="QUESHDV" tvc-guide-stationid="105894",Quest HD
+http://example.local/IRL-QUESHDV.ts
+#EXTINF:-1 tvg-chno="105894" tvg-name="Quest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105894_ll_h15_ac.png" group-title="Switzerland" tvg-id="QUESHDV" tvc-guide-stationid="105894",Quest HD
+http://example.local/CHE-QUESHDV.ts
+#EXTINF:-1 tvg-chno="117469" tvg-name="Quest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s117469_ll_h15_aa.png" group-title="Switzerland" tvg-id="QUESTUKHD" tvc-guide-stationid="117469",Quest HD
+http://example.local/CHE-QUESTUKHD.ts
+#EXTINF:-1 tvg-chno="200865" tvg-name="Quest HD Eng/NI" group-title="United Kingdom" tvg-id="QENNIVM" tvc-guide-stationid="200865",Quest HD Eng/NI
+http://example.local/GBR-QENNIVM.ts
+#EXTINF:-1 tvg-chno="200866" tvg-name="Quest HD Wales/Scotland" group-title="United Kingdom" tvg-id="QWASCVM" tvc-guide-stationid="200866",Quest HD Wales/Scotland
+http://example.local/GBR-QWASCVM.ts
+#EXTINF:-1 tvg-chno="102471" tvg-name="Quest Red" tvg-logo="https://zap2it.tmsimg.com/assets/s102471_ll_h15_ab.png" group-title="Belgium" tvg-id="QREDUK" tvc-guide-stationid="102471",Quest Red
+http://example.local/BEL-QREDUK.ts
+#EXTINF:-1 tvg-chno="102471" tvg-name="Quest Red" tvg-logo="https://zap2it.tmsimg.com/assets/s102471_ll_h15_ab.png" group-title="Netherlands" tvg-id="QREDUK" tvc-guide-stationid="102471",Quest Red
+http://example.local/NLD-QREDUK.ts
+#EXTINF:-1 tvg-chno="102471" tvg-name="Quest Red" tvg-logo="https://zap2it.tmsimg.com/assets/s102471_ll_h15_ab.png" group-title="United Kingdom" tvg-id="QREDUK" tvc-guide-stationid="102471",Quest Red
+http://example.local/GBR-QREDUK.ts
+#EXTINF:-1 tvg-chno="102472" tvg-name="Quest Red" tvg-logo="https://zap2it.tmsimg.com/assets/s102472_ll_h15_ab.png" group-title="United Kingdom" tvg-id="QREDVM" tvc-guide-stationid="102472",Quest Red
+http://example.local/GBR-QREDVM.ts
+#EXTINF:-1 tvg-chno="102471" tvg-name="Quest Red" tvg-logo="https://zap2it.tmsimg.com/assets/s102471_ll_h15_ab.png" group-title="Ireland" tvg-id="QREDUK" tvc-guide-stationid="102471",Quest Red
+http://example.local/IRL-QREDUK.ts
+#EXTINF:-1 tvg-chno="102471" tvg-name="Quest Red" tvg-logo="https://zap2it.tmsimg.com/assets/s102471_ll_h15_ab.png" group-title="Switzerland" tvg-id="QREDUK" tvc-guide-stationid="102471",Quest Red
+http://example.local/CHE-QREDUK.ts
+#EXTINF:-1 tvg-chno="102764" tvg-name="Quest Red +1" tvg-logo="https://zap2it.tmsimg.com/assets/s102764_ll_h15_ab.png" group-title="Belgium" tvg-id="QREDUK1" tvc-guide-stationid="102764",Quest Red +1
+http://example.local/BEL-QREDUK1.ts
+#EXTINF:-1 tvg-chno="102764" tvg-name="Quest Red +1" tvg-logo="https://zap2it.tmsimg.com/assets/s102764_ll_h15_ab.png" group-title="Netherlands" tvg-id="QREDUK1" tvc-guide-stationid="102764",Quest Red +1
+http://example.local/NLD-QREDUK1.ts
+#EXTINF:-1 tvg-chno="102764" tvg-name="Quest Red +1" tvg-logo="https://zap2it.tmsimg.com/assets/s102764_ll_h15_ab.png" group-title="United Kingdom" tvg-id="QREDUK1" tvc-guide-stationid="102764",Quest Red +1
+http://example.local/GBR-QREDUK1.ts
+#EXTINF:-1 tvg-chno="102764" tvg-name="Quest Red +1" tvg-logo="https://zap2it.tmsimg.com/assets/s102764_ll_h15_ab.png" group-title="Ireland" tvg-id="QREDUK1" tvc-guide-stationid="102764",Quest Red +1
+http://example.local/IRL-QREDUK1.ts
+#EXTINF:-1 tvg-chno="200903" tvg-name="Quest Red Eng/NI" group-title="United Kingdom" tvg-id="QRENVM" tvc-guide-stationid="200903",Quest Red Eng/NI
+http://example.local/GBR-QRENVM.ts
+#EXTINF:-1 tvg-chno="200904" tvg-name="Quest Red Wales/Scotland" group-title="United Kingdom" tvg-id="QRWSVM" tvc-guide-stationid="200904",Quest Red Wales/Scotland
+http://example.local/GBR-QRWSVM.ts
+#EXTINF:-1 tvg-chno="82871" tvg-name="Quick Tips" group-title="United States" tvg-id="QTIPS" tvc-guide-stationid="82871",Quick Tips
+http://example.local/USA-QTIPS.ts
+#EXTINF:-1 tvg-chno="78573" tvg-name="Quickies - New Frontier" tvg-logo="https://zap2it.tmsimg.com/assets/s78573_ll_h15_aa.png" group-title="Mexico" tvg-id="QUICKIE" tvc-guide-stationid="78573",Quickies - New Frontier
+http://example.local/MEX-QUICKIE.ts
+#EXTINF:-1 tvg-chno="106729" tvg-name="Quiero Mi Musica en Mi Idioma HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75978_ll_h15_ac.png" group-title="Chile" tvg-id="QMMIHD" tvc-guide-stationid="106729",Quiero Mi Musica en Mi Idioma HD
+http://example.local/CHL-QMMIHD.ts
+#EXTINF:-1 tvg-chno="106729" tvg-name="Quiero Mi Musica en Mi Idioma HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75978_ll_h15_ac.png" group-title="Argentina" tvg-id="QMMIHD" tvc-guide-stationid="106729",Quiero Mi Musica en Mi Idioma HD
+http://example.local/ARG-QMMIHD.ts
+#EXTINF:-1 tvg-chno="106729" tvg-name="Quiero Mi Musica en Mi Idioma HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75978_ll_h15_ac.png" group-title="Costa Rica" tvg-id="QMMIHD" tvc-guide-stationid="106729",Quiero Mi Musica en Mi Idioma HD
+http://example.local/CRI-QMMIHD.ts
+#EXTINF:-1 tvg-chno="106729" tvg-name="Quiero Mi Musica en Mi Idioma HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75978_ll_h15_ac.png" group-title="Uruguay" tvg-id="QMMIHD" tvc-guide-stationid="106729",Quiero Mi Musica en Mi Idioma HD
+http://example.local/URY-QMMIHD.ts
+#EXTINF:-1 tvg-chno="75978" tvg-name="Quiero Música en Mi Idioma" tvg-logo="https://zap2it.tmsimg.com/assets/s75978_ll_h15_ac.png" group-title="Mexico" tvg-id="QMMI" tvc-guide-stationid="75978",Quiero Música en Mi Idioma
+http://example.local/MEX-QMMI.ts
+#EXTINF:-1 tvg-chno="75978" tvg-name="Quiero Música en Mi Idioma" tvg-logo="https://zap2it.tmsimg.com/assets/s75978_ll_h15_ac.png" group-title="Colombia" tvg-id="QMMI" tvc-guide-stationid="75978",Quiero Música en Mi Idioma
+http://example.local/COL-QMMI.ts
+#EXTINF:-1 tvg-chno="75978" tvg-name="Quiero Música en Mi Idioma" tvg-logo="https://zap2it.tmsimg.com/assets/s75978_ll_h15_ac.png" group-title="Argentina" tvg-id="QMMI" tvc-guide-stationid="75978",Quiero Música en Mi Idioma
+http://example.local/ARG-QMMI.ts
+#EXTINF:-1 tvg-chno="75978" tvg-name="Quiero Música en Mi Idioma" tvg-logo="https://zap2it.tmsimg.com/assets/s75978_ll_h15_ac.png" group-title="Venezuela" tvg-id="QMMI" tvc-guide-stationid="75978",Quiero Música en Mi Idioma
+http://example.local/VEN-QMMI.ts
+#EXTINF:-1 tvg-chno="75978" tvg-name="Quiero Música en Mi Idioma" tvg-logo="https://zap2it.tmsimg.com/assets/s75978_ll_h15_ac.png" group-title="Uruguay" tvg-id="QMMI" tvc-guide-stationid="75978",Quiero Música en Mi Idioma
+http://example.local/URY-QMMI.ts
+#EXTINF:-1 tvg-chno="75978" tvg-name="Quiero Música en Mi Idioma" tvg-logo="https://zap2it.tmsimg.com/assets/s75978_ll_h15_ac.png" group-title="Panama" tvg-id="QMMI" tvc-guide-stationid="75978",Quiero Música en Mi Idioma
+http://example.local/PAN-QMMI.ts
+#EXTINF:-1 tvg-chno="33629" tvg-name="Quiero Tv" tvg-logo="https://zap2it.tmsimg.com/assets/s33629_ll_h9_ac.png" group-title="Mexico" tvg-id="QUIERO" tvc-guide-stationid="33629",Quiero Tv
+http://example.local/MEX-QUIERO.ts
+#EXTINF:-1 tvg-chno="78894" tvg-name="Quince UCR" tvg-logo="https://zap2it.tmsimg.com/assets/s78894_ll_h15_ab.png" group-title="Costa Rica" tvg-id="UCR15" tvc-guide-stationid="78894",Quince UCR
+http://example.local/CRI-UCR15.ts
+#EXTINF:-1 tvg-chno="73259" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s73259_ll_h15_ad.png" group-title="Germany" tvg-id="QVCDEUT" tvc-guide-stationid="73259",QVC
+http://example.local/DEU-QVCDEUT.ts
+#EXTINF:-1 tvg-chno="73259" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s73259_ll_h15_ad.png" group-title="France" tvg-id="QVCDEUT" tvc-guide-stationid="73259",QVC
+http://example.local/FRA-QVCDEUT.ts
+#EXTINF:-1 tvg-chno="73259" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s73259_ll_h15_ad.png" group-title="Spain" tvg-id="QVCDEUT" tvc-guide-stationid="73259",QVC
+http://example.local/ESP-QVCDEUT.ts
+#EXTINF:-1 tvg-chno="11069" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s11069_h3_ba.png" group-title="United States" tvg-id="QVC" tvc-guide-stationid="11069",QVC
+http://example.local/USA-QVC.ts
+#EXTINF:-1 tvg-chno="119148" tvg-name="QVC" group-title="United States" tvg-id="VIZQVC" tvc-guide-stationid="119148",QVC
+http://example.local/USA-VIZQVC.ts
+#EXTINF:-1 tvg-chno="73259" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s73259_ll_h15_ad.png" group-title="Poland" tvg-id="QVCDEUT" tvc-guide-stationid="73259",QVC
+http://example.local/POL-QVCDEUT.ts
+#EXTINF:-1 tvg-chno="75287" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s75287_ll_h15_aa.png" group-title="Belgium" tvg-id="QVCITA" tvc-guide-stationid="75287",QVC
+http://example.local/BEL-QVCITA.ts
+#EXTINF:-1 tvg-chno="73259" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s73259_ll_h15_ad.png" group-title="Belgium" tvg-id="QVCDEUT" tvc-guide-stationid="73259",QVC
+http://example.local/BEL-QVCDEUT.ts
+#EXTINF:-1 tvg-chno="125129" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s125129_ll_h15_aa.png" group-title="Belgium" tvg-id="QVCUKSD" tvc-guide-stationid="125129",QVC
+http://example.local/BEL-QVCUKSD.ts
+#EXTINF:-1 tvg-chno="73259" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s73259_ll_h15_ad.png" group-title="Netherlands" tvg-id="QVCDEUT" tvc-guide-stationid="73259",QVC
+http://example.local/NLD-QVCDEUT.ts
+#EXTINF:-1 tvg-chno="125129" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s125129_ll_h15_aa.png" group-title="Netherlands" tvg-id="QVCUKSD" tvc-guide-stationid="125129",QVC
+http://example.local/NLD-QVCUKSD.ts
+#EXTINF:-1 tvg-chno="11069" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s11069_h3_ba.png" group-title="Bermuda" tvg-id="QVC" tvc-guide-stationid="11069",QVC
+http://example.local/BMU-QVC.ts
+#EXTINF:-1 tvg-chno="73259" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s73259_ll_h15_ad.png" group-title="Austria" tvg-id="QVCDEUT" tvc-guide-stationid="73259",QVC
+http://example.local/AUT-QVCDEUT.ts
+#EXTINF:-1 tvg-chno="75287" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s75287_ll_h15_aa.png" group-title="Italy" tvg-id="QVCITA" tvc-guide-stationid="75287",QVC
+http://example.local/ITA-QVCITA.ts
+#EXTINF:-1 tvg-chno="73259" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s73259_ll_h15_ad.png" group-title="Italy" tvg-id="QVCDEUT" tvc-guide-stationid="73259",QVC
+http://example.local/ITA-QVCDEUT.ts
+#EXTINF:-1 tvg-chno="125129" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s125129_ll_h15_aa.png" group-title="United Kingdom" tvg-id="QVCUKSD" tvc-guide-stationid="125129",QVC
+http://example.local/GBR-QVCUKSD.ts
+#EXTINF:-1 tvg-chno="73259" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s73259_ll_h15_ad.png" group-title="United Kingdom" tvg-id="QVCDEUT" tvc-guide-stationid="73259",QVC
+http://example.local/GBR-QVCDEUT.ts
+#EXTINF:-1 tvg-chno="11069" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s11069_h3_ba.png" group-title="Puerto Rico" tvg-id="QVC" tvc-guide-stationid="11069",QVC
+http://example.local/PRI-QVC.ts
+#EXTINF:-1 tvg-chno="11069" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s11069_h3_ba.png" group-title="Bahamas" tvg-id="QVC" tvc-guide-stationid="11069",QVC
+http://example.local/BHS-QVC.ts
+#EXTINF:-1 tvg-chno="75287" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s75287_ll_h15_aa.png" group-title="Switzerland" tvg-id="QVCITA" tvc-guide-stationid="75287",QVC
+http://example.local/CHE-QVCITA.ts
+#EXTINF:-1 tvg-chno="73259" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s73259_ll_h15_ad.png" group-title="Switzerland" tvg-id="QVCDEUT" tvc-guide-stationid="73259",QVC
+http://example.local/CHE-QVCDEUT.ts
+#EXTINF:-1 tvg-chno="11069" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s11069_h3_ba.png" group-title="Turks and Caicos" tvg-id="QVC" tvc-guide-stationid="11069",QVC
+http://example.local/TCA-QVC.ts
+#EXTINF:-1 tvg-chno="21810" tvg-name="QVC (VM)" tvg-logo="https://zap2it.tmsimg.com/assets/s21810_ll_h9_ad.png" group-title="Germany" tvg-id="QVCUK" tvc-guide-stationid="21810",QVC (VM)
+http://example.local/DEU-QVCUK.ts
+#EXTINF:-1 tvg-chno="21810" tvg-name="QVC (VM)" tvg-logo="https://zap2it.tmsimg.com/assets/s21810_ll_h9_ad.png" group-title="United Kingdom" tvg-id="QVCUK" tvc-guide-stationid="21810",QVC (VM)
+http://example.local/GBR-QVCUK.ts
+#EXTINF:-1 tvg-chno="21810" tvg-name="QVC (VM)" tvg-logo="https://zap2it.tmsimg.com/assets/s21810_ll_h9_ad.png" group-title="Ireland" tvg-id="QVCUK" tvc-guide-stationid="21810",QVC (VM)
+http://example.local/IRL-QVCUK.ts
+#EXTINF:-1 tvg-chno="29693" tvg-name="QVC Beauty" tvg-logo="https://zap2it.tmsimg.com/assets/s29693_ll_h9_ad.png" group-title="Belgium" tvg-id="QVCBEAU" tvc-guide-stationid="29693",QVC Beauty
+http://example.local/BEL-QVCBEAU.ts
+#EXTINF:-1 tvg-chno="29693" tvg-name="QVC Beauty" tvg-logo="https://zap2it.tmsimg.com/assets/s29693_ll_h9_ad.png" group-title="United Kingdom" tvg-id="QVCBEAU" tvc-guide-stationid="29693",QVC Beauty
+http://example.local/GBR-QVCBEAU.ts
+#EXTINF:-1 tvg-chno="98916" tvg-name="QVC Beauty" tvg-logo="https://zap2it.tmsimg.com/assets/s98916_ll_h9_aa.png" group-title="United Kingdom" tvg-id="QVCBEVM" tvc-guide-stationid="98916",QVC Beauty
+http://example.local/GBR-QVCBEVM.ts
+#EXTINF:-1 tvg-chno="29693" tvg-name="QVC Beauty" tvg-logo="https://zap2it.tmsimg.com/assets/s29693_ll_h9_ad.png" group-title="Ireland" tvg-id="QVCBEAU" tvc-guide-stationid="29693",QVC Beauty
+http://example.local/IRL-QVCBEAU.ts
+#EXTINF:-1 tvg-chno="98916" tvg-name="QVC Beauty" tvg-logo="https://zap2it.tmsimg.com/assets/s98916_ll_h9_aa.png" group-title="Ireland" tvg-id="QVCBEVM" tvc-guide-stationid="98916",QVC Beauty
+http://example.local/IRL-QVCBEVM.ts
+#EXTINF:-1 tvg-chno="116569" tvg-name="QVC Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s116569_ll_h15_aa.png" group-title="Belgium" tvg-id="QVCEXUK" tvc-guide-stationid="116569",QVC Extra
+http://example.local/BEL-QVCEXUK.ts
+#EXTINF:-1 tvg-chno="116569" tvg-name="QVC Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s116569_ll_h15_aa.png" group-title="United Kingdom" tvg-id="QVCEXUK" tvc-guide-stationid="116569",QVC Extra
+http://example.local/GBR-QVCEXUK.ts
+#EXTINF:-1 tvg-chno="120151" tvg-name="QVC Extra" group-title="United Kingdom" tvg-id="QVCEXVM" tvc-guide-stationid="120151",QVC Extra
+http://example.local/GBR-QVCEXVM.ts
+#EXTINF:-1 tvg-chno="116569" tvg-name="QVC Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s116569_ll_h15_aa.png" group-title="Ireland" tvg-id="QVCEXUK" tvc-guide-stationid="116569",QVC Extra
+http://example.local/IRL-QVCEXUK.ts
+#EXTINF:-1 tvg-chno="83633" tvg-name="QVC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83633_ll_h15_ad.png" group-title="Germany" tvg-id="QVCGHD" tvc-guide-stationid="83633",QVC HD
+http://example.local/DEU-QVCGHD.ts
+#EXTINF:-1 tvg-chno="83633" tvg-name="QVC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83633_ll_h15_ad.png" group-title="France" tvg-id="QVCGHD" tvc-guide-stationid="83633",QVC HD
+http://example.local/FRA-QVCGHD.ts
+#EXTINF:-1 tvg-chno="83633" tvg-name="QVC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83633_ll_h15_ad.png" group-title="Spain" tvg-id="QVCGHD" tvc-guide-stationid="83633",QVC HD
+http://example.local/ESP-QVCGHD.ts
+#EXTINF:-1 tvg-chno="110456" tvg-name="QVC HD" group-title="United States" tvg-id="QVCH" tvc-guide-stationid="110456",QVC HD
+http://example.local/USA-QVCH.ts
+#EXTINF:-1 tvg-chno="110089" tvg-name="QVC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s110089_ll_h15_ab.png" group-title="Poland" tvg-id="QVCITHD" tvc-guide-stationid="110089",QVC HD
+http://example.local/POL-QVCITHD.ts
+#EXTINF:-1 tvg-chno="87231" tvg-name="QVC HD" group-title="Poland" tvg-id="QVCUKHD" tvc-guide-stationid="87231",QVC HD
+http://example.local/POL-QVCUKHD.ts
+#EXTINF:-1 tvg-chno="110089" tvg-name="QVC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s110089_ll_h15_ab.png" group-title="Belgium" tvg-id="QVCITHD" tvc-guide-stationid="110089",QVC HD
+http://example.local/BEL-QVCITHD.ts
+#EXTINF:-1 tvg-chno="83633" tvg-name="QVC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83633_ll_h15_ad.png" group-title="Belgium" tvg-id="QVCGHD" tvc-guide-stationid="83633",QVC HD
+http://example.local/BEL-QVCGHD.ts
+#EXTINF:-1 tvg-chno="87231" tvg-name="QVC HD" group-title="Belgium" tvg-id="QVCUKHD" tvc-guide-stationid="87231",QVC HD
+http://example.local/BEL-QVCUKHD.ts
+#EXTINF:-1 tvg-chno="83633" tvg-name="QVC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83633_ll_h15_ad.png" group-title="Netherlands" tvg-id="QVCGHD" tvc-guide-stationid="83633",QVC HD
+http://example.local/NLD-QVCGHD.ts
+#EXTINF:-1 tvg-chno="83633" tvg-name="QVC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83633_ll_h15_ad.png" group-title="Austria" tvg-id="QVCGHD" tvc-guide-stationid="83633",QVC HD
+http://example.local/AUT-QVCGHD.ts
+#EXTINF:-1 tvg-chno="110089" tvg-name="QVC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s110089_ll_h15_ab.png" group-title="Italy" tvg-id="QVCITHD" tvc-guide-stationid="110089",QVC HD
+http://example.local/ITA-QVCITHD.ts
+#EXTINF:-1 tvg-chno="83633" tvg-name="QVC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83633_ll_h15_ad.png" group-title="Italy" tvg-id="QVCGHD" tvc-guide-stationid="83633",QVC HD
+http://example.local/ITA-QVCGHD.ts
+#EXTINF:-1 tvg-chno="87231" tvg-name="QVC HD" group-title="United Kingdom" tvg-id="QVCUKHD" tvc-guide-stationid="87231",QVC HD
+http://example.local/GBR-QVCUKHD.ts
+#EXTINF:-1 tvg-chno="83633" tvg-name="QVC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83633_ll_h15_ad.png" group-title="United Kingdom" tvg-id="QVCGHD" tvc-guide-stationid="83633",QVC HD
+http://example.local/GBR-QVCGHD.ts
+#EXTINF:-1 tvg-chno="87231" tvg-name="QVC HD" group-title="Ireland" tvg-id="QVCUKHD" tvc-guide-stationid="87231",QVC HD
+http://example.local/IRL-QVCUKHD.ts
+#EXTINF:-1 tvg-chno="83633" tvg-name="QVC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83633_ll_h15_ad.png" group-title="Switzerland" tvg-id="QVCGHD" tvc-guide-stationid="83633",QVC HD
+http://example.local/CHE-QVCGHD.ts
+#EXTINF:-1 tvg-chno="60222" tvg-name="QVC HD (QVC)" tvg-logo="https://zap2it.tmsimg.com/assets/s60222_ll_h15_ac.png" group-title="United States" tvg-id="QVCHD" tvc-guide-stationid="60222",QVC HD (QVC)
+http://example.local/USA-QVCHD.ts
+#EXTINF:-1 tvg-chno="138143" tvg-name="QVC HD (QVC)" tvg-logo="https://zap2it.tmsimg.com/assets/s60222_ll_h15_ac.png" group-title="United States" tvg-id="QVCSTR" tvc-guide-stationid="138143",QVC HD (QVC)
+http://example.local/USA-QVCSTR.ts
+#EXTINF:-1 tvg-chno="83634" tvg-name="QVC Style" tvg-logo="https://zap2it.tmsimg.com/assets/s83634_ll_h15_ac.png" group-title="Germany" tvg-id="QVCBTY" tvc-guide-stationid="83634",QVC Style
+http://example.local/DEU-QVCBTY.ts
+#EXTINF:-1 tvg-chno="83634" tvg-name="QVC Style" tvg-logo="https://zap2it.tmsimg.com/assets/s83634_ll_h15_ac.png" group-title="France" tvg-id="QVCBTY" tvc-guide-stationid="83634",QVC Style
+http://example.local/FRA-QVCBTY.ts
+#EXTINF:-1 tvg-chno="83634" tvg-name="QVC Style" tvg-logo="https://zap2it.tmsimg.com/assets/s83634_ll_h15_ac.png" group-title="Spain" tvg-id="QVCBTY" tvc-guide-stationid="83634",QVC Style
+http://example.local/ESP-QVCBTY.ts
+#EXTINF:-1 tvg-chno="83634" tvg-name="QVC Style" tvg-logo="https://zap2it.tmsimg.com/assets/s83634_ll_h15_ac.png" group-title="Belgium" tvg-id="QVCBTY" tvc-guide-stationid="83634",QVC Style
+http://example.local/BEL-QVCBTY.ts
+#EXTINF:-1 tvg-chno="83634" tvg-name="QVC Style" tvg-logo="https://zap2it.tmsimg.com/assets/s83634_ll_h15_ac.png" group-title="Netherlands" tvg-id="QVCBTY" tvc-guide-stationid="83634",QVC Style
+http://example.local/NLD-QVCBTY.ts
+#EXTINF:-1 tvg-chno="83634" tvg-name="QVC Style" tvg-logo="https://zap2it.tmsimg.com/assets/s83634_ll_h15_ac.png" group-title="Austria" tvg-id="QVCBTY" tvc-guide-stationid="83634",QVC Style
+http://example.local/AUT-QVCBTY.ts
+#EXTINF:-1 tvg-chno="83634" tvg-name="QVC Style" tvg-logo="https://zap2it.tmsimg.com/assets/s83634_ll_h15_ac.png" group-title="Italy" tvg-id="QVCBTY" tvc-guide-stationid="83634",QVC Style
+http://example.local/ITA-QVCBTY.ts
+#EXTINF:-1 tvg-chno="98903" tvg-name="QVC Style" tvg-logo="https://zap2it.tmsimg.com/assets/s98903_ll_h15_aa.png" group-title="United Kingdom" tvg-id="QVCSTVM" tvc-guide-stationid="98903",QVC Style
+http://example.local/GBR-QVCSTVM.ts
+#EXTINF:-1 tvg-chno="83634" tvg-name="QVC Style" tvg-logo="https://zap2it.tmsimg.com/assets/s83634_ll_h15_ac.png" group-title="United Kingdom" tvg-id="QVCBTY" tvc-guide-stationid="83634",QVC Style
+http://example.local/GBR-QVCBTY.ts
+#EXTINF:-1 tvg-chno="98903" tvg-name="QVC Style" tvg-logo="https://zap2it.tmsimg.com/assets/s98903_ll_h15_aa.png" group-title="Ireland" tvg-id="QVCSTVM" tvc-guide-stationid="98903",QVC Style
+http://example.local/IRL-QVCSTVM.ts
+#EXTINF:-1 tvg-chno="106106" tvg-name="QVC Style HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106106_ll_h15_ac.png" group-title="Germany" tvg-id="QVCBSHD" tvc-guide-stationid="106106",QVC Style HD
+http://example.local/DEU-QVCBSHD.ts
+#EXTINF:-1 tvg-chno="106106" tvg-name="QVC Style HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106106_ll_h15_ac.png" group-title="France" tvg-id="QVCBSHD" tvc-guide-stationid="106106",QVC Style HD
+http://example.local/FRA-QVCBSHD.ts
+#EXTINF:-1 tvg-chno="106106" tvg-name="QVC Style HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106106_ll_h15_ac.png" group-title="Spain" tvg-id="QVCBSHD" tvc-guide-stationid="106106",QVC Style HD
+http://example.local/ESP-QVCBSHD.ts
+#EXTINF:-1 tvg-chno="106106" tvg-name="QVC Style HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106106_ll_h15_ac.png" group-title="Poland" tvg-id="QVCBSHD" tvc-guide-stationid="106106",QVC Style HD
+http://example.local/POL-QVCBSHD.ts
+#EXTINF:-1 tvg-chno="123422" tvg-name="QVC Style HD" tvg-logo="https://zap2it.tmsimg.com/assets/s123422_ll_h15_aa.png" group-title="Belgium" tvg-id="QVCSTHD" tvc-guide-stationid="123422",QVC Style HD
+http://example.local/BEL-QVCSTHD.ts
+#EXTINF:-1 tvg-chno="106106" tvg-name="QVC Style HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106106_ll_h15_ac.png" group-title="Belgium" tvg-id="QVCBSHD" tvc-guide-stationid="106106",QVC Style HD
+http://example.local/BEL-QVCBSHD.ts
+#EXTINF:-1 tvg-chno="106106" tvg-name="QVC Style HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106106_ll_h15_ac.png" group-title="Netherlands" tvg-id="QVCBSHD" tvc-guide-stationid="106106",QVC Style HD
+http://example.local/NLD-QVCBSHD.ts
+#EXTINF:-1 tvg-chno="106106" tvg-name="QVC Style HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106106_ll_h15_ac.png" group-title="Austria" tvg-id="QVCBSHD" tvc-guide-stationid="106106",QVC Style HD
+http://example.local/AUT-QVCBSHD.ts
+#EXTINF:-1 tvg-chno="106106" tvg-name="QVC Style HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106106_ll_h15_ac.png" group-title="Italy" tvg-id="QVCBSHD" tvc-guide-stationid="106106",QVC Style HD
+http://example.local/ITA-QVCBSHD.ts
+#EXTINF:-1 tvg-chno="123422" tvg-name="QVC Style HD" tvg-logo="https://zap2it.tmsimg.com/assets/s123422_ll_h15_aa.png" group-title="United Kingdom" tvg-id="QVCSTHD" tvc-guide-stationid="123422",QVC Style HD
+http://example.local/GBR-QVCSTHD.ts
+#EXTINF:-1 tvg-chno="106106" tvg-name="QVC Style HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106106_ll_h15_ac.png" group-title="United Kingdom" tvg-id="QVCBSHD" tvc-guide-stationid="106106",QVC Style HD
+http://example.local/GBR-QVCBSHD.ts
+#EXTINF:-1 tvg-chno="123422" tvg-name="QVC Style HD" tvg-logo="https://zap2it.tmsimg.com/assets/s123422_ll_h15_aa.png" group-title="Ireland" tvg-id="QVCSTHD" tvc-guide-stationid="123422",QVC Style HD
+http://example.local/IRL-QVCSTHD.ts
+#EXTINF:-1 tvg-chno="106106" tvg-name="QVC Style HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106106_ll_h15_ac.png" group-title="Switzerland" tvg-id="QVCBSHD" tvc-guide-stationid="106106",QVC Style HD
+http://example.local/CHE-QVCBSHD.ts
+#EXTINF:-1 tvg-chno="113659" tvg-name="QVC UHD (Germany)" tvg-logo="https://zap2it.tmsimg.com/assets/s113659_ll_h15_aa.png" group-title="Germany" tvg-id="QVCUHD" tvc-guide-stationid="113659",QVC UHD (Germany)
+http://example.local/DEU-QVCUHD.ts
+#EXTINF:-1 tvg-chno="113659" tvg-name="QVC UHD (Germany)" tvg-logo="https://zap2it.tmsimg.com/assets/s113659_ll_h15_aa.png" group-title="France" tvg-id="QVCUHD" tvc-guide-stationid="113659",QVC UHD (Germany)
+http://example.local/FRA-QVCUHD.ts
+#EXTINF:-1 tvg-chno="113659" tvg-name="QVC UHD (Germany)" tvg-logo="https://zap2it.tmsimg.com/assets/s113659_ll_h15_aa.png" group-title="Spain" tvg-id="QVCUHD" tvc-guide-stationid="113659",QVC UHD (Germany)
+http://example.local/ESP-QVCUHD.ts
+#EXTINF:-1 tvg-chno="113659" tvg-name="QVC UHD (Germany)" tvg-logo="https://zap2it.tmsimg.com/assets/s113659_ll_h15_aa.png" group-title="Poland" tvg-id="QVCUHD" tvc-guide-stationid="113659",QVC UHD (Germany)
+http://example.local/POL-QVCUHD.ts
+#EXTINF:-1 tvg-chno="113659" tvg-name="QVC UHD (Germany)" tvg-logo="https://zap2it.tmsimg.com/assets/s113659_ll_h15_aa.png" group-title="Belgium" tvg-id="QVCUHD" tvc-guide-stationid="113659",QVC UHD (Germany)
+http://example.local/BEL-QVCUHD.ts
+#EXTINF:-1 tvg-chno="113659" tvg-name="QVC UHD (Germany)" tvg-logo="https://zap2it.tmsimg.com/assets/s113659_ll_h15_aa.png" group-title="Netherlands" tvg-id="QVCUHD" tvc-guide-stationid="113659",QVC UHD (Germany)
+http://example.local/NLD-QVCUHD.ts
+#EXTINF:-1 tvg-chno="113659" tvg-name="QVC UHD (Germany)" tvg-logo="https://zap2it.tmsimg.com/assets/s113659_ll_h15_aa.png" group-title="Austria" tvg-id="QVCUHD" tvc-guide-stationid="113659",QVC UHD (Germany)
+http://example.local/AUT-QVCUHD.ts
+#EXTINF:-1 tvg-chno="113659" tvg-name="QVC UHD (Germany)" tvg-logo="https://zap2it.tmsimg.com/assets/s113659_ll_h15_aa.png" group-title="Italy" tvg-id="QVCUHD" tvc-guide-stationid="113659",QVC UHD (Germany)
+http://example.local/ITA-QVCUHD.ts
+#EXTINF:-1 tvg-chno="113659" tvg-name="QVC UHD (Germany)" tvg-logo="https://zap2it.tmsimg.com/assets/s113659_ll_h15_aa.png" group-title="United Kingdom" tvg-id="QVCUHD" tvc-guide-stationid="113659",QVC UHD (Germany)
+http://example.local/GBR-QVCUHD.ts
+#EXTINF:-1 tvg-chno="113659" tvg-name="QVC UHD (Germany)" tvg-logo="https://zap2it.tmsimg.com/assets/s113659_ll_h15_aa.png" group-title="Switzerland" tvg-id="QVCUHD" tvc-guide-stationid="113659",QVC UHD (Germany)
+http://example.local/CHE-QVCUHD.ts
+#EXTINF:-1 tvg-chno="74338" tvg-name="QVC Zwei" tvg-logo="https://zap2it.tmsimg.com/assets/s74338_ll_h15_ag.png" group-title="Germany" tvg-id="QVC2DE" tvc-guide-stationid="74338",QVC Zwei
+http://example.local/DEU-QVC2DE.ts
+#EXTINF:-1 tvg-chno="74338" tvg-name="QVC Zwei" tvg-logo="https://zap2it.tmsimg.com/assets/s74338_ll_h15_ag.png" group-title="France" tvg-id="QVC2DE" tvc-guide-stationid="74338",QVC Zwei
+http://example.local/FRA-QVC2DE.ts
+#EXTINF:-1 tvg-chno="74338" tvg-name="QVC Zwei" tvg-logo="https://zap2it.tmsimg.com/assets/s74338_ll_h15_ag.png" group-title="Spain" tvg-id="QVC2DE" tvc-guide-stationid="74338",QVC Zwei
+http://example.local/ESP-QVC2DE.ts
+#EXTINF:-1 tvg-chno="74338" tvg-name="QVC Zwei" tvg-logo="https://zap2it.tmsimg.com/assets/s74338_ll_h15_ag.png" group-title="Belgium" tvg-id="QVC2DE" tvc-guide-stationid="74338",QVC Zwei
+http://example.local/BEL-QVC2DE.ts
+#EXTINF:-1 tvg-chno="74338" tvg-name="QVC Zwei" tvg-logo="https://zap2it.tmsimg.com/assets/s74338_ll_h15_ag.png" group-title="Netherlands" tvg-id="QVC2DE" tvc-guide-stationid="74338",QVC Zwei
+http://example.local/NLD-QVC2DE.ts
+#EXTINF:-1 tvg-chno="74338" tvg-name="QVC Zwei" tvg-logo="https://zap2it.tmsimg.com/assets/s74338_ll_h15_ag.png" group-title="Austria" tvg-id="QVC2DE" tvc-guide-stationid="74338",QVC Zwei
+http://example.local/AUT-QVC2DE.ts
+#EXTINF:-1 tvg-chno="74338" tvg-name="QVC Zwei" tvg-logo="https://zap2it.tmsimg.com/assets/s74338_ll_h15_ag.png" group-title="Italy" tvg-id="QVC2DE" tvc-guide-stationid="74338",QVC Zwei
+http://example.local/ITA-QVC2DE.ts
+#EXTINF:-1 tvg-chno="74338" tvg-name="QVC Zwei" tvg-logo="https://zap2it.tmsimg.com/assets/s74338_ll_h15_ag.png" group-title="United Kingdom" tvg-id="QVC2DE" tvc-guide-stationid="74338",QVC Zwei
+http://example.local/GBR-QVC2DE.ts
+#EXTINF:-1 tvg-chno="90465" tvg-name="QVC Zwei HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90465_ll_h15_ad.png" group-title="Germany" tvg-id="QVC2DEH" tvc-guide-stationid="90465",QVC Zwei HD
+http://example.local/DEU-QVC2DEH.ts
+#EXTINF:-1 tvg-chno="90465" tvg-name="QVC Zwei HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90465_ll_h15_ad.png" group-title="France" tvg-id="QVC2DEH" tvc-guide-stationid="90465",QVC Zwei HD
+http://example.local/FRA-QVC2DEH.ts
+#EXTINF:-1 tvg-chno="90465" tvg-name="QVC Zwei HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90465_ll_h15_ad.png" group-title="Spain" tvg-id="QVC2DEH" tvc-guide-stationid="90465",QVC Zwei HD
+http://example.local/ESP-QVC2DEH.ts
+#EXTINF:-1 tvg-chno="90465" tvg-name="QVC Zwei HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90465_ll_h15_ad.png" group-title="Poland" tvg-id="QVC2DEH" tvc-guide-stationid="90465",QVC Zwei HD
+http://example.local/POL-QVC2DEH.ts
+#EXTINF:-1 tvg-chno="90465" tvg-name="QVC Zwei HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90465_ll_h15_ad.png" group-title="Belgium" tvg-id="QVC2DEH" tvc-guide-stationid="90465",QVC Zwei HD
+http://example.local/BEL-QVC2DEH.ts
+#EXTINF:-1 tvg-chno="90465" tvg-name="QVC Zwei HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90465_ll_h15_ad.png" group-title="Netherlands" tvg-id="QVC2DEH" tvc-guide-stationid="90465",QVC Zwei HD
+http://example.local/NLD-QVC2DEH.ts
+#EXTINF:-1 tvg-chno="90465" tvg-name="QVC Zwei HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90465_ll_h15_ad.png" group-title="Austria" tvg-id="QVC2DEH" tvc-guide-stationid="90465",QVC Zwei HD
+http://example.local/AUT-QVC2DEH.ts
+#EXTINF:-1 tvg-chno="90465" tvg-name="QVC Zwei HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90465_ll_h15_ad.png" group-title="Italy" tvg-id="QVC2DEH" tvc-guide-stationid="90465",QVC Zwei HD
+http://example.local/ITA-QVC2DEH.ts
+#EXTINF:-1 tvg-chno="90465" tvg-name="QVC Zwei HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90465_ll_h15_ad.png" group-title="United Kingdom" tvg-id="QVC2DEH" tvc-guide-stationid="90465",QVC Zwei HD
+http://example.local/GBR-QVC2DEH.ts
+#EXTINF:-1 tvg-chno="90465" tvg-name="QVC Zwei HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90465_ll_h15_ad.png" group-title="Switzerland" tvg-id="QVC2DEH" tvc-guide-stationid="90465",QVC Zwei HD
+http://example.local/CHE-QVC2DEH.ts
+#EXTINF:-1 tvg-chno="114787" tvg-name="QVC Zwei HD (VF)" tvg-logo="https://zap2it.tmsimg.com/assets/s114787_ll_h9_aa.png" group-title="Germany" tvg-id="QVC2DEHD" tvc-guide-stationid="114787",QVC Zwei HD (VF)
+http://example.local/DEU-QVC2DEHD.ts
+#EXTINF:-1 tvg-chno="122447" tvg-name="QVC Zwei UHD" tvg-logo="https://zap2it.tmsimg.com/assets/s122447_ll_h15_aa.png" group-title="France" tvg-id="QVC2UHD" tvc-guide-stationid="122447",QVC Zwei UHD
+http://example.local/FRA-QVC2UHD.ts
+#EXTINF:-1 tvg-chno="122447" tvg-name="QVC Zwei UHD" tvg-logo="https://zap2it.tmsimg.com/assets/s122447_ll_h15_aa.png" group-title="Belgium" tvg-id="QVC2UHD" tvc-guide-stationid="122447",QVC Zwei UHD
+http://example.local/BEL-QVC2UHD.ts
+#EXTINF:-1 tvg-chno="122447" tvg-name="QVC Zwei UHD" tvg-logo="https://zap2it.tmsimg.com/assets/s122447_ll_h15_aa.png" group-title="Netherlands" tvg-id="QVC2UHD" tvc-guide-stationid="122447",QVC Zwei UHD
+http://example.local/NLD-QVC2UHD.ts
+#EXTINF:-1 tvg-chno="122447" tvg-name="QVC Zwei UHD" tvg-logo="https://zap2it.tmsimg.com/assets/s122447_ll_h15_aa.png" group-title="Austria" tvg-id="QVC2UHD" tvc-guide-stationid="122447",QVC Zwei UHD
+http://example.local/AUT-QVC2UHD.ts
+#EXTINF:-1 tvg-chno="129135" tvg-name="QVC's The Big Dish" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002BPRY9.png" group-title="United States" tvg-id="BIGDISH" tvc-guide-stationid="129135",QVC's The Big Dish
+http://example.local/USA-BIGDISH.ts
+#EXTINF:-1 tvg-chno="177681" tvg-name="QVC2" tvg-logo="https://zap2it.tmsimg.com/assets/s82696_ll_h15_ac.png" group-title="United States" tvg-id="QVC2STR" tvc-guide-stationid="177681",QVC2
+http://example.local/USA-QVC2STR.ts
+#EXTINF:-1 tvg-chno="141862" tvg-name="QVC2" group-title="United Kingdom" tvg-id="QVC2UK" tvc-guide-stationid="141862",QVC2
+http://example.local/GBR-QVC2UK.ts
+#EXTINF:-1 tvg-chno="141862" tvg-name="QVC2" group-title="Switzerland" tvg-id="QVC2UK" tvc-guide-stationid="141862",QVC2
+http://example.local/CHE-QVC2UK.ts
+#EXTINF:-1 tvg-chno="82682" tvg-name="QVC2 (QVC2)" tvg-logo="https://zap2it.tmsimg.com/assets/s82682_h3_aa.png" group-title="United States" tvg-id="QVC2" tvc-guide-stationid="82682",QVC2 (QVC2)
+http://example.local/USA-QVC2.ts
+#EXTINF:-1 tvg-chno="82696" tvg-name="QVC2 HD (QVC2)" tvg-logo="https://zap2it.tmsimg.com/assets/s82696_ll_h15_ac.png" group-title="United States" tvg-id="QVC2HD" tvc-guide-stationid="82696",QVC2 HD (QVC2)
+http://example.local/USA-QVC2HD.ts
+#EXTINF:-1 tvg-chno="101260" tvg-name="QVC3" tvg-logo="https://zap2it.tmsimg.com/assets/s101260_ll_h15_ab.png" group-title="United States" tvg-id="QVC3" tvc-guide-stationid="101260",QVC3
+http://example.local/USA-QVC3.ts
+#EXTINF:-1 tvg-chno="102337" tvg-name="QVC3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102337_ll_h15_ab.png" group-title="United States" tvg-id="QVC3HD" tvc-guide-stationid="102337",QVC3 HD
+http://example.local/USA-QVC3HD.ts
+#EXTINF:-1 tvg-chno="175260" tvg-name="Qwest TV" tvg-logo="https://zap2it.tmsimg.com/assets/s175260_ll_h9_aa.png" group-title="Germany" tvg-id="QWESTINT" tvc-guide-stationid="175260",Qwest TV
+http://example.local/DEU-QWESTINT.ts
+#EXTINF:-1 tvg-chno="175260" tvg-name="Qwest TV" tvg-logo="https://zap2it.tmsimg.com/assets/s175260_ll_h9_aa.png" group-title="United Kingdom" tvg-id="QWESTINT" tvc-guide-stationid="175260",Qwest TV
+http://example.local/GBR-QWESTINT.ts
+#EXTINF:-1 tvg-chno="121025" tvg-name="QwestJazzUK" group-title="United States" tvg-id="VIZQWJZ" tvc-guide-stationid="121025",QwestJazzUK
+http://example.local/USA-VIZQWJZ.ts
+#EXTINF:-1 tvg-chno="123151" tvg-name="R 101" tvg-logo="https://zap2it.tmsimg.com/assets/s123151_ll_h15_aa.png" group-title="Italy" tvg-id="R101IT" tvc-guide-stationid="123151",R 101
+http://example.local/ITA-R101IT.ts
+#EXTINF:-1 tvg-chno="40283" tvg-name="R&B Clásico" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Mexico" tvg-id="RBCLASI" tvc-guide-stationid="40283",R&B Clásico
+http://example.local/MEX-RBCLASI.ts
+#EXTINF:-1 tvg-chno="101554" tvg-name="R'n'B & Soul Classics" group-title="Germany" tvg-id="RNBSLCL" tvc-guide-stationid="101554",R'n'B & Soul Classics
+http://example.local/DEU-RNBSLCL.ts
+#EXTINF:-1 tvg-chno="120737" tvg-name="R. Bharat" group-title="United States" tvg-id="RBHRT" tvc-guide-stationid="120737",R. Bharat
+http://example.local/USA-RBHRT.ts
+#EXTINF:-1 tvg-chno="107921" tvg-name="R.SA" tvg-logo="https://zap2it.tmsimg.com/assets/s107921_ll_h9_aa.png" group-title="Germany" tvg-id="RSADE" tvc-guide-stationid="107921",R.SA
+http://example.local/DEU-RSADE.ts
+#EXTINF:-1 tvg-chno="107923" tvg-name="R.SA Mephisto 976" tvg-logo="https://zap2it.tmsimg.com/assets/s107923_ll_h9_aa.png" group-title="Germany" tvg-id="RSAMEPH" tvc-guide-stationid="107923",R.SA Mephisto 976
+http://example.local/DEU-RSAMEPH.ts
+#EXTINF:-1 tvg-chno="101224" tvg-name="R9" tvg-logo="https://zap2it.tmsimg.com/assets/s101224_ll_h15_aa.png" group-title="Austria" tvg-id="R9AU" tvc-guide-stationid="101224",R9
+http://example.local/AUT-R9AU.ts
+#EXTINF:-1 tvg-chno="101224" tvg-name="R9" tvg-logo="https://zap2it.tmsimg.com/assets/s101224_ll_h15_aa.png" group-title="Switzerland" tvg-id="R9AU" tvc-guide-stationid="101224",R9
+http://example.local/CHE-R9AU.ts
+#EXTINF:-1 tvg-chno="107212" tvg-name="R9 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s107212_ll_h15_aa.png" group-title="Germany" tvg-id="R9HD" tvc-guide-stationid="107212",R9 HD
+http://example.local/DEU-R9HD.ts
+#EXTINF:-1 tvg-chno="107212" tvg-name="R9 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s107212_ll_h15_aa.png" group-title="France" tvg-id="R9HD" tvc-guide-stationid="107212",R9 HD
+http://example.local/FRA-R9HD.ts
+#EXTINF:-1 tvg-chno="107212" tvg-name="R9 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s107212_ll_h15_aa.png" group-title="Spain" tvg-id="R9HD" tvc-guide-stationid="107212",R9 HD
+http://example.local/ESP-R9HD.ts
+#EXTINF:-1 tvg-chno="107212" tvg-name="R9 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s107212_ll_h15_aa.png" group-title="Poland" tvg-id="R9HD" tvc-guide-stationid="107212",R9 HD
+http://example.local/POL-R9HD.ts
+#EXTINF:-1 tvg-chno="107212" tvg-name="R9 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s107212_ll_h15_aa.png" group-title="Belgium" tvg-id="R9HD" tvc-guide-stationid="107212",R9 HD
+http://example.local/BEL-R9HD.ts
+#EXTINF:-1 tvg-chno="107212" tvg-name="R9 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s107212_ll_h15_aa.png" group-title="Netherlands" tvg-id="R9HD" tvc-guide-stationid="107212",R9 HD
+http://example.local/NLD-R9HD.ts
+#EXTINF:-1 tvg-chno="107212" tvg-name="R9 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s107212_ll_h15_aa.png" group-title="Austria" tvg-id="R9HD" tvc-guide-stationid="107212",R9 HD
+http://example.local/AUT-R9HD.ts
+#EXTINF:-1 tvg-chno="107212" tvg-name="R9 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s107212_ll_h15_aa.png" group-title="Switzerland" tvg-id="R9HD" tvc-guide-stationid="107212",R9 HD
+http://example.local/CHE-R9HD.ts
+#EXTINF:-1 tvg-chno="45169" tvg-name="RACER Network" tvg-logo="https://zap2it.tmsimg.com/assets/s45169_ll_h15_ac.png" group-title="United States" tvg-id="RACER" tvc-guide-stationid="45169",RACER Network
+http://example.local/USA-RACER.ts
+#EXTINF:-1 tvg-chno="45169" tvg-name="RACER Network" tvg-logo="https://zap2it.tmsimg.com/assets/s45169_ll_h15_ac.png" group-title="Bermuda" tvg-id="RACER" tvc-guide-stationid="45169",RACER Network
+http://example.local/BMU-RACER.ts
+#EXTINF:-1 tvg-chno="45169" tvg-name="RACER Network" tvg-logo="https://zap2it.tmsimg.com/assets/s45169_ll_h15_ac.png" group-title="United Kingdom" tvg-id="RACER" tvc-guide-stationid="45169",RACER Network
+http://example.local/GBR-RACER.ts
+#EXTINF:-1 tvg-chno="45169" tvg-name="RACER Network" tvg-logo="https://zap2it.tmsimg.com/assets/s45169_ll_h15_ac.png" group-title="Jamaica" tvg-id="RACER" tvc-guide-stationid="45169",RACER Network
+http://example.local/JAM-RACER.ts
+#EXTINF:-1 tvg-chno="45169" tvg-name="RACER Network" tvg-logo="https://zap2it.tmsimg.com/assets/s45169_ll_h15_ac.png" group-title="Dominican Republic" tvg-id="RACER" tvc-guide-stationid="45169",RACER Network
+http://example.local/DOM-RACER.ts
+#EXTINF:-1 tvg-chno="45169" tvg-name="RACER Network" tvg-logo="https://zap2it.tmsimg.com/assets/s45169_ll_h15_ac.png" group-title="Bahamas" tvg-id="RACER" tvc-guide-stationid="45169",RACER Network
+http://example.local/BHS-RACER.ts
+#EXTINF:-1 tvg-chno="45169" tvg-name="RACER Network" tvg-logo="https://zap2it.tmsimg.com/assets/s45169_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="RACER" tvc-guide-stationid="45169",RACER Network
+http://example.local/TTO-RACER.ts
+#EXTINF:-1 tvg-chno="45169" tvg-name="RACER Network" tvg-logo="https://zap2it.tmsimg.com/assets/s45169_ll_h15_ac.png" group-title="Turks and Caicos" tvg-id="RACER" tvc-guide-stationid="45169",RACER Network
+http://example.local/TCA-RACER.ts
+#EXTINF:-1 tvg-chno="45169" tvg-name="RACER Network" tvg-logo="https://zap2it.tmsimg.com/assets/s45169_ll_h15_ac.png" group-title="St. Lucia" tvg-id="RACER" tvc-guide-stationid="45169",RACER Network
+http://example.local/LCA-RACER.ts
+#EXTINF:-1 tvg-chno="45169" tvg-name="RACER Network" tvg-logo="https://zap2it.tmsimg.com/assets/s45169_ll_h15_ac.png" group-title="Curacao" tvg-id="RACER" tvc-guide-stationid="45169",RACER Network
+http://example.local/CUW-RACER.ts
+#EXTINF:-1 tvg-chno="45169" tvg-name="RACER Network" tvg-logo="https://zap2it.tmsimg.com/assets/s45169_ll_h15_ac.png" group-title="Aruba" tvg-id="RACER" tvc-guide-stationid="45169",RACER Network
+http://example.local/ABW-RACER.ts
+#EXTINF:-1 tvg-chno="61036" tvg-name="RACER Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61036_ll_h15_ac.png" group-title="Canada" tvg-id="RACERHD" tvc-guide-stationid="61036",RACER Network HD
+http://example.local/CAN-RACERHD.ts
+#EXTINF:-1 tvg-chno="61036" tvg-name="RACER Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61036_ll_h15_ac.png" group-title="United States" tvg-id="RACERHD" tvc-guide-stationid="61036",RACER Network HD
+http://example.local/USA-RACERHD.ts
+#EXTINF:-1 tvg-chno="61036" tvg-name="RACER Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61036_ll_h15_ac.png" group-title="Bermuda" tvg-id="RACERHD" tvc-guide-stationid="61036",RACER Network HD
+http://example.local/BMU-RACERHD.ts
+#EXTINF:-1 tvg-chno="61036" tvg-name="RACER Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61036_ll_h15_ac.png" group-title="Jamaica" tvg-id="RACERHD" tvc-guide-stationid="61036",RACER Network HD
+http://example.local/JAM-RACERHD.ts
+#EXTINF:-1 tvg-chno="61036" tvg-name="RACER Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61036_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="RACERHD" tvc-guide-stationid="61036",RACER Network HD
+http://example.local/CYM-RACERHD.ts
+#EXTINF:-1 tvg-chno="61036" tvg-name="RACER Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61036_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="RACERHD" tvc-guide-stationid="61036",RACER Network HD
+http://example.local/TTO-RACERHD.ts
+#EXTINF:-1 tvg-chno="61036" tvg-name="RACER Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61036_ll_h15_ac.png" group-title="Barbados" tvg-id="RACERHD" tvc-guide-stationid="61036",RACER Network HD
+http://example.local/BRB-RACERHD.ts
+#EXTINF:-1 tvg-chno="61036" tvg-name="RACER Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61036_ll_h15_ac.png" group-title="Turks and Caicos" tvg-id="RACERHD" tvc-guide-stationid="61036",RACER Network HD
+http://example.local/TCA-RACERHD.ts
+#EXTINF:-1 tvg-chno="61036" tvg-name="RACER Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61036_ll_h15_ac.png" group-title="Aruba" tvg-id="RACERHD" tvc-guide-stationid="61036",RACER Network HD
+http://example.local/ABW-RACERHD.ts
+#EXTINF:-1 tvg-chno="61036" tvg-name="RACER Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61036_ll_h15_ac.png" group-title="St. Kitts and Nevis" tvg-id="RACERHD" tvc-guide-stationid="61036",RACER Network HD
+http://example.local/KNA-RACERHD.ts
+#EXTINF:-1 tvg-chno="145347" tvg-name="RACER Network International" tvg-logo="https://zap2it.tmsimg.com/assets/s145347_ll_h15_ab.png" group-title="Germany" tvg-id="RACERI" tvc-guide-stationid="145347",RACER Network International
+http://example.local/DEU-RACERI.ts
+#EXTINF:-1 tvg-chno="145347" tvg-name="RACER Network International" tvg-logo="https://zap2it.tmsimg.com/assets/s145347_ll_h15_ab.png" group-title="United States" tvg-id="RACERI" tvc-guide-stationid="145347",RACER Network International
+http://example.local/USA-RACERI.ts
+#EXTINF:-1 tvg-chno="121708" tvg-name="RACER Network Select" tvg-logo="https://zap2it.tmsimg.com/assets/s121708_ll_h15_ab.png" group-title="United States" tvg-id="RACSEL" tvc-guide-stationid="121708",RACER Network Select
+http://example.local/USA-RACSEL.ts
+#EXTINF:-1 tvg-chno="174903" tvg-name="Racibórz 24 HD" group-title="Poland" tvg-id="RACIB24" tvc-guide-stationid="174903",Racibórz 24 HD
+http://example.local/POL-RACIB24.ts
+#EXTINF:-1 tvg-chno="124630" tvg-name="Racing America" tvg-logo="https://zap2it.tmsimg.com/assets/s124630_ll_h15_aa.png" group-title="United States" tvg-id="RA" tvc-guide-stationid="124630",Racing America
+http://example.local/USA-RA.ts
+#EXTINF:-1 tvg-chno="124630" tvg-name="Racing America" tvg-logo="https://zap2it.tmsimg.com/assets/s124630_ll_h15_aa.png" group-title="United Kingdom" tvg-id="RA" tvc-guide-stationid="124630",Racing America
+http://example.local/GBR-RA.ts
+#EXTINF:-1 tvg-chno="116703" tvg-name="Racing TV" tvg-logo="https://zap2it.tmsimg.com/assets/s116703_ll_h15_aa.png" group-title="Ireland" tvg-id="RACINSD" tvc-guide-stationid="116703",Racing TV
+http://example.local/IRL-RACINSD.ts
+#EXTINF:-1 tvg-chno="24226" tvg-name="Racing TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24226_ll_h15_ab.png" group-title="United Kingdom" tvg-id="RACING" tvc-guide-stationid="24226",Racing TV HD
+http://example.local/GBR-RACING.ts
+#EXTINF:-1 tvg-chno="24226" tvg-name="Racing TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24226_ll_h15_ab.png" group-title="Ireland" tvg-id="RACING" tvc-guide-stationid="24226",Racing TV HD
+http://example.local/IRL-RACING.ts
+#EXTINF:-1 tvg-chno="148460" tvg-name="RACING.COM HD (Foxtel)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0023RXB8.png" group-title="Australia" tvg-id="RCOMHDANZ" tvc-guide-stationid="148460",RACING.COM HD (Foxtel)
+http://example.local/AUS-RCOMHDANZ.ts
+#EXTINF:-1 tvg-chno="104516" tvg-name="RACING.COM NSW" tvg-logo="https://zap2it.tmsimg.com/assets/s104516_ll_h9_aa.png" group-title="Australia" tvg-id="RCNSANZ" tvc-guide-stationid="104516",RACING.COM NSW
+http://example.local/AUS-RCNSANZ.ts
+#EXTINF:-1 tvg-chno="104517" tvg-name="RACING.COM NT" tvg-logo="https://zap2it.tmsimg.com/assets/s104517_ll_h9_aa.png" group-title="Australia" tvg-id="RCNTANZ" tvc-guide-stationid="104517",RACING.COM NT
+http://example.local/AUS-RCNTANZ.ts
+#EXTINF:-1 tvg-chno="104518" tvg-name="RACING.COM QLD" tvg-logo="https://zap2it.tmsimg.com/assets/s104518_ll_h9_aa.png" group-title="Australia" tvg-id="RCQDANZ" tvc-guide-stationid="104518",RACING.COM QLD
+http://example.local/AUS-RCQDANZ.ts
+#EXTINF:-1 tvg-chno="104519" tvg-name="RACING.COM SA" tvg-logo="https://zap2it.tmsimg.com/assets/s104519_ll_h9_aa.png" group-title="Australia" tvg-id="RCSAANZ" tvc-guide-stationid="104519",RACING.COM SA
+http://example.local/AUS-RCSAANZ.ts
+#EXTINF:-1 tvg-chno="104520" tvg-name="RACING.COM TAS" tvg-logo="https://zap2it.tmsimg.com/assets/s104520_ll_h9_aa.png" group-title="Australia" tvg-id="RCTAANZ" tvc-guide-stationid="104520",RACING.COM TAS
+http://example.local/AUS-RCTAANZ.ts
+#EXTINF:-1 tvg-chno="104521" tvg-name="RACING.COM VIC" tvg-logo="https://zap2it.tmsimg.com/assets/s104521_ll_h9_aa.png" group-title="Australia" tvg-id="RCVCANZ" tvc-guide-stationid="104521",RACING.COM VIC
+http://example.local/AUS-RCVCANZ.ts
+#EXTINF:-1 tvg-chno="104522" tvg-name="RACING.COM WA" tvg-logo="https://zap2it.tmsimg.com/assets/s104522_ll_h9_aa.png" group-title="Australia" tvg-id="RCWAANZ" tvc-guide-stationid="104522",RACING.COM WA
+http://example.local/AUS-RCWAANZ.ts
+#EXTINF:-1 tvg-chno="107125" tvg-name="Rad ZET Stettin" tvg-logo="https://zap2it.tmsimg.com/assets/s107125_ll_h15_ab.png" group-title="Germany" tvg-id="RADZETS" tvc-guide-stationid="107125",Rad ZET Stettin
+http://example.local/DEU-RADZETS.ts
+#EXTINF:-1 tvg-chno="123150" tvg-name="Rada TV" group-title="Austria" tvg-id="RADATV" tvc-guide-stationid="123150",Rada TV
+http://example.local/AUT-RADATV.ts
+#EXTINF:-1 tvg-chno="94498" tvg-name="Radarvision" group-title="United States" tvg-id="WDRADAR" tvc-guide-stationid="94498",Radarvision
+http://example.local/USA-WDRADAR.ts
+#EXTINF:-1 tvg-chno="130819" tvg-name="Radio 1" tvg-logo="https://zap2it.tmsimg.com/assets/s130819_ll_h15_ab.png" group-title="Belgium" tvg-id="RAD1BE" tvc-guide-stationid="130819",Radio 1
+http://example.local/BEL-RAD1BE.ts
+#EXTINF:-1 tvg-chno="107126" tvg-name="Radio 1007" tvg-logo="https://zap2it.tmsimg.com/assets/s107126_ll_h15_aa.png" group-title="Germany" tvg-id="RAD1007" tvc-guide-stationid="107126",Radio 1007
+http://example.local/DEU-RAD1007.ts
+#EXTINF:-1 tvg-chno="123154" tvg-name="Radio 105" group-title="Italy" tvg-id="R105IT" tvc-guide-stationid="123154",Radio 105
+http://example.local/ITA-R105IT.ts
+#EXTINF:-1 tvg-chno="107127" tvg-name="Radio 21" tvg-logo="https://zap2it.tmsimg.com/assets/s107127_ll_h15_aa.png" group-title="Germany" tvg-id="RADIO21" tvc-guide-stationid="107127",Radio 21
+http://example.local/DEU-RADIO21.ts
+#EXTINF:-1 tvg-chno="115271" tvg-name="Radio 21 Kosovo" tvg-logo="https://zap2it.tmsimg.com/assets/s115271_ll_h9_aa.png" group-title="Germany" tvg-id="RAD21KO" tvc-guide-stationid="115271",Radio 21 Kosovo
+http://example.local/DEU-RAD21KO.ts
+#EXTINF:-1 tvg-chno="87943" tvg-name="Radio 24" group-title="Germany" tvg-id="RADIO24" tvc-guide-stationid="87943",Radio 24
+http://example.local/DEU-RADIO24.ts
+#EXTINF:-1 tvg-chno="123644" tvg-name="Radio 24" tvg-logo="https://zap2it.tmsimg.com/assets/s123644_ll_h15_aa.png" group-title="Italy" tvg-id="RADIO24IT" tvc-guide-stationid="123644",Radio 24
+http://example.local/ITA-RADIO24IT.ts
+#EXTINF:-1 tvg-chno="200913" tvg-name="Radio 24 - Il Sole 24 Ore TV" group-title="Italy" tvg-id="RAD24ORE" tvc-guide-stationid="200913",Radio 24 - Il Sole 24 Ore TV
+http://example.local/ITA-RAD24ORE.ts
+#EXTINF:-1 tvg-chno="115277" tvg-name="Radio 7" tvg-logo="https://zap2it.tmsimg.com/assets/s115277_ll_h15_aa.png" group-title="Germany" tvg-id="RADIO7" tvc-guide-stationid="115277",Radio 7
+http://example.local/DEU-RADIO7.ts
+#EXTINF:-1 tvg-chno="107861" tvg-name="Radio 7 - Aalen" tvg-logo="https://zap2it.tmsimg.com/assets/s107861_ll_h15_aa.png" group-title="Germany" tvg-id="AALEN7" tvc-guide-stationid="107861",Radio 7 - Aalen
+http://example.local/DEU-AALEN7.ts
+#EXTINF:-1 tvg-chno="107862" tvg-name="Radio 7 - Oberschwaben" tvg-logo="https://zap2it.tmsimg.com/assets/s107862_ll_h15_ab.png" group-title="Germany" tvg-id="OBERSW7" tvc-guide-stationid="107862",Radio 7 - Oberschwaben
+http://example.local/DEU-OBERSW7.ts
+#EXTINF:-1 tvg-chno="107863" tvg-name="Radio 7 - Ulm" tvg-logo="https://zap2it.tmsimg.com/assets/s107863_ll_h15_aa.png" group-title="Germany" tvg-id="ULM7" tvc-guide-stationid="107863",Radio 7 - Ulm
+http://example.local/DEU-ULM7.ts
+#EXTINF:-1 tvg-chno="78815" tvg-name="Radio 74 Internationale" group-title="United States" tvg-id="RAD74" tvc-guide-stationid="78815",Radio 74 Internationale
+http://example.local/USA-RAD74.ts
+#EXTINF:-1 tvg-chno="107253" tvg-name="Radio 8" group-title="Germany" tvg-id="RADIO8" tvc-guide-stationid="107253",Radio 8
+http://example.local/DEU-RADIO8.ts
+#EXTINF:-1 tvg-chno="107128" tvg-name="Radio Aktiv" tvg-logo="https://zap2it.tmsimg.com/assets/s107128_ll_h15_aa.png" group-title="Germany" tvg-id="RADAKT" tvc-guide-stationid="107128",Radio Aktiv
+http://example.local/DEU-RADAKT.ts
+#EXTINF:-1 tvg-chno="107904" tvg-name="Radio Alpenwelle" tvg-logo="https://zap2it.tmsimg.com/assets/s107904_ll_h15_aa.png" group-title="Germany" tvg-id="ALPENW" tvc-guide-stationid="107904",Radio Alpenwelle
+http://example.local/DEU-ALPENW.ts
+#EXTINF:-1 tvg-chno="111636" tvg-name="Radio América Televisión" tvg-logo="https://zap2it.tmsimg.com/assets/s111636_ll_h15_aa.png" group-title="Chile" tvg-id="RADCLS" tvc-guide-stationid="111636",Radio América Televisión
+http://example.local/CHL-RADCLS.ts
+#EXTINF:-1 tvg-chno="106130" tvg-name="Radio Arabella" tvg-logo="https://zap2it.tmsimg.com/assets/s106130_ll_h15_aa.png" group-title="Germany" tvg-id="ARABELLA" tvc-guide-stationid="106130",Radio Arabella
+http://example.local/DEU-ARABELLA.ts
+#EXTINF:-1 tvg-chno="107833" tvg-name="Radio AWN" tvg-logo="https://zap2it.tmsimg.com/assets/s107833_ll_h15_aa.png" group-title="Germany" tvg-id="RADAWN" tvc-guide-stationid="107833",Radio AWN
+http://example.local/DEU-RADAWN.ts
+#EXTINF:-1 tvg-chno="107557" tvg-name="Radio Bamberg" tvg-logo="https://zap2it.tmsimg.com/assets/s107557_ll_h15_aa.png" group-title="Germany" tvg-id="BAMBERG" tvc-guide-stationid="107557",Radio Bamberg
+http://example.local/DEU-BAMBERG.ts
+#EXTINF:-1 tvg-chno="109467" tvg-name="Radio BOB" tvg-logo="https://zap2it.tmsimg.com/assets/s109467_ll_h15_ab.png" group-title="Germany" tvg-id="RADBOB" tvc-guide-stationid="109467",Radio BOB
+http://example.local/DEU-RADBOB.ts
+#EXTINF:-1 tvg-chno="159596" tvg-name="Radio Bollerwagen" group-title="Germany" tvg-id="BOLLERRAD" tvc-guide-stationid="159596",Radio Bollerwagen
+http://example.local/DEU-BOLLERRAD.ts
+#EXTINF:-1 tvg-chno="53925" tvg-name="RADIO BREMEN" tvg-logo="https://zap2it.tmsimg.com/assets/s53925_ll_h15_aa.png" group-title="United Kingdom" tvg-id="RADBREM" tvc-guide-stationid="53925",RADIO BREMEN
+http://example.local/GBR-RADBREM.ts
+#EXTINF:-1 tvg-chno="102852" tvg-name="Radio Bremen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102852_ll_h15_ab.png" group-title="Germany" tvg-id="RADBRHD" tvc-guide-stationid="102852",Radio Bremen HD
+http://example.local/DEU-RADBRHD.ts
+#EXTINF:-1 tvg-chno="102852" tvg-name="Radio Bremen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102852_ll_h15_ab.png" group-title="France" tvg-id="RADBRHD" tvc-guide-stationid="102852",Radio Bremen HD
+http://example.local/FRA-RADBRHD.ts
+#EXTINF:-1 tvg-chno="102852" tvg-name="Radio Bremen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102852_ll_h15_ab.png" group-title="Spain" tvg-id="RADBRHD" tvc-guide-stationid="102852",Radio Bremen HD
+http://example.local/ESP-RADBRHD.ts
+#EXTINF:-1 tvg-chno="102852" tvg-name="Radio Bremen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102852_ll_h15_ab.png" group-title="Poland" tvg-id="RADBRHD" tvc-guide-stationid="102852",Radio Bremen HD
+http://example.local/POL-RADBRHD.ts
+#EXTINF:-1 tvg-chno="102852" tvg-name="Radio Bremen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102852_ll_h15_ab.png" group-title="Belgium" tvg-id="RADBRHD" tvc-guide-stationid="102852",Radio Bremen HD
+http://example.local/BEL-RADBRHD.ts
+#EXTINF:-1 tvg-chno="102852" tvg-name="Radio Bremen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102852_ll_h15_ab.png" group-title="Netherlands" tvg-id="RADBRHD" tvc-guide-stationid="102852",Radio Bremen HD
+http://example.local/NLD-RADBRHD.ts
+#EXTINF:-1 tvg-chno="102852" tvg-name="Radio Bremen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102852_ll_h15_ab.png" group-title="Austria" tvg-id="RADBRHD" tvc-guide-stationid="102852",Radio Bremen HD
+http://example.local/AUT-RADBRHD.ts
+#EXTINF:-1 tvg-chno="102852" tvg-name="Radio Bremen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102852_ll_h15_ab.png" group-title="Italy" tvg-id="RADBRHD" tvc-guide-stationid="102852",Radio Bremen HD
+http://example.local/ITA-RADBRHD.ts
+#EXTINF:-1 tvg-chno="102852" tvg-name="Radio Bremen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102852_ll_h15_ab.png" group-title="United Kingdom" tvg-id="RADBRHD" tvc-guide-stationid="102852",Radio Bremen HD
+http://example.local/GBR-RADBRHD.ts
+#EXTINF:-1 tvg-chno="102852" tvg-name="Radio Bremen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102852_ll_h15_ab.png" group-title="Switzerland" tvg-id="RADBRHD" tvc-guide-stationid="102852",Radio Bremen HD
+http://example.local/CHE-RADBRHD.ts
+#EXTINF:-1 tvg-chno="107879" tvg-name="Radio Brocken - Altmark" tvg-logo="https://zap2it.tmsimg.com/assets/s107879_ll_h9_ab.png" group-title="Germany" tvg-id="BROALTM" tvc-guide-stationid="107879",Radio Brocken - Altmark
+http://example.local/DEU-BROALTM.ts
+#EXTINF:-1 tvg-chno="107881" tvg-name="Radio Brocken - Halle" tvg-logo="https://zap2it.tmsimg.com/assets/s107881_ll_h15_aa.png" group-title="Germany" tvg-id="BROHALL" tvc-guide-stationid="107881",Radio Brocken - Halle
+http://example.local/DEU-BROHALL.ts
+#EXTINF:-1 tvg-chno="107882" tvg-name="Radio Brocken - Magdeburg" tvg-logo="https://zap2it.tmsimg.com/assets/s107882_ll_h15_aa.png" group-title="Germany" tvg-id="BROMAGD" tvc-guide-stationid="107882",Radio Brocken - Magdeburg
+http://example.local/DEU-BROMAGD.ts
+#EXTINF:-1 tvg-chno="107883" tvg-name="Radio Brocken - Wittenberg" tvg-logo="https://zap2it.tmsimg.com/assets/s107883_ll_h15_aa.png" group-title="Germany" tvg-id="BROWITT" tvc-guide-stationid="107883",Radio Brocken - Wittenberg
+http://example.local/DEU-BROWITT.ts
+#EXTINF:-1 tvg-chno="123668" tvg-name="Radio Capital" tvg-logo="https://zap2it.tmsimg.com/assets/s123668_ll_h15_aa.png" group-title="Italy" tvg-id="RADCAPITAL" tvc-guide-stationid="123668",Radio Capital
+http://example.local/ITA-RADCAPITAL.ts
 #EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Chile" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
 http://example.local/CHL-RCARA.ts
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Colombia" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+http://example.local/COL-RCARA.ts
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Peru" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+http://example.local/PER-RCARA.ts
 #EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Ecuador" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
 http://example.local/ECU-RCARA.ts
 #EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Uruguay" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
 http://example.local/URY-RCARA.ts
-#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Aruba" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
-http://example.local/ABW-RCARA.ts
-#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="St. Lucia" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
-http://example.local/LCA-RCARA.ts
-#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="St. Kitts and Nevis" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
-http://example.local/KNA-RCARA.ts
-#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Dominica" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
-http://example.local/DMA-RCARA.ts
-#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Guyana" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
-http://example.local/GUY-RCARA.ts
-#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Barbados" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
-http://example.local/BRB-RCARA.ts
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Trinidad and Tobago" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+http://example.local/TTO-RCARA.ts
 #EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Saint Vincent and the Grenadines" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
 http://example.local/VCT-RCARA.ts
-#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Curacao" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
-http://example.local/CUW-RCARA.ts
-#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Saint Martin" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
-http://example.local/MAF-RCARA.ts
-#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Grenada" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
-http://example.local/GRD-RCARA.ts
 #EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Belize" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
 http://example.local/BLZ-RCARA.ts
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Barbados" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+http://example.local/BRB-RCARA.ts
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Dominica" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+http://example.local/DMA-RCARA.ts
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Grenada" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+http://example.local/GRD-RCARA.ts
 #EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Antigua and Barbuda" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
 http://example.local/ATG-RCARA.ts
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="St. Lucia" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+http://example.local/LCA-RCARA.ts
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Curacao" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+http://example.local/CUW-RCARA.ts
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Aruba" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+http://example.local/ABW-RCARA.ts
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Anguilla" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+http://example.local/AIA-RCARA.ts
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="St. Kitts and Nevis" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+http://example.local/KNA-RCARA.ts
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Saint Martin" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+http://example.local/MAF-RCARA.ts
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Guyana" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+http://example.local/GUY-RCARA.ts
 #EXTINF:-1 tvg-chno="22564" tvg-name="Radio Channel" group-title="Canada" tvg-id="RADIO" tvc-guide-stationid="22564",Radio Channel
 http://example.local/CAN-RADIO.ts
 #EXTINF:-1 tvg-chno="22564" tvg-name="Radio Channel" group-title="United States" tvg-id="RADIO" tvc-guide-stationid="22564",Radio Channel
 http://example.local/USA-RADIO.ts
-#EXTINF:-1 tvg-chno="22564" tvg-name="Radio Channel" group-title="Puerto Rico" tvg-id="RADIO" tvc-guide-stationid="22564",Radio Channel
-http://example.local/PRI-RADIO.ts
 #EXTINF:-1 tvg-chno="22564" tvg-name="Radio Channel" group-title="Jamaica" tvg-id="RADIO" tvc-guide-stationid="22564",Radio Channel
 http://example.local/JAM-RADIO.ts
+#EXTINF:-1 tvg-chno="22564" tvg-name="Radio Channel" group-title="Puerto Rico" tvg-id="RADIO" tvc-guide-stationid="22564",Radio Channel
+http://example.local/PRI-RADIO.ts
 #EXTINF:-1 tvg-chno="107129" tvg-name="Radio Charivari Cham" tvg-logo="https://zap2it.tmsimg.com/assets/s107129_ll_h9_aa.png" group-title="Germany" tvg-id="RCHARIC" tvc-guide-stationid="107129",Radio Charivari Cham
 http://example.local/DEU-RCHARIC.ts
 #EXTINF:-1 tvg-chno="107342" tvg-name="Radio Charivari Kelheim" group-title="Germany" tvg-id="CHAVKEL" tvc-guide-stationid="107342",Radio Charivari Kelheim
@@ -71,10 +747,10 @@ http://example.local/DEU-RADCOTT.ts
 http://example.local/ARG-RDLP.ts
 #EXTINF:-1 tvg-chno="85922" tvg-name="Radio DeeJay" tvg-logo="https://zap2it.tmsimg.com/assets/s85922_ll_h9_aa.png" group-title="Italy" tvg-id="RADEEJAY" tvc-guide-stationid="85922",Radio DeeJay
 http://example.local/ITA-RADEEJAY.ts
-#EXTINF:-1 tvg-chno="75772" tvg-name="Radio Disney" tvg-logo="https://zap2it.tmsimg.com/assets/s75772_ll_h15_ab.png" group-title="Argentina" tvg-id="RADS" tvc-guide-stationid="75772",Radio Disney
-http://example.local/ARG-RADS.ts
 #EXTINF:-1 tvg-chno="75772" tvg-name="Radio Disney" tvg-logo="https://zap2it.tmsimg.com/assets/s75772_ll_h15_ab.png" group-title="Chile" tvg-id="RADS" tvc-guide-stationid="75772",Radio Disney
 http://example.local/CHL-RADS.ts
+#EXTINF:-1 tvg-chno="75772" tvg-name="Radio Disney" tvg-logo="https://zap2it.tmsimg.com/assets/s75772_ll_h15_ab.png" group-title="Argentina" tvg-id="RADS" tvc-guide-stationid="75772",Radio Disney
+http://example.local/ARG-RADS.ts
 #EXTINF:-1 tvg-chno="107131" tvg-name="Radio Drenthe" tvg-logo="https://zap2it.tmsimg.com/assets/s107131_ll_h15_aa.png" group-title="Germany" tvg-id="DRENTHE" tvc-guide-stationid="107131",Radio Drenthe
 http://example.local/DEU-DRENTHE.ts
 #EXTINF:-1 tvg-chno="107564" tvg-name="Radio Dresden 103.5" tvg-logo="https://zap2it.tmsimg.com/assets/s107564_ll_h15_ab.png" group-title="Germany" tvg-id="DD1035" tvc-guide-stationid="107564",Radio Dresden 103.5
@@ -179,36 +855,36 @@ http://example.local/CAN-CFRHFM.ts
 http://example.local/DEU-IDAROS.ts
 #EXTINF:-1 tvg-chno="107801" tvg-name="Radio IN" group-title="Germany" tvg-id="RADIOIN" tvc-guide-stationid="107801",Radio IN
 http://example.local/DEU-RADIOIN.ts
-#EXTINF:-1 tvg-chno="47518" tvg-name="RADIO ITALIA" group-title="Italy" tvg-id="RITALIA" tvc-guide-stationid="47518",RADIO ITALIA
-http://example.local/ITA-RITALIA.ts
 #EXTINF:-1 tvg-chno="47518" tvg-name="RADIO ITALIA" group-title="United States" tvg-id="RITALIA" tvc-guide-stationid="47518",RADIO ITALIA
 http://example.local/USA-RITALIA.ts
+#EXTINF:-1 tvg-chno="47518" tvg-name="RADIO ITALIA" group-title="Italy" tvg-id="RITALIA" tvc-guide-stationid="47518",RADIO ITALIA
+http://example.local/ITA-RITALIA.ts
 #EXTINF:-1 tvg-chno="47519" tvg-name="RADIO ITALIA ANNI 60" group-title="Italy" tvg-id="ITALA60" tvc-guide-stationid="47519",RADIO ITALIA ANNI 60
 http://example.local/ITA-ITALA60.ts
-#EXTINF:-1 tvg-chno="125385" tvg-name="Radio Italia Trend TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s125385_ll_h15_aa.png" group-title="Italy" tvg-id="RADTRTV" tvc-guide-stationid="125385",Radio Italia Trend TV HD
-http://example.local/ITA-RADTRTV.ts
 #EXTINF:-1 tvg-chno="125385" tvg-name="Radio Italia Trend TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s125385_ll_h15_aa.png" group-title="Poland" tvg-id="RADTRTV" tvc-guide-stationid="125385",Radio Italia Trend TV HD
 http://example.local/POL-RADTRTV.ts
 #EXTINF:-1 tvg-chno="125385" tvg-name="Radio Italia Trend TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s125385_ll_h15_aa.png" group-title="Belgium" tvg-id="RADTRTV" tvc-guide-stationid="125385",Radio Italia Trend TV HD
 http://example.local/BEL-RADTRTV.ts
 #EXTINF:-1 tvg-chno="125385" tvg-name="Radio Italia Trend TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s125385_ll_h15_aa.png" group-title="Netherlands" tvg-id="RADTRTV" tvc-guide-stationid="125385",Radio Italia Trend TV HD
 http://example.local/NLD-RADTRTV.ts
-#EXTINF:-1 tvg-chno="84691" tvg-name="Radio Italia TV" tvg-logo="https://zap2it.tmsimg.com/assets/s84691_ll_h15_ac.png" group-title="Italy" tvg-id="RITALTV" tvc-guide-stationid="84691",Radio Italia TV
-http://example.local/ITA-RITALTV.ts
+#EXTINF:-1 tvg-chno="125385" tvg-name="Radio Italia Trend TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s125385_ll_h15_aa.png" group-title="Italy" tvg-id="RADTRTV" tvc-guide-stationid="125385",Radio Italia Trend TV HD
+http://example.local/ITA-RADTRTV.ts
 #EXTINF:-1 tvg-chno="84691" tvg-name="Radio Italia TV" tvg-logo="https://zap2it.tmsimg.com/assets/s84691_ll_h15_ac.png" group-title="Germany" tvg-id="RITALTV" tvc-guide-stationid="84691",Radio Italia TV
 http://example.local/DEU-RITALTV.ts
 #EXTINF:-1 tvg-chno="84691" tvg-name="Radio Italia TV" tvg-logo="https://zap2it.tmsimg.com/assets/s84691_ll_h15_ac.png" group-title="Belgium" tvg-id="RITALTV" tvc-guide-stationid="84691",Radio Italia TV
 http://example.local/BEL-RITALTV.ts
 #EXTINF:-1 tvg-chno="84691" tvg-name="Radio Italia TV" tvg-logo="https://zap2it.tmsimg.com/assets/s84691_ll_h15_ac.png" group-title="Netherlands" tvg-id="RITALTV" tvc-guide-stationid="84691",Radio Italia TV
 http://example.local/NLD-RITALTV.ts
+#EXTINF:-1 tvg-chno="84691" tvg-name="Radio Italia TV" tvg-logo="https://zap2it.tmsimg.com/assets/s84691_ll_h15_ac.png" group-title="Italy" tvg-id="RITALTV" tvc-guide-stationid="84691",Radio Italia TV
+http://example.local/ITA-RITALTV.ts
 #EXTINF:-1 tvg-chno="84691" tvg-name="Radio Italia TV" tvg-logo="https://zap2it.tmsimg.com/assets/s84691_ll_h15_ac.png" group-title="Switzerland" tvg-id="RITALTV" tvc-guide-stationid="84691",Radio Italia TV
 http://example.local/CHE-RITALTV.ts
-#EXTINF:-1 tvg-chno="100855" tvg-name="Radio Italia TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100855_ll_h15_ac.png" group-title="Italy" tvg-id="RITATVH" tvc-guide-stationid="100855",Radio Italia TV HD
-http://example.local/ITA-RITATVH.ts
 #EXTINF:-1 tvg-chno="100855" tvg-name="Radio Italia TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100855_ll_h15_ac.png" group-title="Poland" tvg-id="RITATVH" tvc-guide-stationid="100855",Radio Italia TV HD
 http://example.local/POL-RITATVH.ts
 #EXTINF:-1 tvg-chno="100855" tvg-name="Radio Italia TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100855_ll_h15_ac.png" group-title="Belgium" tvg-id="RITATVH" tvc-guide-stationid="100855",Radio Italia TV HD
 http://example.local/BEL-RITATVH.ts
+#EXTINF:-1 tvg-chno="100855" tvg-name="Radio Italia TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100855_ll_h15_ac.png" group-title="Italy" tvg-id="RITATVH" tvc-guide-stationid="100855",Radio Italia TV HD
+http://example.local/ITA-RITATVH.ts
 #EXTINF:-1 tvg-chno="100855" tvg-name="Radio Italia TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100855_ll_h15_ac.png" group-title="Switzerland" tvg-id="RITATVH" tvc-guide-stationid="100855",Radio Italia TV HD
 http://example.local/CHE-RITATVH.ts
 #EXTINF:-1 tvg-chno="107136" tvg-name="Radio Jade" tvg-logo="https://zap2it.tmsimg.com/assets/s107136_ll_h9_aa.png" group-title="Germany" tvg-id="RADJADE" tvc-guide-stationid="107136",Radio Jade
@@ -219,6 +895,8 @@ http://example.local/ITA-RKISSKISS.ts
 http://example.local/DEU-LAUSITZ.ts
 #EXTINF:-1 tvg-chno="107820" tvg-name="Radio Leipzig 91 PUNKT 3" group-title="Germany" tvg-id="L91P3" tvc-guide-stationid="107820",Radio Leipzig 91 PUNKT 3
 http://example.local/DEU-L91P3.ts
+#EXTINF:-1 tvg-chno="172258" tvg-name="RADIO LIBERTA'" group-title="Italy" tvg-id="RADLIB" tvc-guide-stationid="172258",RADIO LIBERTA'
+http://example.local/ITA-RADLIB.ts
 #EXTINF:-1 tvg-chno="110827" tvg-name="Radio Lotte" group-title="Germany" tvg-id="RALOTTE" tvc-guide-stationid="110827",Radio Lotte
 http://example.local/DEU-RALOTTE.ts
 #EXTINF:-1 tvg-chno="110263" tvg-name="Radio Lübeck" tvg-logo="https://zap2it.tmsimg.com/assets/s110263_ll_h9_aa.png" group-title="Germany" tvg-id="RADLUB" tvc-guide-stationid="110263",Radio Lübeck
@@ -279,6 +957,8 @@ http://example.local/DEU-PSRCHEM.ts
 http://example.local/DEU-PSRDD.ts
 #EXTINF:-1 tvg-chno="107860" tvg-name="RADIO PSR - Leipzig" tvg-logo="https://zap2it.tmsimg.com/assets/s107860_ll_h15_aa.png" group-title="Germany" tvg-id="PSRLEI" tvc-guide-stationid="107860",RADIO PSR - Leipzig
 http://example.local/DEU-PSRLEI.ts
+#EXTINF:-1 tvg-chno="182430" tvg-name="Radio Radio" group-title="Italy" tvg-id="RADRADIO" tvc-guide-stationid="182430",Radio Radio
+http://example.local/ITA-RADRADIO.ts
 #EXTINF:-1 tvg-chno="107836" tvg-name="Radio Ramasuri" tvg-logo="https://zap2it.tmsimg.com/assets/s107836_ll_h15_ab.png" group-title="Germany" tvg-id="RAMASU" tvc-guide-stationid="107836",Radio Ramasuri
 http://example.local/DEU-RAMASU.ts
 #EXTINF:-1 tvg-chno="115284" tvg-name="Radio Regenbogen" tvg-logo="https://zap2it.tmsimg.com/assets/s115284_ll_h15_aa.png" group-title="Germany" tvg-id="RADREGE" tvc-guide-stationid="115284",Radio Regenbogen
@@ -339,683 +1019,3 @@ http://example.local/DEU-TONKUHL.ts
 http://example.local/DEU-TOP40.ts
 #EXTINF:-1 tvg-chno="106136" tvg-name="Radio Trausnitz" tvg-logo="https://zap2it.tmsimg.com/assets/s106136_ll_h15_ac.png" group-title="Germany" tvg-id="RATRAUS" tvc-guide-stationid="106136",Radio Trausnitz
 http://example.local/DEU-RATRAUS.ts
-#EXTINF:-1 tvg-chno="125365" tvg-name="Radio Vaticana Europa" group-title="Italy" tvg-id="RVATEUR" tvc-guide-stationid="125365",Radio Vaticana Europa
-http://example.local/ITA-RVATEUR.ts
-#EXTINF:-1 tvg-chno="84247" tvg-name="Radio Weser.tv" tvg-logo="https://zap2it.tmsimg.com/assets/s84247_ll_h9_aa.png" group-title="Germany" tvg-id="WESER" tvc-guide-stationid="84247",Radio Weser.tv
-http://example.local/DEU-WESER.ts
-#EXTINF:-1 tvg-chno="107824" tvg-name="Radio Westfalica" tvg-logo="https://zap2it.tmsimg.com/assets/s107824_ll_h9_aa.png" group-title="Germany" tvg-id="WFALICA" tvc-guide-stationid="107824",Radio Westfalica
-http://example.local/DEU-WFALICA.ts
-#EXTINF:-1 tvg-chno="82791" tvg-name="Radio WOSO 1030 AM" group-title="United States" tvg-id="WOSO" tvc-guide-stationid="82791",Radio WOSO 1030 AM
-http://example.local/USA-WOSO.ts
-#EXTINF:-1 tvg-chno="24447" tvg-name="Radio X" tvg-logo="https://zap2it.tmsimg.com/assets/s24447_ll_h15_ab.png" group-title="United Kingdom" tvg-id="XFM" tvc-guide-stationid="24447",Radio X
-http://example.local/GBR-XFM.ts
-#EXTINF:-1 tvg-chno="24447" tvg-name="Radio X" tvg-logo="https://zap2it.tmsimg.com/assets/s24447_ll_h15_ab.png" group-title="Ireland" tvg-id="XFM" tvc-guide-stationid="24447",Radio X
-http://example.local/IRL-XFM.ts
-#EXTINF:-1 tvg-chno="36479" tvg-name="Radio y Television de Veracruz (RTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s36479_ll_h15_aa.png" group-title="Mexico" tvg-id="RTVV" tvc-guide-stationid="36479",Radio y Television de Veracruz (RTV)
-http://example.local/MEX-RTVV.ts
-#EXTINF:-1 tvg-chno="107142" tvg-name="RADIO Z" tvg-logo="https://zap2it.tmsimg.com/assets/s107142_ll_h15_aa.png" group-title="Germany" tvg-id="RADIOZ" tvc-guide-stationid="107142",RADIO Z
-http://example.local/DEU-RADIOZ.ts
-#EXTINF:-1 tvg-chno="118380" tvg-name="Radio Zet" tvg-logo="https://zap2it.tmsimg.com/assets/s118380_ll_h15_aa.png" group-title="Germany" tvg-id="RADZET" tvc-guide-stationid="118380",Radio Zet
-http://example.local/DEU-RADZET.ts
-#EXTINF:-1 tvg-chno="109852" tvg-name="Radio Zeta" tvg-logo="https://zap2it.tmsimg.com/assets/s109852_ll_h15_ab.png" group-title="Italy" tvg-id="ZETA" tvc-guide-stationid="109852",Radio Zeta
-http://example.local/ITA-ZETA.ts
-#EXTINF:-1 tvg-chno="109852" tvg-name="Radio Zeta" tvg-logo="https://zap2it.tmsimg.com/assets/s109852_ll_h15_ab.png" group-title="Belgium" tvg-id="ZETA" tvc-guide-stationid="109852",Radio Zeta
-http://example.local/BEL-ZETA.ts
-#EXTINF:-1 tvg-chno="109852" tvg-name="Radio Zeta" tvg-logo="https://zap2it.tmsimg.com/assets/s109852_ll_h15_ab.png" group-title="Netherlands" tvg-id="ZETA" tvc-guide-stationid="109852",Radio Zeta
-http://example.local/NLD-ZETA.ts
-#EXTINF:-1 tvg-chno="122907" tvg-name="Radio Zeta HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122907_ll_h15_ab.png" group-title="Poland" tvg-id="ZETAHD" tvc-guide-stationid="122907",Radio Zeta HD
-http://example.local/POL-ZETAHD.ts
-#EXTINF:-1 tvg-chno="107143" tvg-name="Radio ZuSa" tvg-logo="https://zap2it.tmsimg.com/assets/s107143_ll_h9_aa.png" group-title="Germany" tvg-id="RADZUSA" tvc-guide-stationid="107143",Radio ZuSa
-http://example.local/DEU-RADZUSA.ts
-#EXTINF:-1 tvg-chno="107848" tvg-name="Radio Zwickau 96 PUNKT 2" tvg-logo="https://zap2it.tmsimg.com/assets/s107848_ll_h15_aa.png" group-title="Germany" tvg-id="RADZ962" tvc-guide-stationid="107848",Radio Zwickau 96 PUNKT 2
-http://example.local/DEU-RADZ962.ts
-#EXTINF:-1 tvg-chno="119270" tvg-name="Radio-Canada 360: Beijing 2022" group-title="United States" tvg-id="SRCOLY1" tvc-guide-stationid="119270",Radio-Canada 360: Beijing 2022
-http://example.local/USA-SRCOLY1.ts
-#EXTINF:-1 tvg-chno="119271" tvg-name="Radio-Canada : Meilleurs moments de Tokyo 2020" group-title="United States" tvg-id="SRCOLY2" tvc-guide-stationid="119271",Radio-Canada : Meilleurs moments de Tokyo 2020
-http://example.local/USA-SRCOLY2.ts
-#EXTINF:-1 tvg-chno="122186" tvg-name="Radio-Canada INFO" tvg-logo="https://zap2it.tmsimg.com/assets/s122186_ll_h15_aa.png" group-title="United States" tvg-id="RCINFO" tvc-guide-stationid="122186",Radio-Canada INFO
-http://example.local/USA-RCINFO.ts
-#EXTINF:-1 tvg-chno="49157" tvg-name="RADIO010 (Lineups)" group-title="United States" tvg-id="RADIO010" tvc-guide-stationid="49157",RADIO010 (Lineups)
-http://example.local/USA-RADIO010.ts
-#EXTINF:-1 tvg-chno="49871" tvg-name="RADIO017 (Lineups)" group-title="United States" tvg-id="RADIO017" tvc-guide-stationid="49871",RADIO017 (Lineups)
-http://example.local/USA-RADIO017.ts
-#EXTINF:-1 tvg-chno="49870" tvg-name="RADIO018 (Lineups)" group-title="United States" tvg-id="RADIO018" tvc-guide-stationid="49870",RADIO018 (Lineups)
-http://example.local/USA-RADIO018.ts
-#EXTINF:-1 tvg-chno="49158" tvg-name="RADIO019 (Lineups)" group-title="United States" tvg-id="RADIO019" tvc-guide-stationid="49158",RADIO019 (Lineups)
-http://example.local/USA-RADIO019.ts
-#EXTINF:-1 tvg-chno="50348" tvg-name="RADIO043 (LineUps)" group-title="United States" tvg-id="RADIO043" tvc-guide-stationid="50348",RADIO043 (LineUps)
-http://example.local/USA-RADIO043.ts
-#EXTINF:-1 tvg-chno="47683" tvg-name="RADIO046 (Lineups)" group-title="United States" tvg-id="RADIO046" tvc-guide-stationid="47683",RADIO046 (Lineups)
-http://example.local/USA-RADIO046.ts
-#EXTINF:-1 tvg-chno="47684" tvg-name="RADIO047 (Lineups)" group-title="United States" tvg-id="RADIO047" tvc-guide-stationid="47684",RADIO047 (Lineups)
-http://example.local/USA-RADIO047.ts
-#EXTINF:-1 tvg-chno="47685" tvg-name="RADIO048 (Lineups)" group-title="United States" tvg-id="RADIO048" tvc-guide-stationid="47685",RADIO048 (Lineups)
-http://example.local/USA-RADIO048.ts
-#EXTINF:-1 tvg-chno="47686" tvg-name="RADIO049 (Lineups)" group-title="United States" tvg-id="RADIO049" tvc-guide-stationid="47686",RADIO049 (Lineups)
-http://example.local/USA-RADIO049.ts
-#EXTINF:-1 tvg-chno="47687" tvg-name="RADIO050 (Lineups)" group-title="United States" tvg-id="RADIO050" tvc-guide-stationid="47687",RADIO050 (Lineups)
-http://example.local/USA-RADIO050.ts
-#EXTINF:-1 tvg-chno="49629" tvg-name="RADIO065" group-title="United States" tvg-id="RADIO065" tvc-guide-stationid="49629",RADIO065
-http://example.local/USA-RADIO065.ts
-#EXTINF:-1 tvg-chno="48817" tvg-name="RADIO066 (Lineups)" group-title="United States" tvg-id="RADIO066" tvc-guide-stationid="48817",RADIO066 (Lineups)
-http://example.local/USA-RADIO066.ts
-#EXTINF:-1 tvg-chno="49806" tvg-name="RADIO067 (Lineups)" group-title="United States" tvg-id="RADIO067" tvc-guide-stationid="49806",RADIO067 (Lineups)
-http://example.local/USA-RADIO067.ts
-#EXTINF:-1 tvg-chno="49807" tvg-name="RADIO068 (Lineups)" group-title="United States" tvg-id="RADIO068" tvc-guide-stationid="49807",RADIO068 (Lineups)
-http://example.local/USA-RADIO068.ts
-#EXTINF:-1 tvg-chno="50388" tvg-name="RADIO075 (Lineups)" group-title="United States" tvg-id="RADIO075" tvc-guide-stationid="50388",RADIO075 (Lineups)
-http://example.local/USA-RADIO075.ts
-#EXTINF:-1 tvg-chno="51710" tvg-name="Radio096 (Lineups)" group-title="United States" tvg-id="RADIO096" tvc-guide-stationid="51710",Radio096 (Lineups)
-http://example.local/USA-RADIO096.ts
-#EXTINF:-1 tvg-chno="47469" tvg-name="RADIO099 (Lineups)" group-title="United States" tvg-id="RADIO099" tvc-guide-stationid="47469",RADIO099 (Lineups)
-http://example.local/USA-RADIO099.ts
-#EXTINF:-1 tvg-chno="50346" tvg-name="RADIO123 (LineUps)" group-title="United States" tvg-id="RADIO123" tvc-guide-stationid="50346",RADIO123 (LineUps)
-http://example.local/USA-RADIO123.ts
-#EXTINF:-1 tvg-chno="101525" tvg-name="radio3" tvg-logo="https://zap2it.tmsimg.com/assets/s101525_ll_h9_ac.png" group-title="Germany" tvg-id="RADIO3" tvc-guide-stationid="101525",radio3
-http://example.local/DEU-RADIO3.ts
-#EXTINF:-1 tvg-chno="101525" tvg-name="radio3" tvg-logo="https://zap2it.tmsimg.com/assets/s101525_ll_h9_ac.png" group-title="Austria" tvg-id="RADIO3" tvc-guide-stationid="101525",radio3
-http://example.local/AUT-RADIO3.ts
-#EXTINF:-1 tvg-chno="107873" tvg-name="Radio38" tvg-logo="https://zap2it.tmsimg.com/assets/s107873_ll_h9_aa.png" group-title="Germany" tvg-id="RADIO38" tvc-guide-stationid="107873",Radio38
-http://example.local/DEU-RADIO38.ts
-#EXTINF:-1 tvg-chno="60190" tvg-name="Radio800 (Lineups)" group-title="Canada" tvg-id="RADIO800" tvc-guide-stationid="60190",Radio800 (Lineups)
-http://example.local/CAN-RADIO800.ts
-#EXTINF:-1 tvg-chno="60190" tvg-name="Radio800 (Lineups)" group-title="United States" tvg-id="RADIO800" tvc-guide-stationid="60190",Radio800 (Lineups)
-http://example.local/USA-RADIO800.ts
-#EXTINF:-1 tvg-chno="60191" tvg-name="Radio801 (Lineups)" group-title="Canada" tvg-id="RADIO801" tvc-guide-stationid="60191",Radio801 (Lineups)
-http://example.local/CAN-RADIO801.ts
-#EXTINF:-1 tvg-chno="60192" tvg-name="Radio802 (Lineups)" group-title="Canada" tvg-id="RADIO802" tvc-guide-stationid="60192",Radio802 (Lineups)
-http://example.local/CAN-RADIO802.ts
-#EXTINF:-1 tvg-chno="60192" tvg-name="Radio802 (Lineups)" group-title="United States" tvg-id="RADIO802" tvc-guide-stationid="60192",Radio802 (Lineups)
-http://example.local/USA-RADIO802.ts
-#EXTINF:-1 tvg-chno="60193" tvg-name="Radio803 (Lineups)" group-title="Canada" tvg-id="RADIO803" tvc-guide-stationid="60193",Radio803 (Lineups)
-http://example.local/CAN-RADIO803.ts
-#EXTINF:-1 tvg-chno="60193" tvg-name="Radio803 (Lineups)" group-title="United States" tvg-id="RADIO803" tvc-guide-stationid="60193",Radio803 (Lineups)
-http://example.local/USA-RADIO803.ts
-#EXTINF:-1 tvg-chno="60194" tvg-name="Radio804 (Lineups)" group-title="Canada" tvg-id="RADIO804" tvc-guide-stationid="60194",Radio804 (Lineups)
-http://example.local/CAN-RADIO804.ts
-#EXTINF:-1 tvg-chno="60195" tvg-name="Radio805 (Lineups)" group-title="Canada" tvg-id="RADIO805" tvc-guide-stationid="60195",Radio805 (Lineups)
-http://example.local/CAN-RADIO805.ts
-#EXTINF:-1 tvg-chno="60197" tvg-name="Radio807 (Lineups)" group-title="Canada" tvg-id="RADIO807" tvc-guide-stationid="60197",Radio807 (Lineups)
-http://example.local/CAN-RADIO807.ts
-#EXTINF:-1 tvg-chno="60198" tvg-name="Radio808 (Lineups)" group-title="Canada" tvg-id="RADIO808" tvc-guide-stationid="60198",Radio808 (Lineups)
-http://example.local/CAN-RADIO808.ts
-#EXTINF:-1 tvg-chno="60199" tvg-name="Radio809 (Lineups)" group-title="Canada" tvg-id="RADIO809" tvc-guide-stationid="60199",Radio809 (Lineups)
-http://example.local/CAN-RADIO809.ts
-#EXTINF:-1 tvg-chno="60200" tvg-name="Radio810 (Lineups)" group-title="Canada" tvg-id="RADIO810" tvc-guide-stationid="60200",Radio810 (Lineups)
-http://example.local/CAN-RADIO810.ts
-#EXTINF:-1 tvg-chno="62406" tvg-name="Radio811 (Lineups)" group-title="Canada" tvg-id="RADIO811" tvc-guide-stationid="62406",Radio811 (Lineups)
-http://example.local/CAN-RADIO811.ts
-#EXTINF:-1 tvg-chno="60201" tvg-name="Radio814 (Lineups)" group-title="Canada" tvg-id="RADIO814" tvc-guide-stationid="60201",Radio814 (Lineups)
-http://example.local/CAN-RADIO814.ts
-#EXTINF:-1 tvg-chno="60202" tvg-name="Radio815 (Lineups)" group-title="Canada" tvg-id="RADIO815" tvc-guide-stationid="60202",Radio815 (Lineups)
-http://example.local/CAN-RADIO815.ts
-#EXTINF:-1 tvg-chno="60203" tvg-name="Radio816 (Lineups)" group-title="Canada" tvg-id="RADIO816" tvc-guide-stationid="60203",Radio816 (Lineups)
-http://example.local/CAN-RADIO816.ts
-#EXTINF:-1 tvg-chno="60204" tvg-name="Radio817 (Lineups)" group-title="Canada" tvg-id="RADIO817" tvc-guide-stationid="60204",Radio817 (Lineups)
-http://example.local/CAN-RADIO817.ts
-#EXTINF:-1 tvg-chno="60205" tvg-name="Radio818 (Lineups)" group-title="Canada" tvg-id="RADIO818" tvc-guide-stationid="60205",Radio818 (Lineups)
-http://example.local/CAN-RADIO818.ts
-#EXTINF:-1 tvg-chno="60206" tvg-name="Radio819 (Lineups)" group-title="Canada" tvg-id="RADIO819" tvc-guide-stationid="60206",Radio819 (Lineups)
-http://example.local/CAN-RADIO819.ts
-#EXTINF:-1 tvg-chno="60207" tvg-name="Radio820 (Lineups)" group-title="Canada" tvg-id="RADIO820" tvc-guide-stationid="60207",Radio820 (Lineups)
-http://example.local/CAN-RADIO820.ts
-#EXTINF:-1 tvg-chno="60208" tvg-name="Radio821 (Lineups)" group-title="Canada" tvg-id="RADIO821" tvc-guide-stationid="60208",Radio821 (Lineups)
-http://example.local/CAN-RADIO821.ts
-#EXTINF:-1 tvg-chno="62407" tvg-name="Radio822 (Lineups)" group-title="Canada" tvg-id="RADIO822" tvc-guide-stationid="62407",Radio822 (Lineups)
-http://example.local/CAN-RADIO822.ts
-#EXTINF:-1 tvg-chno="60209" tvg-name="Radio824 (Lineups)" group-title="Canada" tvg-id="RADIO824" tvc-guide-stationid="60209",Radio824 (Lineups)
-http://example.local/CAN-RADIO824.ts
-#EXTINF:-1 tvg-chno="60210" tvg-name="Radio825 (Lineups)" group-title="Canada" tvg-id="RADIO825" tvc-guide-stationid="60210",Radio825 (Lineups)
-http://example.local/CAN-RADIO825.ts
-#EXTINF:-1 tvg-chno="60211" tvg-name="Radio826 (Lineups)" group-title="Canada" tvg-id="RADIO826" tvc-guide-stationid="60211",Radio826 (Lineups)
-http://example.local/CAN-RADIO826.ts
-#EXTINF:-1 tvg-chno="60212" tvg-name="Radio829 (Lineups)" group-title="Canada" tvg-id="RADIO829" tvc-guide-stationid="60212",Radio829 (Lineups)
-http://example.local/CAN-RADIO829.ts
-#EXTINF:-1 tvg-chno="60213" tvg-name="Radio830 (Lineups)" group-title="Canada" tvg-id="RADIO830" tvc-guide-stationid="60213",Radio830 (Lineups)
-http://example.local/CAN-RADIO830.ts
-#EXTINF:-1 tvg-chno="62408" tvg-name="Radio831 (Linueps)" group-title="Canada" tvg-id="RADIO831" tvc-guide-stationid="62408",Radio831 (Linueps)
-http://example.local/CAN-RADIO831.ts
-#EXTINF:-1 tvg-chno="60214" tvg-name="Radio833 (Lineups)" group-title="Canada" tvg-id="RADIO833" tvc-guide-stationid="60214",Radio833 (Lineups)
-http://example.local/CAN-RADIO833.ts
-#EXTINF:-1 tvg-chno="60215" tvg-name="Radio834 (Lineups)" group-title="Canada" tvg-id="RADIO834" tvc-guide-stationid="60215",Radio834 (Lineups)
-http://example.local/CAN-RADIO834.ts
-#EXTINF:-1 tvg-chno="60216" tvg-name="Radio835 (Lineups)" group-title="Canada" tvg-id="RADIO835" tvc-guide-stationid="60216",Radio835 (Lineups)
-http://example.local/CAN-RADIO835.ts
-#EXTINF:-1 tvg-chno="60217" tvg-name="Radio837 (Lineups)" group-title="Canada" tvg-id="RADIO837" tvc-guide-stationid="60217",Radio837 (Lineups)
-http://example.local/CAN-RADIO837.ts
-#EXTINF:-1 tvg-chno="60218" tvg-name="Radio838 (Lineups)" group-title="Canada" tvg-id="RADIO838" tvc-guide-stationid="60218",Radio838 (Lineups)
-http://example.local/CAN-RADIO838.ts
-#EXTINF:-1 tvg-chno="60219" tvg-name="Radio839 (Lineups)" group-title="Canada" tvg-id="RADIO839" tvc-guide-stationid="60219",Radio839 (Lineups)
-http://example.local/CAN-RADIO839.ts
-#EXTINF:-1 tvg-chno="50807" tvg-name="RADIO841 (LineUps)" group-title="Canada" tvg-id="RADIO841" tvc-guide-stationid="50807",RADIO841 (LineUps)
-http://example.local/CAN-RADIO841.ts
-#EXTINF:-1 tvg-chno="50808" tvg-name="RADIO842 (LineUps)" group-title="Canada" tvg-id="RADIO842" tvc-guide-stationid="50808",RADIO842 (LineUps)
-http://example.local/CAN-RADIO842.ts
-#EXTINF:-1 tvg-chno="50811" tvg-name="RADIO845 (LineUps)" group-title="Canada" tvg-id="RADIO845" tvc-guide-stationid="50811",RADIO845 (LineUps)
-http://example.local/CAN-RADIO845.ts
-#EXTINF:-1 tvg-chno="50812" tvg-name="RADIO846 (LineUps)" group-title="Canada" tvg-id="RADIO846" tvc-guide-stationid="50812",RADIO846 (LineUps)
-http://example.local/CAN-RADIO846.ts
-#EXTINF:-1 tvg-chno="60220" tvg-name="Radio849 (Lineups)" group-title="Canada" tvg-id="RADIO849" tvc-guide-stationid="60220",Radio849 (Lineups)
-http://example.local/CAN-RADIO849.ts
-#EXTINF:-1 tvg-chno="50815" tvg-name="RADIO850 (LineUps)" group-title="Canada" tvg-id="RADIO850" tvc-guide-stationid="50815",RADIO850 (LineUps)
-http://example.local/CAN-RADIO850.ts
-#EXTINF:-1 tvg-chno="55263" tvg-name="Radio901 (Lineups)" group-title="Canada" tvg-id="RADIO901" tvc-guide-stationid="55263",Radio901 (Lineups)
-http://example.local/CAN-RADIO901.ts
-#EXTINF:-1 tvg-chno="55263" tvg-name="Radio901 (Lineups)" group-title="United States" tvg-id="RADIO901" tvc-guide-stationid="55263",Radio901 (Lineups)
-http://example.local/USA-RADIO901.ts
-#EXTINF:-1 tvg-chno="55264" tvg-name="Radio903 (Lineups)" group-title="United States" tvg-id="RADIO903" tvc-guide-stationid="55264",Radio903 (Lineups)
-http://example.local/USA-RADIO903.ts
-#EXTINF:-1 tvg-chno="55266" tvg-name="Radio905 (Lineups)" group-title="Canada" tvg-id="RADIO905" tvc-guide-stationid="55266",Radio905 (Lineups)
-http://example.local/CAN-RADIO905.ts
-#EXTINF:-1 tvg-chno="55266" tvg-name="Radio905 (Lineups)" group-title="United States" tvg-id="RADIO905" tvc-guide-stationid="55266",Radio905 (Lineups)
-http://example.local/USA-RADIO905.ts
-#EXTINF:-1 tvg-chno="51679" tvg-name="RADIO912 (Lineups)" group-title="United States" tvg-id="RADIO912" tvc-guide-stationid="51679",RADIO912 (Lineups)
-http://example.local/USA-RADIO912.ts
-#EXTINF:-1 tvg-chno="55517" tvg-name="RADIO947 (LINEUPS)" group-title="Canada" tvg-id="RADIO947" tvc-guide-stationid="55517",RADIO947 (LINEUPS)
-http://example.local/CAN-RADIO947.ts
-#EXTINF:-1 tvg-chno="44180" tvg-name="Radio949 (Lineups)" group-title="United States" tvg-id="RADIO949" tvc-guide-stationid="44180",Radio949 (Lineups)
-http://example.local/USA-RADIO949.ts
-#EXTINF:-1 tvg-chno="44181" tvg-name="Radio950 (Lineups)" group-title="United States" tvg-id="RADIO950" tvc-guide-stationid="44181",Radio950 (Lineups)
-http://example.local/USA-RADIO950.ts
-#EXTINF:-1 tvg-chno="44182" tvg-name="Radio951 (Lineups)" group-title="United States" tvg-id="RADIO951" tvc-guide-stationid="44182",Radio951 (Lineups)
-http://example.local/USA-RADIO951.ts
-#EXTINF:-1 tvg-chno="44183" tvg-name="Radio952 (LIneups)" group-title="United States" tvg-id="RADIO952" tvc-guide-stationid="44183",Radio952 (LIneups)
-http://example.local/USA-RADIO952.ts
-#EXTINF:-1 tvg-chno="44184" tvg-name="Radio953 (Lineups)" group-title="United States" tvg-id="RADIO953" tvc-guide-stationid="44184",Radio953 (Lineups)
-http://example.local/USA-RADIO953.ts
-#EXTINF:-1 tvg-chno="44185" tvg-name="Radio954 (Lineups)" group-title="United States" tvg-id="RADIO954" tvc-guide-stationid="44185",Radio954 (Lineups)
-http://example.local/USA-RADIO954.ts
-#EXTINF:-1 tvg-chno="44186" tvg-name="Radio955 (Lineups)" group-title="United States" tvg-id="RADIO955" tvc-guide-stationid="44186",Radio955 (Lineups)
-http://example.local/USA-RADIO955.ts
-#EXTINF:-1 tvg-chno="44187" tvg-name="Radio956 (Lineups)" group-title="United States" tvg-id="RADIO956" tvc-guide-stationid="44187",Radio956 (Lineups)
-http://example.local/USA-RADIO956.ts
-#EXTINF:-1 tvg-chno="44189" tvg-name="Radio957 (Lineups)" group-title="United States" tvg-id="RADIO957" tvc-guide-stationid="44189",Radio957 (Lineups)
-http://example.local/USA-RADIO957.ts
-#EXTINF:-1 tvg-chno="44190" tvg-name="Radio958 (Lineups)" group-title="United States" tvg-id="RADIO958" tvc-guide-stationid="44190",Radio958 (Lineups)
-http://example.local/USA-RADIO958.ts
-#EXTINF:-1 tvg-chno="44191" tvg-name="Radio959 (Lineups)" group-title="United States" tvg-id="RADIO959" tvc-guide-stationid="44191",Radio959 (Lineups)
-http://example.local/USA-RADIO959.ts
-#EXTINF:-1 tvg-chno="44192" tvg-name="RADIO960 (Lineups)" group-title="United States" tvg-id="RADIO960" tvc-guide-stationid="44192",RADIO960 (Lineups)
-http://example.local/USA-RADIO960.ts
-#EXTINF:-1 tvg-chno="47694" tvg-name="Radio961 (Lineups)" group-title="United States" tvg-id="RADIO961" tvc-guide-stationid="47694",Radio961 (Lineups)
-http://example.local/USA-RADIO961.ts
-#EXTINF:-1 tvg-chno="47695" tvg-name="Radio962 (Lineups)" group-title="United States" tvg-id="RADIO962" tvc-guide-stationid="47695",Radio962 (Lineups)
-http://example.local/USA-RADIO962.ts
-#EXTINF:-1 tvg-chno="47696" tvg-name="Radio963 (Lineups)" group-title="United States" tvg-id="RADIO963" tvc-guide-stationid="47696",Radio963 (Lineups)
-http://example.local/USA-RADIO963.ts
-#EXTINF:-1 tvg-chno="47698" tvg-name="Radio964 (Lineups)" group-title="United States" tvg-id="RADIO964" tvc-guide-stationid="47698",Radio964 (Lineups)
-http://example.local/USA-RADIO964.ts
-#EXTINF:-1 tvg-chno="47699" tvg-name="Radio965 (Lineups)" group-title="United States" tvg-id="RADIO965" tvc-guide-stationid="47699",Radio965 (Lineups)
-http://example.local/USA-RADIO965.ts
-#EXTINF:-1 tvg-chno="47700" tvg-name="Radio966 (Lineups)" group-title="United States" tvg-id="RADIO966" tvc-guide-stationid="47700",Radio966 (Lineups)
-http://example.local/USA-RADIO966.ts
-#EXTINF:-1 tvg-chno="47701" tvg-name="Radio967 (Lineups)" group-title="United States" tvg-id="RADIO967" tvc-guide-stationid="47701",Radio967 (Lineups)
-http://example.local/USA-RADIO967.ts
-#EXTINF:-1 tvg-chno="47702" tvg-name="Radio968 (Lineups)" group-title="United States" tvg-id="RADIO968" tvc-guide-stationid="47702",Radio968 (Lineups)
-http://example.local/USA-RADIO968.ts
-#EXTINF:-1 tvg-chno="47703" tvg-name="Radio969 (Lineups)" group-title="United States" tvg-id="RADIO969" tvc-guide-stationid="47703",Radio969 (Lineups)
-http://example.local/USA-RADIO969.ts
-#EXTINF:-1 tvg-chno="101494" tvg-name="radioeins" tvg-logo="https://zap2it.tmsimg.com/assets/s101494_ll_h15_ac.png" group-title="Germany" tvg-id="RADEINS" tvc-guide-stationid="101494",radioeins
-http://example.local/DEU-RADEINS.ts
-#EXTINF:-1 tvg-chno="101494" tvg-name="radioeins" tvg-logo="https://zap2it.tmsimg.com/assets/s101494_ll_h15_ac.png" group-title="Austria" tvg-id="RADEINS" tvc-guide-stationid="101494",radioeins
-http://example.local/AUT-RADEINS.ts
-#EXTINF:-1 tvg-chno="109850" tvg-name="Radiofreccia" tvg-logo="https://zap2it.tmsimg.com/assets/s109850_ll_h15_aa.png" group-title="Italy" tvg-id="FRECCIA" tvc-guide-stationid="109850",Radiofreccia
-http://example.local/ITA-FRECCIA.ts
-#EXTINF:-1 tvg-chno="109851" tvg-name="Radiofreccia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109851_ll_h9_aa.png" group-title="Italy" tvg-id="FRECCHD" tvc-guide-stationid="109851",Radiofreccia HD
-http://example.local/ITA-FRECCHD.ts
-#EXTINF:-1 tvg-chno="109851" tvg-name="Radiofreccia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109851_ll_h9_aa.png" group-title="Poland" tvg-id="FRECCHD" tvc-guide-stationid="109851",Radiofreccia HD
-http://example.local/POL-FRECCHD.ts
-#EXTINF:-1 tvg-chno="109851" tvg-name="Radiofreccia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109851_ll_h9_aa.png" group-title="Belgium" tvg-id="FRECCHD" tvc-guide-stationid="109851",Radiofreccia HD
-http://example.local/BEL-FRECCHD.ts
-#EXTINF:-1 tvg-chno="109851" tvg-name="Radiofreccia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109851_ll_h9_aa.png" group-title="Netherlands" tvg-id="FRECCHD" tvc-guide-stationid="109851",Radiofreccia HD
-http://example.local/NLD-FRECCHD.ts
-#EXTINF:-1 tvg-chno="109851" tvg-name="Radiofreccia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109851_ll_h9_aa.png" group-title="Switzerland" tvg-id="FRECCHD" tvc-guide-stationid="109851",Radiofreccia HD
-http://example.local/CHE-FRECCHD.ts
-#EXTINF:-1 tvg-chno="119775" tvg-name="Radionorba TV" tvg-logo="https://zap2it.tmsimg.com/assets/s119775_ll_h15_aa.png" group-title="Italy" tvg-id="NORBATV" tvc-guide-stationid="119775",Radionorba TV
-http://example.local/ITA-NORBATV.ts
-#EXTINF:-1 tvg-chno="125360" tvg-name="RADIONORBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s125360_ll_h9_aa.png" group-title="Poland" tvg-id="NORBASD" tvc-guide-stationid="125360",RADIONORBA TV
-http://example.local/POL-NORBASD.ts
-#EXTINF:-1 tvg-chno="119775" tvg-name="Radionorba TV" tvg-logo="https://zap2it.tmsimg.com/assets/s119775_ll_h15_aa.png" group-title="Belgium" tvg-id="NORBATV" tvc-guide-stationid="119775",Radionorba TV
-http://example.local/BEL-NORBATV.ts
-#EXTINF:-1 tvg-chno="119775" tvg-name="Radionorba TV" tvg-logo="https://zap2it.tmsimg.com/assets/s119775_ll_h15_aa.png" group-title="Netherlands" tvg-id="NORBATV" tvc-guide-stationid="119775",Radionorba TV
-http://example.local/NLD-NORBATV.ts
-#EXTINF:-1 tvg-chno="119775" tvg-name="Radionorba TV" tvg-logo="https://zap2it.tmsimg.com/assets/s119775_ll_h15_aa.png" group-title="Switzerland" tvg-id="NORBATV" tvc-guide-stationid="119775",Radionorba TV
-http://example.local/CHE-NORBATV.ts
-#EXTINF:-1 tvg-chno="121802" tvg-name="Radionorba TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121802_ll_h15_aa.png" group-title="Switzerland" tvg-id="NORBAHD" tvc-guide-stationid="121802",Radionorba TV HD
-http://example.local/CHE-NORBAHD.ts
-#EXTINF:-1 tvg-chno="21834" tvg-name="Rai 1" tvg-logo="https://zap2it.tmsimg.com/assets/s21834_ll_h15_ac.png" group-title="Sweden" tvg-id="RAIUNO" tvc-guide-stationid="21834",Rai 1
-http://example.local/SWE-RAIUNO.ts
-#EXTINF:-1 tvg-chno="21834" tvg-name="Rai 1" tvg-logo="https://zap2it.tmsimg.com/assets/s21834_ll_h15_ac.png" group-title="France" tvg-id="RAIUNO" tvc-guide-stationid="21834",Rai 1
-http://example.local/FRA-RAIUNO.ts
-#EXTINF:-1 tvg-chno="21834" tvg-name="Rai 1" tvg-logo="https://zap2it.tmsimg.com/assets/s21834_ll_h15_ac.png" group-title="Italy" tvg-id="RAIUNO" tvc-guide-stationid="21834",Rai 1
-http://example.local/ITA-RAIUNO.ts
-#EXTINF:-1 tvg-chno="21834" tvg-name="Rai 1" tvg-logo="https://zap2it.tmsimg.com/assets/s21834_ll_h15_ac.png" group-title="Finland" tvg-id="RAIUNO" tvc-guide-stationid="21834",Rai 1
-http://example.local/FIN-RAIUNO.ts
-#EXTINF:-1 tvg-chno="21834" tvg-name="Rai 1" tvg-logo="https://zap2it.tmsimg.com/assets/s21834_ll_h15_ac.png" group-title="Germany" tvg-id="RAIUNO" tvc-guide-stationid="21834",Rai 1
-http://example.local/DEU-RAIUNO.ts
-#EXTINF:-1 tvg-chno="21834" tvg-name="Rai 1" tvg-logo="https://zap2it.tmsimg.com/assets/s21834_ll_h15_ac.png" group-title="Poland" tvg-id="RAIUNO" tvc-guide-stationid="21834",Rai 1
-http://example.local/POL-RAIUNO.ts
-#EXTINF:-1 tvg-chno="21834" tvg-name="Rai 1" tvg-logo="https://zap2it.tmsimg.com/assets/s21834_ll_h15_ac.png" group-title="Austria" tvg-id="RAIUNO" tvc-guide-stationid="21834",Rai 1
-http://example.local/AUT-RAIUNO.ts
-#EXTINF:-1 tvg-chno="21834" tvg-name="Rai 1" tvg-logo="https://zap2it.tmsimg.com/assets/s21834_ll_h15_ac.png" group-title="Belgium" tvg-id="RAIUNO" tvc-guide-stationid="21834",Rai 1
-http://example.local/BEL-RAIUNO.ts
-#EXTINF:-1 tvg-chno="21834" tvg-name="Rai 1" tvg-logo="https://zap2it.tmsimg.com/assets/s21834_ll_h15_ac.png" group-title="Netherlands" tvg-id="RAIUNO" tvc-guide-stationid="21834",Rai 1
-http://example.local/NLD-RAIUNO.ts
-#EXTINF:-1 tvg-chno="21834" tvg-name="Rai 1" tvg-logo="https://zap2it.tmsimg.com/assets/s21834_ll_h15_ac.png" group-title="Denmark" tvg-id="RAIUNO" tvc-guide-stationid="21834",Rai 1
-http://example.local/DNK-RAIUNO.ts
-#EXTINF:-1 tvg-chno="21834" tvg-name="Rai 1" tvg-logo="https://zap2it.tmsimg.com/assets/s21834_ll_h15_ac.png" group-title="Switzerland" tvg-id="RAIUNO" tvc-guide-stationid="21834",Rai 1
-http://example.local/CHE-RAIUNO.ts
-#EXTINF:-1 tvg-chno="21834" tvg-name="Rai 1" tvg-logo="https://zap2it.tmsimg.com/assets/s21834_ll_h15_ac.png" group-title="Norway" tvg-id="RAIUNO" tvc-guide-stationid="21834",Rai 1
-http://example.local/NOR-RAIUNO.ts
-#EXTINF:-1 tvg-chno="21834" tvg-name="Rai 1" tvg-logo="https://zap2it.tmsimg.com/assets/s21834_ll_h15_ac.png" group-title="Colombia" tvg-id="RAIUNO" tvc-guide-stationid="21834",Rai 1
-http://example.local/COL-RAIUNO.ts
-#EXTINF:-1 tvg-chno="84696" tvg-name="Rai 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84696_ll_h15_aa.png" group-title="Italy" tvg-id="RAI1HD" tvc-guide-stationid="84696",Rai 1 HD
-http://example.local/ITA-RAI1HD.ts
-#EXTINF:-1 tvg-chno="84696" tvg-name="Rai 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84696_ll_h15_aa.png" group-title="Finland" tvg-id="RAI1HD" tvc-guide-stationid="84696",Rai 1 HD
-http://example.local/FIN-RAI1HD.ts
-#EXTINF:-1 tvg-chno="84696" tvg-name="Rai 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84696_ll_h15_aa.png" group-title="Germany" tvg-id="RAI1HD" tvc-guide-stationid="84696",Rai 1 HD
-http://example.local/DEU-RAI1HD.ts
-#EXTINF:-1 tvg-chno="84696" tvg-name="Rai 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84696_ll_h15_aa.png" group-title="Poland" tvg-id="RAI1HD" tvc-guide-stationid="84696",Rai 1 HD
-http://example.local/POL-RAI1HD.ts
-#EXTINF:-1 tvg-chno="84696" tvg-name="Rai 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84696_ll_h15_aa.png" group-title="Austria" tvg-id="RAI1HD" tvc-guide-stationid="84696",Rai 1 HD
-http://example.local/AUT-RAI1HD.ts
-#EXTINF:-1 tvg-chno="84696" tvg-name="Rai 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84696_ll_h15_aa.png" group-title="Belgium" tvg-id="RAI1HD" tvc-guide-stationid="84696",Rai 1 HD
-http://example.local/BEL-RAI1HD.ts
-#EXTINF:-1 tvg-chno="84696" tvg-name="Rai 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84696_ll_h15_aa.png" group-title="Netherlands" tvg-id="RAI1HD" tvc-guide-stationid="84696",Rai 1 HD
-http://example.local/NLD-RAI1HD.ts
-#EXTINF:-1 tvg-chno="84696" tvg-name="Rai 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84696_ll_h15_aa.png" group-title="Switzerland" tvg-id="RAI1HD" tvc-guide-stationid="84696",Rai 1 HD
-http://example.local/CHE-RAI1HD.ts
-#EXTINF:-1 tvg-chno="21812" tvg-name="Rai 2" tvg-logo="https://zap2it.tmsimg.com/assets/s21812_ll_h15_aa.png" group-title="Sweden" tvg-id="RAIDUE" tvc-guide-stationid="21812",Rai 2
-http://example.local/SWE-RAIDUE.ts
-#EXTINF:-1 tvg-chno="21812" tvg-name="Rai 2" tvg-logo="https://zap2it.tmsimg.com/assets/s21812_ll_h15_aa.png" group-title="France" tvg-id="RAIDUE" tvc-guide-stationid="21812",Rai 2
-http://example.local/FRA-RAIDUE.ts
-#EXTINF:-1 tvg-chno="21812" tvg-name="Rai 2" tvg-logo="https://zap2it.tmsimg.com/assets/s21812_ll_h15_aa.png" group-title="Italy" tvg-id="RAIDUE" tvc-guide-stationid="21812",Rai 2
-http://example.local/ITA-RAIDUE.ts
-#EXTINF:-1 tvg-chno="21812" tvg-name="Rai 2" tvg-logo="https://zap2it.tmsimg.com/assets/s21812_ll_h15_aa.png" group-title="Germany" tvg-id="RAIDUE" tvc-guide-stationid="21812",Rai 2
-http://example.local/DEU-RAIDUE.ts
-#EXTINF:-1 tvg-chno="21812" tvg-name="Rai 2" tvg-logo="https://zap2it.tmsimg.com/assets/s21812_ll_h15_aa.png" group-title="Poland" tvg-id="RAIDUE" tvc-guide-stationid="21812",Rai 2
-http://example.local/POL-RAIDUE.ts
-#EXTINF:-1 tvg-chno="21812" tvg-name="Rai 2" tvg-logo="https://zap2it.tmsimg.com/assets/s21812_ll_h15_aa.png" group-title="Austria" tvg-id="RAIDUE" tvc-guide-stationid="21812",Rai 2
-http://example.local/AUT-RAIDUE.ts
-#EXTINF:-1 tvg-chno="21812" tvg-name="Rai 2" tvg-logo="https://zap2it.tmsimg.com/assets/s21812_ll_h15_aa.png" group-title="Belgium" tvg-id="RAIDUE" tvc-guide-stationid="21812",Rai 2
-http://example.local/BEL-RAIDUE.ts
-#EXTINF:-1 tvg-chno="21812" tvg-name="Rai 2" tvg-logo="https://zap2it.tmsimg.com/assets/s21812_ll_h15_aa.png" group-title="Switzerland" tvg-id="RAIDUE" tvc-guide-stationid="21812",Rai 2
-http://example.local/CHE-RAIDUE.ts
-#EXTINF:-1 tvg-chno="84694" tvg-name="Rai 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84694_ll_h15_aa.png" group-title="Italy" tvg-id="RAI2HD" tvc-guide-stationid="84694",Rai 2 HD
-http://example.local/ITA-RAI2HD.ts
-#EXTINF:-1 tvg-chno="84694" tvg-name="Rai 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84694_ll_h15_aa.png" group-title="Germany" tvg-id="RAI2HD" tvc-guide-stationid="84694",Rai 2 HD
-http://example.local/DEU-RAI2HD.ts
-#EXTINF:-1 tvg-chno="84694" tvg-name="Rai 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84694_ll_h15_aa.png" group-title="Poland" tvg-id="RAI2HD" tvc-guide-stationid="84694",Rai 2 HD
-http://example.local/POL-RAI2HD.ts
-#EXTINF:-1 tvg-chno="84694" tvg-name="Rai 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84694_ll_h15_aa.png" group-title="Austria" tvg-id="RAI2HD" tvc-guide-stationid="84694",Rai 2 HD
-http://example.local/AUT-RAI2HD.ts
-#EXTINF:-1 tvg-chno="84694" tvg-name="Rai 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84694_ll_h15_aa.png" group-title="Belgium" tvg-id="RAI2HD" tvc-guide-stationid="84694",Rai 2 HD
-http://example.local/BEL-RAI2HD.ts
-#EXTINF:-1 tvg-chno="84694" tvg-name="Rai 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84694_ll_h15_aa.png" group-title="Netherlands" tvg-id="RAI2HD" tvc-guide-stationid="84694",Rai 2 HD
-http://example.local/NLD-RAI2HD.ts
-#EXTINF:-1 tvg-chno="84694" tvg-name="Rai 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84694_ll_h15_aa.png" group-title="Switzerland" tvg-id="RAI2HD" tvc-guide-stationid="84694",Rai 2 HD
-http://example.local/CHE-RAI2HD.ts
-#EXTINF:-1 tvg-chno="53928" tvg-name="Rai 3" tvg-logo="https://zap2it.tmsimg.com/assets/s53928_ll_h15_as.png" group-title="Sweden" tvg-id="RAITRE" tvc-guide-stationid="53928",Rai 3
-http://example.local/SWE-RAITRE.ts
-#EXTINF:-1 tvg-chno="53928" tvg-name="Rai 3" tvg-logo="https://zap2it.tmsimg.com/assets/s53928_ll_h15_as.png" group-title="France" tvg-id="RAITRE" tvc-guide-stationid="53928",Rai 3
-http://example.local/FRA-RAITRE.ts
-#EXTINF:-1 tvg-chno="53928" tvg-name="Rai 3" tvg-logo="https://zap2it.tmsimg.com/assets/s53928_ll_h15_as.png" group-title="Italy" tvg-id="RAITRE" tvc-guide-stationid="53928",Rai 3
-http://example.local/ITA-RAITRE.ts
-#EXTINF:-1 tvg-chno="53928" tvg-name="Rai 3" tvg-logo="https://zap2it.tmsimg.com/assets/s53928_ll_h15_as.png" group-title="Germany" tvg-id="RAITRE" tvc-guide-stationid="53928",Rai 3
-http://example.local/DEU-RAITRE.ts
-#EXTINF:-1 tvg-chno="53928" tvg-name="Rai 3" tvg-logo="https://zap2it.tmsimg.com/assets/s53928_ll_h15_as.png" group-title="Poland" tvg-id="RAITRE" tvc-guide-stationid="53928",Rai 3
-http://example.local/POL-RAITRE.ts
-#EXTINF:-1 tvg-chno="53928" tvg-name="Rai 3" tvg-logo="https://zap2it.tmsimg.com/assets/s53928_ll_h15_as.png" group-title="Austria" tvg-id="RAITRE" tvc-guide-stationid="53928",Rai 3
-http://example.local/AUT-RAITRE.ts
-#EXTINF:-1 tvg-chno="53928" tvg-name="Rai 3" tvg-logo="https://zap2it.tmsimg.com/assets/s53928_ll_h15_as.png" group-title="Belgium" tvg-id="RAITRE" tvc-guide-stationid="53928",Rai 3
-http://example.local/BEL-RAITRE.ts
-#EXTINF:-1 tvg-chno="53928" tvg-name="Rai 3" tvg-logo="https://zap2it.tmsimg.com/assets/s53928_ll_h15_as.png" group-title="Switzerland" tvg-id="RAITRE" tvc-guide-stationid="53928",Rai 3
-http://example.local/CHE-RAITRE.ts
-#EXTINF:-1 tvg-chno="84695" tvg-name="Rai 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84695_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3HD" tvc-guide-stationid="84695",Rai 3 HD
-http://example.local/ITA-RAI3HD.ts
-#EXTINF:-1 tvg-chno="84695" tvg-name="Rai 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84695_ll_h15_aa.png" group-title="Germany" tvg-id="RAI3HD" tvc-guide-stationid="84695",Rai 3 HD
-http://example.local/DEU-RAI3HD.ts
-#EXTINF:-1 tvg-chno="84695" tvg-name="Rai 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84695_ll_h15_aa.png" group-title="Poland" tvg-id="RAI3HD" tvc-guide-stationid="84695",Rai 3 HD
-http://example.local/POL-RAI3HD.ts
-#EXTINF:-1 tvg-chno="84695" tvg-name="Rai 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84695_ll_h15_aa.png" group-title="Austria" tvg-id="RAI3HD" tvc-guide-stationid="84695",Rai 3 HD
-http://example.local/AUT-RAI3HD.ts
-#EXTINF:-1 tvg-chno="84695" tvg-name="Rai 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84695_ll_h15_aa.png" group-title="Belgium" tvg-id="RAI3HD" tvc-guide-stationid="84695",Rai 3 HD
-http://example.local/BEL-RAI3HD.ts
-#EXTINF:-1 tvg-chno="84695" tvg-name="Rai 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84695_ll_h15_aa.png" group-title="Netherlands" tvg-id="RAI3HD" tvc-guide-stationid="84695",Rai 3 HD
-http://example.local/NLD-RAI3HD.ts
-#EXTINF:-1 tvg-chno="84695" tvg-name="Rai 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84695_ll_h15_aa.png" group-title="Switzerland" tvg-id="RAI3HD" tvc-guide-stationid="84695",Rai 3 HD
-http://example.local/CHE-RAI3HD.ts
-#EXTINF:-1 tvg-chno="101650" tvg-name="Rai 3 TGR Abruzzo (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101650_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3ABR" tvc-guide-stationid="101650",Rai 3 TGR Abruzzo (RAITRE)
-http://example.local/ITA-RAI3ABR.ts
-#EXTINF:-1 tvg-chno="101651" tvg-name="Rai 3 TGR Basilicata (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101651_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3BAS" tvc-guide-stationid="101651",Rai 3 TGR Basilicata (RAITRE)
-http://example.local/ITA-RAI3BAS.ts
-#EXTINF:-1 tvg-chno="101652" tvg-name="Rai 3 TGR Calabria (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101652_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3CAL" tvc-guide-stationid="101652",Rai 3 TGR Calabria (RAITRE)
-http://example.local/ITA-RAI3CAL.ts
-#EXTINF:-1 tvg-chno="101653" tvg-name="Rai 3 TGR Campania (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101653_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3CAM" tvc-guide-stationid="101653",Rai 3 TGR Campania (RAITRE)
-http://example.local/ITA-RAI3CAM.ts
-#EXTINF:-1 tvg-chno="101616" tvg-name="Rai 3 TGR Emilia-Romagna (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101616_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3ERO" tvc-guide-stationid="101616",Rai 3 TGR Emilia-Romagna (RAITRE)
-http://example.local/ITA-RAI3ERO.ts
-#EXTINF:-1 tvg-chno="101654" tvg-name="Rai 3 TGR Friuli Venezia-Giulia (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101654_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3FRI" tvc-guide-stationid="101654",Rai 3 TGR Friuli Venezia-Giulia (RAITRE)
-http://example.local/ITA-RAI3FRI.ts
-#EXTINF:-1 tvg-chno="101655" tvg-name="Rai 3 TGR Lazio (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101655_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3LAZ" tvc-guide-stationid="101655",Rai 3 TGR Lazio (RAITRE)
-http://example.local/ITA-RAI3LAZ.ts
-#EXTINF:-1 tvg-chno="183857" tvg-name="Rai 3 TGR Lazio HD" group-title="Italy" tvg-id="RAI3TGR" tvc-guide-stationid="183857",Rai 3 TGR Lazio HD
-http://example.local/ITA-RAI3TGR.ts
-#EXTINF:-1 tvg-chno="101614" tvg-name="Rai 3 TGR Liguria (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101614_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3LIG" tvc-guide-stationid="101614",Rai 3 TGR Liguria (RAITRE)
-http://example.local/ITA-RAI3LIG.ts
-#EXTINF:-1 tvg-chno="101609" tvg-name="Rai 3 TGR Lombardia (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101609_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3RLO" tvc-guide-stationid="101609",Rai 3 TGR Lombardia (RAITRE)
-http://example.local/ITA-RAI3RLO.ts
-#EXTINF:-1 tvg-chno="101609" tvg-name="Rai 3 TGR Lombardia (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101609_ll_h15_aa.png" group-title="Germany" tvg-id="RAI3RLO" tvc-guide-stationid="101609",Rai 3 TGR Lombardia (RAITRE)
-http://example.local/DEU-RAI3RLO.ts
-#EXTINF:-1 tvg-chno="186451" tvg-name="Rai 3 TGR Lombardia HD" group-title="Italy" tvg-id="RAI3LOM" tvc-guide-stationid="186451",Rai 3 TGR Lombardia HD
-http://example.local/ITA-RAI3LOM.ts
-#EXTINF:-1 tvg-chno="101644" tvg-name="Rai 3 TGR Marche (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101644_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3MAR" tvc-guide-stationid="101644",Rai 3 TGR Marche (RAITRE)
-http://example.local/ITA-RAI3MAR.ts
-#EXTINF:-1 tvg-chno="101647" tvg-name="Rai 3 TGR Molise (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101647_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3MOL" tvc-guide-stationid="101647",Rai 3 TGR Molise (RAITRE)
-http://example.local/ITA-RAI3MOL.ts
-#EXTINF:-1 tvg-chno="101608" tvg-name="Rai 3 TGR Piemonte (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101608_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3RPI" tvc-guide-stationid="101608",Rai 3 TGR Piemonte (RAITRE)
-http://example.local/ITA-RAI3RPI.ts
-#EXTINF:-1 tvg-chno="186452" tvg-name="Rai 3 TGR Piemonte HD" group-title="Italy" tvg-id="RAI3PIE" tvc-guide-stationid="186452",Rai 3 TGR Piemonte HD
-http://example.local/ITA-RAI3PIE.ts
-#EXTINF:-1 tvg-chno="101656" tvg-name="Rai 3 TGR Puglia (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101656_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3PUG" tvc-guide-stationid="101656",Rai 3 TGR Puglia (RAITRE)
-http://example.local/ITA-RAI3PUG.ts
-#EXTINF:-1 tvg-chno="101657" tvg-name="Rai 3 TGR Sardegna (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101657_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3SAR" tvc-guide-stationid="101657",Rai 3 TGR Sardegna (RAITRE)
-http://example.local/ITA-RAI3SAR.ts
-#EXTINF:-1 tvg-chno="101658" tvg-name="Rai 3 TGR Sicilia (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101658_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3SIC" tvc-guide-stationid="101658",Rai 3 TGR Sicilia (RAITRE)
-http://example.local/ITA-RAI3SIC.ts
-#EXTINF:-1 tvg-chno="101649" tvg-name="Rai 3 TGR Toscana (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101649_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3TOS" tvc-guide-stationid="101649",Rai 3 TGR Toscana (RAITRE)
-http://example.local/ITA-RAI3TOS.ts
-#EXTINF:-1 tvg-chno="101643" tvg-name="Rai 3 TGR Trentino Alto Adige (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101643_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3TRE" tvc-guide-stationid="101643",Rai 3 TGR Trentino Alto Adige (RAITRE)
-http://example.local/ITA-RAI3TRE.ts
-#EXTINF:-1 tvg-chno="101648" tvg-name="Rai 3 TGR Umbria (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101648_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3UMB" tvc-guide-stationid="101648",Rai 3 TGR Umbria (RAITRE)
-http://example.local/ITA-RAI3UMB.ts
-#EXTINF:-1 tvg-chno="101659" tvg-name="Rai 3 TGR Valle D'Aosta (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101659_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3VAL" tvc-guide-stationid="101659",Rai 3 TGR Valle D'Aosta (RAITRE)
-http://example.local/ITA-RAI3VAL.ts
-#EXTINF:-1 tvg-chno="101613" tvg-name="Rai 3 TGR Veneto (RAITRE)" tvg-logo="https://zap2it.tmsimg.com/assets/s101613_ll_h15_aa.png" group-title="Italy" tvg-id="RAI3VEN" tvc-guide-stationid="101613",Rai 3 TGR Veneto (RAITRE)
-http://example.local/ITA-RAI3VEN.ts
-#EXTINF:-1 tvg-chno="84698" tvg-name="Rai 4" tvg-logo="https://zap2it.tmsimg.com/assets/s84698_ll_h15_aa.png" group-title="Italy" tvg-id="RAIQUAT" tvc-guide-stationid="84698",Rai 4
-http://example.local/ITA-RAIQUAT.ts
-#EXTINF:-1 tvg-chno="84698" tvg-name="Rai 4" tvg-logo="https://zap2it.tmsimg.com/assets/s84698_ll_h15_aa.png" group-title="Germany" tvg-id="RAIQUAT" tvc-guide-stationid="84698",Rai 4
-http://example.local/DEU-RAIQUAT.ts
-#EXTINF:-1 tvg-chno="84698" tvg-name="Rai 4" tvg-logo="https://zap2it.tmsimg.com/assets/s84698_ll_h15_aa.png" group-title="Switzerland" tvg-id="RAIQUAT" tvc-guide-stationid="84698",Rai 4
-http://example.local/CHE-RAIQUAT.ts
-#EXTINF:-1 tvg-chno="91204" tvg-name="Rai 4 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91204_ll_h15_ab.png" group-title="Italy" tvg-id="RAI4HD" tvc-guide-stationid="91204",Rai 4 HD
-http://example.local/ITA-RAI4HD.ts
-#EXTINF:-1 tvg-chno="91204" tvg-name="Rai 4 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91204_ll_h15_ab.png" group-title="Switzerland" tvg-id="RAI4HD" tvc-guide-stationid="91204",Rai 4 HD
-http://example.local/CHE-RAI4HD.ts
-#EXTINF:-1 tvg-chno="186453" tvg-name="Rai 4K Test" group-title="Italy" tvg-id="RAI4KTS" tvc-guide-stationid="186453",Rai 4K Test
-http://example.local/ITA-RAI4KTS.ts
-#EXTINF:-1 tvg-chno="86763" tvg-name="Rai 5" tvg-logo="https://zap2it.tmsimg.com/assets/s86763_ll_h15_aa.png" group-title="Italy" tvg-id="RAI5IT" tvc-guide-stationid="86763",Rai 5
-http://example.local/ITA-RAI5IT.ts
-#EXTINF:-1 tvg-chno="86763" tvg-name="Rai 5" tvg-logo="https://zap2it.tmsimg.com/assets/s86763_ll_h15_aa.png" group-title="Switzerland" tvg-id="RAI5IT" tvc-guide-stationid="86763",Rai 5
-http://example.local/CHE-RAI5IT.ts
-#EXTINF:-1 tvg-chno="100806" tvg-name="Rai 5 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100806_ll_h15_aa.png" group-title="Italy" tvg-id="RAI5HD" tvc-guide-stationid="100806",Rai 5 HD
-http://example.local/ITA-RAI5HD.ts
-#EXTINF:-1 tvg-chno="100806" tvg-name="Rai 5 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100806_ll_h15_aa.png" group-title="Switzerland" tvg-id="RAI5HD" tvc-guide-stationid="100806",Rai 5 HD
-http://example.local/CHE-RAI5HD.ts
-#EXTINF:-1 tvg-chno="142421" tvg-name="Rai GR Parlamento" group-title="Italy" tvg-id="PARLRAD" tvc-guide-stationid="142421",Rai GR Parlamento
-http://example.local/ITA-PARLRAD.ts
-#EXTINF:-1 tvg-chno="66185" tvg-name="Rai Gulp" tvg-logo="https://zap2it.tmsimg.com/assets/s66185_ll_h15_aa.png" group-title="Italy" tvg-id="RAIGULP" tvc-guide-stationid="66185",Rai Gulp
-http://example.local/ITA-RAIGULP.ts
-#EXTINF:-1 tvg-chno="140384" tvg-name="Rai Gulp" tvg-logo="https://zap2it.tmsimg.com/assets/s66185_h3_aa.png" group-title="Italy" tvg-id="RAIGSKY" tvc-guide-stationid="140384",Rai Gulp
-http://example.local/ITA-RAIGSKY.ts
-#EXTINF:-1 tvg-chno="66185" tvg-name="Rai Gulp" tvg-logo="https://zap2it.tmsimg.com/assets/s66185_ll_h15_aa.png" group-title="Germany" tvg-id="RAIGULP" tvc-guide-stationid="66185",Rai Gulp
-http://example.local/DEU-RAIGULP.ts
-#EXTINF:-1 tvg-chno="66185" tvg-name="Rai Gulp" tvg-logo="https://zap2it.tmsimg.com/assets/s66185_ll_h15_aa.png" group-title="Poland" tvg-id="RAIGULP" tvc-guide-stationid="66185",Rai Gulp
-http://example.local/POL-RAIGULP.ts
-#EXTINF:-1 tvg-chno="66185" tvg-name="Rai Gulp" tvg-logo="https://zap2it.tmsimg.com/assets/s66185_ll_h15_aa.png" group-title="Switzerland" tvg-id="RAIGULP" tvc-guide-stationid="66185",Rai Gulp
-http://example.local/CHE-RAIGULP.ts
-#EXTINF:-1 tvg-chno="102113" tvg-name="Rai Gulp HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102113_ll_h15_ab.png" group-title="Italy" tvg-id="RAIGUHD" tvc-guide-stationid="102113",Rai Gulp HD
-http://example.local/ITA-RAIGUHD.ts
-#EXTINF:-1 tvg-chno="102113" tvg-name="Rai Gulp HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102113_ll_h15_ab.png" group-title="Poland" tvg-id="RAIGUHD" tvc-guide-stationid="102113",Rai Gulp HD
-http://example.local/POL-RAIGUHD.ts
-#EXTINF:-1 tvg-chno="102113" tvg-name="Rai Gulp HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102113_ll_h15_ab.png" group-title="Austria" tvg-id="RAIGUHD" tvc-guide-stationid="102113",Rai Gulp HD
-http://example.local/AUT-RAIGUHD.ts
-#EXTINF:-1 tvg-chno="102113" tvg-name="Rai Gulp HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102113_ll_h15_ab.png" group-title="Belgium" tvg-id="RAIGUHD" tvc-guide-stationid="102113",Rai Gulp HD
-http://example.local/BEL-RAIGUHD.ts
-#EXTINF:-1 tvg-chno="102113" tvg-name="Rai Gulp HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102113_ll_h15_ab.png" group-title="Netherlands" tvg-id="RAIGUHD" tvc-guide-stationid="102113",Rai Gulp HD
-http://example.local/NLD-RAIGUHD.ts
-#EXTINF:-1 tvg-chno="102113" tvg-name="Rai Gulp HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102113_ll_h15_ab.png" group-title="Switzerland" tvg-id="RAIGUHD" tvc-guide-stationid="102113",Rai Gulp HD
-http://example.local/CHE-RAIGUHD.ts
-#EXTINF:-1 tvg-chno="113862" tvg-name="RAI International" group-title="Peru" tvg-id="RAIISP" tvc-guide-stationid="113862",RAI International
-http://example.local/PER-RAIISP.ts
-#EXTINF:-1 tvg-chno="75785" tvg-name="RAI International Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Mexico" tvg-id="ESRAI" tvc-guide-stationid="75785",RAI International Spanish
-http://example.local/MEX-ESRAI.ts
-#EXTINF:-1 tvg-chno="75785" tvg-name="RAI International Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Argentina" tvg-id="ESRAI" tvc-guide-stationid="75785",RAI International Spanish
-http://example.local/ARG-ESRAI.ts
-#EXTINF:-1 tvg-chno="75785" tvg-name="RAI International Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Colombia" tvg-id="ESRAI" tvc-guide-stationid="75785",RAI International Spanish
-http://example.local/COL-ESRAI.ts
-#EXTINF:-1 tvg-chno="75785" tvg-name="RAI International Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="ESRAI" tvc-guide-stationid="75785",RAI International Spanish
-http://example.local/DOM-ESRAI.ts
-#EXTINF:-1 tvg-chno="142478" tvg-name="Rai Isoradio" group-title="Italy" tvg-id="RAIISO" tvc-guide-stationid="142478",Rai Isoradio
-http://example.local/ITA-RAIISO.ts
-#EXTINF:-1 tvg-chno="17250" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="France" tvg-id="RAII" tvc-guide-stationid="17250",Rai Italia
-http://example.local/FRA-RAII.ts
-#EXTINF:-1 tvg-chno="17250" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Canada" tvg-id="RAII" tvc-guide-stationid="17250",Rai Italia
-http://example.local/CAN-RAII.ts
-#EXTINF:-1 tvg-chno="17250" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Germany" tvg-id="RAII" tvc-guide-stationid="17250",Rai Italia
-http://example.local/DEU-RAII.ts
-#EXTINF:-1 tvg-chno="17250" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="United States" tvg-id="RAII" tvc-guide-stationid="17250",Rai Italia
-http://example.local/USA-RAII.ts
-#EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Mexico" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
-http://example.local/MEX-RAIIS.ts
-#EXTINF:-1 tvg-chno="17250" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Mexico" tvg-id="RAII" tvc-guide-stationid="17250",Rai Italia
-http://example.local/MEX-RAII.ts
-#EXTINF:-1 tvg-chno="75908" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75908_ll_h9_ab.png" group-title="Brazil" tvg-id="RAIBR" tvc-guide-stationid="75908",Rai Italia
-http://example.local/BRA-RAIBR.ts
-#EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
-http://example.local/TTO-RAIIS.ts
-#EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Panama" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
-http://example.local/PAN-RAIIS.ts
-#EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Argentina" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
-http://example.local/ARG-RAIIS.ts
-#EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Peru" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
-http://example.local/PER-RAIIS.ts
-#EXTINF:-1 tvg-chno="17250" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Bahamas" tvg-id="RAII" tvc-guide-stationid="17250",Rai Italia
-http://example.local/BHS-RAII.ts
-#EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Colombia" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
-http://example.local/COL-RAIIS.ts
-#EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Costa Rica" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
-http://example.local/CRI-RAIIS.ts
-#EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Chile" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
-http://example.local/CHL-RAIIS.ts
-#EXTINF:-1 tvg-chno="17250" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="RAII" tvc-guide-stationid="17250",Rai Italia
-http://example.local/CYM-RAII.ts
-#EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Ecuador" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
-http://example.local/ECU-RAIIS.ts
-#EXTINF:-1 tvg-chno="17250" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Ecuador" tvg-id="RAII" tvc-guide-stationid="17250",Rai Italia
-http://example.local/ECU-RAII.ts
-#EXTINF:-1 tvg-chno="17250" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Jamaica" tvg-id="RAII" tvc-guide-stationid="17250",Rai Italia
-http://example.local/JAM-RAII.ts
-#EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Venezuela" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
-http://example.local/VEN-RAIIS.ts
-#EXTINF:-1 tvg-chno="17250" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Venezuela" tvg-id="RAII" tvc-guide-stationid="17250",Rai Italia
-http://example.local/VEN-RAII.ts
-#EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Uruguay" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
-http://example.local/URY-RAIIS.ts
-#EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Dominican Republic" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
-http://example.local/DOM-RAIIS.ts
-#EXTINF:-1 tvg-chno="17250" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="RAII" tvc-guide-stationid="17250",Rai Italia
-http://example.local/DOM-RAII.ts
-#EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Guatemala" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
-http://example.local/GTM-RAIIS.ts
-#EXTINF:-1 tvg-chno="17250" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Bermuda" tvg-id="RAII" tvc-guide-stationid="17250",Rai Italia
-http://example.local/BMU-RAII.ts
-#EXTINF:-1 tvg-chno="17250" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="St. Lucia" tvg-id="RAII" tvc-guide-stationid="17250",Rai Italia
-http://example.local/LCA-RAII.ts
-#EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Barbados" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
-http://example.local/BRB-RAIIS.ts
-#EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Curacao" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
-http://example.local/CUW-RAIIS.ts
-#EXTINF:-1 tvg-chno="17250" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="RAII" tvc-guide-stationid="17250",Rai Italia
-http://example.local/ATG-RAII.ts
-#EXTINF:-1 tvg-chno="109462" tvg-name="Rai Italia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Canada" tvg-id="RAIIHD" tvc-guide-stationid="109462",Rai Italia HD
-http://example.local/CAN-RAIIHD.ts
-#EXTINF:-1 tvg-chno="109462" tvg-name="Rai Italia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Germany" tvg-id="RAIIHD" tvc-guide-stationid="109462",Rai Italia HD
-http://example.local/DEU-RAIIHD.ts
-#EXTINF:-1 tvg-chno="109462" tvg-name="Rai Italia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="United States" tvg-id="RAIIHD" tvc-guide-stationid="109462",Rai Italia HD
-http://example.local/USA-RAIIHD.ts
-#EXTINF:-1 tvg-chno="109462" tvg-name="Rai Italia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Mexico" tvg-id="RAIIHD" tvc-guide-stationid="109462",Rai Italia HD
-http://example.local/MEX-RAIIHD.ts
-#EXTINF:-1 tvg-chno="109462" tvg-name="Rai Italia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Argentina" tvg-id="RAIIHD" tvc-guide-stationid="109462",Rai Italia HD
-http://example.local/ARG-RAIIHD.ts
-#EXTINF:-1 tvg-chno="109462" tvg-name="Rai Italia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Colombia" tvg-id="RAIIHD" tvc-guide-stationid="109462",Rai Italia HD
-http://example.local/COL-RAIIHD.ts
-#EXTINF:-1 tvg-chno="109462" tvg-name="Rai Italia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Chile" tvg-id="RAIIHD" tvc-guide-stationid="109462",Rai Italia HD
-http://example.local/CHL-RAIIHD.ts
-#EXTINF:-1 tvg-chno="109462" tvg-name="Rai Italia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Uruguay" tvg-id="RAIIHD" tvc-guide-stationid="109462",Rai Italia HD
-http://example.local/URY-RAIIHD.ts
-#EXTINF:-1 tvg-chno="84697" tvg-name="Rai Movie" tvg-logo="https://zap2it.tmsimg.com/assets/s84697_ll_h15_aa.png" group-title="Italy" tvg-id="RAIMOV" tvc-guide-stationid="84697",Rai Movie
-http://example.local/ITA-RAIMOV.ts
-#EXTINF:-1 tvg-chno="84697" tvg-name="Rai Movie" tvg-logo="https://zap2it.tmsimg.com/assets/s84697_ll_h15_aa.png" group-title="Germany" tvg-id="RAIMOV" tvc-guide-stationid="84697",Rai Movie
-http://example.local/DEU-RAIMOV.ts
-#EXTINF:-1 tvg-chno="84697" tvg-name="Rai Movie" tvg-logo="https://zap2it.tmsimg.com/assets/s84697_ll_h15_aa.png" group-title="Switzerland" tvg-id="RAIMOV" tvc-guide-stationid="84697",Rai Movie
-http://example.local/CHE-RAIMOV.ts
-#EXTINF:-1 tvg-chno="99980" tvg-name="Rai Movie HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99980_ll_h15_aa.png" group-title="Italy" tvg-id="RAIMOVH" tvc-guide-stationid="99980",Rai Movie HD
-http://example.local/ITA-RAIMOVH.ts
-#EXTINF:-1 tvg-chno="99980" tvg-name="Rai Movie HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99980_ll_h15_aa.png" group-title="Switzerland" tvg-id="RAIMOVH" tvc-guide-stationid="99980",Rai Movie HD
-http://example.local/CHE-RAIMOVH.ts
-#EXTINF:-1 tvg-chno="78803" tvg-name="Rai News 24" tvg-logo="https://zap2it.tmsimg.com/assets/s78803_ll_h15_ad.png" group-title="France" tvg-id="RAINW24" tvc-guide-stationid="78803",Rai News 24
-http://example.local/FRA-RAINW24.ts
-#EXTINF:-1 tvg-chno="78803" tvg-name="Rai News 24" tvg-logo="https://zap2it.tmsimg.com/assets/s78803_ll_h15_ad.png" group-title="Italy" tvg-id="RAINW24" tvc-guide-stationid="78803",Rai News 24
-http://example.local/ITA-RAINW24.ts
-#EXTINF:-1 tvg-chno="78803" tvg-name="Rai News 24" tvg-logo="https://zap2it.tmsimg.com/assets/s78803_ll_h15_ad.png" group-title="Canada" tvg-id="RAINW24" tvc-guide-stationid="78803",Rai News 24
-http://example.local/CAN-RAINW24.ts
-#EXTINF:-1 tvg-chno="78803" tvg-name="Rai News 24" tvg-logo="https://zap2it.tmsimg.com/assets/s78803_ll_h15_ad.png" group-title="Germany" tvg-id="RAINW24" tvc-guide-stationid="78803",Rai News 24
-http://example.local/DEU-RAINW24.ts
-#EXTINF:-1 tvg-chno="78803" tvg-name="Rai News 24" tvg-logo="https://zap2it.tmsimg.com/assets/s78803_ll_h15_ad.png" group-title="United States" tvg-id="RAINW24" tvc-guide-stationid="78803",Rai News 24
-http://example.local/USA-RAINW24.ts
-#EXTINF:-1 tvg-chno="78803" tvg-name="Rai News 24" tvg-logo="https://zap2it.tmsimg.com/assets/s78803_ll_h15_ad.png" group-title="Poland" tvg-id="RAINW24" tvc-guide-stationid="78803",Rai News 24
-http://example.local/POL-RAINW24.ts
-#EXTINF:-1 tvg-chno="78803" tvg-name="Rai News 24" tvg-logo="https://zap2it.tmsimg.com/assets/s78803_ll_h15_ad.png" group-title="Austria" tvg-id="RAINW24" tvc-guide-stationid="78803",Rai News 24
-http://example.local/AUT-RAINW24.ts
-#EXTINF:-1 tvg-chno="78803" tvg-name="Rai News 24" tvg-logo="https://zap2it.tmsimg.com/assets/s78803_ll_h15_ad.png" group-title="Belgium" tvg-id="RAINW24" tvc-guide-stationid="78803",Rai News 24
-http://example.local/BEL-RAINW24.ts
-#EXTINF:-1 tvg-chno="78803" tvg-name="Rai News 24" tvg-logo="https://zap2it.tmsimg.com/assets/s78803_ll_h15_ad.png" group-title="Netherlands" tvg-id="RAINW24" tvc-guide-stationid="78803",Rai News 24
-http://example.local/NLD-RAINW24.ts
-#EXTINF:-1 tvg-chno="78803" tvg-name="Rai News 24" tvg-logo="https://zap2it.tmsimg.com/assets/s78803_ll_h15_ad.png" group-title="Spain" tvg-id="RAINW24" tvc-guide-stationid="78803",Rai News 24
-http://example.local/ESP-RAINW24.ts
-#EXTINF:-1 tvg-chno="78803" tvg-name="Rai News 24" tvg-logo="https://zap2it.tmsimg.com/assets/s78803_ll_h15_ad.png" group-title="Switzerland" tvg-id="RAINW24" tvc-guide-stationid="78803",Rai News 24
-http://example.local/CHE-RAINW24.ts
-#EXTINF:-1 tvg-chno="78803" tvg-name="Rai News 24" tvg-logo="https://zap2it.tmsimg.com/assets/s78803_ll_h15_ad.png" group-title="Norway" tvg-id="RAINW24" tvc-guide-stationid="78803",Rai News 24
-http://example.local/NOR-RAINW24.ts
-#EXTINF:-1 tvg-chno="102110" tvg-name="Rai News 24 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102110_ll_h15_ac.png" group-title="Italy" tvg-id="RAINWHD" tvc-guide-stationid="102110",Rai News 24 HD
-http://example.local/ITA-RAINWHD.ts
-#EXTINF:-1 tvg-chno="140386" tvg-name="Rai News 24 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s125077_ll_h15_aa.png" group-title="Italy" tvg-id="RAINSKY" tvc-guide-stationid="140386",Rai News 24 HD
-http://example.local/ITA-RAINSKY.ts
-#EXTINF:-1 tvg-chno="102110" tvg-name="Rai News 24 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102110_ll_h15_ac.png" group-title="Germany" tvg-id="RAINWHD" tvc-guide-stationid="102110",Rai News 24 HD
-http://example.local/DEU-RAINWHD.ts
-#EXTINF:-1 tvg-chno="102110" tvg-name="Rai News 24 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102110_ll_h15_ac.png" group-title="Poland" tvg-id="RAINWHD" tvc-guide-stationid="102110",Rai News 24 HD
-http://example.local/POL-RAINWHD.ts
-#EXTINF:-1 tvg-chno="102110" tvg-name="Rai News 24 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102110_ll_h15_ac.png" group-title="Austria" tvg-id="RAINWHD" tvc-guide-stationid="102110",Rai News 24 HD
-http://example.local/AUT-RAINWHD.ts
-#EXTINF:-1 tvg-chno="102110" tvg-name="Rai News 24 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102110_ll_h15_ac.png" group-title="United Kingdom" tvg-id="RAINWHD" tvc-guide-stationid="102110",Rai News 24 HD
-http://example.local/GBR-RAINWHD.ts
-#EXTINF:-1 tvg-chno="102110" tvg-name="Rai News 24 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102110_ll_h15_ac.png" group-title="Belgium" tvg-id="RAINWHD" tvc-guide-stationid="102110",Rai News 24 HD
-http://example.local/BEL-RAINWHD.ts
-#EXTINF:-1 tvg-chno="102110" tvg-name="Rai News 24 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102110_ll_h15_ac.png" group-title="Netherlands" tvg-id="RAINWHD" tvc-guide-stationid="102110",Rai News 24 HD
-http://example.local/NLD-RAINWHD.ts
-#EXTINF:-1 tvg-chno="102110" tvg-name="Rai News 24 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102110_ll_h15_ac.png" group-title="Switzerland" tvg-id="RAINWHD" tvc-guide-stationid="102110",Rai News 24 HD
-http://example.local/CHE-RAINWHD.ts
-#EXTINF:-1 tvg-chno="172245" tvg-name="Rai Play" group-title="Italy" tvg-id="RAIPLY" tvc-guide-stationid="172245",Rai Play
-http://example.local/ITA-RAIPLY.ts
-#EXTINF:-1 tvg-chno="90672" tvg-name="Rai Premium" tvg-logo="https://zap2it.tmsimg.com/assets/s90672_ll_h9_aa.png" group-title="Italy" tvg-id="RAIPRIT" tvc-guide-stationid="90672",Rai Premium
-http://example.local/ITA-RAIPRIT.ts
-#EXTINF:-1 tvg-chno="46350" tvg-name="Rai Premium" tvg-logo="https://zap2it.tmsimg.com/assets/s46350_ll_h15_aa.png" group-title="Canada" tvg-id="RAIPREM" tvc-guide-stationid="46350",Rai Premium
-http://example.local/CAN-RAIPREM.ts
-#EXTINF:-1 tvg-chno="46350" tvg-name="Rai Premium" tvg-logo="https://zap2it.tmsimg.com/assets/s46350_ll_h15_aa.png" group-title="United States" tvg-id="RAIPREM" tvc-guide-stationid="46350",Rai Premium
-http://example.local/USA-RAIPREM.ts
-#EXTINF:-1 tvg-chno="90672" tvg-name="Rai Premium" tvg-logo="https://zap2it.tmsimg.com/assets/s90672_ll_h9_aa.png" group-title="Switzerland" tvg-id="RAIPRIT" tvc-guide-stationid="90672",Rai Premium
-http://example.local/CHE-RAIPRIT.ts
-#EXTINF:-1 tvg-chno="99981" tvg-name="Rai Premium HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99981_ll_h15_aa.png" group-title="Italy" tvg-id="RAIPRIH" tvc-guide-stationid="99981",Rai Premium HD
-http://example.local/ITA-RAIPRIH.ts
-#EXTINF:-1 tvg-chno="94884" tvg-name="Rai Radio 1" tvg-logo="https://zap2it.tmsimg.com/assets/s94884_ll_h9_aa.png" group-title="Italy" tvg-id="RAIRAD1" tvc-guide-stationid="94884",Rai Radio 1
-http://example.local/ITA-RAIRAD1.ts
-#EXTINF:-1 tvg-chno="94884" tvg-name="Rai Radio 1" tvg-logo="https://zap2it.tmsimg.com/assets/s94884_ll_h9_aa.png" group-title="Germany" tvg-id="RAIRAD1" tvc-guide-stationid="94884",Rai Radio 1
-http://example.local/DEU-RAIRAD1.ts
-#EXTINF:-1 tvg-chno="94884" tvg-name="Rai Radio 1" tvg-logo="https://zap2it.tmsimg.com/assets/s94884_ll_h9_aa.png" group-title="United States" tvg-id="RAIRAD1" tvc-guide-stationid="94884",Rai Radio 1
-http://example.local/USA-RAIRAD1.ts
-#EXTINF:-1 tvg-chno="94884" tvg-name="Rai Radio 1" tvg-logo="https://zap2it.tmsimg.com/assets/s94884_ll_h9_aa.png" group-title="Chile" tvg-id="RAIRAD1" tvc-guide-stationid="94884",Rai Radio 1
-http://example.local/CHL-RAIRAD1.ts
-#EXTINF:-1 tvg-chno="94884" tvg-name="Rai Radio 1" tvg-logo="https://zap2it.tmsimg.com/assets/s94884_ll_h9_aa.png" group-title="Cayman Islands" tvg-id="RAIRAD1" tvc-guide-stationid="94884",Rai Radio 1
-http://example.local/CYM-RAIRAD1.ts
-#EXTINF:-1 tvg-chno="182415" tvg-name="Rai Radio 1 Sport" group-title="Italy" tvg-id="RADRAI1S" tvc-guide-stationid="182415",Rai Radio 1 Sport
-http://example.local/ITA-RADRAI1S.ts
-#EXTINF:-1 tvg-chno="142479" tvg-name="Rai Radio 2" group-title="Italy" tvg-id="RAIRAD2" tvc-guide-stationid="142479",Rai Radio 2
-http://example.local/ITA-RAIRAD2.ts
-#EXTINF:-1 tvg-chno="172247" tvg-name="Rai Radio 2 Visual HD" group-title="Italy" tvg-id="RAIR2VL" tvc-guide-stationid="172247",Rai Radio 2 Visual HD
-http://example.local/ITA-RAIR2VL.ts
-#EXTINF:-1 tvg-chno="142480" tvg-name="Rai Radio 3" group-title="Italy" tvg-id="RAIRAD3" tvc-guide-stationid="142480",Rai Radio 3
-http://example.local/ITA-RAIRAD3.ts
-#EXTINF:-1 tvg-chno="142424" tvg-name="Rai Radio 3 Classica" group-title="Italy" tvg-id="RAIR3CL" tvc-guide-stationid="142424",Rai Radio 3 Classica
-http://example.local/ITA-RAIR3CL.ts
-#EXTINF:-1 tvg-chno="142436" tvg-name="Rai Radio Kids" group-title="Italy" tvg-id="RAIRKID" tvc-guide-stationid="142436",Rai Radio Kids
-http://example.local/ITA-RAIRKID.ts
-#EXTINF:-1 tvg-chno="142437" tvg-name="Rai Radio Live Napoli" group-title="Italy" tvg-id="RAIRLNA" tvc-guide-stationid="142437",Rai Radio Live Napoli
-http://example.local/ITA-RAIRLNA.ts
-#EXTINF:-1 tvg-chno="182419" tvg-name="Rai Radio Techete" group-title="Italy" tvg-id="RADRAIT" tvc-guide-stationid="182419",Rai Radio Techete
-http://example.local/ITA-RADRAIT.ts
-#EXTINF:-1 tvg-chno="142435" tvg-name="Rai Radio Techete'" group-title="Italy" tvg-id="RAIRTEC" tvc-guide-stationid="142435",Rai Radio Techete'
-http://example.local/ITA-RAIRTEC.ts
-#EXTINF:-1 tvg-chno="142439" tvg-name="Rai Radio Trst A" group-title="Italy" tvg-id="RAIRTRS" tvc-guide-stationid="142439",Rai Radio Trst A
-http://example.local/ITA-RAIRTRS.ts
-#EXTINF:-1 tvg-chno="142434" tvg-name="Rai Radio Tutta Italiana" group-title="Italy" tvg-id="RAIRTIT" tvc-guide-stationid="142434",Rai Radio Tutta Italiana
-http://example.local/ITA-RAIRTIT.ts
-#EXTINF:-1 tvg-chno="142423" tvg-name="Rai Radio1 Sport" group-title="Italy" tvg-id="RAIR1SP" tvc-guide-stationid="142423",Rai Radio1 Sport
-http://example.local/ITA-RAIR1SP.ts
-#EXTINF:-1 tvg-chno="74232" tvg-name="Rai Scuola" tvg-logo="https://zap2it.tmsimg.com/assets/s74232_ll_h15_aa.png" group-title="France" tvg-id="RAISCUL" tvc-guide-stationid="74232",Rai Scuola
-http://example.local/FRA-RAISCUL.ts
-#EXTINF:-1 tvg-chno="74232" tvg-name="Rai Scuola" tvg-logo="https://zap2it.tmsimg.com/assets/s74232_ll_h15_aa.png" group-title="Italy" tvg-id="RAISCUL" tvc-guide-stationid="74232",Rai Scuola
-http://example.local/ITA-RAISCUL.ts
-#EXTINF:-1 tvg-chno="74232" tvg-name="Rai Scuola" tvg-logo="https://zap2it.tmsimg.com/assets/s74232_ll_h15_aa.png" group-title="Germany" tvg-id="RAISCUL" tvc-guide-stationid="74232",Rai Scuola
-http://example.local/DEU-RAISCUL.ts
-#EXTINF:-1 tvg-chno="74232" tvg-name="Rai Scuola" tvg-logo="https://zap2it.tmsimg.com/assets/s74232_ll_h15_aa.png" group-title="Poland" tvg-id="RAISCUL" tvc-guide-stationid="74232",Rai Scuola
-http://example.local/POL-RAISCUL.ts
-#EXTINF:-1 tvg-chno="74232" tvg-name="Rai Scuola" tvg-logo="https://zap2it.tmsimg.com/assets/s74232_ll_h15_aa.png" group-title="Austria" tvg-id="RAISCUL" tvc-guide-stationid="74232",Rai Scuola
-http://example.local/AUT-RAISCUL.ts
-#EXTINF:-1 tvg-chno="74232" tvg-name="Rai Scuola" tvg-logo="https://zap2it.tmsimg.com/assets/s74232_ll_h15_aa.png" group-title="Switzerland" tvg-id="RAISCUL" tvc-guide-stationid="74232",Rai Scuola
-http://example.local/CHE-RAISCUL.ts
-#EXTINF:-1 tvg-chno="102112" tvg-name="Rai Scuola HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102112_ll_h15_ab.png" group-title="Italy" tvg-id="RAISCHD" tvc-guide-stationid="102112",Rai Scuola HD
-http://example.local/ITA-RAISCHD.ts
-#EXTINF:-1 tvg-chno="102112" tvg-name="Rai Scuola HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102112_ll_h15_ab.png" group-title="Poland" tvg-id="RAISCHD" tvc-guide-stationid="102112",Rai Scuola HD
-http://example.local/POL-RAISCHD.ts
-#EXTINF:-1 tvg-chno="102112" tvg-name="Rai Scuola HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102112_ll_h15_ab.png" group-title="Austria" tvg-id="RAISCHD" tvc-guide-stationid="102112",Rai Scuola HD
-http://example.local/AUT-RAISCHD.ts
-#EXTINF:-1 tvg-chno="102112" tvg-name="Rai Scuola HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102112_ll_h15_ab.png" group-title="Belgium" tvg-id="RAISCHD" tvc-guide-stationid="102112",Rai Scuola HD
-http://example.local/BEL-RAISCHD.ts
-#EXTINF:-1 tvg-chno="102112" tvg-name="Rai Scuola HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102112_ll_h15_ab.png" group-title="Netherlands" tvg-id="RAISCHD" tvc-guide-stationid="102112",Rai Scuola HD
-http://example.local/NLD-RAISCHD.ts
-#EXTINF:-1 tvg-chno="102112" tvg-name="Rai Scuola HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102112_ll_h15_ab.png" group-title="Switzerland" tvg-id="RAISCHD" tvc-guide-stationid="102112",Rai Scuola HD
-http://example.local/CHE-RAISCHD.ts
-#EXTINF:-1 tvg-chno="105242" tvg-name="RAI SPORT" tvg-logo="https://zap2it.tmsimg.com/assets/s105242_ll_h15_aa.png" group-title="Italy" tvg-id="RAISP" tvc-guide-stationid="105242",RAI SPORT
-http://example.local/ITA-RAISP.ts
-#EXTINF:-1 tvg-chno="105242" tvg-name="RAI SPORT" tvg-logo="https://zap2it.tmsimg.com/assets/s105242_ll_h15_aa.png" group-title="Poland" tvg-id="RAISP" tvc-guide-stationid="105242",RAI SPORT
-http://example.local/POL-RAISP.ts
-#EXTINF:-1 tvg-chno="105242" tvg-name="RAI SPORT" tvg-logo="https://zap2it.tmsimg.com/assets/s105242_ll_h15_aa.png" group-title="Switzerland" tvg-id="RAISP" tvc-guide-stationid="105242",RAI SPORT
-http://example.local/CHE-RAISP.ts
-#EXTINF:-1 tvg-chno="54777" tvg-name="Rai Sport HD" tvg-logo="https://zap2it.tmsimg.com/assets/s54777_ll_h15_aa.png" group-title="Italy" tvg-id="RAISPHD" tvc-guide-stationid="54777",Rai Sport HD
-http://example.local/ITA-RAISPHD.ts
-#EXTINF:-1 tvg-chno="54777" tvg-name="Rai Sport HD" tvg-logo="https://zap2it.tmsimg.com/assets/s54777_ll_h15_aa.png" group-title="Germany" tvg-id="RAISPHD" tvc-guide-stationid="54777",Rai Sport HD
-http://example.local/DEU-RAISPHD.ts
-#EXTINF:-1 tvg-chno="54777" tvg-name="Rai Sport HD" tvg-logo="https://zap2it.tmsimg.com/assets/s54777_ll_h15_aa.png" group-title="Poland" tvg-id="RAISPHD" tvc-guide-stationid="54777",Rai Sport HD
-http://example.local/POL-RAISPHD.ts
-#EXTINF:-1 tvg-chno="54777" tvg-name="Rai Sport HD" tvg-logo="https://zap2it.tmsimg.com/assets/s54777_ll_h15_aa.png" group-title="Austria" tvg-id="RAISPHD" tvc-guide-stationid="54777",Rai Sport HD
-http://example.local/AUT-RAISPHD.ts
-#EXTINF:-1 tvg-chno="54777" tvg-name="Rai Sport HD" tvg-logo="https://zap2it.tmsimg.com/assets/s54777_ll_h15_aa.png" group-title="Belgium" tvg-id="RAISPHD" tvc-guide-stationid="54777",Rai Sport HD
-http://example.local/BEL-RAISPHD.ts
-#EXTINF:-1 tvg-chno="54777" tvg-name="Rai Sport HD" tvg-logo="https://zap2it.tmsimg.com/assets/s54777_ll_h15_aa.png" group-title="Netherlands" tvg-id="RAISPHD" tvc-guide-stationid="54777",Rai Sport HD
-http://example.local/NLD-RAISPHD.ts
-#EXTINF:-1 tvg-chno="54777" tvg-name="Rai Sport HD" tvg-logo="https://zap2it.tmsimg.com/assets/s54777_ll_h15_aa.png" group-title="Switzerland" tvg-id="RAISPHD" tvc-guide-stationid="54777",Rai Sport HD
-http://example.local/CHE-RAISPHD.ts
-#EXTINF:-1 tvg-chno="90940" tvg-name="Rai Storia" tvg-logo="https://zap2it.tmsimg.com/assets/s90940_ll_h15_aa.png" group-title="France" tvg-id="RAISTIT" tvc-guide-stationid="90940",Rai Storia
-http://example.local/FRA-RAISTIT.ts
-#EXTINF:-1 tvg-chno="90940" tvg-name="Rai Storia" tvg-logo="https://zap2it.tmsimg.com/assets/s90940_ll_h15_aa.png" group-title="Italy" tvg-id="RAISTIT" tvc-guide-stationid="90940",Rai Storia
-http://example.local/ITA-RAISTIT.ts
-#EXTINF:-1 tvg-chno="140390" tvg-name="Rai Storia" tvg-logo="https://zap2it.tmsimg.com/assets/s90940_ll_h15_aa.png" group-title="Italy" tvg-id="RAISTSKY" tvc-guide-stationid="140390",Rai Storia
-http://example.local/ITA-RAISTSKY.ts
-#EXTINF:-1 tvg-chno="90940" tvg-name="Rai Storia" tvg-logo="https://zap2it.tmsimg.com/assets/s90940_ll_h15_aa.png" group-title="Germany" tvg-id="RAISTIT" tvc-guide-stationid="90940",Rai Storia
-http://example.local/DEU-RAISTIT.ts
-#EXTINF:-1 tvg-chno="66187" tvg-name="Rai Storia" tvg-logo="https://zap2it.tmsimg.com/assets/s66187_ll_h15_aa.png" group-title="Germany" tvg-id="RAISTOR" tvc-guide-stationid="66187",Rai Storia
-http://example.local/DEU-RAISTOR.ts
-#EXTINF:-1 tvg-chno="90940" tvg-name="Rai Storia" tvg-logo="https://zap2it.tmsimg.com/assets/s90940_ll_h15_aa.png" group-title="Poland" tvg-id="RAISTIT" tvc-guide-stationid="90940",Rai Storia
-http://example.local/POL-RAISTIT.ts

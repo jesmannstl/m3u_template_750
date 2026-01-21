@@ -1,5 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="118966" tvg-name="Zoom TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118966_ll_h15_aa.png" group-title="Poland" tvg-id="ZOOMHDPL" tvc-guide-stationid="118966",Zoom TV HD
+http://example.local/POL-ZOOMHDPL.ts
+#EXTINF:-1 tvg-chno="120674" tvg-name="ZOOM TV SD" tvg-logo="https://zap2it.tmsimg.com/assets/s120674_ll_h15_aa.png" group-title="Poland" tvg-id="ZOOMSDPL" tvc-guide-stationid="120674",ZOOM TV SD
+http://example.local/POL-ZOOMSDPL.ts
+#EXTINF:-1 tvg-chno="169858" tvg-name="Zwei Music Television" group-title="Poland" tvg-id="ZWEMUTV" tvc-guide-stationid="169858",Zwei Music Television
+http://example.local/POL-ZWEMUTV.ts
 #EXTINF:-1 tvg-chno="194909" tvg-name="Świat według Kiepskich HD" group-title="Poland" tvg-id="WKIEPSH" tvc-guide-stationid="194909",Świat według Kiepskich HD
 http://example.local/POL-WKIEPSH.ts
 #EXTINF:-1 tvg-chno="194916" tvg-name="Życiowe historie HD" group-title="Poland" tvg-id="ZYCHST" tvc-guide-stationid="194916",Życiowe historie HD
 http://example.local/POL-ZYCHST.ts
+#EXTINF:-1 tvg-chno="201504" tvg-name="Телемедиа" group-title="Poland" tvg-id="TELEMID" tvc-guide-stationid="201504",Телемедиа
+http://example.local/POL-TELEMID.ts

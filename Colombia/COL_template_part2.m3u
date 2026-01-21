@@ -43,7 +43,7 @@ http://example.local/COL-SMESP63.ts
 http://example.local/COL-SMESP01.ts
 #EXTINF:-1 tvg-chno="29017" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s29017_ll_h15_aa.png" group-title="Colombia" tvg-id="STULM" tvc-guide-stationid="29017",Studio Universal
 http://example.local/COL-STULM.ts
-#EXTINF:-1 tvg-chno="106734" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s90605_h3_ba.png" group-title="Colombia" tvg-id="STULCOH" tvc-guide-stationid="106734",Studio Universal
+#EXTINF:-1 tvg-chno="106734" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s90605_ll_h15_aa.png" group-title="Colombia" tvg-id="STULCOH" tvc-guide-stationid="106734",Studio Universal
 http://example.local/COL-STULCOH.ts
 #EXTINF:-1 tvg-chno="62672" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s29017_h3_ba.png" group-title="Colombia" tvg-id="STULCO" tvc-guide-stationid="62672",Studio Universal
 http://example.local/COL-STULCO.ts
@@ -55,15 +55,15 @@ http://example.local/COL-STULARH.ts
 http://example.local/COL-SUNCH.ts
 #EXTINF:-1 tvg-chno="97333" tvg-name="Sun Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60329_ll_h15_aa.png" group-title="Colombia" tvg-id="SUNCHHD" tvc-guide-stationid="97333",Sun Channel HD
 http://example.local/COL-SUNCHHD.ts
-#EXTINF:-1 tvg-chno="99231" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s75073_h3_aa.png" group-title="Colombia" tvg-id="TBSESHD" tvc-guide-stationid="99231",TBS
+#EXTINF:-1 tvg-chno="99231" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s75073_ll_h15_ad.png" group-title="Colombia" tvg-id="TBSESHD" tvc-guide-stationid="99231",TBS
 http://example.local/COL-TBSESHD.ts
 #EXTINF:-1 tvg-chno="44824" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_ll_h15_ac.png" group-title="Colombia" tvg-id="TCMLI" tvc-guide-stationid="44824",TCM
 http://example.local/COL-TCMLI.ts
-#EXTINF:-1 tvg-chno="19246" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_h3_aa.png" group-title="Colombia" tvg-id="TCML" tvc-guide-stationid="19246",TCM
+#EXTINF:-1 tvg-chno="19246" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_ll_h15_ac.png" group-title="Colombia" tvg-id="TCML" tvc-guide-stationid="19246",TCM
 http://example.local/COL-TCML.ts
 #EXTINF:-1 tvg-chno="59036" tvg-name="Teen Nick" tvg-logo="https://zap2it.tmsimg.com/assets/s59036_ll_h15_ac.png" group-title="Colombia" tvg-id="TNCK" tvc-guide-stationid="59036",Teen Nick
 http://example.local/COL-TNCK.ts
-#EXTINF:-1 tvg-chno="72294" tvg-name="TeenNick" tvg-logo="https://zap2it.tmsimg.com/assets/s77783_ll_h15_ab.png" group-title="Colombia" tvg-id="NIKLAHD" tvc-guide-stationid="72294",TeenNick
+#EXTINF:-1 tvg-chno="72294" tvg-name="TeenNick" group-title="Colombia" tvg-id="NIKLAHD" tvc-guide-stationid="72294",TeenNick
 http://example.local/COL-NIKLAHD.ts
 #EXTINF:-1 tvg-chno="60278" tvg-name="Tele Medellin" tvg-logo="https://zap2it.tmsimg.com/assets/s60278_ll_h15_ac.png" group-title="Colombia" tvg-id="TELEMED" tvc-guide-stationid="60278",Tele Medellin
 http://example.local/COL-TELEMED.ts
@@ -151,10 +151,10 @@ http://example.local/COL-TNTL.ts
 http://example.local/COL-TNTLH.ts
 #EXTINF:-1 tvg-chno="11165" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Colombia" tvg-id="TNTI" tvc-guide-stationid="11165",TNT
 http://example.local/COL-TNTI.ts
-#EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Colombia" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
-http://example.local/COL-TNTLC.ts
 #EXTINF:-1 tvg-chno="106062" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Colombia" tvg-id="TNTLCHH" tvc-guide-stationid="106062",TNT
 http://example.local/COL-TNTLCHH.ts
+#EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_h3_ba.png" group-title="Colombia" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
+http://example.local/COL-TNTLC.ts
 #EXTINF:-1 tvg-chno="106742" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Colombia" tvg-id="TNTARHD" tvc-guide-stationid="106742",TNT
 http://example.local/COL-TNTARHD.ts
 #EXTINF:-1 tvg-chno="140026" tvg-name="TNT Novelas" tvg-logo="https://zap2it.tmsimg.com/assets/s140026_ll_h15_aa.png" group-title="Colombia" tvg-id="TNOVES" tvc-guide-stationid="140026",TNT Novelas
@@ -175,7 +175,7 @@ http://example.local/COL-TODONHD.ts
 http://example.local/COL-TOONCST.ts
 #EXTINF:-1 tvg-chno="63720" tvg-name="TV Agro" tvg-logo="https://zap2it.tmsimg.com/assets/s63720_ll_h15_aa.png" group-title="Colombia" tvg-id="TVAGRO" tvc-guide-stationid="63720",TV Agro
 http://example.local/COL-TVAGRO.ts
-#EXTINF:-1 tvg-chno="101395" tvg-name="TV Agro HD" tvg-logo="https://zap2it.tmsimg.com/assets/s63720_h3_aa.png" group-title="Colombia" tvg-id="TVAGRHD" tvc-guide-stationid="101395",TV Agro HD
+#EXTINF:-1 tvg-chno="101395" tvg-name="TV Agro HD" tvg-logo="https://zap2it.tmsimg.com/assets/s63720_ll_h15_aa.png" group-title="Colombia" tvg-id="TVAGRHD" tvc-guide-stationid="101395",TV Agro HD
 http://example.local/COL-TVAGRHD.ts
 #EXTINF:-1 tvg-chno="16046" tvg-name="TV Chile" tvg-logo="https://zap2it.tmsimg.com/assets/s16046_ll_h15_ab.png" group-title="Colombia" tvg-id="TVNI" tvc-guide-stationid="16046",TV Chile
 http://example.local/COL-TVNI.ts
@@ -239,7 +239,7 @@ http://example.local/COL-USAHD.ts
 http://example.local/COL-VEPTV.ts
 #EXTINF:-1 tvg-chno="99240" tvg-name="Ve Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s99240_h3_aa.png" group-title="Colombia" tvg-id="VEPTVHD" tvc-guide-stationid="99240",Ve Plus
 http://example.local/COL-VEPTVHD.ts
-#EXTINF:-1 tvg-chno="61067" tvg-name="Ve Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s99240_h3_aa.png" group-title="Colombia" tvg-id="VEPTVV" tvc-guide-stationid="61067",Ve Plus
+#EXTINF:-1 tvg-chno="61067" tvg-name="Ve Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s99240_ll_h15_aa.png" group-title="Colombia" tvg-id="VEPTVV" tvc-guide-stationid="61067",Ve Plus
 http://example.local/COL-VEPTVV.ts
 #EXTINF:-1 tvg-chno="41725" tvg-name="VENEVISION" tvg-logo="https://zap2it.tmsimg.com/assets/s41725_ll_h15_ad.png" group-title="Colombia" tvg-id="VENE" tvc-guide-stationid="41725",VENEVISION
 http://example.local/COL-VENE.ts
@@ -255,16 +255,16 @@ http://example.local/COL-VIAX.ts
 http://example.local/COL-VTV.ts
 #EXTINF:-1 tvg-chno="91499" tvg-name="W Radio" group-title="Colombia" tvg-id="WRADIOC" tvc-guide-stationid="91499",W Radio
 http://example.local/COL-WRADIOC.ts
-#EXTINF:-1 tvg-chno="101362" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Colombia" tvg-id="WARCOL" tvc-guide-stationid="101362",Warner Channel
+#EXTINF:-1 tvg-chno="101362" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_ll_h15_ae.png" group-title="Colombia" tvg-id="WARCOL" tvc-guide-stationid="101362",Warner Channel
 http://example.local/COL-WARCOL.ts
 #EXTINF:-1 tvg-chno="72166" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Colombia" tvg-id="WBLHD" tvc-guide-stationid="72166",Warner Channel
 http://example.local/COL-WBLHD.ts
 #EXTINF:-1 tvg-chno="105691" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_ll_h15_ae.png" group-title="Colombia" tvg-id="WOLEARH" tvc-guide-stationid="105691",Warner Channel
 http://example.local/COL-WOLEARH.ts
-#EXTINF:-1 tvg-chno="16213" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_ll_h15_ae.png" group-title="Colombia" tvg-id="WBL" tvc-guide-stationid="16213",Warner Channel
-http://example.local/COL-WBL.ts
 #EXTINF:-1 tvg-chno="45018" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Colombia" tvg-id="WBLA2" tvc-guide-stationid="45018",Warner Channel
 http://example.local/COL-WBLA2.ts
+#EXTINF:-1 tvg-chno="16213" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_ll_h15_ae.png" group-title="Colombia" tvg-id="WBL" tvc-guide-stationid="16213",Warner Channel
+http://example.local/COL-WBL.ts
 #EXTINF:-1 tvg-chno="112483" tvg-name="Win + Fútbol" tvg-logo="https://zap2it.tmsimg.com/assets/s112483_ll_h15_ac.png" group-title="Colombia" tvg-id="WINMAS" tvc-guide-stationid="112483",Win + Fútbol
 http://example.local/COL-WINMAS.ts
 #EXTINF:-1 tvg-chno="87031" tvg-name="Win Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s87031_ll_h15_ab.png" group-title="Colombia" tvg-id="WINSPRT" tvc-guide-stationid="87031",Win Sports

@@ -1,202 +1,512 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="97825" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Uruguay" tvg-id="GLDENH" tvc-guide-stationid="97825",Golden
-http://example.local/URY-GLDENH.ts
-#EXTINF:-1 tvg-chno="97833" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Uruguay" tvg-id="GLDENEH" tvc-guide-stationid="97833",Golden
-http://example.local/URY-GLDENEH.ts
-#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
-http://example.local/DOM-GLDEN.ts
-#EXTINF:-1 tvg-chno="16298" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="GLDENM" tvc-guide-stationid="16298",Golden
-http://example.local/DOM-GLDENM.ts
+#EXTINF:-1 tvg-chno="90383" tvg-name="Global Montreal DT SD (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s17406_ll_h15_ac.png" group-title="Canada" tvg-id="CKMIDTS" tvc-guide-stationid="90383",Global Montreal DT SD (GLOBAL)
+http://example.local/CAN-CKMIDTS.ts
+#EXTINF:-1 tvg-chno="72865" tvg-name="Global Montreal HD (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s72865_ll_h15_ab.png" group-title="Canada" tvg-id="CKMIDT" tvc-guide-stationid="72865",Global Montreal HD (GLOBAL)
+http://example.local/CAN-CKMIDT.ts
+#EXTINF:-1 tvg-chno="146047" tvg-name="Global News - Halifax" tvg-logo="https://zap2it.tmsimg.com/assets/s146047_ll_h15_aa.png" group-title="United States" tvg-id="CAGNEHA" tvc-guide-stationid="146047",Global News - Halifax
+http://example.local/USA-CAGNEHA.ts
+#EXTINF:-1 tvg-chno="146045" tvg-name="Global News - Montreal" tvg-logo="https://zap2it.tmsimg.com/assets/s146045_ll_h15_aa.png" group-title="United States" tvg-id="CAGNEMO" tvc-guide-stationid="146045",Global News - Montreal
+http://example.local/USA-CAGNEMO.ts
+#EXTINF:-1 tvg-chno="146046" tvg-name="Global News - Winnipeg" tvg-logo="https://zap2it.tmsimg.com/assets/s146046_ll_h15_aa.png" group-title="United States" tvg-id="CAGNEWI" tvc-guide-stationid="146046",Global News - Winnipeg
+http://example.local/USA-CAGNEWI.ts
+#EXTINF:-1 tvg-chno="114495" tvg-name="Global News BC" tvg-logo="https://zap2it.tmsimg.com/assets/s114495_ll_h15_ac.png" group-title="United States" tvg-id="CAGNEBC" tvc-guide-stationid="114495",Global News BC
+http://example.local/USA-CAGNEBC.ts
+#EXTINF:-1 tvg-chno="114493" tvg-name="Global News Calgary" tvg-logo="https://zap2it.tmsimg.com/assets/s114493_ll_h15_ac.png" group-title="United States" tvg-id="CAGNECL" tvc-guide-stationid="114493",Global News Calgary
+http://example.local/USA-CAGNECL.ts
+#EXTINF:-1 tvg-chno="114494" tvg-name="Global News Canada" tvg-logo="https://zap2it.tmsimg.com/assets/s114494_ll_h15_ac.png" group-title="United States" tvg-id="CAGNEWS" tvc-guide-stationid="114494",Global News Canada
+http://example.local/USA-CAGNEWS.ts
+#EXTINF:-1 tvg-chno="114496" tvg-name="Global News Edmonton" tvg-logo="https://zap2it.tmsimg.com/assets/s114496_ll_h15_ac.png" group-title="United States" tvg-id="CAGNEED" tvc-guide-stationid="114496",Global News Edmonton
+http://example.local/USA-CAGNEED.ts
+#EXTINF:-1 tvg-chno="26602" tvg-name="Global News Radio 680 CJOB" group-title="Canada" tvg-id="CJOB" tvc-guide-stationid="26602",Global News Radio 680 CJOB
+http://example.local/CAN-CJOB.ts
+#EXTINF:-1 tvg-chno="114492" tvg-name="Global News Toronto" tvg-logo="https://zap2it.tmsimg.com/assets/s114492_ll_h15_ac.png" group-title="United States" tvg-id="CAGNETO" tvc-guide-stationid="114492",Global News Toronto
+http://example.local/USA-CAGNETO.ts
+#EXTINF:-1 tvg-chno="80150" tvg-name="Global News: BC1" tvg-logo="https://zap2it.tmsimg.com/assets/s80150_ll_h15_ac.png" group-title="Canada" tvg-id="GNBC1" tvc-guide-stationid="80150",Global News: BC1
+http://example.local/CAN-GNBC1.ts
+#EXTINF:-1 tvg-chno="80159" tvg-name="Global News: BC1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s80159_ll_h15_ab.png" group-title="Canada" tvg-id="GNBC1HD" tvc-guide-stationid="80159",Global News: BC1 HD
+http://example.local/CAN-GNBC1HD.ts
+#EXTINF:-1 tvg-chno="16100" tvg-name="Global Okanagan (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s16100_ll_h15_aa.png" group-title="Canada" tvg-id="CHBC" tvc-guide-stationid="16100",Global Okanagan (GLOBAL)
+http://example.local/CAN-CHBC.ts
+#EXTINF:-1 tvg-chno="90670" tvg-name="Global On Demand" group-title="Canada" tvg-id="GLODM" tvc-guide-stationid="90670",Global On Demand
+http://example.local/CAN-GLODM.ts
+#EXTINF:-1 tvg-chno="120697" tvg-name="Global Punjab" group-title="United States" tvg-id="GRVPG" tvc-guide-stationid="120697",Global Punjab
+http://example.local/USA-GRVPG.ts
+#EXTINF:-1 tvg-chno="17143" tvg-name="Global Regina (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s17143_ll_h15_aa.png" group-title="Canada" tvg-id="CFRE" tvc-guide-stationid="17143",Global Regina (GLOBAL)
+http://example.local/CAN-CFRE.ts
+#EXTINF:-1 tvg-chno="72842" tvg-name="Global Regina HD (GLOBAL)" tvg-logo="https://logos.jesmann.com/cfredt.png" group-title="Canada" tvg-id="CFREDT" tvc-guide-stationid="72842",Global Regina HD (GLOBAL)
+http://example.local/CAN-CFREDT.ts
+#EXTINF:-1 tvg-chno="15993" tvg-name="Global Saskatoon (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s15993_ll_h15_aa.png" group-title="Canada" tvg-id="CFSK" tvc-guide-stationid="15993",Global Saskatoon (GLOBAL)
+http://example.local/CAN-CFSK.ts
+#EXTINF:-1 tvg-chno="72018" tvg-name="Global Saskatoon HD (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s72018_ll_h15_ac.png" group-title="Canada" tvg-id="CFSKDT" tvc-guide-stationid="72018",Global Saskatoon HD (GLOBAL)
+http://example.local/CAN-CFSKDT.ts
+#EXTINF:-1 tvg-chno="15462" tvg-name="Global Thunder Bay (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s15462_ll_h15_aa.png" group-title="Canada" tvg-id="CHFD" tvc-guide-stationid="15462",Global Thunder Bay (GLOBAL)
+http://example.local/CAN-CHFD.ts
+#EXTINF:-1 tvg-chno="72877" tvg-name="Global Thunder Bay HD (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s72877_ll_h15_aa.png" group-title="Canada" tvg-id="CHFDDT" tvc-guide-stationid="72877",Global Thunder Bay HD (GLOBAL)
+http://example.local/CAN-CHFDDT.ts
+#EXTINF:-1 tvg-chno="10130" tvg-name="Global Toronto (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s10130_ll_h15_ab.png" group-title="Canada" tvg-id="CIII" tvc-guide-stationid="10130",Global Toronto (GLOBAL)
+http://example.local/CAN-CIII.ts
+#EXTINF:-1 tvg-chno="10130" tvg-name="Global Toronto (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s10130_ll_h15_ab.png" group-title="Turks and Caicos" tvg-id="CIII" tvc-guide-stationid="10130",Global Toronto (GLOBAL)
+http://example.local/TCA-CIII.ts
+#EXTINF:-1 tvg-chno="44792" tvg-name="Global Toronto HD (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s44792_ll_h15_ab.png" group-title="Canada" tvg-id="CIIIDT" tvc-guide-stationid="44792",Global Toronto HD (GLOBAL)
+http://example.local/CAN-CIIIDT.ts
+#EXTINF:-1 tvg-chno="44792" tvg-name="Global Toronto HD (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s44792_ll_h15_ab.png" group-title="United States" tvg-id="CIIIDT" tvc-guide-stationid="44792",Global Toronto HD (GLOBAL)
+http://example.local/USA-CIIIDT.ts
+#EXTINF:-1 tvg-chno="74724" tvg-name="Globecast ARTN" group-title="United States" tvg-id="ARTN" tvc-guide-stationid="74724",Globecast ARTN
+http://example.local/USA-ARTN.ts
+#EXTINF:-1 tvg-chno="42206" tvg-name="Globo" tvg-logo="https://zap2it.tmsimg.com/assets/s42206_ll_h15_cc.png" group-title="Mexico" tvg-id="REDEGL" tvc-guide-stationid="42206",Globo
+http://example.local/MEX-REDEGL.ts
+#EXTINF:-1 tvg-chno="42206" tvg-name="Globo" tvg-logo="https://zap2it.tmsimg.com/assets/s42206_ll_h15_cc.png" group-title="United States" tvg-id="REDEGL" tvc-guide-stationid="42206",Globo
+http://example.local/USA-REDEGL.ts
+#EXTINF:-1 tvg-chno="42206" tvg-name="Globo" tvg-logo="https://zap2it.tmsimg.com/assets/s42206_ll_h15_cc.png" group-title="Brazil" tvg-id="REDEGL" tvc-guide-stationid="42206",Globo
+http://example.local/BRA-REDEGL.ts
+#EXTINF:-1 tvg-chno="42206" tvg-name="Globo" tvg-logo="https://zap2it.tmsimg.com/assets/s42206_ll_h15_cc.png" group-title="Argentina" tvg-id="REDEGL" tvc-guide-stationid="42206",Globo
+http://example.local/ARG-REDEGL.ts
+#EXTINF:-1 tvg-chno="42206" tvg-name="Globo" tvg-logo="https://zap2it.tmsimg.com/assets/s42206_ll_h15_cc.png" group-title="Costa Rica" tvg-id="REDEGL" tvc-guide-stationid="42206",Globo
+http://example.local/CRI-REDEGL.ts
+#EXTINF:-1 tvg-chno="42206" tvg-name="Globo" tvg-logo="https://zap2it.tmsimg.com/assets/s42206_ll_h15_cc.png" group-title="Venezuela" tvg-id="REDEGL" tvc-guide-stationid="42206",Globo
+http://example.local/VEN-REDEGL.ts
+#EXTINF:-1 tvg-chno="42206" tvg-name="Globo" tvg-logo="https://zap2it.tmsimg.com/assets/s42206_ll_h15_cc.png" group-title="Guatemala" tvg-id="REDEGL" tvc-guide-stationid="42206",Globo
+http://example.local/GTM-REDEGL.ts
+#EXTINF:-1 tvg-chno="42206" tvg-name="Globo" tvg-logo="https://zap2it.tmsimg.com/assets/s42206_ll_h15_cc.png" group-title="Dominican Republic" tvg-id="REDEGL" tvc-guide-stationid="42206",Globo
+http://example.local/DOM-REDEGL.ts
+#EXTINF:-1 tvg-chno="42206" tvg-name="Globo" tvg-logo="https://zap2it.tmsimg.com/assets/s42206_ll_h15_cc.png" group-title="Uruguay" tvg-id="REDEGL" tvc-guide-stationid="42206",Globo
+http://example.local/URY-REDEGL.ts
+#EXTINF:-1 tvg-chno="42206" tvg-name="Globo" tvg-logo="https://zap2it.tmsimg.com/assets/s42206_ll_h15_cc.png" group-title="Panama" tvg-id="REDEGL" tvc-guide-stationid="42206",Globo
+http://example.local/PAN-REDEGL.ts
+#EXTINF:-1 tvg-chno="58940" tvg-name="Globo Belo Horizonte (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s58940_ll_h15_ce.png" group-title="Brazil" tvg-id="RGBELO" tvc-guide-stationid="58940",Globo Belo Horizonte (REDEGL)
+http://example.local/BRA-RGBELO.ts
+#EXTINF:-1 tvg-chno="103723" tvg-name="Globo Belo Horizonte HD (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s103723_ll_h15_ce.png" group-title="Brazil" tvg-id="RGBELOH" tvc-guide-stationid="103723",Globo Belo Horizonte HD (REDEGL)
+http://example.local/BRA-RGBELOH.ts
+#EXTINF:-1 tvg-chno="75844" tvg-name="Globo Brasília (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s75844_ll_h15_ce.png" group-title="Brazil" tvg-id="GLBBRAS" tvc-guide-stationid="75844",Globo Brasília (REDEGL)
+http://example.local/BRA-GLBBRAS.ts
+#EXTINF:-1 tvg-chno="98744" tvg-name="Globo Brasília HD (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s98744_ll_h15_ce.png" group-title="Brazil" tvg-id="GLBBRHD" tvc-guide-stationid="98744",Globo Brasília HD (REDEGL)
+http://example.local/BRA-GLBBRHD.ts
+#EXTINF:-1 tvg-chno="76135" tvg-name="Globo HD (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s76135_ll_h15_ce.png" group-title="Brazil" tvg-id="GLOBOH" tvc-guide-stationid="76135",Globo HD (REDEGL)
+http://example.local/BRA-GLOBOH.ts
+#EXTINF:-1 tvg-chno="76135" tvg-name="Globo HD (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s76135_ll_h15_ce.png" group-title="Colombia" tvg-id="GLOBOH" tvc-guide-stationid="76135",Globo HD (REDEGL)
+http://example.local/COL-GLOBOH.ts
+#EXTINF:-1 tvg-chno="104176" tvg-name="Globo Nordeste HD (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s104176_ll_h15_ad.png" group-title="Brazil" tvg-id="GLNORHD" tvc-guide-stationid="104176",Globo Nordeste HD (REDEGL)
+http://example.local/BRA-GLNORHD.ts
+#EXTINF:-1 tvg-chno="76937" tvg-name="Globo Rio (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s76937_ll_h15_cc.png" group-title="Brazil" tvg-id="GLBRJ" tvc-guide-stationid="76937",Globo Rio (REDEGL)
+http://example.local/BRA-GLBRJ.ts
+#EXTINF:-1 tvg-chno="98743" tvg-name="Globo Rio HD (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s98743_ll_h15_cc.png" group-title="Brazil" tvg-id="GLBRJHD" tvc-guide-stationid="98743",Globo Rio HD (REDEGL)
+http://example.local/BRA-GLBRJHD.ts
+#EXTINF:-1 tvg-chno="58984" tvg-name="Globo São Paulo (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s58984_ll_h15_ce.png" group-title="Brazil" tvg-id="RGSAOP" tvc-guide-stationid="58984",Globo São Paulo (REDEGL)
+http://example.local/BRA-RGSAOP.ts
+#EXTINF:-1 tvg-chno="99005" tvg-name="Globo São Paulo HD (BAND)" tvg-logo="https://zap2it.tmsimg.com/assets/s99005_ll_h15_ce.png" group-title="Canada" tvg-id="RGSPHD" tvc-guide-stationid="99005",Globo São Paulo HD (BAND)
+http://example.local/CAN-RGSPHD.ts
+#EXTINF:-1 tvg-chno="99005" tvg-name="Globo São Paulo HD (BAND)" tvg-logo="https://zap2it.tmsimg.com/assets/s99005_ll_h15_ce.png" group-title="Brazil" tvg-id="RGSPHD" tvc-guide-stationid="99005",Globo São Paulo HD (BAND)
+http://example.local/BRA-RGSPHD.ts
+#EXTINF:-1 tvg-chno="38310" tvg-name="GloboNews" tvg-logo="https://zap2it.tmsimg.com/assets/s38310_ll_h15_ac.png" group-title="Brazil" tvg-id="GLN" tvc-guide-stationid="38310",GloboNews
+http://example.local/BRA-GLN.ts
+#EXTINF:-1 tvg-chno="95744" tvg-name="GloboNews HD" tvg-logo="https://zap2it.tmsimg.com/assets/s95744_ll_h15_ac.png" group-title="Brazil" tvg-id="GLNHD" tvc-guide-stationid="95744",GloboNews HD
+http://example.local/BRA-GLNHD.ts
+#EXTINF:-1 tvg-chno="76116" tvg-name="Globoplay Novelas" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0022YTC8.png" group-title="Brazil" tvg-id="GPNOV" tvc-guide-stationid="76116",Globoplay Novelas
+http://example.local/BRA-GPNOV.ts
+#EXTINF:-1 tvg-chno="94120" tvg-name="Globoplay Novelas HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002334JJ.png" group-title="Brazil" tvg-id="GPNOVHD" tvc-guide-stationid="94120",Globoplay Novelas HD
+http://example.local/BRA-GPNOVHD.ts
+#EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png" group-title="Chile" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
+http://example.local/CHL-GLOVIS.ts
+#EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png" group-title="Costa Rica" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
+http://example.local/CRI-GLOVIS.ts
+#EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png" group-title="Venezuela" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
+http://example.local/VEN-GLOVIS.ts
+#EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png" group-title="Guatemala" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
+http://example.local/GTM-GLOVIS.ts
+#EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png" group-title="Trinidad and Tobago" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
+http://example.local/TTO-GLOVIS.ts
+#EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
+http://example.local/VCT-GLOVIS.ts
+#EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png" group-title="Panama" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
+http://example.local/PAN-GLOVIS.ts
+#EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png" group-title="Barbados" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
+http://example.local/BRB-GLOVIS.ts
+#EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png" group-title="Dominica" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
+http://example.local/DMA-GLOVIS.ts
+#EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png" group-title="Grenada" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
+http://example.local/GRD-GLOVIS.ts
+#EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png" group-title="Antigua and Barbuda" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
+http://example.local/ATG-GLOVIS.ts
+#EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png" group-title="St. Lucia" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
+http://example.local/LCA-GLOVIS.ts
+#EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png" group-title="Curacao" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
+http://example.local/CUW-GLOVIS.ts
+#EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png" group-title="Aruba" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
+http://example.local/ABW-GLOVIS.ts
+#EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png" group-title="Anguilla" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
+http://example.local/AIA-GLOVIS.ts
+#EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png" group-title="St. Kitts and Nevis" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
+http://example.local/KNA-GLOVIS.ts
+#EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png" group-title="Saint Martin" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
+http://example.local/MAF-GLOVIS.ts
+#EXTINF:-1 tvg-chno="76914" tvg-name="Gloob" tvg-logo="https://zap2it.tmsimg.com/assets/s76914_ll_h15_ac.png" group-title="Brazil" tvg-id="GLOOB" tvc-guide-stationid="76914",Gloob
+http://example.local/BRA-GLOOB.ts
+#EXTINF:-1 tvg-chno="78083" tvg-name="Gloob HD" tvg-logo="https://zap2it.tmsimg.com/assets/s78083_ll_h15_ad.png" group-title="Brazil" tvg-id="GLOOBHD" tvc-guide-stationid="78083",Gloob HD
+http://example.local/BRA-GLOOBHD.ts
+#EXTINF:-1 tvg-chno="105759" tvg-name="Gloobinho" tvg-logo="https://zap2it.tmsimg.com/assets/s105759_ll_h15_aa.png" group-title="Brazil" tvg-id="GLBINHO" tvc-guide-stationid="105759",Gloobinho
+http://example.local/BRA-GLBINHO.ts
+#EXTINF:-1 tvg-chno="107894" tvg-name="GLOOBINHO HD" tvg-logo="https://zap2it.tmsimg.com/assets/s107894_ll_h15_aa.png" group-title="Brazil" tvg-id="GLBINHD" tvc-guide-stationid="107894",GLOOBINHO HD
+http://example.local/BRA-GLBINHD.ts
+#EXTINF:-1 tvg-chno="115004" tvg-name="Glory Kickboxing" tvg-logo="https://zap2it.tmsimg.com/assets/s115004_ll_h9_aa.png" group-title="Germany" tvg-id="PTVDEKB" tvc-guide-stationid="115004",Glory Kickboxing
+http://example.local/DEU-PTVDEKB.ts
+#EXTINF:-1 tvg-chno="131359" tvg-name="GLORY Kickboxing" tvg-logo="https://zap2it.tmsimg.com/assets/s131359_ll_h9_aa.png" group-title="United States" tvg-id="GLORY" tvc-guide-stationid="131359",GLORY Kickboxing
+http://example.local/USA-GLORY.ts
+#EXTINF:-1 tvg-chno="115120" tvg-name="Glory Kickboxing" tvg-logo="https://zap2it.tmsimg.com/assets/s115120_ll_h15_ab.png" group-title="United Kingdom" tvg-id="PTVUKGK" tvc-guide-stationid="115120",Glory Kickboxing
+http://example.local/GBR-PTVUKGK.ts
+#EXTINF:-1 tvg-chno="112694" tvg-name="Gloucester Leased Access (CBNNEWS)" tvg-logo="https://zap2it.tmsimg.com/assets/s109977_ll_h15_aa.png" group-title="United States" tvg-id="GLOUCLA" tvc-guide-stationid="112694",Gloucester Leased Access (CBNNEWS)
+http://example.local/USA-GLOUCLA.ts
+#EXTINF:-1 tvg-chno="60152" tvg-name="GMA Life TV" tvg-logo="https://zap2it.tmsimg.com/assets/s60152_ll_h9_aa.png" group-title="Canada" tvg-id="GMALIFE" tvc-guide-stationid="60152",GMA Life TV
+http://example.local/CAN-GMALIFE.ts
+#EXTINF:-1 tvg-chno="60152" tvg-name="GMA Life TV" tvg-logo="https://zap2it.tmsimg.com/assets/s60152_ll_h9_aa.png" group-title="United States" tvg-id="GMALIFE" tvc-guide-stationid="60152",GMA Life TV
+http://example.local/USA-GMALIFE.ts
+#EXTINF:-1 tvg-chno="122813" tvg-name="GMA LIFE TV (EASTERN)" group-title="United States" tvg-id="GMLFEST" tvc-guide-stationid="122813",GMA LIFE TV (EASTERN)
+http://example.local/USA-GMLFEST.ts
+#EXTINF:-1 tvg-chno="75448" tvg-name="GMA News TV" tvg-logo="https://zap2it.tmsimg.com/assets/s75448_ll_h9_aa.png" group-title="Canada" tvg-id="GMANEWS" tvc-guide-stationid="75448",GMA News TV
+http://example.local/CAN-GMANEWS.ts
+#EXTINF:-1 tvg-chno="75448" tvg-name="GMA News TV" tvg-logo="https://zap2it.tmsimg.com/assets/s75448_ll_h9_aa.png" group-title="United States" tvg-id="GMANEWS" tvc-guide-stationid="75448",GMA News TV
+http://example.local/USA-GMANEWS.ts
+#EXTINF:-1 tvg-chno="114405" tvg-name="GMA News TV Charter" group-title="United States" tvg-id="CHGMANW" tvc-guide-stationid="114405",GMA News TV Charter
+http://example.local/USA-CHGMANW.ts
+#EXTINF:-1 tvg-chno="46463" tvg-name="GMA Pinoy TV" tvg-logo="https://zap2it.tmsimg.com/assets/s46463_ll_h9_aa.png" group-title="Canada" tvg-id="GMAPNY" tvc-guide-stationid="46463",GMA Pinoy TV
+http://example.local/CAN-GMAPNY.ts
+#EXTINF:-1 tvg-chno="46463" tvg-name="GMA Pinoy TV" tvg-logo="https://zap2it.tmsimg.com/assets/s46463_ll_h9_aa.png" group-title="United States" tvg-id="GMAPNY" tvc-guide-stationid="46463",GMA Pinoy TV
+http://example.local/USA-GMAPNY.ts
+#EXTINF:-1 tvg-chno="48751" tvg-name="GMA PINOY TV 2" group-title="United States" tvg-id="GMAPNY2" tvc-guide-stationid="48751",GMA PINOY TV 2
+http://example.local/USA-GMAPNY2.ts
+#EXTINF:-1 tvg-chno="100699" tvg-name="GMA Pinoy TV East" tvg-logo="https://zap2it.tmsimg.com/assets/s46463_h3_ba.png" group-title="United States" tvg-id="GMAPNYE" tvc-guide-stationid="100699",GMA Pinoy TV East
+http://example.local/USA-GMAPNYE.ts
+#EXTINF:-1 tvg-chno="108485" tvg-name="GMU" tvg-logo="https://zap2it.tmsimg.com/assets/s108485_ll_h15_aa.png" group-title="United States" tvg-id="GMUHD" tvc-guide-stationid="108485",GMU
+http://example.local/USA-GMUHD.ts
+#EXTINF:-1 tvg-chno="40131" tvg-name="GNT" tvg-logo="https://zap2it.tmsimg.com/assets/s40131_ll_h15_ac.png" group-title="United States" tvg-id="GNT" tvc-guide-stationid="40131",GNT
+http://example.local/USA-GNT.ts
+#EXTINF:-1 tvg-chno="40131" tvg-name="GNT" tvg-logo="https://zap2it.tmsimg.com/assets/s40131_ll_h15_ac.png" group-title="Brazil" tvg-id="GNT" tvc-guide-stationid="40131",GNT
+http://example.local/BRA-GNT.ts
+#EXTINF:-1 tvg-chno="79019" tvg-name="GNT HD" tvg-logo="https://zap2it.tmsimg.com/assets/s79019_ll_h15_ac.png" group-title="Brazil" tvg-id="GNTHD" tvc-guide-stationid="79019",GNT HD
+http://example.local/BRA-GNTHD.ts
+#EXTINF:-1 tvg-chno="106885" tvg-name="Go Kids" group-title="Jamaica" tvg-id="GOKIDS" tvc-guide-stationid="106885",Go Kids
+http://example.local/JAM-GOKIDS.ts
+#EXTINF:-1 tvg-chno="106885" tvg-name="Go Kids" group-title="Trinidad and Tobago" tvg-id="GOKIDS" tvc-guide-stationid="106885",Go Kids
+http://example.local/TTO-GOKIDS.ts
+#EXTINF:-1 tvg-chno="154613" tvg-name="Go Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s154613_ll_h15_aa.png" group-title="United States" tvg-id="XPLUSGW" tvc-guide-stationid="154613",Go Wild
+http://example.local/USA-XPLUSGW.ts
+#EXTINF:-1 tvg-chno="183808" tvg-name="GO-TV CHANNEL" group-title="Italy" tvg-id="GOTVIT" tvc-guide-stationid="183808",GO-TV CHANNEL
+http://example.local/ITA-GOTVIT.ts
+#EXTINF:-1 tvg-chno="142419" tvg-name="GO-TV CHANNEL (LINEUP ONLY)" group-title="Poland" tvg-id="PACICON" tvc-guide-stationid="142419",GO-TV CHANNEL (LINEUP ONLY)
+http://example.local/POL-PACICON.ts
+#EXTINF:-1 tvg-chno="142419" tvg-name="GO-TV CHANNEL (LINEUP ONLY)" group-title="Belgium" tvg-id="PACICON" tvc-guide-stationid="142419",GO-TV CHANNEL (LINEUP ONLY)
+http://example.local/BEL-PACICON.ts
+#EXTINF:-1 tvg-chno="110439" tvg-name="GO242 Celebrations" group-title="Bahamas" tvg-id="PULS5" tvc-guide-stationid="110439",GO242 Celebrations
+http://example.local/BHS-PULS5.ts
+#EXTINF:-1 tvg-chno="98723" tvg-name="Go4It" tvg-logo="https://zap2it.tmsimg.com/assets/s98723_ll_h15_aa.png" group-title="United States" tvg-id="GO4IT" tvc-guide-stationid="98723",Go4It
+http://example.local/USA-GO4IT.ts
+#EXTINF:-1 tvg-chno="106149" tvg-name="GOAL" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027DRE3.png" group-title="Canada" tvg-id="GOAL" tvc-guide-stationid="106149",GOAL
+http://example.local/CAN-GOAL.ts
+#EXTINF:-1 tvg-chno="73923" tvg-name="GOAL SD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027DRQC.png" group-title="Canada" tvg-id="GOALSD" tvc-guide-stationid="73923",GOAL SD
+http://example.local/CAN-GOALSD.ts
+#EXTINF:-1 tvg-chno="26215" tvg-name="God" tvg-logo="https://zap2it.tmsimg.com/assets/s26215_ll_h15_ab.png" group-title="Norway" tvg-id="GODCH" tvc-guide-stationid="26215",God
+http://example.local/NOR-GODCH.ts
+#EXTINF:-1 tvg-chno="26215" tvg-name="God" tvg-logo="https://zap2it.tmsimg.com/assets/s26215_ll_h15_ab.png" group-title="Germany" tvg-id="GODCH" tvc-guide-stationid="26215",God
+http://example.local/DEU-GODCH.ts
+#EXTINF:-1 tvg-chno="26215" tvg-name="God" tvg-logo="https://zap2it.tmsimg.com/assets/s26215_ll_h15_ab.png" group-title="Poland" tvg-id="GODCH" tvc-guide-stationid="26215",God
+http://example.local/POL-GODCH.ts
+#EXTINF:-1 tvg-chno="26215" tvg-name="God" tvg-logo="https://zap2it.tmsimg.com/assets/s26215_ll_h15_ab.png" group-title="Belgium" tvg-id="GODCH" tvc-guide-stationid="26215",God
+http://example.local/BEL-GODCH.ts
+#EXTINF:-1 tvg-chno="26215" tvg-name="God" tvg-logo="https://zap2it.tmsimg.com/assets/s26215_ll_h15_ab.png" group-title="Netherlands" tvg-id="GODCH" tvc-guide-stationid="26215",God
+http://example.local/NLD-GODCH.ts
+#EXTINF:-1 tvg-chno="26215" tvg-name="God" tvg-logo="https://zap2it.tmsimg.com/assets/s26215_ll_h15_ab.png" group-title="Sweden" tvg-id="GODCH" tvc-guide-stationid="26215",God
+http://example.local/SWE-GODCH.ts
+#EXTINF:-1 tvg-chno="26215" tvg-name="God" tvg-logo="https://zap2it.tmsimg.com/assets/s26215_ll_h15_ab.png" group-title="Austria" tvg-id="GODCH" tvc-guide-stationid="26215",God
+http://example.local/AUT-GODCH.ts
+#EXTINF:-1 tvg-chno="26215" tvg-name="God" tvg-logo="https://zap2it.tmsimg.com/assets/s26215_ll_h15_ab.png" group-title="Italy" tvg-id="GODCH" tvc-guide-stationid="26215",God
+http://example.local/ITA-GODCH.ts
+#EXTINF:-1 tvg-chno="26215" tvg-name="God" tvg-logo="https://zap2it.tmsimg.com/assets/s26215_ll_h15_ab.png" group-title="United Kingdom" tvg-id="GODCH" tvc-guide-stationid="26215",God
+http://example.local/GBR-GODCH.ts
+#EXTINF:-1 tvg-chno="26215" tvg-name="God" tvg-logo="https://zap2it.tmsimg.com/assets/s26215_ll_h15_ab.png" group-title="Ireland" tvg-id="GODCH" tvc-guide-stationid="26215",God
+http://example.local/IRL-GODCH.ts
+#EXTINF:-1 tvg-chno="26215" tvg-name="God" tvg-logo="https://zap2it.tmsimg.com/assets/s26215_ll_h15_ab.png" group-title="Switzerland" tvg-id="GODCH" tvc-guide-stationid="26215",God
+http://example.local/CHE-GODCH.ts
+#EXTINF:-1 tvg-chno="52697" tvg-name="GOD TV" tvg-logo="https://zap2it.tmsimg.com/assets/s52697_h3_ba.png" group-title="Norway" tvg-id="GODTV" tvc-guide-stationid="52697",GOD TV
+http://example.local/NOR-GODTV.ts
+#EXTINF:-1 tvg-chno="52697" tvg-name="GOD TV" tvg-logo="https://zap2it.tmsimg.com/assets/s52697_h3_ba.png" group-title="Germany" tvg-id="GODTV" tvc-guide-stationid="52697",GOD TV
+http://example.local/DEU-GODTV.ts
+#EXTINF:-1 tvg-chno="52697" tvg-name="GOD TV" tvg-logo="https://zap2it.tmsimg.com/assets/s52697_h3_ba.png" group-title="United States" tvg-id="GODTV" tvc-guide-stationid="52697",GOD TV
+http://example.local/USA-GODTV.ts
+#EXTINF:-1 tvg-chno="30345" tvg-name="God's Learning Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s30345_ll_h9_aa.png" group-title="United States" tvg-id="GLC" tvc-guide-stationid="30345",God's Learning Channel
+http://example.local/USA-GLC.ts
+#EXTINF:-1 tvg-chno="114314" tvg-name="Godare" tvg-logo="https://zap2it.tmsimg.com/assets/s114314_ll_h15_aa.png" group-title="Sweden" tvg-id="MATKANS" tvc-guide-stationid="114314",Godare
+http://example.local/SWE-MATKANS.ts
+#EXTINF:-1 tvg-chno="203350" tvg-name="Godare HD" group-title="Finland" tvg-id="GODARE" tvc-guide-stationid="203350",Godare HD
+http://example.local/FIN-GODARE.ts
+#EXTINF:-1 tvg-chno="126480" tvg-name="GOL PERU" tvg-logo="https://zap2it.tmsimg.com/assets/s126480_ll_h15_aa.png" group-title="Peru" tvg-id="GOLPERU" tvc-guide-stationid="126480",GOL PERU
+http://example.local/PER-GOLPERU.ts
+#EXTINF:-1 tvg-chno="32161" tvg-name="GOL TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32161_ll_h15_aa.png" group-title="United States" tvg-id="GOLTV" tvc-guide-stationid="32161",GOL TV
+http://example.local/USA-GOLTV.ts
+#EXTINF:-1 tvg-chno="90356" tvg-name="GOL TV" tvg-logo="https://zap2it.tmsimg.com/assets/s90356_ll_h9_aa.png" group-title="United States" tvg-id="GOLTVES" tvc-guide-stationid="90356",GOL TV
+http://example.local/USA-GOLTVES.ts
+#EXTINF:-1 tvg-chno="32161" tvg-name="GOL TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32161_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="GOLTV" tvc-guide-stationid="32161",GOL TV
+http://example.local/PRI-GOLTV.ts
+#EXTINF:-1 tvg-chno="32161" tvg-name="GOL TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32161_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="GOLTV" tvc-guide-stationid="32161",GOL TV
+http://example.local/CYM-GOLTV.ts
+#EXTINF:-1 tvg-chno="32161" tvg-name="GOL TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32161_ll_h15_aa.png" group-title="Barbados" tvg-id="GOLTV" tvc-guide-stationid="32161",GOL TV
+http://example.local/BRB-GOLTV.ts
+#EXTINF:-1 tvg-chno="91279" tvg-name="Gol TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91279_ll_h15_ab.png" group-title="Spain" tvg-id="GOLTVSH" tvc-guide-stationid="91279",Gol TV HD
+http://example.local/ESP-GOLTVSH.ts
+#EXTINF:-1 tvg-chno="91279" tvg-name="Gol TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91279_ll_h15_ab.png" group-title="Panama" tvg-id="GOLTVSH" tvc-guide-stationid="91279",Gol TV HD
+http://example.local/PAN-GOLTVSH.ts
+#EXTINF:-1 tvg-chno="24442" tvg-name="Gold Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s24442_ll_h15_ab.png" group-title="United Kingdom" tvg-id="GOLDRAD" tvc-guide-stationid="24442",Gold Radio
+http://example.local/GBR-GOLDRAD.ts
+#EXTINF:-1 tvg-chno="24442" tvg-name="Gold Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s24442_ll_h15_ab.png" group-title="Ireland" tvg-id="GOLDRAD" tvc-guide-stationid="24442",Gold Radio
+http://example.local/IRL-GOLDRAD.ts
+#EXTINF:-1 tvg-chno="16298" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Mexico" tvg-id="GLDENM" tvc-guide-stationid="16298",Golden
+http://example.local/MEX-GLDENM.ts
+#EXTINF:-1 tvg-chno="97825" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Chile" tvg-id="GLDENH" tvc-guide-stationid="97825",Golden
+http://example.local/CHL-GLDENH.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Chile" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/CHL-GLDEN.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Colombia" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/COL-GLDEN.ts
+#EXTINF:-1 tvg-chno="97825" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Colombia" tvg-id="GLDENH" tvc-guide-stationid="97825",Golden
+http://example.local/COL-GLDENH.ts
+#EXTINF:-1 tvg-chno="97833" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_h3_aa.png" group-title="Colombia" tvg-id="GLDENEH" tvc-guide-stationid="97833",Golden
+http://example.local/COL-GLDENEH.ts
+#EXTINF:-1 tvg-chno="16298" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Colombia" tvg-id="GLDENM" tvc-guide-stationid="16298",Golden
+http://example.local/COL-GLDENM.ts
+#EXTINF:-1 tvg-chno="16298" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Peru" tvg-id="GLDENM" tvc-guide-stationid="16298",Golden
+http://example.local/PER-GLDENM.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Peru" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/PER-GLDEN.ts
+#EXTINF:-1 tvg-chno="97833" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_h3_aa.png" group-title="Argentina" tvg-id="GLDENEH" tvc-guide-stationid="97833",Golden
+http://example.local/ARG-GLDENEH.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Argentina" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/ARG-GLDEN.ts
+#EXTINF:-1 tvg-chno="97825" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Argentina" tvg-id="GLDENH" tvc-guide-stationid="97825",Golden
+http://example.local/ARG-GLDENH.ts
+#EXTINF:-1 tvg-chno="16298" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Argentina" tvg-id="GLDENM" tvc-guide-stationid="16298",Golden
+http://example.local/ARG-GLDENM.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Costa Rica" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/CRI-GLDEN.ts
+#EXTINF:-1 tvg-chno="16298" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Costa Rica" tvg-id="GLDENM" tvc-guide-stationid="16298",Golden
+http://example.local/CRI-GLDENM.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Venezuela" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/VEN-GLDEN.ts
+#EXTINF:-1 tvg-chno="97825" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Venezuela" tvg-id="GLDENH" tvc-guide-stationid="97825",Golden
+http://example.local/VEN-GLDENH.ts
+#EXTINF:-1 tvg-chno="97833" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_h3_aa.png" group-title="Venezuela" tvg-id="GLDENEH" tvc-guide-stationid="97833",Golden
+http://example.local/VEN-GLDENEH.ts
 #EXTINF:-1 tvg-chno="16298" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Guatemala" tvg-id="GLDENM" tvc-guide-stationid="16298",Golden
 http://example.local/GTM-GLDENM.ts
 #EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Guatemala" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
 http://example.local/GTM-GLDEN.ts
 #EXTINF:-1 tvg-chno="97825" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Guatemala" tvg-id="GLDENH" tvc-guide-stationid="97825",Golden
 http://example.local/GTM-GLDENH.ts
-#EXTINF:-1 tvg-chno="16298" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Aruba" tvg-id="GLDENM" tvc-guide-stationid="16298",Golden
-http://example.local/ABW-GLDENM.ts
-#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Aruba" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
-http://example.local/ABW-GLDEN.ts
-#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
-http://example.local/BES-GLDEN.ts
-#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="St. Lucia" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
-http://example.local/LCA-GLDEN.ts
-#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
-http://example.local/KNA-GLDEN.ts
-#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Dominica" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
-http://example.local/DMA-GLDEN.ts
-#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Barbados" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
-http://example.local/BRB-GLDEN.ts
+#EXTINF:-1 tvg-chno="97825" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Ecuador" tvg-id="GLDENH" tvc-guide-stationid="97825",Golden
+http://example.local/ECU-GLDENH.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Ecuador" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/ECU-GLDEN.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/DOM-GLDEN.ts
+#EXTINF:-1 tvg-chno="16298" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="GLDENM" tvc-guide-stationid="16298",Golden
+http://example.local/DOM-GLDENM.ts
+#EXTINF:-1 tvg-chno="97825" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Uruguay" tvg-id="GLDENH" tvc-guide-stationid="97825",Golden
+http://example.local/URY-GLDENH.ts
+#EXTINF:-1 tvg-chno="97833" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_h3_aa.png" group-title="Uruguay" tvg-id="GLDENEH" tvc-guide-stationid="97833",Golden
+http://example.local/URY-GLDENEH.ts
+#EXTINF:-1 tvg-chno="16298" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="GLDENM" tvc-guide-stationid="16298",Golden
+http://example.local/TTO-GLDENM.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/TTO-GLDEN.ts
 #EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
 http://example.local/VCT-GLDEN.ts
-#EXTINF:-1 tvg-chno="16298" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Curacao" tvg-id="GLDENM" tvc-guide-stationid="16298",Golden
-http://example.local/CUW-GLDENM.ts
-#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Curacao" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
-http://example.local/CUW-GLDEN.ts
-#EXTINF:-1 tvg-chno="58392" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Curacao" tvg-id="GLDENME" tvc-guide-stationid="58392",Golden
-http://example.local/CUW-GLDENME.ts
-#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Saint Martin" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
-http://example.local/MAF-GLDEN.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/BES-GLDEN.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Panama" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/PAN-GLDEN.ts
+#EXTINF:-1 tvg-chno="16298" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Panama" tvg-id="GLDENM" tvc-guide-stationid="16298",Golden
+http://example.local/PAN-GLDENM.ts
+#EXTINF:-1 tvg-chno="97825" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Panama" tvg-id="GLDENH" tvc-guide-stationid="97825",Golden
+http://example.local/PAN-GLDENH.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Barbados" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/BRB-GLDEN.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Dominica" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/DMA-GLDEN.ts
 #EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Grenada" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
 http://example.local/GRD-GLDEN.ts
 #EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
 http://example.local/ATG-GLDEN.ts
-#EXTINF:-1 tvg-chno="18999" tvg-name="Golden Eagle Broadcasting" tvg-logo="https://zap2it.tmsimg.com/assets/s18999_ll_h15_aa.png" group-title="United States" tvg-id="GEB" tvc-guide-stationid="18999",Golden Eagle Broadcasting
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="St. Lucia" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/LCA-GLDEN.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Curacao" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/CUW-GLDEN.ts
+#EXTINF:-1 tvg-chno="58392" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Curacao" tvg-id="GLDENME" tvc-guide-stationid="58392",Golden
+http://example.local/CUW-GLDENME.ts
+#EXTINF:-1 tvg-chno="16298" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Curacao" tvg-id="GLDENM" tvc-guide-stationid="16298",Golden
+http://example.local/CUW-GLDENM.ts
+#EXTINF:-1 tvg-chno="16298" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Aruba" tvg-id="GLDENM" tvc-guide-stationid="16298",Golden
+http://example.local/ABW-GLDENM.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Aruba" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/ABW-GLDEN.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Anguilla" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/AIA-GLDEN.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/KNA-GLDEN.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Saint Martin" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/MAF-GLDEN.ts
+#EXTINF:-1 tvg-chno="18999" tvg-name="Golden Eagle Broadcasting" tvg-logo="https://zap2it.tmsimg.com/assets/s18999_h3_aa.png" group-title="United States" tvg-id="GEB" tvc-guide-stationid="18999",Golden Eagle Broadcasting
 http://example.local/USA-GEB.ts
-#EXTINF:-1 tvg-chno="18999" tvg-name="Golden Eagle Broadcasting" tvg-logo="https://zap2it.tmsimg.com/assets/s18999_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="GEB" tvc-guide-stationid="18999",Golden Eagle Broadcasting
+#EXTINF:-1 tvg-chno="18999" tvg-name="Golden Eagle Broadcasting" tvg-logo="https://zap2it.tmsimg.com/assets/s18999_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="GEB" tvc-guide-stationid="18999",Golden Eagle Broadcasting
 http://example.local/TTO-GEB.ts
 #EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Mexico" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
 http://example.local/MEX-GOLDEDG.ts
-#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
-http://example.local/TTO-GOLDEDG.ts
-#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Panama" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
-http://example.local/PAN-GOLDEDG.ts
-#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Peru" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
-http://example.local/PER-GOLDEDG.ts
-#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Anguilla" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
-http://example.local/AIA-GOLDEDG.ts
+#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Chile" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
+http://example.local/CHL-GOLDEDG.ts
 #EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Colombia" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
 http://example.local/COL-GOLDEDG.ts
 #EXTINF:-1 tvg-chno="125012" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Colombia" tvg-id="GOLEDLA" tvc-guide-stationid="125012",Golden Edge
 http://example.local/COL-GOLEDLA.ts
+#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Peru" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
+http://example.local/PER-GOLDEDG.ts
 #EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Costa Rica" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
 http://example.local/CRI-GOLDEDG.ts
-#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Chile" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
-http://example.local/CHL-GOLDEDG.ts
-#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Ecuador" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
-http://example.local/ECU-GOLDEDG.ts
 #EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Venezuela" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
 http://example.local/VEN-GOLDEDG.ts
-#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Uruguay" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
-http://example.local/URY-GOLDEDG.ts
-#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Dominican Republic" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
-http://example.local/DOM-GOLDEDG.ts
 #EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Guatemala" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
 http://example.local/GTM-GOLDEDG.ts
-#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Aruba" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
-http://example.local/ABW-GOLDEDG.ts
-#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="St. Lucia" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
-http://example.local/LCA-GOLDEDG.ts
-#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="St. Kitts and Nevis" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
-http://example.local/KNA-GOLDEDG.ts
-#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Dominica" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
-http://example.local/DMA-GOLDEDG.ts
-#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Barbados" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
-http://example.local/BRB-GOLDEDG.ts
+#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Ecuador" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
+http://example.local/ECU-GOLDEDG.ts
+#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Dominican Republic" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
+http://example.local/DOM-GOLDEDG.ts
+#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Uruguay" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
+http://example.local/URY-GOLDEDG.ts
+#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
+http://example.local/TTO-GOLDEDG.ts
 #EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Saint Vincent and the Grenadines" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
 http://example.local/VCT-GOLDEDG.ts
-#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Curacao" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
-http://example.local/CUW-GOLDEDG.ts
-#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Saint Martin" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
-http://example.local/MAF-GOLDEDG.ts
+#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Panama" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
+http://example.local/PAN-GOLDEDG.ts
+#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Barbados" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
+http://example.local/BRB-GOLDEDG.ts
+#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Dominica" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
+http://example.local/DMA-GOLDEDG.ts
 #EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Grenada" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
 http://example.local/GRD-GOLDEDG.ts
 #EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Antigua and Barbuda" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
 http://example.local/ATG-GOLDEDG.ts
+#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="St. Lucia" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
+http://example.local/LCA-GOLDEDG.ts
+#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Curacao" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
+http://example.local/CUW-GOLDEDG.ts
+#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Aruba" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
+http://example.local/ABW-GOLDEDG.ts
+#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Anguilla" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
+http://example.local/AIA-GOLDEDG.ts
+#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="St. Kitts and Nevis" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
+http://example.local/KNA-GOLDEDG.ts
+#EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Saint Martin" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
+http://example.local/MAF-GOLDEDG.ts
 #EXTINF:-1 tvg-chno="19737" tvg-name="Golden Multiplex" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Mexico" tvg-id="GOLDM" tvc-guide-stationid="19737",Golden Multiplex
 http://example.local/MEX-GOLDM.ts
-#EXTINF:-1 tvg-chno="19737" tvg-name="Golden Multiplex" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Panama" tvg-id="GOLDM" tvc-guide-stationid="19737",Golden Multiplex
-http://example.local/PAN-GOLDM.ts
 #EXTINF:-1 tvg-chno="19737" tvg-name="Golden Multiplex" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Guatemala" tvg-id="GOLDM" tvc-guide-stationid="19737",Golden Multiplex
 http://example.local/GTM-GOLDM.ts
+#EXTINF:-1 tvg-chno="19737" tvg-name="Golden Multiplex" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Panama" tvg-id="GOLDM" tvc-guide-stationid="19737",Golden Multiplex
+http://example.local/PAN-GOLDM.ts
 #EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Mexico" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
 http://example.local/MEX-GOLDNHD.ts
-#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Trinidad and Tobago" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
-http://example.local/TTO-GOLDNHD.ts
-#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Panama" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
-http://example.local/PAN-GOLDNHD.ts
-#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Argentina" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
-http://example.local/ARG-GOLDNHD.ts
-#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Peru" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
-http://example.local/PER-GOLDNHD.ts
-#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Anguilla" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
-http://example.local/AIA-GOLDNHD.ts
-#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Colombia" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
-http://example.local/COL-GOLDNHD.ts
-#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Costa Rica" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
-http://example.local/CRI-GOLDNHD.ts
 #EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Chile" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
 http://example.local/CHL-GOLDNHD.ts
-#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Ecuador" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
-http://example.local/ECU-GOLDNHD.ts
+#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Colombia" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
+http://example.local/COL-GOLDNHD.ts
+#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Peru" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
+http://example.local/PER-GOLDNHD.ts
+#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Argentina" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
+http://example.local/ARG-GOLDNHD.ts
+#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Costa Rica" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
+http://example.local/CRI-GOLDNHD.ts
 #EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Venezuela" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
 http://example.local/VEN-GOLDNHD.ts
-#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Dominican Republic" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
-http://example.local/DOM-GOLDNHD.ts
 #EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Guatemala" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
 http://example.local/GTM-GOLDNHD.ts
-#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Aruba" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
-http://example.local/ABW-GOLDNHD.ts
-#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
-http://example.local/BES-GOLDNHD.ts
-#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="St. Lucia" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
-http://example.local/LCA-GOLDNHD.ts
-#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="St. Kitts and Nevis" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
-http://example.local/KNA-GOLDNHD.ts
-#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Dominica" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
-http://example.local/DMA-GOLDNHD.ts
-#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Barbados" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
-http://example.local/BRB-GOLDNHD.ts
+#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Ecuador" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
+http://example.local/ECU-GOLDNHD.ts
+#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Dominican Republic" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
+http://example.local/DOM-GOLDNHD.ts
+#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Trinidad and Tobago" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
+http://example.local/TTO-GOLDNHD.ts
 #EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Saint Vincent and the Grenadines" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
 http://example.local/VCT-GOLDNHD.ts
-#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Curacao" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
-http://example.local/CUW-GOLDNHD.ts
-#EXTINF:-1 tvg-chno="70718" tvg-name="Golden Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s68317_h3_aa.png" group-title="Curacao" tvg-id="GOLDNHE" tvc-guide-stationid="70718",Golden Plus
-http://example.local/CUW-GOLDNHE.ts
-#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Saint Martin" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
-http://example.local/MAF-GOLDNHD.ts
+#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
+http://example.local/BES-GOLDNHD.ts
+#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Panama" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
+http://example.local/PAN-GOLDNHD.ts
+#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Barbados" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
+http://example.local/BRB-GOLDNHD.ts
+#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Dominica" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
+http://example.local/DMA-GOLDNHD.ts
 #EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Grenada" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
 http://example.local/GRD-GOLDNHD.ts
 #EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Antigua and Barbuda" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
 http://example.local/ATG-GOLDNHD.ts
+#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="St. Lucia" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
+http://example.local/LCA-GOLDNHD.ts
+#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Curacao" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
+http://example.local/CUW-GOLDNHD.ts
+#EXTINF:-1 tvg-chno="70718" tvg-name="Golden Plus" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Curacao" tvg-id="GOLDNHE" tvc-guide-stationid="70718",Golden Plus
+http://example.local/CUW-GOLDNHE.ts
+#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Aruba" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
+http://example.local/ABW-GOLDNHD.ts
+#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Anguilla" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
+http://example.local/AIA-GOLDNHD.ts
+#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="St. Kitts and Nevis" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
+http://example.local/KNA-GOLDNHD.ts
+#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Saint Martin" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
+http://example.local/MAF-GOLDNHD.ts
+#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Mexico" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
+http://example.local/MEX-GPREMSD.ts
 #EXTINF:-1 tvg-chno="80596" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Mexico" tvg-id="GLDPREM" tvc-guide-stationid="80596",Golden Premier
 http://example.local/MEX-GLDPREM.ts
-#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_h3_ba.png" group-title="Mexico" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
-http://example.local/MEX-GPREMSD.ts
 #EXTINF:-1 tvg-chno="80660" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Mexico" tvg-id="GLDPRD2" tvc-guide-stationid="80660",Golden Premier
 http://example.local/MEX-GLDPRD2.ts
-#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_h3_ba.png" group-title="Panama" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
-http://example.local/PAN-GPREMSD.ts
-#EXTINF:-1 tvg-chno="80596" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Argentina" tvg-id="GLDPREM" tvc-guide-stationid="80596",Golden Premier
-http://example.local/ARG-GLDPREM.ts
-#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_h3_ba.png" group-title="Peru" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
-http://example.local/PER-GPREMSD.ts
-#EXTINF:-1 tvg-chno="80596" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Peru" tvg-id="GLDPREM" tvc-guide-stationid="80596",Golden Premier
-http://example.local/PER-GLDPREM.ts
-#EXTINF:-1 tvg-chno="80660" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Peru" tvg-id="GLDPRD2" tvc-guide-stationid="80660",Golden Premier
-http://example.local/PER-GLDPRD2.ts
-#EXTINF:-1 tvg-chno="80596" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Colombia" tvg-id="GLDPREM" tvc-guide-stationid="80596",Golden Premier
-http://example.local/COL-GLDPREM.ts
-#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_h3_ba.png" group-title="Costa Rica" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
-http://example.local/CRI-GPREMSD.ts
 #EXTINF:-1 tvg-chno="80596" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Chile" tvg-id="GLDPREM" tvc-guide-stationid="80596",Golden Premier
 http://example.local/CHL-GLDPREM.ts
+#EXTINF:-1 tvg-chno="80596" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Colombia" tvg-id="GLDPREM" tvc-guide-stationid="80596",Golden Premier
+http://example.local/COL-GLDPREM.ts
+#EXTINF:-1 tvg-chno="80596" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Peru" tvg-id="GLDPREM" tvc-guide-stationid="80596",Golden Premier
+http://example.local/PER-GLDPREM.ts
+#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Peru" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
+http://example.local/PER-GPREMSD.ts
+#EXTINF:-1 tvg-chno="80660" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Peru" tvg-id="GLDPRD2" tvc-guide-stationid="80660",Golden Premier
+http://example.local/PER-GLDPRD2.ts
+#EXTINF:-1 tvg-chno="80596" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Argentina" tvg-id="GLDPREM" tvc-guide-stationid="80596",Golden Premier
+http://example.local/ARG-GLDPREM.ts
+#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Costa Rica" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
+http://example.local/CRI-GPREMSD.ts
+#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Venezuela" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
+http://example.local/VEN-GPREMSD.ts
+#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Guatemala" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
+http://example.local/GTM-GPREMSD.ts
 #EXTINF:-1 tvg-chno="80596" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Ecuador" tvg-id="GLDPREM" tvc-guide-stationid="80596",Golden Premier
 http://example.local/ECU-GLDPREM.ts
-#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_h3_ba.png" group-title="Venezuela" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
-http://example.local/VEN-GPREMSD.ts
-#EXTINF:-1 tvg-chno="80596" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Uruguay" tvg-id="GLDPREM" tvc-guide-stationid="80596",Golden Premier
-http://example.local/URY-GLDPREM.ts
-#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_h3_ba.png" group-title="Uruguay" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
-http://example.local/URY-GPREMSD.ts
-#EXTINF:-1 tvg-chno="80660" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Uruguay" tvg-id="GLDPRD2" tvc-guide-stationid="80660",Golden Premier
-http://example.local/URY-GLDPRD2.ts
-#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_h3_ba.png" group-title="Dominican Republic" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
+#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
 http://example.local/DOM-GPREMSD.ts
 #EXTINF:-1 tvg-chno="80596" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="GLDPREM" tvc-guide-stationid="80596",Golden Premier
 http://example.local/DOM-GLDPREM.ts
-#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_h3_ba.png" group-title="Guatemala" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
-http://example.local/GTM-GPREMSD.ts
+#EXTINF:-1 tvg-chno="80596" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Uruguay" tvg-id="GLDPREM" tvc-guide-stationid="80596",Golden Premier
+http://example.local/URY-GLDPREM.ts
+#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Uruguay" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
+http://example.local/URY-GPREMSD.ts
+#EXTINF:-1 tvg-chno="80660" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Uruguay" tvg-id="GLDPRD2" tvc-guide-stationid="80660",Golden Premier
+http://example.local/URY-GLDPRD2.ts
+#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Panama" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
+http://example.local/PAN-GPREMSD.ts
 #EXTINF:-1 tvg-chno="80805" tvg-name="Golden Premier 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Mexico" tvg-id="GPRD2SD" tvc-guide-stationid="80805",Golden Premier 2
 http://example.local/MEX-GPRD2SD.ts
-#EXTINF:-1 tvg-chno="80805" tvg-name="Golden Premier 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Panama" tvg-id="GPRD2SD" tvc-guide-stationid="80805",Golden Premier 2
-http://example.local/PAN-GPRD2SD.ts
 #EXTINF:-1 tvg-chno="80805" tvg-name="Golden Premier 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Peru" tvg-id="GPRD2SD" tvc-guide-stationid="80805",Golden Premier 2
 http://example.local/PER-GPRD2SD.ts
-#EXTINF:-1 tvg-chno="80805" tvg-name="Golden Premier 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="GPRD2SD" tvc-guide-stationid="80805",Golden Premier 2
-http://example.local/DOM-GPRD2SD.ts
 #EXTINF:-1 tvg-chno="80805" tvg-name="Golden Premier 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Guatemala" tvg-id="GPRD2SD" tvc-guide-stationid="80805",Golden Premier 2
 http://example.local/GTM-GPRD2SD.ts
+#EXTINF:-1 tvg-chno="80805" tvg-name="Golden Premier 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="GPRD2SD" tvc-guide-stationid="80805",Golden Premier 2
+http://example.local/DOM-GPRD2SD.ts
+#EXTINF:-1 tvg-chno="80805" tvg-name="Golden Premier 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Panama" tvg-id="GPRD2SD" tvc-guide-stationid="80805",Golden Premier 2
+http://example.local/PAN-GPRD2SD.ts
 #EXTINF:-1 tvg-chno="104854" tvg-name="Golden State Warriors: NBA League Pass" tvg-logo="https://logos.jesmann.com/nbagsw.png" group-title="United States" tvg-id="NBAGSW" tvc-guide-stationid="104854",Golden State Warriors: NBA League Pass
 http://example.local/USA-NBAGSW.ts
 #EXTINF:-1 tvg-chno="83902" tvg-name="GoldStar TV" tvg-logo="https://zap2it.tmsimg.com/assets/s83902_ll_h15_ab.png" group-title="Germany" tvg-id="GOLDSTR" tvc-guide-stationid="83902",GoldStar TV
@@ -209,81 +519,81 @@ http://example.local/CHE-GOLDSTR.ts
 http://example.local/DEU-XMVGTV.ts
 #EXTINF:-1 tvg-chno="65384" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s65384_ll_h15_aa.png" group-title="Canada" tvg-id="GOLFBO" tvc-guide-stationid="65384",Golf Channel
 http://example.local/CAN-GOLFBO.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="United States" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/USA-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Mexico" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Mexico" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
 http://example.local/MEX-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Turks and Caicos" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/TCA-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/TTO-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Panama" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/PAN-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Bahamas" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/BHS-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Anguilla" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/AIA-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/PRI-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Cayman Islands" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/CYM-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Ecuador" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/ECU-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Jamaica" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/JAM-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Uruguay" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/URY-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Dominican Republic" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/DOM-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Aruba" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/ABW-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/BES-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Bermuda" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="United States" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/USA-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Bermuda" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
 http://example.local/BMU-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="St. Lucia" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/LCA-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/KNA-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Dominica" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/DMA-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Guyana" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/GUY-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Barbados" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/BRB-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Saint Vincent and the Grenadines" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Jamaica" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/JAM-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Puerto Rico" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/PRI-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Ecuador" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/ECU-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Dominican Republic" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/DOM-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Uruguay" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/URY-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Bahamas" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/BHS-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Cayman Islands" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/CYM-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Trinidad and Tobago" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/TTO-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Saint Vincent and the Grenadines" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
 http://example.local/VCT-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Curacao" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/CUW-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Saint Martin" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/MAF-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Grenada" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
-http://example.local/GRD-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Belize" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/BES-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Belize" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
 http://example.local/BLZ-GOLF.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Antigua and Barbuda" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Panama" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/PAN-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Barbados" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/BRB-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Turks and Caicos" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/TCA-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Dominica" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/DMA-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Grenada" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/GRD-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Antigua and Barbuda" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
 http://example.local/ATG-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="St. Lucia" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/LCA-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Curacao" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/CUW-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Aruba" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/ABW-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Anguilla" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/AIA-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="St. Kitts and Nevis" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/KNA-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Saint Martin" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/MAF-GOLF.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Guyana" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+http://example.local/GUY-GOLF.ts
 #EXTINF:-1 tvg-chno="65385" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65385_ll_h15_ab.png" group-title="Canada" tvg-id="GOLFHDB" tvc-guide-stationid="65385",Golf Channel HD
 http://example.local/CAN-GOLFHDB.ts
-#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61854_ll_h15_ab.png" group-title="United States" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
-http://example.local/USA-GOLFHD.ts
-#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61854_ll_h15_ab.png" group-title="Mexico" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
+#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFQBE.png" group-title="Mexico" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
 http://example.local/MEX-GOLFHD.ts
+#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFQBE.png" group-title="United States" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
+http://example.local/USA-GOLFHD.ts
 #EXTINF:-1 tvg-chno="103724" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103724_ll_h15_ae.png" group-title="Brazil" tvg-id="GOLFCHD" tvc-guide-stationid="103724",Golf Channel HD
 http://example.local/BRA-GOLFCHD.ts
-#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61854_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
-http://example.local/TTO-GOLFHD.ts
-#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61854_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
-http://example.local/PRI-GOLFHD.ts
-#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61854_ll_h15_ab.png" group-title="Colombia" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
-http://example.local/COL-GOLFHD.ts
-#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61854_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
-http://example.local/CYM-GOLFHD.ts
-#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61854_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
-http://example.local/DOM-GOLFHD.ts
-#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61854_ll_h15_ab.png" group-title="Bermuda" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
+#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFQBE.png" group-title="Bermuda" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
 http://example.local/BMU-GOLFHD.ts
-#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61854_ll_h15_ab.png" group-title="Barbados" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
+#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFQBE.png" group-title="Colombia" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
+http://example.local/COL-GOLFHD.ts
+#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFQBE.png" group-title="Puerto Rico" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
+http://example.local/PRI-GOLFHD.ts
+#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFQBE.png" group-title="Dominican Republic" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
+http://example.local/DOM-GOLFHD.ts
+#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFQBE.png" group-title="Cayman Islands" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
+http://example.local/CYM-GOLFHD.ts
+#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFQBE.png" group-title="Trinidad and Tobago" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
+http://example.local/TTO-GOLFHD.ts
+#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFQBE.png" group-title="Barbados" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
 http://example.local/BRB-GOLFHD.ts
 #EXTINF:-1 tvg-chno="75873" tvg-name="Golf Channel Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s75873_ll_h15_ab.png" group-title="Brazil" tvg-id="GOLFCH" tvc-guide-stationid="75873",Golf Channel Latin America
 http://example.local/BRA-GOLFCH.ts
@@ -303,56 +613,60 @@ http://example.local/POL-GOLFZPLSD.ts
 http://example.local/FRA-GOLFFRHD.ts
 #EXTINF:-1 tvg-chno="120276" tvg-name="Golf+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s120276_ll_h15_aa.png" group-title="Switzerland" tvg-id="GOLFFRHD" tvc-guide-stationid="120276",Golf+ HD
 http://example.local/CHE-GOLFFRHD.ts
-#EXTINF:-1 tvg-chno="114142" tvg-name="GOLFPASS" tvg-logo="https://zap2it.tmsimg.com/assets/s114142_ll_h15_ac.png" group-title="United States" tvg-id="PK24" tvc-guide-stationid="114142",GOLFPASS
+#EXTINF:-1 tvg-chno="114142" tvg-name="GOLFPASS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002JYGL4.png" group-title="United States" tvg-id="PK24" tvc-guide-stationid="114142",GOLFPASS
 http://example.local/USA-PK24.ts
 #EXTINF:-1 tvg-chno="33691" tvg-name="GOLTV (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s33691_ll_h15_aa.png" group-title="United States" tvg-id="GOLTVE" tvc-guide-stationid="33691",GOLTV (English)
 http://example.local/USA-GOLTVE.ts
-#EXTINF:-1 tvg-chno="33691" tvg-name="GOLTV (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s33691_ll_h15_aa.png" group-title="Panama" tvg-id="GOLTVE" tvc-guide-stationid="33691",GOLTV (English)
-http://example.local/PAN-GOLTVE.ts
 #EXTINF:-1 tvg-chno="33691" tvg-name="GOLTV (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s33691_ll_h15_aa.png" group-title="Argentina" tvg-id="GOLTVE" tvc-guide-stationid="33691",GOLTV (English)
 http://example.local/ARG-GOLTVE.ts
 #EXTINF:-1 tvg-chno="33691" tvg-name="GOLTV (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s33691_ll_h15_aa.png" group-title="Jamaica" tvg-id="GOLTVE" tvc-guide-stationid="33691",GOLTV (English)
 http://example.local/JAM-GOLTVE.ts
 #EXTINF:-1 tvg-chno="33691" tvg-name="GOLTV (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s33691_ll_h15_aa.png" group-title="Venezuela" tvg-id="GOLTVE" tvc-guide-stationid="33691",GOLTV (English)
 http://example.local/VEN-GOLTVE.ts
-#EXTINF:-1 tvg-chno="33691" tvg-name="GOLTV (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s33691_ll_h15_aa.png" group-title="Uruguay" tvg-id="GOLTVE" tvc-guide-stationid="33691",GOLTV (English)
-http://example.local/URY-GOLTVE.ts
+#EXTINF:-1 tvg-chno="33691" tvg-name="GOLTV (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s33691_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="GOLTVE" tvc-guide-stationid="33691",GOLTV (English)
+http://example.local/PRI-GOLTVE.ts
 #EXTINF:-1 tvg-chno="33691" tvg-name="GOLTV (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s33691_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="GOLTVE" tvc-guide-stationid="33691",GOLTV (English)
 http://example.local/DOM-GOLTVE.ts
-#EXTINF:-1 tvg-chno="33691" tvg-name="GOLTV (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s33691_ll_h15_aa.png" group-title="Aruba" tvg-id="GOLTVE" tvc-guide-stationid="33691",GOLTV (English)
-http://example.local/ABW-GOLTVE.ts
+#EXTINF:-1 tvg-chno="33691" tvg-name="GOLTV (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s33691_ll_h15_aa.png" group-title="Uruguay" tvg-id="GOLTVE" tvc-guide-stationid="33691",GOLTV (English)
+http://example.local/URY-GOLTVE.ts
 #EXTINF:-1 tvg-chno="33691" tvg-name="GOLTV (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s33691_ll_h15_aa.png" group-title="Belize" tvg-id="GOLTVE" tvc-guide-stationid="33691",GOLTV (English)
 http://example.local/BLZ-GOLTVE.ts
+#EXTINF:-1 tvg-chno="33691" tvg-name="GOLTV (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s33691_ll_h15_aa.png" group-title="Panama" tvg-id="GOLTVE" tvc-guide-stationid="33691",GOLTV (English)
+http://example.local/PAN-GOLTVE.ts
+#EXTINF:-1 tvg-chno="33691" tvg-name="GOLTV (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s33691_ll_h15_aa.png" group-title="Aruba" tvg-id="GOLTVE" tvc-guide-stationid="33691",GOLTV (English)
+http://example.local/ABW-GOLTVE.ts
 #EXTINF:-1 tvg-chno="69101" tvg-name="GOLTV (English) HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69101_ll_h15_aa.png" group-title="United States" tvg-id="GOLTVEH" tvc-guide-stationid="69101",GOLTV (English) HD
 http://example.local/USA-GOLTVEH.ts
 #EXTINF:-1 tvg-chno="68608" tvg-name="GOLTV International HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68608_ll_h15_aa.png" group-title="United States" tvg-id="GOLTVIH" tvc-guide-stationid="68608",GOLTV International HD
 http://example.local/USA-GOLTVIH.ts
-#EXTINF:-1 tvg-chno="54541" tvg-name="GolTV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s54541_ll_h15_aa.png" group-title="Panama" tvg-id="GOLTVL" tvc-guide-stationid="54541",GolTV Latin America
-http://example.local/PAN-GOLTVL.ts
-#EXTINF:-1 tvg-chno="54541" tvg-name="GolTV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s54541_ll_h15_aa.png" group-title="Peru" tvg-id="GOLTVL" tvc-guide-stationid="54541",GolTV Latin America
-http://example.local/PER-GOLTVL.ts
-#EXTINF:-1 tvg-chno="54541" tvg-name="GolTV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s54541_ll_h15_aa.png" group-title="Colombia" tvg-id="GOLTVL" tvc-guide-stationid="54541",GolTV Latin America
-http://example.local/COL-GOLTVL.ts
-#EXTINF:-1 tvg-chno="54541" tvg-name="GolTV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s54541_ll_h15_aa.png" group-title="Costa Rica" tvg-id="GOLTVL" tvc-guide-stationid="54541",GolTV Latin America
-http://example.local/CRI-GOLTVL.ts
 #EXTINF:-1 tvg-chno="54541" tvg-name="GolTV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s54541_ll_h15_aa.png" group-title="Chile" tvg-id="GOLTVL" tvc-guide-stationid="54541",GolTV Latin America
 http://example.local/CHL-GOLTVL.ts
+#EXTINF:-1 tvg-chno="54541" tvg-name="GolTV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s54541_ll_h15_aa.png" group-title="Colombia" tvg-id="GOLTVL" tvc-guide-stationid="54541",GolTV Latin America
+http://example.local/COL-GOLTVL.ts
+#EXTINF:-1 tvg-chno="54541" tvg-name="GolTV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s54541_ll_h15_aa.png" group-title="Peru" tvg-id="GOLTVL" tvc-guide-stationid="54541",GolTV Latin America
+http://example.local/PER-GOLTVL.ts
+#EXTINF:-1 tvg-chno="54541" tvg-name="GolTV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s54541_ll_h15_aa.png" group-title="Costa Rica" tvg-id="GOLTVL" tvc-guide-stationid="54541",GolTV Latin America
+http://example.local/CRI-GOLTVL.ts
 #EXTINF:-1 tvg-chno="54541" tvg-name="GolTV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s54541_ll_h15_aa.png" group-title="Venezuela" tvg-id="GOLTVL" tvc-guide-stationid="54541",GolTV Latin America
 http://example.local/VEN-GOLTVL.ts
+#EXTINF:-1 tvg-chno="54541" tvg-name="GolTV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s54541_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="GOLTVL" tvc-guide-stationid="54541",GolTV Latin America
+http://example.local/PRI-GOLTVL.ts
 #EXTINF:-1 tvg-chno="54541" tvg-name="GolTV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s54541_ll_h15_aa.png" group-title="Uruguay" tvg-id="GOLTVL" tvc-guide-stationid="54541",GolTV Latin America
 http://example.local/URY-GOLTVL.ts
-#EXTINF:-1 tvg-chno="100452" tvg-name="GolTV Latin America HD" tvg-logo="https://zap2it.tmsimg.com/assets/s54541_ll_h15_aa.png" group-title="Peru" tvg-id="GOLLAHD" tvc-guide-stationid="100452",GolTV Latin America HD
-http://example.local/PER-GOLLAHD.ts
+#EXTINF:-1 tvg-chno="54541" tvg-name="GolTV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s54541_ll_h15_aa.png" group-title="Panama" tvg-id="GOLTVL" tvc-guide-stationid="54541",GolTV Latin America
+http://example.local/PAN-GOLTVL.ts
 #EXTINF:-1 tvg-chno="100452" tvg-name="GolTV Latin America HD" tvg-logo="https://zap2it.tmsimg.com/assets/s54541_ll_h15_aa.png" group-title="Chile" tvg-id="GOLLAHD" tvc-guide-stationid="100452",GolTV Latin America HD
 http://example.local/CHL-GOLLAHD.ts
+#EXTINF:-1 tvg-chno="100452" tvg-name="GolTV Latin America HD" tvg-logo="https://zap2it.tmsimg.com/assets/s54541_ll_h15_aa.png" group-title="Peru" tvg-id="GOLLAHD" tvc-guide-stationid="100452",GolTV Latin America HD
+http://example.local/PER-GOLLAHD.ts
 #EXTINF:-1 tvg-chno="100452" tvg-name="GolTV Latin America HD" tvg-logo="https://zap2it.tmsimg.com/assets/s54541_ll_h15_aa.png" group-title="Venezuela" tvg-id="GOLLAHD" tvc-guide-stationid="100452",GolTV Latin America HD
 http://example.local/VEN-GOLLAHD.ts
 #EXTINF:-1 tvg-chno="100452" tvg-name="GolTV Latin America HD" tvg-logo="https://zap2it.tmsimg.com/assets/s54541_ll_h15_aa.png" group-title="Uruguay" tvg-id="GOLLAHD" tvc-guide-stationid="100452",GolTV Latin America HD
 http://example.local/URY-GOLLAHD.ts
-#EXTINF:-1 tvg-chno="75757" tvg-name="Gone Viral TV" tvg-logo="https://zap2it.tmsimg.com/assets/s75757_ll_h15_aa.png" group-title="Jamaica" tvg-id="GNVIRTV" tvc-guide-stationid="75757",Gone Viral TV
-http://example.local/JAM-GNVIRTV.ts
 #EXTINF:-1 tvg-chno="75757" tvg-name="Gone Viral TV" tvg-logo="https://zap2it.tmsimg.com/assets/s75757_ll_h15_aa.png" group-title="Bermuda" tvg-id="GNVIRTV" tvc-guide-stationid="75757",Gone Viral TV
 http://example.local/BMU-GNVIRTV.ts
+#EXTINF:-1 tvg-chno="75757" tvg-name="Gone Viral TV" tvg-logo="https://zap2it.tmsimg.com/assets/s75757_ll_h15_aa.png" group-title="Jamaica" tvg-id="GNVIRTV" tvc-guide-stationid="75757",Gone Viral TV
+http://example.local/JAM-GNVIRTV.ts
 #EXTINF:-1 tvg-chno="75757" tvg-name="Gone Viral TV" tvg-logo="https://zap2it.tmsimg.com/assets/s75757_ll_h15_aa.png" group-title="St. Lucia" tvg-id="GNVIRTV" tvc-guide-stationid="75757",Gone Viral TV
 http://example.local/LCA-GNVIRTV.ts
 #EXTINF:-1 tvg-chno="91102" tvg-name="Gong" group-title="France" tvg-id="GONG" tvc-guide-stationid="91102",Gong
@@ -365,10 +679,10 @@ http://example.local/FRA-GNGMAX.ts
 http://example.local/DEU-GOODFD.ts
 #EXTINF:-1 tvg-chno="34898" tvg-name="Good Food +1" tvg-logo="https://zap2it.tmsimg.com/assets/s34898_ll_h15_aa.png" group-title="Germany" tvg-id="GOODFD1" tvc-guide-stationid="34898",Good Food +1
 http://example.local/DEU-GOODFD1.ts
-#EXTINF:-1 tvg-chno="118533" tvg-name="Good News TV" tvg-logo="https://zap2it.tmsimg.com/assets/s118533_ll_h9_aa.png" group-title="United Kingdom" tvg-id="GOODNEWS" tvc-guide-stationid="118533",Good News TV
-http://example.local/GBR-GOODNEWS.ts
 #EXTINF:-1 tvg-chno="118533" tvg-name="Good News TV" tvg-logo="https://zap2it.tmsimg.com/assets/s118533_ll_h9_aa.png" group-title="Belgium" tvg-id="GOODNEWS" tvc-guide-stationid="118533",Good News TV
 http://example.local/BEL-GOODNEWS.ts
+#EXTINF:-1 tvg-chno="118533" tvg-name="Good News TV" tvg-logo="https://zap2it.tmsimg.com/assets/s118533_ll_h9_aa.png" group-title="United Kingdom" tvg-id="GOODNEWS" tvc-guide-stationid="118533",Good News TV
+http://example.local/GBR-GOODNEWS.ts
 #EXTINF:-1 tvg-chno="103220" tvg-name="GOOD." tvg-logo="https://zap2it.tmsimg.com/assets/s103220_ll_h9_aa.png" group-title="Australia" tvg-id="ACCANZ" tvc-guide-stationid="103220",GOOD.
 http://example.local/AUS-ACCANZ.ts
 #EXTINF:-1 tvg-chno="169453" tvg-name="GoPro" group-title="United States" tvg-id="GOPRO" tvc-guide-stationid="169453",GoPro
@@ -393,13 +707,13 @@ http://example.local/USA-GTNET.ts
 http://example.local/USA-GTNETSD.ts
 #EXTINF:-1 tvg-chno="124225" tvg-name="GoTraveler" tvg-logo="https://zap2it.tmsimg.com/assets/s124225_ll_h15_aa.png" group-title="United States" tvg-id="GOTRAV" tvc-guide-stationid="124225",GoTraveler
 http://example.local/USA-GOTRAV.ts
-#EXTINF:-1 tvg-chno="148728" tvg-name="GoUSA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s123897_h3_aa.png" group-title="United States" tvg-id="GOUSA" tvc-guide-stationid="148728",GoUSA TV
+#EXTINF:-1 tvg-chno="148728" tvg-name="GoUSA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s123897_ll_h15_aa.png" group-title="United States" tvg-id="GOUSA" tvc-guide-stationid="148728",GoUSA TV
 http://example.local/USA-GOUSA.ts
 #EXTINF:-1 tvg-chno="123897" tvg-name="GoUSA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s123897_ll_h15_aa.png" group-title="United States" tvg-id="GOUSATV" tvc-guide-stationid="123897",GoUSA TV
 http://example.local/USA-GOUSATV.ts
 #EXTINF:-1 tvg-chno="123897" tvg-name="GoUSA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s123897_ll_h15_aa.png" group-title="United Kingdom" tvg-id="GOUSATV" tvc-guide-stationid="123897",GoUSA TV
 http://example.local/GBR-GOUSATV.ts
-#EXTINF:-1 tvg-chno="148728" tvg-name="GoUSA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s123897_h3_aa.png" group-title="United Kingdom" tvg-id="GOUSA" tvc-guide-stationid="148728",GoUSA TV
+#EXTINF:-1 tvg-chno="148728" tvg-name="GoUSA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s123897_ll_h15_aa.png" group-title="United Kingdom" tvg-id="GOUSA" tvc-guide-stationid="148728",GoUSA TV
 http://example.local/GBR-GOUSA.ts
 #EXTINF:-1 tvg-chno="121433" tvg-name="GOV Salt Lake City 17" group-title="United States" tvg-id="SLC17" tvc-guide-stationid="121433",GOV Salt Lake City 17
 http://example.local/USA-SLC17.ts
@@ -417,8 +731,12 @@ http://example.local/USA-GA.ts
 http://example.local/USA-GOVTAC.ts
 #EXTINF:-1 tvg-chno="106288" tvg-name="Government Access" group-title="United States" tvg-id="GOVC" tvc-guide-stationid="106288",Government Access
 http://example.local/USA-GOVC.ts
+#EXTINF:-1 tvg-chno="92639" tvg-name="Government Access" group-title="United States" tvg-id="GA3" tvc-guide-stationid="92639",Government Access
+http://example.local/USA-GA3.ts
 #EXTINF:-1 tvg-chno="95425" tvg-name="Government Access" group-title="United States" tvg-id="GATVCOM" tvc-guide-stationid="95425",Government Access
 http://example.local/USA-GATVCOM.ts
+#EXTINF:-1 tvg-chno="14787" tvg-name="Government Access - GOAC" group-title="Canada" tvg-id="GOAC" tvc-guide-stationid="14787",Government Access - GOAC
+http://example.local/CAN-GOAC.ts
 #EXTINF:-1 tvg-chno="14787" tvg-name="Government Access - GOAC" group-title="Bermuda" tvg-id="GOAC" tvc-guide-stationid="14787",Government Access - GOAC
 http://example.local/BMU-GOAC.ts
 #EXTINF:-1 tvg-chno="22215" tvg-name="Government Access - GOAC002" group-title="United States" tvg-id="GOAC002" tvc-guide-stationid="22215",Government Access - GOAC002
@@ -701,321 +1019,3 @@ http://example.local/USA-GOAC199.ts
 http://example.local/USA-GOAC214.ts
 #EXTINF:-1 tvg-chno="55726" tvg-name="Government Access - GOAC260" group-title="United States" tvg-id="GOAC260" tvc-guide-stationid="55726",Government Access - GOAC260
 http://example.local/USA-GOAC260.ts
-#EXTINF:-1 tvg-chno="55727" tvg-name="Government Access - GOAC261" group-title="United States" tvg-id="GOAC261" tvc-guide-stationid="55727",Government Access - GOAC261
-http://example.local/USA-GOAC261.ts
-#EXTINF:-1 tvg-chno="78899" tvg-name="Government Access - GOAC340" group-title="United States" tvg-id="GOAC340" tvc-guide-stationid="78899",Government Access - GOAC340
-http://example.local/USA-GOAC340.ts
-#EXTINF:-1 tvg-chno="78900" tvg-name="Government Access - GOAC341" group-title="United States" tvg-id="GOAC341" tvc-guide-stationid="78900",Government Access - GOAC341
-http://example.local/USA-GOAC341.ts
-#EXTINF:-1 tvg-chno="109862" tvg-name="Government Access - GOAC376" group-title="United States" tvg-id="GOAC376" tvc-guide-stationid="109862",Government Access - GOAC376
-http://example.local/USA-GOAC376.ts
-#EXTINF:-1 tvg-chno="109824" tvg-name="Government Access - GOAC378" group-title="United States" tvg-id="GOAC378" tvc-guide-stationid="109824",Government Access - GOAC378
-http://example.local/USA-GOAC378.ts
-#EXTINF:-1 tvg-chno="91897" tvg-name="Government Access - GOAC497" group-title="United States" tvg-id="GOAC497" tvc-guide-stationid="91897",Government Access - GOAC497
-http://example.local/USA-GOAC497.ts
-#EXTINF:-1 tvg-chno="91898" tvg-name="Government Access - GOAC498" group-title="United States" tvg-id="GOAC498" tvc-guide-stationid="91898",Government Access - GOAC498
-http://example.local/USA-GOAC498.ts
-#EXTINF:-1 tvg-chno="91942" tvg-name="Government Access - GOAC507" group-title="United States" tvg-id="GOAC507" tvc-guide-stationid="91942",Government Access - GOAC507
-http://example.local/USA-GOAC507.ts
-#EXTINF:-1 tvg-chno="109195" tvg-name="Government Access - GOAC516" group-title="United States" tvg-id="GOAC516" tvc-guide-stationid="109195",Government Access - GOAC516
-http://example.local/USA-GOAC516.ts
-#EXTINF:-1 tvg-chno="91697" tvg-name="Government Access - GOAC643" group-title="United States" tvg-id="GOAC643" tvc-guide-stationid="91697",Government Access - GOAC643
-http://example.local/USA-GOAC643.ts
-#EXTINF:-1 tvg-chno="111727" tvg-name="Government Access - GOAC661" group-title="United States" tvg-id="GOAC661" tvc-guide-stationid="111727",Government Access - GOAC661
-http://example.local/USA-GOAC661.ts
-#EXTINF:-1 tvg-chno="111729" tvg-name="Government Access - GOAC665" group-title="United States" tvg-id="GOAC665" tvc-guide-stationid="111729",Government Access - GOAC665
-http://example.local/USA-GOAC665.ts
-#EXTINF:-1 tvg-chno="63265" tvg-name="Government Access - GOAC725" group-title="United States" tvg-id="GOAC725" tvc-guide-stationid="63265",Government Access - GOAC725
-http://example.local/USA-GOAC725.ts
-#EXTINF:-1 tvg-chno="88207" tvg-name="Government Access - GOAC777" group-title="United States" tvg-id="GOAC777" tvc-guide-stationid="88207",Government Access - GOAC777
-http://example.local/USA-GOAC777.ts
-#EXTINF:-1 tvg-chno="59168" tvg-name="Government Access - GOAC851" group-title="United States" tvg-id="GOAC851" tvc-guide-stationid="59168",Government Access - GOAC851
-http://example.local/USA-GOAC851.ts
-#EXTINF:-1 tvg-chno="59169" tvg-name="Government Access - GOAC852" group-title="United States" tvg-id="GOAC852" tvc-guide-stationid="59169",Government Access - GOAC852
-http://example.local/USA-GOAC852.ts
-#EXTINF:-1 tvg-chno="59170" tvg-name="Government Access - GOAC853" group-title="United States" tvg-id="GOAC853" tvc-guide-stationid="59170",Government Access - GOAC853
-http://example.local/USA-GOAC853.ts
-#EXTINF:-1 tvg-chno="59172" tvg-name="Government Access - GOAC854" group-title="United States" tvg-id="GOAC854" tvc-guide-stationid="59172",Government Access - GOAC854
-http://example.local/USA-GOAC854.ts
-#EXTINF:-1 tvg-chno="59173" tvg-name="Government Access - GOAC855" group-title="United States" tvg-id="GOAC855" tvc-guide-stationid="59173",Government Access - GOAC855
-http://example.local/USA-GOAC855.ts
-#EXTINF:-1 tvg-chno="112942" tvg-name="Government Access - GOAC857" group-title="United States" tvg-id="GOAC857" tvc-guide-stationid="112942",Government Access - GOAC857
-http://example.local/USA-GOAC857.ts
-#EXTINF:-1 tvg-chno="59383" tvg-name="Government Access - GOAC915" group-title="United States" tvg-id="GOAC915" tvc-guide-stationid="59383",Government Access - GOAC915
-http://example.local/USA-GOAC915.ts
-#EXTINF:-1 tvg-chno="102675" tvg-name="Government Access - GOAC960" group-title="United States" tvg-id="GOAC960" tvc-guide-stationid="102675",Government Access - GOAC960
-http://example.local/USA-GOAC960.ts
-#EXTINF:-1 tvg-chno="102676" tvg-name="Government Access - GOAC961" group-title="United States" tvg-id="GOAC961" tvc-guide-stationid="102676",Government Access - GOAC961
-http://example.local/USA-GOAC961.ts
-#EXTINF:-1 tvg-chno="102677" tvg-name="Government Access - GOAC963" group-title="United States" tvg-id="GOAC963" tvc-guide-stationid="102677",Government Access - GOAC963
-http://example.local/USA-GOAC963.ts
-#EXTINF:-1 tvg-chno="102678" tvg-name="Government Access - GOAC964" group-title="United States" tvg-id="GOAC964" tvc-guide-stationid="102678",Government Access - GOAC964
-http://example.local/USA-GOAC964.ts
-#EXTINF:-1 tvg-chno="65339" tvg-name="Government Access - GOAC965" group-title="United States" tvg-id="GOAC965" tvc-guide-stationid="65339",Government Access - GOAC965
-http://example.local/USA-GOAC965.ts
-#EXTINF:-1 tvg-chno="109516" tvg-name="Government Access - GOAC966" group-title="United States" tvg-id="GOAC966" tvc-guide-stationid="109516",Government Access - GOAC966
-http://example.local/USA-GOAC966.ts
-#EXTINF:-1 tvg-chno="102679" tvg-name="Government Access - GOAC967" group-title="United States" tvg-id="GOAC967" tvc-guide-stationid="102679",Government Access - GOAC967
-http://example.local/USA-GOAC967.ts
-#EXTINF:-1 tvg-chno="64096" tvg-name="Government Access - GOAC983" group-title="United States" tvg-id="GOAC983" tvc-guide-stationid="64096",Government Access - GOAC983
-http://example.local/USA-GOAC983.ts
-#EXTINF:-1 tvg-chno="60455" tvg-name="Government Access - GOAC990" group-title="United States" tvg-id="GOAC990" tvc-guide-stationid="60455",Government Access - GOAC990
-http://example.local/USA-GOAC990.ts
-#EXTINF:-1 tvg-chno="60456" tvg-name="Government Access - GOAC991" group-title="United States" tvg-id="GOAC991" tvc-guide-stationid="60456",Government Access - GOAC991
-http://example.local/USA-GOAC991.ts
-#EXTINF:-1 tvg-chno="60457" tvg-name="Government Access - GOAC992" group-title="United States" tvg-id="GOAC992" tvc-guide-stationid="60457",Government Access - GOAC992
-http://example.local/USA-GOAC992.ts
-#EXTINF:-1 tvg-chno="64098" tvg-name="Government Access - GOAC993" group-title="United States" tvg-id="GOAC993" tvc-guide-stationid="64098",Government Access - GOAC993
-http://example.local/USA-GOAC993.ts
-#EXTINF:-1 tvg-chno="62046" tvg-name="Government Access - GOAC994" group-title="United States" tvg-id="GOAC994" tvc-guide-stationid="62046",Government Access - GOAC994
-http://example.local/USA-GOAC994.ts
-#EXTINF:-1 tvg-chno="65835" tvg-name="Government Access - GOAC995" group-title="United States" tvg-id="GOAC995" tvc-guide-stationid="65835",Government Access - GOAC995
-http://example.local/USA-GOAC995.ts
-#EXTINF:-1 tvg-chno="19874" tvg-name="Government Access - GOVACC" group-title="United States" tvg-id="GOVACC" tvc-guide-stationid="19874",Government Access - GOVACC
-http://example.local/USA-GOVACC.ts
-#EXTINF:-1 tvg-chno="92561" tvg-name="Government Access 1 HDTV" group-title="United States" tvg-id="GOVHD" tvc-guide-stationid="92561",Government Access 1 HDTV
-http://example.local/USA-GOVHD.ts
-#EXTINF:-1 tvg-chno="117303" tvg-name="Government Access Channel" group-title="United States" tvg-id="FMTV" tvc-guide-stationid="117303",Government Access Channel
-http://example.local/USA-FMTV.ts
-#EXTINF:-1 tvg-chno="93249" tvg-name="Government Access HDTV" group-title="United States" tvg-id="GVACCHD" tvc-guide-stationid="93249",Government Access HDTV
-http://example.local/USA-GVACCHD.ts
-#EXTINF:-1 tvg-chno="94345" tvg-name="Government Access in HD" group-title="United States" tvg-id="GOVCHD" tvc-guide-stationid="94345",Government Access in HD
-http://example.local/USA-GOVCHD.ts
-#EXTINF:-1 tvg-chno="94215" tvg-name="Government Access Morga" group-title="United States" tvg-id="GOVMORGA" tvc-guide-stationid="94215",Government Access Morga
-http://example.local/USA-GOVMORGA.ts
-#EXTINF:-1 tvg-chno="124397" tvg-name="Government Access Programming" group-title="United States" tvg-id="CTV7" tvc-guide-stationid="124397",Government Access Programming
-http://example.local/USA-CTV7.ts
-#EXTINF:-1 tvg-chno="111075" tvg-name="Government Access Programming HD" group-title="United States" tvg-id="CCTV217" tvc-guide-stationid="111075",Government Access Programming HD
-http://example.local/USA-CCTV217.ts
-#EXTINF:-1 tvg-chno="10844" tvg-name="Government Access-TV3-Lexington-Fayette" group-title="United States" tvg-id="KY3LE" tvc-guide-stationid="10844",Government Access-TV3-Lexington-Fayette
-http://example.local/USA-KY3LE.ts
-#EXTINF:-1 tvg-chno="64865" tvg-name="Government and Education" group-title="United States" tvg-id="GOVED" tvc-guide-stationid="64865",Government and Education
-http://example.local/USA-GOVED.ts
-#EXTINF:-1 tvg-chno="14785" tvg-name="Government Information" group-title="United States" tvg-id="GOIN" tvc-guide-stationid="14785",Government Information
-http://example.local/USA-GOIN.ts
-#EXTINF:-1 tvg-chno="64097" tvg-name="Government On Demand" group-title="United States" tvg-id="GOVTDM" tvc-guide-stationid="64097",Government On Demand
-http://example.local/USA-GOVTDM.ts
-#EXTINF:-1 tvg-chno="94601" tvg-name="Government Programming" group-title="United States" tvg-id="TST19" tvc-guide-stationid="94601",Government Programming
-http://example.local/USA-TST19.ts
-#EXTINF:-1 tvg-chno="95263" tvg-name="Government TV" group-title="United States" tvg-id="GOVNTV" tvc-guide-stationid="95263",Government TV
-http://example.local/USA-GOVNTV.ts
-#EXTINF:-1 tvg-chno="93591" tvg-name="Government/Educational Programming" group-title="United States" tvg-id="TUMTV" tvc-guide-stationid="93591",Government/Educational Programming
-http://example.local/USA-TUMTV.ts
-#EXTINF:-1 tvg-chno="105258" tvg-name="Government/Educational Programming HD" group-title="United States" tvg-id="TUMTVHD" tvc-guide-stationid="105258",Government/Educational Programming HD
-http://example.local/USA-TUMTVHD.ts
-#EXTINF:-1 tvg-chno="134116" tvg-name="GOVKIRK (SD Feed)" group-title="United States" tvg-id="GOVKIRSD" tvc-guide-stationid="134116",GOVKIRK (SD Feed)
-http://example.local/USA-GOVKIRSD.ts
-#EXTINF:-1 tvg-chno="134117" tvg-name="GOVKP (SD Feed)" group-title="United States" tvg-id="GOVKPSD" tvc-guide-stationid="134117",GOVKP (SD Feed)
-http://example.local/USA-GOVKPSD.ts
-#EXTINF:-1 tvg-chno="93162" tvg-name="Govt. Access & LO Programming" group-title="United States" tvg-id="GALO" tvc-guide-stationid="93162",Govt. Access & LO Programming
-http://example.local/USA-GALO.ts
-#EXTINF:-1 tvg-chno="131888" tvg-name="GQ" tvg-logo="https://zap2it.tmsimg.com/assets/s131888_ll_h15_aa.png" group-title="United States" tvg-id="GQ" tvc-guide-stationid="131888",GQ
-http://example.local/USA-GQ.ts
-#EXTINF:-1 tvg-chno="118289" tvg-name="GQ" group-title="United States" tvg-id="XALGQNT" tvc-guide-stationid="118289",GQ
-http://example.local/USA-XALGQNT.ts
-#EXTINF:-1 tvg-chno="63703" tvg-name="Gran Cine" tvg-logo="https://zap2it.tmsimg.com/assets/s63703_ll_h9_aa.png" group-title="United States" tvg-id="GRNCINE" tvc-guide-stationid="63703",Gran Cine
-http://example.local/USA-GRNCINE.ts
-#EXTINF:-1 tvg-chno="92995" tvg-name="Grand County Local Television" group-title="United States" tvg-id="GRNDCLT" tvc-guide-stationid="92995",Grand County Local Television
-http://example.local/USA-GRNDCLT.ts
-#EXTINF:-1 tvg-chno="124222" tvg-name="Grand Designs" tvg-logo="https://zap2it.tmsimg.com/assets/s124222_ll_h9_aa.png" group-title="United States" tvg-id="WAZGD" tvc-guide-stationid="124222",Grand Designs
-http://example.local/USA-WAZGD.ts
-#EXTINF:-1 tvg-chno="119719" tvg-name="Grand Genève TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119719_ll_h9_aa.png" group-title="Switzerland" tvg-id="GENEVE" tvc-guide-stationid="119719",Grand Genève TV HD
-http://example.local/CHE-GENEVE.ts
-#EXTINF:-1 tvg-chno="124017" tvg-name="Grandes Parejas" tvg-logo="https://zap2it.tmsimg.com/assets/s124017_ll_h15_ab.png" group-title="United States" tvg-id="GRNPA" tvc-guide-stationid="124017",Grandes Parejas
-http://example.local/USA-GRNPA.ts
-#EXTINF:-1 tvg-chno="124017" tvg-name="Grandes Parejas" tvg-logo="https://zap2it.tmsimg.com/assets/s124017_ll_h15_ab.png" group-title="Mexico" tvg-id="GRNPA" tvc-guide-stationid="124017",Grandes Parejas
-http://example.local/MEX-GRNPA.ts
-#EXTINF:-1 tvg-chno="110399" tvg-name="Grassroots Aspen HD" group-title="United States" tvg-id="GSRANHD" tvc-guide-stationid="110399",Grassroots Aspen HD
-http://example.local/USA-GSRANHD.ts
-#EXTINF:-1 tvg-chno="110398" tvg-name="Grassroots Aspen SD" group-title="United States" tvg-id="GSRAN" tvc-guide-stationid="110398",Grassroots Aspen SD
-http://example.local/USA-GSRAN.ts
-#EXTINF:-1 tvg-chno="128069" tvg-name="Gravitas Adrenaline" tvg-logo="https://zap2it.tmsimg.com/assets/s128069_ll_h9_aa.png" group-title="United States" tvg-id="ADREN" tvc-guide-stationid="128069",Gravitas Adrenaline
-http://example.local/USA-ADREN.ts
-#EXTINF:-1 tvg-chno="128069" tvg-name="Gravitas Adrenaline" tvg-logo="https://zap2it.tmsimg.com/assets/s128069_ll_h9_aa.png" group-title="United Kingdom" tvg-id="ADREN" tvc-guide-stationid="128069",Gravitas Adrenaline
-http://example.local/GBR-ADREN.ts
-#EXTINF:-1 tvg-chno="128068" tvg-name="Gravitas Documentaries" tvg-logo="https://zap2it.tmsimg.com/assets/s128068_ll_h9_aa.png" group-title="United States" tvg-id="GRAVDOC" tvc-guide-stationid="128068",Gravitas Documentaries
-http://example.local/USA-GRAVDOC.ts
-#EXTINF:-1 tvg-chno="128068" tvg-name="Gravitas Documentaries" tvg-logo="https://zap2it.tmsimg.com/assets/s128068_ll_h9_aa.png" group-title="United Kingdom" tvg-id="GRAVDOC" tvc-guide-stationid="128068",Gravitas Documentaries
-http://example.local/GBR-GRAVDOC.ts
-#EXTINF:-1 tvg-chno="124178" tvg-name="Gravitas Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s124178_ll_h15_aa.png" group-title="United States" tvg-id="XMVGM" tvc-guide-stationid="124178",Gravitas Movies
-http://example.local/USA-XMVGM.ts
-#EXTINF:-1 tvg-chno="119096" tvg-name="Gravitas Movies" group-title="United States" tvg-id="VIZGRMV" tvc-guide-stationid="119096",Gravitas Movies
-http://example.local/USA-VIZGRMV.ts
-#EXTINF:-1 tvg-chno="124178" tvg-name="Gravitas Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s124178_ll_h15_aa.png" group-title="United Kingdom" tvg-id="XMVGM" tvc-guide-stationid="124178",Gravitas Movies
-http://example.local/GBR-XMVGM.ts
-#EXTINF:-1 tvg-chno="120995" tvg-name="Gravity" group-title="United States" tvg-id="VIZGRAV" tvc-guide-stationid="120995",Gravity
-http://example.local/USA-VIZGRAV.ts
-#EXTINF:-1 tvg-chno="129134" tvg-name="Great American Adventures" tvg-logo="https://zap2it.tmsimg.com/assets/s129134_ll_h9_aa.png" group-title="United States" tvg-id="GADV" tvc-guide-stationid="129134",Great American Adventures
-http://example.local/USA-GADV.ts
-#EXTINF:-1 tvg-chno="43440" tvg-name="Great American Country On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s16062_h3_ba.png" group-title="United States" tvg-id="GACDM" tvc-guide-stationid="43440",Great American Country On Demand
-http://example.local/USA-GACDM.ts
-#EXTINF:-1 tvg-chno="90880" tvg-name="Great American Faith & Living" tvg-logo="https://zap2it.tmsimg.com/assets/s90880_ll_h15_ae.png" group-title="United States" tvg-id="GLIV" tvc-guide-stationid="90880",Great American Faith & Living
-http://example.local/USA-GLIV.ts
-#EXTINF:-1 tvg-chno="90858" tvg-name="Great American Faith & Living HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90858_ll_h15_ae.png" group-title="United States" tvg-id="GLIVHD" tvc-guide-stationid="90858",Great American Faith & Living HD
-http://example.local/USA-GLIVHD.ts
-#EXTINF:-1 tvg-chno="16062" tvg-name="Great American Family" tvg-logo="https://zap2it.tmsimg.com/assets/s16062_ll_h15_ad.png" group-title="United States" tvg-id="GFAM" tvc-guide-stationid="16062",Great American Family
-http://example.local/USA-GFAM.ts
-#EXTINF:-1 tvg-chno="82892" tvg-name="Great American Family HD" tvg-logo="https://zap2it.tmsimg.com/assets/s82892_ll_h15_ac.png" group-title="United States" tvg-id="GFAMHD" tvc-guide-stationid="82892",Great American Family HD
-http://example.local/USA-GFAMHD.ts
-#EXTINF:-1 tvg-chno="185948" tvg-name="Great American Family HD" tvg-logo="https://zap2it.tmsimg.com/assets/s82892_ll_h15_ac.png" group-title="United States" tvg-id="GFAMHDS" tvc-guide-stationid="185948",Great American Family HD
-http://example.local/USA-GFAMHDS.ts
-#EXTINF:-1 tvg-chno="127641" tvg-name="Great American Family West" tvg-logo="https://logos.jesmann.com/gfamp.png" group-title="United States" tvg-id="GFAMP" tvc-guide-stationid="127641",Great American Family West
-http://example.local/USA-GFAMP.ts
-#EXTINF:-1 tvg-chno="127642" tvg-name="Great American Family West HD" tvg-logo="https://logos.jesmann.com/gfamphd.png" group-title="United States" tvg-id="GFAMPHD" tvc-guide-stationid="127642",Great American Family West HD
-http://example.local/USA-GFAMPHD.ts
-#EXTINF:-1 tvg-chno="138878" tvg-name="Great British Menu" tvg-logo="https://zap2it.tmsimg.com/assets/s138878_ll_h9_aa.png" group-title="United States" tvg-id="GBM" tvc-guide-stationid="138878",Great British Menu
-http://example.local/USA-GBM.ts
-#EXTINF:-1 tvg-chno="124931" tvg-name="Great British Menu" tvg-logo="https://zap2it.tmsimg.com/assets/s124931_ll_h9_aa.png" group-title="United Kingdom" tvg-id="GBMENU" tvc-guide-stationid="124931",Great British Menu
-http://example.local/GBR-GBMENU.ts
-#EXTINF:-1 tvg-chno="148677" tvg-name="Great Christmas Mix" group-title="United Kingdom" tvg-id="GRXMAS" tvc-guide-stationid="148677",Great Christmas Mix
-http://example.local/GBR-GRXMAS.ts
-#EXTINF:-1 tvg-chno="63137" tvg-name="Great IDEAS for the products you need!" group-title="United States" tvg-id="DT270" tvc-guide-stationid="63137",Great IDEAS for the products you need!
-http://example.local/USA-DT270.ts
-#EXTINF:-1 tvg-chno="100262" tvg-name="Great Movies (VM)" tvg-logo="https://zap2it.tmsimg.com/assets/s100262_ll_h15_ab.png" group-title="United Kingdom" tvg-id="GRTMOVM" tvc-guide-stationid="100262",Great Movies (VM)
-http://example.local/GBR-GRTMOVM.ts
-#EXTINF:-1 tvg-chno="100261" tvg-name="Great Movies Action (VM)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028341L.png" group-title="United Kingdom" tvg-id="GRTMAVM" tvc-guide-stationid="100261",Great Movies Action (VM)
-http://example.local/GBR-GRTMAVM.ts
-#EXTINF:-1 tvg-chno="155053" tvg-name="Great Wall Elite" group-title="France" tvg-id="GREATWALL" tvc-guide-stationid="155053",Great Wall Elite
-http://example.local/FRA-GREATWALL.ts
-#EXTINF:-1 tvg-chno="121517" tvg-name="Great Wall Elite" tvg-logo="https://zap2it.tmsimg.com/assets/s121517_ll_h9_aa.png" group-title="United States" tvg-id="GRTWLE" tvc-guide-stationid="121517",Great Wall Elite
-http://example.local/USA-GRTWLE.ts
-#EXTINF:-1 tvg-chno="121518" tvg-name="Great Wall Fresh" group-title="United States" tvg-id="GRTWLF" tvc-guide-stationid="121518",Great Wall Fresh
-http://example.local/USA-GRTWLF.ts
-#EXTINF:-1 tvg-chno="46306" tvg-name="Great! Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027ESHS.png" group-title="United Kingdom" tvg-id="GRTMACT" tvc-guide-stationid="46306",Great! Action
-http://example.local/GBR-GRTMACT.ts
-#EXTINF:-1 tvg-chno="46306" tvg-name="Great! Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027ESHS.png" group-title="Ireland" tvg-id="GRTMACT" tvc-guide-stationid="46306",Great! Action
-http://example.local/IRL-GRTMACT.ts
-#EXTINF:-1 tvg-chno="46306" tvg-name="Great! Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027ESHS.png" group-title="Belgium" tvg-id="GRTMACT" tvc-guide-stationid="46306",Great! Action
-http://example.local/BEL-GRTMACT.ts
-#EXTINF:-1 tvg-chno="46306" tvg-name="Great! Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027ESHS.png" group-title="Netherlands" tvg-id="GRTMACT" tvc-guide-stationid="46306",Great! Action
-http://example.local/NLD-GRTMACT.ts
-#EXTINF:-1 tvg-chno="46306" tvg-name="Great! Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027ESHS.png" group-title="Switzerland" tvg-id="GRTMACT" tvc-guide-stationid="46306",Great! Action
-http://example.local/CHE-GRTMACT.ts
-#EXTINF:-1 tvg-chno="59406" tvg-name="Great! Action +1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027EKH1.png" group-title="United Kingdom" tvg-id="GRTMAP1" tvc-guide-stationid="59406",Great! Action +1
-http://example.local/GBR-GRTMAP1.ts
-#EXTINF:-1 tvg-chno="59406" tvg-name="Great! Action +1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027EKH1.png" group-title="Belgium" tvg-id="GRTMAP1" tvc-guide-stationid="59406",Great! Action +1
-http://example.local/BEL-GRTMAP1.ts
-#EXTINF:-1 tvg-chno="59406" tvg-name="Great! Action +1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027EKH1.png" group-title="Netherlands" tvg-id="GRTMAP1" tvc-guide-stationid="59406",Great! Action +1
-http://example.local/NLD-GRTMAP1.ts
-#EXTINF:-1 tvg-chno="44717" tvg-name="Great! Christmas" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BNYJ.png" group-title="United Kingdom" tvg-id="GREATRO" tvc-guide-stationid="44717",Great! Christmas
-http://example.local/GBR-GREATRO.ts
-#EXTINF:-1 tvg-chno="44717" tvg-name="Great! Christmas" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BNYJ.png" group-title="Ireland" tvg-id="GREATRO" tvc-guide-stationid="44717",Great! Christmas
-http://example.local/IRL-GREATRO.ts
-#EXTINF:-1 tvg-chno="44717" tvg-name="Great! Christmas" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BNYJ.png" group-title="Belgium" tvg-id="GREATRO" tvc-guide-stationid="44717",Great! Christmas
-http://example.local/BEL-GREATRO.ts
-#EXTINF:-1 tvg-chno="44717" tvg-name="Great! Christmas" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BNYJ.png" group-title="Netherlands" tvg-id="GREATRO" tvc-guide-stationid="44717",Great! Christmas
-http://example.local/NLD-GREATRO.ts
-#EXTINF:-1 tvg-chno="44717" tvg-name="Great! Christmas" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BNYJ.png" group-title="Switzerland" tvg-id="GREATRO" tvc-guide-stationid="44717",Great! Christmas
-http://example.local/CHE-GREATRO.ts
-#EXTINF:-1 tvg-chno="199471" tvg-name="Great! Movies" group-title="United Kingdom" tvg-id="GRTMOFV" tvc-guide-stationid="199471",Great! Movies
-http://example.local/GBR-GRTMOFV.ts
-#EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png" group-title="United Kingdom" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
-http://example.local/GBR-GRETMYS.ts
-#EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png" group-title="Ireland" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
-http://example.local/IRL-GRETMYS.ts
-#EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png" group-title="Belgium" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
-http://example.local/BEL-GRETMYS.ts
-#EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png" group-title="Netherlands" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
-http://example.local/NLD-GRETMYS.ts
-#EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png" group-title="Switzerland" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
-http://example.local/CHE-GRETMYS.ts
-#EXTINF:-1 tvg-chno="97281" tvg-name="Great! Mystery +1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BN0Z.png" group-title="United Kingdom" tvg-id="GRTMYP1" tvc-guide-stationid="97281",Great! Mystery +1
-http://example.local/GBR-GRTMYP1.ts
-#EXTINF:-1 tvg-chno="97281" tvg-name="Great! Mystery +1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BN0Z.png" group-title="Belgium" tvg-id="GRTMYP1" tvc-guide-stationid="97281",Great! Mystery +1
-http://example.local/BEL-GRTMYP1.ts
-#EXTINF:-1 tvg-chno="97281" tvg-name="Great! Mystery +1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BN0Z.png" group-title="Netherlands" tvg-id="GRTMYP1" tvc-guide-stationid="97281",Great! Mystery +1
-http://example.local/NLD-GRTMYP1.ts
-#EXTINF:-1 tvg-chno="50011" tvg-name="GREAT! Romance mix" tvg-logo="https://zap2it.tmsimg.com/assets/s50011_ll_h15_af.png" group-title="United Kingdom" tvg-id="GRROMIX" tvc-guide-stationid="50011",GREAT! Romance mix
-http://example.local/GBR-GRROMIX.ts
-#EXTINF:-1 tvg-chno="50011" tvg-name="GREAT! Romance mix" tvg-logo="https://zap2it.tmsimg.com/assets/s50011_ll_h15_af.png" group-title="Belgium" tvg-id="GRROMIX" tvc-guide-stationid="50011",GREAT! Romance mix
-http://example.local/BEL-GRROMIX.ts
-#EXTINF:-1 tvg-chno="50011" tvg-name="GREAT! Romance mix" tvg-logo="https://zap2it.tmsimg.com/assets/s50011_ll_h15_af.png" group-title="Netherlands" tvg-id="GRROMIX" tvc-guide-stationid="50011",GREAT! Romance mix
-http://example.local/NLD-GRROMIX.ts
-#EXTINF:-1 tvg-chno="57747" tvg-name="Great! TV" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002GB9EE.png" group-title="United Kingdom" tvg-id="GREATUK" tvc-guide-stationid="57747",Great! TV
-http://example.local/GBR-GREATUK.ts
-#EXTINF:-1 tvg-chno="57747" tvg-name="Great! TV" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002GB9EE.png" group-title="Ireland" tvg-id="GREATUK" tvc-guide-stationid="57747",Great! TV
-http://example.local/IRL-GREATUK.ts
-#EXTINF:-1 tvg-chno="57747" tvg-name="Great! TV" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002GB9EE.png" group-title="Belgium" tvg-id="GREATUK" tvc-guide-stationid="57747",Great! TV
-http://example.local/BEL-GREATUK.ts
-#EXTINF:-1 tvg-chno="57747" tvg-name="Great! TV" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002GB9EE.png" group-title="Netherlands" tvg-id="GREATUK" tvc-guide-stationid="57747",Great! TV
-http://example.local/NLD-GREATUK.ts
-#EXTINF:-1 tvg-chno="57747" tvg-name="Great! TV" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002GB9EE.png" group-title="Switzerland" tvg-id="GREATUK" tvc-guide-stationid="57747",Great! TV
-http://example.local/CHE-GREATUK.ts
-#EXTINF:-1 tvg-chno="89657" tvg-name="Great! TV +1" tvg-logo="https://zap2it.tmsimg.com/assets/s89657_ll_h15_ac.png" group-title="United Kingdom" tvg-id="GRETP1A" tvc-guide-stationid="89657",Great! TV +1
-http://example.local/GBR-GRETP1A.ts
-#EXTINF:-1 tvg-chno="89657" tvg-name="Great! TV +1" tvg-logo="https://zap2it.tmsimg.com/assets/s89657_ll_h15_ac.png" group-title="Belgium" tvg-id="GRETP1A" tvc-guide-stationid="89657",Great! TV +1
-http://example.local/BEL-GRETP1A.ts
-#EXTINF:-1 tvg-chno="89657" tvg-name="Great! TV +1" tvg-logo="https://zap2it.tmsimg.com/assets/s89657_ll_h15_ac.png" group-title="Netherlands" tvg-id="GRETP1A" tvc-guide-stationid="89657",Great! TV +1
-http://example.local/NLD-GRETP1A.ts
-#EXTINF:-1 tvg-chno="130918" tvg-name="Greater Boston Employee Channel" group-title="United States" tvg-id="GBREC" tvc-guide-stationid="130918",Greater Boston Employee Channel
-http://example.local/USA-GBREC.ts
-#EXTINF:-1 tvg-chno="113916" tvg-name="Greater Northshire Local Community Media Educational" group-title="United States" tvg-id="GNAT3" tvc-guide-stationid="113916",Greater Northshire Local Community Media Educational
-http://example.local/USA-GNAT3.ts
-#EXTINF:-1 tvg-chno="113934" tvg-name="Greater Northshire Local Community Media Government" group-title="United States" tvg-id="GNAT2" tvc-guide-stationid="113934",Greater Northshire Local Community Media Government
-http://example.local/USA-GNAT2.ts
-#EXTINF:-1 tvg-chno="113915" tvg-name="Greater Northshire Local Community Media Public" group-title="United States" tvg-id="GNAT1" tvc-guide-stationid="113915",Greater Northshire Local Community Media Public
-http://example.local/USA-GNAT1.ts
-#EXTINF:-1 tvg-chno="117252" tvg-name="Greatest Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s117252_ll_h15_aa.png" group-title="United Kingdom" tvg-id="SCALRAD" tvc-guide-stationid="117252",Greatest Hits
-http://example.local/GBR-SCALRAD.ts
-#EXTINF:-1 tvg-chno="120297" tvg-name="Greatest Hits Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s120297_ll_h15_aa.png" group-title="United Kingdom" tvg-id="GRHTR" tvc-guide-stationid="120297",Greatest Hits Radio
-http://example.local/GBR-GRHTR.ts
-#EXTINF:-1 tvg-chno="119097" tvg-name="Greatest Holiday Hits" group-title="United States" tvg-id="VIZGRHH" tvc-guide-stationid="119097",Greatest Holiday Hits
-http://example.local/USA-VIZGRHH.ts
-#EXTINF:-1 tvg-chno="77035" tvg-name="Greek Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s77035_ll_h9_aa.png" group-title="Canada" tvg-id="GRKCINE" tvc-guide-stationid="77035",Greek Cinema
-http://example.local/CAN-GRKCINE.ts
-#EXTINF:-1 tvg-chno="77035" tvg-name="Greek Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s77035_ll_h9_aa.png" group-title="United States" tvg-id="GRKCINE" tvc-guide-stationid="77035",Greek Cinema
-http://example.local/USA-GRKCINE.ts
-#EXTINF:-1 tvg-chno="89786" tvg-name="Greek Music Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s89786_ll_h9_aa.png" group-title="Canada" tvg-id="GRMC" tvc-guide-stationid="89786",Greek Music Channel
-http://example.local/CAN-GRMC.ts
-#EXTINF:-1 tvg-chno="138879" tvg-name="Green Acres" tvg-logo="https://zap2it.tmsimg.com/assets/s138879_ll_h15_aa.png" group-title="United States" tvg-id="GREENAC" tvc-guide-stationid="138879",Green Acres
-http://example.local/USA-GREENAC.ts
-#EXTINF:-1 tvg-chno="113901" tvg-name="Green Mountain Access Television" tvg-logo="https://zap2it.tmsimg.com/assets/s113901_ll_h15_aa.png" group-title="United States" tvg-id="GMATV" tvc-guide-stationid="113901",Green Mountain Access Television
-http://example.local/USA-GMATV.ts
-#EXTINF:-1 tvg-chno="112656" tvg-name="Greensburg Leased Access (CBNNEWS)" tvg-logo="https://zap2it.tmsimg.com/assets/s109977_ll_h15_aa.png" group-title="United States" tvg-id="GREENLA" tvc-guide-stationid="112656",Greensburg Leased Access (CBNNEWS)
-http://example.local/USA-GREENLA.ts
-#EXTINF:-1 tvg-chno="84250" tvg-name="Greifswald TV" tvg-logo="https://zap2it.tmsimg.com/assets/s84250_ll_h9_ab.png" group-title="Germany" tvg-id="GREIF" tvc-guide-stationid="84250",Greifswald TV
-http://example.local/DEU-GREIF.ts
-#EXTINF:-1 tvg-chno="89922" tvg-name="Grit" tvg-logo="https://zap2it.tmsimg.com/assets/s89922_h3_ba.png" group-title="United States" tvg-id="GRIT" tvc-guide-stationid="89922",Grit
-http://example.local/USA-GRIT.ts
-#EXTINF:-1 tvg-chno="89922" tvg-name="Grit" tvg-logo="https://zap2it.tmsimg.com/assets/s89922_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="GRIT" tvc-guide-stationid="89922",Grit
-http://example.local/TTO-GRIT.ts
-#EXTINF:-1 tvg-chno="89922" tvg-name="Grit" tvg-logo="https://zap2it.tmsimg.com/assets/s89922_h3_ba.png" group-title="Bahamas" tvg-id="GRIT" tvc-guide-stationid="89922",Grit
-http://example.local/BHS-GRIT.ts
-#EXTINF:-1 tvg-chno="112569" tvg-name="Grit HD" group-title="United States" tvg-id="GRITHD" tvc-guide-stationid="112569",Grit HD
-http://example.local/USA-GRITHD.ts
-#EXTINF:-1 tvg-chno="105514" tvg-name="GRIT TVC" group-title="United States" tvg-id="GRITTVC" tvc-guide-stationid="105514",GRIT TVC
-http://example.local/USA-GRITTVC.ts
-#EXTINF:-1 tvg-chno="105514" tvg-name="GRIT TVC" group-title="Jamaica" tvg-id="GRITTVC" tvc-guide-stationid="105514",GRIT TVC
-http://example.local/JAM-GRITTVC.ts
-#EXTINF:-1 tvg-chno="124040" tvg-name="Grit Xtra" tvg-logo="https://zap2it.tmsimg.com/assets/s124040_ll_h15_aa.png" group-title="United States" tvg-id="GRITX" tvc-guide-stationid="124040",Grit Xtra
-http://example.local/USA-GRITX.ts
-#EXTINF:-1 tvg-chno="134892" tvg-name="Grjngo" tvg-logo="https://zap2it.tmsimg.com/assets/s134892_ll_h9_ab.png" group-title="Germany" tvg-id="GRJNGO" tvc-guide-stationid="134892",Grjngo
-http://example.local/DEU-GRJNGO.ts
-#EXTINF:-1 tvg-chno="134892" tvg-name="Grjngo" tvg-logo="https://zap2it.tmsimg.com/assets/s134892_ll_h9_ab.png" group-title="United States" tvg-id="GRJNGO" tvc-guide-stationid="134892",Grjngo
-http://example.local/USA-GRJNGO.ts
-#EXTINF:-1 tvg-chno="134892" tvg-name="Grjngo" tvg-logo="https://zap2it.tmsimg.com/assets/s134892_ll_h9_ab.png" group-title="United Kingdom" tvg-id="GRJNGO" tvc-guide-stationid="134892",Grjngo
-http://example.local/GBR-GRJNGO.ts
-#EXTINF:-1 tvg-chno="134892" tvg-name="Grjngo" tvg-logo="https://zap2it.tmsimg.com/assets/s134892_ll_h9_ab.png" group-title="Switzerland" tvg-id="GRJNGO" tvc-guide-stationid="134892",Grjngo
-http://example.local/CHE-GRJNGO.ts
-#EXTINF:-1 tvg-chno="159990" tvg-name="Grjngo - Western Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s159990_ll_h15_aa.png" group-title="United States" tvg-id="GRJNGOS" tvc-guide-stationid="159990",Grjngo - Western Movies
-http://example.local/USA-GRJNGOS.ts
-#EXTINF:-1 tvg-chno="112111" tvg-name="Gronkh" group-title="Germany" tvg-id="GRONKH" tvc-guide-stationid="112111",Gronkh
-http://example.local/DEU-GRONKH.ts
-#EXTINF:-1 tvg-chno="115237" tvg-name="Groove (Disco & Funk)" tvg-logo="https://zap2it.tmsimg.com/assets/s115237_ll_h9_aa.png" group-title="Germany" tvg-id="GDFRAD" tvc-guide-stationid="115237",Groove (Disco & Funk)
-http://example.local/DEU-GDFRAD.ts
-#EXTINF:-1 tvg-chno="139576" tvg-name="Growing Up Hip Hop WE tv" tvg-logo="https://zap2it.tmsimg.com/assets/s139576_ll_h15_ab.png" group-title="United States" tvg-id="GUHHWE" tvc-guide-stationid="139576",Growing Up Hip Hop WE tv
-http://example.local/USA-GUHHWE.ts
-#EXTINF:-1 tvg-chno="44625" tvg-name="GRT GBA Satellite TV" tvg-logo="https://zap2it.tmsimg.com/assets/s44625_ll_h15_ac.png" group-title="Canada" tvg-id="GRTGBA" tvc-guide-stationid="44625",GRT GBA Satellite TV
-http://example.local/CAN-GRTGBA.ts
-#EXTINF:-1 tvg-chno="44625" tvg-name="GRT GBA Satellite TV" tvg-logo="https://zap2it.tmsimg.com/assets/s44625_ll_h15_ac.png" group-title="United States" tvg-id="GRTGBA" tvc-guide-stationid="44625",GRT GBA Satellite TV
-http://example.local/USA-GRTGBA.ts
-#EXTINF:-1 tvg-chno="119720" tvg-name="GRTV/TéléVersoix HD" group-title="Switzerland" tvg-id="GRTVVERS" tvc-guide-stationid="119720",GRTV/TéléVersoix HD
-http://example.local/CHE-GRTVVERS.ts
-#EXTINF:-1 tvg-chno="114745" tvg-name="grvty" group-title="United States" tvg-id="GRVTY" tvc-guide-stationid="114745",grvty
-http://example.local/USA-GRVTY.ts
-#EXTINF:-1 tvg-chno="185951" tvg-name="GS Channel" group-title="Italy" tvg-id="GSCHNL" tvc-guide-stationid="185951",GS Channel
-http://example.local/ITA-GSCHNL.ts
-#EXTINF:-1 tvg-chno="93894" tvg-name="GTN Local Gov't" group-title="United States" tvg-id="GTN" tvc-guide-stationid="93894",GTN Local Gov't
-http://example.local/USA-GTN.ts
-#EXTINF:-1 tvg-chno="91517" tvg-name="Guadeloupe 1ère" tvg-logo="https://zap2it.tmsimg.com/assets/s91517_ll_h15_aa.png" group-title="Jamaica" tvg-id="GUAD1CA" tvc-guide-stationid="91517",Guadeloupe 1ère
-http://example.local/JAM-GUAD1CA.ts

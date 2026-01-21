@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="126710" tvg-name="WCSH-DT7 (CONFESS)" tvg-logo="https://zap2it.tmsimg.com/assets/s161190_ll_h15_aa.png" group-title="United States" tvg-id="WCSHDT7" tvc-guide-stationid="126710",WCSH-DT7 (CONFESS)
+http://example.local/USA-WCSHDT7.ts
 #EXTINF:-1 tvg-chno="126717" tvg-name="WCSH-DT8 (GRIOTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s101752_ll_h15_ae.png" group-title="United States" tvg-id="WCSHDT8" tvc-guide-stationid="126717",WCSH-DT8 (GRIOTV)
 http://example.local/USA-WCSHDT8.ts
 #EXTINF:-1 tvg-chno="78752" tvg-name="WCSN-LD (MVIES)" tvg-logo="https://zap2it.tmsimg.com/assets/s81275_h3_ba.png" group-title="United States" tvg-id="WCSNLD" tvc-guide-stationid="78752",WCSN-LD (MVIES)
@@ -41,6 +43,8 @@ http://example.local/USA-WCTI.ts
 http://example.local/USA-WCTIDT.ts
 #EXTINF:-1 tvg-chno="73232" tvg-name="WCTI-DT2 (FOX)" tvg-logo="https://logos.jesmann.com/wctidt2.png" group-title="United States" tvg-id="WCTIDT2" tvc-guide-stationid="73232",WCTI-DT2 (FOX)
 http://example.local/USA-WCTIDT2.ts
+#EXTINF:-1 tvg-chno="200796" tvg-name="WCTI-DT2 (SD Feed) (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="United States" tvg-id="WCTI2SD" tvc-guide-stationid="200796",WCTI-DT2 (SD Feed) (FOX)
+http://example.local/USA-WCTI2SD.ts
 #EXTINF:-1 tvg-chno="24307" tvg-name="WCTI-DT3 (COMET)" tvg-logo="https://zap2it.tmsimg.com/assets/s97051_ll_h15_ab.png" group-title="United States" tvg-id="WCTIDT3" tvc-guide-stationid="24307",WCTI-DT3 (COMET)
 http://example.local/USA-WCTIDT3.ts
 #EXTINF:-1 tvg-chno="106858" tvg-name="WCTI-DT4 (CRIME)" tvg-logo="https://zap2it.tmsimg.com/assets/s91496_ll_h15_ab.png" group-title="United States" tvg-id="WCTIDT4" tvc-guide-stationid="106858",WCTI-DT4 (CRIME)
@@ -89,7 +93,7 @@ http://example.local/USA-WCTZLD6.ts
 http://example.local/USA-WCTZLD7.ts
 #EXTINF:-1 tvg-chno="198013" tvg-name="WCUH-LD6 (MVSGLD)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0026WLX6.png" group-title="United States" tvg-id="WCUHLD6" tvc-guide-stationid="198013",WCUH-LD6 (MVSGLD)
 http://example.local/USA-WCUHLD6.ts
-#EXTINF:-1 tvg-chno="11369" tvg-name="WCVB (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="United States" tvg-id="WCVB" tvc-guide-stationid="11369",WCVB (ABC)
+#EXTINF:-1 tvg-chno="11369" tvg-name="WCVB (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="United States" tvg-id="WCVB" tvc-guide-stationid="11369",WCVB (ABC)
 http://example.local/USA-WCVB.ts
 #EXTINF:-1 tvg-chno="195303" tvg-name="WCVB Channel 5 on Very Local" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002GM1VM.png" group-title="United States" tvg-id="VWCVB" tvc-guide-stationid="195303",WCVB Channel 5 on Very Local
 http://example.local/USA-VWCVB.ts
@@ -157,7 +161,7 @@ http://example.local/USA-WCWG.ts
 http://example.local/USA-WCWGDT.ts
 #EXTINF:-1 tvg-chno="67549" tvg-name="WCWG-DT2 (IMYS)" tvg-logo="https://zap2it.tmsimg.com/assets/s89923_ll_h15_ad.png" group-title="United States" tvg-id="WCWGDT2" tvc-guide-stationid="67549",WCWG-DT2 (IMYS)
 http://example.local/USA-WCWGDT2.ts
-#EXTINF:-1 tvg-chno="68132" tvg-name="WCWG-DT3 (LAFF)" tvg-logo="https://zap2it.tmsimg.com/assets/s92091_ll_h15_aa.png" group-title="United States" tvg-id="WCWGDT3" tvc-guide-stationid="68132",WCWG-DT3 (LAFF)
+#EXTINF:-1 tvg-chno="68132" tvg-name="WCWG-DT3 (LAFF)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NRDSC.png" group-title="United States" tvg-id="WCWGDT3" tvc-guide-stationid="68132",WCWG-DT3 (LAFF)
 http://example.local/USA-WCWGDT3.ts
 #EXTINF:-1 tvg-chno="73219" tvg-name="WCWG-DT4 (DABL)" tvg-logo="https://zap2it.tmsimg.com/assets/s112157_ll_h15_ab.png" group-title="United States" tvg-id="WCWGDT4" tvc-guide-stationid="73219",WCWG-DT4 (DABL)
 http://example.local/USA-WCWGDT4.ts
@@ -205,6 +209,10 @@ http://example.local/USA-WCYBCAB.ts
 http://example.local/USA-WCYBDT2.ts
 #EXTINF:-1 tvg-chno="29115" tvg-name="WCYB-DT3 (FOX)" tvg-logo="https://logos.jesmann.com/wcybdt3.png" group-title="United States" tvg-id="WCYBDT3" tvc-guide-stationid="29115",WCYB-DT3 (FOX)
 http://example.local/USA-WCYBDT3.ts
+#EXTINF:-1 tvg-chno="200750" tvg-name="WCYB-DT3 (HD Feed) (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="United States" tvg-id="WCYB3HC" tvc-guide-stationid="200750",WCYB-DT3 (HD Feed) (FOX)
+http://example.local/USA-WCYB3HC.ts
+#EXTINF:-1 tvg-chno="200751" tvg-name="WCYB-DT3 (SD Feed) (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="United States" tvg-id="WCYB3SC" tvc-guide-stationid="200751",WCYB-DT3 (SD Feed) (FOX)
+http://example.local/USA-WCYB3SC.ts
 #EXTINF:-1 tvg-chno="32695" tvg-name="WCYB-DT4 (CRIME)" tvg-logo="https://zap2it.tmsimg.com/assets/s91496_h3_ba.png" group-title="United States" tvg-id="WCYBDT4" tvc-guide-stationid="32695",WCYB-DT4 (CRIME)
 http://example.local/USA-WCYBDT4.ts
 #EXTINF:-1 tvg-chno="127818" tvg-name="WCYB-DT5 (REWIND)" tvg-logo="https://zap2it.tmsimg.com/assets/s119814_ll_h15_ab.png" group-title="United States" tvg-id="WCYBDT5" tvc-guide-stationid="127818",WCYB-DT5 (REWIND)
@@ -303,7 +311,7 @@ http://example.local/USA-WDBDDT2.ts
 http://example.local/USA-WDBDDT3.ts
 #EXTINF:-1 tvg-chno="114970" tvg-name="WDBD-DT4 (CRIME)" tvg-logo="https://zap2it.tmsimg.com/assets/s91496_ll_h15_ab.png" group-title="United States" tvg-id="WDBDDT4" tvc-guide-stationid="114970",WDBD-DT4 (CRIME)
 http://example.local/USA-WDBDDT4.ts
-#EXTINF:-1 tvg-chno="120247" tvg-name="WDBD-DT5 (GRIT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FEPV8.png" group-title="United States" tvg-id="WDBDDT5" tvc-guide-stationid="120247",WDBD-DT5 (GRIT)
+#EXTINF:-1 tvg-chno="120247" tvg-name="WDBD-DT5 (GRIT)" tvg-logo="https://zap2it.tmsimg.com/assets/s89922_h3_aa.png" group-title="United States" tvg-id="WDBDDT5" tvc-guide-stationid="120247",WDBD-DT5 (GRIT)
 http://example.local/USA-WDBDDT5.ts
 #EXTINF:-1 tvg-chno="11378" tvg-name="WDBJ (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="United States" tvg-id="WDBJ" tvc-guide-stationid="11378",WDBJ (CBS)
 http://example.local/USA-WDBJ.ts
@@ -363,7 +371,7 @@ http://example.local/USA-WDEFDT3.ts
 http://example.local/USA-WDEFDT4.ts
 #EXTINF:-1 tvg-chno="120015" tvg-name="WDEF-DT5 (COURT)" tvg-logo="https://zap2it.tmsimg.com/assets/s111043_ll_h15_aa.png" group-title="United States" tvg-id="WDEFDT5" tvc-guide-stationid="120015",WDEF-DT5 (COURT)
 http://example.local/USA-WDEFDT5.ts
-#EXTINF:-1 tvg-chno="122152" tvg-name="WDEF-DT6 (LAFF)" tvg-logo="https://zap2it.tmsimg.com/assets/s92091_ll_h15_aa.png" group-title="United States" tvg-id="WDEFDT6" tvc-guide-stationid="122152",WDEF-DT6 (LAFF)
+#EXTINF:-1 tvg-chno="122152" tvg-name="WDEF-DT6 (LAFF)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NRDSC.png" group-title="United States" tvg-id="WDEFDT6" tvc-guide-stationid="122152",WDEF-DT6 (LAFF)
 http://example.local/USA-WDEFDT6.ts
 #EXTINF:-1 tvg-chno="46284" tvg-name="WDEM-CD" group-title="United States" tvg-id="WDEMCD" tvc-guide-stationid="46284",WDEM-CD
 http://example.local/USA-WDEMCD.ts
@@ -427,7 +435,7 @@ http://example.local/USA-WDHN.ts
 http://example.local/USA-WDHNDT.ts
 #EXTINF:-1 tvg-chno="101684" tvg-name="WDHN-DT2 (IMYS)" tvg-logo="https://zap2it.tmsimg.com/assets/s89923_ll_h15_ad.png" group-title="United States" tvg-id="WDHNDT2" tvc-guide-stationid="101684",WDHN-DT2 (IMYS)
 http://example.local/USA-WDHNDT2.ts
-#EXTINF:-1 tvg-chno="101685" tvg-name="WDHN-DT3 (LAFF)" tvg-logo="https://zap2it.tmsimg.com/assets/s92091_ll_h15_aa.png" group-title="United States" tvg-id="WDHNDT3" tvc-guide-stationid="101685",WDHN-DT3 (LAFF)
+#EXTINF:-1 tvg-chno="101685" tvg-name="WDHN-DT3 (LAFF)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NRDSC.png" group-title="United States" tvg-id="WDHNDT3" tvc-guide-stationid="101685",WDHN-DT3 (LAFF)
 http://example.local/USA-WDHNDT3.ts
 #EXTINF:-1 tvg-chno="107245" tvg-name="WDHN-DT4 (ANTENNA)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y4HS.png" group-title="United States" tvg-id="WDHNDT4" tvc-guide-stationid="107245",WDHN-DT4 (ANTENNA)
 http://example.local/USA-WDHNDT4.ts
@@ -633,7 +641,7 @@ http://example.local/USA-WDPBDT2.ts
 http://example.local/USA-WDPBDT3.ts
 #EXTINF:-1 tvg-chno="64484" tvg-name="WDPM-DT (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_ba.png" group-title="United States" tvg-id="WDPMDT" tvc-guide-stationid="64484",WDPM-DT (DYSTR)
 http://example.local/USA-WDPMDT.ts
-#EXTINF:-1 tvg-chno="132646" tvg-name="WDPM-DT2 (DSTRESP)" tvg-logo="https://zap2it.tmsimg.com/assets/s132423_h3_aa.png" group-title="United States" tvg-id="WDPMDT2" tvc-guide-stationid="132646",WDPM-DT2 (DSTRESP)
+#EXTINF:-1 tvg-chno="132646" tvg-name="WDPM-DT2 (DSTRESP)" tvg-logo="https://zap2it.tmsimg.com/assets/s132423_ll_h15_aa.png" group-title="United States" tvg-id="WDPMDT2" tvc-guide-stationid="132646",WDPM-DT2 (DSTRESP)
 http://example.local/USA-WDPMDT2.ts
 #EXTINF:-1 tvg-chno="12771" tvg-name="WDPN (METVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" group-title="United States" tvg-id="WDPN" tvc-guide-stationid="12771",WDPN (METVN)
 http://example.local/USA-WDPN.ts
@@ -693,7 +701,7 @@ http://example.local/USA-WDRHLD3.ts
 http://example.local/USA-WDRHLD4.ts
 #EXTINF:-1 tvg-chno="130013" tvg-name="WDRH-LD5 (FAM)" tvg-logo="https://zap2it.tmsimg.com/assets/s87122_ll_h15_aa.png" group-title="United States" tvg-id="WDRHLD5" tvc-guide-stationid="130013",WDRH-LD5 (FAM)
 http://example.local/USA-WDRHLD5.ts
-#EXTINF:-1 tvg-chno="130018" tvg-name="WDRH-LD6 (REVIVAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s130720_h3_aa.png" group-title="United States" tvg-id="WDRHLD6" tvc-guide-stationid="130018",WDRH-LD6 (REVIVAL)
+#EXTINF:-1 tvg-chno="130018" tvg-name="WDRH-LD6 (REVIVAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s130720_ll_h15_aa.png" group-title="United States" tvg-id="WDRHLD6" tvc-guide-stationid="130018",WDRH-LD6 (REVIVAL)
 http://example.local/USA-WDRHLD6.ts
 #EXTINF:-1 tvg-chno="96974" tvg-name="WDRN-LD (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_ba.png" group-title="United States" tvg-id="WDRNLD" tvc-guide-stationid="96974",WDRN-LD (DYSTR)
 http://example.local/USA-WDRNLD.ts
@@ -767,7 +775,7 @@ http://example.local/USA-WDTI.ts
 http://example.local/USA-WDTIDT.ts
 #EXTINF:-1 tvg-chno="107593" tvg-name="WDTI-DT (SD Feed) (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_ba.png" group-title="United States" tvg-id="WDTISD" tvc-guide-stationid="107593",WDTI-DT (SD Feed) (DYSTR)
 http://example.local/USA-WDTISD.ts
-#EXTINF:-1 tvg-chno="110351" tvg-name="WDTJ-LD (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y563.png" group-title="United States" tvg-id="WDTJLD" tvc-guide-stationid="110351",WDTJ-LD (DYSTR)
+#EXTINF:-1 tvg-chno="110351" tvg-name="WDTJ-LD (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_aa.png" group-title="United States" tvg-id="WDTJLD" tvc-guide-stationid="110351",WDTJ-LD (DYSTR)
 http://example.local/USA-WDTJLD.ts
 #EXTINF:-1 tvg-chno="11396" tvg-name="WDTN (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="United States" tvg-id="WDTN" tvc-guide-stationid="11396",WDTN (NBC)
 http://example.local/USA-WDTN.ts
@@ -779,7 +787,7 @@ http://example.local/USA-WDTNDT2.ts
 http://example.local/USA-WDTOLD.ts
 #EXTINF:-1 tvg-chno="101774" tvg-name="WDTT-LD (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_ba.png" group-title="United States" tvg-id="WDTTLD" tvc-guide-stationid="101774",WDTT-LD (DYSTR)
 http://example.local/USA-WDTTLD.ts
-#EXTINF:-1 tvg-chno="101798" tvg-name="WDTT-LD2 (DSTRESP)" tvg-logo="https://zap2it.tmsimg.com/assets/s132423_h3_aa.png" group-title="United States" tvg-id="WDTTLD2" tvc-guide-stationid="101798",WDTT-LD2 (DSTRESP)
+#EXTINF:-1 tvg-chno="101798" tvg-name="WDTT-LD2 (DSTRESP)" tvg-logo="https://zap2it.tmsimg.com/assets/s132423_ll_h15_aa.png" group-title="United States" tvg-id="WDTTLD2" tvc-guide-stationid="101798",WDTT-LD2 (DSTRESP)
 http://example.local/USA-WDTTLD2.ts
 #EXTINF:-1 tvg-chno="33025" tvg-name="WDTT-LP (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_ba.png" group-title="United States" tvg-id="WDTTLP" tvc-guide-stationid="33025",WDTT-LP (DYSTR)
 http://example.local/USA-WDTTLP.ts
@@ -843,7 +851,7 @@ http://example.local/USA-WDWOCD.ts
 http://example.local/USA-WDWOCD2.ts
 #EXTINF:-1 tvg-chno="71009" tvg-name="WDWO-CD3 (OXYGEN)" tvg-logo="https://zap2it.tmsimg.com/assets/s21484_ll_h15_ac.png" group-title="United States" tvg-id="WDWOCD3" tvc-guide-stationid="71009",WDWO-CD3 (OXYGEN)
 http://example.local/USA-WDWOCD3.ts
-#EXTINF:-1 tvg-chno="72425" tvg-name="WDWO-CD4 (TCTWLD)" tvg-logo="https://zap2it.tmsimg.com/assets/s49486_ll_h15_aa.png" group-title="United States" tvg-id="WDWOCD4" tvc-guide-stationid="72425",WDWO-CD4 (TCTWLD)
+#EXTINF:-1 tvg-chno="72425" tvg-name="WDWO-CD4 (MVSGLD)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0026WLX6.png" group-title="United States" tvg-id="WDWOCD4" tvc-guide-stationid="72425",WDWO-CD4 (MVSGLD)
 http://example.local/USA-WDWOCD4.ts
 #EXTINF:-1 tvg-chno="112500" tvg-name="WDWO-CD5" tvg-logo="https://zap2it.tmsimg.com/assets/s115494_ll_h15_aa.png" group-title="United States" tvg-id="WDWOCD5" tvc-guide-stationid="112500",WDWO-CD5
 http://example.local/USA-WDWOCD5.ts
@@ -865,7 +873,7 @@ http://example.local/USA-WDWWLD6.ts
 http://example.local/USA-WDWWLD7.ts
 #EXTINF:-1 tvg-chno="84825" tvg-name="WDYB-CD" group-title="United States" tvg-id="WDYBCD" tvc-guide-stationid="84825",WDYB-CD
 http://example.local/USA-WDYBCD.ts
-#EXTINF:-1 tvg-chno="80552" tvg-name="WDYC-LD (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y563.png" group-title="United States" tvg-id="WDYCLD" tvc-guide-stationid="80552",WDYC-LD (DYSTR)
+#EXTINF:-1 tvg-chno="80552" tvg-name="WDYC-LD (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_aa.png" group-title="United States" tvg-id="WDYCLD" tvc-guide-stationid="80552",WDYC-LD (DYSTR)
 http://example.local/USA-WDYCLD.ts
 #EXTINF:-1 tvg-chno="93287" tvg-name="WDYC-LD2 (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_ba.png" group-title="United States" tvg-id="WDYCLD2" tvc-guide-stationid="93287",WDYC-LD2 (DYSTR)
 http://example.local/USA-WDYCLD2.ts
@@ -925,6 +933,8 @@ http://example.local/USA-TWCE.ts
 http://example.local/USA-TWCHDLO.ts
 #EXTINF:-1 tvg-chno="72413" tvg-name="Weather Nation TV" tvg-logo="https://zap2it.tmsimg.com/assets/s72413_ll_h15_aa.png" group-title="United States" tvg-id="WTHRNAT" tvc-guide-stationid="72413",Weather Nation TV
 http://example.local/USA-WTHRNAT.ts
+#EXTINF:-1 tvg-chno="201882" tvg-name="Weather Nation TV" tvg-logo="https://zap2it.tmsimg.com/assets/s72413_ll_h15_aa.png" group-title="United States" tvg-id="WTHRNST" tvc-guide-stationid="201882",Weather Nation TV
+http://example.local/USA-WTHRNST.ts
 #EXTINF:-1 tvg-chno="72422" tvg-name="Weather Nation TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s72422_ll_h15_aa.png" group-title="United States" tvg-id="WTHRNHD" tvc-guide-stationid="72422",Weather Nation TV HD
 http://example.local/USA-WTHRNHD.ts
 #EXTINF:-1 tvg-chno="93255" tvg-name="Weather Now" group-title="United States" tvg-id="WTHNOW" tvc-guide-stationid="93255",Weather Now
@@ -1009,13 +1019,3 @@ http://example.local/USA-WNATWA.ts
 http://example.local/USA-WTHRSCN.ts
 #EXTINF:-1 tvg-chno="127141" tvg-name="WeatherSpy" tvg-logo="https://zap2it.tmsimg.com/assets/s127141_ll_h15_aa.png" group-title="United States" tvg-id="WTHRSPY" tvc-guide-stationid="127141",WeatherSpy
 http://example.local/USA-WTHRSPY.ts
-#EXTINF:-1 tvg-chno="11402" tvg-name="WEAU (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="United States" tvg-id="WEAU" tvc-guide-stationid="11402",WEAU (NBC)
-http://example.local/USA-WEAU.ts
-#EXTINF:-1 tvg-chno="30919" tvg-name="WEAU-DT (NBC)" tvg-logo="https://logos.jesmann.com/weaudt.png" group-title="United States" tvg-id="WEAUDT" tvc-guide-stationid="30919",WEAU-DT (NBC)
-http://example.local/USA-WEAUDT.ts
-#EXTINF:-1 tvg-chno="52753" tvg-name="WEAU-DT2 (COZITV)" tvg-logo="https://zap2it.tmsimg.com/assets/s78851_ll_h15_ab.png" group-title="United States" tvg-id="WEAUDT2" tvc-guide-stationid="52753",WEAU-DT2 (COZITV)
-http://example.local/USA-WEAUDT2.ts
-#EXTINF:-1 tvg-chno="82771" tvg-name="WEAU-DT3 (METVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" group-title="United States" tvg-id="WEAUDT3" tvc-guide-stationid="82771",WEAU-DT3 (METVN)
-http://example.local/USA-WEAUDT3.ts
-#EXTINF:-1 tvg-chno="97025" tvg-name="WEAU-DT4 (MVIES)" tvg-logo="https://zap2it.tmsimg.com/assets/s81275_ll_h15_ab.png" group-title="United States" tvg-id="WEAUDT4" tvc-guide-stationid="97025",WEAU-DT4 (MVIES)
-http://example.local/USA-WEAUDT4.ts

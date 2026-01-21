@@ -1,10 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="32015" tvg-name="" group-title="Canada" tvg-id="YOURTV" tvc-guide-stationid="32015",
+http://example.local/CAN-YOURTV.ts
 #EXTINF:-1 tvg-chno="98639" tvg-name="1 Plus 1 International" tvg-logo="https://zap2it.tmsimg.com/assets/s98639_ll_h15_aa.png" group-title="Canada" tvg-id="1P1INT" tvc-guide-stationid="98639",1 Plus 1 International
 http://example.local/CAN-1P1INT.ts
 #EXTINF:-1 tvg-chno="89446" tvg-name="101.9 CHAI FM (CHAI-FM)" group-title="Canada" tvg-id="CHAIRAD" tvc-guide-stationid="89446",101.9 CHAI FM (CHAI-FM)
 http://example.local/CAN-CHAIRAD.ts
-#EXTINF:-1 tvg-chno="102532" tvg-name="102.3 JACK FM" group-title="Canada" tvg-id="CHSTFM" tvc-guide-stationid="102532",102.3 JACK FM
-http://example.local/CAN-CHSTFM.ts
 #EXTINF:-1 tvg-chno="62005" tvg-name="103.1 VIRGIN Radio (CKMM-FM)" tvg-logo="https://zap2it.tmsimg.com/assets/s89463_ll_h15_aa.png" group-title="Canada" tvg-id="VIRGIN" tvc-guide-stationid="62005",103.1 VIRGIN Radio (CKMM-FM)
 http://example.local/CAN-VIRGIN.ts
 #EXTINF:-1 tvg-chno="62006" tvg-name="104.1 CFQX-FM - QX 104 FM (CFQX)" group-title="Canada" tvg-id="QX04" tvc-guide-stationid="62006",104.1 CFQX-FM - QX 104 FM (CFQX)
@@ -39,8 +39,6 @@ http://example.local/CAN-CFXJFM.ts
 http://example.local/CAN-FAB943.ts
 #EXTINF:-1 tvg-chno="47843" tvg-name="96 FM Toronto" group-title="Canada" tvg-id="96FMT" tvc-guide-stationid="47843",96 FM Toronto
 http://example.local/CAN-96FMT.ts
-#EXTINF:-1 tvg-chno="166703" tvg-name="98.1 CHFI Christmas Music & Fireplace" tvg-logo="https://zap2it.tmsimg.com/assets/s166703_ll_h15_aa.png" group-title="Canada" tvg-id="RCHFI" tvc-guide-stationid="166703",98.1 CHFI Christmas Music & Fireplace
-http://example.local/CAN-RCHFI.ts
 #EXTINF:-1 tvg-chno="47475" tvg-name="995 MTL" tvg-logo="https://zap2it.tmsimg.com/assets/s47475_ll_h15_ad.png" group-title="Canada" tvg-id="WKND" tvc-guide-stationid="47475",995 MTL
 http://example.local/CAN-WKND.ts
 #EXTINF:-1 tvg-chno="102552" tvg-name="999 VIRGIN RADIO" group-title="Canada" tvg-id="CKFMFM" tvc-guide-stationid="102552",999 VIRGIN RADIO
@@ -61,6 +59,8 @@ http://example.local/CAN-ANC.ts
 http://example.local/CAN-ABUDH.ts
 #EXTINF:-1 tvg-chno="124806" tvg-name="ACC Digital Network" tvg-logo="https://zap2it.tmsimg.com/assets/s124806_ll_h15_aa.png" group-title="Canada" tvg-id="ACCDN" tvc-guide-stationid="124806",ACC Digital Network
 http://example.local/CAN-ACCDN.ts
+#EXTINF:-1 tvg-chno="32160" tvg-name="Access (WISD)" group-title="Canada" tvg-id="WISDACC" tvc-guide-stationid="32160",Access (WISD)
+http://example.local/CAN-WISDACC.ts
 #EXTINF:-1 tvg-chno="77425" tvg-name="Access 7 - Regina Beach" group-title="Canada" tvg-id="ACC7RBH" tvc-guide-stationid="77425",Access 7 - Regina Beach
 http://example.local/CAN-ACC7RBH.ts
 #EXTINF:-1 tvg-chno="121152" tvg-name="Access Ambience Fishtank" group-title="Canada" tvg-id="AAMBFISH" tvc-guide-stationid="121152",Access Ambience Fishtank
@@ -115,6 +115,10 @@ http://example.local/CAN-ADSMH.ts
 http://example.local/CAN-ADSWMDM.ts
 #EXTINF:-1 tvg-chno="91418" tvg-name="Adulte Sur Demande" group-title="Canada" tvg-id="XXXSDM" tvc-guide-stationid="91418",Adulte Sur Demande
 http://example.local/CAN-XXXSDM.ts
+#EXTINF:-1 tvg-chno="45571" tvg-name="ADVANGE MKTG HOSPITALITY TV" group-title="Canada" tvg-id="HOSPTV" tvc-guide-stationid="45571",ADVANGE MKTG HOSPITALITY TV
+http://example.local/CAN-HOSPTV.ts
+#EXTINF:-1 tvg-chno="45569" tvg-name="ADVANGE MKTG HOTEL" group-title="Canada" tvg-id="MHOTEL" tvc-guide-stationid="45569",ADVANGE MKTG HOTEL
+http://example.local/CAN-MHOTEL.ts
 #EXTINF:-1 tvg-chno="68010" tvg-name="AFRICA24" tvg-logo="https://zap2it.tmsimg.com/assets/s68010_ll_h9_aa.png" group-title="Canada" tvg-id="AFRCA24" tvc-guide-stationid="68010",AFRICA24
 http://example.local/CAN-AFRCA24.ts
 #EXTINF:-1 tvg-chno="106079" tvg-name="Afroglobal Network Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106079_ll_h9_aa.png" group-title="Canada" tvg-id="AGNTHD" tvc-guide-stationid="106079",Afroglobal Network Television HD
@@ -255,24 +259,24 @@ http://example.local/CAN-ATNCOLM.ts
 http://example.local/CAN-ATNCRKP.ts
 #EXTINF:-1 tvg-chno="118890" tvg-name="ATN Cricket Plus HD Feed" group-title="Canada" tvg-id="ATNCRKH" tvc-guide-stationid="118890",ATN Cricket Plus HD Feed
 http://example.local/CAN-ATNCRKH.ts
-#EXTINF:-1 tvg-chno="104974" tvg-name="ATN DD Bharati" tvg-logo="https://zap2it.tmsimg.com/assets/s104974_ll_h15_aa.png" group-title="Canada" tvg-id="BHARASD" tvc-guide-stationid="104974",ATN DD Bharati
-http://example.local/CAN-BHARASD.ts
 #EXTINF:-1 tvg-chno="89708" tvg-name="ATN DD Bharati" tvg-logo="https://zap2it.tmsimg.com/assets/s89708_ll_h15_aa.png" group-title="Canada" tvg-id="BHARATI" tvc-guide-stationid="89708",ATN DD Bharati
 http://example.local/CAN-BHARATI.ts
+#EXTINF:-1 tvg-chno="104974" tvg-name="ATN DD Bharati" tvg-logo="https://zap2it.tmsimg.com/assets/s104974_ll_h15_aa.png" group-title="Canada" tvg-id="BHARASD" tvc-guide-stationid="104974",ATN DD Bharati
+http://example.local/CAN-BHARASD.ts
 #EXTINF:-1 tvg-chno="89709" tvg-name="ATN DD India" tvg-logo="https://zap2it.tmsimg.com/assets/s89709_ll_h15_aa.png" group-title="Canada" tvg-id="ADINDIA" tvc-guide-stationid="89709",ATN DD India
 http://example.local/CAN-ADINDIA.ts
 #EXTINF:-1 tvg-chno="104973" tvg-name="ATN DD India SD" tvg-logo="https://zap2it.tmsimg.com/assets/s89709_ll_h15_aa.png" group-title="Canada" tvg-id="AINDISD" tvc-guide-stationid="104973",ATN DD India SD
 http://example.local/CAN-AINDISD.ts
-#EXTINF:-1 tvg-chno="104972" tvg-name="ATN DD News" tvg-logo="https://zap2it.tmsimg.com/assets/s89710_ll_h15_ab.png" group-title="Canada" tvg-id="ANEWSSD" tvc-guide-stationid="104972",ATN DD News
-http://example.local/CAN-ANEWSSD.ts
 #EXTINF:-1 tvg-chno="89710" tvg-name="ATN DD News" tvg-logo="https://zap2it.tmsimg.com/assets/s89710_ll_h15_ab.png" group-title="Canada" tvg-id="ATNNEWS" tvc-guide-stationid="89710",ATN DD News
 http://example.local/CAN-ATNNEWS.ts
+#EXTINF:-1 tvg-chno="104972" tvg-name="ATN DD News" tvg-logo="https://zap2it.tmsimg.com/assets/s89710_ll_h15_ab.png" group-title="Canada" tvg-id="ANEWSSD" tvc-guide-stationid="104972",ATN DD News
+http://example.local/CAN-ANEWSSD.ts
 #EXTINF:-1 tvg-chno="83580" tvg-name="ATN Food Food" tvg-logo="https://zap2it.tmsimg.com/assets/s83580_ll_h15_ab.png" group-title="Canada" tvg-id="ATNFF" tvc-guide-stationid="83580",ATN Food Food
 http://example.local/CAN-ATNFF.ts
-#EXTINF:-1 tvg-chno="104969" tvg-name="ATN Gujarati" tvg-logo="https://zap2it.tmsimg.com/assets/s104969_ll_h6_aa.png" group-title="Canada" tvg-id="ATNGUJS" tvc-guide-stationid="104969",ATN Gujarati
-http://example.local/CAN-ATNGUJS.ts
 #EXTINF:-1 tvg-chno="89704" tvg-name="ATN Gujarati" tvg-logo="https://zap2it.tmsimg.com/assets/s89704_ll_h6_aa.png" group-title="Canada" tvg-id="ATNGUJ" tvc-guide-stationid="89704",ATN Gujarati
 http://example.local/CAN-ATNGUJ.ts
+#EXTINF:-1 tvg-chno="104969" tvg-name="ATN Gujarati" tvg-logo="https://zap2it.tmsimg.com/assets/s104969_ll_h6_aa.png" group-title="Canada" tvg-id="ATNGUJS" tvc-guide-stationid="104969",ATN Gujarati
+http://example.local/CAN-ATNGUJS.ts
 #EXTINF:-1 tvg-chno="28756" tvg-name="ATN Jaya TV" tvg-logo="https://zap2it.tmsimg.com/assets/s28756_ll_h15_aa.png" group-title="Canada" tvg-id="JAYATV" tvc-guide-stationid="28756",ATN Jaya TV
 http://example.local/CAN-JAYATV.ts
 #EXTINF:-1 tvg-chno="106202" tvg-name="ATN Life" tvg-logo="https://zap2it.tmsimg.com/assets/s106202_ll_h15_ab.png" group-title="Canada" tvg-id="ATNLFE" tvc-guide-stationid="106202",ATN Life
@@ -365,13 +369,13 @@ http://example.local/CAN-BBC3VM.ts
 http://example.local/CAN-BEJTV.ts
 #EXTINF:-1 tvg-chno="76942" tvg-name="beIN Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s76942_ll_h15_ab.png" group-title="Canada" tvg-id="BEINS1" tvc-guide-stationid="76942",beIN Sports
 http://example.local/CAN-BEINS1.ts
-#EXTINF:-1 tvg-chno="76943" tvg-name="beIN Sports En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s76943_h3_aa.png" group-title="Canada" tvg-id="BEINSES" tvc-guide-stationid="76943",beIN Sports En Español
+#EXTINF:-1 tvg-chno="76943" tvg-name="beIN Sports En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s76943_ll_h15_ab.png" group-title="Canada" tvg-id="BEINSES" tvc-guide-stationid="76943",beIN Sports En Español
 http://example.local/CAN-BEINSES.ts
 #EXTINF:-1 tvg-chno="76955" tvg-name="beIN Sports En Español HD" tvg-logo="https://zap2it.tmsimg.com/assets/s76955_ll_h15_aa.png" group-title="Canada" tvg-id="BEIN2HD" tvc-guide-stationid="76955",beIN Sports En Español HD
 http://example.local/CAN-BEIN2HD.ts
 #EXTINF:-1 tvg-chno="91308" tvg-name="beIN Sports HD (Canada)" tvg-logo="https://zap2it.tmsimg.com/assets/s91308_ll_h9_ab.png" group-title="Canada" tvg-id="BEINCHD" tvc-guide-stationid="91308",beIN Sports HD (Canada)
 http://example.local/CAN-BEINCHD.ts
-#EXTINF:-1 tvg-chno="113143" tvg-name="beIn Sports Xtra" tvg-logo="https://zap2it.tmsimg.com/assets/s113143_h3_aa.png" group-title="Canada" tvg-id="BEINX" tvc-guide-stationid="113143",beIn Sports Xtra
+#EXTINF:-1 tvg-chno="113143" tvg-name="beIn Sports Xtra" tvg-logo="https://zap2it.tmsimg.com/assets/s113143_ll_h15_aa.png" group-title="Canada" tvg-id="BEINX" tvc-guide-stationid="113143",beIn Sports Xtra
 http://example.local/CAN-BEINX.ts
 #EXTINF:-1 tvg-chno="98222" tvg-name="Bell 4k Barker TEST Channel" group-title="Canada" tvg-id="BELL4KB" tvc-guide-stationid="98222",Bell 4k Barker TEST Channel
 http://example.local/CAN-BELL4KB.ts
@@ -421,12 +425,14 @@ http://example.local/CAN-BENFC.ts
 http://example.local/CAN-BXII.ts
 #EXTINF:-1 tvg-chno="56783" tvg-name="Big Ten Network" tvg-logo="https://zap2it.tmsimg.com/assets/s56783_ll_h15_ab.png" group-title="Canada" tvg-id="BIGTEN" tvc-guide-stationid="56783",Big Ten Network
 http://example.local/CAN-BIGTEN.ts
-#EXTINF:-1 tvg-chno="98900" tvg-name="Big Ten Network (24/7 Overflow 1 for Maryland)" tvg-logo="https://zap2it.tmsimg.com/assets/s56783_h3_aa.png" group-title="Canada" tvg-id="BTNOF1" tvc-guide-stationid="98900",Big Ten Network (24/7 Overflow 1 for Maryland)
+#EXTINF:-1 tvg-chno="98900" tvg-name="Big Ten Network (24/7 Overflow 1 for Maryland)" tvg-logo="https://zap2it.tmsimg.com/assets/s56783_ll_h15_ab.png" group-title="Canada" tvg-id="BTNOF1" tvc-guide-stationid="98900",Big Ten Network (24/7 Overflow 1 for Maryland)
 http://example.local/CAN-BTNOF1.ts
 #EXTINF:-1 tvg-chno="98901" tvg-name="Big Ten Network (24/7 Overflow 2 for Maryland)" tvg-logo="https://zap2it.tmsimg.com/assets/s56783_ll_h15_ab.png" group-title="Canada" tvg-id="BTNOF2" tvc-guide-stationid="98901",Big Ten Network (24/7 Overflow 2 for Maryland)
 http://example.local/CAN-BTNOF2.ts
 #EXTINF:-1 tvg-chno="58321" tvg-name="Big Ten Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58321_ll_h15_ac.png" group-title="Canada" tvg-id="BIG10HD" tvc-guide-stationid="58321",Big Ten Network HD
 http://example.local/CAN-BIG10HD.ts
+#EXTINF:-1 tvg-chno="32095" tvg-name="Billboard Channel" group-title="Canada" tvg-id="BILLBRD" tvc-guide-stationid="32095",Billboard Channel
+http://example.local/CAN-BILLBRD.ts
 #EXTINF:-1 tvg-chno="120469" tvg-name="Billiard TV" tvg-logo="https://zap2it.tmsimg.com/assets/s120469_ll_h15_aa.png" group-title="Canada" tvg-id="BILSTR" tvc-guide-stationid="120469",Billiard TV
 http://example.local/CAN-BILSTR.ts
 #EXTINF:-1 tvg-chno="193823" tvg-name="Bizaar" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028EE9P.png" group-title="Canada" tvg-id="XRGBZ" tvc-guide-stationid="193823",Bizaar
@@ -449,6 +455,8 @@ http://example.local/CAN-BOOMH.ts
 http://example.local/CAN-BOOMRVM.ts
 #EXTINF:-1 tvg-chno="89465" tvg-name="Bounce 105.3 (CFXY-FM)" group-title="Canada" tvg-id="CFXYRAD" tvc-guide-stationid="89465",Bounce 105.3 (CFXY-FM)
 http://example.local/CAN-CFXYRAD.ts
+#EXTINF:-1 tvg-chno="32136" tvg-name="Bourse & CHLM FM" group-title="Canada" tvg-id="BRSEFM" tvc-guide-stationid="32136",Bourse & CHLM FM
+http://example.local/CAN-BRSEFM.ts
 #EXTINF:-1 tvg-chno="64443" tvg-name="Brandon's BOUNCE 96.1 (CKX-FM)" group-title="Canada" tvg-id="CKXFM" tvc-guide-stationid="64443",Brandon's BOUNCE 96.1 (CKX-FM)
 http://example.local/CAN-CKXFM.ts
 #EXTINF:-1 tvg-chno="17610" tvg-name="Bravo Canada" tvg-logo="https://zap2it.tmsimg.com/assets/s17610_ll_h15_ag.png" group-title="Canada" tvg-id="BRAVOC" tvc-guide-stationid="17610",Bravo Canada
@@ -461,7 +469,7 @@ http://example.local/CAN-BCLEG.ts
 http://example.local/CAN-BCLEGHD.ts
 #EXTINF:-1 tvg-chno="21509" tvg-name="Broadcast News - BNEWS" group-title="Canada" tvg-id="BNEWS" tvc-guide-stationid="21509",Broadcast News - BNEWS
 http://example.local/CAN-BNEWS.ts
-#EXTINF:-1 tvg-chno="93430" tvg-name="BUZZR" tvg-logo="https://zap2it.tmsimg.com/assets/s93430_h3_aa.png" group-title="Canada" tvg-id="BUZZR" tvc-guide-stationid="93430",BUZZR
+#EXTINF:-1 tvg-chno="93430" tvg-name="BUZZR" tvg-logo="https://zap2it.tmsimg.com/assets/s93430_ll_h15_ab.png" group-title="Canada" tvg-id="BUZZR" tvc-guide-stationid="93430",BUZZR
 http://example.local/CAN-BUZZR.ts
 #EXTINF:-1 tvg-chno="90603" tvg-name="C.H.I.R. Greek Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s90603_ll_h15_aa.png" group-title="Canada" tvg-id="CHIR" tvc-guide-stationid="90603",C.H.I.R. Greek Radio
 http://example.local/CAN-CHIR.ts
@@ -487,6 +495,10 @@ http://example.local/CAN-CP24.ts
 http://example.local/CAN-CP24HD.ts
 #EXTINF:-1 tvg-chno="16130" tvg-name="Cablenet 23" tvg-logo="https://zap2it.tmsimg.com/assets/s16130_ll_h9_aa.png" group-title="Canada" tvg-id="CNET23" tvc-guide-stationid="16130",Cablenet 23
 http://example.local/CAN-CNET23.ts
+#EXTINF:-1 tvg-chno="83269" tvg-name="CampTek Info Channel" group-title="Canada" tvg-id="CPTKINF" tvc-guide-stationid="83269",CampTek Info Channel
+http://example.local/CAN-CPTKINF.ts
+#EXTINF:-1 tvg-chno="82631" tvg-name="CampTek Programming Guide" group-title="Canada" tvg-id="CMPTK" tvc-guide-stationid="82631",CampTek Programming Guide
+http://example.local/CAN-CMPTK.ts
 #EXTINF:-1 tvg-chno="91735" tvg-name="Caméra de sécurité 1" group-title="Canada" tvg-id="SPEC1" tvc-guide-stationid="91735",Caméra de sécurité 1
 http://example.local/CAN-SPEC1.ts
 #EXTINF:-1 tvg-chno="91739" tvg-name="Caméra de sécurité 2" group-title="Canada" tvg-id="SPEC2" tvc-guide-stationid="91739",Caméra de sécurité 2
@@ -521,6 +533,8 @@ http://example.local/CAN-INDIG41.ts
 http://example.local/CAN-INDIG40.ts
 #EXTINF:-1 tvg-chno="65566" tvg-name="Canal M" tvg-logo="https://zap2it.tmsimg.com/assets/s65566_ll_h15_ad.png" group-title="Canada" tvg-id="CANALM" tvc-guide-stationid="65566",Canal M
 http://example.local/CAN-CANALM.ts
+#EXTINF:-1 tvg-chno="24662" tvg-name="Canal publicite (static)" group-title="Canada" tvg-id="CANPUB" tvc-guide-stationid="24662",Canal publicite (static)
+http://example.local/CAN-CANPUB.ts
 #EXTINF:-1 tvg-chno="12750" tvg-name="Canal Sur" tvg-logo="https://zap2it.tmsimg.com/assets/s12750_ll_h15_aa.png" group-title="Canada" tvg-id="SUR" tvc-guide-stationid="12750",Canal Sur
 http://example.local/CAN-SUR.ts
 #EXTINF:-1 tvg-chno="56109" tvg-name="Canal Séries Plus HD" tvg-logo="https://zap2it.tmsimg.com/assets/s56109_ll_h15_ab.png" group-title="Canada" tvg-id="SERIEHD" tvc-guide-stationid="56109",Canal Séries Plus HD
@@ -549,10 +563,10 @@ http://example.local/CAN-CRTN.ts
 http://example.local/CAN-CRTNPHD.ts
 #EXTINF:-1 tvg-chno="76233" tvg-name="Cartoon Network HD Canada (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s76221_ll_h15_ab.png" group-title="Canada" tvg-id="CNHDP" tvc-guide-stationid="76233",Cartoon Network HD Canada (Pacific)
 http://example.local/CAN-CNHDP.ts
-#EXTINF:-1 tvg-chno="31602" tvg-name="Cartoon Network On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s31602_ll_h15_aa.png" group-title="Canada" tvg-id="TOONDM" tvc-guide-stationid="31602",Cartoon Network On Demand
-http://example.local/CAN-TOONDM.ts
 #EXTINF:-1 tvg-chno="89010" tvg-name="Cartoon Network On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s17417_ll_h15_aa.png" group-title="Canada" tvg-id="CRTOD" tvc-guide-stationid="89010",Cartoon Network On Demand
 http://example.local/CAN-CRTOD.ts
+#EXTINF:-1 tvg-chno="31602" tvg-name="Cartoon Network On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s31602_ll_h15_aa.png" group-title="Canada" tvg-id="TOONDM" tvc-guide-stationid="31602",Cartoon Network On Demand
+http://example.local/CAN-TOONDM.ts
 #EXTINF:-1 tvg-chno="99037" tvg-name="Cartoon Network UK" tvg-logo="https://zap2it.tmsimg.com/assets/s99037_ll_h15_aa.png" group-title="Canada" tvg-id="CRTNVM" tvc-guide-stationid="99037",Cartoon Network UK
 http://example.local/CAN-CRTNVM.ts
 #EXTINF:-1 tvg-chno="59532" tvg-name="CASA HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59532_ll_h15_ab.png" group-title="Canada" tvg-id="CASATV" tvc-guide-stationid="59532",CASA HD
@@ -569,9 +583,9 @@ http://example.local/CAN-CBAFT.ts
 http://example.local/CAN-CBAFTDT.ts
 #EXTINF:-1 tvg-chno="67828" tvg-name="CBAM-FM" group-title="Canada" tvg-id="CBAMFM" tvc-guide-stationid="67828",CBAM-FM
 http://example.local/CAN-CBAMFM.ts
-#EXTINF:-1 tvg-chno="16261" tvg-name="CBAT (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10084_ll_h15_ab.png" group-title="Canada" tvg-id="CBAT" tvc-guide-stationid="16261",CBAT (CBC)
+#EXTINF:-1 tvg-chno="16261" tvg-name="CBAT (CBC)" tvg-logo="https://logos.jesmann.com/cbat.png" group-title="Canada" tvg-id="CBAT" tvc-guide-stationid="16261",CBAT (CBC)
 http://example.local/CAN-CBAT.ts
-#EXTINF:-1 tvg-chno="72767" tvg-name="CBAT-DT (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10084_ll_h15_ab.png" group-title="Canada" tvg-id="CBATDT" tvc-guide-stationid="72767",CBAT-DT (CBC)
+#EXTINF:-1 tvg-chno="72767" tvg-name="CBAT-DT (CBC)" tvg-logo="https://logos.jesmann.com/cbatdt.png" group-title="Canada" tvg-id="CBATDT" tvc-guide-stationid="72767",CBAT-DT (CBC)
 http://example.local/CAN-CBATDT.ts
 #EXTINF:-1 tvg-chno="15939" tvg-name="CBC Calgary (CBC)" tvg-logo="https://logos.jesmann.com/cbrt.png" group-title="Canada" tvg-id="CBRT" tvc-guide-stationid="15939",CBC Calgary (CBC)
 http://example.local/CAN-CBRT.ts
@@ -621,7 +635,7 @@ http://example.local/CAN-CBKTDT.ts
 http://example.local/CAN-CBNT.ts
 #EXTINF:-1 tvg-chno="72797" tvg-name="CBC St. John's HD (CBC)" tvg-logo="https://logos.jesmann.com/cbntdt.png" group-title="Canada" tvg-id="CBNTDT" tvc-guide-stationid="72797",CBC St. John's HD (CBC)
 http://example.local/CAN-CBNTDT.ts
-#EXTINF:-1 tvg-chno="10088" tvg-name="CBC Television-Windsor 9 (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10084_ll_h15_ab.png" group-title="Canada" tvg-id="CBET" tvc-guide-stationid="10088",CBC Television-Windsor 9 (CBC)
+#EXTINF:-1 tvg-chno="10088" tvg-name="CBC Television-Windsor 9 (CBC)" tvg-logo="https://logos.jesmann.com/cbet.png" group-title="Canada" tvg-id="CBET" tvc-guide-stationid="10088",CBC Television-Windsor 9 (CBC)
 http://example.local/CAN-CBET.ts
 #EXTINF:-1 tvg-chno="10091" tvg-name="CBC Toronto (CBC)" tvg-logo="https://logos.jesmann.com/cblt.png" group-title="Canada" tvg-id="CBLT" tvc-guide-stationid="10091",CBC Toronto (CBC)
 http://example.local/CAN-CBLT.ts
@@ -639,11 +653,11 @@ http://example.local/CAN-CBWTDT.ts
 http://example.local/CAN-CBNFM.ts
 #EXTINF:-1 tvg-chno="102567" tvg-name="CBCL FM London" group-title="Canada" tvg-id="CBCLFM" tvc-guide-stationid="102567",CBCL FM London
 http://example.local/CAN-CBCLFM.ts
-#EXTINF:-1 tvg-chno="17398" tvg-name="CBCT (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10084_ll_h15_ab.png" group-title="Canada" tvg-id="CBCT" tvc-guide-stationid="17398",CBCT (CBC)
+#EXTINF:-1 tvg-chno="17398" tvg-name="CBCT (CBC)" tvg-logo="https://logos.jesmann.com/cbct.png" group-title="Canada" tvg-id="CBCT" tvc-guide-stationid="17398",CBCT (CBC)
 http://example.local/CAN-CBCT.ts
-#EXTINF:-1 tvg-chno="72884" tvg-name="CBCT-DT (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10084_ll_h15_ab.png" group-title="Canada" tvg-id="CBCTDT" tvc-guide-stationid="72884",CBCT-DT (CBC)
+#EXTINF:-1 tvg-chno="72884" tvg-name="CBCT-DT (CBC)" tvg-logo="https://logos.jesmann.com/cbctdt.png" group-title="Canada" tvg-id="CBCTDT" tvc-guide-stationid="72884",CBCT-DT (CBC)
 http://example.local/CAN-CBCTDT.ts
-#EXTINF:-1 tvg-chno="72772" tvg-name="CBET-DT (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10084_ll_h15_ab.png" group-title="Canada" tvg-id="CBETDT" tvc-guide-stationid="72772",CBET-DT (CBC)
+#EXTINF:-1 tvg-chno="72772" tvg-name="CBET-DT (CBC)" tvg-logo="https://logos.jesmann.com/cbetdt.png" group-title="Canada" tvg-id="CBETDT" tvc-guide-stationid="72772",CBET-DT (CBC)
 http://example.local/CAN-CBETDT.ts
 #EXTINF:-1 tvg-chno="47474" tvg-name="CBF-FM" tvg-logo="https://zap2it.tmsimg.com/assets/s47474_ll_h9_aa.png" group-title="Canada" tvg-id="CBF" tvc-guide-stationid="47474",CBF-FM
 http://example.local/CAN-CBF.ts
@@ -673,9 +687,9 @@ http://example.local/CAN-CBLFT.ts
 http://example.local/CAN-CBLFTDT.ts
 #EXTINF:-1 tvg-chno="67844" tvg-name="CBME" tvg-logo="https://zap2it.tmsimg.com/assets/s67844_ll_h9_aa.png" group-title="Canada" tvg-id="CBME" tvc-guide-stationid="67844",CBME
 http://example.local/CAN-CBME.ts
-#EXTINF:-1 tvg-chno="10092" tvg-name="CBMT - CBC Montreal (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10084_ll_h15_ab.png" group-title="Canada" tvg-id="CBMT" tvc-guide-stationid="10092",CBMT - CBC Montreal (CBC)
+#EXTINF:-1 tvg-chno="10092" tvg-name="CBMT - CBC Montreal (CBC)" tvg-logo="https://logos.jesmann.com/cbmt.png" group-title="Canada" tvg-id="CBMT" tvc-guide-stationid="10092",CBMT - CBC Montreal (CBC)
 http://example.local/CAN-CBMT.ts
-#EXTINF:-1 tvg-chno="53502" tvg-name="CBMT-DT (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10084_ll_h15_ab.png" group-title="Canada" tvg-id="CBMTDT" tvc-guide-stationid="53502",CBMT-DT (CBC)
+#EXTINF:-1 tvg-chno="53502" tvg-name="CBMT-DT (CBC)" tvg-logo="https://logos.jesmann.com/cbmtdt.png" group-title="Canada" tvg-id="CBMTDT" tvc-guide-stationid="53502",CBMT-DT (CBC)
 http://example.local/CAN-CBMTDT.ts
 #EXTINF:-1 tvg-chno="48859" tvg-name="CBN Commonwealth Broadcasting Network" tvg-logo="https://zap2it.tmsimg.com/assets/s48859_ll_h15_ab.png" group-title="Canada" tvg-id="CBNNET" tvc-guide-stationid="48859",CBN Commonwealth Broadcasting Network
 http://example.local/CAN-CBNNET.ts
@@ -721,15 +735,15 @@ http://example.local/CAN-CFAPDT.ts
 http://example.local/CAN-CFBOFM.ts
 #EXTINF:-1 tvg-chno="102568" tvg-name="CFCA FM Waterloo" group-title="Canada" tvg-id="CFCAFM" tvc-guide-stationid="102568",CFCA FM Waterloo
 http://example.local/CAN-CFCAFM.ts
-#EXTINF:-1 tvg-chno="10104" tvg-name="CFCF (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10108_ll_h15_ab.png" group-title="Canada" tvg-id="CFCF" tvc-guide-stationid="10104",CFCF (CTV)
+#EXTINF:-1 tvg-chno="10104" tvg-name="CFCF (CTV)" tvg-logo="https://logos.jesmann.com/cfcf.png" group-title="Canada" tvg-id="CFCF" tvc-guide-stationid="10104",CFCF (CTV)
 http://example.local/CAN-CFCF.ts
-#EXTINF:-1 tvg-chno="65995" tvg-name="CFCF-DT (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s65995_ll_h15_aa.png" group-title="Canada" tvg-id="CFCFDT" tvc-guide-stationid="65995",CFCF-DT (CTV)
+#EXTINF:-1 tvg-chno="65995" tvg-name="CFCF-DT (CTV)" tvg-logo="https://logos.jesmann.com/cfcfdt.png" group-title="Canada" tvg-id="CFCFDT" tvc-guide-stationid="65995",CFCF-DT (CTV)
 http://example.local/CAN-CFCFDT.ts
 #EXTINF:-1 tvg-chno="16383" tvg-name="CFCM (TVA)" tvg-logo="https://zap2it.tmsimg.com/assets/s16367_ll_h15_ab.png" group-title="Canada" tvg-id="CFCM" tvc-guide-stationid="16383",CFCM (TVA)
 http://example.local/CAN-CFCM.ts
 #EXTINF:-1 tvg-chno="72752" tvg-name="CFCM-DT (TVA)" tvg-logo="https://zap2it.tmsimg.com/assets/s16367_ll_h15_ab.png" group-title="Canada" tvg-id="CFCMDT" tvc-guide-stationid="72752",CFCM-DT (TVA)
 http://example.local/CAN-CFCMDT.ts
-#EXTINF:-1 tvg-chno="72718" tvg-name="CFCNL-DT (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10108_ll_h15_ab.png" group-title="Canada" tvg-id="CFCNLDT" tvc-guide-stationid="72718",CFCNL-DT (CTV)
+#EXTINF:-1 tvg-chno="72718" tvg-name="CFCNL-DT (CTV)" tvg-logo="https://logos.jesmann.com/cfcnldt.png" group-title="Canada" tvg-id="CFCNLDT" tvc-guide-stationid="72718",CFCNL-DT (CTV)
 http://example.local/CAN-CFCNLDT.ts
 #EXTINF:-1 tvg-chno="16727" tvg-name="CFEM (TVA)" tvg-logo="https://zap2it.tmsimg.com/assets/s16367_ll_h15_ab.png" group-title="Canada" tvg-id="CFEM" tvc-guide-stationid="16727",CFEM (TVA)
 http://example.local/CAN-CFEM.ts
@@ -793,9 +807,9 @@ http://example.local/CAN-CFNR.ts
 http://example.local/CAN-CFNY.ts
 #EXTINF:-1 tvg-chno="26547" tvg-name="CFOX FM Radio" group-title="Canada" tvg-id="CFOX" tvc-guide-stationid="26547",CFOX FM Radio
 http://example.local/CAN-CFOX.ts
-#EXTINF:-1 tvg-chno="10106" tvg-name="CFPL - A Channel London (CTV2)" tvg-logo="https://zap2it.tmsimg.com/assets/s10135_ll_h15_ab.png" group-title="Canada" tvg-id="CFPL" tvc-guide-stationid="10106",CFPL - A Channel London (CTV2)
+#EXTINF:-1 tvg-chno="10106" tvg-name="CFPL - A Channel London (CTV2)" tvg-logo="https://logos.jesmann.com/cfpl.png" group-title="Canada" tvg-id="CFPL" tvc-guide-stationid="10106",CFPL - A Channel London (CTV2)
 http://example.local/CAN-CFPL.ts
-#EXTINF:-1 tvg-chno="72720" tvg-name="CFPL-DT (CTV2)" tvg-logo="https://zap2it.tmsimg.com/assets/s10135_ll_h15_ab.png" group-title="Canada" tvg-id="CFPLDT" tvc-guide-stationid="72720",CFPL-DT (CTV2)
+#EXTINF:-1 tvg-chno="72720" tvg-name="CFPL-DT (CTV2)" tvg-logo="https://logos.jesmann.com/cfpldt.png" group-title="Canada" tvg-id="CFPLDT" tvc-guide-stationid="72720",CFPL-DT (CTV2)
 http://example.local/CAN-CFPLDT.ts
 #EXTINF:-1 tvg-chno="26551" tvg-name="CFQR FM Radio" group-title="Canada" tvg-id="CFQR" tvc-guide-stationid="26551",CFQR FM Radio
 http://example.local/CAN-CFQR.ts
@@ -821,9 +835,9 @@ http://example.local/CAN-CFTF.ts
 http://example.local/CAN-CFTFDT.ts
 #EXTINF:-1 tvg-chno="94765" tvg-name="CFTF-DT4 (NOOVO)" tvg-logo="https://zap2it.tmsimg.com/assets/s15696_ll_h15_ac.png" group-title="Canada" tvg-id="CFTFDT4" tvc-guide-stationid="94765",CFTF-DT4 (NOOVO)
 http://example.local/CAN-CFTFDT4.ts
-#EXTINF:-1 tvg-chno="17387" tvg-name="CFTK (CTV2)" tvg-logo="https://zap2it.tmsimg.com/assets/s110838_ll_h15_aa.png" group-title="Canada" tvg-id="CFTK" tvc-guide-stationid="17387",CFTK (CTV2)
+#EXTINF:-1 tvg-chno="17387" tvg-name="CFTK (CTV2)" tvg-logo="https://logos.jesmann.com/cftk.png" group-title="Canada" tvg-id="CFTK" tvc-guide-stationid="17387",CFTK (CTV2)
 http://example.local/CAN-CFTK.ts
-#EXTINF:-1 tvg-chno="112012" tvg-name="CFTK HD (CTV2)" tvg-logo="https://zap2it.tmsimg.com/assets/s110838_ll_h15_aa.png" group-title="Canada" tvg-id="CFTKHD" tvc-guide-stationid="112012",CFTK HD (CTV2)
+#EXTINF:-1 tvg-chno="112012" tvg-name="CFTK HD (CTV2)" tvg-logo="https://logos.jesmann.com/cftkhd.png" group-title="Canada" tvg-id="CFTKHD" tvc-guide-stationid="112012",CFTK HD (CTV2)
 http://example.local/CAN-CFTKHD.ts
 #EXTINF:-1 tvg-chno="10107" tvg-name="CFTM Montréal (TVA)" tvg-logo="https://zap2it.tmsimg.com/assets/s16367_ll_h15_ab.png" group-title="Canada" tvg-id="CFTM" tvc-guide-stationid="10107",CFTM Montréal (TVA)
 http://example.local/CAN-CFTM.ts
@@ -833,9 +847,9 @@ http://example.local/CAN-CFTMDT.ts
 http://example.local/CAN-CFTMP.ts
 #EXTINF:-1 tvg-chno="113107" tvg-name="CFTMP (Pacific) HD (TVA)" tvg-logo="https://zap2it.tmsimg.com/assets/s16367_ll_h15_ab.png" group-title="Canada" tvg-id="CFTMPHD" tvc-guide-stationid="113107",CFTMP (Pacific) HD (TVA)
 http://example.local/CAN-CFTMPHD.ts
-#EXTINF:-1 tvg-chno="82473" tvg-name="CFTODT-54 (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10108_ll_h15_ab.png" group-title="Canada" tvg-id="CFTOD54" tvc-guide-stationid="82473",CFTODT-54 (CTV)
+#EXTINF:-1 tvg-chno="82473" tvg-name="CFTODT-54 (CTV)" tvg-logo="https://logos.jesmann.com/cftod54.png" group-title="Canada" tvg-id="CFTOD54" tvc-guide-stationid="82473",CFTODT-54 (CTV)
 http://example.local/CAN-CFTOD54.ts
-#EXTINF:-1 tvg-chno="111868" tvg-name="CFTODT21 Orillia (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10166_ll_h15_ac.png" group-title="Canada" tvg-id="CFTOD21" tvc-guide-stationid="111868",CFTODT21 Orillia (CTV)
+#EXTINF:-1 tvg-chno="111868" tvg-name="CFTODT21 Orillia (CTV)" tvg-logo="https://logos.jesmann.com/cftod21.png" group-title="Canada" tvg-id="CFTOD21" tvc-guide-stationid="111868",CFTODT21 Orillia (CTV)
 http://example.local/CAN-CFTOD21.ts
 #EXTINF:-1 tvg-chno="79782" tvg-name="CFTV-DT" group-title="Canada" tvg-id="CFTVDT" tvc-guide-stationid="79782",CFTV-DT
 http://example.local/CAN-CFTVDT.ts
@@ -849,9 +863,9 @@ http://example.local/CAN-CFVSDT1.ts
 http://example.local/CAN-CFWE.ts
 #EXTINF:-1 tvg-chno="26621" tvg-name="CFYI AM Radio" group-title="Canada" tvg-id="CFYI" tvc-guide-stationid="26621",CFYI AM Radio
 http://example.local/CAN-CFYI.ts
-#EXTINF:-1 tvg-chno="17388" tvg-name="CFYK (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10084_ll_h15_ab.png" group-title="Canada" tvg-id="CFYK" tvc-guide-stationid="17388",CFYK (CBC)
+#EXTINF:-1 tvg-chno="17388" tvg-name="CFYK (CBC)" tvg-logo="https://logos.jesmann.com/cfyk.png" group-title="Canada" tvg-id="CFYK" tvc-guide-stationid="17388",CFYK (CBC)
 http://example.local/CAN-CFYK.ts
-#EXTINF:-1 tvg-chno="72816" tvg-name="CFYK-DT (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10084_ll_h15_ab.png" group-title="Canada" tvg-id="CFYKDT" tvc-guide-stationid="72816",CFYK-DT (CBC)
+#EXTINF:-1 tvg-chno="72816" tvg-name="CFYK-DT (CBC)" tvg-logo="https://logos.jesmann.com/cfykdt.png" group-title="Canada" tvg-id="CFYKDT" tvc-guide-stationid="72816",CFYK-DT (CBC)
 http://example.local/CAN-CFYKDT.ts
 #EXTINF:-1 tvg-chno="102642" tvg-name="CFZM-AM 740" group-title="Canada" tvg-id="CFZMAM" tvc-guide-stationid="102642",CFZM-AM 740
 http://example.local/CAN-CFZMAM.ts
@@ -867,10 +881,10 @@ http://example.local/CAN-CHANDT4.ts
 http://example.local/CAN-CHANDT6.ts
 #EXTINF:-1 tvg-chno="102587" tvg-name="Channel 299" tvg-logo="https://zap2it.tmsimg.com/assets/s102587_ll_h15_ae.png" group-title="Canada" tvg-id="SUNSTHD" tvc-guide-stationid="102587",Channel 299
 http://example.local/CAN-SUNSTHD.ts
-#EXTINF:-1 tvg-chno="90683" tvg-name="Channel I" tvg-logo="https://zap2it.tmsimg.com/assets/s90683_ll_h15_aa.png" group-title="Canada" tvg-id="CHANI" tvc-guide-stationid="90683",Channel I
-http://example.local/CAN-CHANI.ts
 #EXTINF:-1 tvg-chno="47228" tvg-name="Channel I" group-title="Canada" tvg-id="CHI" tvc-guide-stationid="47228",Channel I
 http://example.local/CAN-CHI.ts
+#EXTINF:-1 tvg-chno="90683" tvg-name="Channel I" tvg-logo="https://zap2it.tmsimg.com/assets/s90683_ll_h15_aa.png" group-title="Canada" tvg-id="CHANI" tvc-guide-stationid="90683",Channel I
+http://example.local/CAN-CHANI.ts
 #EXTINF:-1 tvg-chno="75179" tvg-name="Channel Punjabi" tvg-logo="https://zap2it.tmsimg.com/assets/s75179_ll_h15_aa.png" group-title="Canada" tvg-id="CPUNJ" tvc-guide-stationid="75179",Channel Punjabi
 http://example.local/CAN-CPUNJ.ts
 #EXTINF:-1 tvg-chno="106081" tvg-name="Channel Punjabi HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75179_ll_h15_aa.png" group-title="Canada" tvg-id="CPUNJHD" tvc-guide-stationid="106081",Channel Punjabi HD
@@ -895,7 +909,7 @@ http://example.local/CAN-CHCHDT3.ts
 http://example.local/CAN-CHCHDT1.ts
 #EXTINF:-1 tvg-chno="73283" tvg-name="CHCH-DT2" tvg-logo="https://zap2it.tmsimg.com/assets/s10112_ll_h15_aa.png" group-title="Canada" tvg-id="CHCHDT2" tvc-guide-stationid="73283",CHCH-DT2
 http://example.local/CAN-CHCHDT2.ts
-#EXTINF:-1 tvg-chno="78597" tvg-name="CHCJ-DT (CTV2)" tvg-logo="https://zap2it.tmsimg.com/assets/s10135_ll_h15_ab.png" group-title="Canada" tvg-id="CHCJDT" tvc-guide-stationid="78597",CHCJ-DT (CTV2)
+#EXTINF:-1 tvg-chno="78597" tvg-name="CHCJ-DT (CTV2)" tvg-logo="https://logos.jesmann.com/chcjdt.png" group-title="Canada" tvg-id="CHCJDT" tvc-guide-stationid="78597",CHCJ-DT (CTV2)
 http://example.local/CAN-CHCJDT.ts
 #EXTINF:-1 tvg-chno="88498" tvg-name="CHCO" tvg-logo="https://zap2it.tmsimg.com/assets/s88498_ll_h9_aa.png" group-title="Canada" tvg-id="CHCO" tvc-guide-stationid="88498",CHCO
 http://example.local/CAN-CHCO.ts
@@ -929,6 +943,8 @@ http://example.local/CAN-CHFNFM.ts
 http://example.local/CAN-CHHAAM.ts
 #EXTINF:-1 tvg-chno="20503" tvg-name="CHIN Radio" group-title="Canada" tvg-id="CHINRAD" tvc-guide-stationid="20503",CHIN Radio
 http://example.local/CAN-CHINRAD.ts
+#EXTINF:-1 tvg-chno="29114" tvg-name="China Global Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s29114_ll_h9_ab.png" group-title="Canada" tvg-id="CGTN" tvc-guide-stationid="29114",China Global Television Network
+http://example.local/CAN-CGTN.ts
 #EXTINF:-1 tvg-chno="79952" tvg-name="China Global Television Network 9 Documentary" tvg-logo="https://zap2it.tmsimg.com/assets/s79952_ll_h9_aa.png" group-title="Canada" tvg-id="CGTN9" tvc-guide-stationid="79952",China Global Television Network 9 Documentary
 http://example.local/CAN-CGTN9.ts
 #EXTINF:-1 tvg-chno="96362" tvg-name="China Global Television Network 9 Documentary HD" tvg-logo="https://zap2it.tmsimg.com/assets/s96362_ll_h15_aa.png" group-title="Canada" tvg-id="CGTN9HD" tvc-guide-stationid="96362",China Global Television Network 9 Documentary HD
@@ -995,27 +1011,11 @@ http://example.local/CAN-CHUMFM.ts
 http://example.local/CAN-CHUOFM.ts
 #EXTINF:-1 tvg-chno="61993" tvg-name="CHVN 95.1 FM - Today's Christian Music (CHVN)" group-title="Canada" tvg-id="CHVN" tvc-guide-stationid="61993",CHVN 95.1 FM - Today's Christian Music (CHVN)
 http://example.local/CAN-CHVN.ts
-#EXTINF:-1 tvg-chno="72956" tvg-name="CHWI-DT (CTV2)" tvg-logo="https://zap2it.tmsimg.com/assets/s10135_ll_h15_ab.png" group-title="Canada" tvg-id="CHWIDT" tvc-guide-stationid="72956",CHWI-DT (CTV2)
+#EXTINF:-1 tvg-chno="72956" tvg-name="CHWI-DT (CTV2)" tvg-logo="https://logos.jesmann.com/chwidt.png" group-title="Canada" tvg-id="CHWIDT" tvc-guide-stationid="72956",CHWI-DT (CTV2)
 http://example.local/CAN-CHWIDT.ts
-#EXTINF:-1 tvg-chno="73270" tvg-name="CHWIDT60 (CTV2)" tvg-logo="https://zap2it.tmsimg.com/assets/s10135_ll_h15_ab.png" group-title="Canada" tvg-id="CHWID60" tvc-guide-stationid="73270",CHWIDT60 (CTV2)
+#EXTINF:-1 tvg-chno="73270" tvg-name="CHWIDT60 (CTV2)" tvg-logo="https://logos.jesmann.com/chwid60.png" group-title="Canada" tvg-id="CHWID60" tvc-guide-stationid="73270",CHWIDT60 (CTV2)
 http://example.local/CAN-CHWID60.ts
 #EXTINF:-1 tvg-chno="102585" tvg-name="CHYM FM Kitchener" group-title="Canada" tvg-id="CHYMFM" tvc-guide-stationid="102585",CHYM FM Kitchener
 http://example.local/CAN-CHYMFM.ts
 #EXTINF:-1 tvg-chno="89462" tvg-name="CHYZ 94.3 Universite Laval (CHYZ-FM)" group-title="Canada" tvg-id="CHYZ" tvc-guide-stationid="89462",CHYZ 94.3 Universite Laval (CHYZ-FM)
 http://example.local/CAN-CHYZ.ts
-#EXTINF:-1 tvg-chno="89528" tvg-name="CIBL 101.5 Radio-Montreal (CIBL-FM)" tvg-logo="https://zap2it.tmsimg.com/assets/s89528_ll_h9_aa.png" group-title="Canada" tvg-id="CIBL" tvc-guide-stationid="89528",CIBL 101.5 Radio-Montreal (CIBL-FM)
-http://example.local/CAN-CIBL.ts
-#EXTINF:-1 tvg-chno="110008" tvg-name="CIBM" tvg-logo="https://zap2it.tmsimg.com/assets/s110008_ll_h15_aa.png" group-title="Canada" tvg-id="CIBM" tvc-guide-stationid="110008",CIBM
-http://example.local/CAN-CIBM.ts
-#EXTINF:-1 tvg-chno="73324" tvg-name="CICO-DT 18 LONDON" tvg-logo="https://zap2it.tmsimg.com/assets/s70583_h3_aa.png" group-title="Canada" tvg-id="CICOD18" tvc-guide-stationid="73324",CICO-DT 18 LONDON
-http://example.local/CAN-CICOD18.ts
-#EXTINF:-1 tvg-chno="87141" tvg-name="CICO-DT Belleville" tvg-logo="https://zap2it.tmsimg.com/assets/s70583_h3_aa.png" group-title="Canada" tvg-id="CICOD26" tvc-guide-stationid="87141",CICO-DT Belleville
-http://example.local/CAN-CICOD26.ts
-#EXTINF:-1 tvg-chno="88304" tvg-name="CICO-DT33 Chatham" tvg-logo="https://zap2it.tmsimg.com/assets/s70583_h3_aa.png" group-title="Canada" tvg-id="CICOD33" tvc-guide-stationid="88304",CICO-DT33 Chatham
-http://example.local/CAN-CICOD33.ts
-#EXTINF:-1 tvg-chno="73267" tvg-name="CICO-DT9 Thunder Bay" tvg-logo="https://zap2it.tmsimg.com/assets/s70583_h3_aa.png" group-title="Canada" tvg-id="CICODT9" tvc-guide-stationid="73267",CICO-DT9 Thunder Bay
-http://example.local/CAN-CICODT9.ts
-#EXTINF:-1 tvg-chno="73016" tvg-name="CICODT24 - Channel 24 Ottawa ON" tvg-logo="https://zap2it.tmsimg.com/assets/s70583_h3_aa.png" group-title="Canada" tvg-id="CICOD24" tvc-guide-stationid="73016",CICODT24 - Channel 24 Ottawa ON
-http://example.local/CAN-CICOD24.ts
-#EXTINF:-1 tvg-chno="73018" tvg-name="CICODT28 - Channel 28 Kitchener ON" tvg-logo="https://zap2it.tmsimg.com/assets/s70583_h3_aa.png" group-title="Canada" tvg-id="CICOD28" tvc-guide-stationid="73018",CICODT28 - Channel 28 Kitchener ON
-http://example.local/CAN-CICOD28.ts

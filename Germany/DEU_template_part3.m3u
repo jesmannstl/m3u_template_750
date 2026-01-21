@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="202555" tvg-name="Music Box Sexy" group-title="Germany" tvg-id="MBSDE" tvc-guide-stationid="202555",Music Box Sexy
+http://example.local/DEU-MBSDE.ts
+#EXTINF:-1 tvg-chno="116375" tvg-name="MV1 HD" group-title="Germany" tvg-id="MV1HD" tvc-guide-stationid="116375",MV1 HD
+http://example.local/DEU-MV1HD.ts
+#EXTINF:-1 tvg-chno="84050" tvg-name="MV1 Mein Land - Mein Sender" tvg-logo="https://zap2it.tmsimg.com/assets/s84050_ll_h15_aa.png" group-title="Germany" tvg-id="MV1ML" tvc-guide-stationid="84050",MV1 Mein Land - Mein Sender
+http://example.local/DEU-MV1ML.ts
+#EXTINF:-1 tvg-chno="146360" tvg-name="MyTime Movie Network" tvg-logo="https://zap2it.tmsimg.com/assets/s146360_ll_h15_aa.png" group-title="Germany" tvg-id="MYTMGR" tvc-guide-stationid="146360",MyTime Movie Network
+http://example.local/DEU-MYTMGR.ts
 #EXTINF:-1 tvg-chno="97733" tvg-name="MYTVPLUS Sachsen" tvg-logo="https://zap2it.tmsimg.com/assets/s97733_ll_h15_aa.png" group-title="Germany" tvg-id="MYTVPLS" tvc-guide-stationid="97733",MYTVPLUS Sachsen
 http://example.local/DEU-MYTVPLS.ts
 #EXTINF:-1 tvg-chno="84161" tvg-name="München 2" tvg-logo="https://zap2it.tmsimg.com/assets/s84161_ll_h15_ab.png" group-title="Germany" tvg-id="MUNCHHD" tvc-guide-stationid="84161",München 2
@@ -17,10 +25,10 @@ http://example.local/DEU-NTVATSD.ts
 http://example.local/DEU-NTVHD.ts
 #EXTINF:-1 tvg-chno="106110" tvg-name="n-tv HD Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s106110_ll_h9_ad.png" group-title="Germany" tvg-id="NTVATHD" tvc-guide-stationid="106110",n-tv HD Austria
 http://example.local/DEU-NTVATHD.ts
-#EXTINF:-1 tvg-chno="120140" tvg-name="N24 Doku" group-title="Germany" tvg-id="PTVDEND" tvc-guide-stationid="120140",N24 Doku
-http://example.local/DEU-PTVDEND.ts
 #EXTINF:-1 tvg-chno="100347" tvg-name="N24 Doku" tvg-logo="https://zap2it.tmsimg.com/assets/s100347_ll_h15_aa.png" group-title="Germany" tvg-id="N24DOKU" tvc-guide-stationid="100347",N24 Doku
 http://example.local/DEU-N24DOKU.ts
+#EXTINF:-1 tvg-chno="120140" tvg-name="N24 Doku" group-title="Germany" tvg-id="PTVDEND" tvc-guide-stationid="120140",N24 Doku
+http://example.local/DEU-PTVDEND.ts
 #EXTINF:-1 tvg-chno="110848" tvg-name="N24 Doku HD" tvg-logo="https://logos.jesmann.com/N24DKHD.png" group-title="Germany" tvg-id="N24DKHD" tvc-guide-stationid="110848",N24 Doku HD
 http://example.local/DEU-N24DKHD.ts
 #EXTINF:-1 tvg-chno="118730" tvg-name="nahe TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118730_ll_h15_aa.png" group-title="Germany" tvg-id="NAHEHD" tvc-guide-stationid="118730",nahe TV HD
@@ -37,16 +45,16 @@ http://example.local/DEU-NASKIRU.ts
 http://example.local/DEU-NASHNL.ts
 #EXTINF:-1 tvg-chno="91985" tvg-name="Nat Geo People HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91985_ll_h15_aa.png" group-title="Germany" tvg-id="NATGPHD" tvc-guide-stationid="91985",Nat Geo People HD
 http://example.local/DEU-NATGPHD.ts
-#EXTINF:-1 tvg-chno="83622" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s83622_ll_h15_ab.png" group-title="Germany" tvg-id="NGEODEU" tvc-guide-stationid="83622",National Geographic
-http://example.local/DEU-NGEODEU.ts
+#EXTINF:-1 tvg-chno="21592" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s21592_ll_h15_aa.png" group-title="Germany" tvg-id="NATGEO" tvc-guide-stationid="21592",National Geographic
+http://example.local/DEU-NATGEO.ts
 #EXTINF:-1 tvg-chno="77692" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s77692_ll_h15_aa.png" group-title="Germany" tvg-id="NATGECH" tvc-guide-stationid="77692",National Geographic
 http://example.local/DEU-NATGECH.ts
 #EXTINF:-1 tvg-chno="52472" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s52472_ll_h15_aa.png" group-title="Germany" tvg-id="NATGEF" tvc-guide-stationid="52472",National Geographic
 http://example.local/DEU-NATGEF.ts
 #EXTINF:-1 tvg-chno="86938" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s86938_ll_h15_ab.png" group-title="Germany" tvg-id="NGEOIB" tvc-guide-stationid="86938",National Geographic
 http://example.local/DEU-NGEOIB.ts
-#EXTINF:-1 tvg-chno="21592" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s21592_ll_h15_aa.png" group-title="Germany" tvg-id="NATGEO" tvc-guide-stationid="21592",National Geographic
-http://example.local/DEU-NATGEO.ts
+#EXTINF:-1 tvg-chno="83622" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s83622_ll_h15_ab.png" group-title="Germany" tvg-id="NGEODEU" tvc-guide-stationid="83622",National Geographic
+http://example.local/DEU-NGEODEU.ts
 #EXTINF:-1 tvg-chno="24112" tvg-name="National Geographic +1" tvg-logo="https://zap2it.tmsimg.com/assets/s24112_ll_h15_ab.png" group-title="Germany" tvg-id="NATG1" tvc-guide-stationid="24112",National Geographic +1
 http://example.local/DEU-NATG1.ts
 #EXTINF:-1 tvg-chno="105092" tvg-name="National Geographic Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s105092_ll_h15_aa.png" group-title="Germany" tvg-id="NATGENL" tvc-guide-stationid="105092",National Geographic Channel
@@ -61,22 +69,24 @@ http://example.local/DEU-NGCHDUK.ts
 http://example.local/DEU-NGHDKD.ts
 #EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="Germany" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
 http://example.local/DEU-NGC.ts
-#EXTINF:-1 tvg-chno="83621" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s83621_ll_h15_ac.png" group-title="Germany" tvg-id="NGEOWG" tvc-guide-stationid="83621",National Geographic Wild
-http://example.local/DEU-NGEOWG.ts
 #EXTINF:-1 tvg-chno="23305" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s23305_ll_h15_ac.png" group-title="Germany" tvg-id="NGWILDE" tvc-guide-stationid="23305",National Geographic Wild
 http://example.local/DEU-NGWILDE.ts
+#EXTINF:-1 tvg-chno="83621" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s83621_ll_h15_ac.png" group-title="Germany" tvg-id="NGEOWG" tvc-guide-stationid="83621",National Geographic Wild
+http://example.local/DEU-NGEOWG.ts
 #EXTINF:-1 tvg-chno="86880" tvg-name="National Geographic Wild HD" tvg-logo="https://logos.jesmann.com/NTGWHD.png" group-title="Germany" tvg-id="NTGWHD" tvc-guide-stationid="86880",National Geographic Wild HD
 http://example.local/DEU-NTGWHD.ts
 #EXTINF:-1 tvg-chno="101864" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s101864_ll_h15_ab.png" group-title="Germany" tvg-id="NGWHDKD" tvc-guide-stationid="101864",National Geographic Wild HD
 http://example.local/DEU-NGWHDKD.ts
 #EXTINF:-1 tvg-chno="46780" tvg-name="National Public Radio (NPR)" tvg-logo="https://zap2it.tmsimg.com/assets/s46780_ll_h15_aa.png" group-title="Germany" tvg-id="NPRAFN" tvc-guide-stationid="46780",National Public Radio (NPR)
 http://example.local/DEU-NPRAFN.ts
+#EXTINF:-1 tvg-chno="194248" tvg-name="Nature Moments" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002D50VE.png" group-title="Germany" tvg-id="NMGER" tvc-guide-stationid="194248",Nature Moments
+http://example.local/DEU-NMGER.ts
 #EXTINF:-1 tvg-chno="56242" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s56242_ll_h15_aa.png" group-title="Germany" tvg-id="NAUTCH" tvc-guide-stationid="56242",Nautical Channel
 http://example.local/DEU-NAUTCH.ts
-#EXTINF:-1 tvg-chno="103847" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s103847_ll_h15_ac.png" group-title="Germany" tvg-id="NAUTGER" tvc-guide-stationid="103847",Nautical Channel
-http://example.local/DEU-NAUTGER.ts
 #EXTINF:-1 tvg-chno="59623" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s59623_ll_h15_ab.png" group-title="Germany" tvg-id="NAUTFRE" tvc-guide-stationid="59623",Nautical Channel
 http://example.local/DEU-NAUTFRE.ts
+#EXTINF:-1 tvg-chno="103847" tvg-name="Nautical Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s103847_ll_h15_ac.png" group-title="Germany" tvg-id="NAUTGER" tvc-guide-stationid="103847",Nautical Channel
+http://example.local/DEU-NAUTGER.ts
 #EXTINF:-1 tvg-chno="106105" tvg-name="Nautical Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106105_ll_h15_aa.png" group-title="Germany" tvg-id="NAUFRHD" tvc-guide-stationid="106105",Nautical Channel HD
 http://example.local/DEU-NAUFRHD.ts
 #EXTINF:-1 tvg-chno="101489" tvg-name="NDR 1 Niedersachsen" tvg-logo="https://zap2it.tmsimg.com/assets/s101489_ll_h15_ac.png" group-title="Germany" tvg-id="NDR1NI" tvc-guide-stationid="101489",NDR 1 Niedersachsen
@@ -183,16 +193,16 @@ http://example.local/DEU-PTVDENR.ts
 http://example.local/DEU-NICKCC.ts
 #EXTINF:-1 tvg-chno="110430" tvg-name="Nick/Comedy Central +1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s110430_ll_h15_ac.png" group-title="Germany" tvg-id="NICKCC1" tvc-guide-stationid="110430",Nick/Comedy Central +1 HD
 http://example.local/DEU-NICKCC1.ts
-#EXTINF:-1 tvg-chno="83626" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s83626_ll_h15_ab.png" group-title="Germany" tvg-id="NICKDEU" tvc-guide-stationid="83626",Nickelodeon
-http://example.local/DEU-NICKDEU.ts
+#EXTINF:-1 tvg-chno="17419" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s17419_ll_h15_ab.png" group-title="Germany" tvg-id="NICK" tvc-guide-stationid="17419",Nickelodeon
+http://example.local/DEU-NICK.ts
 #EXTINF:-1 tvg-chno="86939" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s86939_ll_h15_aa.png" group-title="Germany" tvg-id="NIKESP" tvc-guide-stationid="86939",Nickelodeon
 http://example.local/DEU-NIKESP.ts
 #EXTINF:-1 tvg-chno="52479" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s52479_ll_h15_aa.png" group-title="Germany" tvg-id="NCKLDN" tvc-guide-stationid="52479",Nickelodeon
 http://example.local/DEU-NCKLDN.ts
-#EXTINF:-1 tvg-chno="17419" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s17419_ll_h15_ab.png" group-title="Germany" tvg-id="NICK" tvc-guide-stationid="17419",Nickelodeon
-http://example.local/DEU-NICK.ts
 #EXTINF:-1 tvg-chno="77727" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s77727_ll_h15_aa.png" group-title="Germany" tvg-id="NICKELO" tvc-guide-stationid="77727",Nickelodeon
 http://example.local/DEU-NICKELO.ts
+#EXTINF:-1 tvg-chno="83626" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s83626_ll_h15_ab.png" group-title="Germany" tvg-id="NICKDEU" tvc-guide-stationid="83626",Nickelodeon
+http://example.local/DEU-NICKDEU.ts
 #EXTINF:-1 tvg-chno="86878" tvg-name="Nickelodeon HD" tvg-logo="https://zap2it.tmsimg.com/assets/s86878_ll_h15_ab.png" group-title="Germany" tvg-id="NIKHDG" tvc-guide-stationid="86878",Nickelodeon HD
 http://example.local/DEU-NIKHDG.ts
 #EXTINF:-1 tvg-chno="86879" tvg-name="Nicktoons" tvg-logo="https://zap2it.tmsimg.com/assets/s86879_ll_h15_ab.png" group-title="Germany" tvg-id="NICKTON" tvc-guide-stationid="86879",Nicktoons
@@ -901,7 +911,7 @@ http://example.local/DEU-RAIQUAT.ts
 http://example.local/DEU-RAIGULP.ts
 #EXTINF:-1 tvg-chno="17250" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Germany" tvg-id="RAII" tvc-guide-stationid="17250",Rai Italia
 http://example.local/DEU-RAII.ts
-#EXTINF:-1 tvg-chno="109462" tvg-name="Rai Italia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Germany" tvg-id="RAIIHD" tvc-guide-stationid="109462",Rai Italia HD
+#EXTINF:-1 tvg-chno="109462" tvg-name="Rai Italia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Germany" tvg-id="RAIIHD" tvc-guide-stationid="109462",Rai Italia HD
 http://example.local/DEU-RAIIHD.ts
 #EXTINF:-1 tvg-chno="84697" tvg-name="Rai Movie" tvg-logo="https://zap2it.tmsimg.com/assets/s84697_ll_h15_aa.png" group-title="Germany" tvg-id="RAIMOV" tvc-guide-stationid="84697",Rai Movie
 http://example.local/DEU-RAIMOV.ts
@@ -959,12 +969,12 @@ http://example.local/DEU-RRECEUR.ts
 http://example.local/DEU-RECNEWS.ts
 #EXTINF:-1 tvg-chno="78342" tvg-name="Record TV HD (RREC)" tvg-logo="https://zap2it.tmsimg.com/assets/s78342_ll_h15_ab.png" group-title="Germany" tvg-id="RRECHD" tvc-guide-stationid="78342",Record TV HD (RREC)
 http://example.local/DEU-RRECHD.ts
+#EXTINF:-1 tvg-chno="125375" tvg-name="Red Bull TV" tvg-logo="https://zap2it.tmsimg.com/assets/s125375_ll_h15_aa.png" group-title="Germany" tvg-id="REDBAMZ" tvc-guide-stationid="125375",Red Bull TV
+http://example.local/DEU-REDBAMZ.ts
 #EXTINF:-1 tvg-chno="125359" tvg-name="Red Bull TV" tvg-logo="https://zap2it.tmsimg.com/assets/s125359_ll_h15_aa.png" group-title="Germany" tvg-id="REDBULL" tvc-guide-stationid="125359",Red Bull TV
 http://example.local/DEU-REDBULL.ts
 #EXTINF:-1 tvg-chno="115984" tvg-name="Red Bull TV" tvg-logo="https://zap2it.tmsimg.com/assets/s115984_ll_h15_ac.png" group-title="Germany" tvg-id="BESTORB" tvc-guide-stationid="115984",Red Bull TV
 http://example.local/DEU-BESTORB.ts
-#EXTINF:-1 tvg-chno="125375" tvg-name="Red Bull TV" tvg-logo="https://zap2it.tmsimg.com/assets/s125375_ll_h15_aa.png" group-title="Germany" tvg-id="REDBAMZ" tvc-guide-stationid="125375",Red Bull TV
-http://example.local/DEU-REDBAMZ.ts
 #EXTINF:-1 tvg-chno="118720" tvg-name="Red Bull TV Motorsport" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028E71G.png" group-title="Germany" tvg-id="RBMOSPHD" tvc-guide-stationid="118720",Red Bull TV Motorsport
 http://example.local/DEU-RBMOSPHD.ts
 #EXTINF:-1 tvg-chno="101568" tvg-name="Reggae" tvg-logo="https://zap2it.tmsimg.com/assets/s101568_ll_h9_aa.png" group-title="Germany" tvg-id="REGGAER" tvc-guide-stationid="101568",Reggae
@@ -1009,13 +1019,3 @@ http://example.local/DEU-RENTV.ts
 http://example.local/DEU-RENNS.ts
 #EXTINF:-1 tvg-chno="105454" tvg-name="Rennsteig TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105454_ll_h9_ab.png" group-title="Germany" tvg-id="RENNSHD" tvc-guide-stationid="105454",Rennsteig TV HD
 http://example.local/DEU-RENNSHD.ts
-#EXTINF:-1 tvg-chno="54779" tvg-name="Rete 4" tvg-logo="https://zap2it.tmsimg.com/assets/s54779_ll_h15_aa.png" group-title="Germany" tvg-id="RETE4" tvc-guide-stationid="54779",Rete 4
-http://example.local/DEU-RETE4.ts
-#EXTINF:-1 tvg-chno="32561" tvg-name="Revelation TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32561_ll_h15_ac.png" group-title="Germany" tvg-id="REVEL" tvc-guide-stationid="32561",Revelation TV
-http://example.local/DEU-REVEL.ts
-#EXTINF:-1 tvg-chno="84167" tvg-name="RFH - Regional Fernsehen Harzkann" tvg-logo="https://zap2it.tmsimg.com/assets/s84167_ll_h15_ab.png" group-title="Germany" tvg-id="RFH" tvc-guide-stationid="84167",RFH - Regional Fernsehen Harzkann
-http://example.local/DEU-RFH.ts
-#EXTINF:-1 tvg-chno="105914" tvg-name="RFH HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105914_ll_h15_ab.png" group-title="Germany" tvg-id="RFHHD" tvc-guide-stationid="105914",RFH HD
-http://example.local/DEU-RFHHD.ts
-#EXTINF:-1 tvg-chno="131323" tvg-name="RFI" tvg-logo="https://zap2it.tmsimg.com/assets/s131323_ll_h15_aa.png" group-title="Germany" tvg-id="RFIBE" tvc-guide-stationid="131323",RFI
-http://example.local/DEU-RFIBE.ts

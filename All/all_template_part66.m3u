@@ -1,4 +1,616 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="26768" tvg-name="Lifetime (Canada)" tvg-logo="https://zap2it.tmsimg.com/assets/s26768_ll_h15_ae.png" group-title="Canada" tvg-id="LIFEC" tvc-guide-stationid="26768",Lifetime (Canada)
+http://example.local/CAN-LIFEC.ts
+#EXTINF:-1 tvg-chno="26768" tvg-name="Lifetime (Canada)" tvg-logo="https://zap2it.tmsimg.com/assets/s26768_ll_h15_ae.png" group-title="United States" tvg-id="LIFEC" tvc-guide-stationid="26768",Lifetime (Canada)
+http://example.local/USA-LIFEC.ts
+#EXTINF:-1 tvg-chno="20566" tvg-name="Lifetime (Hawaiian)" group-title="United States" tvg-id="LIFEHAW" tvc-guide-stationid="20566",Lifetime (Hawaiian)
+http://example.local/USA-LIFEHAW.ts
+#EXTINF:-1 tvg-chno="10919" tvg-name="Lifetime (Pacific)" tvg-logo="https://logos.jesmann.com/lifep.png" group-title="United States" tvg-id="LIFEP" tvc-guide-stationid="10919",Lifetime (Pacific)
+http://example.local/USA-LIFEP.ts
+#EXTINF:-1 tvg-chno="10919" tvg-name="Lifetime (Pacific)" tvg-logo="https://logos.jesmann.com/lifep.png" group-title="Jamaica" tvg-id="LIFEP" tvc-guide-stationid="10919",Lifetime (Pacific)
+http://example.local/JAM-LIFEP.ts
+#EXTINF:-1 tvg-chno="10919" tvg-name="Lifetime (Pacific)" tvg-logo="https://logos.jesmann.com/lifep.png" group-title="Puerto Rico" tvg-id="LIFEP" tvc-guide-stationid="10919",Lifetime (Pacific)
+http://example.local/PRI-LIFEP.ts
+#EXTINF:-1 tvg-chno="60150" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60150_ll_h15_ad.png" group-title="United States" tvg-id="LIFEHD" tvc-guide-stationid="60150",Lifetime HD
+http://example.local/USA-LIFEHD.ts
+#EXTINF:-1 tvg-chno="182723" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60150_ll_h15_ad.png" group-title="United States" tvg-id="LIFEHDS" tvc-guide-stationid="182723",Lifetime HD
+http://example.local/USA-LIFEHDS.ts
+#EXTINF:-1 tvg-chno="116948" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116948_ll_h15_ab.png" group-title="Poland" tvg-id="LIFEPL" tvc-guide-stationid="116948",Lifetime HD
+http://example.local/POL-LIFEPL.ts
+#EXTINF:-1 tvg-chno="102409" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102409_ll_h15_ab.png" group-title="Brazil" tvg-id="LIFEBHD" tvc-guide-stationid="102409",Lifetime HD
+http://example.local/BRA-LIFEBHD.ts
+#EXTINF:-1 tvg-chno="60150" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60150_ll_h15_ad.png" group-title="Bermuda" tvg-id="LIFEHD" tvc-guide-stationid="60150",Lifetime HD
+http://example.local/BMU-LIFEHD.ts
+#EXTINF:-1 tvg-chno="60150" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60150_ll_h15_ad.png" group-title="Jamaica" tvg-id="LIFEHD" tvc-guide-stationid="60150",Lifetime HD
+http://example.local/JAM-LIFEHD.ts
+#EXTINF:-1 tvg-chno="60150" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60150_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="LIFEHD" tvc-guide-stationid="60150",Lifetime HD
+http://example.local/PRI-LIFEHD.ts
+#EXTINF:-1 tvg-chno="60150" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60150_ll_h15_ad.png" group-title="Cayman Islands" tvg-id="LIFEHD" tvc-guide-stationid="60150",Lifetime HD
+http://example.local/CYM-LIFEHD.ts
+#EXTINF:-1 tvg-chno="60150" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60150_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="LIFEHD" tvc-guide-stationid="60150",Lifetime HD
+http://example.local/TTO-LIFEHD.ts
+#EXTINF:-1 tvg-chno="60150" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60150_ll_h15_ad.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="LIFEHD" tvc-guide-stationid="60150",Lifetime HD
+http://example.local/BES-LIFEHD.ts
+#EXTINF:-1 tvg-chno="60150" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60150_ll_h15_ad.png" group-title="Belize" tvg-id="LIFEHD" tvc-guide-stationid="60150",Lifetime HD
+http://example.local/BLZ-LIFEHD.ts
+#EXTINF:-1 tvg-chno="60150" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60150_ll_h15_ad.png" group-title="Barbados" tvg-id="LIFEHD" tvc-guide-stationid="60150",Lifetime HD
+http://example.local/BRB-LIFEHD.ts
+#EXTINF:-1 tvg-chno="60150" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60150_ll_h15_ad.png" group-title="Turks and Caicos" tvg-id="LIFEHD" tvc-guide-stationid="60150",Lifetime HD
+http://example.local/TCA-LIFEHD.ts
+#EXTINF:-1 tvg-chno="60150" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60150_ll_h15_ad.png" group-title="Curacao" tvg-id="LIFEHD" tvc-guide-stationid="60150",Lifetime HD
+http://example.local/CUW-LIFEHD.ts
+#EXTINF:-1 tvg-chno="60150" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60150_ll_h15_ad.png" group-title="Aruba" tvg-id="LIFEHD" tvc-guide-stationid="60150",Lifetime HD
+http://example.local/ABW-LIFEHD.ts
+#EXTINF:-1 tvg-chno="60150" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60150_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="LIFEHD" tvc-guide-stationid="60150",Lifetime HD
+http://example.local/KNA-LIFEHD.ts
+#EXTINF:-1 tvg-chno="81202" tvg-name="Lifetime HD (Canada)" tvg-logo="https://zap2it.tmsimg.com/assets/s81202_ll_h15_af.png" group-title="Canada" tvg-id="LIFECHD" tvc-guide-stationid="81202",Lifetime HD (Canada)
+http://example.local/CAN-LIFECHD.ts
+#EXTINF:-1 tvg-chno="60250" tvg-name="Lifetime HD (Pacific)" tvg-logo="https://logos.jesmann.com/lifephd.png" group-title="United States" tvg-id="LIFEPHD" tvc-guide-stationid="60250",Lifetime HD (Pacific)
+http://example.local/USA-LIFEPHD.ts
+#EXTINF:-1 tvg-chno="117842" tvg-name="Lifetime HD PERRY AD" group-title="United States" tvg-id="LIFEHPA" tvc-guide-stationid="117842",Lifetime HD PERRY AD
+http://example.local/USA-LIFEHPA.ts
+#EXTINF:-1 tvg-chno="89213" tvg-name="Lifetime Latin America (Chile)" group-title="Chile" tvg-id="LIFELCH" tvc-guide-stationid="89213",Lifetime Latin America (Chile)
+http://example.local/CHL-LIFELCH.ts
+#EXTINF:-1 tvg-chno="100666" tvg-name="Lifetime Latin America HD (Colombia)" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Colombia" tvg-id="LIFELHC" tvc-guide-stationid="100666",Lifetime Latin America HD (Colombia)
+http://example.local/COL-LIFELHC.ts
+#EXTINF:-1 tvg-chno="121308" tvg-name="Lifetime Movie Favorites" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RBMZL.png" group-title="United States" tvg-id="LFTMOV" tvc-guide-stationid="121308",Lifetime Movie Favorites
+http://example.local/USA-LFTMOV.ts
+#EXTINF:-1 tvg-chno="45076" tvg-name="Lifetime Movie Network" group-title="United States" tvg-id="ESLMN" tvc-guide-stationid="45076",Lifetime Movie Network
+http://example.local/USA-ESLMN.ts
+#EXTINF:-1 tvg-chno="182724" tvg-name="Lifetime Movie Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55887_ll_h15_ag.png" group-title="United States" tvg-id="LMNHDS" tvc-guide-stationid="182724",Lifetime Movie Network HD
+http://example.local/USA-LMNHDS.ts
+#EXTINF:-1 tvg-chno="177720" tvg-name="Lifetime Movies Love & Drama" tvg-logo="https://zap2it.tmsimg.com/assets/s177720_ll_h15_ab.png" group-title="United States" tvg-id="LFTLD" tvc-guide-stationid="177720",Lifetime Movies Love & Drama
+http://example.local/USA-LFTLD.ts
+#EXTINF:-1 tvg-chno="33622" tvg-name="Lifetime On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s33622_ll_h15_ac.png" group-title="United States" tvg-id="LIFEDM" tvc-guide-stationid="33622",Lifetime On Demand
+http://example.local/USA-LIFEDM.ts
+#EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="United States" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
+http://example.local/USA-LRW.ts
+#EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="Bermuda" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
+http://example.local/BMU-LRW.ts
+#EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="Jamaica" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
+http://example.local/JAM-LRW.ts
+#EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
+http://example.local/PRI-LRW.ts
+#EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
+http://example.local/DOM-LRW.ts
+#EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="Bahamas" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
+http://example.local/BHS-LRW.ts
+#EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
+http://example.local/CYM-LRW.ts
+#EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
+http://example.local/TTO-LRW.ts
+#EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
+http://example.local/BES-LRW.ts
+#EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="Barbados" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
+http://example.local/BRB-LRW.ts
+#EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="Turks and Caicos" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
+http://example.local/TCA-LRW.ts
+#EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="British Virgin Islands" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
+http://example.local/VGB-LRW.ts
+#EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="Grenada" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
+http://example.local/GRD-LRW.ts
+#EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="St. Lucia" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
+http://example.local/LCA-LRW.ts
+#EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="Curacao" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
+http://example.local/CUW-LRW.ts
+#EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="Aruba" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
+http://example.local/ABW-LRW.ts
+#EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
+http://example.local/KNA-LRW.ts
+#EXTINF:-1 tvg-chno="121624" tvg-name="Lifetime StackTV" tvg-logo="https://zap2it.tmsimg.com/assets/s121624_ll_h15_aa.png" group-title="United States" tvg-id="ROGLIFE" tvc-guide-stationid="121624",Lifetime StackTV
+http://example.local/USA-ROGLIFE.ts
+#EXTINF:-1 tvg-chno="92260" tvg-name="Lifetime Stream" tvg-logo="https://zap2it.tmsimg.com/assets/s10918_ll_h15_ac.png" group-title="United States" tvg-id="LIFESTR" tvc-guide-stationid="92260",Lifetime Stream
+http://example.local/USA-LIFESTR.ts
+#EXTINF:-1 tvg-chno="105818" tvg-name="LIGA MEXICANA DEL PACIFICO" group-title="Mexico" tvg-id="LMP" tvc-guide-stationid="105818",LIGA MEXICANA DEL PACIFICO
+http://example.local/MEX-LMP.ts
+#EXTINF:-1 tvg-chno="105818" tvg-name="LIGA MEXICANA DEL PACIFICO" group-title="Peru" tvg-id="LMP" tvc-guide-stationid="105818",LIGA MEXICANA DEL PACIFICO
+http://example.local/PER-LMP.ts
+#EXTINF:-1 tvg-chno="89471" tvg-name="Lighthouse VOAR-FM" group-title="Canada" tvg-id="VOAR" tvc-guide-stationid="89471",Lighthouse VOAR-FM
+http://example.local/CAN-VOAR.ts
+#EXTINF:-1 tvg-chno="120497" tvg-name="Lilo TV" tvg-logo="https://zap2it.tmsimg.com/assets/s120497_ll_h15_aa.png" group-title="Germany" tvg-id="LILOTV" tvc-guide-stationid="120497",Lilo TV
+http://example.local/DEU-LILOTV.ts
+#EXTINF:-1 tvg-chno="120497" tvg-name="Lilo TV" tvg-logo="https://zap2it.tmsimg.com/assets/s120497_ll_h15_aa.png" group-title="France" tvg-id="LILOTV" tvc-guide-stationid="120497",Lilo TV
+http://example.local/FRA-LILOTV.ts
+#EXTINF:-1 tvg-chno="120497" tvg-name="Lilo TV" tvg-logo="https://zap2it.tmsimg.com/assets/s120497_ll_h15_aa.png" group-title="Belgium" tvg-id="LILOTV" tvc-guide-stationid="120497",Lilo TV
+http://example.local/BEL-LILOTV.ts
+#EXTINF:-1 tvg-chno="120497" tvg-name="Lilo TV" tvg-logo="https://zap2it.tmsimg.com/assets/s120497_ll_h15_aa.png" group-title="Netherlands" tvg-id="LILOTV" tvc-guide-stationid="120497",Lilo TV
+http://example.local/NLD-LILOTV.ts
+#EXTINF:-1 tvg-chno="120497" tvg-name="Lilo TV" tvg-logo="https://zap2it.tmsimg.com/assets/s120497_ll_h15_aa.png" group-title="Austria" tvg-id="LILOTV" tvc-guide-stationid="120497",Lilo TV
+http://example.local/AUT-LILOTV.ts
+#EXTINF:-1 tvg-chno="120497" tvg-name="Lilo TV" tvg-logo="https://zap2it.tmsimg.com/assets/s120497_ll_h15_aa.png" group-title="Switzerland" tvg-id="LILOTV" tvc-guide-stationid="120497",Lilo TV
+http://example.local/CHE-LILOTV.ts
+#EXTINF:-1 tvg-chno="122378" tvg-name="Lilo TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122378_ll_h9_aa.png" group-title="Germany" tvg-id="LILOTVHD" tvc-guide-stationid="122378",Lilo TV HD
+http://example.local/DEU-LILOTVHD.ts
+#EXTINF:-1 tvg-chno="122378" tvg-name="Lilo TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122378_ll_h9_aa.png" group-title="Switzerland" tvg-id="LILOTVHD" tvc-guide-stationid="122378",Lilo TV HD
+http://example.local/CHE-LILOTVHD.ts
+#EXTINF:-1 tvg-chno="124103" tvg-name="Line of Duty" tvg-logo="https://zap2it.tmsimg.com/assets/s124103_ll_h9_ab.png" group-title="United States" tvg-id="XMVLOD" tvc-guide-stationid="124103",Line of Duty
+http://example.local/USA-XMVLOD.ts
+#EXTINF:-1 tvg-chno="148563" tvg-name="Line of Duty" tvg-logo="https://zap2it.tmsimg.com/assets/s148563_ll_h9_aa.png" group-title="United States" tvg-id="XSLLOD" tvc-guide-stationid="148563",Line of Duty
+http://example.local/USA-XSLLOD.ts
+#EXTINF:-1 tvg-chno="163317" tvg-name="LingoToons" group-title="France" tvg-id="LINGO" tvc-guide-stationid="163317",LingoToons
+http://example.local/FRA-LINGO.ts
+#EXTINF:-1 tvg-chno="83949" tvg-name="LINK" tvg-logo="https://zap2it.tmsimg.com/assets/s83949_ll_h15_aa.png" group-title="Canada" tvg-id="LINK" tvc-guide-stationid="83949",LINK
+http://example.local/CAN-LINK.ts
+#EXTINF:-1 tvg-chno="83949" tvg-name="LINK" tvg-logo="https://zap2it.tmsimg.com/assets/s83949_ll_h15_aa.png" group-title="United States" tvg-id="LINK" tvc-guide-stationid="83949",LINK
+http://example.local/USA-LINK.ts
+#EXTINF:-1 tvg-chno="21450" tvg-name="Link TV" tvg-logo="https://zap2it.tmsimg.com/assets/s21450_ll_h15_aa.png" group-title="Jamaica" tvg-id="LINKTV" tvc-guide-stationid="21450",Link TV
+http://example.local/JAM-LINKTV.ts
+#EXTINF:-1 tvg-chno="21450" tvg-name="Link TV" tvg-logo="https://zap2it.tmsimg.com/assets/s21450_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="LINKTV" tvc-guide-stationid="21450",Link TV
+http://example.local/PRI-LINKTV.ts
+#EXTINF:-1 tvg-chno="21450" tvg-name="Link TV" tvg-logo="https://zap2it.tmsimg.com/assets/s21450_ll_h15_aa.png" group-title="Belize" tvg-id="LINKTV" tvc-guide-stationid="21450",Link TV
+http://example.local/BLZ-LINKTV.ts
+#EXTINF:-1 tvg-chno="190287" tvg-name="Lionsgate Collection" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00299EHZ.png" group-title="United States" tvg-id="LGCOLCT" tvc-guide-stationid="190287",Lionsgate Collection
+http://example.local/USA-LGCOLCT.ts
+#EXTINF:-1 tvg-chno="43233" tvg-name="Liquid Metal" group-title="United States" tvg-id="SRHDATK" tvc-guide-stationid="43233",Liquid Metal
+http://example.local/USA-SRHDATK.ts
+#EXTINF:-1 tvg-chno="66218" tvg-name="Litchfield Channel 5" group-title="United States" tvg-id="LOLITC" tvc-guide-stationid="66218",Litchfield Channel 5
+http://example.local/USA-LOLITC.ts
+#EXTINF:-1 tvg-chno="80161" tvg-name="Litchfield Education" group-title="United States" tvg-id="LITEDUC" tvc-guide-stationid="80161",Litchfield Education
+http://example.local/USA-LITEDUC.ts
+#EXTINF:-1 tvg-chno="60183" tvg-name="Lithium" group-title="United States" tvg-id="SRLTHM" tvc-guide-stationid="60183",Lithium
+http://example.local/USA-SRLTHM.ts
+#EXTINF:-1 tvg-chno="138449" tvg-name="Little House on the Prairie" tvg-logo="https://zap2it.tmsimg.com/assets/s138449_ll_h9_aa.png" group-title="United States" tvg-id="LHOTP" tvc-guide-stationid="138449",Little House on the Prairie
+http://example.local/USA-LHOTP.ts
+#EXTINF:-1 tvg-chno="93372" tvg-name="Little Saigon Radio Channel" group-title="United States" tvg-id="LSRC" tvc-guide-stationid="93372",Little Saigon Radio Channel
+http://example.local/USA-LSRC.ts
+#EXTINF:-1 tvg-chno="88274" tvg-name="Liv" tvg-logo="https://zap2it.tmsimg.com/assets/s88274_ll_h15_ab.png" group-title="Finland" tvg-id="LIVFIN" tvc-guide-stationid="88274",Liv
+http://example.local/FIN-LIVFIN.ts
+#EXTINF:-1 tvg-chno="88469" tvg-name="Liv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88469_ll_h15_ab.png" group-title="Finland" tvg-id="LIVFHD" tvc-guide-stationid="88469",Liv HD
+http://example.local/FIN-LIVFHD.ts
+#EXTINF:-1 tvg-chno="68825" tvg-name="Live Events Channel/Live Events" group-title="United Kingdom" tvg-id="LVEVNTS" tvc-guide-stationid="68825",Live Events Channel/Live Events
+http://example.local/GBR-LVEVNTS.ts
+#EXTINF:-1 tvg-chno="176608" tvg-name="Live PD Presents" tvg-logo="https://zap2it.tmsimg.com/assets/s176608_ll_h15_aa.png" group-title="United States" tvg-id="LIVEPD" tvc-guide-stationid="176608",Live PD Presents
+http://example.local/USA-LIVEPD.ts
+#EXTINF:-1 tvg-chno="176608" tvg-name="Live PD Presents" tvg-logo="https://zap2it.tmsimg.com/assets/s176608_ll_h15_aa.png" group-title="United Kingdom" tvg-id="LIVEPD" tvc-guide-stationid="176608",Live PD Presents
+http://example.local/GBR-LIVEPD.ts
+#EXTINF:-1 tvg-chno="119219" tvg-name="LiveNOW from FOX" tvg-logo="https://zap2it.tmsimg.com/assets/s119219_ll_h15_ab.png" group-title="United States" tvg-id="LIVENOW" tvc-guide-stationid="119219",LiveNOW from FOX
+http://example.local/USA-LIVENOW.ts
+#EXTINF:-1 tvg-chno="91299" tvg-name="Liverpool Football Club TV" tvg-logo="https://zap2it.tmsimg.com/assets/s91299_ll_h9_aa.png" group-title="United Kingdom" tvg-id="LFCEUVM" tvc-guide-stationid="91299",Liverpool Football Club TV
+http://example.local/GBR-LFCEUVM.ts
+#EXTINF:-1 tvg-chno="88528" tvg-name="Liverpool TV" tvg-logo="https://zap2it.tmsimg.com/assets/s88528_ll_h15_aa.png" group-title="United Kingdom" tvg-id="LVPOLTV" tvc-guide-stationid="88528",Liverpool TV
+http://example.local/GBR-LVPOLTV.ts
+#EXTINF:-1 tvg-chno="121350" tvg-name="LiveXLive TV" tvg-logo="https://zap2it.tmsimg.com/assets/s121350_ll_h15_aa.png" group-title="United States" tvg-id="LXLTV" tvc-guide-stationid="121350",LiveXLive TV
+http://example.local/USA-LXLTV.ts
+#EXTINF:-1 tvg-chno="44084" tvg-name="Living Asia Channel" group-title="United States" tvg-id="LAC" tvc-guide-stationid="44084",Living Asia Channel
+http://example.local/USA-LAC.ts
+#EXTINF:-1 tvg-chno="58595" tvg-name="Living Faith Network" tvg-logo="https://zap2it.tmsimg.com/assets/s58595_ll_h15_ad.png" group-title="United States" tvg-id="FAITH" tvc-guide-stationid="58595",Living Faith Network
+http://example.local/USA-FAITH.ts
+#EXTINF:-1 tvg-chno="96013" tvg-name="Living Faith Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s96013_ll_h15_ad.png" group-title="United States" tvg-id="FAITHHD" tvc-guide-stationid="96013",Living Faith Network HD
+http://example.local/USA-FAITHHD.ts
+#EXTINF:-1 tvg-chno="100148" tvg-name="Living Foodz" tvg-logo="https://zap2it.tmsimg.com/assets/s100148_ll_h9_aa.png" group-title="United States" tvg-id="LFOODZ" tvc-guide-stationid="100148",Living Foodz
+http://example.local/USA-LFOODZ.ts
+#EXTINF:-1 tvg-chno="170382" tvg-name="Living With Evil" tvg-logo="https://zap2it.tmsimg.com/assets/s170382_ll_h15_aa.png" group-title="United States" tvg-id="WBTVLWE" tvc-guide-stationid="170382",Living With Evil
+http://example.local/USA-WBTVLWE.ts
+#EXTINF:-1 tvg-chno="115357" tvg-name="Living Your Faith" tvg-logo="https://zap2it.tmsimg.com/assets/s115357_h3_aa.png" group-title="United States" tvg-id="LYF" tvc-guide-stationid="115357",Living Your Faith
+http://example.local/USA-LYF.ts
+#EXTINF:-1 tvg-chno="109609" tvg-name="LKPI" group-title="Germany" tvg-id="LKPI" tvc-guide-stationid="109609",LKPI
+http://example.local/DEU-LKPI.ts
+#EXTINF:-1 tvg-chno="147115" tvg-name="LMC+" group-title="Brazil" tvg-id="LMCPLUS" tvc-guide-stationid="147115",LMC+
+http://example.local/BRA-LMCPLUS.ts
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="United States" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/USA-LMN.ts
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="Bermuda" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/BMU-LMN.ts
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="Jamaica" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/JAM-LMN.ts
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/PRI-LMN.ts
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="Dominican Republic" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/DOM-LMN.ts
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="Bahamas" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/BHS-LMN.ts
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="Cayman Islands" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/CYM-LMN.ts
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/TTO-LMN.ts
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="Saint Vincent and the Grenadines" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/VCT-LMN.ts
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/BES-LMN.ts
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="Belize" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/BLZ-LMN.ts
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="Barbados" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/BRB-LMN.ts
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="Turks and Caicos" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/TCA-LMN.ts
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="British Virgin Islands" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/VGB-LMN.ts
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="Antigua and Barbuda" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/ATG-LMN.ts
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="St. Lucia" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/LCA-LMN.ts
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="Curacao" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/CUW-LMN.ts
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="Aruba" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/ABW-LMN.ts
+#EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="LMN" tvc-guide-stationid="18480",LMN
+http://example.local/KNA-LMN.ts
+#EXTINF:-1 tvg-chno="19192" tvg-name="LMN (Pacific)" tvg-logo="https://logos.jesmann.com/lmnp.png" group-title="United States" tvg-id="LMNP" tvc-guide-stationid="19192",LMN (Pacific)
+http://example.local/USA-LMNP.ts
+#EXTINF:-1 tvg-chno="55887" tvg-name="LMN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55887_ll_h15_ag.png" group-title="United States" tvg-id="LMNHD" tvc-guide-stationid="55887",LMN HD
+http://example.local/USA-LMNHD.ts
+#EXTINF:-1 tvg-chno="55887" tvg-name="LMN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55887_ll_h15_ag.png" group-title="Bermuda" tvg-id="LMNHD" tvc-guide-stationid="55887",LMN HD
+http://example.local/BMU-LMNHD.ts
+#EXTINF:-1 tvg-chno="55887" tvg-name="LMN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55887_ll_h15_ag.png" group-title="Jamaica" tvg-id="LMNHD" tvc-guide-stationid="55887",LMN HD
+http://example.local/JAM-LMNHD.ts
+#EXTINF:-1 tvg-chno="55887" tvg-name="LMN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55887_ll_h15_ag.png" group-title="Puerto Rico" tvg-id="LMNHD" tvc-guide-stationid="55887",LMN HD
+http://example.local/PRI-LMNHD.ts
+#EXTINF:-1 tvg-chno="55887" tvg-name="LMN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55887_ll_h15_ag.png" group-title="Cayman Islands" tvg-id="LMNHD" tvc-guide-stationid="55887",LMN HD
+http://example.local/CYM-LMNHD.ts
+#EXTINF:-1 tvg-chno="55887" tvg-name="LMN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55887_ll_h15_ag.png" group-title="Trinidad and Tobago" tvg-id="LMNHD" tvc-guide-stationid="55887",LMN HD
+http://example.local/TTO-LMNHD.ts
+#EXTINF:-1 tvg-chno="55887" tvg-name="LMN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55887_ll_h15_ag.png" group-title="Belize" tvg-id="LMNHD" tvc-guide-stationid="55887",LMN HD
+http://example.local/BLZ-LMNHD.ts
+#EXTINF:-1 tvg-chno="55887" tvg-name="LMN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55887_ll_h15_ag.png" group-title="Barbados" tvg-id="LMNHD" tvc-guide-stationid="55887",LMN HD
+http://example.local/BRB-LMNHD.ts
+#EXTINF:-1 tvg-chno="55887" tvg-name="LMN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55887_ll_h15_ag.png" group-title="Turks and Caicos" tvg-id="LMNHD" tvc-guide-stationid="55887",LMN HD
+http://example.local/TCA-LMNHD.ts
+#EXTINF:-1 tvg-chno="55887" tvg-name="LMN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55887_ll_h15_ag.png" group-title="Grenada" tvg-id="LMNHD" tvc-guide-stationid="55887",LMN HD
+http://example.local/GRD-LMNHD.ts
+#EXTINF:-1 tvg-chno="55887" tvg-name="LMN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55887_ll_h15_ag.png" group-title="Curacao" tvg-id="LMNHD" tvc-guide-stationid="55887",LMN HD
+http://example.local/CUW-LMNHD.ts
+#EXTINF:-1 tvg-chno="55887" tvg-name="LMN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55887_ll_h15_ag.png" group-title="Aruba" tvg-id="LMNHD" tvc-guide-stationid="55887",LMN HD
+http://example.local/ABW-LMNHD.ts
+#EXTINF:-1 tvg-chno="92373" tvg-name="LMN HD (Pacific)" tvg-logo="https://logos.jesmann.com/lmnphd.png" group-title="United States" tvg-id="LMNPHD" tvc-guide-stationid="92373",LMN HD (Pacific)
+http://example.local/USA-LMNPHD.ts
+#EXTINF:-1 tvg-chno="92261" tvg-name="LMN Stream" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="United States" tvg-id="LMNSTR" tvc-guide-stationid="92261",LMN Stream
+http://example.local/USA-LMNSTR.ts
+#EXTINF:-1 tvg-chno="101252" tvg-name="LN+" tvg-logo="https://zap2it.tmsimg.com/assets/s101238_ll_h15_aa.png" group-title="Argentina" tvg-id="NACPSD" tvc-guide-stationid="101252",LN+
+http://example.local/ARG-NACPSD.ts
+#EXTINF:-1 tvg-chno="101252" tvg-name="LN+" tvg-logo="https://zap2it.tmsimg.com/assets/s101238_ll_h15_aa.png" group-title="Uruguay" tvg-id="NACPSD" tvc-guide-stationid="101252",LN+
+http://example.local/URY-NACPSD.ts
+#EXTINF:-1 tvg-chno="101238" tvg-name="LN+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s101238_ll_h15_aa.png" group-title="Mexico" tvg-id="NACIONP" tvc-guide-stationid="101238",LN+ HD
+http://example.local/MEX-NACIONP.ts
+#EXTINF:-1 tvg-chno="101238" tvg-name="LN+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s101238_ll_h15_aa.png" group-title="Argentina" tvg-id="NACIONP" tvc-guide-stationid="101238",LN+ HD
+http://example.local/ARG-NACIONP.ts
+#EXTINF:-1 tvg-chno="101238" tvg-name="LN+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s101238_ll_h15_aa.png" group-title="Uruguay" tvg-id="NACIONP" tvc-guide-stationid="101238",LN+ HD
+http://example.local/URY-NACIONP.ts
+#EXTINF:-1 tvg-chno="122748" tvg-name="LN24 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122748_ll_h15_aa.png" group-title="Belgium" tvg-id="LN24HD" tvc-guide-stationid="122748",LN24 HD
+http://example.local/BEL-LN24HD.ts
+#EXTINF:-1 tvg-chno="97890" tvg-name="LNKTV City" group-title="United States" tvg-id="LNKC" tvc-guide-stationid="97890",LNKTV City
+http://example.local/USA-LNKC.ts
+#EXTINF:-1 tvg-chno="97880" tvg-name="LNKTV Education" group-title="United States" tvg-id="LNKE" tvc-guide-stationid="97880",LNKTV Education
+http://example.local/USA-LNKE.ts
+#EXTINF:-1 tvg-chno="97896" tvg-name="LNKTV Health" group-title="United States" tvg-id="LNKH" tvc-guide-stationid="97896",LNKTV Health
+http://example.local/USA-LNKH.ts
+#EXTINF:-1 tvg-chno="124015" tvg-name="Lo Mejor de la Liga MX" tvg-logo="https://zap2it.tmsimg.com/assets/s124015_ll_h15_ab.png" group-title="Mexico" tvg-id="LOMLIG" tvc-guide-stationid="124015",Lo Mejor de la Liga MX
+http://example.local/MEX-LOMLIG.ts
+#EXTINF:-1 tvg-chno="124015" tvg-name="Lo Mejor de la Liga MX" tvg-logo="https://zap2it.tmsimg.com/assets/s124015_ll_h15_ab.png" group-title="United States" tvg-id="LOMLIG" tvc-guide-stationid="124015",Lo Mejor de la Liga MX
+http://example.local/USA-LOMLIG.ts
+#EXTINF:-1 tvg-chno="134803" tvg-name="Lo Mejor de Liga MX" tvg-logo="https://zap2it.tmsimg.com/assets/s124015_ll_h15_ab.png" group-title="Mexico" tvg-id="LMLIGM" tvc-guide-stationid="134803",Lo Mejor de Liga MX
+http://example.local/MEX-LMLIGM.ts
+#EXTINF:-1 tvg-chno="64365" tvg-name="Lo Mejor On Demand" group-title="United States" tvg-id="MEJORDM" tvc-guide-stationid="64365",Lo Mejor On Demand
+http://example.local/USA-MEJORDM.ts
+#EXTINF:-1 tvg-chno="123909" tvg-name="Lo que la vida me robó" tvg-logo="https://zap2it.tmsimg.com/assets/s123909_ll_h15_ab.png" group-title="Mexico" tvg-id="LOQVID" tvc-guide-stationid="123909",Lo que la vida me robó
+http://example.local/MEX-LOQVID.ts
+#EXTINF:-1 tvg-chno="123909" tvg-name="Lo que la vida me robó" tvg-logo="https://zap2it.tmsimg.com/assets/s123909_ll_h15_ab.png" group-title="United States" tvg-id="LOQVID" tvc-guide-stationid="123909",Lo que la vida me robó
+http://example.local/USA-LOQVID.ts
+#EXTINF:-1 tvg-chno="116910" tvg-name="Loading" tvg-logo="https://zap2it.tmsimg.com/assets/s116910_ll_h15_aa.png" group-title="Brazil" tvg-id="LOADING" tvc-guide-stationid="116910",Loading
+http://example.local/BRA-LOADING.ts
+#EXTINF:-1 tvg-chno="66056" tvg-name="Lobby Camera" group-title="Canada" tvg-id="MTSBLC" tvc-guide-stationid="66056",Lobby Camera
+http://example.local/CAN-MTSBLC.ts
+#EXTINF:-1 tvg-chno="117584" tvg-name="Lobby Watch Channel" group-title="Canada" tvg-id="LW" tvc-guide-stationid="117584",Lobby Watch Channel
+http://example.local/CAN-LW.ts
+#EXTINF:-1 tvg-chno="117585" tvg-name="Lobby Watch Channel 1" tvg-logo="https://zap2it.tmsimg.com/assets/s117585_ll_h15_aa.png" group-title="Canada" tvg-id="LW1" tvc-guide-stationid="117585",Lobby Watch Channel 1
+http://example.local/CAN-LW1.ts
+#EXTINF:-1 tvg-chno="117586" tvg-name="Lobby Watch Channel 2" tvg-logo="https://zap2it.tmsimg.com/assets/s117585_h3_aa.png" group-title="Canada" tvg-id="LW2" tvc-guide-stationid="117586",Lobby Watch Channel 2
+http://example.local/CAN-LW2.ts
+#EXTINF:-1 tvg-chno="117587" tvg-name="Lobby Watch Channel 3" tvg-logo="https://zap2it.tmsimg.com/assets/s117585_ll_h15_aa.png" group-title="Canada" tvg-id="LW3" tvc-guide-stationid="117587",Lobby Watch Channel 3
+http://example.local/CAN-LW3.ts
+#EXTINF:-1 tvg-chno="117588" tvg-name="Lobby Watch Channel 4" tvg-logo="https://zap2it.tmsimg.com/assets/s117585_ll_h15_aa.png" group-title="Canada" tvg-id="LW4" tvc-guide-stationid="117588",Lobby Watch Channel 4
+http://example.local/CAN-LW4.ts
+#EXTINF:-1 tvg-chno="117589" tvg-name="Lobby Watch Channel 5" tvg-logo="https://zap2it.tmsimg.com/assets/s117585_ll_h15_aa.png" group-title="Canada" tvg-id="LW5" tvc-guide-stationid="117589",Lobby Watch Channel 5
+http://example.local/CAN-LW5.ts
+#EXTINF:-1 tvg-chno="117590" tvg-name="Lobby Watch Channel 6" tvg-logo="https://zap2it.tmsimg.com/assets/s117585_ll_h15_aa.png" group-title="Canada" tvg-id="LW6" tvc-guide-stationid="117590",Lobby Watch Channel 6
+http://example.local/CAN-LW6.ts
+#EXTINF:-1 tvg-chno="117591" tvg-name="Lobby Watch Channel 7" tvg-logo="https://zap2it.tmsimg.com/assets/s117585_ll_h15_aa.png" group-title="Canada" tvg-id="LW7" tvc-guide-stationid="117591",Lobby Watch Channel 7
+http://example.local/CAN-LW7.ts
+#EXTINF:-1 tvg-chno="117592" tvg-name="Lobby Watch Channel 8" tvg-logo="https://zap2it.tmsimg.com/assets/s117585_ll_h15_aa.png" group-title="Canada" tvg-id="LW8" tvc-guide-stationid="117592",Lobby Watch Channel 8
+http://example.local/CAN-LW8.ts
+#EXTINF:-1 tvg-chno="46475" tvg-name="LOC2X" group-title="United States" tvg-id="LOC2X" tvc-guide-stationid="46475",LOC2X
+http://example.local/USA-LOC2X.ts
+#EXTINF:-1 tvg-chno="46476" tvg-name="LOC3X" group-title="United States" tvg-id="LOC3X" tvc-guide-stationid="46476",LOC3X
+http://example.local/USA-LOC3X.ts
+#EXTINF:-1 tvg-chno="46478" tvg-name="LOC4X" group-title="United States" tvg-id="LOC4X" tvc-guide-stationid="46478",LOC4X
+http://example.local/USA-LOC4X.ts
+#EXTINF:-1 tvg-chno="46479" tvg-name="LOC5X" group-title="United States" tvg-id="LOC5X" tvc-guide-stationid="46479",LOC5X
+http://example.local/USA-LOC5X.ts
+#EXTINF:-1 tvg-chno="94233" tvg-name="LOC6 HDTV" group-title="United States" tvg-id="LOC6HD" tvc-guide-stationid="94233",LOC6 HDTV
+http://example.local/USA-LOC6HD.ts
+#EXTINF:-1 tvg-chno="46480" tvg-name="LOC6X" group-title="United States" tvg-id="LOC6X" tvc-guide-stationid="46480",LOC6X
+http://example.local/USA-LOC6X.ts
+#EXTINF:-1 tvg-chno="94250" tvg-name="LOC7 HDTV" group-title="United States" tvg-id="LOC7HD" tvc-guide-stationid="94250",LOC7 HDTV
+http://example.local/USA-LOC7HD.ts
+#EXTINF:-1 tvg-chno="20584" tvg-name="Local" group-title="United States" tvg-id="LOC1" tvc-guide-stationid="20584",Local
+http://example.local/USA-LOC1.ts
+#EXTINF:-1 tvg-chno="92912" tvg-name="Local 10" group-title="United States" tvg-id="LOC10" tvc-guide-stationid="92912",Local 10
+http://example.local/USA-LOC10.ts
+#EXTINF:-1 tvg-chno="94824" tvg-name="Local 2" group-title="United States" tvg-id="LOCTWO" tvc-guide-stationid="94824",Local 2
+http://example.local/USA-LOCTWO.ts
+#EXTINF:-1 tvg-chno="94359" tvg-name="Local 2 HDTV" group-title="United States" tvg-id="LOC2HD" tvc-guide-stationid="94359",Local 2 HDTV
+http://example.local/USA-LOC2HD.ts
+#EXTINF:-1 tvg-chno="94679" tvg-name="Local 3" group-title="United States" tvg-id="LOCL3" tvc-guide-stationid="94679",Local 3
+http://example.local/USA-LOCL3.ts
+#EXTINF:-1 tvg-chno="93578" tvg-name="Local 3 HDTV" group-title="United States" tvg-id="LOC3HD" tvc-guide-stationid="93578",Local 3 HDTV
+http://example.local/USA-LOC3HD.ts
+#EXTINF:-1 tvg-chno="94232" tvg-name="Local 4" group-title="United States" tvg-id="LOCL4" tvc-guide-stationid="94232",Local 4
+http://example.local/USA-LOCL4.ts
+#EXTINF:-1 tvg-chno="92586" tvg-name="Local 4 HDTV" group-title="United States" tvg-id="LOC4HD" tvc-guide-stationid="92586",Local 4 HDTV
+http://example.local/USA-LOC4HD.ts
+#EXTINF:-1 tvg-chno="93566" tvg-name="Local 5" group-title="United States" tvg-id="LOC5" tvc-guide-stationid="93566",Local 5
+http://example.local/USA-LOC5.ts
+#EXTINF:-1 tvg-chno="93965" tvg-name="Local 5 HDTV" group-title="United States" tvg-id="LOC5HD" tvc-guide-stationid="93965",Local 5 HDTV
+http://example.local/USA-LOC5HD.ts
+#EXTINF:-1 tvg-chno="93252" tvg-name="Local 6" group-title="United States" tvg-id="LOC6" tvc-guide-stationid="93252",Local 6
+http://example.local/USA-LOC6.ts
+#EXTINF:-1 tvg-chno="93972" tvg-name="Local 7" group-title="United States" tvg-id="LOC7" tvc-guide-stationid="93972",Local 7
+http://example.local/USA-LOC7.ts
+#EXTINF:-1 tvg-chno="94053" tvg-name="Local 8" group-title="United States" tvg-id="LOC8" tvc-guide-stationid="94053",Local 8
+http://example.local/USA-LOC8.ts
+#EXTINF:-1 tvg-chno="92777" tvg-name="Local 9" group-title="United States" tvg-id="LOC9" tvc-guide-stationid="92777",Local 9
+http://example.local/USA-LOC9.ts
+#EXTINF:-1 tvg-chno="20079" tvg-name="Local Access" group-title="United States" tvg-id="LOAC" tvc-guide-stationid="20079",Local Access
+http://example.local/USA-LOAC.ts
+#EXTINF:-1 tvg-chno="94132" tvg-name="Local Access" group-title="United States" tvg-id="ACSS" tvc-guide-stationid="94132",Local Access
+http://example.local/USA-ACSS.ts
+#EXTINF:-1 tvg-chno="94252" tvg-name="Local Access HD" group-title="United States" tvg-id="LOCHD" tvc-guide-stationid="94252",Local Access HD
+http://example.local/USA-LOCHD.ts
+#EXTINF:-1 tvg-chno="93925" tvg-name="Local Access Programming" group-title="United States" tvg-id="LACPRO" tvc-guide-stationid="93925",Local Access Programming
+http://example.local/USA-LACPRO.ts
+#EXTINF:-1 tvg-chno="92701" tvg-name="Local Access Programming" group-title="United States" tvg-id="ACESSAD" tvc-guide-stationid="92701",Local Access Programming
+http://example.local/USA-ACESSAD.ts
+#EXTINF:-1 tvg-chno="122825" tvg-name="Local Access Programming 1" group-title="United States" tvg-id="LO1SD" tvc-guide-stationid="122825",Local Access Programming 1
+http://example.local/USA-LO1SD.ts
+#EXTINF:-1 tvg-chno="122826" tvg-name="Local Access Programming 1 HD" group-title="United States" tvg-id="LO1HD" tvc-guide-stationid="122826",Local Access Programming 1 HD
+http://example.local/USA-LO1HD.ts
+#EXTINF:-1 tvg-chno="122843" tvg-name="Local Access Programming 10" group-title="United States" tvg-id="LO10SD" tvc-guide-stationid="122843",Local Access Programming 10
+http://example.local/USA-LO10SD.ts
+#EXTINF:-1 tvg-chno="122844" tvg-name="Local Access Programming 10 HD" group-title="United States" tvg-id="LO10HD" tvc-guide-stationid="122844",Local Access Programming 10 HD
+http://example.local/USA-LO10HD.ts
+#EXTINF:-1 tvg-chno="122827" tvg-name="Local Access Programming 2" group-title="United States" tvg-id="LO2SD" tvc-guide-stationid="122827",Local Access Programming 2
+http://example.local/USA-LO2SD.ts
+#EXTINF:-1 tvg-chno="122828" tvg-name="Local Access Programming 2 HD [comcast]" group-title="United States" tvg-id="LO2HD" tvc-guide-stationid="122828",Local Access Programming 2 HD [comcast]
+http://example.local/USA-LO2HD.ts
+#EXTINF:-1 tvg-chno="122829" tvg-name="Local Access Programming 3" group-title="United States" tvg-id="LO3SD" tvc-guide-stationid="122829",Local Access Programming 3
+http://example.local/USA-LO3SD.ts
+#EXTINF:-1 tvg-chno="122830" tvg-name="Local Access Programming 3 HD" group-title="United States" tvg-id="LO3HD" tvc-guide-stationid="122830",Local Access Programming 3 HD
+http://example.local/USA-LO3HD.ts
+#EXTINF:-1 tvg-chno="122831" tvg-name="Local Access Programming 4" group-title="United States" tvg-id="LO4SD" tvc-guide-stationid="122831",Local Access Programming 4
+http://example.local/USA-LO4SD.ts
+#EXTINF:-1 tvg-chno="122832" tvg-name="Local Access Programming 4 HD" group-title="United States" tvg-id="LO4HD" tvc-guide-stationid="122832",Local Access Programming 4 HD
+http://example.local/USA-LO4HD.ts
+#EXTINF:-1 tvg-chno="122833" tvg-name="Local Access Programming 5" group-title="United States" tvg-id="LO5SD" tvc-guide-stationid="122833",Local Access Programming 5
+http://example.local/USA-LO5SD.ts
+#EXTINF:-1 tvg-chno="122834" tvg-name="Local Access Programming 5 HD" group-title="United States" tvg-id="LO5HD" tvc-guide-stationid="122834",Local Access Programming 5 HD
+http://example.local/USA-LO5HD.ts
+#EXTINF:-1 tvg-chno="122835" tvg-name="Local Access Programming 6" group-title="United States" tvg-id="LO6SD" tvc-guide-stationid="122835",Local Access Programming 6
+http://example.local/USA-LO6SD.ts
+#EXTINF:-1 tvg-chno="122836" tvg-name="Local Access Programming 6 HD" group-title="United States" tvg-id="LO6HD" tvc-guide-stationid="122836",Local Access Programming 6 HD
+http://example.local/USA-LO6HD.ts
+#EXTINF:-1 tvg-chno="122837" tvg-name="Local Access Programming 7" group-title="United States" tvg-id="LO7SD" tvc-guide-stationid="122837",Local Access Programming 7
+http://example.local/USA-LO7SD.ts
+#EXTINF:-1 tvg-chno="122838" tvg-name="Local Access Programming 7 HD" group-title="United States" tvg-id="LO7HD" tvc-guide-stationid="122838",Local Access Programming 7 HD
+http://example.local/USA-LO7HD.ts
+#EXTINF:-1 tvg-chno="122839" tvg-name="Local Access Programming 8" group-title="United States" tvg-id="LO8SD" tvc-guide-stationid="122839",Local Access Programming 8
+http://example.local/USA-LO8SD.ts
+#EXTINF:-1 tvg-chno="122840" tvg-name="Local Access Programming 8 HD" group-title="United States" tvg-id="LO8HD" tvc-guide-stationid="122840",Local Access Programming 8 HD
+http://example.local/USA-LO8HD.ts
+#EXTINF:-1 tvg-chno="122841" tvg-name="Local Access Programming 9" group-title="United States" tvg-id="LO9SD" tvc-guide-stationid="122841",Local Access Programming 9
+http://example.local/USA-LO9SD.ts
+#EXTINF:-1 tvg-chno="122842" tvg-name="Local Access Programming 9 HD" group-title="United States" tvg-id="LO9HD" tvc-guide-stationid="122842",Local Access Programming 9 HD
+http://example.local/USA-LO9HD.ts
+#EXTINF:-1 tvg-chno="94433" tvg-name="Local Access Programming HDTV" group-title="United States" tvg-id="LOCAHD" tvc-guide-stationid="94433",Local Access Programming HDTV
+http://example.local/USA-LOCAHD.ts
+#EXTINF:-1 tvg-chno="91086" tvg-name="Local Access- Shop Zeal 8" group-title="United States" tvg-id="SHOPZ8" tvc-guide-stationid="91086",Local Access- Shop Zeal 8
+http://example.local/USA-SHOPZ8.ts
+#EXTINF:-1 tvg-chno="94484" tvg-name="Local Advertising" group-title="United States" tvg-id="AD" tvc-guide-stationid="94484",Local Advertising
+http://example.local/USA-AD.ts
+#EXTINF:-1 tvg-chno="32122" tvg-name="Local Announcements" group-title="Canada" tvg-id="LOCANN" tvc-guide-stationid="32122",Local Announcements
+http://example.local/CAN-LOCANN.ts
+#EXTINF:-1 tvg-chno="93600" tvg-name="Local Channel 1" group-title="United States" tvg-id="LOCAL1" tvc-guide-stationid="93600",Local Channel 1
+http://example.local/USA-LOCAL1.ts
+#EXTINF:-1 tvg-chno="93554" tvg-name="Local Channel 2" group-title="United States" tvg-id="LOC2" tvc-guide-stationid="93554",Local Channel 2
+http://example.local/USA-LOC2.ts
+#EXTINF:-1 tvg-chno="92849" tvg-name="Local Channel 3" group-title="United States" tvg-id="LOC3" tvc-guide-stationid="92849",Local Channel 3
+http://example.local/USA-LOC3.ts
+#EXTINF:-1 tvg-chno="94151" tvg-name="Local Channel 4" group-title="United States" tvg-id="LOC4" tvc-guide-stationid="94151",Local Channel 4
+http://example.local/USA-LOC4.ts
+#EXTINF:-1 tvg-chno="94467" tvg-name="Local Character Generator" group-title="United States" tvg-id="LOCHGN" tvc-guide-stationid="94467",Local Character Generator
+http://example.local/USA-LOCHGN.ts
+#EXTINF:-1 tvg-chno="46593" tvg-name="Local Charter Channel" group-title="United States" tvg-id="CHARTCH" tvc-guide-stationid="46593",Local Charter Channel
+http://example.local/USA-CHARTCH.ts
+#EXTINF:-1 tvg-chno="71744" tvg-name="Local Classified Advertising" group-title="United States" tvg-id="ADVER" tvc-guide-stationid="71744",Local Classified Advertising
+http://example.local/USA-ADVER.ts
+#EXTINF:-1 tvg-chno="42825" tvg-name="Local Digital Channel" group-title="United States" tvg-id="LDT" tvc-guide-stationid="42825",Local Digital Channel
+http://example.local/USA-LDT.ts
+#EXTINF:-1 tvg-chno="19950" tvg-name="Local Education" group-title="United States" tvg-id="LOED" tvc-guide-stationid="19950",Local Education
+http://example.local/USA-LOED.ts
+#EXTINF:-1 tvg-chno="32115" tvg-name="Local Events and More" group-title="Canada" tvg-id="LOCEV" tvc-guide-stationid="32115",Local Events and More
+http://example.local/CAN-LOCEV.ts
+#EXTINF:-1 tvg-chno="93332" tvg-name="Local Events Channel" group-title="United States" tvg-id="LOCEVT" tvc-guide-stationid="93332",Local Events Channel
+http://example.local/USA-LOCEVT.ts
+#EXTINF:-1 tvg-chno="92693" tvg-name="Local Government Access" group-title="United States" tvg-id="GVTA" tvc-guide-stationid="92693",Local Government Access
+http://example.local/USA-GVTA.ts
+#EXTINF:-1 tvg-chno="105298" tvg-name="Local Government Access" group-title="United States" tvg-id="LGOVA" tvc-guide-stationid="105298",Local Government Access
+http://example.local/USA-LGOVA.ts
+#EXTINF:-1 tvg-chno="96894" tvg-name="Local Government Access" group-title="United States" tvg-id="LOCALGA" tvc-guide-stationid="96894",Local Government Access
+http://example.local/USA-LOCALGA.ts
+#EXTINF:-1 tvg-chno="105257" tvg-name="Local Government Access HD" group-title="United States" tvg-id="GVTAHD" tvc-guide-stationid="105257",Local Government Access HD
+http://example.local/USA-GVTAHD.ts
+#EXTINF:-1 tvg-chno="93417" tvg-name="Local Government Channel" group-title="United States" tvg-id="GOVCH" tvc-guide-stationid="93417",Local Government Channel
+http://example.local/USA-GOVCH.ts
+#EXTINF:-1 tvg-chno="93595" tvg-name="Local Information" group-title="United States" tvg-id="LOCALIN" tvc-guide-stationid="93595",Local Information
+http://example.local/USA-LOCALIN.ts
+#EXTINF:-1 tvg-chno="32117" tvg-name="Local Information English" group-title="United States" tvg-id="INFOENG" tvc-guide-stationid="32117",Local Information English
+http://example.local/USA-INFOENG.ts
+#EXTINF:-1 tvg-chno="94140" tvg-name="Local Insertion" group-title="United States" tvg-id="LOCLINS" tvc-guide-stationid="94140",Local Insertion
+http://example.local/USA-LOCLINS.ts
+#EXTINF:-1 tvg-chno="93498" tvg-name="Local Insertion Hotel 1" group-title="United States" tvg-id="LINH1" tvc-guide-stationid="93498",Local Insertion Hotel 1
+http://example.local/USA-LINH1.ts
+#EXTINF:-1 tvg-chno="92718" tvg-name="Local Insertion Hotel 2" group-title="United States" tvg-id="LIN2" tvc-guide-stationid="92718",Local Insertion Hotel 2
+http://example.local/USA-LIN2.ts
+#EXTINF:-1 tvg-chno="92575" tvg-name="Local Insertion Hotel 3" group-title="United States" tvg-id="LIN3" tvc-guide-stationid="92575",Local Insertion Hotel 3
+http://example.local/USA-LIN3.ts
+#EXTINF:-1 tvg-chno="93356" tvg-name="Local Insertion Hotel 4" group-title="United States" tvg-id="LIN4" tvc-guide-stationid="93356",Local Insertion Hotel 4
+http://example.local/USA-LIN4.ts
+#EXTINF:-1 tvg-chno="83315" tvg-name="Local Interest On Demand" group-title="United States" tvg-id="LIDM" tvc-guide-stationid="83315",Local Interest On Demand
+http://example.local/USA-LIDM.ts
+#EXTINF:-1 tvg-chno="183475" tvg-name="Local Look Today" tvg-logo="https://zap2it.tmsimg.com/assets/s183475_ll_h9_aa.png" group-title="United States" tvg-id="LNLC" tvc-guide-stationid="183475",Local Look Today
+http://example.local/USA-LNLC.ts
+#EXTINF:-1 tvg-chno="96832" tvg-name="Local Mounds View Schools Programming" tvg-logo="https://zap2it.tmsimg.com/assets/s96832_ll_h15_ab.png" group-title="United States" tvg-id="NNMVS" tvc-guide-stationid="96832",Local Mounds View Schools Programming
+http://example.local/USA-NNMVS.ts
+#EXTINF:-1 tvg-chno="22580" tvg-name="Local News" group-title="United States" tvg-id="NEWS" tvc-guide-stationid="22580",Local News
+http://example.local/USA-NEWS.ts
+#EXTINF:-1 tvg-chno="171039" tvg-name="Local News 1 US" group-title="United States" tvg-id="LOCNEW1" tvc-guide-stationid="171039",Local News 1 US
+http://example.local/USA-LOCNEW1.ts
+#EXTINF:-1 tvg-chno="171040" tvg-name="Local News 2 US" group-title="United States" tvg-id="LOCNEW2" tvc-guide-stationid="171040",Local News 2 US
+http://example.local/USA-LOCNEW2.ts
+#EXTINF:-1 tvg-chno="171041" tvg-name="Local News 3 US" group-title="United States" tvg-id="LOCNEW3" tvc-guide-stationid="171041",Local News 3 US
+http://example.local/USA-LOCNEW3.ts
+#EXTINF:-1 tvg-chno="171042" tvg-name="Local News 4 US" group-title="United States" tvg-id="LOCNEW4" tvc-guide-stationid="171042",Local News 4 US
+http://example.local/USA-LOCNEW4.ts
+#EXTINF:-1 tvg-chno="171043" tvg-name="Local News 5 US" group-title="United States" tvg-id="LOCNEW5" tvc-guide-stationid="171043",Local News 5 US
+http://example.local/USA-LOCNEW5.ts
+#EXTINF:-1 tvg-chno="101235" tvg-name="Local NineNorth Community Programming" tvg-logo="https://zap2it.tmsimg.com/assets/s101235_ll_h15_ac.png" group-title="United States" tvg-id="NNG16" tvc-guide-stationid="101235",Local NineNorth Community Programming
+http://example.local/USA-NNG16.ts
+#EXTINF:-1 tvg-chno="135577" tvg-name="Local NineNorth HD Government Programming" tvg-logo="https://zap2it.tmsimg.com/assets/s101235_ll_h15_ac.png" group-title="United States" tvg-id="NNGHD" tvc-guide-stationid="135577",Local NineNorth HD Government Programming
+http://example.local/USA-NNGHD.ts
+#EXTINF:-1 tvg-chno="99988" tvg-name="Local Now" tvg-logo="https://zap2it.tmsimg.com/assets/s99988_ll_h9_aa.png" group-title="United States" tvg-id="LOCNOW" tvc-guide-stationid="99988",Local Now
+http://example.local/USA-LOCNOW.ts
+#EXTINF:-1 tvg-chno="34294" tvg-name="Local On Demand" group-title="United States" tvg-id="LOCDM" tvc-guide-stationid="34294",Local On Demand
+http://example.local/USA-LOCDM.ts
+#EXTINF:-1 tvg-chno="34294" tvg-name="Local On Demand" group-title="Jamaica" tvg-id="LOCDM" tvc-guide-stationid="34294",Local On Demand
+http://example.local/JAM-LOCDM.ts
+#EXTINF:-1 tvg-chno="96038" tvg-name="Local On Demand (TWC)" group-title="United States" tvg-id="NTDM" tvc-guide-stationid="96038",Local On Demand (TWC)
+http://example.local/USA-NTDM.ts
+#EXTINF:-1 tvg-chno="92592" tvg-name="Local Origination" group-title="United States" tvg-id="LO" tvc-guide-stationid="92592",Local Origination
+http://example.local/USA-LO.ts
+#EXTINF:-1 tvg-chno="14786" tvg-name="Local Origination - LOOR" tvg-logo="https://zap2it.tmsimg.com/assets/s14786_ll_h15_aa.png" group-title="Bermuda" tvg-id="LOOR" tvc-guide-stationid="14786",Local Origination - LOOR
+http://example.local/BMU-LOOR.ts
+#EXTINF:-1 tvg-chno="14786" tvg-name="Local Origination - LOOR" tvg-logo="https://zap2it.tmsimg.com/assets/s14786_ll_h15_aa.png" group-title="Jamaica" tvg-id="LOOR" tvc-guide-stationid="14786",Local Origination - LOOR
+http://example.local/JAM-LOOR.ts
+#EXTINF:-1 tvg-chno="92454" tvg-name="Local Origination - LOOR 1" group-title="United States" tvg-id="LOOR1" tvc-guide-stationid="92454",Local Origination - LOOR 1
+http://example.local/USA-LOOR1.ts
+#EXTINF:-1 tvg-chno="110425" tvg-name="Local Origination - LOOR 1076" group-title="United States" tvg-id="LOOR1076" tvc-guide-stationid="110425",Local Origination - LOOR 1076
+http://example.local/USA-LOOR1076.ts
+#EXTINF:-1 tvg-chno="110426" tvg-name="Local Origination - LOOR 1089" group-title="United States" tvg-id="LOOR1089" tvc-guide-stationid="110426",Local Origination - LOOR 1089
+http://example.local/USA-LOOR1089.ts
+#EXTINF:-1 tvg-chno="106658" tvg-name="Local Origination - LOOR 1095" group-title="United States" tvg-id="LOOR1095" tvc-guide-stationid="106658",Local Origination - LOOR 1095
+http://example.local/USA-LOOR1095.ts
+#EXTINF:-1 tvg-chno="102016" tvg-name="Local Origination - LOOR 131" group-title="United States" tvg-id="LOOR131" tvc-guide-stationid="102016",Local Origination - LOOR 131
+http://example.local/USA-LOOR131.ts
+#EXTINF:-1 tvg-chno="88728" tvg-name="Local Origination - LOOR 1359" group-title="United States" tvg-id="LOOR1359" tvc-guide-stationid="88728",Local Origination - LOOR 1359
+http://example.local/USA-LOOR1359.ts
+#EXTINF:-1 tvg-chno="82574" tvg-name="Local Origination - LOOR 136" group-title="United States" tvg-id="LOOR136" tvc-guide-stationid="82574",Local Origination - LOOR 136
+http://example.local/USA-LOOR136.ts
+#EXTINF:-1 tvg-chno="112794" tvg-name="Local Origination - LOOR 149" group-title="United States" tvg-id="LOOR149" tvc-guide-stationid="112794",Local Origination - LOOR 149
+http://example.local/USA-LOOR149.ts
+#EXTINF:-1 tvg-chno="112795" tvg-name="Local Origination - LOOR 153" group-title="United States" tvg-id="LOOR153" tvc-guide-stationid="112795",Local Origination - LOOR 153
+http://example.local/USA-LOOR153.ts
+#EXTINF:-1 tvg-chno="75724" tvg-name="Local Origination - LOOR 1570" group-title="United States" tvg-id="LOOR1570" tvc-guide-stationid="75724",Local Origination - LOOR 1570
+http://example.local/USA-LOOR1570.ts
+#EXTINF:-1 tvg-chno="75726" tvg-name="Local Origination - LOOR 1585" group-title="United States" tvg-id="LOOR1585" tvc-guide-stationid="75726",Local Origination - LOOR 1585
+http://example.local/USA-LOOR1585.ts
+#EXTINF:-1 tvg-chno="75727" tvg-name="Local Origination - LOOR 1650" group-title="United States" tvg-id="LOOR1650" tvc-guide-stationid="75727",Local Origination - LOOR 1650
+http://example.local/USA-LOOR1650.ts
+#EXTINF:-1 tvg-chno="75725" tvg-name="Local Origination - LOOR 1691" group-title="United States" tvg-id="LOOR1691" tvc-guide-stationid="75725",Local Origination - LOOR 1691
+http://example.local/USA-LOOR1691.ts
+#EXTINF:-1 tvg-chno="75723" tvg-name="Local Origination - LOOR 1693" group-title="United States" tvg-id="LOOR1693" tvc-guide-stationid="75723",Local Origination - LOOR 1693
+http://example.local/USA-LOOR1693.ts
+#EXTINF:-1 tvg-chno="111845" tvg-name="Local Origination - LOOR 1975" group-title="United States" tvg-id="LOOR1975" tvc-guide-stationid="111845",Local Origination - LOOR 1975
+http://example.local/USA-LOOR1975.ts
+#EXTINF:-1 tvg-chno="111846" tvg-name="Local Origination - LOOR 1976" group-title="United States" tvg-id="LOOR1976" tvc-guide-stationid="111846",Local Origination - LOOR 1976
+http://example.local/USA-LOOR1976.ts
+#EXTINF:-1 tvg-chno="111847" tvg-name="Local Origination - LOOR 1977" group-title="United States" tvg-id="LOOR1977" tvc-guide-stationid="111847",Local Origination - LOOR 1977
+http://example.local/USA-LOOR1977.ts
+#EXTINF:-1 tvg-chno="111848" tvg-name="Local Origination - LOOR 1978" group-title="United States" tvg-id="LOOR1978" tvc-guide-stationid="111848",Local Origination - LOOR 1978
+http://example.local/USA-LOOR1978.ts
+#EXTINF:-1 tvg-chno="111849" tvg-name="Local Origination - LOOR 1979" group-title="United States" tvg-id="LOOR1979" tvc-guide-stationid="111849",Local Origination - LOOR 1979
+http://example.local/USA-LOOR1979.ts
+#EXTINF:-1 tvg-chno="99262" tvg-name="Local Origination - LOOR 1993" group-title="United States" tvg-id="LOOR1993" tvc-guide-stationid="99262",Local Origination - LOOR 1993
+http://example.local/USA-LOOR1993.ts
+#EXTINF:-1 tvg-chno="92455" tvg-name="Local Origination - LOOR 2" group-title="United States" tvg-id="LOOR2" tvc-guide-stationid="92455",Local Origination - LOOR 2
+http://example.local/USA-LOOR2.ts
+#EXTINF:-1 tvg-chno="102832" tvg-name="Local Origination - LOOR 275" group-title="United States" tvg-id="LOOR275" tvc-guide-stationid="102832",Local Origination - LOOR 275
+http://example.local/USA-LOOR275.ts
+#EXTINF:-1 tvg-chno="69885" tvg-name="Local Origination - LOOR 312" group-title="United States" tvg-id="LOOR312" tvc-guide-stationid="69885",Local Origination - LOOR 312
+http://example.local/USA-LOOR312.ts
+#EXTINF:-1 tvg-chno="69886" tvg-name="Local Origination - LOOR 313" group-title="United States" tvg-id="LOOR313" tvc-guide-stationid="69886",Local Origination - LOOR 313
+http://example.local/USA-LOOR313.ts
+#EXTINF:-1 tvg-chno="69887" tvg-name="Local Origination - LOOR 315" group-title="United States" tvg-id="LOOR315" tvc-guide-stationid="69887",Local Origination - LOOR 315
+http://example.local/USA-LOOR315.ts
+#EXTINF:-1 tvg-chno="69888" tvg-name="Local Origination - LOOR 316" group-title="United States" tvg-id="LOOR316" tvc-guide-stationid="69888",Local Origination - LOOR 316
+http://example.local/USA-LOOR316.ts
+#EXTINF:-1 tvg-chno="69889" tvg-name="Local Origination - LOOR 317" group-title="United States" tvg-id="LOOR317" tvc-guide-stationid="69889",Local Origination - LOOR 317
+http://example.local/USA-LOOR317.ts
+#EXTINF:-1 tvg-chno="69890" tvg-name="Local Origination - LOOR 318" group-title="United States" tvg-id="LOOR318" tvc-guide-stationid="69890",Local Origination - LOOR 318
+http://example.local/USA-LOOR318.ts
+#EXTINF:-1 tvg-chno="69891" tvg-name="Local Origination - LOOR 319" group-title="United States" tvg-id="LOOR319" tvc-guide-stationid="69891",Local Origination - LOOR 319
+http://example.local/USA-LOOR319.ts
+#EXTINF:-1 tvg-chno="69892" tvg-name="Local Origination - LOOR 320" group-title="United States" tvg-id="LOOR320" tvc-guide-stationid="69892",Local Origination - LOOR 320
+http://example.local/USA-LOOR320.ts
+#EXTINF:-1 tvg-chno="69893" tvg-name="Local Origination - LOOR 321" group-title="United States" tvg-id="LOOR321" tvc-guide-stationid="69893",Local Origination - LOOR 321
+http://example.local/USA-LOOR321.ts
+#EXTINF:-1 tvg-chno="80187" tvg-name="Local Origination - LOOR 324" group-title="United States" tvg-id="LOOR324" tvc-guide-stationid="80187",Local Origination - LOOR 324
+http://example.local/USA-LOOR324.ts
+#EXTINF:-1 tvg-chno="80188" tvg-name="Local Origination - LOOR 325" group-title="United States" tvg-id="LOOR325" tvc-guide-stationid="80188",Local Origination - LOOR 325
+http://example.local/USA-LOOR325.ts
+#EXTINF:-1 tvg-chno="69894" tvg-name="Local Origination - LOOR 327" group-title="United States" tvg-id="LOOR327" tvc-guide-stationid="69894",Local Origination - LOOR 327
+http://example.local/USA-LOOR327.ts
+#EXTINF:-1 tvg-chno="80189" tvg-name="Local Origination - LOOR 328" group-title="United States" tvg-id="LOOR328" tvc-guide-stationid="80189",Local Origination - LOOR 328
+http://example.local/USA-LOOR328.ts
+#EXTINF:-1 tvg-chno="80190" tvg-name="Local Origination - LOOR 329" group-title="United States" tvg-id="LOOR329" tvc-guide-stationid="80190",Local Origination - LOOR 329
+http://example.local/USA-LOOR329.ts
+#EXTINF:-1 tvg-chno="80191" tvg-name="Local Origination - LOOR 330" group-title="United States" tvg-id="LOOR330" tvc-guide-stationid="80191",Local Origination - LOOR 330
+http://example.local/USA-LOOR330.ts
+#EXTINF:-1 tvg-chno="80192" tvg-name="Local Origination - LOOR 331" group-title="United States" tvg-id="LOOR331" tvc-guide-stationid="80192",Local Origination - LOOR 331
+http://example.local/USA-LOOR331.ts
+#EXTINF:-1 tvg-chno="80193" tvg-name="Local Origination - LOOR 332" group-title="United States" tvg-id="LOOR332" tvc-guide-stationid="80193",Local Origination - LOOR 332
+http://example.local/USA-LOOR332.ts
+#EXTINF:-1 tvg-chno="71936" tvg-name="Local Origination - LOOR 333" group-title="United States" tvg-id="LOOR333" tvc-guide-stationid="71936",Local Origination - LOOR 333
+http://example.local/USA-LOOR333.ts
+#EXTINF:-1 tvg-chno="80194" tvg-name="Local Origination - LOOR 335" group-title="United States" tvg-id="LOOR335" tvc-guide-stationid="80194",Local Origination - LOOR 335
+http://example.local/USA-LOOR335.ts
+#EXTINF:-1 tvg-chno="80195" tvg-name="Local Origination - LOOR 336" group-title="United States" tvg-id="LOOR336" tvc-guide-stationid="80195",Local Origination - LOOR 336
+http://example.local/USA-LOOR336.ts
+#EXTINF:-1 tvg-chno="69895" tvg-name="Local Origination - LOOR 337" group-title="United States" tvg-id="LOOR337" tvc-guide-stationid="69895",Local Origination - LOOR 337
+http://example.local/USA-LOOR337.ts
+#EXTINF:-1 tvg-chno="69896" tvg-name="Local Origination - LOOR 338" group-title="United States" tvg-id="LOOR338" tvc-guide-stationid="69896",Local Origination - LOOR 338
+http://example.local/USA-LOOR338.ts
+#EXTINF:-1 tvg-chno="69897" tvg-name="Local Origination - LOOR 339" group-title="United States" tvg-id="LOOR339" tvc-guide-stationid="69897",Local Origination - LOOR 339
+http://example.local/USA-LOOR339.ts
+#EXTINF:-1 tvg-chno="69919" tvg-name="Local Origination - LOOR 341" group-title="United States" tvg-id="LOOR341" tvc-guide-stationid="69919",Local Origination - LOOR 341
+http://example.local/USA-LOOR341.ts
+#EXTINF:-1 tvg-chno="69920" tvg-name="Local Origination - LOOR 342" group-title="United States" tvg-id="LOOR342" tvc-guide-stationid="69920",Local Origination - LOOR 342
+http://example.local/USA-LOOR342.ts
+#EXTINF:-1 tvg-chno="69921" tvg-name="Local Origination - LOOR 345" group-title="United States" tvg-id="LOOR345" tvc-guide-stationid="69921",Local Origination - LOOR 345
+http://example.local/USA-LOOR345.ts
+#EXTINF:-1 tvg-chno="69922" tvg-name="Local Origination - LOOR 346" group-title="United States" tvg-id="LOOR346" tvc-guide-stationid="69922",Local Origination - LOOR 346
+http://example.local/USA-LOOR346.ts
+#EXTINF:-1 tvg-chno="69923" tvg-name="Local Origination - LOOR 347" group-title="United States" tvg-id="LOOR347" tvc-guide-stationid="69923",Local Origination - LOOR 347
+http://example.local/USA-LOOR347.ts
+#EXTINF:-1 tvg-chno="69924" tvg-name="Local Origination - LOOR 348" group-title="United States" tvg-id="LOOR348" tvc-guide-stationid="69924",Local Origination - LOOR 348
+http://example.local/USA-LOOR348.ts
+#EXTINF:-1 tvg-chno="69925" tvg-name="Local Origination - LOOR 349" group-title="United States" tvg-id="LOOR349" tvc-guide-stationid="69925",Local Origination - LOOR 349
+http://example.local/USA-LOOR349.ts
+#EXTINF:-1 tvg-chno="69926" tvg-name="Local Origination - LOOR 350" group-title="United States" tvg-id="LOOR350" tvc-guide-stationid="69926",Local Origination - LOOR 350
+http://example.local/USA-LOOR350.ts
+#EXTINF:-1 tvg-chno="69927" tvg-name="Local Origination - LOOR 351" group-title="United States" tvg-id="LOOR351" tvc-guide-stationid="69927",Local Origination - LOOR 351
+http://example.local/USA-LOOR351.ts
+#EXTINF:-1 tvg-chno="102017" tvg-name="Local Origination - LOOR 353" group-title="United States" tvg-id="LOOR353" tvc-guide-stationid="102017",Local Origination - LOOR 353
+http://example.local/USA-LOOR353.ts
+#EXTINF:-1 tvg-chno="100339" tvg-name="Local Origination - LOOR 354" group-title="United States" tvg-id="LOOR354" tvc-guide-stationid="100339",Local Origination - LOOR 354
+http://example.local/USA-LOOR354.ts
+#EXTINF:-1 tvg-chno="102018" tvg-name="Local Origination - LOOR 356" group-title="United States" tvg-id="LOOR356" tvc-guide-stationid="102018",Local Origination - LOOR 356
+http://example.local/USA-LOOR356.ts
+#EXTINF:-1 tvg-chno="102019" tvg-name="Local Origination - LOOR 357" group-title="United States" tvg-id="LOOR357" tvc-guide-stationid="102019",Local Origination - LOOR 357
+http://example.local/USA-LOOR357.ts
+#EXTINF:-1 tvg-chno="102020" tvg-name="Local Origination - LOOR 358" group-title="United States" tvg-id="LOOR358" tvc-guide-stationid="102020",Local Origination - LOOR 358
+http://example.local/USA-LOOR358.ts
+#EXTINF:-1 tvg-chno="88727" tvg-name="Local Origination - LOOR 359" group-title="United States" tvg-id="LOOR359" tvc-guide-stationid="88727",Local Origination - LOOR 359
+http://example.local/USA-LOOR359.ts
+#EXTINF:-1 tvg-chno="102022" tvg-name="Local Origination - LOOR 360" group-title="United States" tvg-id="LOOR360" tvc-guide-stationid="102022",Local Origination - LOOR 360
+http://example.local/USA-LOOR360.ts
 #EXTINF:-1 tvg-chno="102024" tvg-name="Local Origination - LOOR 361" group-title="United States" tvg-id="LOOR361" tvc-guide-stationid="102024",Local Origination - LOOR 361
 http://example.local/USA-LOOR361.ts
 #EXTINF:-1 tvg-chno="102025" tvg-name="Local Origination - LOOR 362" group-title="United States" tvg-id="LOOR362" tvc-guide-stationid="102025",Local Origination - LOOR 362
@@ -117,14 +729,24 @@ http://example.local/USA-LOOR956.ts
 http://example.local/USA-LOOR957.ts
 #EXTINF:-1 tvg-chno="74393" tvg-name="Local Origination - LOOR 958" group-title="United States" tvg-id="LOOR958" tvc-guide-stationid="74393",Local Origination - LOOR 958
 http://example.local/USA-LOOR958.ts
+#EXTINF:-1 tvg-chno="75700" tvg-name="Local Origination - LOOR 966" group-title="Canada" tvg-id="LOOR966" tvc-guide-stationid="75700",Local Origination - LOOR 966
+http://example.local/CAN-LOOR966.ts
 #EXTINF:-1 tvg-chno="75700" tvg-name="Local Origination - LOOR 966" group-title="United States" tvg-id="LOOR966" tvc-guide-stationid="75700",Local Origination - LOOR 966
 http://example.local/USA-LOOR966.ts
+#EXTINF:-1 tvg-chno="101192" tvg-name="Local Origination - LOOR 971" group-title="Canada" tvg-id="LOOR971" tvc-guide-stationid="101192",Local Origination - LOOR 971
+http://example.local/CAN-LOOR971.ts
 #EXTINF:-1 tvg-chno="101192" tvg-name="Local Origination - LOOR 971" group-title="United States" tvg-id="LOOR971" tvc-guide-stationid="101192",Local Origination - LOOR 971
 http://example.local/USA-LOOR971.ts
+#EXTINF:-1 tvg-chno="100161" tvg-name="Local Origination - LOOR 972" group-title="Canada" tvg-id="LOOR972" tvc-guide-stationid="100161",Local Origination - LOOR 972
+http://example.local/CAN-LOOR972.ts
 #EXTINF:-1 tvg-chno="100161" tvg-name="Local Origination - LOOR 972" group-title="United States" tvg-id="LOOR972" tvc-guide-stationid="100161",Local Origination - LOOR 972
 http://example.local/USA-LOOR972.ts
+#EXTINF:-1 tvg-chno="100162" tvg-name="Local Origination - LOOR 974" group-title="Canada" tvg-id="LOOR974" tvc-guide-stationid="100162",Local Origination - LOOR 974
+http://example.local/CAN-LOOR974.ts
 #EXTINF:-1 tvg-chno="100162" tvg-name="Local Origination - LOOR 974" group-title="United States" tvg-id="LOOR974" tvc-guide-stationid="100162",Local Origination - LOOR 974
 http://example.local/USA-LOOR974.ts
+#EXTINF:-1 tvg-chno="100164" tvg-name="Local Origination - LOOR 976" group-title="Canada" tvg-id="LOOR976" tvc-guide-stationid="100164",Local Origination - LOOR 976
+http://example.local/CAN-LOOR976.ts
 #EXTINF:-1 tvg-chno="100164" tvg-name="Local Origination - LOOR 976" group-title="United States" tvg-id="LOOR976" tvc-guide-stationid="100164",Local Origination - LOOR 976
 http://example.local/USA-LOOR976.ts
 #EXTINF:-1 tvg-chno="23309" tvg-name="Local Origination - LOOR001" group-title="United States" tvg-id="LOOR001" tvc-guide-stationid="23309",Local Origination - LOOR001
@@ -379,8 +1001,6 @@ http://example.local/USA-LOOR1075.ts
 http://example.local/USA-LOOR1077.ts
 #EXTINF:-1 tvg-chno="104772" tvg-name="Local Origination - LOOR1078" group-title="United States" tvg-id="LOOR1078" tvc-guide-stationid="104772",Local Origination - LOOR1078
 http://example.local/USA-LOOR1078.ts
-#EXTINF:-1 tvg-chno="102719" tvg-name="Local Origination - LOOR1079" group-title="United States" tvg-id="LOOR1079" tvc-guide-stationid="102719",Local Origination - LOOR1079
-http://example.local/USA-LOOR1079.ts
 #EXTINF:-1 tvg-chno="23415" tvg-name="Local Origination - LOOR108" group-title="United States" tvg-id="LOOR108" tvc-guide-stationid="23415",Local Origination - LOOR108
 http://example.local/USA-LOOR108.ts
 #EXTINF:-1 tvg-chno="102720" tvg-name="Local Origination - LOOR1080" group-title="United States" tvg-id="LOOR1080" tvc-guide-stationid="102720",Local Origination - LOOR1080
@@ -399,623 +1019,3 @@ http://example.local/USA-LOOR1085.ts
 http://example.local/USA-LOOR1086.ts
 #EXTINF:-1 tvg-chno="102287" tvg-name="Local Origination - LOOR1087" group-title="United States" tvg-id="LOOR1087" tvc-guide-stationid="102287",Local Origination - LOOR1087
 http://example.local/USA-LOOR1087.ts
-#EXTINF:-1 tvg-chno="23416" tvg-name="Local Origination - LOOR109" group-title="United States" tvg-id="LOOR109" tvc-guide-stationid="23416",Local Origination - LOOR109
-http://example.local/USA-LOOR109.ts
-#EXTINF:-1 tvg-chno="105500" tvg-name="Local Origination - LOOR1090" group-title="United States" tvg-id="LOOR1090" tvc-guide-stationid="105500",Local Origination - LOOR1090
-http://example.local/USA-LOOR1090.ts
-#EXTINF:-1 tvg-chno="102975" tvg-name="Local Origination - LOOR1091" group-title="United States" tvg-id="LOOR1091" tvc-guide-stationid="102975",Local Origination - LOOR1091
-http://example.local/USA-LOOR1091.ts
-#EXTINF:-1 tvg-chno="102288" tvg-name="Local Origination - LOOR1092" group-title="United States" tvg-id="LOOR1092" tvc-guide-stationid="102288",Local Origination - LOOR1092
-http://example.local/USA-LOOR1092.ts
-#EXTINF:-1 tvg-chno="103835" tvg-name="Local Origination - LOOR1093" group-title="United States" tvg-id="LOOR1093" tvc-guide-stationid="103835",Local Origination - LOOR1093
-http://example.local/USA-LOOR1093.ts
-#EXTINF:-1 tvg-chno="103487" tvg-name="Local Origination - LOOR1094" group-title="United States" tvg-id="LOOR1094" tvc-guide-stationid="103487",Local Origination - LOOR1094
-http://example.local/USA-LOOR1094.ts
-#EXTINF:-1 tvg-chno="103820" tvg-name="Local Origination - LOOR1096" group-title="United States" tvg-id="LOOR1096" tvc-guide-stationid="103820",Local Origination - LOOR1096
-http://example.local/USA-LOOR1096.ts
-#EXTINF:-1 tvg-chno="104729" tvg-name="Local Origination - LOOR1098" group-title="United States" tvg-id="LOOR1098" tvc-guide-stationid="104729",Local Origination - LOOR1098
-http://example.local/USA-LOOR1098.ts
-#EXTINF:-1 tvg-chno="106979" tvg-name="Local Origination - LOOR1099" group-title="United States" tvg-id="LOOR1099" tvc-guide-stationid="106979",Local Origination - LOOR1099
-http://example.local/USA-LOOR1099.ts
-#EXTINF:-1 tvg-chno="23417" tvg-name="Local Origination - LOOR110" group-title="United States" tvg-id="LOOR110" tvc-guide-stationid="23417",Local Origination - LOOR110
-http://example.local/USA-LOOR110.ts
-#EXTINF:-1 tvg-chno="59389" tvg-name="Local Origination - LOOR1100" group-title="United States" tvg-id="LOOR1100" tvc-guide-stationid="59389",Local Origination - LOOR1100
-http://example.local/USA-LOOR1100.ts
-#EXTINF:-1 tvg-chno="23418" tvg-name="Local Origination - LOOR111" group-title="United States" tvg-id="LOOR111" tvc-guide-stationid="23418",Local Origination - LOOR111
-http://example.local/USA-LOOR111.ts
-#EXTINF:-1 tvg-chno="83133" tvg-name="Local Origination - LOOR1111" group-title="United States" tvg-id="LOOR1111" tvc-guide-stationid="83133",Local Origination - LOOR1111
-http://example.local/USA-LOOR1111.ts
-#EXTINF:-1 tvg-chno="23419" tvg-name="Local Origination - LOOR112" group-title="United States" tvg-id="LOOR112" tvc-guide-stationid="23419",Local Origination - LOOR112
-http://example.local/USA-LOOR112.ts
-#EXTINF:-1 tvg-chno="23420" tvg-name="Local Origination - LOOR113" group-title="United States" tvg-id="LOOR113" tvc-guide-stationid="23420",Local Origination - LOOR113
-http://example.local/USA-LOOR113.ts
-#EXTINF:-1 tvg-chno="33161" tvg-name="Local Origination - LOOR114" group-title="United States" tvg-id="LOOR114" tvc-guide-stationid="33161",Local Origination - LOOR114
-http://example.local/USA-LOOR114.ts
-#EXTINF:-1 tvg-chno="23421" tvg-name="Local Origination - LOOR115" group-title="United States" tvg-id="LOOR115" tvc-guide-stationid="23421",Local Origination - LOOR115
-http://example.local/USA-LOOR115.ts
-#EXTINF:-1 tvg-chno="23422" tvg-name="Local Origination - LOOR116" group-title="United States" tvg-id="LOOR116" tvc-guide-stationid="23422",Local Origination - LOOR116
-http://example.local/USA-LOOR116.ts
-#EXTINF:-1 tvg-chno="23423" tvg-name="Local Origination - LOOR117" group-title="United States" tvg-id="LOOR117" tvc-guide-stationid="23423",Local Origination - LOOR117
-http://example.local/USA-LOOR117.ts
-#EXTINF:-1 tvg-chno="23424" tvg-name="Local Origination - LOOR118" group-title="United States" tvg-id="LOOR118" tvc-guide-stationid="23424",Local Origination - LOOR118
-http://example.local/USA-LOOR118.ts
-#EXTINF:-1 tvg-chno="32150" tvg-name="Local Origination - LOOR119" group-title="United States" tvg-id="LOOR119" tvc-guide-stationid="32150",Local Origination - LOOR119
-http://example.local/USA-LOOR119.ts
-#EXTINF:-1 tvg-chno="105672" tvg-name="Local Origination - LOOR1190" group-title="United States" tvg-id="LOOR1190" tvc-guide-stationid="105672",Local Origination - LOOR1190
-http://example.local/USA-LOOR1190.ts
-#EXTINF:-1 tvg-chno="106685" tvg-name="Local Origination - LOOR1191" group-title="United States" tvg-id="LOOR1191" tvc-guide-stationid="106685",Local Origination - LOOR1191
-http://example.local/USA-LOOR1191.ts
-#EXTINF:-1 tvg-chno="106686" tvg-name="Local Origination - LOOR1192" group-title="United States" tvg-id="LOOR1192" tvc-guide-stationid="106686",Local Origination - LOOR1192
-http://example.local/USA-LOOR1192.ts
-#EXTINF:-1 tvg-chno="106687" tvg-name="Local Origination - LOOR1193" group-title="United States" tvg-id="LOOR1193" tvc-guide-stationid="106687",Local Origination - LOOR1193
-http://example.local/USA-LOOR1193.ts
-#EXTINF:-1 tvg-chno="106688" tvg-name="Local Origination - LOOR1194" group-title="United States" tvg-id="LOOR1194" tvc-guide-stationid="106688",Local Origination - LOOR1194
-http://example.local/USA-LOOR1194.ts
-#EXTINF:-1 tvg-chno="106689" tvg-name="Local Origination - LOOR1195" group-title="United States" tvg-id="LOOR1195" tvc-guide-stationid="106689",Local Origination - LOOR1195
-http://example.local/USA-LOOR1195.ts
-#EXTINF:-1 tvg-chno="97897" tvg-name="Local Origination - LOOR1196" group-title="United States" tvg-id="LOOR1196" tvc-guide-stationid="97897",Local Origination - LOOR1196
-http://example.local/USA-LOOR1196.ts
-#EXTINF:-1 tvg-chno="106690" tvg-name="Local Origination - LOOR1197" group-title="United States" tvg-id="LOOR1197" tvc-guide-stationid="106690",Local Origination - LOOR1197
-http://example.local/USA-LOOR1197.ts
-#EXTINF:-1 tvg-chno="97898" tvg-name="Local Origination - LOOR1198" group-title="United States" tvg-id="LOOR1198" tvc-guide-stationid="97898",Local Origination - LOOR1198
-http://example.local/USA-LOOR1198.ts
-#EXTINF:-1 tvg-chno="106691" tvg-name="Local Origination - LOOR1199" group-title="United States" tvg-id="LOOR1199" tvc-guide-stationid="106691",Local Origination - LOOR1199
-http://example.local/USA-LOOR1199.ts
-#EXTINF:-1 tvg-chno="23425" tvg-name="Local Origination - LOOR120" group-title="United States" tvg-id="LOOR120" tvc-guide-stationid="23425",Local Origination - LOOR120
-http://example.local/USA-LOOR120.ts
-#EXTINF:-1 tvg-chno="59077" tvg-name="Local Origination - LOOR1200" group-title="United States" tvg-id="LOOR1200" tvc-guide-stationid="59077",Local Origination - LOOR1200
-http://example.local/USA-LOOR1200.ts
-#EXTINF:-1 tvg-chno="59070" tvg-name="Local Origination - LOOR1201" group-title="United States" tvg-id="LOOR1201" tvc-guide-stationid="59070",Local Origination - LOOR1201
-http://example.local/USA-LOOR1201.ts
-#EXTINF:-1 tvg-chno="77082" tvg-name="Local Origination - LOOR1203" group-title="United States" tvg-id="LOOR1203" tvc-guide-stationid="77082",Local Origination - LOOR1203
-http://example.local/USA-LOOR1203.ts
-#EXTINF:-1 tvg-chno="77083" tvg-name="Local Origination - LOOR1204" group-title="United States" tvg-id="LOOR1204" tvc-guide-stationid="77083",Local Origination - LOOR1204
-http://example.local/USA-LOOR1204.ts
-#EXTINF:-1 tvg-chno="77084" tvg-name="Local Origination - LOOR1205" group-title="United States" tvg-id="LOOR1205" tvc-guide-stationid="77084",Local Origination - LOOR1205
-http://example.local/USA-LOOR1205.ts
-#EXTINF:-1 tvg-chno="77085" tvg-name="Local Origination - LOOR1206" group-title="United States" tvg-id="LOOR1206" tvc-guide-stationid="77085",Local Origination - LOOR1206
-http://example.local/USA-LOOR1206.ts
-#EXTINF:-1 tvg-chno="77086" tvg-name="Local Origination - LOOR1207" group-title="United States" tvg-id="LOOR1207" tvc-guide-stationid="77086",Local Origination - LOOR1207
-http://example.local/USA-LOOR1207.ts
-#EXTINF:-1 tvg-chno="77087" tvg-name="Local Origination - LOOR1208" group-title="United States" tvg-id="LOOR1208" tvc-guide-stationid="77087",Local Origination - LOOR1208
-http://example.local/USA-LOOR1208.ts
-#EXTINF:-1 tvg-chno="77088" tvg-name="Local Origination - LOOR1209" group-title="United States" tvg-id="LOOR1209" tvc-guide-stationid="77088",Local Origination - LOOR1209
-http://example.local/USA-LOOR1209.ts
-#EXTINF:-1 tvg-chno="23426" tvg-name="Local Origination - LOOR121" group-title="United States" tvg-id="LOOR121" tvc-guide-stationid="23426",Local Origination - LOOR121
-http://example.local/USA-LOOR121.ts
-#EXTINF:-1 tvg-chno="77089" tvg-name="Local Origination - LOOR1210" group-title="United States" tvg-id="LOOR1210" tvc-guide-stationid="77089",Local Origination - LOOR1210
-http://example.local/USA-LOOR1210.ts
-#EXTINF:-1 tvg-chno="77090" tvg-name="Local Origination - LOOR1211" group-title="United States" tvg-id="LOOR1211" tvc-guide-stationid="77090",Local Origination - LOOR1211
-http://example.local/USA-LOOR1211.ts
-#EXTINF:-1 tvg-chno="77091" tvg-name="Local Origination - LOOR1212" group-title="United States" tvg-id="LOOR1212" tvc-guide-stationid="77091",Local Origination - LOOR1212
-http://example.local/USA-LOOR1212.ts
-#EXTINF:-1 tvg-chno="77092" tvg-name="Local Origination - LOOR1213" group-title="United States" tvg-id="LOOR1213" tvc-guide-stationid="77092",Local Origination - LOOR1213
-http://example.local/USA-LOOR1213.ts
-#EXTINF:-1 tvg-chno="77093" tvg-name="Local Origination - LOOR1214" group-title="United States" tvg-id="LOOR1214" tvc-guide-stationid="77093",Local Origination - LOOR1214
-http://example.local/USA-LOOR1214.ts
-#EXTINF:-1 tvg-chno="77094" tvg-name="Local Origination - LOOR1215" group-title="United States" tvg-id="LOOR1215" tvc-guide-stationid="77094",Local Origination - LOOR1215
-http://example.local/USA-LOOR1215.ts
-#EXTINF:-1 tvg-chno="77095" tvg-name="Local Origination - LOOR1216" group-title="United States" tvg-id="LOOR1216" tvc-guide-stationid="77095",Local Origination - LOOR1216
-http://example.local/USA-LOOR1216.ts
-#EXTINF:-1 tvg-chno="77096" tvg-name="Local Origination - LOOR1217" group-title="United States" tvg-id="LOOR1217" tvc-guide-stationid="77096",Local Origination - LOOR1217
-http://example.local/USA-LOOR1217.ts
-#EXTINF:-1 tvg-chno="77097" tvg-name="Local Origination - LOOR1218" group-title="United States" tvg-id="LOOR1218" tvc-guide-stationid="77097",Local Origination - LOOR1218
-http://example.local/USA-LOOR1218.ts
-#EXTINF:-1 tvg-chno="77098" tvg-name="Local Origination - LOOR1219" group-title="United States" tvg-id="LOOR1219" tvc-guide-stationid="77098",Local Origination - LOOR1219
-http://example.local/USA-LOOR1219.ts
-#EXTINF:-1 tvg-chno="24969" tvg-name="Local Origination - LOOR122" group-title="United States" tvg-id="LOOR122" tvc-guide-stationid="24969",Local Origination - LOOR122
-http://example.local/USA-LOOR122.ts
-#EXTINF:-1 tvg-chno="77099" tvg-name="Local Origination - LOOR1220" group-title="United States" tvg-id="LOOR1220" tvc-guide-stationid="77099",Local Origination - LOOR1220
-http://example.local/USA-LOOR1220.ts
-#EXTINF:-1 tvg-chno="77100" tvg-name="Local Origination - LOOR1221" group-title="United States" tvg-id="LOOR1221" tvc-guide-stationid="77100",Local Origination - LOOR1221
-http://example.local/USA-LOOR1221.ts
-#EXTINF:-1 tvg-chno="77101" tvg-name="Local Origination - LOOR1222" group-title="United States" tvg-id="LOOR1222" tvc-guide-stationid="77101",Local Origination - LOOR1222
-http://example.local/USA-LOOR1222.ts
-#EXTINF:-1 tvg-chno="77102" tvg-name="Local Origination - LOOR1223" group-title="United States" tvg-id="LOOR1223" tvc-guide-stationid="77102",Local Origination - LOOR1223
-http://example.local/USA-LOOR1223.ts
-#EXTINF:-1 tvg-chno="77103" tvg-name="Local Origination - LOOR1224" group-title="United States" tvg-id="LOOR1224" tvc-guide-stationid="77103",Local Origination - LOOR1224
-http://example.local/USA-LOOR1224.ts
-#EXTINF:-1 tvg-chno="77104" tvg-name="Local Origination - LOOR1225" group-title="United States" tvg-id="LOOR1225" tvc-guide-stationid="77104",Local Origination - LOOR1225
-http://example.local/USA-LOOR1225.ts
-#EXTINF:-1 tvg-chno="77105" tvg-name="Local Origination - LOOR1226" group-title="United States" tvg-id="LOOR1226" tvc-guide-stationid="77105",Local Origination - LOOR1226
-http://example.local/USA-LOOR1226.ts
-#EXTINF:-1 tvg-chno="77106" tvg-name="Local Origination - LOOR1227" group-title="United States" tvg-id="LOOR1227" tvc-guide-stationid="77106",Local Origination - LOOR1227
-http://example.local/USA-LOOR1227.ts
-#EXTINF:-1 tvg-chno="77107" tvg-name="Local Origination - LOOR1228" group-title="United States" tvg-id="LOOR1228" tvc-guide-stationid="77107",Local Origination - LOOR1228
-http://example.local/USA-LOOR1228.ts
-#EXTINF:-1 tvg-chno="77108" tvg-name="Local Origination - LOOR1229" group-title="United States" tvg-id="LOOR1229" tvc-guide-stationid="77108",Local Origination - LOOR1229
-http://example.local/USA-LOOR1229.ts
-#EXTINF:-1 tvg-chno="23427" tvg-name="Local Origination - LOOR123" group-title="United States" tvg-id="LOOR123" tvc-guide-stationid="23427",Local Origination - LOOR123
-http://example.local/USA-LOOR123.ts
-#EXTINF:-1 tvg-chno="77109" tvg-name="Local Origination - LOOR1230" group-title="United States" tvg-id="LOOR1230" tvc-guide-stationid="77109",Local Origination - LOOR1230
-http://example.local/USA-LOOR1230.ts
-#EXTINF:-1 tvg-chno="77110" tvg-name="Local Origination - LOOR1231" group-title="United States" tvg-id="LOOR1231" tvc-guide-stationid="77110",Local Origination - LOOR1231
-http://example.local/USA-LOOR1231.ts
-#EXTINF:-1 tvg-chno="77111" tvg-name="Local Origination - LOOR1232" group-title="United States" tvg-id="LOOR1232" tvc-guide-stationid="77111",Local Origination - LOOR1232
-http://example.local/USA-LOOR1232.ts
-#EXTINF:-1 tvg-chno="77112" tvg-name="Local Origination - LOOR1233" group-title="United States" tvg-id="LOOR1233" tvc-guide-stationid="77112",Local Origination - LOOR1233
-http://example.local/USA-LOOR1233.ts
-#EXTINF:-1 tvg-chno="77113" tvg-name="Local Origination - LOOR1234" group-title="United States" tvg-id="LOOR1234" tvc-guide-stationid="77113",Local Origination - LOOR1234
-http://example.local/USA-LOOR1234.ts
-#EXTINF:-1 tvg-chno="77114" tvg-name="Local Origination - LOOR1235" group-title="United States" tvg-id="LOOR1235" tvc-guide-stationid="77114",Local Origination - LOOR1235
-http://example.local/USA-LOOR1235.ts
-#EXTINF:-1 tvg-chno="77115" tvg-name="Local Origination - LOOR1236" group-title="United States" tvg-id="LOOR1236" tvc-guide-stationid="77115",Local Origination - LOOR1236
-http://example.local/USA-LOOR1236.ts
-#EXTINF:-1 tvg-chno="77116" tvg-name="Local Origination - LOOR1237" group-title="United States" tvg-id="LOOR1237" tvc-guide-stationid="77116",Local Origination - LOOR1237
-http://example.local/USA-LOOR1237.ts
-#EXTINF:-1 tvg-chno="77117" tvg-name="Local Origination - LOOR1238" group-title="United States" tvg-id="LOOR1238" tvc-guide-stationid="77117",Local Origination - LOOR1238
-http://example.local/USA-LOOR1238.ts
-#EXTINF:-1 tvg-chno="77118" tvg-name="Local Origination - LOOR1239" group-title="United States" tvg-id="LOOR1239" tvc-guide-stationid="77118",Local Origination - LOOR1239
-http://example.local/USA-LOOR1239.ts
-#EXTINF:-1 tvg-chno="23428" tvg-name="Local Origination - LOOR124" group-title="United States" tvg-id="LOOR124" tvc-guide-stationid="23428",Local Origination - LOOR124
-http://example.local/USA-LOOR124.ts
-#EXTINF:-1 tvg-chno="77119" tvg-name="Local Origination - LOOR1240" group-title="United States" tvg-id="LOOR1240" tvc-guide-stationid="77119",Local Origination - LOOR1240
-http://example.local/USA-LOOR1240.ts
-#EXTINF:-1 tvg-chno="77120" tvg-name="Local Origination - LOOR1241" group-title="United States" tvg-id="LOOR1241" tvc-guide-stationid="77120",Local Origination - LOOR1241
-http://example.local/USA-LOOR1241.ts
-#EXTINF:-1 tvg-chno="77121" tvg-name="Local Origination - LOOR1242" group-title="United States" tvg-id="LOOR1242" tvc-guide-stationid="77121",Local Origination - LOOR1242
-http://example.local/USA-LOOR1242.ts
-#EXTINF:-1 tvg-chno="77122" tvg-name="Local Origination - LOOR1243" group-title="United States" tvg-id="LOOR1243" tvc-guide-stationid="77122",Local Origination - LOOR1243
-http://example.local/USA-LOOR1243.ts
-#EXTINF:-1 tvg-chno="77123" tvg-name="Local Origination - LOOR1244" group-title="United States" tvg-id="LOOR1244" tvc-guide-stationid="77123",Local Origination - LOOR1244
-http://example.local/USA-LOOR1244.ts
-#EXTINF:-1 tvg-chno="77124" tvg-name="Local Origination - LOOR1245" group-title="United States" tvg-id="LOOR1245" tvc-guide-stationid="77124",Local Origination - LOOR1245
-http://example.local/USA-LOOR1245.ts
-#EXTINF:-1 tvg-chno="77125" tvg-name="Local Origination - LOOR1246" group-title="United States" tvg-id="LOOR1246" tvc-guide-stationid="77125",Local Origination - LOOR1246
-http://example.local/USA-LOOR1246.ts
-#EXTINF:-1 tvg-chno="77126" tvg-name="Local Origination - LOOR1247" group-title="United States" tvg-id="LOOR1247" tvc-guide-stationid="77126",Local Origination - LOOR1247
-http://example.local/USA-LOOR1247.ts
-#EXTINF:-1 tvg-chno="77127" tvg-name="Local Origination - LOOR1248" group-title="United States" tvg-id="LOOR1248" tvc-guide-stationid="77127",Local Origination - LOOR1248
-http://example.local/USA-LOOR1248.ts
-#EXTINF:-1 tvg-chno="77128" tvg-name="Local Origination - LOOR1249" group-title="United States" tvg-id="LOOR1249" tvc-guide-stationid="77128",Local Origination - LOOR1249
-http://example.local/USA-LOOR1249.ts
-#EXTINF:-1 tvg-chno="24968" tvg-name="Local Origination - LOOR125" group-title="United States" tvg-id="LOOR125" tvc-guide-stationid="24968",Local Origination - LOOR125
-http://example.local/USA-LOOR125.ts
-#EXTINF:-1 tvg-chno="65018" tvg-name="Local Origination - LOOR1250" group-title="United States" tvg-id="LOOR1250" tvc-guide-stationid="65018",Local Origination - LOOR1250
-http://example.local/USA-LOOR1250.ts
-#EXTINF:-1 tvg-chno="60700" tvg-name="Local Origination - LOOR1251" group-title="United States" tvg-id="LOOR1251" tvc-guide-stationid="60700",Local Origination - LOOR1251
-http://example.local/USA-LOOR1251.ts
-#EXTINF:-1 tvg-chno="60701" tvg-name="Local Origination - LOOR1252" group-title="United States" tvg-id="LOOR1252" tvc-guide-stationid="60701",Local Origination - LOOR1252
-http://example.local/USA-LOOR1252.ts
-#EXTINF:-1 tvg-chno="60702" tvg-name="Local Origination - LOOR1253" group-title="United States" tvg-id="LOOR1253" tvc-guide-stationid="60702",Local Origination - LOOR1253
-http://example.local/USA-LOOR1253.ts
-#EXTINF:-1 tvg-chno="77129" tvg-name="Local Origination - LOOR1254" group-title="United States" tvg-id="LOOR1254" tvc-guide-stationid="77129",Local Origination - LOOR1254
-http://example.local/USA-LOOR1254.ts
-#EXTINF:-1 tvg-chno="60703" tvg-name="Local Origination - LOOR1255" group-title="United States" tvg-id="LOOR1255" tvc-guide-stationid="60703",Local Origination - LOOR1255
-http://example.local/USA-LOOR1255.ts
-#EXTINF:-1 tvg-chno="77130" tvg-name="Local Origination - LOOR1256" group-title="United States" tvg-id="LOOR1256" tvc-guide-stationid="77130",Local Origination - LOOR1256
-http://example.local/USA-LOOR1256.ts
-#EXTINF:-1 tvg-chno="77188" tvg-name="Local Origination - LOOR1257" group-title="United States" tvg-id="LOOR1257" tvc-guide-stationid="77188",Local Origination - LOOR1257
-http://example.local/USA-LOOR1257.ts
-#EXTINF:-1 tvg-chno="77189" tvg-name="Local Origination - LOOR1258" group-title="United States" tvg-id="LOOR1258" tvc-guide-stationid="77189",Local Origination - LOOR1258
-http://example.local/USA-LOOR1258.ts
-#EXTINF:-1 tvg-chno="77190" tvg-name="Local Origination - LOOR1259" group-title="United States" tvg-id="LOOR1259" tvc-guide-stationid="77190",Local Origination - LOOR1259
-http://example.local/USA-LOOR1259.ts
-#EXTINF:-1 tvg-chno="23429" tvg-name="Local Origination - LOOR126" group-title="United States" tvg-id="LOOR126" tvc-guide-stationid="23429",Local Origination - LOOR126
-http://example.local/USA-LOOR126.ts
-#EXTINF:-1 tvg-chno="77194" tvg-name="Local Origination - LOOR1260" group-title="United States" tvg-id="LOOR1260" tvc-guide-stationid="77194",Local Origination - LOOR1260
-http://example.local/USA-LOOR1260.ts
-#EXTINF:-1 tvg-chno="77197" tvg-name="Local Origination - LOOR1261" group-title="United States" tvg-id="LOOR1261" tvc-guide-stationid="77197",Local Origination - LOOR1261
-http://example.local/USA-LOOR1261.ts
-#EXTINF:-1 tvg-chno="77199" tvg-name="Local Origination - LOOR1262" group-title="United States" tvg-id="LOOR1262" tvc-guide-stationid="77199",Local Origination - LOOR1262
-http://example.local/USA-LOOR1262.ts
-#EXTINF:-1 tvg-chno="77201" tvg-name="Local Origination - LOOR1263" group-title="United States" tvg-id="LOOR1263" tvc-guide-stationid="77201",Local Origination - LOOR1263
-http://example.local/USA-LOOR1263.ts
-#EXTINF:-1 tvg-chno="77202" tvg-name="Local Origination - LOOR1264" group-title="United States" tvg-id="LOOR1264" tvc-guide-stationid="77202",Local Origination - LOOR1264
-http://example.local/USA-LOOR1264.ts
-#EXTINF:-1 tvg-chno="77203" tvg-name="Local Origination - LOOR1265" group-title="United States" tvg-id="LOOR1265" tvc-guide-stationid="77203",Local Origination - LOOR1265
-http://example.local/USA-LOOR1265.ts
-#EXTINF:-1 tvg-chno="77204" tvg-name="Local Origination - LOOR1266" group-title="United States" tvg-id="LOOR1266" tvc-guide-stationid="77204",Local Origination - LOOR1266
-http://example.local/USA-LOOR1266.ts
-#EXTINF:-1 tvg-chno="77209" tvg-name="Local Origination - LOOR1267" group-title="United States" tvg-id="LOOR1267" tvc-guide-stationid="77209",Local Origination - LOOR1267
-http://example.local/USA-LOOR1267.ts
-#EXTINF:-1 tvg-chno="77210" tvg-name="Local Origination - LOOR1268" group-title="United States" tvg-id="LOOR1268" tvc-guide-stationid="77210",Local Origination - LOOR1268
-http://example.local/USA-LOOR1268.ts
-#EXTINF:-1 tvg-chno="77212" tvg-name="Local Origination - LOOR1269" group-title="United States" tvg-id="LOOR1269" tvc-guide-stationid="77212",Local Origination - LOOR1269
-http://example.local/USA-LOOR1269.ts
-#EXTINF:-1 tvg-chno="24977" tvg-name="Local Origination - LOOR127" group-title="United States" tvg-id="LOOR127" tvc-guide-stationid="24977",Local Origination - LOOR127
-http://example.local/USA-LOOR127.ts
-#EXTINF:-1 tvg-chno="60704" tvg-name="Local Origination - LOOR1270" group-title="United States" tvg-id="LOOR1270" tvc-guide-stationid="60704",Local Origination - LOOR1270
-http://example.local/USA-LOOR1270.ts
-#EXTINF:-1 tvg-chno="60705" tvg-name="Local Origination - LOOR1271" group-title="United States" tvg-id="LOOR1271" tvc-guide-stationid="60705",Local Origination - LOOR1271
-http://example.local/USA-LOOR1271.ts
-#EXTINF:-1 tvg-chno="77214" tvg-name="Local Origination - LOOR1272" group-title="United States" tvg-id="LOOR1272" tvc-guide-stationid="77214",Local Origination - LOOR1272
-http://example.local/USA-LOOR1272.ts
-#EXTINF:-1 tvg-chno="77216" tvg-name="Local Origination - LOOR1273" group-title="United States" tvg-id="LOOR1273" tvc-guide-stationid="77216",Local Origination - LOOR1273
-http://example.local/USA-LOOR1273.ts
-#EXTINF:-1 tvg-chno="77218" tvg-name="Local Origination - LOOR1274" group-title="United States" tvg-id="LOOR1274" tvc-guide-stationid="77218",Local Origination - LOOR1274
-http://example.local/USA-LOOR1274.ts
-#EXTINF:-1 tvg-chno="77219" tvg-name="Local Origination - LOOR1275" group-title="United States" tvg-id="LOOR1275" tvc-guide-stationid="77219",Local Origination - LOOR1275
-http://example.local/USA-LOOR1275.ts
-#EXTINF:-1 tvg-chno="77221" tvg-name="Local Origination - LOOR1276" group-title="United States" tvg-id="LOOR1276" tvc-guide-stationid="77221",Local Origination - LOOR1276
-http://example.local/USA-LOOR1276.ts
-#EXTINF:-1 tvg-chno="77225" tvg-name="Local Origination - LOOR1277" group-title="United States" tvg-id="LOOR1277" tvc-guide-stationid="77225",Local Origination - LOOR1277
-http://example.local/USA-LOOR1277.ts
-#EXTINF:-1 tvg-chno="77226" tvg-name="Local Origination - LOOR1278" group-title="United States" tvg-id="LOOR1278" tvc-guide-stationid="77226",Local Origination - LOOR1278
-http://example.local/USA-LOOR1278.ts
-#EXTINF:-1 tvg-chno="77227" tvg-name="Local Origination - LOOR1279" group-title="United States" tvg-id="LOOR1279" tvc-guide-stationid="77227",Local Origination - LOOR1279
-http://example.local/USA-LOOR1279.ts
-#EXTINF:-1 tvg-chno="24978" tvg-name="Local Origination - LOOR128" group-title="United States" tvg-id="LOOR128" tvc-guide-stationid="24978",Local Origination - LOOR128
-http://example.local/USA-LOOR128.ts
-#EXTINF:-1 tvg-chno="77228" tvg-name="Local Origination - LOOR1280" group-title="United States" tvg-id="LOOR1280" tvc-guide-stationid="77228",Local Origination - LOOR1280
-http://example.local/USA-LOOR1280.ts
-#EXTINF:-1 tvg-chno="50802" tvg-name="Local Origination - LOOR1281" group-title="United States" tvg-id="LOOR1281" tvc-guide-stationid="50802",Local Origination - LOOR1281
-http://example.local/USA-LOOR1281.ts
-#EXTINF:-1 tvg-chno="50803" tvg-name="Local Origination - LOOR1282" group-title="United States" tvg-id="LOOR1282" tvc-guide-stationid="50803",Local Origination - LOOR1282
-http://example.local/USA-LOOR1282.ts
-#EXTINF:-1 tvg-chno="50804" tvg-name="Local Origination - LOOR1283" group-title="United States" tvg-id="LOOR1283" tvc-guide-stationid="50804",Local Origination - LOOR1283
-http://example.local/USA-LOOR1283.ts
-#EXTINF:-1 tvg-chno="50805" tvg-name="Local Origination - LOOR1284" group-title="United States" tvg-id="LOOR1284" tvc-guide-stationid="50805",Local Origination - LOOR1284
-http://example.local/USA-LOOR1284.ts
-#EXTINF:-1 tvg-chno="77229" tvg-name="Local Origination - LOOR1285" group-title="United States" tvg-id="LOOR1285" tvc-guide-stationid="77229",Local Origination - LOOR1285
-http://example.local/USA-LOOR1285.ts
-#EXTINF:-1 tvg-chno="77230" tvg-name="Local Origination - LOOR1286" group-title="United States" tvg-id="LOOR1286" tvc-guide-stationid="77230",Local Origination - LOOR1286
-http://example.local/USA-LOOR1286.ts
-#EXTINF:-1 tvg-chno="77231" tvg-name="Local Origination - LOOR1287" group-title="United States" tvg-id="LOOR1287" tvc-guide-stationid="77231",Local Origination - LOOR1287
-http://example.local/USA-LOOR1287.ts
-#EXTINF:-1 tvg-chno="77232" tvg-name="Local Origination - LOOR1288" group-title="United States" tvg-id="LOOR1288" tvc-guide-stationid="77232",Local Origination - LOOR1288
-http://example.local/USA-LOOR1288.ts
-#EXTINF:-1 tvg-chno="77233" tvg-name="Local Origination - LOOR1289" group-title="United States" tvg-id="LOOR1289" tvc-guide-stationid="77233",Local Origination - LOOR1289
-http://example.local/USA-LOOR1289.ts
-#EXTINF:-1 tvg-chno="23430" tvg-name="Local Origination - LOOR129" group-title="United States" tvg-id="LOOR129" tvc-guide-stationid="23430",Local Origination - LOOR129
-http://example.local/USA-LOOR129.ts
-#EXTINF:-1 tvg-chno="77234" tvg-name="Local Origination - LOOR1290" group-title="United States" tvg-id="LOOR1290" tvc-guide-stationid="77234",Local Origination - LOOR1290
-http://example.local/USA-LOOR1290.ts
-#EXTINF:-1 tvg-chno="77235" tvg-name="Local Origination - LOOR1291" group-title="United States" tvg-id="LOOR1291" tvc-guide-stationid="77235",Local Origination - LOOR1291
-http://example.local/USA-LOOR1291.ts
-#EXTINF:-1 tvg-chno="77236" tvg-name="Local Origination - LOOR1292" group-title="United States" tvg-id="LOOR1292" tvc-guide-stationid="77236",Local Origination - LOOR1292
-http://example.local/USA-LOOR1292.ts
-#EXTINF:-1 tvg-chno="77237" tvg-name="Local Origination - LOOR1293" group-title="United States" tvg-id="LOOR1293" tvc-guide-stationid="77237",Local Origination - LOOR1293
-http://example.local/USA-LOOR1293.ts
-#EXTINF:-1 tvg-chno="77238" tvg-name="Local Origination - LOOR1294" group-title="United States" tvg-id="LOOR1294" tvc-guide-stationid="77238",Local Origination - LOOR1294
-http://example.local/USA-LOOR1294.ts
-#EXTINF:-1 tvg-chno="77239" tvg-name="Local Origination - LOOR1295" group-title="United States" tvg-id="LOOR1295" tvc-guide-stationid="77239",Local Origination - LOOR1295
-http://example.local/USA-LOOR1295.ts
-#EXTINF:-1 tvg-chno="50806" tvg-name="Local Origination - LOOR1296" group-title="United States" tvg-id="LOOR1296" tvc-guide-stationid="50806",Local Origination - LOOR1296
-http://example.local/USA-LOOR1296.ts
-#EXTINF:-1 tvg-chno="77244" tvg-name="Local Origination - LOOR1297" group-title="United States" tvg-id="LOOR1297" tvc-guide-stationid="77244",Local Origination - LOOR1297
-http://example.local/USA-LOOR1297.ts
-#EXTINF:-1 tvg-chno="77245" tvg-name="Local Origination - LOOR1298" group-title="United States" tvg-id="LOOR1298" tvc-guide-stationid="77245",Local Origination - LOOR1298
-http://example.local/USA-LOOR1298.ts
-#EXTINF:-1 tvg-chno="77246" tvg-name="Local Origination - LOOR1299" group-title="United States" tvg-id="LOOR1299" tvc-guide-stationid="77246",Local Origination - LOOR1299
-http://example.local/USA-LOOR1299.ts
-#EXTINF:-1 tvg-chno="23431" tvg-name="Local Origination - LOOR130" group-title="United States" tvg-id="LOOR130" tvc-guide-stationid="23431",Local Origination - LOOR130
-http://example.local/USA-LOOR130.ts
-#EXTINF:-1 tvg-chno="53346" tvg-name="Local Origination - LOOR1300" group-title="United States" tvg-id="LOOR1300" tvc-guide-stationid="53346",Local Origination - LOOR1300
-http://example.local/USA-LOOR1300.ts
-#EXTINF:-1 tvg-chno="35199" tvg-name="Local Origination - LOOR1301" group-title="United States" tvg-id="LOOR1301" tvc-guide-stationid="35199",Local Origination - LOOR1301
-http://example.local/USA-LOOR1301.ts
-#EXTINF:-1 tvg-chno="83168" tvg-name="Local Origination - LOOR1302" group-title="United States" tvg-id="LOOR1302" tvc-guide-stationid="83168",Local Origination - LOOR1302
-http://example.local/USA-LOOR1302.ts
-#EXTINF:-1 tvg-chno="83169" tvg-name="Local Origination - LOOR1303" group-title="United States" tvg-id="LOOR1303" tvc-guide-stationid="83169",Local Origination - LOOR1303
-http://example.local/USA-LOOR1303.ts
-#EXTINF:-1 tvg-chno="83170" tvg-name="Local Origination - LOOR1304" group-title="United States" tvg-id="LOOR1304" tvc-guide-stationid="83170",Local Origination - LOOR1304
-http://example.local/USA-LOOR1304.ts
-#EXTINF:-1 tvg-chno="83196" tvg-name="Local Origination - LOOR1310" group-title="United States" tvg-id="LOOR1310" tvc-guide-stationid="83196",Local Origination - LOOR1310
-http://example.local/USA-LOOR1310.ts
-#EXTINF:-1 tvg-chno="66095" tvg-name="Local Origination - LOOR132" group-title="United States" tvg-id="LOOR132" tvc-guide-stationid="66095",Local Origination - LOOR132
-http://example.local/USA-LOOR132.ts
-#EXTINF:-1 tvg-chno="23432" tvg-name="Local Origination - LOOR133" group-title="United States" tvg-id="LOOR133" tvc-guide-stationid="23432",Local Origination - LOOR133
-http://example.local/USA-LOOR133.ts
-#EXTINF:-1 tvg-chno="77788" tvg-name="Local Origination - LOOR134" group-title="United States" tvg-id="LOOR134" tvc-guide-stationid="77788",Local Origination - LOOR134
-http://example.local/USA-LOOR134.ts
-#EXTINF:-1 tvg-chno="103227" tvg-name="Local Origination - LOOR1340" group-title="United States" tvg-id="LOOR1340" tvc-guide-stationid="103227",Local Origination - LOOR1340
-http://example.local/USA-LOOR1340.ts
-#EXTINF:-1 tvg-chno="103228" tvg-name="Local Origination - LOOR1341" group-title="United States" tvg-id="LOOR1341" tvc-guide-stationid="103228",Local Origination - LOOR1341
-http://example.local/USA-LOOR1341.ts
-#EXTINF:-1 tvg-chno="95638" tvg-name="Local Origination - LOOR1342" group-title="United States" tvg-id="LOOR1342" tvc-guide-stationid="95638",Local Origination - LOOR1342
-http://example.local/USA-LOOR1342.ts
-#EXTINF:-1 tvg-chno="103229" tvg-name="Local Origination - LOOR1343" group-title="United States" tvg-id="LOOR1343" tvc-guide-stationid="103229",Local Origination - LOOR1343
-http://example.local/USA-LOOR1343.ts
-#EXTINF:-1 tvg-chno="55372" tvg-name="Local Origination - LOOR135" group-title="United States" tvg-id="LOOR135" tvc-guide-stationid="55372",Local Origination - LOOR135
-http://example.local/USA-LOOR135.ts
-#EXTINF:-1 tvg-chno="60707" tvg-name="Local Origination - LOOR1371" group-title="United States" tvg-id="LOOR1371" tvc-guide-stationid="60707",Local Origination - LOOR1371
-http://example.local/USA-LOOR1371.ts
-#EXTINF:-1 tvg-chno="53192" tvg-name="Local Origination - LOOR138" group-title="United States" tvg-id="LOOR138" tvc-guide-stationid="53192",Local Origination - LOOR138
-http://example.local/USA-LOOR138.ts
-#EXTINF:-1 tvg-chno="103188" tvg-name="Local Origination - LOOR1385" group-title="United States" tvg-id="LOOR1385" tvc-guide-stationid="103188",Local Origination - LOOR1385
-http://example.local/USA-LOOR1385.ts
-#EXTINF:-1 tvg-chno="103318" tvg-name="Local Origination - LOOR1386" group-title="United States" tvg-id="LOOR1386" tvc-guide-stationid="103318",Local Origination - LOOR1386
-http://example.local/USA-LOOR1386.ts
-#EXTINF:-1 tvg-chno="103189" tvg-name="Local Origination - LOOR1387" group-title="United States" tvg-id="LOOR1387" tvc-guide-stationid="103189",Local Origination - LOOR1387
-http://example.local/USA-LOOR1387.ts
-#EXTINF:-1 tvg-chno="103190" tvg-name="Local Origination - LOOR1388" group-title="United States" tvg-id="LOOR1388" tvc-guide-stationid="103190",Local Origination - LOOR1388
-http://example.local/USA-LOOR1388.ts
-#EXTINF:-1 tvg-chno="60709" tvg-name="Local Origination - LOOR1390" group-title="United States" tvg-id="LOOR1390" tvc-guide-stationid="60709",Local Origination - LOOR1390
-http://example.local/USA-LOOR1390.ts
-#EXTINF:-1 tvg-chno="60710" tvg-name="Local Origination - LOOR1391" group-title="United States" tvg-id="LOOR1391" tvc-guide-stationid="60710",Local Origination - LOOR1391
-http://example.local/USA-LOOR1391.ts
-#EXTINF:-1 tvg-chno="87897" tvg-name="Local Origination - LOOR1392" group-title="United States" tvg-id="LOOR1392" tvc-guide-stationid="87897",Local Origination - LOOR1392
-http://example.local/USA-LOOR1392.ts
-#EXTINF:-1 tvg-chno="102967" tvg-name="Local Origination - LOOR1393" group-title="United States" tvg-id="LOOR1393" tvc-guide-stationid="102967",Local Origination - LOOR1393
-http://example.local/USA-LOOR1393.ts
-#EXTINF:-1 tvg-chno="23433" tvg-name="Local Origination - LOOR140" group-title="United States" tvg-id="LOOR140" tvc-guide-stationid="23433",Local Origination - LOOR140
-http://example.local/USA-LOOR140.ts
-#EXTINF:-1 tvg-chno="60712" tvg-name="Local Origination - LOOR1402" group-title="United States" tvg-id="LOOR1402" tvc-guide-stationid="60712",Local Origination - LOOR1402
-http://example.local/USA-LOOR1402.ts
-#EXTINF:-1 tvg-chno="24886" tvg-name="Local Origination - LOOR141" group-title="United States" tvg-id="LOOR141" tvc-guide-stationid="24886",Local Origination - LOOR141
-http://example.local/USA-LOOR141.ts
-#EXTINF:-1 tvg-chno="102451" tvg-name="Local Origination - LOOR1411" group-title="United States" tvg-id="LOOR1411" tvc-guide-stationid="102451",Local Origination - LOOR1411
-http://example.local/USA-LOOR1411.ts
-#EXTINF:-1 tvg-chno="26628" tvg-name="Local Origination - LOOR142" group-title="United States" tvg-id="LOOR142" tvc-guide-stationid="26628",Local Origination - LOOR142
-http://example.local/USA-LOOR142.ts
-#EXTINF:-1 tvg-chno="97899" tvg-name="Local Origination - LOOR1429" group-title="United States" tvg-id="LOOR1429" tvc-guide-stationid="97899",Local Origination - LOOR1429
-http://example.local/USA-LOOR1429.ts
-#EXTINF:-1 tvg-chno="23434" tvg-name="Local Origination - LOOR143" group-title="United States" tvg-id="LOOR143" tvc-guide-stationid="23434",Local Origination - LOOR143
-http://example.local/USA-LOOR143.ts
-#EXTINF:-1 tvg-chno="23435" tvg-name="Local Origination - LOOR144" group-title="United States" tvg-id="LOOR144" tvc-guide-stationid="23435",Local Origination - LOOR144
-http://example.local/USA-LOOR144.ts
-#EXTINF:-1 tvg-chno="23436" tvg-name="Local Origination - LOOR145" group-title="United States" tvg-id="LOOR145" tvc-guide-stationid="23436",Local Origination - LOOR145
-http://example.local/USA-LOOR145.ts
-#EXTINF:-1 tvg-chno="33265" tvg-name="Local Origination - LOOR146" group-title="United States" tvg-id="LOOR146" tvc-guide-stationid="33265",Local Origination - LOOR146
-http://example.local/USA-LOOR146.ts
-#EXTINF:-1 tvg-chno="84122" tvg-name="Local Origination - LOOR147" group-title="United States" tvg-id="LOOR147" tvc-guide-stationid="84122",Local Origination - LOOR147
-http://example.local/USA-LOOR147.ts
-#EXTINF:-1 tvg-chno="68304" tvg-name="Local Origination - LOOR148" group-title="United States" tvg-id="LOOR148" tvc-guide-stationid="68304",Local Origination - LOOR148
-http://example.local/USA-LOOR148.ts
-#EXTINF:-1 tvg-chno="23437" tvg-name="Local Origination - LOOR150" group-title="United States" tvg-id="LOOR150" tvc-guide-stationid="23437",Local Origination - LOOR150
-http://example.local/USA-LOOR150.ts
-#EXTINF:-1 tvg-chno="59073" tvg-name="Local Origination - LOOR1501" group-title="United States" tvg-id="LOOR1501" tvc-guide-stationid="59073",Local Origination - LOOR1501
-http://example.local/USA-LOOR1501.ts
-#EXTINF:-1 tvg-chno="77253" tvg-name="Local Origination - LOOR1503" group-title="United States" tvg-id="LOOR1503" tvc-guide-stationid="77253",Local Origination - LOOR1503
-http://example.local/USA-LOOR1503.ts
-#EXTINF:-1 tvg-chno="77254" tvg-name="Local Origination - LOOR1504" group-title="United States" tvg-id="LOOR1504" tvc-guide-stationid="77254",Local Origination - LOOR1504
-http://example.local/USA-LOOR1504.ts
-#EXTINF:-1 tvg-chno="77256" tvg-name="Local Origination - LOOR1505" group-title="United States" tvg-id="LOOR1505" tvc-guide-stationid="77256",Local Origination - LOOR1505
-http://example.local/USA-LOOR1505.ts
-#EXTINF:-1 tvg-chno="77258" tvg-name="Local Origination - LOOR1506" group-title="United States" tvg-id="LOOR1506" tvc-guide-stationid="77258",Local Origination - LOOR1506
-http://example.local/USA-LOOR1506.ts
-#EXTINF:-1 tvg-chno="77261" tvg-name="Local Origination - LOOR1507" group-title="United States" tvg-id="LOOR1507" tvc-guide-stationid="77261",Local Origination - LOOR1507
-http://example.local/USA-LOOR1507.ts
-#EXTINF:-1 tvg-chno="77268" tvg-name="Local Origination - LOOR1508" group-title="United States" tvg-id="LOOR1508" tvc-guide-stationid="77268",Local Origination - LOOR1508
-http://example.local/USA-LOOR1508.ts
-#EXTINF:-1 tvg-chno="77275" tvg-name="Local Origination - LOOR1509" group-title="United States" tvg-id="LOOR1509" tvc-guide-stationid="77275",Local Origination - LOOR1509
-http://example.local/USA-LOOR1509.ts
-#EXTINF:-1 tvg-chno="24914" tvg-name="Local Origination - LOOR151" group-title="United States" tvg-id="LOOR151" tvc-guide-stationid="24914",Local Origination - LOOR151
-http://example.local/USA-LOOR151.ts
-#EXTINF:-1 tvg-chno="77277" tvg-name="Local Origination - LOOR1510" group-title="United States" tvg-id="LOOR1510" tvc-guide-stationid="77277",Local Origination - LOOR1510
-http://example.local/USA-LOOR1510.ts
-#EXTINF:-1 tvg-chno="77279" tvg-name="Local Origination - LOOR1511" group-title="United States" tvg-id="LOOR1511" tvc-guide-stationid="77279",Local Origination - LOOR1511
-http://example.local/USA-LOOR1511.ts
-#EXTINF:-1 tvg-chno="77280" tvg-name="Local Origination - LOOR1512" group-title="United States" tvg-id="LOOR1512" tvc-guide-stationid="77280",Local Origination - LOOR1512
-http://example.local/USA-LOOR1512.ts
-#EXTINF:-1 tvg-chno="77281" tvg-name="Local Origination - LOOR1513" group-title="United States" tvg-id="LOOR1513" tvc-guide-stationid="77281",Local Origination - LOOR1513
-http://example.local/USA-LOOR1513.ts
-#EXTINF:-1 tvg-chno="77282" tvg-name="Local Origination - LOOR1514" group-title="United States" tvg-id="LOOR1514" tvc-guide-stationid="77282",Local Origination - LOOR1514
-http://example.local/USA-LOOR1514.ts
-#EXTINF:-1 tvg-chno="77283" tvg-name="Local Origination - LOOR1515" group-title="United States" tvg-id="LOOR1515" tvc-guide-stationid="77283",Local Origination - LOOR1515
-http://example.local/USA-LOOR1515.ts
-#EXTINF:-1 tvg-chno="77285" tvg-name="Local Origination - LOOR1516" group-title="United States" tvg-id="LOOR1516" tvc-guide-stationid="77285",Local Origination - LOOR1516
-http://example.local/USA-LOOR1516.ts
-#EXTINF:-1 tvg-chno="77287" tvg-name="Local Origination - LOOR1517" group-title="United States" tvg-id="LOOR1517" tvc-guide-stationid="77287",Local Origination - LOOR1517
-http://example.local/USA-LOOR1517.ts
-#EXTINF:-1 tvg-chno="77296" tvg-name="Local Origination - LOOR1518" group-title="United States" tvg-id="LOOR1518" tvc-guide-stationid="77296",Local Origination - LOOR1518
-http://example.local/USA-LOOR1518.ts
-#EXTINF:-1 tvg-chno="77297" tvg-name="Local Origination - LOOR1519" group-title="United States" tvg-id="LOOR1519" tvc-guide-stationid="77297",Local Origination - LOOR1519
-http://example.local/USA-LOOR1519.ts
-#EXTINF:-1 tvg-chno="48030" tvg-name="Local Origination - LOOR152" group-title="United States" tvg-id="LOOR152" tvc-guide-stationid="48030",Local Origination - LOOR152
-http://example.local/USA-LOOR152.ts
-#EXTINF:-1 tvg-chno="77298" tvg-name="Local Origination - LOOR1520" group-title="United States" tvg-id="LOOR1520" tvc-guide-stationid="77298",Local Origination - LOOR1520
-http://example.local/USA-LOOR1520.ts
-#EXTINF:-1 tvg-chno="77300" tvg-name="Local Origination - LOOR1521" group-title="United States" tvg-id="LOOR1521" tvc-guide-stationid="77300",Local Origination - LOOR1521
-http://example.local/USA-LOOR1521.ts
-#EXTINF:-1 tvg-chno="77301" tvg-name="Local Origination - LOOR1522" group-title="United States" tvg-id="LOOR1522" tvc-guide-stationid="77301",Local Origination - LOOR1522
-http://example.local/USA-LOOR1522.ts
-#EXTINF:-1 tvg-chno="77302" tvg-name="Local Origination - LOOR1523" group-title="United States" tvg-id="LOOR1523" tvc-guide-stationid="77302",Local Origination - LOOR1523
-http://example.local/USA-LOOR1523.ts
-#EXTINF:-1 tvg-chno="77303" tvg-name="Local Origination - LOOR1524" group-title="United States" tvg-id="LOOR1524" tvc-guide-stationid="77303",Local Origination - LOOR1524
-http://example.local/USA-LOOR1524.ts
-#EXTINF:-1 tvg-chno="77305" tvg-name="Local Origination - LOOR1525" group-title="United States" tvg-id="LOOR1525" tvc-guide-stationid="77305",Local Origination - LOOR1525
-http://example.local/USA-LOOR1525.ts
-#EXTINF:-1 tvg-chno="77306" tvg-name="Local Origination - LOOR1526" group-title="United States" tvg-id="LOOR1526" tvc-guide-stationid="77306",Local Origination - LOOR1526
-http://example.local/USA-LOOR1526.ts
-#EXTINF:-1 tvg-chno="77308" tvg-name="Local Origination - LOOR1527" group-title="United States" tvg-id="LOOR1527" tvc-guide-stationid="77308",Local Origination - LOOR1527
-http://example.local/USA-LOOR1527.ts
-#EXTINF:-1 tvg-chno="77309" tvg-name="Local Origination - LOOR1528" group-title="United States" tvg-id="LOOR1528" tvc-guide-stationid="77309",Local Origination - LOOR1528
-http://example.local/USA-LOOR1528.ts
-#EXTINF:-1 tvg-chno="77310" tvg-name="Local Origination - LOOR1529" group-title="United States" tvg-id="LOOR1529" tvc-guide-stationid="77310",Local Origination - LOOR1529
-http://example.local/USA-LOOR1529.ts
-#EXTINF:-1 tvg-chno="77311" tvg-name="Local Origination - LOOR1530" group-title="United States" tvg-id="LOOR1530" tvc-guide-stationid="77311",Local Origination - LOOR1530
-http://example.local/USA-LOOR1530.ts
-#EXTINF:-1 tvg-chno="77312" tvg-name="Local Origination - LOOR1531" group-title="United States" tvg-id="LOOR1531" tvc-guide-stationid="77312",Local Origination - LOOR1531
-http://example.local/USA-LOOR1531.ts
-#EXTINF:-1 tvg-chno="77313" tvg-name="Local Origination - LOOR1532" group-title="United States" tvg-id="LOOR1532" tvc-guide-stationid="77313",Local Origination - LOOR1532
-http://example.local/USA-LOOR1532.ts
-#EXTINF:-1 tvg-chno="77314" tvg-name="Local Origination - LOOR1533" group-title="United States" tvg-id="LOOR1533" tvc-guide-stationid="77314",Local Origination - LOOR1533
-http://example.local/USA-LOOR1533.ts
-#EXTINF:-1 tvg-chno="77315" tvg-name="Local Origination - LOOR1534" group-title="United States" tvg-id="LOOR1534" tvc-guide-stationid="77315",Local Origination - LOOR1534
-http://example.local/USA-LOOR1534.ts
-#EXTINF:-1 tvg-chno="77316" tvg-name="Local Origination - LOOR1535" group-title="United States" tvg-id="LOOR1535" tvc-guide-stationid="77316",Local Origination - LOOR1535
-http://example.local/USA-LOOR1535.ts
-#EXTINF:-1 tvg-chno="77317" tvg-name="Local Origination - LOOR1536" group-title="United States" tvg-id="LOOR1536" tvc-guide-stationid="77317",Local Origination - LOOR1536
-http://example.local/USA-LOOR1536.ts
-#EXTINF:-1 tvg-chno="77318" tvg-name="Local Origination - LOOR1537" group-title="United States" tvg-id="LOOR1537" tvc-guide-stationid="77318",Local Origination - LOOR1537
-http://example.local/USA-LOOR1537.ts
-#EXTINF:-1 tvg-chno="77319" tvg-name="Local Origination - LOOR1538" group-title="United States" tvg-id="LOOR1538" tvc-guide-stationid="77319",Local Origination - LOOR1538
-http://example.local/USA-LOOR1538.ts
-#EXTINF:-1 tvg-chno="77320" tvg-name="Local Origination - LOOR1539" group-title="United States" tvg-id="LOOR1539" tvc-guide-stationid="77320",Local Origination - LOOR1539
-http://example.local/USA-LOOR1539.ts
-#EXTINF:-1 tvg-chno="23438" tvg-name="Local Origination - LOOR154" group-title="United States" tvg-id="LOOR154" tvc-guide-stationid="23438",Local Origination - LOOR154
-http://example.local/USA-LOOR154.ts
-#EXTINF:-1 tvg-chno="77321" tvg-name="Local Origination - LOOR1540" group-title="United States" tvg-id="LOOR1540" tvc-guide-stationid="77321",Local Origination - LOOR1540
-http://example.local/USA-LOOR1540.ts
-#EXTINF:-1 tvg-chno="77324" tvg-name="Local Origination - LOOR1541" group-title="United States" tvg-id="LOOR1541" tvc-guide-stationid="77324",Local Origination - LOOR1541
-http://example.local/USA-LOOR1541.ts
-#EXTINF:-1 tvg-chno="77325" tvg-name="Local Origination - LOOR1542" group-title="United States" tvg-id="LOOR1542" tvc-guide-stationid="77325",Local Origination - LOOR1542
-http://example.local/USA-LOOR1542.ts
-#EXTINF:-1 tvg-chno="77326" tvg-name="Local Origination - LOOR1543" group-title="United States" tvg-id="LOOR1543" tvc-guide-stationid="77326",Local Origination - LOOR1543
-http://example.local/USA-LOOR1543.ts
-#EXTINF:-1 tvg-chno="77327" tvg-name="Local Origination - LOOR1544" group-title="United States" tvg-id="LOOR1544" tvc-guide-stationid="77327",Local Origination - LOOR1544
-http://example.local/USA-LOOR1544.ts
-#EXTINF:-1 tvg-chno="77328" tvg-name="Local Origination - LOOR1545" group-title="United States" tvg-id="LOOR1545" tvc-guide-stationid="77328",Local Origination - LOOR1545
-http://example.local/USA-LOOR1545.ts
-#EXTINF:-1 tvg-chno="77329" tvg-name="Local Origination - LOOR1546" group-title="United States" tvg-id="LOOR1546" tvc-guide-stationid="77329",Local Origination - LOOR1546
-http://example.local/USA-LOOR1546.ts
-#EXTINF:-1 tvg-chno="77330" tvg-name="Local Origination - LOOR1547" group-title="United States" tvg-id="LOOR1547" tvc-guide-stationid="77330",Local Origination - LOOR1547
-http://example.local/USA-LOOR1547.ts
-#EXTINF:-1 tvg-chno="77331" tvg-name="Local Origination - LOOR1548" group-title="United States" tvg-id="LOOR1548" tvc-guide-stationid="77331",Local Origination - LOOR1548
-http://example.local/USA-LOOR1548.ts
-#EXTINF:-1 tvg-chno="77332" tvg-name="Local Origination - LOOR1549" group-title="United States" tvg-id="LOOR1549" tvc-guide-stationid="77332",Local Origination - LOOR1549
-http://example.local/USA-LOOR1549.ts
-#EXTINF:-1 tvg-chno="77333" tvg-name="Local Origination - LOOR1550" group-title="United States" tvg-id="LOOR1550" tvc-guide-stationid="77333",Local Origination - LOOR1550
-http://example.local/USA-LOOR1550.ts
-#EXTINF:-1 tvg-chno="77269" tvg-name="Local Origination - LOOR1551" group-title="United States" tvg-id="LOOR1551" tvc-guide-stationid="77269",Local Origination - LOOR1551
-http://example.local/USA-LOOR1551.ts
-#EXTINF:-1 tvg-chno="77270" tvg-name="Local Origination - LOOR1552" group-title="United States" tvg-id="LOOR1552" tvc-guide-stationid="77270",Local Origination - LOOR1552
-http://example.local/USA-LOOR1552.ts
-#EXTINF:-1 tvg-chno="77271" tvg-name="Local Origination - LOOR1553" group-title="United States" tvg-id="LOOR1553" tvc-guide-stationid="77271",Local Origination - LOOR1553
-http://example.local/USA-LOOR1553.ts
-#EXTINF:-1 tvg-chno="77272" tvg-name="Local Origination - LOOR1554" group-title="United States" tvg-id="LOOR1554" tvc-guide-stationid="77272",Local Origination - LOOR1554
-http://example.local/USA-LOOR1554.ts
-#EXTINF:-1 tvg-chno="77273" tvg-name="Local Origination - LOOR1555" group-title="United States" tvg-id="LOOR1555" tvc-guide-stationid="77273",Local Origination - LOOR1555
-http://example.local/USA-LOOR1555.ts
-#EXTINF:-1 tvg-chno="77274" tvg-name="Local Origination - LOOR1556" group-title="United States" tvg-id="LOOR1556" tvc-guide-stationid="77274",Local Origination - LOOR1556
-http://example.local/USA-LOOR1556.ts
-#EXTINF:-1 tvg-chno="77276" tvg-name="Local Origination - LOOR1557" group-title="United States" tvg-id="LOOR1557" tvc-guide-stationid="77276",Local Origination - LOOR1557
-http://example.local/USA-LOOR1557.ts
-#EXTINF:-1 tvg-chno="77278" tvg-name="Local Origination - LOOR1558" group-title="United States" tvg-id="LOOR1558" tvc-guide-stationid="77278",Local Origination - LOOR1558
-http://example.local/USA-LOOR1558.ts
-#EXTINF:-1 tvg-chno="77284" tvg-name="Local Origination - LOOR1559" group-title="United States" tvg-id="LOOR1559" tvc-guide-stationid="77284",Local Origination - LOOR1559
-http://example.local/USA-LOOR1559.ts
-#EXTINF:-1 tvg-chno="73412" tvg-name="Local Origination - LOOR156" group-title="United States" tvg-id="LOOR156" tvc-guide-stationid="73412",Local Origination - LOOR156
-http://example.local/USA-LOOR156.ts
-#EXTINF:-1 tvg-chno="77286" tvg-name="Local Origination - LOOR1560" group-title="United States" tvg-id="LOOR1560" tvc-guide-stationid="77286",Local Origination - LOOR1560
-http://example.local/USA-LOOR1560.ts
-#EXTINF:-1 tvg-chno="77288" tvg-name="Local Origination - LOOR1561" group-title="United States" tvg-id="LOOR1561" tvc-guide-stationid="77288",Local Origination - LOOR1561
-http://example.local/USA-LOOR1561.ts
-#EXTINF:-1 tvg-chno="77289" tvg-name="Local Origination - LOOR1562" group-title="United States" tvg-id="LOOR1562" tvc-guide-stationid="77289",Local Origination - LOOR1562
-http://example.local/USA-LOOR1562.ts
-#EXTINF:-1 tvg-chno="77290" tvg-name="Local Origination - LOOR1563" group-title="United States" tvg-id="LOOR1563" tvc-guide-stationid="77290",Local Origination - LOOR1563
-http://example.local/USA-LOOR1563.ts
-#EXTINF:-1 tvg-chno="77291" tvg-name="Local Origination - LOOR1564" group-title="United States" tvg-id="LOOR1564" tvc-guide-stationid="77291",Local Origination - LOOR1564
-http://example.local/USA-LOOR1564.ts
-#EXTINF:-1 tvg-chno="77292" tvg-name="Local Origination - LOOR1565" group-title="United States" tvg-id="LOOR1565" tvc-guide-stationid="77292",Local Origination - LOOR1565
-http://example.local/USA-LOOR1565.ts
-#EXTINF:-1 tvg-chno="77293" tvg-name="Local Origination - LOOR1566" group-title="United States" tvg-id="LOOR1566" tvc-guide-stationid="77293",Local Origination - LOOR1566
-http://example.local/USA-LOOR1566.ts
-#EXTINF:-1 tvg-chno="77294" tvg-name="Local Origination - LOOR1567" group-title="United States" tvg-id="LOOR1567" tvc-guide-stationid="77294",Local Origination - LOOR1567
-http://example.local/USA-LOOR1567.ts
-#EXTINF:-1 tvg-chno="77295" tvg-name="Local Origination - LOOR1568" group-title="United States" tvg-id="LOOR1568" tvc-guide-stationid="77295",Local Origination - LOOR1568
-http://example.local/USA-LOOR1568.ts
-#EXTINF:-1 tvg-chno="77299" tvg-name="Local Origination - LOOR1569" group-title="United States" tvg-id="LOOR1569" tvc-guide-stationid="77299",Local Origination - LOOR1569
-http://example.local/USA-LOOR1569.ts
-#EXTINF:-1 tvg-chno="75520" tvg-name="Local Origination - LOOR157" group-title="United States" tvg-id="LOOR157" tvc-guide-stationid="75520",Local Origination - LOOR157
-http://example.local/USA-LOOR157.ts
-#EXTINF:-1 tvg-chno="77304" tvg-name="Local Origination - LOOR1571" group-title="United States" tvg-id="LOOR1571" tvc-guide-stationid="77304",Local Origination - LOOR1571
-http://example.local/USA-LOOR1571.ts
-#EXTINF:-1 tvg-chno="77307" tvg-name="Local Origination - LOOR1572" group-title="United States" tvg-id="LOOR1572" tvc-guide-stationid="77307",Local Origination - LOOR1572
-http://example.local/USA-LOOR1572.ts
-#EXTINF:-1 tvg-chno="77322" tvg-name="Local Origination - LOOR1573" group-title="United States" tvg-id="LOOR1573" tvc-guide-stationid="77322",Local Origination - LOOR1573
-http://example.local/USA-LOOR1573.ts
-#EXTINF:-1 tvg-chno="77323" tvg-name="Local Origination - LOOR1574" group-title="United States" tvg-id="LOOR1574" tvc-guide-stationid="77323",Local Origination - LOOR1574
-http://example.local/USA-LOOR1574.ts
-#EXTINF:-1 tvg-chno="77334" tvg-name="Local Origination - LOOR1575" group-title="United States" tvg-id="LOOR1575" tvc-guide-stationid="77334",Local Origination - LOOR1575
-http://example.local/USA-LOOR1575.ts
-#EXTINF:-1 tvg-chno="77335" tvg-name="Local Origination - LOOR1576" group-title="United States" tvg-id="LOOR1576" tvc-guide-stationid="77335",Local Origination - LOOR1576
-http://example.local/USA-LOOR1576.ts
-#EXTINF:-1 tvg-chno="77336" tvg-name="Local Origination - LOOR1577" group-title="United States" tvg-id="LOOR1577" tvc-guide-stationid="77336",Local Origination - LOOR1577
-http://example.local/USA-LOOR1577.ts
-#EXTINF:-1 tvg-chno="77337" tvg-name="Local Origination - LOOR1578" group-title="United States" tvg-id="LOOR1578" tvc-guide-stationid="77337",Local Origination - LOOR1578
-http://example.local/USA-LOOR1578.ts
-#EXTINF:-1 tvg-chno="77338" tvg-name="Local Origination - LOOR1579" group-title="United States" tvg-id="LOOR1579" tvc-guide-stationid="77338",Local Origination - LOOR1579
-http://example.local/USA-LOOR1579.ts
-#EXTINF:-1 tvg-chno="73707" tvg-name="Local Origination - LOOR158" group-title="United States" tvg-id="LOOR158" tvc-guide-stationid="73707",Local Origination - LOOR158
-http://example.local/USA-LOOR158.ts
-#EXTINF:-1 tvg-chno="77339" tvg-name="Local Origination - LOOR1580" group-title="United States" tvg-id="LOOR1580" tvc-guide-stationid="77339",Local Origination - LOOR1580
-http://example.local/USA-LOOR1580.ts
-#EXTINF:-1 tvg-chno="77340" tvg-name="Local Origination - LOOR1581" group-title="United States" tvg-id="LOOR1581" tvc-guide-stationid="77340",Local Origination - LOOR1581
-http://example.local/USA-LOOR1581.ts
-#EXTINF:-1 tvg-chno="77341" tvg-name="Local Origination - LOOR1582" group-title="United States" tvg-id="LOOR1582" tvc-guide-stationid="77341",Local Origination - LOOR1582
-http://example.local/USA-LOOR1582.ts
-#EXTINF:-1 tvg-chno="77342" tvg-name="Local Origination - LOOR1583" group-title="United States" tvg-id="LOOR1583" tvc-guide-stationid="77342",Local Origination - LOOR1583
-http://example.local/USA-LOOR1583.ts
-#EXTINF:-1 tvg-chno="77343" tvg-name="Local Origination - LOOR1584" group-title="United States" tvg-id="LOOR1584" tvc-guide-stationid="77343",Local Origination - LOOR1584
-http://example.local/USA-LOOR1584.ts
-#EXTINF:-1 tvg-chno="77344" tvg-name="Local Origination - LOOR1586" group-title="United States" tvg-id="LOOR1586" tvc-guide-stationid="77344",Local Origination - LOOR1586
-http://example.local/USA-LOOR1586.ts
-#EXTINF:-1 tvg-chno="77345" tvg-name="Local Origination - LOOR1587" group-title="United States" tvg-id="LOOR1587" tvc-guide-stationid="77345",Local Origination - LOOR1587
-http://example.local/USA-LOOR1587.ts
-#EXTINF:-1 tvg-chno="77346" tvg-name="Local Origination - LOOR1588" group-title="United States" tvg-id="LOOR1588" tvc-guide-stationid="77346",Local Origination - LOOR1588
-http://example.local/USA-LOOR1588.ts
-#EXTINF:-1 tvg-chno="77347" tvg-name="Local Origination - LOOR1589" group-title="United States" tvg-id="LOOR1589" tvc-guide-stationid="77347",Local Origination - LOOR1589
-http://example.local/USA-LOOR1589.ts
-#EXTINF:-1 tvg-chno="61634" tvg-name="Local Origination - LOOR159" group-title="United States" tvg-id="LOOR159" tvc-guide-stationid="61634",Local Origination - LOOR159
-http://example.local/USA-LOOR159.ts
-#EXTINF:-1 tvg-chno="77348" tvg-name="Local Origination - LOOR1590" group-title="United States" tvg-id="LOOR1590" tvc-guide-stationid="77348",Local Origination - LOOR1590
-http://example.local/USA-LOOR1590.ts
-#EXTINF:-1 tvg-chno="77349" tvg-name="Local Origination - LOOR1591" group-title="United States" tvg-id="LOOR1591" tvc-guide-stationid="77349",Local Origination - LOOR1591
-http://example.local/USA-LOOR1591.ts
-#EXTINF:-1 tvg-chno="77350" tvg-name="Local Origination - LOOR1592" group-title="United States" tvg-id="LOOR1592" tvc-guide-stationid="77350",Local Origination - LOOR1592
-http://example.local/USA-LOOR1592.ts
-#EXTINF:-1 tvg-chno="77351" tvg-name="Local Origination - LOOR1593" group-title="United States" tvg-id="LOOR1593" tvc-guide-stationid="77351",Local Origination - LOOR1593
-http://example.local/USA-LOOR1593.ts
-#EXTINF:-1 tvg-chno="77352" tvg-name="Local Origination - LOOR1594" group-title="United States" tvg-id="LOOR1594" tvc-guide-stationid="77352",Local Origination - LOOR1594
-http://example.local/USA-LOOR1594.ts
-#EXTINF:-1 tvg-chno="77353" tvg-name="Local Origination - LOOR1595" group-title="United States" tvg-id="LOOR1595" tvc-guide-stationid="77353",Local Origination - LOOR1595
-http://example.local/USA-LOOR1595.ts
-#EXTINF:-1 tvg-chno="77354" tvg-name="Local Origination - LOOR1596" group-title="United States" tvg-id="LOOR1596" tvc-guide-stationid="77354",Local Origination - LOOR1596
-http://example.local/USA-LOOR1596.ts
-#EXTINF:-1 tvg-chno="77355" tvg-name="Local Origination - LOOR1597" group-title="United States" tvg-id="LOOR1597" tvc-guide-stationid="77355",Local Origination - LOOR1597
-http://example.local/USA-LOOR1597.ts
-#EXTINF:-1 tvg-chno="77356" tvg-name="Local Origination - LOOR1598" group-title="United States" tvg-id="LOOR1598" tvc-guide-stationid="77356",Local Origination - LOOR1598
-http://example.local/USA-LOOR1598.ts
-#EXTINF:-1 tvg-chno="77357" tvg-name="Local Origination - LOOR1599" group-title="United States" tvg-id="LOOR1599" tvc-guide-stationid="77357",Local Origination - LOOR1599
-http://example.local/USA-LOOR1599.ts
-#EXTINF:-1 tvg-chno="23439" tvg-name="Local Origination - LOOR160" group-title="United States" tvg-id="LOOR160" tvc-guide-stationid="23439",Local Origination - LOOR160
-http://example.local/USA-LOOR160.ts
-#EXTINF:-1 tvg-chno="65000" tvg-name="Local Origination - LOOR1600" group-title="United States" tvg-id="LOOR1600" tvc-guide-stationid="65000",Local Origination - LOOR1600
-http://example.local/USA-LOOR1600.ts
-#EXTINF:-1 tvg-chno="77131" tvg-name="Local Origination - LOOR1601" group-title="United States" tvg-id="LOOR1601" tvc-guide-stationid="77131",Local Origination - LOOR1601
-http://example.local/USA-LOOR1601.ts
-#EXTINF:-1 tvg-chno="77132" tvg-name="Local Origination - LOOR1602" group-title="United States" tvg-id="LOOR1602" tvc-guide-stationid="77132",Local Origination - LOOR1602
-http://example.local/USA-LOOR1602.ts
-#EXTINF:-1 tvg-chno="77133" tvg-name="Local Origination - LOOR1603" group-title="United States" tvg-id="LOOR1603" tvc-guide-stationid="77133",Local Origination - LOOR1603
-http://example.local/USA-LOOR1603.ts
-#EXTINF:-1 tvg-chno="77134" tvg-name="Local Origination - LOOR1604" group-title="United States" tvg-id="LOOR1604" tvc-guide-stationid="77134",Local Origination - LOOR1604
-http://example.local/USA-LOOR1604.ts
-#EXTINF:-1 tvg-chno="77135" tvg-name="Local Origination - LOOR1605" group-title="United States" tvg-id="LOOR1605" tvc-guide-stationid="77135",Local Origination - LOOR1605
-http://example.local/USA-LOOR1605.ts
-#EXTINF:-1 tvg-chno="77136" tvg-name="Local Origination - LOOR1606" group-title="United States" tvg-id="LOOR1606" tvc-guide-stationid="77136",Local Origination - LOOR1606
-http://example.local/USA-LOOR1606.ts
-#EXTINF:-1 tvg-chno="77137" tvg-name="Local Origination - LOOR1607" group-title="United States" tvg-id="LOOR1607" tvc-guide-stationid="77137",Local Origination - LOOR1607
-http://example.local/USA-LOOR1607.ts
-#EXTINF:-1 tvg-chno="77138" tvg-name="Local Origination - LOOR1608" group-title="United States" tvg-id="LOOR1608" tvc-guide-stationid="77138",Local Origination - LOOR1608
-http://example.local/USA-LOOR1608.ts
-#EXTINF:-1 tvg-chno="77139" tvg-name="Local Origination - LOOR1609" group-title="United States" tvg-id="LOOR1609" tvc-guide-stationid="77139",Local Origination - LOOR1609
-http://example.local/USA-LOOR1609.ts
-#EXTINF:-1 tvg-chno="26086" tvg-name="Local Origination - LOOR161" group-title="United States" tvg-id="LOOR161" tvc-guide-stationid="26086",Local Origination - LOOR161
-http://example.local/USA-LOOR161.ts
-#EXTINF:-1 tvg-chno="77140" tvg-name="Local Origination - LOOR1610" group-title="United States" tvg-id="LOOR1610" tvc-guide-stationid="77140",Local Origination - LOOR1610
-http://example.local/USA-LOOR1610.ts
-#EXTINF:-1 tvg-chno="77141" tvg-name="Local Origination - LOOR1611" group-title="United States" tvg-id="LOOR1611" tvc-guide-stationid="77141",Local Origination - LOOR1611
-http://example.local/USA-LOOR1611.ts
-#EXTINF:-1 tvg-chno="77142" tvg-name="Local Origination - LOOR1612" group-title="United States" tvg-id="LOOR1612" tvc-guide-stationid="77142",Local Origination - LOOR1612
-http://example.local/USA-LOOR1612.ts
-#EXTINF:-1 tvg-chno="77143" tvg-name="Local Origination - LOOR1613" group-title="United States" tvg-id="LOOR1613" tvc-guide-stationid="77143",Local Origination - LOOR1613
-http://example.local/USA-LOOR1613.ts
-#EXTINF:-1 tvg-chno="77144" tvg-name="Local Origination - LOOR1614" group-title="United States" tvg-id="LOOR1614" tvc-guide-stationid="77144",Local Origination - LOOR1614
-http://example.local/USA-LOOR1614.ts
-#EXTINF:-1 tvg-chno="77145" tvg-name="Local Origination - LOOR1615" group-title="United States" tvg-id="LOOR1615" tvc-guide-stationid="77145",Local Origination - LOOR1615
-http://example.local/USA-LOOR1615.ts
-#EXTINF:-1 tvg-chno="77146" tvg-name="Local Origination - LOOR1616" group-title="United States" tvg-id="LOOR1616" tvc-guide-stationid="77146",Local Origination - LOOR1616
-http://example.local/USA-LOOR1616.ts
-#EXTINF:-1 tvg-chno="77147" tvg-name="Local Origination - LOOR1617" group-title="United States" tvg-id="LOOR1617" tvc-guide-stationid="77147",Local Origination - LOOR1617
-http://example.local/USA-LOOR1617.ts
-#EXTINF:-1 tvg-chno="77148" tvg-name="Local Origination - LOOR1618" group-title="United States" tvg-id="LOOR1618" tvc-guide-stationid="77148",Local Origination - LOOR1618
-http://example.local/USA-LOOR1618.ts
-#EXTINF:-1 tvg-chno="77149" tvg-name="Local Origination - LOOR1619" group-title="United States" tvg-id="LOOR1619" tvc-guide-stationid="77149",Local Origination - LOOR1619
-http://example.local/USA-LOOR1619.ts
-#EXTINF:-1 tvg-chno="35300" tvg-name="Local Origination - LOOR162" group-title="United States" tvg-id="LOOR162" tvc-guide-stationid="35300",Local Origination - LOOR162
-http://example.local/USA-LOOR162.ts
-#EXTINF:-1 tvg-chno="77150" tvg-name="Local Origination - LOOR1620" group-title="United States" tvg-id="LOOR1620" tvc-guide-stationid="77150",Local Origination - LOOR1620
-http://example.local/USA-LOOR1620.ts
-#EXTINF:-1 tvg-chno="77151" tvg-name="Local Origination - LOOR1621" group-title="United States" tvg-id="LOOR1621" tvc-guide-stationid="77151",Local Origination - LOOR1621
-http://example.local/USA-LOOR1621.ts
-#EXTINF:-1 tvg-chno="77152" tvg-name="Local Origination - LOOR1622" group-title="United States" tvg-id="LOOR1622" tvc-guide-stationid="77152",Local Origination - LOOR1622
-http://example.local/USA-LOOR1622.ts
-#EXTINF:-1 tvg-chno="77153" tvg-name="Local Origination - LOOR1623" group-title="United States" tvg-id="LOOR1623" tvc-guide-stationid="77153",Local Origination - LOOR1623
-http://example.local/USA-LOOR1623.ts
-#EXTINF:-1 tvg-chno="77154" tvg-name="Local Origination - LOOR1624" group-title="United States" tvg-id="LOOR1624" tvc-guide-stationid="77154",Local Origination - LOOR1624
-http://example.local/USA-LOOR1624.ts
-#EXTINF:-1 tvg-chno="77155" tvg-name="Local Origination - LOOR1625" group-title="United States" tvg-id="LOOR1625" tvc-guide-stationid="77155",Local Origination - LOOR1625
-http://example.local/USA-LOOR1625.ts

@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="167586" tvg-name="Home & Garden Television" tvg-logo="https://zap2it.tmsimg.com/assets/s167586_ll_h15_aa.png" group-title="United States" tvg-id="HGTHD" tvc-guide-stationid="167586",Home & Garden Television
-http://example.local/USA-HGTHD.ts
-#EXTINF:-1 tvg-chno="34215" tvg-name="Home & Garden Television (Pacific)" tvg-logo="https://logos.jesmann.com/hgtvp.png" group-title="United States" tvg-id="HGTVP" tvc-guide-stationid="34215",Home & Garden Television (Pacific)
-http://example.local/USA-HGTVP.ts
 #EXTINF:-1 tvg-chno="49788" tvg-name="Home & Garden Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49788_ll_h15_ab.png" group-title="United States" tvg-id="HGTVD" tvc-guide-stationid="49788",Home & Garden Television HD
 http://example.local/USA-HGTVD.ts
 #EXTINF:-1 tvg-chno="186008" tvg-name="Home & Garden Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s14902_ll_h15_ab.png" group-title="United States" tvg-id="HGTVDS" tvc-guide-stationid="186008",Home & Garden Television HD
@@ -51,12 +47,12 @@ http://example.local/USA-HORSEDE.ts
 http://example.local/USA-HOT102T.ts
 #EXTINF:-1 tvg-chno="11213" tvg-name="Hot Choice (Viewer's Choice)" tvg-logo="https://zap2it.tmsimg.com/assets/s11213_ll_h15_aa.png" group-title="United States" tvg-id="HOT" tvc-guide-stationid="11213",Hot Choice (Viewer's Choice)
 http://example.local/USA-HOT.ts
-#EXTINF:-1 tvg-chno="150067" tvg-name="Hot Ones" tvg-logo="https://zap2it.tmsimg.com/assets/s150067_ll_h9_aa.png" group-title="United States" tvg-id="XMVDHO" tvc-guide-stationid="150067",Hot Ones
-http://example.local/USA-XMVDHO.ts
-#EXTINF:-1 tvg-chno="183165" tvg-name="Hot Ones" group-title="United States" tvg-id="TVPHOT" tvc-guide-stationid="183165",Hot Ones
-http://example.local/USA-TVPHOT.ts
 #EXTINF:-1 tvg-chno="149442" tvg-name="Hot Ones" tvg-logo="https://zap2it.tmsimg.com/assets/s149442_ll_h9_aa.png" group-title="United States" tvg-id="XMVHO" tvc-guide-stationid="149442",Hot Ones
 http://example.local/USA-XMVHO.ts
+#EXTINF:-1 tvg-chno="183165" tvg-name="Hot Ones" group-title="United States" tvg-id="TVPHOT" tvc-guide-stationid="183165",Hot Ones
+http://example.local/USA-TVPHOT.ts
+#EXTINF:-1 tvg-chno="150067" tvg-name="Hot Ones" tvg-logo="https://zap2it.tmsimg.com/assets/s150067_ll_h9_aa.png" group-title="United States" tvg-id="XMVDHO" tvc-guide-stationid="150067",Hot Ones
+http://example.local/USA-XMVDHO.ts
 #EXTINF:-1 tvg-chno="151230" tvg-name="Hot Ones" tvg-logo="https://zap2it.tmsimg.com/assets/s151230_ll_h9_aa.png" group-title="United States" tvg-id="XPLHTO" tvc-guide-stationid="151230",Hot Ones
 http://example.local/USA-XPLHTO.ts
 #EXTINF:-1 tvg-chno="98735" tvg-name="HotBuy" tvg-logo="https://zap2it.tmsimg.com/assets/s98735_ll_h15_aa.png" group-title="United States" tvg-id="HOTBUY" tvc-guide-stationid="98735",HotBuy
@@ -97,13 +93,13 @@ http://example.local/USA-HSTVDM.ts
 http://example.local/USA-HWTVDM.ts
 #EXTINF:-1 tvg-chno="62077" tvg-name="HSN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s62077_ll_h15_ab.png" group-title="United States" tvg-id="HSNHD" tvc-guide-stationid="62077",HSN HD
 http://example.local/USA-HSNHD.ts
-#EXTINF:-1 tvg-chno="138142" tvg-name="HSN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s62077_ll_h15_ab.png" group-title="United States" tvg-id="HSNSTR" tvc-guide-stationid="138142",HSN HD
-http://example.local/USA-HSNSTR.ts
 #EXTINF:-1 tvg-chno="110457" tvg-name="HSN HD" group-title="United States" tvg-id="HSNH" tvc-guide-stationid="110457",HSN HD
 http://example.local/USA-HSNH.ts
+#EXTINF:-1 tvg-chno="138142" tvg-name="HSN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s62077_ll_h15_ab.png" group-title="United States" tvg-id="HSNSTR" tvc-guide-stationid="138142",HSN HD
+http://example.local/USA-HSNSTR.ts
 #EXTINF:-1 tvg-chno="119102" tvg-name="HSN Samsung" group-title="United States" tvg-id="VIZHSN" tvc-guide-stationid="119102",HSN Samsung
 http://example.local/USA-VIZHSN.ts
-#EXTINF:-1 tvg-chno="10270" tvg-name="HSN2" tvg-logo="https://zap2it.tmsimg.com/assets/s10270_ll_h15_ad.png" group-title="United States" tvg-id="HSN2" tvc-guide-stationid="10270",HSN2
+#EXTINF:-1 tvg-chno="10270" tvg-name="HSN2" tvg-logo="https://zap2it.tmsimg.com/assets/s10270_h3_aa.png" group-title="United States" tvg-id="HSN2" tvc-guide-stationid="10270",HSN2
 http://example.local/USA-HSN2.ts
 #EXTINF:-1 tvg-chno="99450" tvg-name="HSN2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99450_ll_h15_ac.png" group-title="United States" tvg-id="HSN2HD" tvc-guide-stationid="99450",HSN2 HD
 http://example.local/USA-HSN2HD.ts
@@ -157,7 +153,7 @@ http://example.local/USA-HUSTLR.ts
 http://example.local/USA-HUSTLRP.ts
 #EXTINF:-1 tvg-chno="122686" tvg-name="i CiTi TV" tvg-logo="https://zap2it.tmsimg.com/assets/s122686_ll_h9_aa.png" group-title="United States" tvg-id="ICITI" tvc-guide-stationid="122686",i CiTi TV
 http://example.local/USA-ICITI.ts
-#EXTINF:-1 tvg-chno="200785" tvg-name="I Shouldn't Be Alive" group-title="United States" tvg-id="ISBUS" tvc-guide-stationid="200785",I Shouldn't Be Alive
+#EXTINF:-1 tvg-chno="200785" tvg-name="I Shouldn't Be Alive" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002HNWTV.png" group-title="United States" tvg-id="ISBUS" tvc-guide-stationid="200785",I Shouldn't Be Alive
 http://example.local/USA-ISBUS.ts
 #EXTINF:-1 tvg-chno="78910" tvg-name="i-CABLE News" group-title="United States" tvg-id="ICABNWS" tvc-guide-stationid="78910",i-CABLE News
 http://example.local/USA-ICABNWS.ts
@@ -213,10 +209,10 @@ http://example.local/USA-IFCSTR.ts
 http://example.local/USA-IFIBER1.ts
 #EXTINF:-1 tvg-chno="119193" tvg-name="iFood" group-title="United States" tvg-id="VIZIFD" tvc-guide-stationid="119193",iFood
 http://example.local/USA-VIZIFD.ts
-#EXTINF:-1 tvg-chno="125037" tvg-name="IGN1" tvg-logo="https://zap2it.tmsimg.com/assets/s125037_ll_h9_aa.png" group-title="United States" tvg-id="IGN1" tvc-guide-stationid="125037",IGN1
-http://example.local/USA-IGN1.ts
 #EXTINF:-1 tvg-chno="121015" tvg-name="IGN1" group-title="United States" tvg-id="VIZIGN1" tvc-guide-stationid="121015",IGN1
 http://example.local/USA-VIZIGN1.ts
+#EXTINF:-1 tvg-chno="125037" tvg-name="IGN1" tvg-logo="https://zap2it.tmsimg.com/assets/s125037_ll_h9_aa.png" group-title="United States" tvg-id="IGN1" tvc-guide-stationid="125037",IGN1
+http://example.local/USA-IGN1.ts
 #EXTINF:-1 tvg-chno="71798" tvg-name="Impact Network" tvg-logo="https://zap2it.tmsimg.com/assets/s71798_ll_h15_ab.png" group-title="United States" tvg-id="IMPCNET" tvc-guide-stationid="71798",Impact Network
 http://example.local/USA-IMPCNET.ts
 #EXTINF:-1 tvg-chno="138982" tvg-name="Impact Network (SD Feed)" tvg-logo="https://zap2it.tmsimg.com/assets/s138982_ll_h15_aa.png" group-title="United States" tvg-id="IMPACSD" tvc-guide-stationid="138982",Impact Network (SD Feed)
@@ -295,10 +291,10 @@ http://example.local/USA-PCM23.ts
 http://example.local/USA-PCMHD.ts
 #EXTINF:-1 tvg-chno="101573" tvg-name="India 24x7" group-title="United States" tvg-id="INDIA24" tvc-guide-stationid="101573",India 24x7
 http://example.local/USA-INDIA24.ts
-#EXTINF:-1 tvg-chno="120702" tvg-name="India Today" group-title="United States" tvg-id="INDTODAY" tvc-guide-stationid="120702",India Today
-http://example.local/USA-INDTODAY.ts
 #EXTINF:-1 tvg-chno="48522" tvg-name="India Today" tvg-logo="https://zap2it.tmsimg.com/assets/s48522_ll_h15_aa.png" group-title="United States" tvg-id="INDTOD" tvc-guide-stationid="48522",India Today
 http://example.local/USA-INDTOD.ts
+#EXTINF:-1 tvg-chno="120702" tvg-name="India Today" group-title="United States" tvg-id="INDTODAY" tvc-guide-stationid="120702",India Today
+http://example.local/USA-INDTODAY.ts
 #EXTINF:-1 tvg-chno="124731" tvg-name="India TV" tvg-logo="https://zap2it.tmsimg.com/assets/s124731_ll_h15_aa.png" group-title="United States" tvg-id="INDIA" tvc-guide-stationid="124731",India TV
 http://example.local/USA-INDIA.ts
 #EXTINF:-1 tvg-chno="44877" tvg-name="Indian River Educational Channel" group-title="United States" tvg-id="IREDU" tvc-guide-stationid="44877",Indian River Educational Channel
@@ -527,6 +523,8 @@ http://example.local/USA-INSITRA.ts
 http://example.local/USA-ULTRAUS.ts
 #EXTINF:-1 tvg-chno="122122" tvg-name="INVESTIGATION CHANNEL" group-title="United States" tvg-id="VIZINV" tvc-guide-stationid="122122",INVESTIGATION CHANNEL
 http://example.local/USA-VIZINV.ts
+#EXTINF:-1 tvg-chno="16615" tvg-name="Investigation Discovery" tvg-logo="https://zap2it.tmsimg.com/assets/s16615_ll_h15_ad.png" group-title="United States" tvg-id="ID" tvc-guide-stationid="16615",Investigation Discovery
+http://example.local/USA-ID.ts
 #EXTINF:-1 tvg-chno="50634" tvg-name="Investigation Discovery" group-title="United States" tvg-id="GMDTIME" tvc-guide-stationid="50634",Investigation Discovery
 http://example.local/USA-GMDTIME.ts
 #EXTINF:-1 tvg-chno="167589" tvg-name="Investigation Discovery" tvg-logo="https://zap2it.tmsimg.com/assets/s167589_ll_h9_aa.png" group-title="United States" tvg-id="IDISC" tvc-guide-stationid="167589",Investigation Discovery
@@ -543,10 +541,10 @@ http://example.local/USA-IDPACHD.ts
 http://example.local/USA-INVDIPR.ts
 #EXTINF:-1 tvg-chno="116356" tvg-name="INWILD" group-title="United States" tvg-id="INWILD" tvc-guide-stationid="116356",INWILD
 http://example.local/USA-INWILD.ts
-#EXTINF:-1 tvg-chno="129477" tvg-name="INWONDER" tvg-logo="https://zap2it.tmsimg.com/assets/s129477_ll_h15_aa.png" group-title="United States" tvg-id="INWONUS" tvc-guide-stationid="129477",INWONDER
-http://example.local/USA-INWONUS.ts
 #EXTINF:-1 tvg-chno="112796" tvg-name="INWONDER" tvg-logo="https://zap2it.tmsimg.com/assets/s112796_ll_h15_aa.png" group-title="United States" tvg-id="INSIWON" tvc-guide-stationid="112796",INWONDER
 http://example.local/USA-INSIWON.ts
+#EXTINF:-1 tvg-chno="129477" tvg-name="INWONDER" tvg-logo="https://zap2it.tmsimg.com/assets/s129477_ll_h15_aa.png" group-title="United States" tvg-id="INWONUS" tvc-guide-stationid="129477",INWONDER
+http://example.local/USA-INWONUS.ts
 #EXTINF:-1 tvg-chno="119229" tvg-name="InWonderUS" group-title="United States" tvg-id="VIZIWON" tvc-guide-stationid="119229",InWonderUS
 http://example.local/USA-VIZIWON.ts
 #EXTINF:-1 tvg-chno="122912" tvg-name="ION" tvg-logo="https://zap2it.tmsimg.com/assets/s122912_ll_h15_ab.png" group-title="United States" tvg-id="IONSTR" tvc-guide-stationid="122912",ION
@@ -665,8 +663,6 @@ http://example.local/USA-JAYA.ts
 http://example.local/USA-JBS.ts
 #EXTINF:-1 tvg-chno="80834" tvg-name="JBSHD" tvg-logo="https://zap2it.tmsimg.com/assets/s74978_ll_h9_aa.png" group-title="United States" tvg-id="JBSHD" tvc-guide-stationid="80834",JBSHD
 http://example.local/USA-JBSHD.ts
-#EXTINF:-1 tvg-chno="92199" tvg-name="JCTV" group-title="United States" tvg-id="JCTV" tvc-guide-stationid="92199",JCTV
-http://example.local/USA-JCTV.ts
 #EXTINF:-1 tvg-chno="113681" tvg-name="Jeopardy!" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028H7GQ.png" group-title="United States" tvg-id="PK5" tvc-guide-stationid="113681",Jeopardy!
 http://example.local/USA-PK5.ts
 #EXTINF:-1 tvg-chno="133622" tvg-name="Jeopardy! hosted by Alex Trebek" tvg-logo="https://zap2it.tmsimg.com/assets/s133622_ll_h15_aa.png" group-title="United States" tvg-id="PTVJEOP" tvc-guide-stationid="133622",Jeopardy! hosted by Alex Trebek
@@ -709,7 +705,7 @@ http://example.local/USA-MILNEWS.ts
 http://example.local/USA-JORDANA.ts
 #EXTINF:-1 tvg-chno="155568" tvg-name="JOURNY" tvg-logo="https://zap2it.tmsimg.com/assets/s155568_ll_h15_aa.png" group-title="United States" tvg-id="JRNYUS" tvc-guide-stationid="155568",JOURNY
 http://example.local/USA-JRNYUS.ts
-#EXTINF:-1 tvg-chno="118291" tvg-name="Journy" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002BH19D.png" group-title="United States" tvg-id="JOURNY" tvc-guide-stationid="118291",Journy
+#EXTINF:-1 tvg-chno="118291" tvg-name="Journy" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N208B.png" group-title="United States" tvg-id="JOURNY" tvc-guide-stationid="118291",Journy
 http://example.local/USA-JOURNY.ts
 #EXTINF:-1 tvg-chno="48630" tvg-name="JSTV EPG" group-title="United States" tvg-id="JSTV" tvc-guide-stationid="48630",JSTV EPG
 http://example.local/USA-JSTV.ts
@@ -735,7 +731,7 @@ http://example.local/USA-JUICE.ts
 http://example.local/USA-CJUICYH.ts
 #EXTINF:-1 tvg-chno="97245" tvg-name="Juicy XX.5" tvg-logo="https://zap2it.tmsimg.com/assets/s97245_ll_h15_aa.png" group-title="United States" tvg-id="JUICYC" tvc-guide-stationid="97245",Juicy XX.5
 http://example.local/USA-JUICYC.ts
-#EXTINF:-1 tvg-chno="58684" tvg-name="Juicy-New Frontier" tvg-logo="https://zap2it.tmsimg.com/assets/s58684_h3_ba.png" group-title="United States" tvg-id="JUICY" tvc-guide-stationid="58684",Juicy-New Frontier
+#EXTINF:-1 tvg-chno="58684" tvg-name="Juicy-New Frontier" tvg-logo="https://zap2it.tmsimg.com/assets/s58684_ll_h15_aa.png" group-title="United States" tvg-id="JUICY" tvc-guide-stationid="58684",Juicy-New Frontier
 http://example.local/USA-JUICY.ts
 #EXTINF:-1 tvg-chno="128547" tvg-name="Julia Child" tvg-logo="https://zap2it.tmsimg.com/assets/s128547_ll_h15_aa.png" group-title="United States" tvg-id="JC" tvc-guide-stationid="128547",Julia Child
 http://example.local/USA-JC.ts
@@ -751,12 +747,12 @@ http://example.local/USA-JUSPUNJ.ts
 http://example.local/USA-JUSPUNC.ts
 #EXTINF:-1 tvg-chno="181860" tvg-name="Just for Laughs" group-title="United States" tvg-id="TVPJFLG" tvc-guide-stationid="181860",Just for Laughs
 http://example.local/USA-TVPJFLG.ts
-#EXTINF:-1 tvg-chno="116714" tvg-name="Just For Laughs Gags" group-title="United States" tvg-id="XALJFLG" tvc-guide-stationid="116714",Just For Laughs Gags
-http://example.local/USA-XALJFLG.ts
 #EXTINF:-1 tvg-chno="151995" tvg-name="Just For Laughs Gags" tvg-logo="https://zap2it.tmsimg.com/assets/s151995_ll_h15_aa.png" group-title="United States" tvg-id="XMVJFLG" tvc-guide-stationid="151995",Just For Laughs Gags
 http://example.local/USA-XMVJFLG.ts
 #EXTINF:-1 tvg-chno="119225" tvg-name="Just For Laughs Gags" group-title="United States" tvg-id="VIZJFLG" tvc-guide-stationid="119225",Just For Laughs Gags
 http://example.local/USA-VIZJFLG.ts
+#EXTINF:-1 tvg-chno="116714" tvg-name="Just For Laughs Gags" group-title="United States" tvg-id="XALJFLG" tvc-guide-stationid="116714",Just For Laughs Gags
+http://example.local/USA-XALJFLG.ts
 #EXTINF:-1 tvg-chno="151994" tvg-name="Just for Laughs TV" tvg-logo="https://zap2it.tmsimg.com/assets/s151994_ll_h9_aa.png" group-title="United States" tvg-id="XMVJFLT" tvc-guide-stationid="151994",Just for Laughs TV
 http://example.local/USA-XMVJFLT.ts
 #EXTINF:-1 tvg-chno="96071" tvg-name="Justice Central (Pacific)" tvg-logo="https://logos.jesmann.com/justp.png" group-title="United States" tvg-id="JUSTP" tvc-guide-stationid="96071",Justice Central (Pacific)
@@ -767,8 +763,6 @@ http://example.local/USA-JUST.ts
 http://example.local/USA-JUSTS.ts
 #EXTINF:-1 tvg-chno="79670" tvg-name="Justice Central SD" tvg-logo="https://zap2it.tmsimg.com/assets/s79670_ll_h9_aa.png" group-title="United States" tvg-id="JUSTSD" tvc-guide-stationid="79670",Justice Central SD
 http://example.local/USA-JUSTSD.ts
-#EXTINF:-1 tvg-chno="50577" tvg-name="Justicia TV" tvg-logo="https://zap2it.tmsimg.com/assets/s50577_ll_h15_ab.png" group-title="United States" tvg-id="JUSTV" tvc-guide-stationid="50577",Justicia TV
-http://example.local/USA-JUSTV.ts
 #EXTINF:-1 tvg-chno="192168" tvg-name="K-baseball TV" group-title="United States" tvg-id="KBOLIVE" tvc-guide-stationid="192168",K-baseball TV
 http://example.local/USA-KBOLIVE.ts
 #EXTINF:-1 tvg-chno="43217" tvg-name="K-TV" group-title="United States" tvg-id="KTV1" tvc-guide-stationid="43217",K-TV
@@ -781,7 +775,7 @@ http://example.local/USA-K02JOD.ts
 http://example.local/USA-K02JOD2.ts
 #EXTINF:-1 tvg-chno="106594" tvg-name="K02JO-D3 (IMYS)" tvg-logo="https://zap2it.tmsimg.com/assets/s89923_ll_h15_ad.png" group-title="United States" tvg-id="K02JOD3" tvc-guide-stationid="106594",K02JO-D3 (IMYS)
 http://example.local/USA-K02JOD3.ts
-#EXTINF:-1 tvg-chno="70067" tvg-name="K02KN-D (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s28711_ll_h15_ab.png" group-title="United States" tvg-id="K02KND" tvc-guide-stationid="70067",K02KN-D (CBS)
+#EXTINF:-1 tvg-chno="70067" tvg-name="K02KN-D (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s28711_h3_aa.png" group-title="United States" tvg-id="K02KND" tvc-guide-stationid="70067",K02KN-D (CBS)
 http://example.local/USA-K02KND.ts
 #EXTINF:-1 tvg-chno="70069" tvg-name="K02KN-D2 (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" group-title="United States" tvg-id="K02KND2" tvc-guide-stationid="70069",K02KN-D2 (MNT)
 http://example.local/USA-K02KND2.ts
@@ -791,7 +785,7 @@ http://example.local/USA-K02NUD.ts
 http://example.local/USA-K02RJD.ts
 #EXTINF:-1 tvg-chno="110692" tvg-name="K02RJ-D2 (CRIME)" tvg-logo="https://zap2it.tmsimg.com/assets/s91496_ll_h15_ab.png" group-title="United States" tvg-id="K02RJD2" tvc-guide-stationid="110692",K02RJ-D2 (CRIME)
 http://example.local/USA-K02RJD2.ts
-#EXTINF:-1 tvg-chno="110693" tvg-name="K02RJ-D3 (GRIT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FEPV8.png" group-title="United States" tvg-id="K02RJD3" tvc-guide-stationid="110693",K02RJ-D3 (GRIT)
+#EXTINF:-1 tvg-chno="110693" tvg-name="K02RJ-D3 (GRIT)" tvg-logo="https://zap2it.tmsimg.com/assets/s89922_h3_aa.png" group-title="United States" tvg-id="K02RJD3" tvc-guide-stationid="110693",K02RJ-D3 (GRIT)
 http://example.local/USA-K02RJD3.ts
 #EXTINF:-1 tvg-chno="88926" tvg-name="K03DJ-D (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="United States" tvg-id="K03DJD" tvc-guide-stationid="88926",K03DJ-D (ABC)
 http://example.local/USA-K03DJD.ts
@@ -809,7 +803,7 @@ http://example.local/USA-K03FBD5.ts
 http://example.local/USA-K03FWD.ts
 #EXTINF:-1 tvg-chno="95758" tvg-name="K03FW-D2 (CWPLUS)" tvg-logo="https://zap2it.tmsimg.com/assets/s18749_ll_h15_ad.png" group-title="United States" tvg-id="K03FWD2" tvc-guide-stationid="95758",K03FW-D2 (CWPLUS)
 http://example.local/USA-K03FWD2.ts
-#EXTINF:-1 tvg-chno="87605" tvg-name="K04BJ-D (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s28711_h3_aa.png" group-title="United States" tvg-id="K04BJD" tvc-guide-stationid="87605",K04BJ-D (CBS)
+#EXTINF:-1 tvg-chno="87605" tvg-name="K04BJ-D (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s28711_ll_h15_ab.png" group-title="United States" tvg-id="K04BJD" tvc-guide-stationid="87605",K04BJ-D (CBS)
 http://example.local/USA-K04BJD.ts
 #EXTINF:-1 tvg-chno="97939" tvg-name="K04DH-D (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="United States" tvg-id="K04DHD" tvc-guide-stationid="97939",K04DH-D (CBS)
 http://example.local/USA-K04DHD.ts
@@ -819,11 +813,11 @@ http://example.local/USA-K04DHD2.ts
 http://example.local/USA-K04DHD3.ts
 #EXTINF:-1 tvg-chno="111699" tvg-name="K04GT-D4 (IMYS)" tvg-logo="https://zap2it.tmsimg.com/assets/s89923_ll_h15_ad.png" group-title="United States" tvg-id="K04GTD4" tvc-guide-stationid="111699",K04GT-D4 (IMYS)
 http://example.local/USA-K04GTD4.ts
-#EXTINF:-1 tvg-chno="106864" tvg-name="K04HF-D (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28708_h3_aa.png" group-title="United States" tvg-id="K04HFD" tvc-guide-stationid="106864",K04HF-D (ABC)
+#EXTINF:-1 tvg-chno="106864" tvg-name="K04HF-D (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28708_ll_h15_ac.png" group-title="United States" tvg-id="K04HFD" tvc-guide-stationid="106864",K04HF-D (ABC)
 http://example.local/USA-K04HFD.ts
-#EXTINF:-1 tvg-chno="106865" tvg-name="K04HF-D2 (LAFF)" tvg-logo="https://zap2it.tmsimg.com/assets/s92091_ll_h15_aa.png" group-title="United States" tvg-id="K04HFD2" tvc-guide-stationid="106865",K04HF-D2 (LAFF)
+#EXTINF:-1 tvg-chno="106865" tvg-name="K04HF-D2 (LAFF)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NRDSC.png" group-title="United States" tvg-id="K04HFD2" tvc-guide-stationid="106865",K04HF-D2 (LAFF)
 http://example.local/USA-K04HFD2.ts
-#EXTINF:-1 tvg-chno="106866" tvg-name="K04HF-D3 (GRIT)" tvg-logo="https://zap2it.tmsimg.com/assets/s89922_h3_ba.png" group-title="United States" tvg-id="K04HFD3" tvc-guide-stationid="106866",K04HF-D3 (GRIT)
+#EXTINF:-1 tvg-chno="106866" tvg-name="K04HF-D3 (GRIT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FEPV8.png" group-title="United States" tvg-id="K04HFD3" tvc-guide-stationid="106866",K04HF-D3 (GRIT)
 http://example.local/USA-K04HFD3.ts
 #EXTINF:-1 tvg-chno="65913" tvg-name="K04QP-D (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28717_h3_aa.png" group-title="United States" tvg-id="K04QPD" tvc-guide-stationid="65913",K04QP-D (NBC)
 http://example.local/USA-K04QPD.ts
@@ -863,7 +857,7 @@ http://example.local/USA-K06HND.ts
 http://example.local/USA-K06HND2.ts
 #EXTINF:-1 tvg-chno="97763" tvg-name="K06HN-D3 (CREATE)" tvg-logo="https://zap2it.tmsimg.com/assets/s48990_ll_h15_aa.png" group-title="United States" tvg-id="K06HND3" tvc-guide-stationid="97763",K06HN-D3 (CREATE)
 http://example.local/USA-K06HND3.ts
-#EXTINF:-1 tvg-chno="97764" tvg-name="K06HN-D5 (LAFF)" tvg-logo="https://zap2it.tmsimg.com/assets/s92091_ll_h15_aa.png" group-title="United States" tvg-id="K06HND5" tvc-guide-stationid="97764",K06HN-D5 (LAFF)
+#EXTINF:-1 tvg-chno="97764" tvg-name="K06HN-D5 (LAFF)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NRDSC.png" group-title="United States" tvg-id="K06HND5" tvc-guide-stationid="97764",K06HN-D5 (LAFF)
 http://example.local/USA-K06HND5.ts
 #EXTINF:-1 tvg-chno="87999" tvg-name="K06NY-D (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s28711_h3_aa.png" group-title="United States" tvg-id="K06NYD" tvc-guide-stationid="87999",K06NY-D (CBS)
 http://example.local/USA-K06NYD.ts
@@ -883,7 +877,7 @@ http://example.local/USA-K07AADD.ts
 http://example.local/USA-K07AAD2.ts
 #EXTINF:-1 tvg-chno="67530" tvg-name="K07AAD-D3 (365BLK)" tvg-logo="https://zap2it.tmsimg.com/assets/s150571_ll_h15_ab.png" group-title="United States" tvg-id="K07AAD3" tvc-guide-stationid="67530",K07AAD-D3 (365BLK)
 http://example.local/USA-K07AAD3.ts
-#EXTINF:-1 tvg-chno="67531" tvg-name="K07AAD-D4 (FUBOOTA)" tvg-logo="https://zap2it.tmsimg.com/assets/s166532_ll_h9_aa.png" group-title="United States" tvg-id="K07AAD4" tvc-guide-stationid="67531",K07AAD-D4 (FUBOOTA)
+#EXTINF:-1 tvg-chno="67531" tvg-name="K07AAD-D4 (FUBOOTA)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FER8B.png" group-title="United States" tvg-id="K07AAD4" tvc-guide-stationid="67531",K07AAD-D4 (FUBOOTA)
 http://example.local/USA-K07AAD4.ts
 #EXTINF:-1 tvg-chno="75368" tvg-name="K07AAD-D5 (OUTLAW)" tvg-logo="https://zap2it.tmsimg.com/assets/s150537_ll_h15_aa.png" group-title="United States" tvg-id="K07AAD5" tvc-guide-stationid="75368",K07AAD-D5 (OUTLAW)
 http://example.local/USA-K07AAD5.ts
@@ -941,7 +935,7 @@ http://example.local/USA-K07PFD.ts
 http://example.local/USA-K07PFD2.ts
 #EXTINF:-1 tvg-chno="77387" tvg-name="K07PF-D3" group-title="United States" tvg-id="K07PFD3" tvc-guide-stationid="77387",K07PF-D3
 http://example.local/USA-K07PFD3.ts
-#EXTINF:-1 tvg-chno="77618" tvg-name="K07QC-D (DABL)" tvg-logo="https://zap2it.tmsimg.com/assets/s112157_ll_h15_ab.png" group-title="United States" tvg-id="K07QCD" tvc-guide-stationid="77618",K07QC-D (DABL)
+#EXTINF:-1 tvg-chno="77618" tvg-name="K07QC-D (METVPLS)" tvg-logo="https://zap2it.tmsimg.com/assets/s119266_ll_h15_aa.png" group-title="United States" tvg-id="K07QCD" tvc-guide-stationid="77618",K07QC-D (METVPLS)
 http://example.local/USA-K07QCD.ts
 #EXTINF:-1 tvg-chno="77622" tvg-name="K07QC-D2 (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s28719_ll_h15_ac.png" group-title="United States" tvg-id="K07QCD2" tvc-guide-stationid="77622",K07QC-D2 (FOX)
 http://example.local/USA-K07QCD2.ts
@@ -1019,3 +1013,9 @@ http://example.local/USA-K08IOD.ts
 http://example.local/USA-K08IOD2.ts
 #EXTINF:-1 tvg-chno="83006" tvg-name="K08JP-D (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s28711_h3_aa.png" group-title="United States" tvg-id="K08JPD" tvc-guide-stationid="83006",K08JP-D (CBS)
 http://example.local/USA-K08JPD.ts
+#EXTINF:-1 tvg-chno="83007" tvg-name="K08JP-D2" group-title="United States" tvg-id="K08JPD2" tvc-guide-stationid="83007",K08JP-D2
+http://example.local/USA-K08JPD2.ts
+#EXTINF:-1 tvg-chno="98621" tvg-name="K08KT-D (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="United States" tvg-id="K08KTD" tvc-guide-stationid="98621",K08KT-D (CBS)
+http://example.local/USA-K08KTD.ts
+#EXTINF:-1 tvg-chno="98622" tvg-name="K08KT-D2" group-title="United States" tvg-id="K08KTD2" tvc-guide-stationid="98622",K08KT-D2
+http://example.local/USA-K08KTD2.ts
