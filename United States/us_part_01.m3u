@@ -875,6 +875,8 @@ http://example.local/CTN.ts
 http://example.local/CTND.ts
 #EXTINF:-1 tvg-id="CTNXX5H" tvg-name="Ten XX.5 HD (Comcast)" tvg-logo="https://zap2it.tmsimg.com/assets/s105289_ll_h15_aa.png" tvg-chno="105289" tvc-guide-stationid="105289" group-title="",Ten XX.5 HD (Comcast)
 http://example.local/CTNXX5H.ts
+#EXTINF:-1 tvg-id="CTRICH" tvg-name="City of Richland" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="114011" tvc-guide-stationid="114011" group-title="",City of Richland
+http://example.local/CTRICH.ts
 #EXTINF:-1 tvg-id="CTYSV" tvg-name="City Info and Services" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="94158" tvc-guide-stationid="94158" group-title="",City Info and Services
 http://example.local/CTYSV.ts
 #EXTINF:-1 tvg-id="CUBAPLY" tvg-name="Cuba Play" tvg-logo="https://zap2it.tmsimg.com/assets/s73318_ll_h15_aa.png" tvg-chno="73318" tvc-guide-stationid="73318" group-title="",Cuba Play
@@ -1017,5 +1019,3 @@ http://example.local/DSCHD.ts
 http://example.local/DSCHDP.ts
 #EXTINF:-1 tvg-id="DSCP" tvg-name="Discovery Channel (Pacific)" tvg-logo="https://logos.jesmann.com/dscp.png" tvg-chno="12500" tvc-guide-stationid="12500" group-title="",Discovery Channel (Pacific)
 http://example.local/DSCP.ts
-#EXTINF:-1 tvg-id="DSTRESP" tvg-name="Daystar Español" tvg-logo="https://zap2it.tmsimg.com/assets/s132423_h3_aa.png" tvg-chno="132423" tvc-guide-stationid="132423" group-title="",Daystar Español
-http://example.local/DSTRESP.ts

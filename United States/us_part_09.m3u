@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SHOPLC" tvg-name="Shop LC" tvg-logo="https://zap2it.tmsimg.com/assets/s56032_ll_h15_ac.png" tvg-chno="56032" tvc-guide-stationid="56032" group-title="",Shop LC
+http://example.local/SHOPLC.ts
+#EXTINF:-1 tvg-id="SHOPLCH" tvg-name="Shop LC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s93564_ll_h15_ac.png" tvg-chno="93564" tvc-guide-stationid="93564" group-title="",Shop LC HD
+http://example.local/SHOPLCH.ts
+#EXTINF:-1 tvg-id="SHOPN" tvg-name="Shop Now TV" tvg-logo="https://zap2it.tmsimg.com/assets/s95377_ll_h15_aa.png" tvg-chno="95377" tvc-guide-stationid="95377" group-title="",Shop Now TV
+http://example.local/SHOPN.ts
+#EXTINF:-1 tvg-id="SHOPNW" tvg-name="Shop Now TV" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="100816" tvc-guide-stationid="100816" group-title="",Shop Now TV
+http://example.local/SHOPNW.ts
+#EXTINF:-1 tvg-id="SHOPSD" tvg-name="Shop LC SD [Comcast]" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="110969" tvc-guide-stationid="110969" group-title="",Shop LC SD [Comcast]
+http://example.local/SHOPSD.ts
+#EXTINF:-1 tvg-id="SHOPTV1" tvg-name="ShopTV (Cannella)" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="99312" tvc-guide-stationid="99312" group-title="",ShopTV (Cannella)
+http://example.local/SHOPTV1.ts
+#EXTINF:-1 tvg-id="SHOPZ1" tvg-name="Shop Zeal 1" tvg-logo="https://zap2it.tmsimg.com/assets/s68756_ll_h9_aa.png" tvg-chno="68756" tvc-guide-stationid="68756" group-title="",Shop Zeal 1
+http://example.local/SHOPZ1.ts
+#EXTINF:-1 tvg-id="SHOPZ3" tvg-name="Shop Zeal 3 (TCTHD)" tvg-logo="https://zap2it.tmsimg.com/assets/s71524_ll_h9_aa.png" tvg-chno="71524" tvc-guide-stationid="71524" group-title="",Shop Zeal 3 (TCTHD)
+http://example.local/SHOPZ3.ts
+#EXTINF:-1 tvg-id="SHOPZ4" tvg-name="Shop Zeal 4" tvg-logo="https://zap2it.tmsimg.com/assets/s71511_ll_h9_aa.png" tvg-chno="71511" tvc-guide-stationid="71511" group-title="",Shop Zeal 4
+http://example.local/SHOPZ4.ts
+#EXTINF:-1 tvg-id="SHOPZ5" tvg-name="Shop Zeal 5" tvg-logo="https://zap2it.tmsimg.com/assets/s71503_ll_h9_aa.png" tvg-chno="71503" tvc-guide-stationid="71503" group-title="",Shop Zeal 5
+http://example.local/SHOPZ5.ts
+#EXTINF:-1 tvg-id="SHOPZ6" tvg-name="ShopZeal 6" tvg-logo="https://zap2it.tmsimg.com/assets/s82423_ll_h9_aa.png" tvg-chno="82423" tvc-guide-stationid="82423" group-title="",ShopZeal 6
+http://example.local/SHOPZ6.ts
+#EXTINF:-1 tvg-id="SHOPZ8" tvg-name="Local Access- Shop Zeal 8" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="91086" tvc-guide-stationid="91086" group-title="",Local Access- Shop Zeal 8
+http://example.local/SHOPZ8.ts
+#EXTINF:-1 tvg-id="SHORTS" tvg-name="Shorts TV" tvg-logo="https://zap2it.tmsimg.com/assets/s67454_ll_h15_aa.png" tvg-chno="67454" tvc-guide-stationid="67454" group-title="",Shorts TV
+http://example.local/SHORTS.ts
+#EXTINF:-1 tvg-id="SHOWDM" tvg-name="Paramount+ with Showtime On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s11115_ll_h15_ad.png" tvg-chno="32026" tvc-guide-stationid="32026" group-title="",Paramount+ with Showtime On Demand
+http://example.local/SHOWDM.ts
 #EXTINF:-1 tvg-id="SHOWX" tvg-name="Showtime Extreme" tvg-logo="https://zap2it.tmsimg.com/assets/s18086_ll_h15_ac.png" tvg-chno="18086" tvc-guide-stationid="18086" group-title="",Showtime Extreme
 http://example.local/SHOWX.ts
 #EXTINF:-1 tvg-id="SHOWXHD" tvg-name="Showtime Extreme HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60947_ll_h15_aa.png" tvg-chno="60947" tvc-guide-stationid="60947" group-title="",Showtime Extreme HD
@@ -991,31 +1019,3 @@ http://example.local/WAPASD.ts
 http://example.local/WAPAUS.ts
 #EXTINF:-1 tvg-id="WAPKCA" tvg-name="WAPK-CA (METVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" tvg-chno="11281" tvc-guide-stationid="11281" group-title="",WAPK-CA (METVN)
 http://example.local/WAPKCA.ts
-#EXTINF:-1 tvg-id="WAPKCD" tvg-name="WAPK-CD (METVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" tvg-chno="90552" tvc-guide-stationid="90552" group-title="",WAPK-CD (METVN)
-http://example.local/WAPKCD.ts
-#EXTINF:-1 tvg-id="WAPT" tvg-name="WAPT (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" tvg-chno="11282" tvc-guide-stationid="11282" group-title="",WAPT (ABC)
-http://example.local/WAPT.ts
-#EXTINF:-1 tvg-id="WAPTDT" tvg-name="WAPT-DT (ABC)" tvg-logo="https://logos.jesmann.com/waptdt.png" tvg-chno="32339" tvc-guide-stationid="32339" group-title="",WAPT-DT (ABC)
-http://example.local/WAPTDT.ts
-#EXTINF:-1 tvg-id="WAQP" tvg-name="WAQP (TCTWLD)" tvg-logo="https://zap2it.tmsimg.com/assets/s49486_ll_h15_aa.png" tvg-chno="11284" tvc-guide-stationid="11284" group-title="",WAQP (TCTWLD)
-http://example.local/WAQP.ts
-#EXTINF:-1 tvg-id="WAQPDT" tvg-name="WAQP-DT (TCTWLD)" tvg-logo="https://zap2it.tmsimg.com/assets/s49486_ll_h15_aa.png" tvg-chno="54404" tvc-guide-stationid="54404" group-title="",WAQP-DT (TCTWLD)
-http://example.local/WAQPDT.ts
-#EXTINF:-1 tvg-id="WASALD" tvg-name="WASA-LD (ESTRLLA)" tvg-logo="https://zap2it.tmsimg.com/assets/s65064_h3_ba.png" tvg-chno="75011" tvc-guide-stationid="75011" group-title="",WASA-LD (ESTRLLA)
-http://example.local/WASALD.ts
-#EXTINF:-1 tvg-id="WASASD" tvg-name="WASA-LD (SD FEED) (ESTRLLA)" tvg-logo="https://zap2it.tmsimg.com/assets/s65064_ll_h15_af.png" tvg-chno="102721" tvc-guide-stationid="102721" group-title="",WASA-LD (SD FEED) (ESTRLLA)
-http://example.local/WASASD.ts
-#EXTINF:-1 tvg-id="WATC" tvg-name="WATC" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="17063" tvc-guide-stationid="17063" group-title="",WATC
-http://example.local/WATC.ts
-#EXTINF:-1 tvg-id="WATCDT" tvg-name="WATC-DT" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="54426" tvc-guide-stationid="54426" group-title="",WATC-DT
-http://example.local/WATCDT.ts
-#EXTINF:-1 tvg-id="WATE" tvg-name="WATE (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" tvg-chno="11286" tvc-guide-stationid="11286" group-title="",WATE (ABC)
-http://example.local/WATE.ts
-#EXTINF:-1 tvg-id="WATEDT" tvg-name="WATE-DT (ABC)" tvg-logo="https://logos.jesmann.com/watedt.png" tvg-chno="31356" tvc-guide-stationid="31356" group-title="",WATE-DT (ABC)
-http://example.local/WATEDT.ts
-#EXTINF:-1 tvg-id="WATL" tvg-name="WATL (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" tvg-chno="11287" tvc-guide-stationid="11287" group-title="",WATL (MNT)
-http://example.local/WATL.ts
-#EXTINF:-1 tvg-id="WATLDT" tvg-name="WATL-DT (MNT)" tvg-logo="https://logos.jesmann.com/watldt.png" tvg-chno="31621" tvc-guide-stationid="31621" group-title="",WATL-DT (MNT)
-http://example.local/WATLDT.ts
-#EXTINF:-1 tvg-id="WATLDT2" tvg-name="WATL-DT2 (NOSEYTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s157427_ll_h15_aa.png" tvg-chno="70568" tvc-guide-stationid="70568" group-title="",WATL-DT2 (NOSEYTV)
-http://example.local/WATLDT2.ts

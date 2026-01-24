@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DSTRESP" tvg-name="Daystar Español" tvg-logo="https://zap2it.tmsimg.com/assets/s132423_h3_aa.png" tvg-chno="132423" tvc-guide-stationid="132423" group-title="",Daystar Español
+http://example.local/DSTRESP.ts
 #EXTINF:-1 tvg-id="DSTRESPH" tvg-name="Daystar Español (HD Feed)" tvg-logo="https://zap2it.tmsimg.com/assets/s132423_h3_aa.png" tvg-chno="154611" tvc-guide-stationid="154611" group-title="",Daystar Español (HD Feed)
 http://example.local/DSTRESPH.ts
 #EXTINF:-1 tvg-id="DT87" tvg-name="DirecTV DT87" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="62894" tvc-guide-stationid="62894" group-title="",DirecTV DT87
@@ -1017,5 +1019,3 @@ http://example.local/GMHD3.ts
 http://example.local/GMHD4.ts
 #EXTINF:-1 tvg-id="GMHD5" tvg-name="GAME HD 5" tvg-logo="https://zap2it.tmsimg.com/assets/s72825_ll_h15_ad.png" tvg-chno="72825" tvc-guide-stationid="72825" group-title="",GAME HD 5
 http://example.local/GMHD5.ts
-#EXTINF:-1 tvg-id="GMHD6" tvg-name="GAME HD 6" tvg-logo="https://zap2it.tmsimg.com/assets/s72826_ll_h15_ad.png" tvg-chno="72826" tvc-guide-stationid="72826" group-title="",GAME HD 6
-http://example.local/GMHD6.ts

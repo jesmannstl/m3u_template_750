@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MTPHD" tvg-name="Discovery Turbo (West Coast Feed)" tvg-logo="https://logos.jesmann.com/mtphd.png" tvg-chno="117331" tvc-guide-stationid="117331" group-title="",Discovery Turbo (West Coast Feed)
+http://example.local/MTPHD.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV - Music Television" tvg-logo="https://zap2it.tmsimg.com/assets/s10986_ll_h15_aa.png" tvg-chno="10986" tvc-guide-stationid="10986" group-title="",MTV - Music Television
+http://example.local/MTV.ts
+#EXTINF:-1 tvg-id="MTV2" tvg-name="MTV2: Music Television" tvg-logo="https://zap2it.tmsimg.com/assets/s16361_ll_h15_aa.png" tvg-chno="16361" tvc-guide-stationid="16361" group-title="",MTV2: Music Television
+http://example.local/MTV2.ts
+#EXTINF:-1 tvg-id="MTV2HD" tvg-name="MTV2: Music Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75077_ll_h15_ab.png" tvg-chno="75077" tvc-guide-stationid="75077" group-title="",MTV2: Music Television HD
+http://example.local/MTV2HD.ts
+#EXTINF:-1 tvg-id="MTV2P" tvg-name="MTV2 West" tvg-logo="https://logos.jesmann.com/mtv2p.png" tvg-chno="48129" tvc-guide-stationid="48129" group-title="",MTV2 West
+http://example.local/MTV2P.ts
+#EXTINF:-1 tvg-id="MTV2PHD" tvg-name="MTV2 West HD" tvg-logo="https://logos.jesmann.com/mtv2phd.png" tvg-chno="75506" tvc-guide-stationid="75506" group-title="",MTV2 West HD
+http://example.local/MTV2PHD.ts
+#EXTINF:-1 tvg-id="MTVCLAP" tvg-name="MTV Classic (Pacific)" tvg-logo="https://logos.jesmann.com/mtvclap.png" tvg-chno="59054" tvc-guide-stationid="59054" group-title="",MTV Classic (Pacific)
+http://example.local/MTVCLAP.ts
+#EXTINF:-1 tvg-id="MTVCLAS" tvg-name="MTV Classic" tvg-logo="https://zap2it.tmsimg.com/assets/s22561_ll_h15_ad.png" tvg-chno="22561" tvc-guide-stationid="22561" group-title="",MTV Classic
+http://example.local/MTVCLAS.ts
+#EXTINF:-1 tvg-id="MTVHD" tvg-name="MTV - Music Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60964_ll_h15_aa.png" tvg-chno="60964" tvc-guide-stationid="60964" group-title="",MTV - Music Television HD
+http://example.local/MTVHD.ts
+#EXTINF:-1 tvg-id="MTVIND" tvg-name="MTV India" tvg-logo="https://zap2it.tmsimg.com/assets/s10986_ll_h15_aa.png" tvg-chno="58329" tvc-guide-stationid="58329" group-title="",MTV India
+http://example.local/MTVIND.ts
+#EXTINF:-1 tvg-id="MTVLIVE" tvg-name="MTVLIVE" tvg-logo="https://zap2it.tmsimg.com/assets/s49141_ll_h15_ab.png" tvg-chno="49141" tvc-guide-stationid="49141" group-title="",MTVLIVE
+http://example.local/MTVLIVE.ts
+#EXTINF:-1 tvg-id="MTVLVHD" tvg-name="MTV Live" tvg-logo="https://zap2it.tmsimg.com/assets/s66419_ll_h15_aa.png" tvg-chno="66419" tvc-guide-stationid="66419" group-title="",MTV Live
+http://example.local/MTVLVHD.ts
+#EXTINF:-1 tvg-id="MTVP" tvg-name="MTV - Music Television (Pacific)" tvg-logo="https://logos.jesmann.com/mtvp.png" tvg-chno="10987" tvc-guide-stationid="10987" group-title="",MTV - Music Television (Pacific)
+http://example.local/MTVP.ts
 #EXTINF:-1 tvg-id="MTVPHD" tvg-name="MTV - Music Television HD (Pacific)" tvg-logo="https://logos.jesmann.com/mtvphd.png" tvg-chno="64630" tvc-guide-stationid="64630" group-title="",MTV - Music Television HD (Pacific)
 http://example.local/MTVPHD.ts
 #EXTINF:-1 tvg-id="MTVU" tvg-name="mtv-U" tvg-logo="https://zap2it.tmsimg.com/assets/s44228_h3_aa.png" tvg-chno="44228" tvc-guide-stationid="44228" group-title="",mtv-U
@@ -719,6 +745,8 @@ http://example.local/PRIMOHD.ts
 http://example.local/PRMMDM.ts
 #EXTINF:-1 tvg-id="PROTVI" tvg-name="ProTV International" tvg-logo="https://zap2it.tmsimg.com/assets/s73664_ll_h9_aa.png" tvg-chno="73664" tvc-guide-stationid="73664" group-title="",ProTV International
 http://example.local/PROTVI.ts
+#EXTINF:-1 tvg-id="PSCTV" tvg-name="Pasco City Television" tvg-logo="https://zap2it.tmsimg.com/assets/s113782_ll_h15_aa.png" tvg-chno="113782" tvc-guide-stationid="113782" group-title="",Pasco City Television
+http://example.local/PSCTV.ts
 #EXTINF:-1 tvg-id="PTC" tvg-name="PTC Punjabi TV" tvg-logo="https://zap2it.tmsimg.com/assets/s64721_ll_h9_aa.png" tvg-chno="64721" tvc-guide-stationid="64721" group-title="",PTC Punjabi TV
 http://example.local/PTC.ts
 #EXTINF:-1 tvg-id="PTCCD" tvg-name="PTC Chak De" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="92062" tvc-guide-stationid="92062" group-title="",PTC Chak De
@@ -991,31 +1019,3 @@ http://example.local/SHOCSHD.ts
 http://example.local/SHOPHD.ts
 #EXTINF:-1 tvg-id="SHOPHQRF" tvg-name="Revenue Frontier (SHOPHQ)" tvg-logo="https://zap2it.tmsimg.com/assets/s14948_ll_h15_ae.png" tvg-chno="96883" tvc-guide-stationid="96883" group-title="",Revenue Frontier (SHOPHQ)
 http://example.local/SHOPHQRF.ts
-#EXTINF:-1 tvg-id="SHOPLC" tvg-name="Shop LC" tvg-logo="https://zap2it.tmsimg.com/assets/s56032_ll_h15_ac.png" tvg-chno="56032" tvc-guide-stationid="56032" group-title="",Shop LC
-http://example.local/SHOPLC.ts
-#EXTINF:-1 tvg-id="SHOPLCH" tvg-name="Shop LC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s93564_ll_h15_ac.png" tvg-chno="93564" tvc-guide-stationid="93564" group-title="",Shop LC HD
-http://example.local/SHOPLCH.ts
-#EXTINF:-1 tvg-id="SHOPN" tvg-name="Shop Now TV" tvg-logo="https://zap2it.tmsimg.com/assets/s95377_ll_h15_aa.png" tvg-chno="95377" tvc-guide-stationid="95377" group-title="",Shop Now TV
-http://example.local/SHOPN.ts
-#EXTINF:-1 tvg-id="SHOPNW" tvg-name="Shop Now TV" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="100816" tvc-guide-stationid="100816" group-title="",Shop Now TV
-http://example.local/SHOPNW.ts
-#EXTINF:-1 tvg-id="SHOPSD" tvg-name="Shop LC SD [Comcast]" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="110969" tvc-guide-stationid="110969" group-title="",Shop LC SD [Comcast]
-http://example.local/SHOPSD.ts
-#EXTINF:-1 tvg-id="SHOPTV1" tvg-name="ShopTV (Cannella)" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="99312" tvc-guide-stationid="99312" group-title="",ShopTV (Cannella)
-http://example.local/SHOPTV1.ts
-#EXTINF:-1 tvg-id="SHOPZ1" tvg-name="Shop Zeal 1" tvg-logo="https://zap2it.tmsimg.com/assets/s68756_ll_h9_aa.png" tvg-chno="68756" tvc-guide-stationid="68756" group-title="",Shop Zeal 1
-http://example.local/SHOPZ1.ts
-#EXTINF:-1 tvg-id="SHOPZ3" tvg-name="Shop Zeal 3 (TCTHD)" tvg-logo="https://zap2it.tmsimg.com/assets/s71524_ll_h9_aa.png" tvg-chno="71524" tvc-guide-stationid="71524" group-title="",Shop Zeal 3 (TCTHD)
-http://example.local/SHOPZ3.ts
-#EXTINF:-1 tvg-id="SHOPZ4" tvg-name="Shop Zeal 4" tvg-logo="https://zap2it.tmsimg.com/assets/s71511_ll_h9_aa.png" tvg-chno="71511" tvc-guide-stationid="71511" group-title="",Shop Zeal 4
-http://example.local/SHOPZ4.ts
-#EXTINF:-1 tvg-id="SHOPZ5" tvg-name="Shop Zeal 5" tvg-logo="https://zap2it.tmsimg.com/assets/s71503_ll_h9_aa.png" tvg-chno="71503" tvc-guide-stationid="71503" group-title="",Shop Zeal 5
-http://example.local/SHOPZ5.ts
-#EXTINF:-1 tvg-id="SHOPZ6" tvg-name="ShopZeal 6" tvg-logo="https://zap2it.tmsimg.com/assets/s82423_ll_h9_aa.png" tvg-chno="82423" tvc-guide-stationid="82423" group-title="",ShopZeal 6
-http://example.local/SHOPZ6.ts
-#EXTINF:-1 tvg-id="SHOPZ8" tvg-name="Local Access- Shop Zeal 8" tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="91086" tvc-guide-stationid="91086" group-title="",Local Access- Shop Zeal 8
-http://example.local/SHOPZ8.ts
-#EXTINF:-1 tvg-id="SHORTS" tvg-name="Shorts TV" tvg-logo="https://zap2it.tmsimg.com/assets/s67454_ll_h15_aa.png" tvg-chno="67454" tvc-guide-stationid="67454" group-title="",Shorts TV
-http://example.local/SHORTS.ts
-#EXTINF:-1 tvg-id="SHOWDM" tvg-name="Paramount+ with Showtime On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s11115_ll_h15_ad.png" tvg-chno="32026" tvc-guide-stationid="32026" group-title="",Paramount+ with Showtime On Demand
-http://example.local/SHOWDM.ts
