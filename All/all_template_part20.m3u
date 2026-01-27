@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="91920" tvg-name="CTV Sudbury HD (CTV)" tvg-logo="https://logos.jesmann.com/cicihd.png" group-title="Canada" tvg-id="CICIHD" tvc-guide-stationid="91920",CTV Sudbury HD (CTV)
-http://example.local/CAN-CICIHD.ts
-#EXTINF:-1 tvg-chno="105441" tvg-name="CTV Sydney HD (CTV)" tvg-logo="https://logos.jesmann.com/cjcbhd.png" group-title="Canada" tvg-id="CJCBHD" tvc-guide-stationid="105441",CTV Sydney HD (CTV)
-http://example.local/CAN-CJCBHD.ts
-#EXTINF:-1 tvg-chno="10108" tvg-name="CTV Toronto (CTV)" tvg-logo="https://logos.jesmann.com/cfto.png" group-title="Canada" tvg-id="CFTO" tvc-guide-stationid="10108",CTV Toronto (CTV)
-http://example.local/CAN-CFTO.ts
-#EXTINF:-1 tvg-chno="10108" tvg-name="CTV Toronto (CTV)" tvg-logo="https://logos.jesmann.com/cfto.png" group-title="United States" tvg-id="CFTO" tvc-guide-stationid="10108",CTV Toronto (CTV)
-http://example.local/USA-CFTO.ts
-#EXTINF:-1 tvg-chno="10108" tvg-name="CTV Toronto (CTV)" tvg-logo="https://logos.jesmann.com/cfto.png" group-title="Bermuda" tvg-id="CFTO" tvc-guide-stationid="10108",CTV Toronto (CTV)
-http://example.local/BMU-CFTO.ts
-#EXTINF:-1 tvg-chno="10108" tvg-name="CTV Toronto (CTV)" tvg-logo="https://logos.jesmann.com/cfto.png" group-title="Jamaica" tvg-id="CFTO" tvc-guide-stationid="10108",CTV Toronto (CTV)
-http://example.local/JAM-CFTO.ts
-#EXTINF:-1 tvg-chno="10108" tvg-name="CTV Toronto (CTV)" tvg-logo="https://logos.jesmann.com/cfto.png" group-title="Bahamas" tvg-id="CFTO" tvc-guide-stationid="10108",CTV Toronto (CTV)
-http://example.local/BHS-CFTO.ts
-#EXTINF:-1 tvg-chno="44784" tvg-name="CTV Toronto HD (CTV)" tvg-logo="https://logos.jesmann.com/cftodt.png" group-title="Canada" tvg-id="CFTODT" tvc-guide-stationid="44784",CTV Toronto HD (CTV)
-http://example.local/CAN-CFTODT.ts
-#EXTINF:-1 tvg-chno="44784" tvg-name="CTV Toronto HD (CTV)" tvg-logo="https://logos.jesmann.com/cftodt.png" group-title="United States" tvg-id="CFTODT" tvc-guide-stationid="44784",CTV Toronto HD (CTV)
-http://example.local/USA-CFTODT.ts
-#EXTINF:-1 tvg-chno="12892" tvg-name="CTV Two - Atlantic (CTV2)" tvg-logo="https://logos.jesmann.com/asn.png" group-title="Canada" tvg-id="ASN" tvc-guide-stationid="12892",CTV Two - Atlantic (CTV2)
-http://example.local/CAN-ASN.ts
-#EXTINF:-1 tvg-chno="89746" tvg-name="CTV Two - Atlantic HD (CTV2)" tvg-logo="https://logos.jesmann.com/asnhd.png" group-title="Canada" tvg-id="ASNHD" tvc-guide-stationid="89746",CTV Two - Atlantic HD (CTV2)
-http://example.local/CAN-ASNHD.ts
-#EXTINF:-1 tvg-chno="89746" tvg-name="CTV Two - Atlantic HD (CTV2)" tvg-logo="https://logos.jesmann.com/asnhd.png" group-title="United States" tvg-id="ASNHD" tvc-guide-stationid="89746",CTV Two - Atlantic HD (CTV2)
-http://example.local/USA-ASNHD.ts
 #EXTINF:-1 tvg-chno="10135" tvg-name="CTV Two - Barrie (CTV2)" tvg-logo="https://logos.jesmann.com/ckvr.png" group-title="Canada" tvg-id="CKVR" tvc-guide-stationid="10135",CTV Two - Barrie (CTV2)
 http://example.local/CAN-CKVR.ts
 #EXTINF:-1 tvg-chno="16020" tvg-name="CTV Two - London/Windsor (CTV2)" tvg-logo="https://logos.jesmann.com/chwi.png" group-title="Canada" tvg-id="CHWI" tvc-guide-stationid="16020",CTV Two - London/Windsor (CTV2)
@@ -1019,3 +995,27 @@ http://example.local/CAN-DVTTNF.ts
 http://example.local/CAN-DVTTNW.ts
 #EXTINF:-1 tvg-chno="49509" tvg-name="Descriptive Video - Vision TV" group-title="Canada" tvg-id="DVVTV" tvc-guide-stationid="49509",Descriptive Video - Vision TV
 http://example.local/CAN-DVVTV.ts
+#EXTINF:-1 tvg-chno="49536" tvg-name="Descriptive Video - Weather Network" group-title="Canada" tvg-id="DVWN" tvc-guide-stationid="49536",Descriptive Video - Weather Network
+http://example.local/CAN-DVWN.ts
+#EXTINF:-1 tvg-chno="94516" tvg-name="Desert Hot Springs Ch. 10" group-title="United States" tvg-id="DHS10" tvc-guide-stationid="94516",Desert Hot Springs Ch. 10
+http://example.local/USA-DHS10.ts
+#EXTINF:-1 tvg-chno="91385" tvg-name="Desh" group-title="United States" tvg-id="DESH" tvc-guide-stationid="91385",Desh
+http://example.local/USA-DESH.ts
+#EXTINF:-1 tvg-chno="142876" tvg-name="Desi Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s142876_ll_h9_aa.png" group-title="Canada" tvg-id="DESICHIND" tvc-guide-stationid="142876",Desi Channel
+http://example.local/CAN-DESICHIND.ts
+#EXTINF:-1 tvg-chno="120686" tvg-name="Desi Channel" group-title="United States" tvg-id="DESICH" tvc-guide-stationid="120686",Desi Channel
+http://example.local/USA-DESICH.ts
+#EXTINF:-1 tvg-chno="131393" tvg-name="Desi Play TV" tvg-logo="https://zap2it.tmsimg.com/assets/s131393_ll_h15_aa.png" group-title="United States" tvg-id="DEPLTV" tvc-guide-stationid="131393",Desi Play TV
+http://example.local/USA-DEPLTV.ts
+#EXTINF:-1 tvg-chno="35276" tvg-name="Desi Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s35276_ll_h9_aa.png" group-title="United Kingdom" tvg-id="DESI" tvc-guide-stationid="35276",Desi Radio
+http://example.local/GBR-DESI.ts
+#EXTINF:-1 tvg-chno="35276" tvg-name="Desi Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s35276_ll_h9_aa.png" group-title="Ireland" tvg-id="DESI" tvc-guide-stationid="35276",Desi Radio
+http://example.local/IRL-DESI.ts
+#EXTINF:-1 tvg-chno="111622" tvg-name="Desierto de Atacama TV" tvg-logo="https://zap2it.tmsimg.com/assets/s111622_ll_h15_aa.png" group-title="Chile" tvg-id="DESAC" tvc-guide-stationid="111622",Desierto de Atacama TV
+http://example.local/CHL-DESAC.ts
+#EXTINF:-1 tvg-chno="191641" tvg-name="Designated Survivor" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027N8V8.png" group-title="United States" tvg-id="DSGSRVR" tvc-guide-stationid="191641",Designated Survivor
+http://example.local/USA-DSGSRVR.ts
+#EXTINF:-1 tvg-chno="159742" tvg-name="Desire" tvg-logo="https://zap2it.tmsimg.com/assets/s159742_ll_h15_aa.png" group-title="Poland" tvg-id="DESIRNL" tvc-guide-stationid="159742",Desire
+http://example.local/POL-DESIRNL.ts
+#EXTINF:-1 tvg-chno="16617" tvg-name="Destination America" tvg-logo="https://zap2it.tmsimg.com/assets/s16617_ll_h15_aa.png" group-title="United States" tvg-id="DEST" tvc-guide-stationid="16617",Destination America
+http://example.local/USA-DEST.ts

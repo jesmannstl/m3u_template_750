@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="16426" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s29017_ll_h15_aa.png" group-title="Turks and Caicos" tvg-id="STULA" tvc-guide-stationid="16426",Studio Universal
-http://example.local/TCA-STULA.ts
-#EXTINF:-1 tvg-chno="29017" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s29017_ll_h15_aa.png" group-title="Dominica" tvg-id="STULM" tvc-guide-stationid="29017",Studio Universal
-http://example.local/DMA-STULM.ts
-#EXTINF:-1 tvg-chno="90605" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s90605_ll_h15_aa.png" group-title="Dominica" tvg-id="STULMHD" tvc-guide-stationid="90605",Studio Universal
-http://example.local/DMA-STULMHD.ts
-#EXTINF:-1 tvg-chno="29017" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s29017_ll_h15_aa.png" group-title="Grenada" tvg-id="STULM" tvc-guide-stationid="29017",Studio Universal
-http://example.local/GRD-STULM.ts
 #EXTINF:-1 tvg-chno="90605" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s90605_ll_h15_aa.png" group-title="Grenada" tvg-id="STULMHD" tvc-guide-stationid="90605",Studio Universal
 http://example.local/GRD-STULMHD.ts
 #EXTINF:-1 tvg-chno="16426" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s29017_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="STULA" tvc-guide-stationid="16426",Studio Universal
@@ -1019,3 +1011,11 @@ http://example.local/CHL-TBSESHD.ts
 http://example.local/COL-TBSESHD.ts
 #EXTINF:-1 tvg-chno="99231" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s75073_ll_h15_ad.png" group-title="Peru" tvg-id="TBSESHD" tvc-guide-stationid="99231",TBS
 http://example.local/PER-TBSESHD.ts
+#EXTINF:-1 tvg-chno="99231" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s75073_ll_h15_ad.png" group-title="Argentina" tvg-id="TBSESHD" tvc-guide-stationid="99231",TBS
+http://example.local/ARG-TBSESHD.ts
+#EXTINF:-1 tvg-chno="108179" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s75073_ll_h15_ad.png" group-title="Argentina" tvg-id="TBSLAEH" tvc-guide-stationid="108179",TBS
+http://example.local/ARG-TBSLAEH.ts
+#EXTINF:-1 tvg-chno="75067" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s75073_ll_h15_ad.png" group-title="Jamaica" tvg-id="TBSLAEN" tvc-guide-stationid="75067",TBS
+http://example.local/JAM-TBSLAEN.ts
+#EXTINF:-1 tvg-chno="11867" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s11867_ll_h15_ac.png" group-title="Jamaica" tvg-id="TBS" tvc-guide-stationid="11867",TBS
+http://example.local/JAM-TBS.ts

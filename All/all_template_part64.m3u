@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="107364" tvg-name="KWYP-DT3 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="United States" tvg-id="KWYPDT3" tvc-guide-stationid="107364",KWYP-DT3 (HD06)
-http://example.local/USA-KWYPDT3.ts
-#EXTINF:-1 tvg-chno="70469" tvg-name="KWYT-LD (ESTRLLA)" tvg-logo="https://zap2it.tmsimg.com/assets/s65064_h3_ba.png" group-title="United States" tvg-id="KWYTLD" tvc-guide-stationid="70469",KWYT-LD (ESTRLLA)
-http://example.local/USA-KWYTLD.ts
-#EXTINF:-1 tvg-chno="108808" tvg-name="KWYT-LD (SD Feed) (ESTRLLA)" tvg-logo="https://zap2it.tmsimg.com/assets/s65064_h3_ba.png" group-title="United States" tvg-id="KWYTSD" tvc-guide-stationid="108808",KWYT-LD (SD Feed) (ESTRLLA)
-http://example.local/USA-KWYTSD.ts
-#EXTINF:-1 tvg-chno="70471" tvg-name="KWYT-LD2 (NSTRAVI)" tvg-logo="https://zap2it.tmsimg.com/assets/s106819_ll_h6_aa.png" group-title="United States" tvg-id="KWYTLD2" tvc-guide-stationid="70471",KWYT-LD2 (NSTRAVI)
-http://example.local/USA-KWYTLD2.ts
-#EXTINF:-1 tvg-chno="70668" tvg-name="KWYT-LD3 (LATV)" tvg-logo="https://zap2it.tmsimg.com/assets/s55578_ll_h15_ab.png" group-title="United States" tvg-id="KWYTLD3" tvc-guide-stationid="70668",KWYT-LD3 (LATV)
-http://example.local/USA-KWYTLD3.ts
-#EXTINF:-1 tvg-chno="72612" tvg-name="KWYT-LD4 (ALMA)" tvg-logo="https://zap2it.tmsimg.com/assets/s45813_h3_aa.png" group-title="United States" tvg-id="KWYTLD4" tvc-guide-stationid="72612",KWYT-LD4 (ALMA)
-http://example.local/USA-KWYTLD4.ts
-#EXTINF:-1 tvg-chno="72506" tvg-name="KWYT-LD5 (ESNE)" tvg-logo="https://zap2it.tmsimg.com/assets/s46421_h3_aa.png" group-title="United States" tvg-id="KWYTLD5" tvc-guide-stationid="72506",KWYT-LD5 (ESNE)
-http://example.local/USA-KWYTLD5.ts
-#EXTINF:-1 tvg-chno="72509" tvg-name="KWYT-LD6 (JTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s16604_h3_aa.png" group-title="United States" tvg-id="KWYTLD6" tvc-guide-stationid="72509",KWYT-LD6 (JTV)
-http://example.local/USA-KWYTLD6.ts
 #EXTINF:-1 tvg-chno="91237" tvg-name="KXAD-LD2 (LATV)" tvg-logo="https://zap2it.tmsimg.com/assets/s55578_h3_ba.png" group-title="United States" tvg-id="KXADLD2" tvc-guide-stationid="91237",KXAD-LD2 (LATV)
 http://example.local/USA-KXADLD2.ts
 #EXTINF:-1 tvg-chno="91238" tvg-name="KXAD-LD3 (ALMA)" tvg-logo="https://zap2it.tmsimg.com/assets/s45813_h3_aa.png" group-title="United States" tvg-id="KXADLD3" tvc-guide-stationid="91238",KXAD-LD3 (ALMA)
@@ -1019,3 +1003,19 @@ http://example.local/ESP-NMURC.ts
 http://example.local/ARG-TELPV.ts
 #EXTINF:-1 tvg-chno="91203" tvg-name="La 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91203_ll_h9_aa.png" group-title="Germany" tvg-id="LA1HD" tvc-guide-stationid="91203",La 1 HD
 http://example.local/DEU-LA1HD.ts
+#EXTINF:-1 tvg-chno="91203" tvg-name="La 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91203_ll_h9_aa.png" group-title="Spain" tvg-id="LA1HD" tvc-guide-stationid="91203",La 1 HD
+http://example.local/ESP-LA1HD.ts
+#EXTINF:-1 tvg-chno="91203" tvg-name="La 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91203_ll_h9_aa.png" group-title="Switzerland" tvg-id="LA1HD" tvc-guide-stationid="91203",La 1 HD
+http://example.local/CHE-LA1HD.ts
+#EXTINF:-1 tvg-chno="91206" tvg-name="La 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91206_ll_h15_aa.png" group-title="Germany" tvg-id="LA2HD" tvc-guide-stationid="91206",La 2 HD
+http://example.local/DEU-LA2HD.ts
+#EXTINF:-1 tvg-chno="91206" tvg-name="La 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91206_ll_h15_aa.png" group-title="Spain" tvg-id="LA2HD" tvc-guide-stationid="91206",La 2 HD
+http://example.local/ESP-LA2HD.ts
+#EXTINF:-1 tvg-chno="91206" tvg-name="La 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91206_ll_h15_aa.png" group-title="Switzerland" tvg-id="LA2HD" tvc-guide-stationid="91206",La 2 HD
+http://example.local/CHE-LA2HD.ts
+#EXTINF:-1 tvg-chno="75500" tvg-name="La 5 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75500_ll_h15_aa.png" group-title="Italy" tvg-id="LA5ITL" tvc-guide-stationid="75500",La 5 HD
+http://example.local/ITA-LA5ITL.ts
+#EXTINF:-1 tvg-chno="75500" tvg-name="La 5 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75500_ll_h15_aa.png" group-title="Switzerland" tvg-id="LA5ITL" tvc-guide-stationid="75500",La 5 HD
+http://example.local/CHE-LA5ITL.ts
+#EXTINF:-1 tvg-chno="109101" tvg-name="La 6 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109101_ll_h15_aa.png" group-title="Italy" tvg-id="LA6HD" tvc-guide-stationid="109101",La 6 HD
+http://example.local/ITA-LA6HD.ts

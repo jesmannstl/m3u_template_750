@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="70693" tvg-name="Toku On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s70693_ll_h15_aa.png" group-title="United States" tvg-id="TOKUDM" tvc-guide-stationid="70693",Toku On Demand
-http://example.local/USA-TOKUDM.ts
-#EXTINF:-1 tvg-chno="112689" tvg-name="Toms River Leased Access (CBNNEWS)" tvg-logo="https://zap2it.tmsimg.com/assets/s109977_ll_h15_aa.png" group-title="United States" tvg-id="TOMSRLA" tvc-guide-stationid="112689",Toms River Leased Access (CBNNEWS)
-http://example.local/USA-TOMSRLA.ts
-#EXTINF:-1 tvg-chno="185671" tvg-name="Tony Robbins Network" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0020GNY8.png" group-title="United States" tvg-id="TRNET" tvc-guide-stationid="185671",Tony Robbins Network
-http://example.local/USA-TRNET.ts
 #EXTINF:-1 tvg-chno="50337" tvg-name="Too Much for TV - TMFTV" group-title="Canada" tvg-id="TMFTV" tvc-guide-stationid="50337",Too Much for TV - TMFTV
 http://example.local/CAN-TMFTV.ts
 #EXTINF:-1 tvg-chno="51972" tvg-name="Too Much For TV On Demand" group-title="United States" tvg-id="TMFTVDM" tvc-guide-stationid="51972",Too Much For TV On Demand
@@ -1019,3 +1013,9 @@ http://example.local/TTO-TCM.ts
 http://example.local/VCT-TCM.ts
 #EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
 http://example.local/BES-TCM.ts
+#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Belize" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
+http://example.local/BLZ-TCM.ts
+#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Barbados" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
+http://example.local/BRB-TCM.ts
+#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
+http://example.local/VGB-TCM.ts

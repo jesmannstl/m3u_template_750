@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="45249" tvg-name="Stingray Opera Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s45249_ll_h15_aa.png" group-title="Saint Martin" tvg-id="SM031" tvc-guide-stationid="45249",Stingray Opera Plus
-http://example.local/MAF-SM031.ts
-#EXTINF:-1 tvg-chno="75460" tvg-name="Stingray Persian" tvg-logo="https://zap2it.tmsimg.com/assets/s75460_ll_h15_aa.png" group-title="Canada" tvg-id="SM097" tvc-guide-stationid="75460",Stingray Persian
-http://example.local/CAN-SM097.ts
-#EXTINF:-1 tvg-chno="75460" tvg-name="Stingray Persian" tvg-logo="https://zap2it.tmsimg.com/assets/s75460_ll_h15_aa.png" group-title="United States" tvg-id="SM097" tvc-guide-stationid="75460",Stingray Persian
-http://example.local/USA-SM097.ts
-#EXTINF:-1 tvg-chno="75402" tvg-name="Stingray Playground" tvg-logo="https://zap2it.tmsimg.com/assets/s75402_ll_h15_aa.png" group-title="Canada" tvg-id="SM061" tvc-guide-stationid="75402",Stingray Playground
-http://example.local/CAN-SM061.ts
 #EXTINF:-1 tvg-chno="110406" tvg-name="Stingray Pop & Country" tvg-logo="https://zap2it.tmsimg.com/assets/s110406_ll_h15_aa.png" group-title="United States" tvg-id="SMUS62" tvc-guide-stationid="110406",Stingray Pop & Country
 http://example.local/USA-SMUS62.ts
 #EXTINF:-1 tvg-chno="21637" tvg-name="Stingray Pop Adult" tvg-logo="https://zap2it.tmsimg.com/assets/s21637_ll_h15_ac.png" group-title="Canada" tvg-id="SM004" tvc-guide-stationid="21637",Stingray Pop Adult
@@ -1019,3 +1011,11 @@ http://example.local/BRB-STULM.ts
 http://example.local/BRB-STULMHD.ts
 #EXTINF:-1 tvg-chno="60688" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s29017_ll_h15_aa.png" group-title="Barbados" tvg-id="STULCOI" tvc-guide-stationid="60688",Studio Universal
 http://example.local/BRB-STULCOI.ts
+#EXTINF:-1 tvg-chno="16426" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s29017_ll_h15_aa.png" group-title="Turks and Caicos" tvg-id="STULA" tvc-guide-stationid="16426",Studio Universal
+http://example.local/TCA-STULA.ts
+#EXTINF:-1 tvg-chno="29017" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s29017_ll_h15_aa.png" group-title="Dominica" tvg-id="STULM" tvc-guide-stationid="29017",Studio Universal
+http://example.local/DMA-STULM.ts
+#EXTINF:-1 tvg-chno="90605" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s90605_ll_h15_aa.png" group-title="Dominica" tvg-id="STULMHD" tvc-guide-stationid="90605",Studio Universal
+http://example.local/DMA-STULMHD.ts
+#EXTINF:-1 tvg-chno="29017" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s29017_ll_h15_aa.png" group-title="Grenada" tvg-id="STULM" tvc-guide-stationid="29017",Studio Universal
+http://example.local/GRD-STULM.ts

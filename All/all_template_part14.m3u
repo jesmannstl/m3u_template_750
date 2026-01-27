@@ -1,36 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="98023" tvg-name="Catch 2" group-title="Barbados" tvg-id="CATCH2" tvc-guide-stationid="98023",Catch 2
-http://example.local/BRB-CATCH2.ts
-#EXTINF:-1 tvg-chno="98023" tvg-name="Catch 2" group-title="St. Kitts and Nevis" tvg-id="CATCH2" tvc-guide-stationid="98023",Catch 2
-http://example.local/KNA-CATCH2.ts
-#EXTINF:-1 tvg-chno="110577" tvg-name="Catch TV 2 HD" group-title="United States" tvg-id="CTV2HD" tvc-guide-stationid="110577",Catch TV 2 HD
-http://example.local/USA-CTV2HD.ts
-#EXTINF:-1 tvg-chno="110578" tvg-name="Catch TV HD" group-title="United States" tvg-id="CTVHD" tvc-guide-stationid="110578",Catch TV HD
-http://example.local/USA-CTVHD.ts
-#EXTINF:-1 tvg-chno="91415" tvg-name="Catchy Comedy (CATCHYC)" tvg-logo="https://zap2it.tmsimg.com/assets/s91415_ll_h15_ab.png" group-title="United States" tvg-id="CATCHYC" tvc-guide-stationid="91415",Catchy Comedy (CATCHYC)
-http://example.local/USA-CATCHYC.ts
-#EXTINF:-1 tvg-chno="122694" tvg-name="Catchy Comedy Digital" tvg-logo="https://zap2it.tmsimg.com/assets/s122694_ll_h15_ab.png" group-title="United States" tvg-id="CATCHCD" tvc-guide-stationid="122694",Catchy Comedy Digital
-http://example.local/USA-CATCHCD.ts
-#EXTINF:-1 tvg-chno="139566" tvg-name="Catfish on PlutoTV (HZN)" tvg-logo="https://zap2it.tmsimg.com/assets/s139566_ll_h9_aa.png" group-title="United Kingdom" tvg-id="CFHZNVM" tvc-guide-stationid="139566",Catfish on PlutoTV (HZN)
-http://example.local/GBR-CFHZNVM.ts
-#EXTINF:-1 tvg-chno="44521" tvg-name="Cathay (Echostar)" group-title="United States" tvg-id="CATHAYD" tvc-guide-stationid="44521",Cathay (Echostar)
-http://example.local/USA-CATHAYD.ts
-#EXTINF:-1 tvg-chno="62900" tvg-name="CATHOLIC FAITH NETWORK" tvg-logo="https://zap2it.tmsimg.com/assets/s62900_ll_h15_aa.png" group-title="United States" tvg-id="CFNTV" tvc-guide-stationid="62900",CATHOLIC FAITH NETWORK
-http://example.local/USA-CFNTV.ts
-#EXTINF:-1 tvg-chno="111040" tvg-name="Catholic Faith Network HD" group-title="United States" tvg-id="CFNTVHD" tvc-guide-stationid="111040",Catholic Faith Network HD
-http://example.local/USA-CFNTVHD.ts
-#EXTINF:-1 tvg-chno="17649" tvg-name="Catholic TV Network of Detroit" group-title="United States" tvg-id="CTND" tvc-guide-stationid="17649",Catholic TV Network of Detroit
-http://example.local/USA-CTND.ts
-#EXTINF:-1 tvg-chno="12516" tvg-name="Catholic TV Youngstown" group-title="United States" tvg-id="CATHTVYO" tvc-guide-stationid="12516",Catholic TV Youngstown
-http://example.local/USA-CATHTVYO.ts
-#EXTINF:-1 tvg-chno="113913" tvg-name="CATV Education Arts" group-title="United States" tvg-id="CAMEA" tvc-guide-stationid="113913",CATV Education Arts
-http://example.local/USA-CAMEA.ts
-#EXTINF:-1 tvg-chno="113907" tvg-name="CATV Government Public" group-title="United States" tvg-id="CATV" tvc-guide-stationid="113907",CATV Government Public
-http://example.local/USA-CATV.ts
-#EXTINF:-1 tvg-chno="30837" tvg-name="CATV991/MVCC991" group-title="United States" tvg-id="CATV991" tvc-guide-stationid="30837",CATV991/MVCC991
-http://example.local/USA-CATV991.ts
-#EXTINF:-1 tvg-chno="121881" tvg-name="Caught in Providence" tvg-logo="https://zap2it.tmsimg.com/assets/s121881_ll_h15_aa.png" group-title="United States" tvg-id="CIPROV" tvc-guide-stationid="121881",Caught in Providence
-http://example.local/USA-CIPROV.ts
 #EXTINF:-1 tvg-chno="29116" tvg-name="CAWAMY" group-title="United States" tvg-id="CAWAMY" tvc-guide-stationid="29116",CAWAMY
 http://example.local/USA-CAWAMY.ts
 #EXTINF:-1 tvg-chno="112123" tvg-name="Cayman Islands Government TV" group-title="Cayman Islands" tvg-id="CIGTV" tvc-guide-stationid="112123",Cayman Islands Government TV
@@ -1019,3 +987,35 @@ http://example.local/CAN-CH2518D.ts
 http://example.local/USA-KCTH.ts
 #EXTINF:-1 tvg-chno="139926" tvg-name="Chacra TV" tvg-logo="https://zap2it.tmsimg.com/assets/s139926_ll_h15_aa.png" group-title="Chile" tvg-id="CHATV" tvc-guide-stationid="139926",Chacra TV
 http://example.local/CHL-CHATV.ts
+#EXTINF:-1 tvg-chno="139926" tvg-name="Chacra TV" tvg-logo="https://zap2it.tmsimg.com/assets/s139926_ll_h15_aa.png" group-title="Argentina" tvg-id="CHATV" tvc-guide-stationid="139926",Chacra TV
+http://example.local/ARG-CHATV.ts
+#EXTINF:-1 tvg-chno="139926" tvg-name="Chacra TV" tvg-logo="https://zap2it.tmsimg.com/assets/s139926_ll_h15_aa.png" group-title="Uruguay" tvg-id="CHATV" tvc-guide-stationid="139926",Chacra TV
+http://example.local/URY-CHATV.ts
+#EXTINF:-1 tvg-chno="21793" tvg-name="Challenge" tvg-logo="https://zap2it.tmsimg.com/assets/s21793_ll_h15_aa.png" group-title="Germany" tvg-id="CHALL" tvc-guide-stationid="21793",Challenge
+http://example.local/DEU-CHALL.ts
+#EXTINF:-1 tvg-chno="21793" tvg-name="Challenge" tvg-logo="https://zap2it.tmsimg.com/assets/s21793_ll_h15_aa.png" group-title="Belgium" tvg-id="CHALL" tvc-guide-stationid="21793",Challenge
+http://example.local/BEL-CHALL.ts
+#EXTINF:-1 tvg-chno="21793" tvg-name="Challenge" tvg-logo="https://zap2it.tmsimg.com/assets/s21793_ll_h15_aa.png" group-title="Netherlands" tvg-id="CHALL" tvc-guide-stationid="21793",Challenge
+http://example.local/NLD-CHALL.ts
+#EXTINF:-1 tvg-chno="21793" tvg-name="Challenge" tvg-logo="https://zap2it.tmsimg.com/assets/s21793_ll_h15_aa.png" group-title="United Kingdom" tvg-id="CHALL" tvc-guide-stationid="21793",Challenge
+http://example.local/GBR-CHALL.ts
+#EXTINF:-1 tvg-chno="21793" tvg-name="Challenge" tvg-logo="https://zap2it.tmsimg.com/assets/s21793_ll_h15_aa.png" group-title="Ireland" tvg-id="CHALL" tvc-guide-stationid="21793",Challenge
+http://example.local/IRL-CHALL.ts
+#EXTINF:-1 tvg-chno="21793" tvg-name="Challenge" tvg-logo="https://zap2it.tmsimg.com/assets/s21793_ll_h15_aa.png" group-title="Switzerland" tvg-id="CHALL" tvc-guide-stationid="21793",Challenge
+http://example.local/CHE-CHALL.ts
+#EXTINF:-1 tvg-chno="112972" tvg-name="Challenge Ireland" tvg-logo="https://zap2it.tmsimg.com/assets/s112972_ll_h15_aa.png" group-title="Belgium" tvg-id="CHALIRE" tvc-guide-stationid="112972",Challenge Ireland
+http://example.local/BEL-CHALIRE.ts
+#EXTINF:-1 tvg-chno="112972" tvg-name="Challenge Ireland" tvg-logo="https://zap2it.tmsimg.com/assets/s112972_ll_h15_aa.png" group-title="Netherlands" tvg-id="CHALIRE" tvc-guide-stationid="112972",Challenge Ireland
+http://example.local/NLD-CHALIRE.ts
+#EXTINF:-1 tvg-chno="112972" tvg-name="Challenge Ireland" tvg-logo="https://zap2it.tmsimg.com/assets/s112972_ll_h15_aa.png" group-title="Ireland" tvg-id="CHALIRE" tvc-guide-stationid="112972",Challenge Ireland
+http://example.local/IRL-CHALIRE.ts
+#EXTINF:-1 tvg-chno="112666" tvg-name="Chambersburg Leased Access (CBNNEWS)" tvg-logo="https://zap2it.tmsimg.com/assets/s109977_ll_h15_aa.png" group-title="United States" tvg-id="CHAMLA" tvc-guide-stationid="112666",Chambersburg Leased Access (CBNNEWS)
+http://example.local/USA-CHAMLA.ts
+#EXTINF:-1 tvg-chno="95180" tvg-name="Champaign Government Television" group-title="United States" tvg-id="CMPGTV" tvc-guide-stationid="95180",Champaign Government Television
+http://example.local/USA-CMPGTV.ts
+#EXTINF:-1 tvg-chno="109662" tvg-name="Champions League 1" tvg-logo="https://zap2it.tmsimg.com/assets/s109662_ll_h9_aa.png" group-title="Bermuda" tvg-id="UCL1" tvc-guide-stationid="109662",Champions League 1
+http://example.local/BMU-UCL1.ts
+#EXTINF:-1 tvg-chno="109662" tvg-name="Champions League 1" tvg-logo="https://zap2it.tmsimg.com/assets/s109662_ll_h9_aa.png" group-title="Jamaica" tvg-id="UCL1" tvc-guide-stationid="109662",Champions League 1
+http://example.local/JAM-UCL1.ts
+#EXTINF:-1 tvg-chno="109662" tvg-name="Champions League 1" tvg-logo="https://zap2it.tmsimg.com/assets/s109662_ll_h9_aa.png" group-title="Trinidad and Tobago" tvg-id="UCL1" tvc-guide-stationid="109662",Champions League 1
+http://example.local/TTO-UCL1.ts

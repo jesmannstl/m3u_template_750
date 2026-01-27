@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="90782" tvg-name="TV2 Sport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s90782_ll_h9_ab.png" group-title="Norway" tvg-id="TV2SP2" tvc-guide-stationid="90782",TV2 Sport 2
-http://example.local/NOR-TV2SP2.ts
-#EXTINF:-1 tvg-chno="90776" tvg-name="TV2 Sport Premium 1" tvg-logo="https://zap2it.tmsimg.com/assets/s90776_ll_h15_ab.png" group-title="Norway" tvg-id="TV2SPT1" tvc-guide-stationid="90776",TV2 Sport Premium 1
-http://example.local/NOR-TV2SPT1.ts
-#EXTINF:-1 tvg-chno="90778" tvg-name="TV2 Sport Premium 2" tvg-logo="https://zap2it.tmsimg.com/assets/s90778_ll_h15_ac.png" group-title="Norway" tvg-id="TV2SPR2" tvc-guide-stationid="90778",TV2 Sport Premium 2
-http://example.local/NOR-TV2SPR2.ts
 #EXTINF:-1 tvg-chno="87797" tvg-name="TV2 Syd" tvg-logo="https://zap2it.tmsimg.com/assets/s87797_ll_h15_aa.png" group-title="Germany" tvg-id="TV2SYD" tvc-guide-stationid="87797",TV2 Syd
 http://example.local/DEU-TV2SYD.ts
 #EXTINF:-1 tvg-chno="87797" tvg-name="TV2 Syd" tvg-logo="https://zap2it.tmsimg.com/assets/s87797_ll_h15_aa.png" group-title="Denmark" tvg-id="TV2SYD" tvc-guide-stationid="87797",TV2 Syd
@@ -29,6 +23,8 @@ http://example.local/CHE-TV24HD.ts
 http://example.local/CHE-TV24UHD.ts
 #EXTINF:-1 tvg-chno="105054" tvg-name="TV25 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105054_ll_h15_aa.png" group-title="Switzerland" tvg-id="TV25HD" tvc-guide-stationid="105054",TV25 HD
 http://example.local/CHE-TV25HD.ts
+#EXTINF:-1 tvg-chno="102091" tvg-name="TV2NKHD" tvg-logo="https://zap2it.tmsimg.com/assets/s102091_ll_h15_af.png" group-title="Norway" tvg-id="TV2NKHD" tvc-guide-stationid="102091",TV2NKHD
+http://example.local/NOR-TV2NKHD.ts
 #EXTINF:-1 tvg-chno="90052" tvg-name="TV3" tvg-logo="https://zap2it.tmsimg.com/assets/s90052_ll_h15_aa.png" group-title="Norway" tvg-id="TV3NO" tvc-guide-stationid="90052",TV3
 http://example.local/NOR-TV3NO.ts
 #EXTINF:-1 tvg-chno="76805" tvg-name="TV3" tvg-logo="https://zap2it.tmsimg.com/assets/s76805_ll_h15_aa.png" group-title="Germany" tvg-id="TV3SWED" tvc-guide-stationid="76805",TV3
@@ -73,6 +69,8 @@ http://example.local/DEU-TV3CAT.ts
 http://example.local/FRA-TV3CAT.ts
 #EXTINF:-1 tvg-chno="87020" tvg-name="TV3CAT" tvg-logo="https://zap2it.tmsimg.com/assets/s87020_ll_h15_aa.png" group-title="Spain" tvg-id="TV3CAT" tvc-guide-stationid="87020",TV3CAT
 http://example.local/ESP-TV3CAT.ts
+#EXTINF:-1 tvg-chno="87800" tvg-name="TV3HDK" tvg-logo="https://zap2it.tmsimg.com/assets/s87800_ll_h15_ab.png" group-title="Denmark" tvg-id="TV3HDK" tvc-guide-stationid="87800",TV3HDK
+http://example.local/DNK-TV3HDK.ts
 #EXTINF:-1 tvg-chno="54090" tvg-name="TV4" tvg-logo="https://zap2it.tmsimg.com/assets/s54090_ll_h15_aa.png" group-title="Norway" tvg-id="TV4SWED" tvc-guide-stationid="54090",TV4
 http://example.local/NOR-TV4SWED.ts
 #EXTINF:-1 tvg-chno="54090" tvg-name="TV4" tvg-logo="https://zap2it.tmsimg.com/assets/s54090_ll_h15_aa.png" group-title="Germany" tvg-id="TV4SWED" tvc-guide-stationid="54090",TV4
@@ -1019,3 +1017,5 @@ http://example.local/POL-ALFAPL.ts
 http://example.local/POL-TVPALFA.ts
 #EXTINF:-1 tvg-chno="118769" tvg-name="TVP Dokument HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118769_ll_h15_aa.png" group-title="Poland" tvg-id="TVPDOHD" tvc-guide-stationid="118769",TVP Dokument HD
 http://example.local/POL-TVPDOHD.ts
+#EXTINF:-1 tvg-chno="175271" tvg-name="TVP GO" group-title="Poland" tvg-id="TVPGO" tvc-guide-stationid="175271",TVP GO
+http://example.local/POL-TVPGO.ts

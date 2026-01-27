@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="173953" tvg-name="Spectrum Noticias" tvg-logo="https://zap2it.tmsimg.com/assets/s173953_ll_h15_aa.png" group-title="United States" tvg-id="SNNOT" tvc-guide-stationid="173953",Spectrum Noticias
-http://example.local/USA-SNNOT.ts
-#EXTINF:-1 tvg-chno="174022" tvg-name="Spectrum Noticias - Florida" tvg-logo="https://zap2it.tmsimg.com/assets/s174022_ll_h15_aa.png" group-title="United States" tvg-id="SNNOTFL" tvc-guide-stationid="174022",Spectrum Noticias - Florida
-http://example.local/USA-SNNOTFL.ts
-#EXTINF:-1 tvg-chno="174122" tvg-name="Spectrum Noticias - Florida STVA" tvg-logo="https://zap2it.tmsimg.com/assets/s174022_ll_h15_aa.png" group-title="United States" tvg-id="SNNOTFS" tvc-guide-stationid="174122",Spectrum Noticias - Florida STVA
-http://example.local/USA-SNNOTFS.ts
-#EXTINF:-1 tvg-chno="173955" tvg-name="Spectrum Noticias - Los Angeles" tvg-logo="https://zap2it.tmsimg.com/assets/s173955_ll_h15_aa.png" group-title="United States" tvg-id="SNNOTLA" tvc-guide-stationid="173955",Spectrum Noticias - Los Angeles
-http://example.local/USA-SNNOTLA.ts
 #EXTINF:-1 tvg-chno="174155" tvg-name="Spectrum Noticias - Los Angeles STVA" tvg-logo="https://zap2it.tmsimg.com/assets/s173955_ll_h15_aa.png" group-title="United States" tvg-id="SNNOTLS" tvc-guide-stationid="174155",Spectrum Noticias - Los Angeles STVA
 http://example.local/USA-SNNOTLS.ts
 #EXTINF:-1 tvg-chno="174055" tvg-name="Spectrum Noticias - Texas" tvg-logo="https://zap2it.tmsimg.com/assets/s174055_ll_h15_aa.png" group-title="United States" tvg-id="SNNOTTX" tvc-guide-stationid="174055",Spectrum Noticias - Texas
@@ -1019,3 +1011,11 @@ http://example.local/DEU-SRFINHD.ts
 http://example.local/POL-SRFINHD.ts
 #EXTINF:-1 tvg-chno="99249" tvg-name="SRF Info HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99249_ll_h15_aa.png" group-title="Belgium" tvg-id="SRFINHD" tvc-guide-stationid="99249",SRF Info HD
 http://example.local/BEL-SRFINHD.ts
+#EXTINF:-1 tvg-chno="99249" tvg-name="SRF Info HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99249_ll_h15_aa.png" group-title="Netherlands" tvg-id="SRFINHD" tvc-guide-stationid="99249",SRF Info HD
+http://example.local/NLD-SRFINHD.ts
+#EXTINF:-1 tvg-chno="99249" tvg-name="SRF Info HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99249_ll_h15_aa.png" group-title="Austria" tvg-id="SRFINHD" tvc-guide-stationid="99249",SRF Info HD
+http://example.local/AUT-SRFINHD.ts
+#EXTINF:-1 tvg-chno="99249" tvg-name="SRF Info HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99249_ll_h15_aa.png" group-title="Switzerland" tvg-id="SRFINHD" tvc-guide-stationid="99249",SRF Info HD
+http://example.local/CHE-SRFINHD.ts
+#EXTINF:-1 tvg-chno="97729" tvg-name="SRF Südthüringer Regionalfernsehen" tvg-logo="https://zap2it.tmsimg.com/assets/s97729_ll_h9_aa.png" group-title="Germany" tvg-id="SRFREG" tvc-guide-stationid="97729",SRF Südthüringer Regionalfernsehen
+http://example.local/DEU-SRFREG.ts

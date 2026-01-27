@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="114272" tvg-name="Sky Nature" tvg-logo="https://zap2it.tmsimg.com/assets/s114272_ll_h15_aa.png" group-title="United Kingdom" tvg-id="SKNSDVM" tvc-guide-stationid="114272",Sky Nature
-http://example.local/GBR-SKNSDVM.ts
-#EXTINF:-1 tvg-chno="114269" tvg-name="Sky Nature" tvg-logo="https://zap2it.tmsimg.com/assets/s114269_ll_h15_ab.png" group-title="Ireland" tvg-id="SKYNTSD" tvc-guide-stationid="114269",Sky Nature
-http://example.local/IRL-SKYNTSD.ts
-#EXTINF:-1 tvg-chno="114272" tvg-name="Sky Nature" tvg-logo="https://zap2it.tmsimg.com/assets/s114272_ll_h15_aa.png" group-title="Ireland" tvg-id="SKNSDVM" tvc-guide-stationid="114272",Sky Nature
-http://example.local/IRL-SKNSDVM.ts
-#EXTINF:-1 tvg-chno="119982" tvg-name="Sky Nature HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119982_ll_h15_aa.png" group-title="Germany" tvg-id="SKYNADE" tvc-guide-stationid="119982",Sky Nature HD
-http://example.local/DEU-SKYNADE.ts
 #EXTINF:-1 tvg-chno="119982" tvg-name="Sky Nature HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119982_ll_h15_aa.png" group-title="Austria" tvg-id="SKYNADE" tvc-guide-stationid="119982",Sky Nature HD
 http://example.local/AUT-SKYNADE.ts
 #EXTINF:-1 tvg-chno="122785" tvg-name="Sky Nature HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122785_ll_h15_aa.png" group-title="Italy" tvg-id="SKYNAIT" tvc-guide-stationid="122785",Sky Nature HD
@@ -1019,3 +1011,11 @@ http://example.local/USA-SONAALT.ts
 http://example.local/USA-SONACON.ts
 #EXTINF:-1 tvg-chno="95015" tvg-name="Sonic Tap: Alternative" group-title="United States" tvg-id="SONALT" tvc-guide-stationid="95015",Sonic Tap: Alternative
 http://example.local/USA-SONALT.ts
+#EXTINF:-1 tvg-chno="95010" tvg-name="Sonic Tap: Bailamos!" group-title="United States" tvg-id="SONBAIL" tvc-guide-stationid="95010",Sonic Tap: Bailamos!
+http://example.local/USA-SONBAIL.ts
+#EXTINF:-1 tvg-chno="95030" tvg-name="Sonic Tap: Be-Tween" group-title="United States" tvg-id="SONMETR" tvc-guide-stationid="95030",Sonic Tap: Be-Tween
+http://example.local/USA-SONMETR.ts
+#EXTINF:-1 tvg-chno="95022" tvg-name="Sonic Tap: Beautiful Instrumentals" group-title="United States" tvg-id="SONBI" tvc-guide-stationid="95022",Sonic Tap: Beautiful Instrumentals
+http://example.local/USA-SONBI.ts
+#EXTINF:-1 tvg-chno="95058" tvg-name="Sonic Tap: Big Band/Swing" group-title="United States" tvg-id="SONBBS" tvc-guide-stationid="95058",Sonic Tap: Big Band/Swing
+http://example.local/USA-SONBBS.ts

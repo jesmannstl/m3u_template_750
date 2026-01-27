@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="73347" tvg-name="Shaw PPV NHL 01D" tvg-logo="https://zap2it.tmsimg.com/assets/s73347_ll_h15_aa.png" group-title="Canada" tvg-id="PVNHL1D" tvc-guide-stationid="73347",Shaw PPV NHL 01D
-http://example.local/CAN-PVNHL1D.ts
-#EXTINF:-1 tvg-chno="71212" tvg-name="Shaw PPV NHL 03A" tvg-logo="https://zap2it.tmsimg.com/assets/s71212_ll_h15_aa.png" group-title="Canada" tvg-id="PVNHL3A" tvc-guide-stationid="71212",Shaw PPV NHL 03A
-http://example.local/CAN-PVNHL3A.ts
-#EXTINF:-1 tvg-chno="73346" tvg-name="Shaw PPV NHL 03D" tvg-logo="https://zap2it.tmsimg.com/assets/s73346_ll_h15_aa.png" group-title="Canada" tvg-id="PVNHL3D" tvc-guide-stationid="73346",Shaw PPV NHL 03D
-http://example.local/CAN-PVNHL3D.ts
-#EXTINF:-1 tvg-chno="71214" tvg-name="Shaw PPV Sport 01A" tvg-logo="https://zap2it.tmsimg.com/assets/s71214_ll_h15_aa.png" group-title="Canada" tvg-id="PPVS01A" tvc-guide-stationid="71214",Shaw PPV Sport 01A
-http://example.local/CAN-PPVS01A.ts
 #EXTINF:-1 tvg-chno="70980" tvg-name="Shaw PPV Sport 01B" tvg-logo="https://zap2it.tmsimg.com/assets/s70980_ll_h15_aa.png" group-title="Canada" tvg-id="PPVS01B" tvc-guide-stationid="70980",Shaw PPV Sport 01B
 http://example.local/CAN-PPVS01B.ts
 #EXTINF:-1 tvg-chno="71215" tvg-name="Shaw PPV Sport 01C" tvg-logo="https://zap2it.tmsimg.com/assets/s71215_ll_h15_aa.png" group-title="Canada" tvg-id="PPVS01C" tvc-guide-stationid="71215",Shaw PPV Sport 01C
@@ -1019,3 +1011,11 @@ http://example.local/GBR-SMIXH.ts
 http://example.local/IRL-SMIXH.ts
 #EXTINF:-1 tvg-chno="114269" tvg-name="Sky Nature" tvg-logo="https://zap2it.tmsimg.com/assets/s114269_ll_h15_ab.png" group-title="United Kingdom" tvg-id="SKYNTSD" tvc-guide-stationid="114269",Sky Nature
 http://example.local/GBR-SKYNTSD.ts
+#EXTINF:-1 tvg-chno="114272" tvg-name="Sky Nature" tvg-logo="https://zap2it.tmsimg.com/assets/s114272_ll_h15_aa.png" group-title="United Kingdom" tvg-id="SKNSDVM" tvc-guide-stationid="114272",Sky Nature
+http://example.local/GBR-SKNSDVM.ts
+#EXTINF:-1 tvg-chno="114269" tvg-name="Sky Nature" tvg-logo="https://zap2it.tmsimg.com/assets/s114269_ll_h15_ab.png" group-title="Ireland" tvg-id="SKYNTSD" tvc-guide-stationid="114269",Sky Nature
+http://example.local/IRL-SKYNTSD.ts
+#EXTINF:-1 tvg-chno="114272" tvg-name="Sky Nature" tvg-logo="https://zap2it.tmsimg.com/assets/s114272_ll_h15_aa.png" group-title="Ireland" tvg-id="SKNSDVM" tvc-guide-stationid="114272",Sky Nature
+http://example.local/IRL-SKNSDVM.ts
+#EXTINF:-1 tvg-chno="119982" tvg-name="Sky Nature HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119982_ll_h15_aa.png" group-title="Germany" tvg-id="SKYNADE" tvc-guide-stationid="119982",Sky Nature HD
+http://example.local/DEU-SKYNADE.ts

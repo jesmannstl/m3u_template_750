@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="99231" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s75073_ll_h15_ad.png" group-title="Argentina" tvg-id="TBSESHD" tvc-guide-stationid="99231",TBS
-http://example.local/ARG-TBSESHD.ts
-#EXTINF:-1 tvg-chno="108179" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s75073_ll_h15_ad.png" group-title="Argentina" tvg-id="TBSLAEH" tvc-guide-stationid="108179",TBS
-http://example.local/ARG-TBSLAEH.ts
-#EXTINF:-1 tvg-chno="75067" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s75073_ll_h15_ad.png" group-title="Jamaica" tvg-id="TBSLAEN" tvc-guide-stationid="75067",TBS
-http://example.local/JAM-TBSLAEN.ts
-#EXTINF:-1 tvg-chno="11867" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s11867_ll_h15_ac.png" group-title="Jamaica" tvg-id="TBS" tvc-guide-stationid="11867",TBS
-http://example.local/JAM-TBS.ts
 #EXTINF:-1 tvg-chno="99231" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s75073_ll_h15_ad.png" group-title="Jamaica" tvg-id="TBSESHD" tvc-guide-stationid="99231",TBS
 http://example.local/JAM-TBSESHD.ts
 #EXTINF:-1 tvg-chno="73317" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s75073_ll_h15_ad.png" group-title="Venezuela" tvg-id="TBSESP" tvc-guide-stationid="73317",TBS
@@ -1019,3 +1011,11 @@ http://example.local/USA-TELEP.ts
 http://example.local/USA-TELE.ts
 #EXTINF:-1 tvg-chno="10239" tvg-name="Telemundo Television Network (TELE)" tvg-logo="https://zap2it.tmsimg.com/assets/s10239_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="TELE" tvc-guide-stationid="10239",Telemundo Television Network (TELE)
 http://example.local/PRI-TELE.ts
+#EXTINF:-1 tvg-chno="73245" tvg-name="Telemundo Television Network HD (TELE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73245_h3_aa.png" group-title="United States" tvg-id="TELMUHD" tvc-guide-stationid="73245",Telemundo Television Network HD (TELE)
+http://example.local/USA-TELMUHD.ts
+#EXTINF:-1 tvg-chno="136700" tvg-name="Telemundo Texas" tvg-logo="https://zap2it.tmsimg.com/assets/s136700_ll_h15_aa.png" group-title="United States" tvg-id="KTMDF" tvc-guide-stationid="136700",Telemundo Texas
+http://example.local/USA-KTMDF.ts
+#EXTINF:-1 tvg-chno="48523" tvg-name="TeleN" tvg-logo="https://zap2it.tmsimg.com/assets/s48523_ll_h15_aa.png" group-title="United States" tvg-id="TELEN" tvc-guide-stationid="48523",TeleN
+http://example.local/USA-TELEN.ts
+#EXTINF:-1 tvg-chno="48523" tvg-name="TeleN" tvg-logo="https://zap2it.tmsimg.com/assets/s48523_ll_h15_aa.png" group-title="Colombia" tvg-id="TELEN" tvc-guide-stationid="48523",TeleN
+http://example.local/COL-TELEN.ts

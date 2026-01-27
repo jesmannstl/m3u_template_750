@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="116072" tvg-name="Tipik Vision" tvg-logo="https://zap2it.tmsimg.com/assets/s116072_ll_h15_ab.png" group-title="Belgium" tvg-id="TIPIKVI" tvc-guide-stationid="116072",Tipik Vision
-http://example.local/BEL-TIPIKVI.ts
-#EXTINF:-1 tvg-chno="167096" tvg-name="Tipping Point" group-title="United Kingdom" tvg-id="TIPPOVMT" tvc-guide-stationid="167096",Tipping Point
-http://example.local/GBR-TIPPOVMT.ts
-#EXTINF:-1 tvg-chno="84014" tvg-name="Tirol TV" tvg-logo="https://zap2it.tmsimg.com/assets/s84014_ll_h15_aa.png" group-title="Austria" tvg-id="TIROL" tvc-guide-stationid="84014",Tirol TV
-http://example.local/AUT-TIROL.ts
-#EXTINF:-1 tvg-chno="118400" tvg-name="Tirol TV HD" group-title="Austria" tvg-id="TIROLHD" tvc-guide-stationid="118400",Tirol TV HD
-http://example.local/AUT-TIROLHD.ts
 #EXTINF:-1 tvg-chno="114141" tvg-name="Tis the Season" tvg-logo="https://zap2it.tmsimg.com/assets/s114141_ll_h9_ad.png" group-title="United States" tvg-id="PK23" tvc-guide-stationid="114141",Tis the Season
 http://example.local/USA-PK23.ts
 #EXTINF:-1 tvg-chno="76016" tvg-name="TIVA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s76031_ll_h15_aa.png" group-title="United States" tvg-id="TIVATV" tvc-guide-stationid="76016",TIVA TV
@@ -869,6 +861,8 @@ http://example.local/IRL-TNTSP1VM.ts
 http://example.local/GBR-TNTSP1HD.ts
 #EXTINF:-1 tvg-chno="82450" tvg-name="TNT Sports 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s82450_ll_h15_ad.png" group-title="Ireland" tvg-id="TNTSP1HD" tvc-guide-stationid="82450",TNT Sports 1 HD
 http://example.local/IRL-TNTSP1HD.ts
+#EXTINF:-1 tvg-chno="100887" tvg-name="TNT Sports 10" tvg-logo="https://zap2it.tmsimg.com/assets/s100887_ll_h15_ac.png" group-title="United Kingdom" tvg-id="TNTSPOR10" tvc-guide-stationid="100887",TNT Sports 10
+http://example.local/GBR-TNTSPOR10.ts
 #EXTINF:-1 tvg-chno="82449" tvg-name="TNT Sports 2" tvg-logo="https://zap2it.tmsimg.com/assets/s82449_ll_h15_ac.png" group-title="United Kingdom" tvg-id="TNTSP2VM" tvc-guide-stationid="82449",TNT Sports 2
 http://example.local/GBR-TNTSP2VM.ts
 #EXTINF:-1 tvg-chno="141629" tvg-name="TNT Sports 2" tvg-logo="https://zap2it.tmsimg.com/assets/s141629_ll_h15_ab.png" group-title="United Kingdom" tvg-id="TNTSP2UK" tvc-guide-stationid="141629",TNT Sports 2
@@ -1019,3 +1013,9 @@ http://example.local/USA-TOKU.ts
 http://example.local/PRI-TOKU.ts
 #EXTINF:-1 tvg-chno="70405" tvg-name="Toku HD" tvg-logo="https://zap2it.tmsimg.com/assets/s70405_ll_h15_aa.png" group-title="United States" tvg-id="TOKUHD" tvc-guide-stationid="70405",Toku HD
 http://example.local/USA-TOKUHD.ts
+#EXTINF:-1 tvg-chno="70693" tvg-name="Toku On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s70693_ll_h15_aa.png" group-title="United States" tvg-id="TOKUDM" tvc-guide-stationid="70693",Toku On Demand
+http://example.local/USA-TOKUDM.ts
+#EXTINF:-1 tvg-chno="112689" tvg-name="Toms River Leased Access (CBNNEWS)" tvg-logo="https://zap2it.tmsimg.com/assets/s109977_ll_h15_aa.png" group-title="United States" tvg-id="TOMSRLA" tvc-guide-stationid="112689",Toms River Leased Access (CBNNEWS)
+http://example.local/USA-TOMSRLA.ts
+#EXTINF:-1 tvg-chno="185671" tvg-name="Tony Robbins Network" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0020GNY8.png" group-title="United States" tvg-id="TRNET" tvc-guide-stationid="185671",Tony Robbins Network
+http://example.local/USA-TRNET.ts

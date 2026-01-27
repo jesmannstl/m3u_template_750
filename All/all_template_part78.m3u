@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="157427" tvg-name="NoseyTV" tvg-logo="https://zap2it.tmsimg.com/assets/s157427_ll_h15_aa.png" group-title="United States" tvg-id="NOSEYTV" tvc-guide-stationid="157427",NoseyTV
-http://example.local/USA-NOSEYTV.ts
-#EXTINF:-1 tvg-chno="124997" tvg-name="Nosotros los Guapos" tvg-logo="https://zap2it.tmsimg.com/assets/s124997_ll_h15_ab.png" group-title="Mexico" tvg-id="NOLOGU" tvc-guide-stationid="124997",Nosotros los Guapos
-http://example.local/MEX-NOLOGU.ts
-#EXTINF:-1 tvg-chno="124997" tvg-name="Nosotros los Guapos" tvg-logo="https://zap2it.tmsimg.com/assets/s124997_ll_h15_ab.png" group-title="United States" tvg-id="NOLOGU" tvc-guide-stationid="124997",Nosotros los Guapos
-http://example.local/USA-NOLOGU.ts
-#EXTINF:-1 tvg-chno="121297" tvg-name="NOST - The Nostalgia Network" tvg-logo="https://zap2it.tmsimg.com/assets/s121297_ll_h15_aa.png" group-title="United States" tvg-id="NOST" tvc-guide-stationid="121297",NOST - The Nostalgia Network
-http://example.local/USA-NOST.ts
-#EXTINF:-1 tvg-chno="121823" tvg-name="Nostalgic Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0023P97G.png" group-title="United States" tvg-id="PPLUSNOS" tvc-guide-stationid="121823",Nostalgic Hits
-http://example.local/USA-PPLUSNOS.ts
-#EXTINF:-1 tvg-chno="92913" tvg-name="Not Available in All Areas" group-title="United States" tvg-id="LOCPNA" tvc-guide-stationid="92913",Not Available in All Areas
-http://example.local/USA-LOCPNA.ts
-#EXTINF:-1 tvg-chno="138525" tvg-name="Noticias Telemundo AHORA" tvg-logo="https://zap2it.tmsimg.com/assets/s138525_ll_h15_aa.png" group-title="United States" tvg-id="NOTIAA" tvc-guide-stationid="138525",Noticias Telemundo AHORA
-http://example.local/USA-NOTIAA.ts
 #EXTINF:-1 tvg-chno="123934" tvg-name="Noticias Univision 24/7" tvg-logo="https://zap2it.tmsimg.com/assets/s123934_ll_h15_ab.png" group-title="Mexico" tvg-id="UNIVNWA" tvc-guide-stationid="123934",Noticias Univision 24/7
 http://example.local/MEX-UNIVNWA.ts
 #EXTINF:-1 tvg-chno="123934" tvg-name="Noticias Univision 24/7" tvg-logo="https://zap2it.tmsimg.com/assets/s123934_ll_h15_ab.png" group-title="United States" tvg-id="UNIVNWA" tvc-guide-stationid="123934",Noticias Univision 24/7
@@ -1019,3 +1005,17 @@ http://example.local/BRB-ONDTHS.ts
 http://example.local/DMA-ONDTHS.ts
 #EXTINF:-1 tvg-chno="107423" tvg-name="OnDIRECTV HD (South)" tvg-logo="https://zap2it.tmsimg.com/assets/s107423_ll_h15_aa.png" group-title="Grenada" tvg-id="ONDTHS" tvc-guide-stationid="107423",OnDIRECTV HD (South)
 http://example.local/GRD-ONDTHS.ts
+#EXTINF:-1 tvg-chno="107423" tvg-name="OnDIRECTV HD (South)" tvg-logo="https://zap2it.tmsimg.com/assets/s107423_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="ONDTHS" tvc-guide-stationid="107423",OnDIRECTV HD (South)
+http://example.local/ATG-ONDTHS.ts
+#EXTINF:-1 tvg-chno="107423" tvg-name="OnDIRECTV HD (South)" tvg-logo="https://zap2it.tmsimg.com/assets/s107423_ll_h15_aa.png" group-title="St. Lucia" tvg-id="ONDTHS" tvc-guide-stationid="107423",OnDIRECTV HD (South)
+http://example.local/LCA-ONDTHS.ts
+#EXTINF:-1 tvg-chno="107423" tvg-name="OnDIRECTV HD (South)" tvg-logo="https://zap2it.tmsimg.com/assets/s107423_ll_h15_aa.png" group-title="Curacao" tvg-id="ONDTHS" tvc-guide-stationid="107423",OnDIRECTV HD (South)
+http://example.local/CUW-ONDTHS.ts
+#EXTINF:-1 tvg-chno="107423" tvg-name="OnDIRECTV HD (South)" tvg-logo="https://zap2it.tmsimg.com/assets/s107423_ll_h15_aa.png" group-title="Aruba" tvg-id="ONDTHS" tvc-guide-stationid="107423",OnDIRECTV HD (South)
+http://example.local/ABW-ONDTHS.ts
+#EXTINF:-1 tvg-chno="107423" tvg-name="OnDIRECTV HD (South)" tvg-logo="https://zap2it.tmsimg.com/assets/s107423_ll_h15_aa.png" group-title="Anguilla" tvg-id="ONDTHS" tvc-guide-stationid="107423",OnDIRECTV HD (South)
+http://example.local/AIA-ONDTHS.ts
+#EXTINF:-1 tvg-chno="107423" tvg-name="OnDIRECTV HD (South)" tvg-logo="https://zap2it.tmsimg.com/assets/s107423_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="ONDTHS" tvc-guide-stationid="107423",OnDIRECTV HD (South)
+http://example.local/KNA-ONDTHS.ts
+#EXTINF:-1 tvg-chno="107423" tvg-name="OnDIRECTV HD (South)" tvg-logo="https://zap2it.tmsimg.com/assets/s107423_ll_h15_aa.png" group-title="Saint Martin" tvg-id="ONDTHS" tvc-guide-stationid="107423",OnDIRECTV HD (South)
+http://example.local/MAF-ONDTHS.ts

@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="99249" tvg-name="SRF Info HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99249_ll_h15_aa.png" group-title="Netherlands" tvg-id="SRFINHD" tvc-guide-stationid="99249",SRF Info HD
-http://example.local/NLD-SRFINHD.ts
-#EXTINF:-1 tvg-chno="99249" tvg-name="SRF Info HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99249_ll_h15_aa.png" group-title="Austria" tvg-id="SRFINHD" tvc-guide-stationid="99249",SRF Info HD
-http://example.local/AUT-SRFINHD.ts
-#EXTINF:-1 tvg-chno="99249" tvg-name="SRF Info HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99249_ll_h15_aa.png" group-title="Switzerland" tvg-id="SRFINHD" tvc-guide-stationid="99249",SRF Info HD
-http://example.local/CHE-SRFINHD.ts
-#EXTINF:-1 tvg-chno="97729" tvg-name="SRF Südthüringer Regionalfernsehen" tvg-logo="https://zap2it.tmsimg.com/assets/s97729_ll_h9_aa.png" group-title="Germany" tvg-id="SRFREG" tvc-guide-stationid="97729",SRF Südthüringer Regionalfernsehen
-http://example.local/DEU-SRFREG.ts
 #EXTINF:-1 tvg-chno="104980" tvg-name="SRF Südthüringer Regionalfernsehen HD" group-title="Germany" tvg-id="SRFSHD" tvc-guide-stationid="104980",SRF Südthüringer Regionalfernsehen HD
 http://example.local/DEU-SRFSHD.ts
 #EXTINF:-1 tvg-chno="53986" tvg-name="SRF zwei" tvg-logo="https://zap2it.tmsimg.com/assets/s53986_ll_h15_aa.png" group-title="Germany" tvg-id="SFZWEI" tvc-guide-stationid="53986",SRF zwei
@@ -1019,3 +1011,11 @@ http://example.local/LCA-STARSEE.ts
 http://example.local/LCA-STARSER.ts
 #EXTINF:-1 tvg-chno="17960" tvg-name="Star Series" tvg-logo="https://zap2it.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="St. Lucia" tvg-id="STARSO" tvc-guide-stationid="17960",Star Series
 http://example.local/LCA-STARSO.ts
+#EXTINF:-1 tvg-chno="60542" tvg-name="Star Series" tvg-logo="https://zap2it.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="St. Lucia" tvg-id="STARSHD" tvc-guide-stationid="60542",Star Series
+http://example.local/LCA-STARSHD.ts
+#EXTINF:-1 tvg-chno="64369" tvg-name="Star Series" tvg-logo="https://zap2it.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Curacao" tvg-id="STRSEHD" tvc-guide-stationid="64369",Star Series
+http://example.local/CUW-STRSEHD.ts
+#EXTINF:-1 tvg-chno="18401" tvg-name="Star Series" tvg-logo="https://zap2it.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Curacao" tvg-id="STARSEE" tvc-guide-stationid="18401",Star Series
+http://example.local/CUW-STARSEE.ts
+#EXTINF:-1 tvg-chno="17959" tvg-name="Star Series" tvg-logo="https://zap2it.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Curacao" tvg-id="STARSOE" tvc-guide-stationid="17959",Star Series
+http://example.local/CUW-STARSOE.ts

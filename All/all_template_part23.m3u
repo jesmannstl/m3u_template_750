@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="70506" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Aruba" tvg-id="DISJMXE" tvc-guide-stationid="70506",Disney Junior
-http://example.local/ABW-DISJMXE.ts
-#EXTINF:-1 tvg-chno="70506" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Anguilla" tvg-id="DISJMXE" tvc-guide-stationid="70506",Disney Junior
-http://example.local/AIA-DISJMXE.ts
-#EXTINF:-1 tvg-chno="70506" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="St. Kitts and Nevis" tvg-id="DISJMXE" tvc-guide-stationid="70506",Disney Junior
-http://example.local/KNA-DISJMXE.ts
-#EXTINF:-1 tvg-chno="74796" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s74796_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="DJCH" tvc-guide-stationid="74796",Disney Junior
-http://example.local/KNA-DJCH.ts
-#EXTINF:-1 tvg-chno="61311" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Saint Martin" tvg-id="DISNJMX" tvc-guide-stationid="61311",Disney Junior
-http://example.local/MAF-DISNJMX.ts
-#EXTINF:-1 tvg-chno="70506" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Saint Martin" tvg-id="DISJMXE" tvc-guide-stationid="70506",Disney Junior
-http://example.local/MAF-DISJMXE.ts
-#EXTINF:-1 tvg-chno="75003" tvg-name="Disney Junior (Pacific)" tvg-logo="https://logos.jesmann.com/djchp.png" group-title="United States" tvg-id="DJCHP" tvc-guide-stationid="75003",Disney Junior (Pacific)
-http://example.local/USA-DJCHP.ts
-#EXTINF:-1 tvg-chno="122163" tvg-name="Disney Junior (Wallonia)" tvg-logo="https://zap2it.tmsimg.com/assets/s122163_ll_h15_aa.png" group-title="Belgium" tvg-id="DISJRWA" tvc-guide-stationid="122163",Disney Junior (Wallonia)
-http://example.local/BEL-DISJRWA.ts
-#EXTINF:-1 tvg-chno="122743" tvg-name="Disney Junior (Wallonia) HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122743_ll_h15_aa.png" group-title="Belgium" tvg-id="DJRWAHD" tvc-guide-stationid="122743",Disney Junior (Wallonia) HD
-http://example.local/BEL-DJRWAHD.ts
-#EXTINF:-1 tvg-chno="87383" tvg-name="Disney Junior France HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87383_ll_h15_aa.png" group-title="France" tvg-id="DISJFRH" tvc-guide-stationid="87383",Disney Junior France HD
-http://example.local/FRA-DISJFRH.ts
-#EXTINF:-1 tvg-chno="87383" tvg-name="Disney Junior France HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87383_ll_h15_aa.png" group-title="Belgium" tvg-id="DISJFRH" tvc-guide-stationid="87383",Disney Junior France HD
-http://example.local/BEL-DISJFRH.ts
-#EXTINF:-1 tvg-chno="87383" tvg-name="Disney Junior France HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87383_ll_h15_aa.png" group-title="Switzerland" tvg-id="DISJFRH" tvc-guide-stationid="87383",Disney Junior France HD
-http://example.local/CHE-DISJFRH.ts
 #EXTINF:-1 tvg-chno="74885" tvg-name="Disney Junior HD" tvg-logo="https://zap2it.tmsimg.com/assets/s74885_ll_h15_ac.png" group-title="United States" tvg-id="DJCHHD" tvc-guide-stationid="74885",Disney Junior HD
 http://example.local/USA-DJCHHD.ts
 #EXTINF:-1 tvg-chno="119021" tvg-name="Disney Junior HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119021_ll_h15_aa.png" group-title="Belgium" tvg-id="DISJBEHD" tvc-guide-stationid="119021",Disney Junior HD
@@ -1019,3 +995,27 @@ http://example.local/BRB-HTSWEEP.ts
 http://example.local/USA-HOLHAP.ts
 #EXTINF:-1 tvg-chno="21420" tvg-name="DMX: Holiday & Happenings" tvg-logo="https://zap2it.tmsimg.com/assets/s21420_ll_h9_aa.png" group-title="Jamaica" tvg-id="HOLHAP" tvc-guide-stationid="21420",DMX: Holiday & Happenings
 http://example.local/JAM-HOLHAP.ts
+#EXTINF:-1 tvg-chno="66465" tvg-name="DMX: Honky Tonk Tavern" tvg-logo="https://zap2it.tmsimg.com/assets/s66465_ll_h9_aa.png" group-title="United States" tvg-id="HNKYTNK" tvc-guide-stationid="66465",DMX: Honky Tonk Tavern
+http://example.local/USA-HNKYTNK.ts
+#EXTINF:-1 tvg-chno="19009" tvg-name="DMX: Hot Country" group-title="United States" tvg-id="HOTC" tvc-guide-stationid="19009",DMX: Hot Country
+http://example.local/USA-HOTC.ts
+#EXTINF:-1 tvg-chno="19009" tvg-name="DMX: Hot Country" group-title="Cayman Islands" tvg-id="HOTC" tvc-guide-stationid="19009",DMX: Hot Country
+http://example.local/CYM-HOTC.ts
+#EXTINF:-1 tvg-chno="19009" tvg-name="DMX: Hot Country" group-title="Trinidad and Tobago" tvg-id="HOTC" tvc-guide-stationid="19009",DMX: Hot Country
+http://example.local/TTO-HOTC.ts
+#EXTINF:-1 tvg-chno="19009" tvg-name="DMX: Hot Country" group-title="Barbados" tvg-id="HOTC" tvc-guide-stationid="19009",DMX: Hot Country
+http://example.local/BRB-HOTC.ts
+#EXTINF:-1 tvg-chno="19681" tvg-name="DMX: Hot Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s19681_ll_h9_aa.png" group-title="United States" tvg-id="HOTHIT" tvc-guide-stationid="19681",DMX: Hot Hits
+http://example.local/USA-HOTHIT.ts
+#EXTINF:-1 tvg-chno="19681" tvg-name="DMX: Hot Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s19681_ll_h9_aa.png" group-title="Jamaica" tvg-id="HOTHIT" tvc-guide-stationid="19681",DMX: Hot Hits
+http://example.local/JAM-HOTHIT.ts
+#EXTINF:-1 tvg-chno="19681" tvg-name="DMX: Hot Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s19681_ll_h9_aa.png" group-title="Guatemala" tvg-id="HOTHIT" tvc-guide-stationid="19681",DMX: Hot Hits
+http://example.local/GTM-HOTHIT.ts
+#EXTINF:-1 tvg-chno="21419" tvg-name="DMX: Hot Jamz" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="HTJAMZ" tvc-guide-stationid="21419",DMX: Hot Jamz
+http://example.local/MEX-HTJAMZ.ts
+#EXTINF:-1 tvg-chno="21419" tvg-name="DMX: Hot Jamz" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="United States" tvg-id="HTJAMZ" tvc-guide-stationid="21419",DMX: Hot Jamz
+http://example.local/USA-HTJAMZ.ts
+#EXTINF:-1 tvg-chno="21419" tvg-name="DMX: Hot Jamz" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Peru" tvg-id="HTJAMZ" tvc-guide-stationid="21419",DMX: Hot Jamz
+http://example.local/PER-HTJAMZ.ts
+#EXTINF:-1 tvg-chno="21419" tvg-name="DMX: Hot Jamz" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Costa Rica" tvg-id="HTJAMZ" tvc-guide-stationid="21419",DMX: Hot Jamz
+http://example.local/CRI-HTJAMZ.ts

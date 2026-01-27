@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="22966" tvg-name="PPV - PPV536" group-title="United States" tvg-id="PPV536" tvc-guide-stationid="22966",PPV - PPV536
-http://example.local/USA-PPV536.ts
-#EXTINF:-1 tvg-chno="22967" tvg-name="PPV - PPV537" group-title="United States" tvg-id="PPV537" tvc-guide-stationid="22967",PPV - PPV537
-http://example.local/USA-PPV537.ts
-#EXTINF:-1 tvg-chno="22968" tvg-name="PPV - PPV538" group-title="United States" tvg-id="PPV538" tvc-guide-stationid="22968",PPV - PPV538
-http://example.local/USA-PPV538.ts
-#EXTINF:-1 tvg-chno="32301" tvg-name="PPV - PPV539" group-title="United States" tvg-id="PPV539" tvc-guide-stationid="32301",PPV - PPV539
-http://example.local/USA-PPV539.ts
-#EXTINF:-1 tvg-chno="68038" tvg-name="PPV - PPV540" group-title="United States" tvg-id="PPV540" tvc-guide-stationid="68038",PPV - PPV540
-http://example.local/USA-PPV540.ts
-#EXTINF:-1 tvg-chno="22970" tvg-name="PPV - PPV542" group-title="United States" tvg-id="PPV542" tvc-guide-stationid="22970",PPV - PPV542
-http://example.local/USA-PPV542.ts
-#EXTINF:-1 tvg-chno="22971" tvg-name="PPV - PPV543" group-title="United States" tvg-id="PPV543" tvc-guide-stationid="22971",PPV - PPV543
-http://example.local/USA-PPV543.ts
 #EXTINF:-1 tvg-chno="22972" tvg-name="PPV - PPV544" group-title="United States" tvg-id="PPV544" tvc-guide-stationid="22972",PPV - PPV544
 http://example.local/USA-PPV544.ts
 #EXTINF:-1 tvg-chno="22973" tvg-name="PPV - PPV545" group-title="United States" tvg-id="PPV545" tvc-guide-stationid="22973",PPV - PPV545
@@ -1019,3 +1005,17 @@ http://example.local/AUT-PULS24.ts
 http://example.local/DEU-PULSTV.ts
 #EXTINF:-1 tvg-chno="83943" tvg-name="Puls 4" tvg-logo="https://zap2it.tmsimg.com/assets/s83943_ll_h15_aa.png" group-title="Austria" tvg-id="PULSTV" tvc-guide-stationid="83943",Puls 4
 http://example.local/AUT-PULSTV.ts
+#EXTINF:-1 tvg-chno="88738" tvg-name="PULS 4 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88738_ll_h15_aa.png" group-title="Germany" tvg-id="PULS4HD" tvc-guide-stationid="88738",PULS 4 HD
+http://example.local/DEU-PULS4HD.ts
+#EXTINF:-1 tvg-chno="88738" tvg-name="PULS 4 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88738_ll_h15_aa.png" group-title="Austria" tvg-id="PULS4HD" tvc-guide-stationid="88738",PULS 4 HD
+http://example.local/AUT-PULS4HD.ts
+#EXTINF:-1 tvg-chno="98435" tvg-name="PULS 8" tvg-logo="https://zap2it.tmsimg.com/assets/s98435_ll_h15_aa.png" group-title="Switzerland" tvg-id="PULS8" tvc-guide-stationid="98435",PULS 8
+http://example.local/CHE-PULS8.ts
+#EXTINF:-1 tvg-chno="108565" tvg-name="Puls 8 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s108565_ll_h9_aa.png" group-title="Switzerland" tvg-id="PULS8HD" tvc-guide-stationid="108565",Puls 8 HD
+http://example.local/CHE-PULS8HD.ts
+#EXTINF:-1 tvg-chno="117419" tvg-name="Puls24" tvg-logo="https://zap2it.tmsimg.com/assets/s117419_ll_h15_aa.png" group-title="Austria" tvg-id="PULS24SD" tvc-guide-stationid="117419",Puls24
+http://example.local/AUT-PULS24SD.ts
+#EXTINF:-1 tvg-chno="95505" tvg-name="Pulse of Portland" tvg-logo="https://zap2it.tmsimg.com/assets/s95505_ll_h9_aa.png" group-title="United States" tvg-id="PCM29" tvc-guide-stationid="95505",Pulse of Portland
+http://example.local/USA-PCM29.ts
+#EXTINF:-1 tvg-chno="98525" tvg-name="Pulse of Portland HD" group-title="United States" tvg-id="PCMMEHD" tvc-guide-stationid="98525",Pulse of Portland HD
+http://example.local/USA-PCMMEHD.ts

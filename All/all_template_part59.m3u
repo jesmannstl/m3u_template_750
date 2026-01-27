@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="41465" tvg-name="KPTV-DT2 (COZITV)" tvg-logo="https://zap2it.tmsimg.com/assets/s78851_h3_aa.png" group-title="United States" tvg-id="KPTVDT2" tvc-guide-stationid="41465",KPTV-DT2 (COZITV)
-http://example.local/USA-KPTVDT2.ts
-#EXTINF:-1 tvg-chno="96891" tvg-name="KPTV-DT3 (DEFY)" tvg-logo="https://zap2it.tmsimg.com/assets/s159206_ll_h15_aa.png" group-title="United States" tvg-id="KPTVDT3" tvc-guide-stationid="96891",KPTV-DT3 (DEFY)
-http://example.local/USA-KPTVDT3.ts
-#EXTINF:-1 tvg-chno="113177" tvg-name="KPTV-DT4 (OXYGEN)" tvg-logo="https://zap2it.tmsimg.com/assets/s21484_ll_h15_ac.png" group-title="United States" tvg-id="KPTVDT4" tvc-guide-stationid="113177",KPTV-DT4 (OXYGEN)
-http://example.local/USA-KPTVDT4.ts
-#EXTINF:-1 tvg-chno="63194" tvg-name="KPTW-DT (PBS)" tvg-logo="https://logos.jesmann.com/kptwdt.png" group-title="United States" tvg-id="KPTWDT" tvc-guide-stationid="63194",KPTW-DT (PBS)
-http://example.local/USA-KPTWDT.ts
-#EXTINF:-1 tvg-chno="63195" tvg-name="KPTW-DT2 (CREATE)" tvg-logo="https://zap2it.tmsimg.com/assets/s48990_ll_h15_aa.png" group-title="United States" tvg-id="KPTWDT2" tvc-guide-stationid="63195",KPTW-DT2 (CREATE)
-http://example.local/USA-KPTWDT2.ts
-#EXTINF:-1 tvg-chno="107285" tvg-name="KPTW-DT3 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="United States" tvg-id="KPTWDT3" tvc-guide-stationid="107285",KPTW-DT3 (HD06)
-http://example.local/USA-KPTWDT3.ts
-#EXTINF:-1 tvg-chno="12454" tvg-name="KPVI (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_h3_ba.png" group-title="United States" tvg-id="KPVI" tvc-guide-stationid="12454",KPVI (NBC)
-http://example.local/USA-KPVI.ts
-#EXTINF:-1 tvg-chno="43019" tvg-name="KPVI-DT (NBC)" tvg-logo="https://logos.jesmann.com/kpvidt.png" group-title="United States" tvg-id="KPVIDT" tvc-guide-stationid="43019",KPVI-DT (NBC)
-http://example.local/USA-KPVIDT.ts
 #EXTINF:-1 tvg-chno="59506" tvg-name="KPVI-DT2 (CATCHYC)" tvg-logo="https://zap2it.tmsimg.com/assets/s91415_ll_h15_ab.png" group-title="United States" tvg-id="KPVIDT2" tvc-guide-stationid="59506",KPVI-DT2 (CATCHYC)
 http://example.local/USA-KPVIDT2.ts
 #EXTINF:-1 tvg-chno="59509" tvg-name="KPVI-DT3 (MVIES)" tvg-logo="https://zap2it.tmsimg.com/assets/s81275_h3_ba.png" group-title="United States" tvg-id="KPVIDT3" tvc-guide-stationid="59509",KPVI-DT3 (MVIES)
@@ -1019,3 +1003,19 @@ http://example.local/FRA-KRONETV.ts
 http://example.local/POL-KRONETV.ts
 #EXTINF:-1 tvg-chno="116245" tvg-name="krone.tv" tvg-logo="https://zap2it.tmsimg.com/assets/s116245_ll_h15_aa.png" group-title="Netherlands" tvg-id="KRONETV" tvc-guide-stationid="116245",krone.tv
 http://example.local/NLD-KRONETV.ts
+#EXTINF:-1 tvg-chno="116245" tvg-name="krone.tv" tvg-logo="https://zap2it.tmsimg.com/assets/s116245_ll_h15_aa.png" group-title="Austria" tvg-id="KRONETV" tvc-guide-stationid="116245",krone.tv
+http://example.local/AUT-KRONETV.ts
+#EXTINF:-1 tvg-chno="116245" tvg-name="krone.tv" tvg-logo="https://zap2it.tmsimg.com/assets/s116245_ll_h15_aa.png" group-title="Switzerland" tvg-id="KRONETV" tvc-guide-stationid="116245",krone.tv
+http://example.local/CHE-KRONETV.ts
+#EXTINF:-1 tvg-chno="117392" tvg-name="Krone.tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s117392_ll_h9_aa.png" group-title="Belgium" tvg-id="KRONEHD" tvc-guide-stationid="117392",Krone.tv HD
+http://example.local/BEL-KRONEHD.ts
+#EXTINF:-1 tvg-chno="117392" tvg-name="Krone.tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s117392_ll_h9_aa.png" group-title="Austria" tvg-id="KRONEHD" tvc-guide-stationid="117392",Krone.tv HD
+http://example.local/AUT-KRONEHD.ts
+#EXTINF:-1 tvg-chno="107103" tvg-name="KRONEHIT" tvg-logo="https://zap2it.tmsimg.com/assets/s107103_ll_h15_ab.png" group-title="Germany" tvg-id="KRONEHT" tvc-guide-stationid="107103",KRONEHIT
+http://example.local/DEU-KRONEHT.ts
+#EXTINF:-1 tvg-chno="134232" tvg-name="kronehit.tv" tvg-logo="https://zap2it.tmsimg.com/assets/s134232_ll_h9_aa.png" group-title="Austria" tvg-id="KRHITTV" tvc-guide-stationid="134232",kronehit.tv
+http://example.local/AUT-KRHITTV.ts
+#EXTINF:-1 tvg-chno="82480" tvg-name="KRPC-LD (HEARTHD)" tvg-logo="https://zap2it.tmsimg.com/assets/s78584_ll_h15_ab.png" group-title="United States" tvg-id="KRPCLD" tvc-guide-stationid="82480",KRPC-LD (HEARTHD)
+http://example.local/USA-KRPCLD.ts
+#EXTINF:-1 tvg-chno="82481" tvg-name="KRPC-LD2 (RETROTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s62660_h3_ba.png" group-title="United States" tvg-id="KRPCLD2" tvc-guide-stationid="82481",KRPC-LD2 (RETROTV)
+http://example.local/USA-KRPCLD2.ts

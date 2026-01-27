@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="93202" tvg-name="MDU 4" group-title="United States" tvg-id="MDU4" tvc-guide-stationid="93202",MDU 4
-http://example.local/USA-MDU4.ts
-#EXTINF:-1 tvg-chno="92598" tvg-name="MDU Camera Channel" group-title="United States" tvg-id="MDUC1" tvc-guide-stationid="92598",MDU Camera Channel
-http://example.local/USA-MDUC1.ts
-#EXTINF:-1 tvg-chno="93159" tvg-name="MDU Camera Channel" group-title="United States" tvg-id="MDUC3" tvc-guide-stationid="93159",MDU Camera Channel
-http://example.local/USA-MDUC3.ts
-#EXTINF:-1 tvg-chno="94376" tvg-name="MDU Camera Channel" group-title="United States" tvg-id="HDUC2" tvc-guide-stationid="94376",MDU Camera Channel
-http://example.local/USA-HDUC2.ts
-#EXTINF:-1 tvg-chno="77752" tvg-name="MDU Channel" group-title="United States" tvg-id="MDUC" tvc-guide-stationid="77752",MDU Channel
-http://example.local/USA-MDUC.ts
-#EXTINF:-1 tvg-chno="70436" tvg-name="Me TV Network" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" group-title="United States" tvg-id="METVN" tvc-guide-stationid="70436",Me TV Network
-http://example.local/USA-METVN.ts
-#EXTINF:-1 tvg-chno="70436" tvg-name="Me TV Network" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="METVN" tvc-guide-stationid="70436",Me TV Network
-http://example.local/BES-METVN.ts
 #EXTINF:-1 tvg-chno="78557" tvg-name="Me TV Network (Pacific) (METVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s70436_ll_h15_ac.png" group-title="United States" tvg-id="METVNP" tvc-guide-stationid="78557",Me TV Network (Pacific) (METVN)
 http://example.local/USA-METVNP.ts
 #EXTINF:-1 tvg-chno="108972" tvg-name="Me TV Network HD" group-title="United States" tvg-id="METVNHD" tvc-guide-stationid="108972",Me TV Network HD
@@ -1019,3 +1005,17 @@ http://example.local/CHE-MOBILES.ts
 http://example.local/DEU-MOCONOMY.ts
 #EXTINF:-1 tvg-chno="134893" tvg-name="Moconomy" tvg-logo="https://zap2it.tmsimg.com/assets/s134893_ll_h9_ab.png" group-title="United States" tvg-id="MOCONOMY" tvc-guide-stationid="134893",Moconomy
 http://example.local/USA-MOCONOMY.ts
+#EXTINF:-1 tvg-chno="134893" tvg-name="Moconomy" tvg-logo="https://zap2it.tmsimg.com/assets/s134893_ll_h9_ab.png" group-title="Switzerland" tvg-id="MOCONOMY" tvc-guide-stationid="134893",Moconomy
+http://example.local/CHE-MOCONOMY.ts
+#EXTINF:-1 tvg-chno="159923" tvg-name="Modern Innovations" group-title="United States" tvg-id="MODINNO" tvc-guide-stationid="159923",Modern Innovations
+http://example.local/USA-MODINNO.ts
+#EXTINF:-1 tvg-chno="123433" tvg-name="Modern Marvels" tvg-logo="https://zap2it.tmsimg.com/assets/s123433_ll_h15_ab.png" group-title="United States" tvg-id="MODMARV" tvc-guide-stationid="123433",Modern Marvels
+http://example.local/USA-MODMARV.ts
+#EXTINF:-1 tvg-chno="122542" tvg-name="Modern Marvels" tvg-logo="https://zap2it.tmsimg.com/assets/s123433_ll_h15_ab.png" group-title="United States" tvg-id="VIZMDML" tvc-guide-stationid="122542",Modern Marvels
+http://example.local/USA-VIZMDML.ts
+#EXTINF:-1 tvg-chno="154631" tvg-name="Modern Marvels" tvg-logo="https://zap2it.tmsimg.com/assets/s154631_ll_h15_aa.png" group-title="United Kingdom" tvg-id="MMINT" tvc-guide-stationid="154631",Modern Marvels
+http://example.local/GBR-MMINT.ts
+#EXTINF:-1 tvg-chno="94121" tvg-name="Modo Viagem" tvg-logo="https://zap2it.tmsimg.com/assets/s94121_ll_h15_ad.png" group-title="Brazil" tvg-id="MOVISD" tvc-guide-stationid="94121",Modo Viagem
+http://example.local/BRA-MOVISD.ts
+#EXTINF:-1 tvg-chno="74979" tvg-name="Modo Viagem" tvg-logo="https://zap2it.tmsimg.com/assets/s74979_ll_h15_ad.png" group-title="Brazil" tvg-id="MOVIHD" tvc-guide-stationid="74979",Modo Viagem
+http://example.local/BRA-MOVIHD.ts

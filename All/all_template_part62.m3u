@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="120502" tvg-name="KTVN-DT4 (IONPLUS)" tvg-logo="https://zap2it.tmsimg.com/assets/s55241_ll_h15_ad.png" group-title="United States" tvg-id="KTVNDT4" tvc-guide-stationid="120502",KTVN-DT4 (IONPLUS)
-http://example.local/USA-KTVNDT4.ts
-#EXTINF:-1 tvg-chno="120503" tvg-name="KTVN-DT5 (GRIT)" tvg-logo="https://zap2it.tmsimg.com/assets/s89922_h3_aa.png" group-title="United States" tvg-id="KTVNDT5" tvc-guide-stationid="120503",KTVN-DT5 (GRIT)
-http://example.local/USA-KTVNDT5.ts
-#EXTINF:-1 tvg-chno="10755" tvg-name="KTVO (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10755_ll_h9_aa.png" group-title="United States" tvg-id="KTVO" tvc-guide-stationid="10755",KTVO (ABC)
-http://example.local/USA-KTVO.ts
-#EXTINF:-1 tvg-chno="34831" tvg-name="KTVO-DT (ABC)" tvg-logo="https://logos.jesmann.com/ktvodt.png" group-title="United States" tvg-id="KTVODT" tvc-guide-stationid="34831",KTVO-DT (ABC)
-http://example.local/USA-KTVODT.ts
-#EXTINF:-1 tvg-chno="49407" tvg-name="KTVO-DT2 (CBS)" tvg-logo="https://logos.jesmann.com/ktvodt2.png" group-title="United States" tvg-id="KTVODT2" tvc-guide-stationid="49407",KTVO-DT2 (CBS)
-http://example.local/USA-KTVODT2.ts
-#EXTINF:-1 tvg-chno="87917" tvg-name="KTVO-DT2 (SD Feed) (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="United States" tvg-id="KTVO2SD" tvc-guide-stationid="87917",KTVO-DT2 (SD Feed) (CBS)
-http://example.local/USA-KTVO2SD.ts
-#EXTINF:-1 tvg-chno="97800" tvg-name="KTVO-DT3 (COMET)" tvg-logo="https://zap2it.tmsimg.com/assets/s97051_ll_h15_ab.png" group-title="United States" tvg-id="KTVODT3" tvc-guide-stationid="97800",KTVO-DT3 (COMET)
-http://example.local/USA-KTVODT3.ts
-#EXTINF:-1 tvg-chno="190419" tvg-name="KTVO-DT4 (CHARGE)" tvg-logo="https://zap2it.tmsimg.com/assets/s102148_ll_h15_ab.png" group-title="United States" tvg-id="KTVODT4" tvc-guide-stationid="190419",KTVO-DT4 (CHARGE)
-http://example.local/USA-KTVODT4.ts
 #EXTINF:-1 tvg-chno="71571" tvg-name="KTVP-LD (NTDA24)" tvg-logo="https://zap2it.tmsimg.com/assets/s118335_ll_h15_aa.png" group-title="United States" tvg-id="KTVPLD" tvc-guide-stationid="71571",KTVP-LD (NTDA24)
 http://example.local/USA-KTVPLD.ts
 #EXTINF:-1 tvg-chno="71805" tvg-name="KTVP-LD2 (SBND)" tvg-logo="https://zap2it.tmsimg.com/assets/s67676_ll_h15_aa.png" group-title="United States" tvg-id="KTVPLD2" tvc-guide-stationid="71805",KTVP-LD2 (SBND)
@@ -1019,3 +1003,19 @@ http://example.local/USA-KUVNDT4.ts
 http://example.local/USA-KUVNDT5.ts
 #EXTINF:-1 tvg-chno="10391" tvg-name="KUVS (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="United States" tvg-id="KUVS" tvc-guide-stationid="10391",KUVS (UNI)
 http://example.local/USA-KUVS.ts
+#EXTINF:-1 tvg-chno="34150" tvg-name="KUVS-DT (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="United States" tvg-id="KUVSDT" tvc-guide-stationid="34150",KUVS-DT (UNI)
+http://example.local/USA-KUVSDT.ts
+#EXTINF:-1 tvg-chno="34152" tvg-name="KUVS-DT2 (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_h3_aa.png" group-title="United States" tvg-id="KUVSDT2" tvc-guide-stationid="34152",KUVS-DT2 (UNIMAS)
+http://example.local/USA-KUVSDT2.ts
+#EXTINF:-1 tvg-chno="80155" tvg-name="KUVS-DT3 (BOUNCE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_ll_h15_ab.png" group-title="United States" tvg-id="KUVSDT3" tvc-guide-stationid="80155",KUVS-DT3 (BOUNCE)
+http://example.local/USA-KUVSDT3.ts
+#EXTINF:-1 tvg-chno="90192" tvg-name="KUVS-DT4 (IMYS)" tvg-logo="https://zap2it.tmsimg.com/assets/s89923_ll_h15_ad.png" group-title="United States" tvg-id="KUVSDT4" tvc-guide-stationid="90192",KUVS-DT4 (IMYS)
+http://example.local/USA-KUVSDT4.ts
+#EXTINF:-1 tvg-chno="44091" tvg-name="Kuwait TV" tvg-logo="https://zap2it.tmsimg.com/assets/s44091_ll_h6_aa.png" group-title="France" tvg-id="KUWAIT" tvc-guide-stationid="44091",Kuwait TV
+http://example.local/FRA-KUWAIT.ts
+#EXTINF:-1 tvg-chno="44091" tvg-name="Kuwait TV" tvg-logo="https://zap2it.tmsimg.com/assets/s44091_ll_h6_aa.png" group-title="United States" tvg-id="KUWAIT" tvc-guide-stationid="44091",Kuwait TV
+http://example.local/USA-KUWAIT.ts
+#EXTINF:-1 tvg-chno="118647" tvg-name="Kuwait TV HD" group-title="Poland" tvg-id="KUWAITHD" tvc-guide-stationid="118647",Kuwait TV HD
+http://example.local/POL-KUWAITHD.ts
+#EXTINF:-1 tvg-chno="118647" tvg-name="Kuwait TV HD" group-title="Belgium" tvg-id="KUWAITHD" tvc-guide-stationid="118647",Kuwait TV HD
+http://example.local/BEL-KUWAITHD.ts

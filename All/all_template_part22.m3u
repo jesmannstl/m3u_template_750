@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Panama" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
-http://example.local/PAN-DKNLM.ts
-#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Barbados" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
-http://example.local/BRB-DKNLM.ts
-#EXTINF:-1 tvg-chno="16665" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16665_ll_h15_aa.png" group-title="Barbados" tvg-id="DKNI" tvc-guide-stationid="16665",Discovery Kids
-http://example.local/BRB-DKNI.ts
-#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Dominica" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
-http://example.local/DMA-DKNLM.ts
-#EXTINF:-1 tvg-chno="16665" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16665_ll_h15_aa.png" group-title="British Virgin Islands" tvg-id="DKNI" tvc-guide-stationid="16665",Discovery Kids
-http://example.local/VGB-DKNI.ts
-#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
-http://example.local/VGB-DKNLM.ts
-#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Grenada" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
-http://example.local/GRD-DKNLM.ts
-#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Antigua and Barbuda" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
-http://example.local/ATG-DKNLM.ts
-#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="St. Lucia" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
-http://example.local/LCA-DKNLM.ts
-#EXTINF:-1 tvg-chno="16665" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16665_ll_h15_aa.png" group-title="Curacao" tvg-id="DKNI" tvc-guide-stationid="16665",Discovery Kids
-http://example.local/CUW-DKNI.ts
-#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Curacao" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
-http://example.local/CUW-DKNLM.ts
-#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Aruba" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
-http://example.local/ABW-DKNLM.ts
 #EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Anguilla" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
 http://example.local/AIA-DKNLM.ts
 #EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="St. Kitts and Nevis" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
@@ -1019,3 +995,27 @@ http://example.local/CUW-DISNJMX.ts
 http://example.local/CUW-DISJMXE.ts
 #EXTINF:-1 tvg-chno="61311" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Aruba" tvg-id="DISNJMX" tvc-guide-stationid="61311",Disney Junior
 http://example.local/ABW-DISNJMX.ts
+#EXTINF:-1 tvg-chno="70506" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Aruba" tvg-id="DISJMXE" tvc-guide-stationid="70506",Disney Junior
+http://example.local/ABW-DISJMXE.ts
+#EXTINF:-1 tvg-chno="70506" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Anguilla" tvg-id="DISJMXE" tvc-guide-stationid="70506",Disney Junior
+http://example.local/AIA-DISJMXE.ts
+#EXTINF:-1 tvg-chno="70506" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="St. Kitts and Nevis" tvg-id="DISJMXE" tvc-guide-stationid="70506",Disney Junior
+http://example.local/KNA-DISJMXE.ts
+#EXTINF:-1 tvg-chno="74796" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s74796_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="DJCH" tvc-guide-stationid="74796",Disney Junior
+http://example.local/KNA-DJCH.ts
+#EXTINF:-1 tvg-chno="61311" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Saint Martin" tvg-id="DISNJMX" tvc-guide-stationid="61311",Disney Junior
+http://example.local/MAF-DISNJMX.ts
+#EXTINF:-1 tvg-chno="70506" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Saint Martin" tvg-id="DISJMXE" tvc-guide-stationid="70506",Disney Junior
+http://example.local/MAF-DISJMXE.ts
+#EXTINF:-1 tvg-chno="75003" tvg-name="Disney Junior (Pacific)" tvg-logo="https://logos.jesmann.com/djchp.png" group-title="United States" tvg-id="DJCHP" tvc-guide-stationid="75003",Disney Junior (Pacific)
+http://example.local/USA-DJCHP.ts
+#EXTINF:-1 tvg-chno="122163" tvg-name="Disney Junior (Wallonia)" tvg-logo="https://zap2it.tmsimg.com/assets/s122163_ll_h15_aa.png" group-title="Belgium" tvg-id="DISJRWA" tvc-guide-stationid="122163",Disney Junior (Wallonia)
+http://example.local/BEL-DISJRWA.ts
+#EXTINF:-1 tvg-chno="122743" tvg-name="Disney Junior (Wallonia) HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122743_ll_h15_aa.png" group-title="Belgium" tvg-id="DJRWAHD" tvc-guide-stationid="122743",Disney Junior (Wallonia) HD
+http://example.local/BEL-DJRWAHD.ts
+#EXTINF:-1 tvg-chno="87383" tvg-name="Disney Junior France HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87383_ll_h15_aa.png" group-title="France" tvg-id="DISJFRH" tvc-guide-stationid="87383",Disney Junior France HD
+http://example.local/FRA-DISJFRH.ts
+#EXTINF:-1 tvg-chno="87383" tvg-name="Disney Junior France HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87383_ll_h15_aa.png" group-title="Belgium" tvg-id="DISJFRH" tvc-guide-stationid="87383",Disney Junior France HD
+http://example.local/BEL-DISJFRH.ts
+#EXTINF:-1 tvg-chno="87383" tvg-name="Disney Junior France HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87383_ll_h15_aa.png" group-title="Switzerland" tvg-id="DISJFRH" tvc-guide-stationid="87383",Disney Junior France HD
+http://example.local/CHE-DISJFRH.ts

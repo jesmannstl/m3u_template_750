@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="125365" tvg-name="Radio Vaticana Europa" group-title="Italy" tvg-id="RVATEUR" tvc-guide-stationid="125365",Radio Vaticana Europa
-http://example.local/ITA-RVATEUR.ts
-#EXTINF:-1 tvg-chno="84247" tvg-name="Radio Weser.tv" tvg-logo="https://zap2it.tmsimg.com/assets/s84247_ll_h9_aa.png" group-title="Germany" tvg-id="WESER" tvc-guide-stationid="84247",Radio Weser.tv
-http://example.local/DEU-WESER.ts
-#EXTINF:-1 tvg-chno="107824" tvg-name="Radio Westfalica" tvg-logo="https://zap2it.tmsimg.com/assets/s107824_ll_h9_aa.png" group-title="Germany" tvg-id="WFALICA" tvc-guide-stationid="107824",Radio Westfalica
-http://example.local/DEU-WFALICA.ts
-#EXTINF:-1 tvg-chno="82791" tvg-name="Radio WOSO 1030 AM" group-title="United States" tvg-id="WOSO" tvc-guide-stationid="82791",Radio WOSO 1030 AM
-http://example.local/USA-WOSO.ts
-#EXTINF:-1 tvg-chno="24447" tvg-name="Radio X" tvg-logo="https://zap2it.tmsimg.com/assets/s24447_ll_h15_ab.png" group-title="United Kingdom" tvg-id="XFM" tvc-guide-stationid="24447",Radio X
-http://example.local/GBR-XFM.ts
-#EXTINF:-1 tvg-chno="24447" tvg-name="Radio X" tvg-logo="https://zap2it.tmsimg.com/assets/s24447_ll_h15_ab.png" group-title="Ireland" tvg-id="XFM" tvc-guide-stationid="24447",Radio X
-http://example.local/IRL-XFM.ts
 #EXTINF:-1 tvg-chno="36479" tvg-name="Radio y Television de Veracruz (RTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s36479_ll_h15_aa.png" group-title="Mexico" tvg-id="RTVV" tvc-guide-stationid="36479",Radio y Television de Veracruz (RTV)
 http://example.local/MEX-RTVV.ts
 #EXTINF:-1 tvg-chno="107142" tvg-name="RADIO Z" tvg-logo="https://zap2it.tmsimg.com/assets/s107142_ll_h15_aa.png" group-title="Germany" tvg-id="RADIOZ" tvc-guide-stationid="107142",RADIO Z
@@ -1019,3 +1007,15 @@ http://example.local/BHS-REALPRM.ts
 http://example.local/JAM-XREAL2.ts
 #EXTINF:-1 tvg-chno="58711" tvg-name="Real XX5 - New Frontier" group-title="Puerto Rico" tvg-id="XREAL2" tvc-guide-stationid="58711",Real XX5 - New Frontier
 http://example.local/PRI-XREAL2.ts
+#EXTINF:-1 tvg-chno="58711" tvg-name="Real XX5 - New Frontier" group-title="Trinidad and Tobago" tvg-id="XREAL2" tvc-guide-stationid="58711",Real XX5 - New Frontier
+http://example.local/TTO-XREAL2.ts
+#EXTINF:-1 tvg-chno="58711" tvg-name="Real XX5 - New Frontier" group-title="Aruba" tvg-id="XREAL2" tvc-guide-stationid="58711",Real XX5 - New Frontier
+http://example.local/ABW-XREAL2.ts
+#EXTINF:-1 tvg-chno="62671" tvg-name="REAL-New Frontier Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s62671_ll_h15_aa.png" group-title="Costa Rica" tvg-id="XREALLA" tvc-guide-stationid="62671",REAL-New Frontier Spanish
+http://example.local/CRI-XREALLA.ts
+#EXTINF:-1 tvg-chno="62671" tvg-name="REAL-New Frontier Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s62671_ll_h15_aa.png" group-title="Guatemala" tvg-id="XREALLA" tvc-guide-stationid="62671",REAL-New Frontier Spanish
+http://example.local/GTM-XREALLA.ts
+#EXTINF:-1 tvg-chno="62671" tvg-name="REAL-New Frontier Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s62671_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="XREALLA" tvc-guide-stationid="62671",REAL-New Frontier Spanish
+http://example.local/DOM-XREALLA.ts
+#EXTINF:-1 tvg-chno="62671" tvg-name="REAL-New Frontier Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s62671_ll_h15_aa.png" group-title="Panama" tvg-id="XREALLA" tvc-guide-stationid="62671",REAL-New Frontier Spanish
+http://example.local/PAN-XREALLA.ts

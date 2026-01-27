@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="58711" tvg-name="Real XX5 - New Frontier" group-title="Trinidad and Tobago" tvg-id="XREAL2" tvc-guide-stationid="58711",Real XX5 - New Frontier
-http://example.local/TTO-XREAL2.ts
-#EXTINF:-1 tvg-chno="58711" tvg-name="Real XX5 - New Frontier" group-title="Aruba" tvg-id="XREAL2" tvc-guide-stationid="58711",Real XX5 - New Frontier
-http://example.local/ABW-XREAL2.ts
-#EXTINF:-1 tvg-chno="62671" tvg-name="REAL-New Frontier Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s62671_ll_h15_aa.png" group-title="Costa Rica" tvg-id="XREALLA" tvc-guide-stationid="62671",REAL-New Frontier Spanish
-http://example.local/CRI-XREALLA.ts
-#EXTINF:-1 tvg-chno="62671" tvg-name="REAL-New Frontier Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s62671_ll_h15_aa.png" group-title="Guatemala" tvg-id="XREALLA" tvc-guide-stationid="62671",REAL-New Frontier Spanish
-http://example.local/GTM-XREALLA.ts
-#EXTINF:-1 tvg-chno="62671" tvg-name="REAL-New Frontier Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s62671_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="XREALLA" tvc-guide-stationid="62671",REAL-New Frontier Spanish
-http://example.local/DOM-XREALLA.ts
-#EXTINF:-1 tvg-chno="62671" tvg-name="REAL-New Frontier Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s62671_ll_h15_aa.png" group-title="Panama" tvg-id="XREALLA" tvc-guide-stationid="62671",REAL-New Frontier Spanish
-http://example.local/PAN-XREALLA.ts
 #EXTINF:-1 tvg-chno="62671" tvg-name="REAL-New Frontier Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s62671_ll_h15_aa.png" group-title="Curacao" tvg-id="XREALLA" tvc-guide-stationid="62671",REAL-New Frontier Spanish
 http://example.local/CUW-XREALLA.ts
 #EXTINF:-1 tvg-chno="152371" tvg-name="REAL.LIFE +2" tvg-logo="https://zap2it.tmsimg.com/assets/s152371_ll_h9_aa.png" group-title="Australia" tvg-id="REAL2ANZ" tvc-guide-stationid="152371",REAL.LIFE +2
@@ -159,6 +147,8 @@ http://example.local/BRA-RECPAHD.ts
 http://example.local/URY-RECPAHD.ts
 #EXTINF:-1 tvg-chno="104206" tvg-name="RecordTV Rio HD (RREC)" tvg-logo="https://zap2it.tmsimg.com/assets/s104206_ll_h15_ab.png" group-title="Brazil" tvg-id="RECRIOH" tvc-guide-stationid="104206",RecordTV Rio HD (RREC)
 http://example.local/BRA-RECRIOH.ts
+#EXTINF:-1 tvg-chno="104761" tvg-name="RECSPHD (RREC)" tvg-logo="https://zap2it.tmsimg.com/assets/s104761_ll_h15_ab.png" group-title="Brazil" tvg-id="RECSPHD" tvc-guide-stationid="104761",RECSPHD (RREC)
+http://example.local/BRA-RECSPHD.ts
 #EXTINF:-1 tvg-chno="123954" tvg-name="Red Bull Batalla" tvg-logo="https://zap2it.tmsimg.com/assets/s123954_ll_h15_ab.png" group-title="Mexico" tvg-id="REDBB" tvc-guide-stationid="123954",Red Bull Batalla
 http://example.local/MEX-REDBB.ts
 #EXTINF:-1 tvg-chno="123954" tvg-name="Red Bull Batalla" tvg-logo="https://zap2it.tmsimg.com/assets/s123954_ll_h15_ab.png" group-title="Spain" tvg-id="REDBB" tvc-guide-stationid="123954",Red Bull Batalla
@@ -1019,3 +1009,13 @@ http://example.local/ABW-ROCKALT.ts
 http://example.local/DEU-RCKANT.ts
 #EXTINF:-1 tvg-chno="106137" tvg-name="Rock Antenne" group-title="Germany" tvg-id="ROCKAN" tvc-guide-stationid="106137",Rock Antenne
 http://example.local/DEU-ROCKAN.ts
+#EXTINF:-1 tvg-chno="107884" tvg-name="Rock Antenne" tvg-logo="https://zap2it.tmsimg.com/assets/s107884_ll_h15_aa.png" group-title="Austria" tvg-id="RCKANT" tvc-guide-stationid="107884",Rock Antenne
+http://example.local/AUT-RCKANT.ts
+#EXTINF:-1 tvg-chno="107798" tvg-name="ROCK ANTENNE Lokalradio" tvg-logo="https://zap2it.tmsimg.com/assets/s107798_ll_h15_aa.png" group-title="Germany" tvg-id="ROCKALR" tvc-guide-stationid="107798",ROCK ANTENNE Lokalradio
+http://example.local/DEU-ROCKALR.ts
+#EXTINF:-1 tvg-chno="75989" tvg-name="ROCK EN VINILO" group-title="Dominican Republic" tvg-id="ROCKVI" tvc-guide-stationid="75989",ROCK EN VINILO
+http://example.local/DOM-ROCKVI.ts
+#EXTINF:-1 tvg-chno="94142" tvg-name="Rock Falls Programming" group-title="United States" tvg-id="LCLRF" tvc-guide-stationid="94142",Rock Falls Programming
+http://example.local/USA-LCLRF.ts
+#EXTINF:-1 tvg-chno="152303" tvg-name="ROCK FM" tvg-logo="https://zap2it.tmsimg.com/assets/s152303_ll_h15_aa.png" group-title="Germany" tvg-id="ROCKFMDE" tvc-guide-stationid="152303",ROCK FM
+http://example.local/DEU-ROCKFMDE.ts

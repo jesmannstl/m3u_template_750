@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="62077" tvg-name="HSN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s62077_ll_h15_ab.png" group-title="United States" tvg-id="HSNHD" tvc-guide-stationid="62077",HSN HD
-http://example.local/USA-HSNHD.ts
-#EXTINF:-1 tvg-chno="110457" tvg-name="HSN HD" group-title="United States" tvg-id="HSNH" tvc-guide-stationid="110457",HSN HD
-http://example.local/USA-HSNH.ts
-#EXTINF:-1 tvg-chno="138142" tvg-name="HSN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s62077_ll_h15_ab.png" group-title="United States" tvg-id="HSNSTR" tvc-guide-stationid="138142",HSN HD
-http://example.local/USA-HSNSTR.ts
-#EXTINF:-1 tvg-chno="119102" tvg-name="HSN Samsung" group-title="United States" tvg-id="VIZHSN" tvc-guide-stationid="119102",HSN Samsung
-http://example.local/USA-VIZHSN.ts
-#EXTINF:-1 tvg-chno="10270" tvg-name="HSN2" tvg-logo="https://zap2it.tmsimg.com/assets/s10270_h3_aa.png" group-title="United States" tvg-id="HSN2" tvc-guide-stationid="10270",HSN2
-http://example.local/USA-HSN2.ts
-#EXTINF:-1 tvg-chno="99450" tvg-name="HSN2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99450_ll_h15_ac.png" group-title="United States" tvg-id="HSN2HD" tvc-guide-stationid="99450",HSN2 HD
-http://example.local/USA-HSN2HD.ts
-#EXTINF:-1 tvg-chno="166031" tvg-name="HT SPOR" group-title="Germany" tvg-id="HTSPOR" tvc-guide-stationid="166031",HT SPOR
-http://example.local/DEU-HTSPOR.ts
-#EXTINF:-1 tvg-chno="168744" tvg-name="HT Spor HD" tvg-logo="https://zap2it.tmsimg.com/assets/s168744_ll_h9_aa.png" group-title="Germany" tvg-id="HTSPOHD" tvc-guide-stationid="168744",HT Spor HD
-http://example.local/DEU-HTSPOHD.ts
-#EXTINF:-1 tvg-chno="113321" tvg-name="HT1 Innviertel" group-title="France" tvg-id="HT1INN" tvc-guide-stationid="113321",HT1 Innviertel
-http://example.local/FRA-HT1INN.ts
 #EXTINF:-1 tvg-chno="113321" tvg-name="HT1 Innviertel" group-title="Spain" tvg-id="HT1INN" tvc-guide-stationid="113321",HT1 Innviertel
 http://example.local/ESP-HT1INN.ts
 #EXTINF:-1 tvg-chno="113321" tvg-name="HT1 Innviertel" group-title="Belgium" tvg-id="HT1INN" tvc-guide-stationid="113321",HT1 Innviertel
@@ -641,6 +623,8 @@ http://example.local/IRL-IDEASKY.ts
 http://example.local/GBR-IDLFV.ts
 #EXTINF:-1 tvg-chno="141295" tvg-name="IDEALTV" tvg-logo="https://zap2it.tmsimg.com/assets/s164803_ll_h15_aa.png" group-title="United States" tvg-id="IDEALEC" tvc-guide-stationid="141295",IDEALTV
 http://example.local/USA-IDEALEC.ts
+#EXTINF:-1 tvg-chno="83371" tvg-name="IDSWE" tvg-logo="https://zap2it.tmsimg.com/assets/s83371_ll_h15_ac.png" group-title="Sweden" tvg-id="IDSWE" tvc-guide-stationid="83371",IDSWE
+http://example.local/SWE-IDSWE.ts
 #EXTINF:-1 tvg-chno="14873" tvg-name="IFC" tvg-logo="https://zap2it.tmsimg.com/assets/s14873_ll_h15_ac.png" group-title="United States" tvg-id="IFC" tvc-guide-stationid="14873",IFC
 http://example.local/USA-IFC.ts
 #EXTINF:-1 tvg-chno="14873" tvg-name="IFC" tvg-logo="https://zap2it.tmsimg.com/assets/s14873_ll_h15_ac.png" group-title="Bermuda" tvg-id="IFC" tvc-guide-stationid="14873",IFC
@@ -1019,3 +1003,19 @@ http://example.local/USA-INFO694.ts
 http://example.local/USA-INFO695.ts
 #EXTINF:-1 tvg-chno="83367" tvg-name="Information Channel - INFO696" group-title="United States" tvg-id="INFO696" tvc-guide-stationid="83367",Information Channel - INFO696
 http://example.local/USA-INFO696.ts
+#EXTINF:-1 tvg-chno="83368" tvg-name="Information Channel - INFO697" group-title="United States" tvg-id="INFO697" tvc-guide-stationid="83368",Information Channel - INFO697
+http://example.local/USA-INFO697.ts
+#EXTINF:-1 tvg-chno="83369" tvg-name="Information Channel - INFO698" group-title="United States" tvg-id="INFO698" tvc-guide-stationid="83369",Information Channel - INFO698
+http://example.local/USA-INFO698.ts
+#EXTINF:-1 tvg-chno="35408" tvg-name="Information Channel - INFO699" group-title="United States" tvg-id="INFO699" tvc-guide-stationid="35408",Information Channel - INFO699
+http://example.local/USA-INFO699.ts
+#EXTINF:-1 tvg-chno="59079" tvg-name="Information Channel - INFO7040" group-title="United States" tvg-id="INFO7040" tvc-guide-stationid="59079",Information Channel - INFO7040
+http://example.local/USA-INFO7040.ts
+#EXTINF:-1 tvg-chno="83354" tvg-name="Information Channel - INFO791" group-title="United States" tvg-id="INFO791" tvc-guide-stationid="83354",Information Channel - INFO791
+http://example.local/USA-INFO791.ts
+#EXTINF:-1 tvg-chno="83356" tvg-name="Information Channel - INFO792" group-title="United States" tvg-id="INFO792" tvc-guide-stationid="83356",Information Channel - INFO792
+http://example.local/USA-INFO792.ts
+#EXTINF:-1 tvg-chno="83357" tvg-name="Information Channel - INFO793" group-title="United States" tvg-id="INFO793" tvc-guide-stationid="83357",Information Channel - INFO793
+http://example.local/USA-INFO793.ts
+#EXTINF:-1 tvg-chno="83358" tvg-name="Information Channel - INFO794" group-title="United States" tvg-id="INFO794" tvc-guide-stationid="83358",Information Channel - INFO794
+http://example.local/USA-INFO794.ts

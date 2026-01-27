@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="11387" tvg-name="WDIV (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="Canada" tvg-id="WDIV" tvc-guide-stationid="11387",WDIV (NBC)
-http://example.local/CAN-WDIV.ts
 #EXTINF:-1 tvg-chno="20359" tvg-name="WDIV-DT (NBC)" tvg-logo="https://logos.jesmann.com/wdivdt.png" group-title="Canada" tvg-id="WDIVDT" tvc-guide-stationid="20359",WDIV-DT (NBC)
 http://example.local/CAN-WDIVDT.ts
 #EXTINF:-1 tvg-chno="35449" tvg-name="WDIV-DT2 (HEROICN)" tvg-logo="https://zap2it.tmsimg.com/assets/s90401_ll_h15_ad.png" group-title="Canada" tvg-id="WDIVDT2" tvc-guide-stationid="35449",WDIV-DT2 (HEROICN)
@@ -1019,3 +1017,5 @@ http://example.local/CAN-CKCSDT.ts
 http://example.local/CAN-CITS.ts
 #EXTINF:-1 tvg-chno="60344" tvg-name="YesTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60344_ll_h15_aa.png" group-title="Canada" tvg-id="CITSDT" tvc-guide-stationid="60344",YesTV HD
 http://example.local/CAN-CITSDT.ts
+#EXTINF:-1 tvg-chno="87651" tvg-name="Your Home Channel" group-title="Canada" tvg-id="YHC" tvc-guide-stationid="87651",Your Home Channel
+http://example.local/CAN-YHC.ts

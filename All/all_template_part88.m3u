@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="104190" tvg-name="SBS Eastern (SBSAU)" tvg-logo="https://zap2it.tmsimg.com/assets/s104190_ll_h9_ac.png" group-title="Australia" tvg-id="SBSEANZ" tvc-guide-stationid="104190",SBS Eastern (SBSAU)
-http://example.local/AUS-SBSEANZ.ts
-#EXTINF:-1 tvg-chno="104237" tvg-name="SBS Food NSW (SBSAU)" tvg-logo="https://zap2it.tmsimg.com/assets/s104237_ll_h9_bb.png" group-title="Australia" tvg-id="FNSWANZ" tvc-guide-stationid="104237",SBS Food NSW (SBSAU)
-http://example.local/AUS-FNSWANZ.ts
-#EXTINF:-1 tvg-chno="104238" tvg-name="SBS Food NT (SBSAU)" tvg-logo="https://zap2it.tmsimg.com/assets/s104238_ll_h9_bb.png" group-title="Australia" tvg-id="FNTANZ" tvc-guide-stationid="104238",SBS Food NT (SBSAU)
-http://example.local/AUS-FNTANZ.ts
-#EXTINF:-1 tvg-chno="104239" tvg-name="SBS Food QLD (SBSAU)" tvg-logo="https://zap2it.tmsimg.com/assets/s104239_ll_h9_bb.png" group-title="Australia" tvg-id="FQLDANZ" tvc-guide-stationid="104239",SBS Food QLD (SBSAU)
-http://example.local/AUS-FQLDANZ.ts
-#EXTINF:-1 tvg-chno="104240" tvg-name="SBS Food SA (SBSAU)" tvg-logo="https://zap2it.tmsimg.com/assets/s104240_ll_h9_bb.png" group-title="Australia" tvg-id="FSAANZ" tvc-guide-stationid="104240",SBS Food SA (SBSAU)
-http://example.local/AUS-FSAANZ.ts
 #EXTINF:-1 tvg-chno="104285" tvg-name="SBS Food TAS (SBSAU)" tvg-logo="https://zap2it.tmsimg.com/assets/s104285_ll_h9_bb.png" group-title="Australia" tvg-id="FTASANZ" tvc-guide-stationid="104285",SBS Food TAS (SBSAU)
 http://example.local/AUS-FTASANZ.ts
 #EXTINF:-1 tvg-chno="104287" tvg-name="SBS Food VIC (SBSAU)" tvg-logo="https://zap2it.tmsimg.com/assets/s104287_ll_h9_bb.png" group-title="Australia" tvg-id="FVICANZ" tvc-guide-stationid="104287",SBS Food VIC (SBSAU)
@@ -203,6 +193,8 @@ http://example.local/BRA-ZYB855.ts
 http://example.local/BRA-SBTPAL.ts
 #EXTINF:-1 tvg-chno="109709" tvg-name="SBT Tocantins HD (SBT)" tvg-logo="https://zap2it.tmsimg.com/assets/s109709_ll_h15_aa.png" group-title="Brazil" tvg-id="SBTPAHD" tvc-guide-stationid="109709",SBT Tocantins HD (SBT)
 http://example.local/BRA-SBTPAHD.ts
+#EXTINF:-1 tvg-chno="104214" tvg-name="SBTSPHD (SBT)" tvg-logo="https://zap2it.tmsimg.com/assets/s104214_ll_h15_aa.png" group-title="Brazil" tvg-id="SBTSPHD" tvc-guide-stationid="104214",SBTSPHD (SBT)
+http://example.local/BRA-SBTSPHD.ts
 #EXTINF:-1 tvg-chno="93449" tvg-name="Scan" group-title="United States" tvg-id="SCANPUB" tvc-guide-stationid="93449",Scan
 http://example.local/USA-SCANPUB.ts
 #EXTINF:-1 tvg-chno="96834" tvg-name="Scan" group-title="United States" tvg-id="SCNPUBA" tvc-guide-stationid="96834",Scan
@@ -1019,3 +1011,11 @@ http://example.local/CAN-PVNHL1A.ts
 http://example.local/CAN-PVNHL1C.ts
 #EXTINF:-1 tvg-chno="100130" tvg-name="Shaw PPV NHL 01C HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100130_ll_h15_aa.png" group-title="Canada" tvg-id="PVNL1CH" tvc-guide-stationid="100130",Shaw PPV NHL 01C HD
 http://example.local/CAN-PVNL1CH.ts
+#EXTINF:-1 tvg-chno="73347" tvg-name="Shaw PPV NHL 01D" tvg-logo="https://zap2it.tmsimg.com/assets/s73347_ll_h15_aa.png" group-title="Canada" tvg-id="PVNHL1D" tvc-guide-stationid="73347",Shaw PPV NHL 01D
+http://example.local/CAN-PVNHL1D.ts
+#EXTINF:-1 tvg-chno="71212" tvg-name="Shaw PPV NHL 03A" tvg-logo="https://zap2it.tmsimg.com/assets/s71212_ll_h15_aa.png" group-title="Canada" tvg-id="PVNHL3A" tvc-guide-stationid="71212",Shaw PPV NHL 03A
+http://example.local/CAN-PVNHL3A.ts
+#EXTINF:-1 tvg-chno="73346" tvg-name="Shaw PPV NHL 03D" tvg-logo="https://zap2it.tmsimg.com/assets/s73346_ll_h15_aa.png" group-title="Canada" tvg-id="PVNHL3D" tvc-guide-stationid="73346",Shaw PPV NHL 03D
+http://example.local/CAN-PVNHL3D.ts
+#EXTINF:-1 tvg-chno="71214" tvg-name="Shaw PPV Sport 01A" tvg-logo="https://zap2it.tmsimg.com/assets/s71214_ll_h15_aa.png" group-title="Canada" tvg-id="PPVS01A" tvc-guide-stationid="71214",Shaw PPV Sport 01A
+http://example.local/CAN-PPVS01A.ts

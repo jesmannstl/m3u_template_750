@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="73245" tvg-name="Telemundo Television Network HD (TELE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73245_h3_aa.png" group-title="United States" tvg-id="TELMUHD" tvc-guide-stationid="73245",Telemundo Television Network HD (TELE)
-http://example.local/USA-TELMUHD.ts
-#EXTINF:-1 tvg-chno="136700" tvg-name="Telemundo Texas" tvg-logo="https://zap2it.tmsimg.com/assets/s136700_ll_h15_aa.png" group-title="United States" tvg-id="KTMDF" tvc-guide-stationid="136700",Telemundo Texas
-http://example.local/USA-KTMDF.ts
-#EXTINF:-1 tvg-chno="48523" tvg-name="TeleN" tvg-logo="https://zap2it.tmsimg.com/assets/s48523_ll_h15_aa.png" group-title="United States" tvg-id="TELEN" tvc-guide-stationid="48523",TeleN
-http://example.local/USA-TELEN.ts
-#EXTINF:-1 tvg-chno="48523" tvg-name="TeleN" tvg-logo="https://zap2it.tmsimg.com/assets/s48523_ll_h15_aa.png" group-title="Colombia" tvg-id="TELEN" tvc-guide-stationid="48523",TeleN
-http://example.local/COL-TELEN.ts
 #EXTINF:-1 tvg-chno="48523" tvg-name="TeleN" tvg-logo="https://zap2it.tmsimg.com/assets/s48523_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="TELEN" tvc-guide-stationid="48523",TeleN
 http://example.local/PRI-TELEN.ts
 #EXTINF:-1 tvg-chno="48523" tvg-name="TeleN" tvg-logo="https://zap2it.tmsimg.com/assets/s48523_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="TELEN" tvc-guide-stationid="48523",TeleN
@@ -1019,3 +1011,11 @@ http://example.local/PER-GOLFLAH.ts
 http://example.local/ARG-GOLFLAH.ts
 #EXTINF:-1 tvg-chno="101736" tvg-name="The Golf Channel Latinoamerica HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61033_ll_h15_ab.png" group-title="Jamaica" tvg-id="GOLFLAH" tvc-guide-stationid="101736",The Golf Channel Latinoamerica HD
 http://example.local/JAM-GOLFLAH.ts
+#EXTINF:-1 tvg-chno="101736" tvg-name="The Golf Channel Latinoamerica HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61033_ll_h15_ab.png" group-title="Venezuela" tvg-id="GOLFLAH" tvc-guide-stationid="101736",The Golf Channel Latinoamerica HD
+http://example.local/VEN-GOLFLAH.ts
+#EXTINF:-1 tvg-chno="101736" tvg-name="The Golf Channel Latinoamerica HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61033_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="GOLFLAH" tvc-guide-stationid="101736",The Golf Channel Latinoamerica HD
+http://example.local/PRI-GOLFLAH.ts
+#EXTINF:-1 tvg-chno="101736" tvg-name="The Golf Channel Latinoamerica HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61033_ll_h15_ab.png" group-title="Guatemala" tvg-id="GOLFLAH" tvc-guide-stationid="101736",The Golf Channel Latinoamerica HD
+http://example.local/GTM-GOLFLAH.ts
+#EXTINF:-1 tvg-chno="101736" tvg-name="The Golf Channel Latinoamerica HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61033_ll_h15_ab.png" group-title="Ecuador" tvg-id="GOLFLAH" tvc-guide-stationid="101736",The Golf Channel Latinoamerica HD
+http://example.local/ECU-GOLFLAH.ts

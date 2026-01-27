@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Belize" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
-http://example.local/BLZ-TCM.ts
-#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Barbados" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
-http://example.local/BRB-TCM.ts
-#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
-http://example.local/VGB-TCM.ts
 #EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="St. Lucia" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
 http://example.local/LCA-TCM.ts
 #EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Curacao" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
@@ -1019,3 +1013,9 @@ http://example.local/DNK-TV2NWS.ts
 http://example.local/DNK-TV2NSHD.ts
 #EXTINF:-1 tvg-chno="90780" tvg-name="TV2 Sport 1" tvg-logo="https://zap2it.tmsimg.com/assets/s90780_ll_h15_ab.png" group-title="Norway" tvg-id="TV2SP1" tvc-guide-stationid="90780",TV2 Sport 1
 http://example.local/NOR-TV2SP1.ts
+#EXTINF:-1 tvg-chno="90782" tvg-name="TV2 Sport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s90782_ll_h9_ab.png" group-title="Norway" tvg-id="TV2SP2" tvc-guide-stationid="90782",TV2 Sport 2
+http://example.local/NOR-TV2SP2.ts
+#EXTINF:-1 tvg-chno="90776" tvg-name="TV2 Sport Premium 1" tvg-logo="https://zap2it.tmsimg.com/assets/s90776_ll_h15_ab.png" group-title="Norway" tvg-id="TV2SPT1" tvc-guide-stationid="90776",TV2 Sport Premium 1
+http://example.local/NOR-TV2SPT1.ts
+#EXTINF:-1 tvg-chno="90778" tvg-name="TV2 Sport Premium 2" tvg-logo="https://zap2it.tmsimg.com/assets/s90778_ll_h15_ac.png" group-title="Norway" tvg-id="TV2SPR2" tvc-guide-stationid="90778",TV2 Sport Premium 2
+http://example.local/NOR-TV2SPR2.ts

@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="90277" tvg-name="Paramount Network Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s90277_ll_h15_ab.png" group-title="Barbados" tvg-id="PARCAR" tvc-guide-stationid="90277",Paramount Network Caribbean
-http://example.local/BRB-PARCAR.ts
-#EXTINF:-1 tvg-chno="59186" tvg-name="Paramount Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59186_ll_h15_ac.png" group-title="United States" tvg-id="PARHD" tvc-guide-stationid="59186",Paramount Network HD
-http://example.local/USA-PARHD.ts
-#EXTINF:-1 tvg-chno="59186" tvg-name="Paramount Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59186_ll_h15_ac.png" group-title="Jamaica" tvg-id="PARHD" tvc-guide-stationid="59186",Paramount Network HD
-http://example.local/JAM-PARHD.ts
-#EXTINF:-1 tvg-chno="59186" tvg-name="Paramount Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59186_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="PARHD" tvc-guide-stationid="59186",Paramount Network HD
-http://example.local/TTO-PARHD.ts
-#EXTINF:-1 tvg-chno="59186" tvg-name="Paramount Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59186_ll_h15_ac.png" group-title="Saint Vincent and the Grenadines" tvg-id="PARHD" tvc-guide-stationid="59186",Paramount Network HD
-http://example.local/VCT-PARHD.ts
-#EXTINF:-1 tvg-chno="59186" tvg-name="Paramount Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59186_ll_h15_ac.png" group-title="Belize" tvg-id="PARHD" tvc-guide-stationid="59186",Paramount Network HD
-http://example.local/BLZ-PARHD.ts
-#EXTINF:-1 tvg-chno="59186" tvg-name="Paramount Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59186_ll_h15_ac.png" group-title="Barbados" tvg-id="PARHD" tvc-guide-stationid="59186",Paramount Network HD
-http://example.local/BRB-PARHD.ts
 #EXTINF:-1 tvg-chno="59186" tvg-name="Paramount Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59186_ll_h15_ac.png" group-title="Dominica" tvg-id="PARHD" tvc-guide-stationid="59186",Paramount Network HD
 http://example.local/DMA-PARHD.ts
 #EXTINF:-1 tvg-chno="59186" tvg-name="Paramount Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59186_ll_h15_ac.png" group-title="Grenada" tvg-id="PARHD" tvc-guide-stationid="59186",Paramount Network HD
@@ -1019,3 +1005,17 @@ http://example.local/MEX-PLFUT1H.ts
 http://example.local/BLZ-PLFUT1H.ts
 #EXTINF:-1 tvg-chno="80443" tvg-name="Planeta Fútbol 2" group-title="Panama" tvg-id="PLFUT2" tvc-guide-stationid="80443",Planeta Fútbol 2
 http://example.local/PAN-PLFUT2.ts
+#EXTINF:-1 tvg-chno="52518" tvg-name="PLANETE+" tvg-logo="https://zap2it.tmsimg.com/assets/s52518_ll_h15_aa.png" group-title="Germany" tvg-id="PLANTPL" tvc-guide-stationid="52518",PLANETE+
+http://example.local/DEU-PLANTPL.ts
+#EXTINF:-1 tvg-chno="52518" tvg-name="PLANETE+" tvg-logo="https://zap2it.tmsimg.com/assets/s52518_ll_h15_aa.png" group-title="Switzerland" tvg-id="PLANTPL" tvc-guide-stationid="52518",PLANETE+
+http://example.local/CHE-PLANTPL.ts
+#EXTINF:-1 tvg-chno="87492" tvg-name="PLANETE+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87492_ll_h9_ac.png" group-title="France" tvg-id="PLANETH" tvc-guide-stationid="87492",PLANETE+ HD
+http://example.local/FRA-PLANETH.ts
+#EXTINF:-1 tvg-chno="118302" tvg-name="PLANETE+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118302_ll_h15_aa.png" group-title="Poland" tvg-id="PLANEPL" tvc-guide-stationid="118302",PLANETE+ HD
+http://example.local/POL-PLANEPL.ts
+#EXTINF:-1 tvg-chno="87492" tvg-name="PLANETE+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87492_ll_h9_ac.png" group-title="Belgium" tvg-id="PLANETH" tvc-guide-stationid="87492",PLANETE+ HD
+http://example.local/BEL-PLANETH.ts
+#EXTINF:-1 tvg-chno="87492" tvg-name="PLANETE+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87492_ll_h9_ac.png" group-title="Switzerland" tvg-id="PLANETH" tvc-guide-stationid="87492",PLANETE+ HD
+http://example.local/CHE-PLANETH.ts
+#EXTINF:-1 tvg-chno="87492" tvg-name="PLANETE+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87492_ll_h9_ac.png" group-title="Saint Martin" tvg-id="PLANETH" tvc-guide-stationid="87492",PLANETE+ HD
+http://example.local/MAF-PLANETH.ts

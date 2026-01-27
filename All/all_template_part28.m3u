@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="33527" tvg-name="ETBN Enlace USA" tvg-logo="https://zap2it.tmsimg.com/assets/s33527_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="ENLUSA" tvc-guide-stationid="33527",ETBN Enlace USA
-http://example.local/PRI-ENLUSA.ts
-#EXTINF:-1 tvg-chno="33527" tvg-name="ETBN Enlace USA" tvg-logo="https://zap2it.tmsimg.com/assets/s33527_ll_h15_aa.png" group-title="Belize" tvg-id="ENLUSA" tvc-guide-stationid="33527",ETBN Enlace USA
-http://example.local/BLZ-ENLUSA.ts
-#EXTINF:-1 tvg-chno="47485" tvg-name="ETC TV" tvg-logo="https://zap2it.tmsimg.com/assets/s47485_ll_h15_aa.png" group-title="Chile" tvg-id="ETCHILE" tvc-guide-stationid="47485",ETC TV
-http://example.local/CHL-ETCHILE.ts
-#EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10183_ll_h15_ab.png" group-title="United States" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
-http://example.local/USA-EWTN.ts
-#EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10183_ll_h15_ab.png" group-title="Bermuda" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
-http://example.local/BMU-EWTN.ts
-#EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10183_ll_h15_ab.png" group-title="Costa Rica" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
-http://example.local/CRI-EWTN.ts
-#EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10183_ll_h15_ab.png" group-title="Jamaica" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
-http://example.local/JAM-EWTN.ts
-#EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10183_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
-http://example.local/PRI-EWTN.ts
-#EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10183_ll_h15_ab.png" group-title="Bahamas" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
-http://example.local/BHS-EWTN.ts
-#EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10183_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
-http://example.local/CYM-EWTN.ts
-#EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10183_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
-http://example.local/TTO-EWTN.ts
-#EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10183_ll_h15_ab.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
-http://example.local/BES-EWTN.ts
 #EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10183_ll_h15_ab.png" group-title="Belize" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
 http://example.local/BLZ-EWTN.ts
 #EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10183_ll_h15_ab.png" group-title="Barbados" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
@@ -1019,3 +995,27 @@ http://example.local/NLD-EUROSTU.ts
 http://example.local/AUT-EUROSTU.ts
 #EXTINF:-1 tvg-chno="96487" tvg-name="EuroStar" tvg-logo="https://zap2it.tmsimg.com/assets/s96487_ll_h15_an.png" group-title="Switzerland" tvg-id="EUROSTU" tvc-guide-stationid="96487",EuroStar
 http://example.local/CHE-EUROSTU.ts
+#EXTINF:-1 tvg-chno="193092" tvg-name="Eurovision Sport" group-title="United Kingdom" tvg-id="EURVSPO" tvc-guide-stationid="193092",Eurovision Sport
+http://example.local/GBR-EURVSPO.ts
+#EXTINF:-1 tvg-chno="39558" tvg-name="EVENTOS ESPECIALES 1" group-title="Panama" tvg-id="EVENTO1" tvc-guide-stationid="39558",EVENTOS ESPECIALES 1
+http://example.local/PAN-EVENTO1.ts
+#EXTINF:-1 tvg-chno="39559" tvg-name="EVENTOS ESPECIALES 2" group-title="Panama" tvg-id="EVENTO2" tvc-guide-stationid="39559",EVENTOS ESPECIALES 2
+http://example.local/PAN-EVENTO2.ts
+#EXTINF:-1 tvg-chno="55417" tvg-name="Events & Specials On Demand" group-title="United States" tvg-id="EVSPDM" tvc-guide-stationid="55417",Events & Specials On Demand
+http://example.local/USA-EVSPDM.ts
+#EXTINF:-1 tvg-chno="122599" tvg-name="Events 3" group-title="United States" tvg-id="EVNT2A" tvc-guide-stationid="122599",Events 3
+http://example.local/USA-EVNT2A.ts
+#EXTINF:-1 tvg-chno="35763" tvg-name="Events On Demand" group-title="United States" tvg-id="EVNDM" tvc-guide-stationid="35763",Events On Demand
+http://example.local/USA-EVNDM.ts
+#EXTINF:-1 tvg-chno="149651" tvg-name="Eveo" group-title="Finland" tvg-id="EVEO" tvc-guide-stationid="149651",Eveo
+http://example.local/FIN-EVEO.ts
+#EXTINF:-1 tvg-chno="203349" tvg-name="Eveo HD" group-title="Finland" tvg-id="EVEOHD" tvc-guide-stationid="203349",Eveo HD
+http://example.local/FIN-EVEOHD.ts
+#EXTINF:-1 tvg-chno="130095" tvg-name="Everyday Refresh" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028BMC9.png" group-title="United States" tvg-id="EDRFS" tvc-guide-stationid="130095",Everyday Refresh
+http://example.local/USA-EDRFS.ts
+#EXTINF:-1 tvg-chno="149686" tvg-name="Evidence of Evil" tvg-logo="https://zap2it.tmsimg.com/assets/s149686_ll_h15_aa.png" group-title="United Kingdom" tvg-id="EEVIL" tvc-guide-stationid="149686",Evidence of Evil
+http://example.local/GBR-EEVIL.ts
+#EXTINF:-1 tvg-chno="115686" tvg-name="Evil Angel" tvg-logo="https://zap2it.tmsimg.com/assets/s115686_ll_h15_aa.png" group-title="Netherlands" tvg-id="EVILAN" tvc-guide-stationid="115686",Evil Angel
+http://example.local/NLD-EVILAN.ts
+#EXTINF:-1 tvg-chno="188835" tvg-name="Evolution Earth" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0025DCNS.png" group-title="United Kingdom" tvg-id="EVEARTH" tvc-guide-stationid="188835",Evolution Earth
+http://example.local/GBR-EVEARTH.ts

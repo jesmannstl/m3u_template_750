@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="17672" tvg-name="Galicia TV America" tvg-logo="https://zap2it.tmsimg.com/assets/s17672_ll_h15_aa.png" group-title="Panama" tvg-id="GALTV" tvc-guide-stationid="17672",Galicia TV America
-http://example.local/PAN-GALTV.ts
-#EXTINF:-1 tvg-chno="87097" tvg-name="Galicia TV Europa" tvg-logo="https://zap2it.tmsimg.com/assets/s87097_ll_h15_aa.png" group-title="France" tvg-id="GALTVE" tvc-guide-stationid="87097",Galicia TV Europa
-http://example.local/FRA-GALTVE.ts
-#EXTINF:-1 tvg-chno="87097" tvg-name="Galicia TV Europa" tvg-logo="https://zap2it.tmsimg.com/assets/s87097_ll_h15_aa.png" group-title="Spain" tvg-id="GALTVE" tvc-guide-stationid="87097",Galicia TV Europa
-http://example.local/ESP-GALTVE.ts
-#EXTINF:-1 tvg-chno="87097" tvg-name="Galicia TV Europa" tvg-logo="https://zap2it.tmsimg.com/assets/s87097_ll_h15_aa.png" group-title="Belgium" tvg-id="GALTVE" tvc-guide-stationid="87097",Galicia TV Europa
-http://example.local/BEL-GALTVE.ts
-#EXTINF:-1 tvg-chno="87097" tvg-name="Galicia TV Europa" tvg-logo="https://zap2it.tmsimg.com/assets/s87097_ll_h15_aa.png" group-title="Netherlands" tvg-id="GALTVE" tvc-guide-stationid="87097",Galicia TV Europa
-http://example.local/NLD-GALTVE.ts
-#EXTINF:-1 tvg-chno="87097" tvg-name="Galicia TV Europa" tvg-logo="https://zap2it.tmsimg.com/assets/s87097_ll_h15_aa.png" group-title="Italy" tvg-id="GALTVE" tvc-guide-stationid="87097",Galicia TV Europa
-http://example.local/ITA-GALTVE.ts
-#EXTINF:-1 tvg-chno="87097" tvg-name="Galicia TV Europa" tvg-logo="https://zap2it.tmsimg.com/assets/s87097_ll_h15_aa.png" group-title="United Kingdom" tvg-id="GALTVE" tvc-guide-stationid="87097",Galicia TV Europa
-http://example.local/GBR-GALTVE.ts
-#EXTINF:-1 tvg-chno="87097" tvg-name="Galicia TV Europa" tvg-logo="https://zap2it.tmsimg.com/assets/s87097_ll_h15_aa.png" group-title="Switzerland" tvg-id="GALTVE" tvc-guide-stationid="87097",Galicia TV Europa
-http://example.local/CHE-GALTVE.ts
-#EXTINF:-1 tvg-chno="118629" tvg-name="Galicia TV Europa HD" group-title="Germany" tvg-id="GALEUHD" tvc-guide-stationid="118629",Galicia TV Europa HD
-http://example.local/DEU-GALEUHD.ts
 #EXTINF:-1 tvg-chno="118629" tvg-name="Galicia TV Europa HD" group-title="Austria" tvg-id="GALEUHD" tvc-guide-stationid="118629",Galicia TV Europa HD
 http://example.local/AUT-GALEUHD.ts
 #EXTINF:-1 tvg-chno="106352" tvg-name="Galway Bay FM" tvg-logo="https://zap2it.tmsimg.com/assets/s106352_ll_h15_aa.png" group-title="Ireland" tvg-id="GALBYFM" tvc-guide-stationid="106352",Galway Bay FM
@@ -1019,3 +1001,21 @@ http://example.local/CAN-CIHFDT.ts
 http://example.local/CAN-CKMI.ts
 #EXTINF:-1 tvg-chno="17406" tvg-name="Global Montreal (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s17406_ll_h15_ac.png" group-title="United States" tvg-id="CKMI" tvc-guide-stationid="17406",Global Montreal (GLOBAL)
 http://example.local/USA-CKMI.ts
+#EXTINF:-1 tvg-chno="90383" tvg-name="Global Montreal DT SD (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s17406_ll_h15_ac.png" group-title="Canada" tvg-id="CKMIDTS" tvc-guide-stationid="90383",Global Montreal DT SD (GLOBAL)
+http://example.local/CAN-CKMIDTS.ts
+#EXTINF:-1 tvg-chno="72865" tvg-name="Global Montreal HD (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s72865_ll_h15_ab.png" group-title="Canada" tvg-id="CKMIDT" tvc-guide-stationid="72865",Global Montreal HD (GLOBAL)
+http://example.local/CAN-CKMIDT.ts
+#EXTINF:-1 tvg-chno="146047" tvg-name="Global News - Halifax" tvg-logo="https://zap2it.tmsimg.com/assets/s146047_ll_h15_aa.png" group-title="United States" tvg-id="CAGNEHA" tvc-guide-stationid="146047",Global News - Halifax
+http://example.local/USA-CAGNEHA.ts
+#EXTINF:-1 tvg-chno="146045" tvg-name="Global News - Montreal" tvg-logo="https://zap2it.tmsimg.com/assets/s146045_ll_h15_aa.png" group-title="United States" tvg-id="CAGNEMO" tvc-guide-stationid="146045",Global News - Montreal
+http://example.local/USA-CAGNEMO.ts
+#EXTINF:-1 tvg-chno="146046" tvg-name="Global News - Winnipeg" tvg-logo="https://zap2it.tmsimg.com/assets/s146046_ll_h15_aa.png" group-title="United States" tvg-id="CAGNEWI" tvc-guide-stationid="146046",Global News - Winnipeg
+http://example.local/USA-CAGNEWI.ts
+#EXTINF:-1 tvg-chno="114495" tvg-name="Global News BC" tvg-logo="https://zap2it.tmsimg.com/assets/s114495_ll_h15_ac.png" group-title="United States" tvg-id="CAGNEBC" tvc-guide-stationid="114495",Global News BC
+http://example.local/USA-CAGNEBC.ts
+#EXTINF:-1 tvg-chno="114493" tvg-name="Global News Calgary" tvg-logo="https://zap2it.tmsimg.com/assets/s114493_ll_h15_ac.png" group-title="United States" tvg-id="CAGNECL" tvc-guide-stationid="114493",Global News Calgary
+http://example.local/USA-CAGNECL.ts
+#EXTINF:-1 tvg-chno="114494" tvg-name="Global News Canada" tvg-logo="https://zap2it.tmsimg.com/assets/s114494_ll_h15_ac.png" group-title="United States" tvg-id="CAGNEWS" tvc-guide-stationid="114494",Global News Canada
+http://example.local/USA-CAGNEWS.ts
+#EXTINF:-1 tvg-chno="114496" tvg-name="Global News Edmonton" tvg-logo="https://zap2it.tmsimg.com/assets/s114496_ll_h15_ac.png" group-title="United States" tvg-id="CAGNEED" tvc-guide-stationid="114496",Global News Edmonton
+http://example.local/USA-CAGNEED.ts
