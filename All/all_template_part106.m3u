@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="120587" tvg-name="UEFA Soccer 30" group-title="United States" tvg-id="UEFA30" tvc-guide-stationid="120587",UEFA Soccer 30
+http://example.local/USA-UEFA30.ts
 #EXTINF:-1 tvg-chno="120588" tvg-name="UEFA Soccer 31" group-title="United States" tvg-id="UEFA31" tvc-guide-stationid="120588",UEFA Soccer 31
 http://example.local/USA-UEFA31.ts
 #EXTINF:-1 tvg-chno="120589" tvg-name="UEFA Soccer 32" group-title="United States" tvg-id="UEFA32" tvc-guide-stationid="120589",UEFA Soccer 32
@@ -37,9 +39,9 @@ http://example.local/USA-UEFA47.ts
 http://example.local/USA-UEFA48.ts
 #EXTINF:-1 tvg-chno="120607" tvg-name="UEFA Soccer 49" group-title="United States" tvg-id="UEFA49" tvc-guide-stationid="120607",UEFA Soccer 49
 http://example.local/USA-UEFA49.ts
-#EXTINF:-1 tvg-chno="162427" tvg-name="UEN" tvg-logo="https://zap2it.tmsimg.com/assets/s162427_ll_h15_aa.png" group-title="United States" tvg-id="UEN" tvc-guide-stationid="162427",UEN
+#EXTINF:-1 tvg-chno="162427" tvg-name="UEN" tvg-logo="https://emby.tmsimg.com/assets/s162427_ll_h15_aa.png" group-title="United States" tvg-id="UEN" tvc-guide-stationid="162427",UEN
 http://example.local/USA-UEN.ts
-#EXTINF:-1 tvg-chno="111591" tvg-name="UESTV" tvg-logo="https://zap2it.tmsimg.com/assets/s111591_ll_h6_aa.png" group-title="Chile" tvg-id="UESSTGO" tvc-guide-stationid="111591",UESTV
+#EXTINF:-1 tvg-chno="111591" tvg-name="UESTV" tvg-logo="https://emby.tmsimg.com/assets/s111591_ll_h6_aa.png" group-title="Chile" tvg-id="UESSTGO" tvc-guide-stationid="111591",UESTV
 http://example.local/CHL-UESSTGO.ts
 #EXTINF:-1 tvg-chno="111549" tvg-name="Ufrovisión" group-title="Chile" tvg-id="UFRATPC" tvc-guide-stationid="111549",Ufrovisión
 http://example.local/CHL-UFRATPC.ts
@@ -59,59 +61,59 @@ http://example.local/NLD-ASTRAUHD.ts
 http://example.local/AUT-ASTRAUHD.ts
 #EXTINF:-1 tvg-chno="119764" tvg-name="UHD1 by ASTRA UHD" group-title="Switzerland" tvg-id="ASTRAUHD" tvc-guide-stationid="119764",UHD1 by ASTRA UHD
 http://example.local/CHE-ASTRAUHD.ts
-#EXTINF:-1 tvg-chno="121231" tvg-name="UK Eurosport 1 (Amazon Version 2)" tvg-logo="https://zap2it.tmsimg.com/assets/s121231_ll_h15_aa.png" group-title="United States" tvg-id="ESUK1AMZ2" tvc-guide-stationid="121231",UK Eurosport 1 (Amazon Version 2)
+#EXTINF:-1 tvg-chno="121231" tvg-name="UK Eurosport 1 (Amazon Version 2)" tvg-logo="https://emby.tmsimg.com/assets/s121231_ll_h15_aa.png" group-title="United States" tvg-id="ESUK1AMZ2" tvc-guide-stationid="121231",UK Eurosport 1 (Amazon Version 2)
 http://example.local/USA-ESUK1AMZ2.ts
-#EXTINF:-1 tvg-chno="121231" tvg-name="UK Eurosport 1 (Amazon Version 2)" tvg-logo="https://zap2it.tmsimg.com/assets/s121231_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ESUK1AMZ2" tvc-guide-stationid="121231",UK Eurosport 1 (Amazon Version 2)
+#EXTINF:-1 tvg-chno="121231" tvg-name="UK Eurosport 1 (Amazon Version 2)" tvg-logo="https://emby.tmsimg.com/assets/s121231_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ESUK1AMZ2" tvc-guide-stationid="121231",UK Eurosport 1 (Amazon Version 2)
 http://example.local/GBR-ESUK1AMZ2.ts
-#EXTINF:-1 tvg-chno="117793" tvg-name="UK Eurosport 1 (Global Sports Standards)" tvg-logo="https://zap2it.tmsimg.com/assets/s117793_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ESUK1AMZ" tvc-guide-stationid="117793",UK Eurosport 1 (Global Sports Standards)
+#EXTINF:-1 tvg-chno="117793" tvg-name="UK Eurosport 1 (Global Sports Standards)" tvg-logo="https://emby.tmsimg.com/assets/s117793_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ESUK1AMZ" tvc-guide-stationid="117793",UK Eurosport 1 (Global Sports Standards)
 http://example.local/GBR-ESUK1AMZ.ts
-#EXTINF:-1 tvg-chno="121232" tvg-name="UK Eurosport 2 (Amazon Version 2)" tvg-logo="https://zap2it.tmsimg.com/assets/s121232_ll_h15_aa.png" group-title="United States" tvg-id="ESUK2AMZ2" tvc-guide-stationid="121232",UK Eurosport 2 (Amazon Version 2)
+#EXTINF:-1 tvg-chno="121232" tvg-name="UK Eurosport 2 (Amazon Version 2)" tvg-logo="https://emby.tmsimg.com/assets/s121232_ll_h15_aa.png" group-title="United States" tvg-id="ESUK2AMZ2" tvc-guide-stationid="121232",UK Eurosport 2 (Amazon Version 2)
 http://example.local/USA-ESUK2AMZ2.ts
-#EXTINF:-1 tvg-chno="121232" tvg-name="UK Eurosport 2 (Amazon Version 2)" tvg-logo="https://zap2it.tmsimg.com/assets/s121232_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ESUK2AMZ2" tvc-guide-stationid="121232",UK Eurosport 2 (Amazon Version 2)
+#EXTINF:-1 tvg-chno="121232" tvg-name="UK Eurosport 2 (Amazon Version 2)" tvg-logo="https://emby.tmsimg.com/assets/s121232_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ESUK2AMZ2" tvc-guide-stationid="121232",UK Eurosport 2 (Amazon Version 2)
 http://example.local/GBR-ESUK2AMZ2.ts
-#EXTINF:-1 tvg-chno="117794" tvg-name="UK Eurosport 2 (Global Sports Standards)" tvg-logo="https://zap2it.tmsimg.com/assets/s117794_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ESUK2AMZ" tvc-guide-stationid="117794",UK Eurosport 2 (Global Sports Standards)
+#EXTINF:-1 tvg-chno="117794" tvg-name="UK Eurosport 2 (Global Sports Standards)" tvg-logo="https://emby.tmsimg.com/assets/s117794_ll_h15_aa.png" group-title="United Kingdom" tvg-id="ESUK2AMZ" tvc-guide-stationid="117794",UK Eurosport 2 (Global Sports Standards)
 http://example.local/GBR-ESUK2AMZ.ts
-#EXTINF:-1 tvg-chno="103157" tvg-name="UKTV +2" tvg-logo="https://zap2it.tmsimg.com/assets/s103157_ll_h15_aa.png" group-title="Australia" tvg-id="UKP2ANZ" tvc-guide-stationid="103157",UKTV +2
+#EXTINF:-1 tvg-chno="103157" tvg-name="UKTV +2" tvg-logo="https://emby.tmsimg.com/assets/s103157_ll_h15_aa.png" group-title="Australia" tvg-id="UKP2ANZ" tvc-guide-stationid="103157",UKTV +2
 http://example.local/AUS-UKP2ANZ.ts
 #EXTINF:-1 tvg-chno="162142" tvg-name="UKTV HD" group-title="Australia" tvg-id="UKHDANZ" tvc-guide-stationid="162142",UKTV HD
 http://example.local/AUS-UKHDANZ.ts
-#EXTINF:-1 tvg-chno="21825" tvg-name="Ulster TV" tvg-logo="https://zap2it.tmsimg.com/assets/s21825_ll_h15_ab.png" group-title="Germany" tvg-id="ULSTER" tvc-guide-stationid="21825",Ulster TV
+#EXTINF:-1 tvg-chno="21825" tvg-name="Ulster TV" tvg-logo="https://emby.tmsimg.com/assets/s21825_ll_h15_ab.png" group-title="Germany" tvg-id="ULSTER" tvc-guide-stationid="21825",Ulster TV
 http://example.local/DEU-ULSTER.ts
-#EXTINF:-1 tvg-chno="21825" tvg-name="Ulster TV" tvg-logo="https://zap2it.tmsimg.com/assets/s21825_ll_h15_ab.png" group-title="Belgium" tvg-id="ULSTER" tvc-guide-stationid="21825",Ulster TV
+#EXTINF:-1 tvg-chno="21825" tvg-name="Ulster TV" tvg-logo="https://emby.tmsimg.com/assets/s21825_ll_h15_ab.png" group-title="Belgium" tvg-id="ULSTER" tvc-guide-stationid="21825",Ulster TV
 http://example.local/BEL-ULSTER.ts
-#EXTINF:-1 tvg-chno="21825" tvg-name="Ulster TV" tvg-logo="https://zap2it.tmsimg.com/assets/s21825_ll_h15_ab.png" group-title="Netherlands" tvg-id="ULSTER" tvc-guide-stationid="21825",Ulster TV
+#EXTINF:-1 tvg-chno="21825" tvg-name="Ulster TV" tvg-logo="https://emby.tmsimg.com/assets/s21825_ll_h15_ab.png" group-title="Netherlands" tvg-id="ULSTER" tvc-guide-stationid="21825",Ulster TV
 http://example.local/NLD-ULSTER.ts
-#EXTINF:-1 tvg-chno="21825" tvg-name="Ulster TV" tvg-logo="https://zap2it.tmsimg.com/assets/s21825_ll_h15_ab.png" group-title="United Kingdom" tvg-id="ULSTER" tvc-guide-stationid="21825",Ulster TV
+#EXTINF:-1 tvg-chno="21825" tvg-name="Ulster TV" tvg-logo="https://emby.tmsimg.com/assets/s21825_ll_h15_ab.png" group-title="United Kingdom" tvg-id="ULSTER" tvc-guide-stationid="21825",Ulster TV
 http://example.local/GBR-ULSTER.ts
-#EXTINF:-1 tvg-chno="160438" tvg-name="Ultimate Competition" tvg-logo="https://zap2it.tmsimg.com/assets/s160438_ll_h15_aa.png" group-title="United States" tvg-id="ULTICOM" tvc-guide-stationid="160438",Ultimate Competition
+#EXTINF:-1 tvg-chno="160438" tvg-name="Ultimate Competition" tvg-logo="https://emby.tmsimg.com/assets/s160438_ll_h15_aa.png" group-title="United States" tvg-id="ULTICOM" tvc-guide-stationid="160438",Ultimate Competition
 http://example.local/USA-ULTICOM.ts
 #EXTINF:-1 tvg-chno="101853" tvg-name="Ultra Banda HD" group-title="United States" tvg-id="UBANDAH" tvc-guide-stationid="101853",Ultra Banda HD
 http://example.local/USA-UBANDAH.ts
-#EXTINF:-1 tvg-chno="79680" tvg-name="Ultra Cine" tvg-logo="https://zap2it.tmsimg.com/assets/s79680_ll_h15_aa.png" group-title="United States" tvg-id="UCINE" tvc-guide-stationid="79680",Ultra Cine
+#EXTINF:-1 tvg-chno="79680" tvg-name="Ultra Cine" tvg-logo="https://emby.tmsimg.com/assets/s79680_ll_h15_aa.png" group-title="United States" tvg-id="UCINE" tvc-guide-stationid="79680",Ultra Cine
 http://example.local/USA-UCINE.ts
 #EXTINF:-1 tvg-chno="99653" tvg-name="Ultra Cine SD" group-title="United States" tvg-id="UCINESD" tvc-guide-stationid="99653",Ultra Cine SD
 http://example.local/USA-UCINESD.ts
-#EXTINF:-1 tvg-chno="79695" tvg-name="Ultra Clasico" tvg-logo="https://zap2it.tmsimg.com/assets/s178062_ll_h15_aa.png" group-title="United States" tvg-id="UCLAS" tvc-guide-stationid="79695",Ultra Clasico
+#EXTINF:-1 tvg-chno="79695" tvg-name="Ultra Clasico" tvg-logo="https://emby.tmsimg.com/assets/s178062_ll_h15_aa.png" group-title="United States" tvg-id="UCLAS" tvc-guide-stationid="79695",Ultra Clasico
 http://example.local/USA-UCLAS.ts
-#EXTINF:-1 tvg-chno="79695" tvg-name="Ultra Clasico" tvg-logo="https://zap2it.tmsimg.com/assets/s178062_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="UCLAS" tvc-guide-stationid="79695",Ultra Clasico
+#EXTINF:-1 tvg-chno="79695" tvg-name="Ultra Clasico" tvg-logo="https://emby.tmsimg.com/assets/s178062_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="UCLAS" tvc-guide-stationid="79695",Ultra Clasico
 http://example.local/PRI-UCLAS.ts
 #EXTINF:-1 tvg-chno="100538" tvg-name="Ultra Clasico SD" group-title="United States" tvg-id="UCLASSD" tvc-guide-stationid="100538",Ultra Clasico SD
 http://example.local/USA-UCLASSD.ts
-#EXTINF:-1 tvg-chno="79605" tvg-name="Ultra Documentary" tvg-logo="https://zap2it.tmsimg.com/assets/s79605_ll_h15_aa.png" group-title="United States" tvg-id="UDOCU" tvc-guide-stationid="79605",Ultra Documentary
+#EXTINF:-1 tvg-chno="79605" tvg-name="Ultra Documentary" tvg-logo="https://emby.tmsimg.com/assets/s79605_ll_h15_aa.png" group-title="United States" tvg-id="UDOCU" tvc-guide-stationid="79605",Ultra Documentary
 http://example.local/USA-UDOCU.ts
 #EXTINF:-1 tvg-chno="100541" tvg-name="Ultra Documentary SD" group-title="United States" tvg-id="UDOCUSD" tvc-guide-stationid="100541",Ultra Documentary SD
 http://example.local/USA-UDOCUSD.ts
-#EXTINF:-1 tvg-chno="80149" tvg-name="Ultra Familia" tvg-logo="https://zap2it.tmsimg.com/assets/s80149_ll_h15_aa.png" group-title="United States" tvg-id="UFAMIL" tvc-guide-stationid="80149",Ultra Familia
+#EXTINF:-1 tvg-chno="80149" tvg-name="Ultra Familia" tvg-logo="https://emby.tmsimg.com/assets/s80149_ll_h15_aa.png" group-title="United States" tvg-id="UFAMIL" tvc-guide-stationid="80149",Ultra Familia
 http://example.local/USA-UFAMIL.ts
-#EXTINF:-1 tvg-chno="96709" tvg-name="Ultra Familia SD" tvg-logo="https://zap2it.tmsimg.com/assets/s96709_ll_h15_aa.png" group-title="United States" tvg-id="UFAMISD" tvc-guide-stationid="96709",Ultra Familia SD
+#EXTINF:-1 tvg-chno="96709" tvg-name="Ultra Familia SD" tvg-logo="https://emby.tmsimg.com/assets/s96709_ll_h15_aa.png" group-title="United States" tvg-id="UFAMISD" tvc-guide-stationid="96709",Ultra Familia SD
 http://example.local/USA-UFAMISD.ts
-#EXTINF:-1 tvg-chno="79607" tvg-name="Ultra Fiesta" tvg-logo="https://zap2it.tmsimg.com/assets/s79607_ll_h15_aa.png" group-title="United States" tvg-id="UFEST" tvc-guide-stationid="79607",Ultra Fiesta
+#EXTINF:-1 tvg-chno="79607" tvg-name="Ultra Fiesta" tvg-logo="https://emby.tmsimg.com/assets/s79607_ll_h15_aa.png" group-title="United States" tvg-id="UFEST" tvc-guide-stationid="79607",Ultra Fiesta
 http://example.local/USA-UFEST.ts
 #EXTINF:-1 tvg-chno="100537" tvg-name="Ultra Fiesta SD" group-title="United States" tvg-id="UFESTSD" tvc-guide-stationid="100537",Ultra Fiesta SD
 http://example.local/USA-UFESTSD.ts
-#EXTINF:-1 tvg-chno="79611" tvg-name="Ultra Film" tvg-logo="https://zap2it.tmsimg.com/assets/s79611_ll_h15_aa.png" group-title="United States" tvg-id="UFILM" tvc-guide-stationid="79611",Ultra Film
+#EXTINF:-1 tvg-chno="79611" tvg-name="Ultra Film" tvg-logo="https://emby.tmsimg.com/assets/s79611_ll_h15_aa.png" group-title="United States" tvg-id="UFILM" tvc-guide-stationid="79611",Ultra Film
 http://example.local/USA-UFILM.ts
-#EXTINF:-1 tvg-chno="79611" tvg-name="Ultra Film" tvg-logo="https://zap2it.tmsimg.com/assets/s79611_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="UFILM" tvc-guide-stationid="79611",Ultra Film
+#EXTINF:-1 tvg-chno="79611" tvg-name="Ultra Film" tvg-logo="https://emby.tmsimg.com/assets/s79611_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="UFILM" tvc-guide-stationid="79611",Ultra Film
 http://example.local/PRI-UFILM.ts
 #EXTINF:-1 tvg-chno="98720" tvg-name="Ultra Film HD" group-title="United States" tvg-id="UFILMHD" tvc-guide-stationid="98720",Ultra Film HD
 http://example.local/USA-UFILMHD.ts
@@ -121,53 +123,53 @@ http://example.local/PRI-UFILMHD.ts
 http://example.local/USA-UKIDZ.ts
 #EXTINF:-1 tvg-chno="100540" tvg-name="Ultra Kidz SD" group-title="United States" tvg-id="UKIDZSD" tvc-guide-stationid="100540",Ultra Kidz SD
 http://example.local/USA-UKIDZSD.ts
-#EXTINF:-1 tvg-chno="79693" tvg-name="Ultra Luna" tvg-logo="https://zap2it.tmsimg.com/assets/s79693_ll_h15_aa.png" group-title="United States" tvg-id="ULUNA" tvc-guide-stationid="79693",Ultra Luna
+#EXTINF:-1 tvg-chno="79693" tvg-name="Ultra Luna" tvg-logo="https://emby.tmsimg.com/assets/s79693_ll_h15_aa.png" group-title="United States" tvg-id="ULUNA" tvc-guide-stationid="79693",Ultra Luna
 http://example.local/USA-ULUNA.ts
 #EXTINF:-1 tvg-chno="94136" tvg-name="Ultra Luna HDTV" group-title="United States" tvg-id="ULUNAHD" tvc-guide-stationid="94136",Ultra Luna HDTV
 http://example.local/USA-ULUNAHD.ts
-#EXTINF:-1 tvg-chno="79696" tvg-name="Ultra Macho" tvg-logo="https://zap2it.tmsimg.com/assets/s79696_ll_h15_aa.png" group-title="United States" tvg-id="UMACHO" tvc-guide-stationid="79696",Ultra Macho
+#EXTINF:-1 tvg-chno="79696" tvg-name="Ultra Macho" tvg-logo="https://emby.tmsimg.com/assets/s79696_ll_h15_aa.png" group-title="United States" tvg-id="UMACHO" tvc-guide-stationid="79696",Ultra Macho
 http://example.local/USA-UMACHO.ts
-#EXTINF:-1 tvg-chno="79696" tvg-name="Ultra Macho" tvg-logo="https://zap2it.tmsimg.com/assets/s79696_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="UMACHO" tvc-guide-stationid="79696",Ultra Macho
+#EXTINF:-1 tvg-chno="79696" tvg-name="Ultra Macho" tvg-logo="https://emby.tmsimg.com/assets/s79696_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="UMACHO" tvc-guide-stationid="79696",Ultra Macho
 http://example.local/PRI-UMACHO.ts
 #EXTINF:-1 tvg-chno="100536" tvg-name="Ultra Macho SD" group-title="United States" tvg-id="UMACHSD" tvc-guide-stationid="100536",Ultra Macho SD
 http://example.local/USA-UMACHSD.ts
-#EXTINF:-1 tvg-chno="79692" tvg-name="Ultra Mex" tvg-logo="https://zap2it.tmsimg.com/assets/s79692_ll_h15_aa.png" group-title="United States" tvg-id="ULTMEX" tvc-guide-stationid="79692",Ultra Mex
+#EXTINF:-1 tvg-chno="79692" tvg-name="Ultra Mex" tvg-logo="https://emby.tmsimg.com/assets/s79692_ll_h15_aa.png" group-title="United States" tvg-id="ULTMEX" tvc-guide-stationid="79692",Ultra Mex
 http://example.local/USA-ULTMEX.ts
 #EXTINF:-1 tvg-chno="100539" tvg-name="Ultra Mex SD" group-title="United States" tvg-id="ULMEXSD" tvc-guide-stationid="100539",Ultra Mex SD
 http://example.local/USA-ULMEXSD.ts
-#EXTINF:-1 tvg-chno="92880" tvg-name="Ultra Tainment HDTV" tvg-logo="https://zap2it.tmsimg.com/assets/s92880_ll_h15_aa.png" group-title="United States" tvg-id="TAIN" tvc-guide-stationid="92880",Ultra Tainment HDTV
+#EXTINF:-1 tvg-chno="92880" tvg-name="Ultra Tainment HDTV" tvg-logo="https://emby.tmsimg.com/assets/s92880_ll_h15_aa.png" group-title="United States" tvg-id="TAIN" tvc-guide-stationid="92880",Ultra Tainment HDTV
 http://example.local/USA-TAIN.ts
-#EXTINF:-1 tvg-chno="119070" tvg-name="ULTRA TV 4K" tvg-logo="https://zap2it.tmsimg.com/assets/s119070_ll_h15_ab.png" group-title="Poland" tvg-id="UTV4KPL" tvc-guide-stationid="119070",ULTRA TV 4K
+#EXTINF:-1 tvg-chno="119070" tvg-name="ULTRA TV 4K" tvg-logo="https://emby.tmsimg.com/assets/s119070_ll_h15_ab.png" group-title="Poland" tvg-id="UTV4KPL" tvc-guide-stationid="119070",ULTRA TV 4K
 http://example.local/POL-UTV4KPL.ts
-#EXTINF:-1 tvg-chno="79608" tvg-name="UltraTainment" tvg-logo="https://zap2it.tmsimg.com/assets/s79608_ll_h15_aa.png" group-title="United States" tvg-id="UTNMNT" tvc-guide-stationid="79608",UltraTainment
+#EXTINF:-1 tvg-chno="79608" tvg-name="UltraTainment" tvg-logo="https://emby.tmsimg.com/assets/s79608_ll_h15_aa.png" group-title="United States" tvg-id="UTNMNT" tvc-guide-stationid="79608",UltraTainment
 http://example.local/USA-UTNMNT.ts
 #EXTINF:-1 tvg-chno="87601" tvg-name="ULUSAL Kanal" group-title="France" tvg-id="ULUSAL" tvc-guide-stationid="87601",ULUSAL Kanal
 http://example.local/FRA-ULUSAL.ts
-#EXTINF:-1 tvg-chno="111626" tvg-name="UMAG TV" tvg-logo="https://zap2it.tmsimg.com/assets/s111626_ll_h6_aa.png" group-title="Chile" tvg-id="UMAMPA" tvc-guide-stationid="111626",UMAG TV
+#EXTINF:-1 tvg-chno="111626" tvg-name="UMAG TV" tvg-logo="https://emby.tmsimg.com/assets/s111626_ll_h6_aa.png" group-title="Chile" tvg-id="UMAMPA" tvc-guide-stationid="111626",UMAG TV
 http://example.local/CHL-UMAMPA.ts
 #EXTINF:-1 tvg-chno="65604" tvg-name="UMEX Tiempo Este" group-title="United States" tvg-id="UMEX" tvc-guide-stationid="65604",UMEX Tiempo Este
 http://example.local/USA-UMEX.ts
 #EXTINF:-1 tvg-chno="62004" tvg-name="UMFM (CJUM)" group-title="Canada" tvg-id="UMFM" tvc-guide-stationid="62004",UMFM (CJUM)
 http://example.local/CAN-UMFM.ts
-#EXTINF:-1 tvg-chno="193620" tvg-name="Un Si Grand Soleil" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002913X5.png" group-title="France" tvg-id="XRGUSG" tvc-guide-stationid="193620",Un Si Grand Soleil
+#EXTINF:-1 tvg-chno="193620" tvg-name="Un Si Grand Soleil" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002913X5.png" group-title="France" tvg-id="XRGUSG" tvc-guide-stationid="193620",Un Si Grand Soleil
 http://example.local/FRA-XRGUSG.ts
-#EXTINF:-1 tvg-chno="123912" tvg-name="Una familia con suerte" tvg-logo="https://zap2it.tmsimg.com/assets/s123912_ll_h15_ab.png" group-title="Mexico" tvg-id="UNFASU" tvc-guide-stationid="123912",Una familia con suerte
+#EXTINF:-1 tvg-chno="123912" tvg-name="Una familia con suerte" tvg-logo="https://emby.tmsimg.com/assets/s123912_ll_h15_ab.png" group-title="Mexico" tvg-id="UNFASU" tvc-guide-stationid="123912",Una familia con suerte
 http://example.local/MEX-UNFASU.ts
-#EXTINF:-1 tvg-chno="123912" tvg-name="Una familia con suerte" tvg-logo="https://zap2it.tmsimg.com/assets/s123912_ll_h15_ab.png" group-title="United States" tvg-id="UNFASU" tvc-guide-stationid="123912",Una familia con suerte
+#EXTINF:-1 tvg-chno="123912" tvg-name="Una familia con suerte" tvg-logo="https://emby.tmsimg.com/assets/s123912_ll_h15_ab.png" group-title="United States" tvg-id="UNFASU" tvc-guide-stationid="123912",Una familia con suerte
 http://example.local/USA-UNFASU.ts
-#EXTINF:-1 tvg-chno="125020" tvg-name="Una Familia de Diez" tvg-logo="https://zap2it.tmsimg.com/assets/s125020_ll_h15_ab.png" group-title="Mexico" tvg-id="UFDD" tvc-guide-stationid="125020",Una Familia de Diez
+#EXTINF:-1 tvg-chno="125020" tvg-name="Una Familia de Diez" tvg-logo="https://emby.tmsimg.com/assets/s125020_ll_h15_ab.png" group-title="Mexico" tvg-id="UFDD" tvc-guide-stationid="125020",Una Familia de Diez
 http://example.local/MEX-UFDD.ts
-#EXTINF:-1 tvg-chno="125020" tvg-name="Una Familia de Diez" tvg-logo="https://zap2it.tmsimg.com/assets/s125020_ll_h15_ab.png" group-title="United States" tvg-id="UFDD" tvc-guide-stationid="125020",Una Familia de Diez
+#EXTINF:-1 tvg-chno="125020" tvg-name="Una Familia de Diez" tvg-logo="https://emby.tmsimg.com/assets/s125020_ll_h15_ab.png" group-title="United States" tvg-id="UFDD" tvc-guide-stationid="125020",Una Familia de Diez
 http://example.local/USA-UFDD.ts
-#EXTINF:-1 tvg-chno="131925" tvg-name="Unbeaten" tvg-logo="https://zap2it.tmsimg.com/assets/s129048_ll_h15_aa.png" group-title="Germany" tvg-id="UNBEADE" tvc-guide-stationid="131925",Unbeaten
+#EXTINF:-1 tvg-chno="131925" tvg-name="Unbeaten" tvg-logo="https://emby.tmsimg.com/assets/s129048_ll_h15_aa.png" group-title="Germany" tvg-id="UNBEADE" tvc-guide-stationid="131925",Unbeaten
 http://example.local/DEU-UNBEADE.ts
-#EXTINF:-1 tvg-chno="131924" tvg-name="Unbeaten" tvg-logo="https://zap2it.tmsimg.com/assets/s129048_ll_h15_aa.png" group-title="Spain" tvg-id="UNBEAES" tvc-guide-stationid="131924",Unbeaten
+#EXTINF:-1 tvg-chno="131924" tvg-name="Unbeaten" tvg-logo="https://emby.tmsimg.com/assets/s129048_ll_h15_aa.png" group-title="Spain" tvg-id="UNBEAES" tvc-guide-stationid="131924",Unbeaten
 http://example.local/ESP-UNBEAES.ts
-#EXTINF:-1 tvg-chno="129048" tvg-name="Unbeaten" tvg-logo="https://zap2it.tmsimg.com/assets/s129048_ll_h15_aa.png" group-title="United States" tvg-id="UNBEATEN" tvc-guide-stationid="129048",Unbeaten
+#EXTINF:-1 tvg-chno="129048" tvg-name="Unbeaten" tvg-logo="https://emby.tmsimg.com/assets/s129048_ll_h15_aa.png" group-title="United States" tvg-id="UNBEATEN" tvc-guide-stationid="129048",Unbeaten
 http://example.local/USA-UNBEATEN.ts
-#EXTINF:-1 tvg-chno="129048" tvg-name="Unbeaten" tvg-logo="https://zap2it.tmsimg.com/assets/s129048_ll_h15_aa.png" group-title="Italy" tvg-id="UNBEATEN" tvc-guide-stationid="129048",Unbeaten
+#EXTINF:-1 tvg-chno="129048" tvg-name="Unbeaten" tvg-logo="https://emby.tmsimg.com/assets/s129048_ll_h15_aa.png" group-title="Italy" tvg-id="UNBEATEN" tvc-guide-stationid="129048",Unbeaten
 http://example.local/ITA-UNBEATEN.ts
-#EXTINF:-1 tvg-chno="129048" tvg-name="Unbeaten" tvg-logo="https://zap2it.tmsimg.com/assets/s129048_ll_h15_aa.png" group-title="United Kingdom" tvg-id="UNBEATEN" tvc-guide-stationid="129048",Unbeaten
+#EXTINF:-1 tvg-chno="129048" tvg-name="Unbeaten" tvg-logo="https://emby.tmsimg.com/assets/s129048_ll_h15_aa.png" group-title="United Kingdom" tvg-id="UNBEATEN" tvc-guide-stationid="129048",Unbeaten
 http://example.local/GBR-UNBEATEN.ts
 #EXTINF:-1 tvg-chno="114854" tvg-name="Unbeaten Esports" group-title="Germany" tvg-id="PTVDEUE" tvc-guide-stationid="114854",Unbeaten Esports
 http://example.local/DEU-PTVDEUE.ts
@@ -175,67 +177,67 @@ http://example.local/DEU-PTVDEUE.ts
 http://example.local/GBR-PTVUKUE.ts
 #EXTINF:-1 tvg-chno="43830" tvg-name="Underground Garage" group-title="United States" tvg-id="SRUNGRG" tvc-guide-stationid="43830",Underground Garage
 http://example.local/USA-SRUNGRG.ts
-#EXTINF:-1 tvg-chno="128143" tvg-name="Unexplained" tvg-logo="https://zap2it.tmsimg.com/assets/s128143_ll_h15_aa.png" group-title="United States" tvg-id="UNEXP" tvc-guide-stationid="128143",Unexplained
+#EXTINF:-1 tvg-chno="128143" tvg-name="Unexplained" tvg-logo="https://emby.tmsimg.com/assets/s128143_ll_h15_aa.png" group-title="United States" tvg-id="UNEXP" tvc-guide-stationid="128143",Unexplained
 http://example.local/USA-UNEXP.ts
-#EXTINF:-1 tvg-chno="128143" tvg-name="Unexplained" tvg-logo="https://zap2it.tmsimg.com/assets/s128143_ll_h15_aa.png" group-title="United Kingdom" tvg-id="UNEXP" tvc-guide-stationid="128143",Unexplained
+#EXTINF:-1 tvg-chno="128143" tvg-name="Unexplained" tvg-logo="https://emby.tmsimg.com/assets/s128143_ll_h15_aa.png" group-title="United Kingdom" tvg-id="UNEXP" tvc-guide-stationid="128143",Unexplained
 http://example.local/GBR-UNEXP.ts
 #EXTINF:-1 tvg-chno="94312" tvg-name="Uni. of District of Columbia Ch. 19/98" group-title="United States" tvg-id="UDC" tvc-guide-stationid="94312",Uni. of District of Columbia Ch. 19/98
 http://example.local/USA-UDC.ts
 #EXTINF:-1 tvg-chno="111607" tvg-name="Uniacc" group-title="Chile" tvg-id="UNIMP" tvc-guide-stationid="111607",Uniacc
 http://example.local/CHL-UNIMP.ts
-#EXTINF:-1 tvg-chno="140180" tvg-name="Unica TV" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002GC4HP.png" group-title="United States" tvg-id="UNTVV" tvc-guide-stationid="140180",Unica TV
+#EXTINF:-1 tvg-chno="140180" tvg-name="Unica TV" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002GC4HP.png" group-title="United States" tvg-id="UNTVV" tvc-guide-stationid="140180",Unica TV
 http://example.local/USA-UNTVV.ts
 #EXTINF:-1 tvg-chno="186798" tvg-name="UNICA TV" group-title="Italy" tvg-id="UNICATV" tvc-guide-stationid="186798",UNICA TV
 http://example.local/ITA-UNICATV.ts
-#EXTINF:-1 tvg-chno="16521" tvg-name="Unicable" tvg-logo="https://zap2it.tmsimg.com/assets/s16521_ll_h15_ad.png" group-title="Mexico" tvg-id="UNIC" tvc-guide-stationid="16521",Unicable
+#EXTINF:-1 tvg-chno="16521" tvg-name="Unicable" tvg-logo="https://emby.tmsimg.com/assets/s16521_ll_h15_ad.png" group-title="Mexico" tvg-id="UNIC" tvc-guide-stationid="16521",Unicable
 http://example.local/MEX-UNIC.ts
-#EXTINF:-1 tvg-chno="84425" tvg-name="Unicable" tvg-logo="https://zap2it.tmsimg.com/assets/s16521_h3_aa.png" group-title="Mexico" tvg-id="UNICHD" tvc-guide-stationid="84425",Unicable
+#EXTINF:-1 tvg-chno="84425" tvg-name="Unicable" tvg-logo="https://emby.tmsimg.com/assets/s16521_h3_aa.png" group-title="Mexico" tvg-id="UNICHD" tvc-guide-stationid="84425",Unicable
 http://example.local/MEX-UNICHD.ts
-#EXTINF:-1 tvg-chno="84425" tvg-name="Unicable" tvg-logo="https://zap2it.tmsimg.com/assets/s16521_h3_aa.png" group-title="Chile" tvg-id="UNICHD" tvc-guide-stationid="84425",Unicable
+#EXTINF:-1 tvg-chno="84425" tvg-name="Unicable" tvg-logo="https://emby.tmsimg.com/assets/s16521_h3_aa.png" group-title="Chile" tvg-id="UNICHD" tvc-guide-stationid="84425",Unicable
 http://example.local/CHL-UNICHD.ts
-#EXTINF:-1 tvg-chno="16521" tvg-name="Unicable" tvg-logo="https://zap2it.tmsimg.com/assets/s16521_ll_h15_ad.png" group-title="Costa Rica" tvg-id="UNIC" tvc-guide-stationid="16521",Unicable
+#EXTINF:-1 tvg-chno="16521" tvg-name="Unicable" tvg-logo="https://emby.tmsimg.com/assets/s16521_ll_h15_ad.png" group-title="Costa Rica" tvg-id="UNIC" tvc-guide-stationid="16521",Unicable
 http://example.local/CRI-UNIC.ts
-#EXTINF:-1 tvg-chno="16521" tvg-name="Unicable" tvg-logo="https://zap2it.tmsimg.com/assets/s16521_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="UNIC" tvc-guide-stationid="16521",Unicable
+#EXTINF:-1 tvg-chno="16521" tvg-name="Unicable" tvg-logo="https://emby.tmsimg.com/assets/s16521_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="UNIC" tvc-guide-stationid="16521",Unicable
 http://example.local/PRI-UNIC.ts
-#EXTINF:-1 tvg-chno="16521" tvg-name="Unicable" tvg-logo="https://zap2it.tmsimg.com/assets/s16521_ll_h15_ad.png" group-title="Guatemala" tvg-id="UNIC" tvc-guide-stationid="16521",Unicable
+#EXTINF:-1 tvg-chno="16521" tvg-name="Unicable" tvg-logo="https://emby.tmsimg.com/assets/s16521_ll_h15_ad.png" group-title="Guatemala" tvg-id="UNIC" tvc-guide-stationid="16521",Unicable
 http://example.local/GTM-UNIC.ts
-#EXTINF:-1 tvg-chno="16521" tvg-name="Unicable" tvg-logo="https://zap2it.tmsimg.com/assets/s16521_ll_h15_ad.png" group-title="Dominican Republic" tvg-id="UNIC" tvc-guide-stationid="16521",Unicable
+#EXTINF:-1 tvg-chno="16521" tvg-name="Unicable" tvg-logo="https://emby.tmsimg.com/assets/s16521_ll_h15_ad.png" group-title="Dominican Republic" tvg-id="UNIC" tvc-guide-stationid="16521",Unicable
 http://example.local/DOM-UNIC.ts
-#EXTINF:-1 tvg-chno="16521" tvg-name="Unicable" tvg-logo="https://zap2it.tmsimg.com/assets/s16521_ll_h15_ad.png" group-title="Panama" tvg-id="UNIC" tvc-guide-stationid="16521",Unicable
+#EXTINF:-1 tvg-chno="16521" tvg-name="Unicable" tvg-logo="https://emby.tmsimg.com/assets/s16521_ll_h15_ad.png" group-title="Panama" tvg-id="UNIC" tvc-guide-stationid="16521",Unicable
 http://example.local/PAN-UNIC.ts
-#EXTINF:-1 tvg-chno="16521" tvg-name="Unicable" tvg-logo="https://zap2it.tmsimg.com/assets/s16521_ll_h15_ad.png" group-title="Antigua and Barbuda" tvg-id="UNIC" tvc-guide-stationid="16521",Unicable
+#EXTINF:-1 tvg-chno="16521" tvg-name="Unicable" tvg-logo="https://emby.tmsimg.com/assets/s16521_ll_h15_ad.png" group-title="Antigua and Barbuda" tvg-id="UNIC" tvc-guide-stationid="16521",Unicable
 http://example.local/ATG-UNIC.ts
-#EXTINF:-1 tvg-chno="84425" tvg-name="Unicable" tvg-logo="https://zap2it.tmsimg.com/assets/s16521_h3_aa.png" group-title="Antigua and Barbuda" tvg-id="UNICHD" tvc-guide-stationid="84425",Unicable
+#EXTINF:-1 tvg-chno="84425" tvg-name="Unicable" tvg-logo="https://emby.tmsimg.com/assets/s16521_h3_aa.png" group-title="Antigua and Barbuda" tvg-id="UNICHD" tvc-guide-stationid="84425",Unicable
 http://example.local/ATG-UNICHD.ts
 #EXTINF:-1 tvg-chno="29059" tvg-name="UniMas (Pacific) (UNIMAS)" tvg-logo="https://logos.jesmann.com/unimasp.png" group-title="United States" tvg-id="UNIMASP" tvc-guide-stationid="29059",UniMas (Pacific) (UNIMAS)
 http://example.local/USA-UNIMASP.ts
-#EXTINF:-1 tvg-chno="29058" tvg-name="UniMas (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_ll_h15_ab.png" group-title="Mexico" tvg-id="UNIMAS" tvc-guide-stationid="29058",UniMas (UNIMAS)
+#EXTINF:-1 tvg-chno="29058" tvg-name="UniMas (UNIMAS)" tvg-logo="https://emby.tmsimg.com/assets/s29058_ll_h15_ab.png" group-title="Mexico" tvg-id="UNIMAS" tvc-guide-stationid="29058",UniMas (UNIMAS)
 http://example.local/MEX-UNIMAS.ts
-#EXTINF:-1 tvg-chno="29058" tvg-name="UniMas (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_ll_h15_ab.png" group-title="United States" tvg-id="UNIMAS" tvc-guide-stationid="29058",UniMas (UNIMAS)
+#EXTINF:-1 tvg-chno="29058" tvg-name="UniMas (UNIMAS)" tvg-logo="https://emby.tmsimg.com/assets/s29058_ll_h15_ab.png" group-title="United States" tvg-id="UNIMAS" tvc-guide-stationid="29058",UniMas (UNIMAS)
 http://example.local/USA-UNIMAS.ts
-#EXTINF:-1 tvg-chno="29058" tvg-name="UniMas (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="UNIMAS" tvc-guide-stationid="29058",UniMas (UNIMAS)
+#EXTINF:-1 tvg-chno="29058" tvg-name="UniMas (UNIMAS)" tvg-logo="https://emby.tmsimg.com/assets/s29058_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="UNIMAS" tvc-guide-stationid="29058",UniMas (UNIMAS)
 http://example.local/PRI-UNIMAS.ts
-#EXTINF:-1 tvg-chno="73882" tvg-name="UniMas East HD (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_ll_h15_ab.png" group-title="United States" tvg-id="UNIMHD" tvc-guide-stationid="73882",UniMas East HD (UNIMAS)
+#EXTINF:-1 tvg-chno="73882" tvg-name="UniMas East HD (UNIMAS)" tvg-logo="https://emby.tmsimg.com/assets/s29058_ll_h15_ab.png" group-title="United States" tvg-id="UNIMHD" tvc-guide-stationid="73882",UniMas East HD (UNIMAS)
 http://example.local/USA-UNIMHD.ts
 #EXTINF:-1 tvg-chno="68040" tvg-name="UniMas HD (Pacific) (UNIMAS)" tvg-logo="https://logos.jesmann.com/unimphd.png" group-title="United States" tvg-id="UNIMPHD" tvc-guide-stationid="68040",UniMas HD (Pacific) (UNIMAS)
 http://example.local/USA-UNIMPHD.ts
-#EXTINF:-1 tvg-chno="33669" tvg-name="UniMas Satellite Feed" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_h3_aa.png" group-title="United States" tvg-id="UNIMSAT" tvc-guide-stationid="33669",UniMas Satellite Feed
+#EXTINF:-1 tvg-chno="33669" tvg-name="UniMas Satellite Feed" tvg-logo="https://emby.tmsimg.com/assets/s29058_h3_aa.png" group-title="United States" tvg-id="UNIMSAT" tvc-guide-stationid="33669",UniMas Satellite Feed
 http://example.local/USA-UNIMSAT.ts
 #EXTINF:-1 tvg-chno="31541" tvg-name="UniMas Satellite Feed (Pacific)" tvg-logo="https://logos.jesmann.com/unimwst.png" group-title="United States" tvg-id="UNIMWST" tvc-guide-stationid="31541",UniMas Satellite Feed (Pacific)
 http://example.local/USA-UNIMWST.ts
-#EXTINF:-1 tvg-chno="90084" tvg-name="UniNettuno University TV" tvg-logo="https://zap2it.tmsimg.com/assets/s90084_ll_h15_aa.png" group-title="Poland" tvg-id="UNINITL" tvc-guide-stationid="90084",UniNettuno University TV
+#EXTINF:-1 tvg-chno="90084" tvg-name="UniNettuno University TV" tvg-logo="https://emby.tmsimg.com/assets/s90084_ll_h15_aa.png" group-title="Poland" tvg-id="UNINITL" tvc-guide-stationid="90084",UniNettuno University TV
 http://example.local/POL-UNINITL.ts
-#EXTINF:-1 tvg-chno="90084" tvg-name="UniNettuno University TV" tvg-logo="https://zap2it.tmsimg.com/assets/s90084_ll_h15_aa.png" group-title="Belgium" tvg-id="UNINITL" tvc-guide-stationid="90084",UniNettuno University TV
+#EXTINF:-1 tvg-chno="90084" tvg-name="UniNettuno University TV" tvg-logo="https://emby.tmsimg.com/assets/s90084_ll_h15_aa.png" group-title="Belgium" tvg-id="UNINITL" tvc-guide-stationid="90084",UniNettuno University TV
 http://example.local/BEL-UNINITL.ts
-#EXTINF:-1 tvg-chno="90084" tvg-name="UniNettuno University TV" tvg-logo="https://zap2it.tmsimg.com/assets/s90084_ll_h15_aa.png" group-title="Netherlands" tvg-id="UNINITL" tvc-guide-stationid="90084",UniNettuno University TV
+#EXTINF:-1 tvg-chno="90084" tvg-name="UniNettuno University TV" tvg-logo="https://emby.tmsimg.com/assets/s90084_ll_h15_aa.png" group-title="Netherlands" tvg-id="UNINITL" tvc-guide-stationid="90084",UniNettuno University TV
 http://example.local/NLD-UNINITL.ts
-#EXTINF:-1 tvg-chno="90084" tvg-name="UniNettuno University TV" tvg-logo="https://zap2it.tmsimg.com/assets/s90084_ll_h15_aa.png" group-title="Austria" tvg-id="UNINITL" tvc-guide-stationid="90084",UniNettuno University TV
+#EXTINF:-1 tvg-chno="90084" tvg-name="UniNettuno University TV" tvg-logo="https://emby.tmsimg.com/assets/s90084_ll_h15_aa.png" group-title="Austria" tvg-id="UNINITL" tvc-guide-stationid="90084",UniNettuno University TV
 http://example.local/AUT-UNINITL.ts
-#EXTINF:-1 tvg-chno="90084" tvg-name="UniNettuno University TV" tvg-logo="https://zap2it.tmsimg.com/assets/s90084_ll_h15_aa.png" group-title="Italy" tvg-id="UNINITL" tvc-guide-stationid="90084",UniNettuno University TV
+#EXTINF:-1 tvg-chno="90084" tvg-name="UniNettuno University TV" tvg-logo="https://emby.tmsimg.com/assets/s90084_ll_h15_aa.png" group-title="Italy" tvg-id="UNINITL" tvc-guide-stationid="90084",UniNettuno University TV
 http://example.local/ITA-UNINITL.ts
-#EXTINF:-1 tvg-chno="90084" tvg-name="UniNettuno University TV" tvg-logo="https://zap2it.tmsimg.com/assets/s90084_ll_h15_aa.png" group-title="Switzerland" tvg-id="UNINITL" tvc-guide-stationid="90084",UniNettuno University TV
+#EXTINF:-1 tvg-chno="90084" tvg-name="UniNettuno University TV" tvg-logo="https://emby.tmsimg.com/assets/s90084_ll_h15_aa.png" group-title="Switzerland" tvg-id="UNINITL" tvc-guide-stationid="90084",UniNettuno University TV
 http://example.local/CHE-UNINITL.ts
-#EXTINF:-1 tvg-chno="112683" tvg-name="Union Leased Access (CBNNEWS)" tvg-logo="https://zap2it.tmsimg.com/assets/s109977_ll_h15_aa.png" group-title="United States" tvg-id="UNIONLA" tvc-guide-stationid="112683",Union Leased Access (CBNNEWS)
+#EXTINF:-1 tvg-chno="112683" tvg-name="Union Leased Access (CBNNEWS)" tvg-logo="https://emby.tmsimg.com/assets/s109977_ll_h15_aa.png" group-title="United States" tvg-id="UNIONLA" tvc-guide-stationid="112683",Union Leased Access (CBNNEWS)
 http://example.local/USA-UNIONLA.ts
 #EXTINF:-1 tvg-chno="75774" tvg-name="Union Radio Noticias" group-title="Chile" tvg-id="CNUR" tvc-guide-stationid="75774",Union Radio Noticias
 http://example.local/CHL-CNUR.ts
@@ -279,407 +281,407 @@ http://example.local/COL-UNIPRMH.ts
 http://example.local/ECU-UNIPRMH.ts
 #EXTINF:-1 tvg-chno="122760" tvg-name="UNIPRMH" group-title="Uruguay" tvg-id="UNIPRMH" tvc-guide-stationid="122760",UNIPRMH
 http://example.local/URY-UNIPRMH.ts
-#EXTINF:-1 tvg-chno="138033" tvg-name="Unique Lives" tvg-logo="https://zap2it.tmsimg.com/assets/s138033_ll_h15_ac.png" group-title="United States" tvg-id="WBTV6" tvc-guide-stationid="138033",Unique Lives
+#EXTINF:-1 tvg-chno="138033" tvg-name="Unique Lives" tvg-logo="https://emby.tmsimg.com/assets/s138033_ll_h15_ac.png" group-title="United States" tvg-id="WBTV6" tvc-guide-stationid="138033",Unique Lives
 http://example.local/USA-WBTV6.ts
-#EXTINF:-1 tvg-chno="169646" tvg-name="Unique Lives" tvg-logo="https://zap2it.tmsimg.com/assets/s169646_ll_h15_aa.png" group-title="United States" tvg-id="WBTV6S" tvc-guide-stationid="169646",Unique Lives
+#EXTINF:-1 tvg-chno="169646" tvg-name="Unique Lives" tvg-logo="https://emby.tmsimg.com/assets/s169646_ll_h15_aa.png" group-title="United States" tvg-id="WBTV6S" tvc-guide-stationid="169646",Unique Lives
 http://example.local/USA-WBTV6S.ts
-#EXTINF:-1 tvg-chno="90129" tvg-name="Unis (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s90112_h3_aa.png" group-title="Canada" tvg-id="UNISP" tvc-guide-stationid="90129",Unis (Pacific)
+#EXTINF:-1 tvg-chno="90129" tvg-name="Unis (Pacific)" tvg-logo="https://emby.tmsimg.com/assets/s90112_h3_aa.png" group-title="Canada" tvg-id="UNISP" tvc-guide-stationid="90129",Unis (Pacific)
 http://example.local/CAN-UNISP.ts
-#EXTINF:-1 tvg-chno="90131" tvg-name="Unis HD (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s90128_ll_h15_ab.png" group-title="Canada" tvg-id="UNISPHD" tvc-guide-stationid="90131",Unis HD (Pacific)
+#EXTINF:-1 tvg-chno="90131" tvg-name="Unis HD (Pacific)" tvg-logo="https://emby.tmsimg.com/assets/s90128_ll_h15_ab.png" group-title="Canada" tvg-id="UNISPHD" tvc-guide-stationid="90131",Unis HD (Pacific)
 http://example.local/CAN-UNISPHD.ts
-#EXTINF:-1 tvg-chno="90112" tvg-name="Unis TV" tvg-logo="https://zap2it.tmsimg.com/assets/s90112_ll_h15_ab.png" group-title="Canada" tvg-id="UNIS" tvc-guide-stationid="90112",Unis TV
+#EXTINF:-1 tvg-chno="90112" tvg-name="Unis TV" tvg-logo="https://emby.tmsimg.com/assets/s90112_ll_h15_ab.png" group-title="Canada" tvg-id="UNIS" tvc-guide-stationid="90112",Unis TV
 http://example.local/CAN-UNIS.ts
-#EXTINF:-1 tvg-chno="90128" tvg-name="Unis TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90128_ll_h15_ab.png" group-title="Canada" tvg-id="UNISHD" tvc-guide-stationid="90128",Unis TV HD
+#EXTINF:-1 tvg-chno="90128" tvg-name="Unis TV HD" tvg-logo="https://emby.tmsimg.com/assets/s90128_ll_h15_ab.png" group-title="Canada" tvg-id="UNISHD" tvc-guide-stationid="90128",Unis TV HD
 http://example.local/CAN-UNISHD.ts
 #EXTINF:-1 tvg-chno="64823" tvg-name="United Nations TV" group-title="United States" tvg-id="UNTV" tvc-guide-stationid="64823",United Nations TV
 http://example.local/USA-UNTV.ts
-#EXTINF:-1 tvg-chno="121774" tvg-name="United Satellite Television" tvg-logo="https://zap2it.tmsimg.com/assets/s121774_ll_h15_aa.png" group-title="United States" tvg-id="USTV" tvc-guide-stationid="121774",United Satellite Television
+#EXTINF:-1 tvg-chno="121774" tvg-name="United Satellite Television" tvg-logo="https://emby.tmsimg.com/assets/s121774_ll_h15_aa.png" group-title="United States" tvg-id="USTV" tvc-guide-stationid="121774",United Satellite Television
 http://example.local/USA-USTV.ts
-#EXTINF:-1 tvg-chno="138446" tvg-name="Universal Action" tvg-logo="https://zap2it.tmsimg.com/assets/s138446_ll_h15_aa.png" group-title="United States" tvg-id="UNIACT" tvc-guide-stationid="138446",Universal Action
+#EXTINF:-1 tvg-chno="138446" tvg-name="Universal Action" tvg-logo="https://emby.tmsimg.com/assets/s138446_ll_h15_aa.png" group-title="United States" tvg-id="UNIACT" tvc-guide-stationid="138446",Universal Action
 http://example.local/USA-UNIACT.ts
-#EXTINF:-1 tvg-chno="84373" tvg-name="Universal Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s84373_ll_h15_aa.png" group-title="Germany" tvg-id="UNIDEUT" tvc-guide-stationid="84373",Universal Channel
+#EXTINF:-1 tvg-chno="84373" tvg-name="Universal Channel" tvg-logo="https://emby.tmsimg.com/assets/s84373_ll_h15_aa.png" group-title="Germany" tvg-id="UNIDEUT" tvc-guide-stationid="84373",Universal Channel
 http://example.local/DEU-UNIDEUT.ts
-#EXTINF:-1 tvg-chno="84373" tvg-name="Universal Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s84373_ll_h15_aa.png" group-title="Austria" tvg-id="UNIDEUT" tvc-guide-stationid="84373",Universal Channel
+#EXTINF:-1 tvg-chno="84373" tvg-name="Universal Channel" tvg-logo="https://emby.tmsimg.com/assets/s84373_ll_h15_aa.png" group-title="Austria" tvg-id="UNIDEUT" tvc-guide-stationid="84373",Universal Channel
 http://example.local/AUT-UNIDEUT.ts
-#EXTINF:-1 tvg-chno="84373" tvg-name="Universal Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s84373_ll_h15_aa.png" group-title="Switzerland" tvg-id="UNIDEUT" tvc-guide-stationid="84373",Universal Channel
+#EXTINF:-1 tvg-chno="84373" tvg-name="Universal Channel" tvg-logo="https://emby.tmsimg.com/assets/s84373_ll_h15_aa.png" group-title="Switzerland" tvg-id="UNIDEUT" tvc-guide-stationid="84373",Universal Channel
 http://example.local/CHE-UNIDEUT.ts
-#EXTINF:-1 tvg-chno="84374" tvg-name="Universal Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84374_ll_h15_aa.png" group-title="Germany" tvg-id="UNIDHD" tvc-guide-stationid="84374",Universal Channel HD
+#EXTINF:-1 tvg-chno="84374" tvg-name="Universal Channel HD" tvg-logo="https://emby.tmsimg.com/assets/s84374_ll_h15_aa.png" group-title="Germany" tvg-id="UNIDHD" tvc-guide-stationid="84374",Universal Channel HD
 http://example.local/DEU-UNIDHD.ts
-#EXTINF:-1 tvg-chno="84374" tvg-name="Universal Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84374_ll_h15_aa.png" group-title="Austria" tvg-id="UNIDHD" tvc-guide-stationid="84374",Universal Channel HD
+#EXTINF:-1 tvg-chno="84374" tvg-name="Universal Channel HD" tvg-logo="https://emby.tmsimg.com/assets/s84374_ll_h15_aa.png" group-title="Austria" tvg-id="UNIDHD" tvc-guide-stationid="84374",Universal Channel HD
 http://example.local/AUT-UNIDHD.ts
-#EXTINF:-1 tvg-chno="84374" tvg-name="Universal Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84374_ll_h15_aa.png" group-title="Switzerland" tvg-id="UNIDHD" tvc-guide-stationid="84374",Universal Channel HD
+#EXTINF:-1 tvg-chno="84374" tvg-name="Universal Channel HD" tvg-logo="https://emby.tmsimg.com/assets/s84374_ll_h15_aa.png" group-title="Switzerland" tvg-id="UNIDHD" tvc-guide-stationid="84374",Universal Channel HD
 http://example.local/CHE-UNIDHD.ts
-#EXTINF:-1 tvg-chno="122767" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICIM" tvc-guide-stationid="122767",Universal Cinema
+#EXTINF:-1 tvg-chno="122767" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICIM" tvc-guide-stationid="122767",Universal Cinema
 http://example.local/MEX-UNICIM.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/MEX-UNICI.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Chile" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Chile" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/CHL-UNICI.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Colombia" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Colombia" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/COL-UNICI.ts
-#EXTINF:-1 tvg-chno="122766" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Colombia" tvg-id="UNICIMH" tvc-guide-stationid="122766",Universal Cinema
+#EXTINF:-1 tvg-chno="122766" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Colombia" tvg-id="UNICIMH" tvc-guide-stationid="122766",Universal Cinema
 http://example.local/COL-UNICIMH.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Peru" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Peru" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/PER-UNICI.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Argentina" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Argentina" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/ARG-UNICI.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Venezuela" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Venezuela" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/VEN-UNICI.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Ecuador" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Ecuador" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/ECU-UNICI.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Uruguay" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Uruguay" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/URY-UNICI.ts
-#EXTINF:-1 tvg-chno="122766" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Uruguay" tvg-id="UNICIMH" tvc-guide-stationid="122766",Universal Cinema
+#EXTINF:-1 tvg-chno="122766" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Uruguay" tvg-id="UNICIMH" tvc-guide-stationid="122766",Universal Cinema
 http://example.local/URY-UNICIMH.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/TTO-UNICI.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/VCT-UNICI.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Barbados" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Barbados" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/BRB-UNICI.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Dominica" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Dominica" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/DMA-UNICI.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Grenada" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Grenada" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/GRD-UNICI.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/ATG-UNICI.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="St. Lucia" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="St. Lucia" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/LCA-UNICI.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Curacao" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Curacao" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/CUW-UNICI.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Aruba" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Aruba" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/ABW-UNICI.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Anguilla" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Anguilla" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/AIA-UNICI.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/KNA-UNICI.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Saint Martin" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Saint Martin" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/MAF-UNICI.ts
-#EXTINF:-1 tvg-chno="122548" tvg-name="Universal Cinema HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICIZ" tvc-guide-stationid="122548",Universal Cinema HD
+#EXTINF:-1 tvg-chno="122548" tvg-name="Universal Cinema HD" tvg-logo="https://emby.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICIZ" tvc-guide-stationid="122548",Universal Cinema HD
 http://example.local/MEX-UNICIZ.ts
-#EXTINF:-1 tvg-chno="122769" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICOM" tvc-guide-stationid="122769",Universal Comedy
+#EXTINF:-1 tvg-chno="122769" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICOM" tvc-guide-stationid="122769",Universal Comedy
 http://example.local/MEX-UNICOM.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/MEX-UNICO.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Chile" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Chile" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/CHL-UNICO.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Colombia" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Colombia" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/COL-UNICO.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Peru" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Peru" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/PER-UNICO.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Argentina" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Argentina" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/ARG-UNICO.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Venezuela" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Venezuela" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/VEN-UNICO.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Ecuador" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Ecuador" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/ECU-UNICO.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Uruguay" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Uruguay" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/URY-UNICO.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/TTO-UNICO.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/VCT-UNICO.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Barbados" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Barbados" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/BRB-UNICO.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Dominica" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Dominica" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/DMA-UNICO.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Grenada" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Grenada" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/GRD-UNICO.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/ATG-UNICO.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="St. Lucia" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="St. Lucia" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/LCA-UNICO.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Curacao" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Curacao" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/CUW-UNICO.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Aruba" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Aruba" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/ABW-UNICO.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Anguilla" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Anguilla" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/AIA-UNICO.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/KNA-UNICO.ts
-#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Saint Martin" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
+#EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Saint Martin" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/MAF-UNICO.ts
-#EXTINF:-1 tvg-chno="122550" tvg-name="Universal Comedy HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICOZ" tvc-guide-stationid="122550",Universal Comedy HD
+#EXTINF:-1 tvg-chno="122550" tvg-name="Universal Comedy HD" tvg-logo="https://emby.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICOZ" tvc-guide-stationid="122550",Universal Comedy HD
 http://example.local/MEX-UNICOZ.ts
-#EXTINF:-1 tvg-chno="122765" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICRM" tvc-guide-stationid="122765",Universal Crime
+#EXTINF:-1 tvg-chno="122765" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICRM" tvc-guide-stationid="122765",Universal Crime
 http://example.local/MEX-UNICRM.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/MEX-UNICR.ts
-#EXTINF:-1 tvg-chno="138454" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s138454_ll_h15_aa.png" group-title="United States" tvg-id="UNIVCRM" tvc-guide-stationid="138454",Universal Crime
+#EXTINF:-1 tvg-chno="138454" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s138454_ll_h15_aa.png" group-title="United States" tvg-id="UNIVCRM" tvc-guide-stationid="138454",Universal Crime
 http://example.local/USA-UNIVCRM.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Chile" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Chile" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/CHL-UNICR.ts
-#EXTINF:-1 tvg-chno="121936" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Chile" tvg-id="UNICRO" tvc-guide-stationid="121936",Universal Crime
+#EXTINF:-1 tvg-chno="121936" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Chile" tvg-id="UNICRO" tvc-guide-stationid="121936",Universal Crime
 http://example.local/CHL-UNICRO.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Colombia" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Colombia" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/COL-UNICR.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Peru" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Peru" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/PER-UNICR.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Argentina" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Argentina" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/ARG-UNICR.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Venezuela" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Venezuela" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/VEN-UNICR.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Ecuador" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Ecuador" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/ECU-UNICR.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Uruguay" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Uruguay" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/URY-UNICR.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/TTO-UNICR.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/VCT-UNICR.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Barbados" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Barbados" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/BRB-UNICR.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Dominica" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Dominica" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/DMA-UNICR.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Grenada" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Grenada" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/GRD-UNICR.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/ATG-UNICR.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="St. Lucia" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="St. Lucia" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/LCA-UNICR.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Curacao" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Curacao" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/CUW-UNICR.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Aruba" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Aruba" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/ABW-UNICR.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Anguilla" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Anguilla" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/AIA-UNICR.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/KNA-UNICR.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Saint Martin" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Saint Martin" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
 http://example.local/MAF-UNICR.ts
-#EXTINF:-1 tvg-chno="122551" tvg-name="Universal Crime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICRZ" tvc-guide-stationid="122551",Universal Crime HD
+#EXTINF:-1 tvg-chno="122551" tvg-name="Universal Crime HD" tvg-logo="https://emby.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICRZ" tvc-guide-stationid="122551",Universal Crime HD
 http://example.local/MEX-UNICRZ.ts
-#EXTINF:-1 tvg-chno="103160" tvg-name="Universal HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103160_ll_h15_aa.png" group-title="Australia" tvg-id="UNIHANZ" tvc-guide-stationid="103160",Universal HD
+#EXTINF:-1 tvg-chno="103160" tvg-name="Universal HD" tvg-logo="https://emby.tmsimg.com/assets/s103160_ll_h15_aa.png" group-title="Australia" tvg-id="UNIHANZ" tvc-guide-stationid="103160",Universal HD
 http://example.local/AUS-UNIHANZ.ts
-#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Chile" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
+#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Chile" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/CHL-UNILAHD.ts
-#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Colombia" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
+#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Colombia" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/COL-UNILAHD.ts
-#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Peru" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
+#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Peru" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/PER-UNILAHD.ts
-#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Argentina" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
+#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Argentina" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/ARG-UNILAHD.ts
-#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Costa Rica" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
+#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Costa Rica" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/CRI-UNILAHD.ts
-#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Venezuela" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
+#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Venezuela" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/VEN-UNILAHD.ts
-#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
+#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/PRI-UNILAHD.ts
-#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Guatemala" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
+#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Guatemala" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/GTM-UNILAHD.ts
-#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Ecuador" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
+#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Ecuador" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/ECU-UNILAHD.ts
-#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
+#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/DOM-UNILAHD.ts
-#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Uruguay" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
+#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Uruguay" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/URY-UNILAHD.ts
-#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
+#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/TTO-UNILAHD.ts
-#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Belize" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
+#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Belize" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/BLZ-UNILAHD.ts
-#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Panama" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
+#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Panama" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/PAN-UNILAHD.ts
-#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Barbados" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
+#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Barbados" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/BRB-UNILAHD.ts
-#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="St. Kitts and Nevis" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
+#EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="St. Kitts and Nevis" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/KNA-UNILAHD.ts
-#EXTINF:-1 tvg-chno="138450" tvg-name="Universal Monsters" tvg-logo="https://zap2it.tmsimg.com/assets/s138450_ll_h15_aa.png" group-title="United States" tvg-id="UNIMON" tvc-guide-stationid="138450",Universal Monsters
+#EXTINF:-1 tvg-chno="138450" tvg-name="Universal Monsters" tvg-logo="https://emby.tmsimg.com/assets/s138450_ll_h15_aa.png" group-title="United States" tvg-id="UNIMON" tvc-guide-stationid="138450",Universal Monsters
 http://example.local/USA-UNIMON.ts
-#EXTINF:-1 tvg-chno="164080" tvg-name="Universal Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s164080_ll_h15_ab.png" group-title="United States" tvg-id="UNIMOV" tvc-guide-stationid="164080",Universal Movies
+#EXTINF:-1 tvg-chno="164080" tvg-name="Universal Movies" tvg-logo="https://emby.tmsimg.com/assets/s164080_ll_h15_ab.png" group-title="United States" tvg-id="UNIMOV" tvc-guide-stationid="164080",Universal Movies
 http://example.local/USA-UNIMOV.ts
-#EXTINF:-1 tvg-chno="122761" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIPRM" tvc-guide-stationid="122761",Universal Premiere
+#EXTINF:-1 tvg-chno="122761" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIPRM" tvc-guide-stationid="122761",Universal Premiere
 http://example.local/MEX-UNIPRM.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/MEX-UNIPR.ts
-#EXTINF:-1 tvg-chno="151267" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s151267_ll_h15_aa.png" group-title="United States" tvg-id="NBCUIUP" tvc-guide-stationid="151267",Universal Premiere
+#EXTINF:-1 tvg-chno="151267" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s151267_ll_h15_aa.png" group-title="United States" tvg-id="NBCUIUP" tvc-guide-stationid="151267",Universal Premiere
 http://example.local/USA-NBCUIUP.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Chile" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Chile" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/CHL-UNIPR.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Colombia" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Colombia" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/COL-UNIPR.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Peru" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Peru" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/PER-UNIPR.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Argentina" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Argentina" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/ARG-UNIPR.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Venezuela" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Venezuela" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/VEN-UNIPR.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Ecuador" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Ecuador" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/ECU-UNIPR.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Uruguay" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Uruguay" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/URY-UNIPR.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/TTO-UNIPR.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/VCT-UNIPR.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Barbados" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Barbados" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/BRB-UNIPR.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Dominica" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Dominica" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/DMA-UNIPR.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Grenada" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Grenada" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/GRD-UNIPR.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/ATG-UNIPR.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="St. Lucia" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="St. Lucia" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/LCA-UNIPR.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Curacao" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Curacao" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/CUW-UNIPR.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Aruba" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Aruba" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/ABW-UNIPR.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Anguilla" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Anguilla" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/AIA-UNIPR.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/KNA-UNIPR.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Saint Martin" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Saint Martin" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
 http://example.local/MAF-UNIPR.ts
-#EXTINF:-1 tvg-chno="122545" tvg-name="Universal Premiere HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIPRZ" tvc-guide-stationid="122545",Universal Premiere HD
+#EXTINF:-1 tvg-chno="122545" tvg-name="Universal Premiere HD" tvg-logo="https://emby.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIPRZ" tvc-guide-stationid="122545",Universal Premiere HD
 http://example.local/MEX-UNIPRZ.ts
-#EXTINF:-1 tvg-chno="122763" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIREM" tvc-guide-stationid="122763",Universal Reality
+#EXTINF:-1 tvg-chno="122763" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIREM" tvc-guide-stationid="122763",Universal Reality
 http://example.local/MEX-UNIREM.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/MEX-UNIRE.ts
-#EXTINF:-1 tvg-chno="151268" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s151268_ll_h15_aa.png" group-title="United States" tvg-id="NBCUIUR" tvc-guide-stationid="151268",Universal Reality
+#EXTINF:-1 tvg-chno="151268" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s151268_ll_h15_aa.png" group-title="United States" tvg-id="NBCUIUR" tvc-guide-stationid="151268",Universal Reality
 http://example.local/USA-NBCUIUR.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Chile" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Chile" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/CHL-UNIRE.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Colombia" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Colombia" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/COL-UNIRE.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Peru" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Peru" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/PER-UNIRE.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Argentina" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Argentina" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/ARG-UNIRE.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Venezuela" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Venezuela" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/VEN-UNIRE.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Ecuador" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Ecuador" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/ECU-UNIRE.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Uruguay" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Uruguay" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/URY-UNIRE.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/TTO-UNIRE.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/VCT-UNIRE.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Barbados" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Barbados" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/BRB-UNIRE.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Dominica" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Dominica" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/DMA-UNIRE.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Grenada" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Grenada" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/GRD-UNIRE.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/ATG-UNIRE.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="St. Lucia" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="St. Lucia" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/LCA-UNIRE.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Curacao" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Curacao" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/CUW-UNIRE.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Aruba" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Aruba" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/ABW-UNIRE.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Anguilla" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Anguilla" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/AIA-UNIRE.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/KNA-UNIRE.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Saint Martin" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Saint Martin" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
 http://example.local/MAF-UNIRE.ts
-#EXTINF:-1 tvg-chno="122552" tvg-name="Universal Reality HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIREZ" tvc-guide-stationid="122552",Universal Reality HD
+#EXTINF:-1 tvg-chno="122552" tvg-name="Universal Reality HD" tvg-logo="https://emby.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIREZ" tvc-guide-stationid="122552",Universal Reality HD
 http://example.local/MEX-UNIREZ.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Mexico" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Mexico" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/MEX-UNTVM.ts
-#EXTINF:-1 tvg-chno="77534" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Mexico" tvg-id="UNTVMHD" tvc-guide-stationid="77534",Universal TV
+#EXTINF:-1 tvg-chno="77534" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Mexico" tvg-id="UNTVMHD" tvc-guide-stationid="77534",Universal TV
 http://example.local/MEX-UNTVMHD.ts
-#EXTINF:-1 tvg-chno="16137" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Mexico" tvg-id="UNTVAR" tvc-guide-stationid="16137",Universal TV
+#EXTINF:-1 tvg-chno="16137" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Mexico" tvg-id="UNTVAR" tvc-guide-stationid="16137",Universal TV
 http://example.local/MEX-UNTVAR.ts
-#EXTINF:-1 tvg-chno="106232" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Mexico" tvg-id="UNTVCOH" tvc-guide-stationid="106232",Universal TV
+#EXTINF:-1 tvg-chno="106232" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Mexico" tvg-id="UNTVCOH" tvc-guide-stationid="106232",Universal TV
 http://example.local/MEX-UNTVCOH.ts
-#EXTINF:-1 tvg-chno="16138" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s16138_ll_h15_aa.png" group-title="Brazil" tvg-id="UNVRB" tvc-guide-stationid="16138",Universal TV
+#EXTINF:-1 tvg-chno="16138" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s16138_ll_h15_aa.png" group-title="Brazil" tvg-id="UNVRB" tvc-guide-stationid="16138",Universal TV
 http://example.local/BRA-UNVRB.ts
-#EXTINF:-1 tvg-chno="53218" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_h3_aa.png" group-title="Chile" tvg-id="UNTVCH" tvc-guide-stationid="53218",Universal TV
+#EXTINF:-1 tvg-chno="53218" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_h3_aa.png" group-title="Chile" tvg-id="UNTVCH" tvc-guide-stationid="53218",Universal TV
 http://example.local/CHL-UNTVCH.ts
-#EXTINF:-1 tvg-chno="106561" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Chile" tvg-id="UNTVCHD" tvc-guide-stationid="106561",Universal TV
+#EXTINF:-1 tvg-chno="106561" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Chile" tvg-id="UNTVCHD" tvc-guide-stationid="106561",Universal TV
 http://example.local/CHL-UNTVCHD.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Chile" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Chile" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/CHL-UNTVM.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Colombia" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Colombia" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/COL-UNTVM.ts
-#EXTINF:-1 tvg-chno="106232" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Colombia" tvg-id="UNTVCOH" tvc-guide-stationid="106232",Universal TV
+#EXTINF:-1 tvg-chno="106232" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Colombia" tvg-id="UNTVCOH" tvc-guide-stationid="106232",Universal TV
 http://example.local/COL-UNTVCOH.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Peru" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Peru" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/PER-UNTVM.ts
-#EXTINF:-1 tvg-chno="77534" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Peru" tvg-id="UNTVMHD" tvc-guide-stationid="77534",Universal TV
+#EXTINF:-1 tvg-chno="77534" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Peru" tvg-id="UNTVMHD" tvc-guide-stationid="77534",Universal TV
 http://example.local/PER-UNTVMHD.ts
-#EXTINF:-1 tvg-chno="16137" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Argentina" tvg-id="UNTVAR" tvc-guide-stationid="16137",Universal TV
+#EXTINF:-1 tvg-chno="16137" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Argentina" tvg-id="UNTVAR" tvc-guide-stationid="16137",Universal TV
 http://example.local/ARG-UNTVAR.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Argentina" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Argentina" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/ARG-UNTVM.ts
-#EXTINF:-1 tvg-chno="77534" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Argentina" tvg-id="UNTVMHD" tvc-guide-stationid="77534",Universal TV
+#EXTINF:-1 tvg-chno="77534" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Argentina" tvg-id="UNTVMHD" tvc-guide-stationid="77534",Universal TV
 http://example.local/ARG-UNTVMHD.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Costa Rica" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Costa Rica" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/CRI-UNTVM.ts
-#EXTINF:-1 tvg-chno="49005" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Costa Rica" tvg-id="UNTVL" tvc-guide-stationid="49005",Universal TV
+#EXTINF:-1 tvg-chno="49005" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Costa Rica" tvg-id="UNTVL" tvc-guide-stationid="49005",Universal TV
 http://example.local/CRI-UNTVL.ts
-#EXTINF:-1 tvg-chno="77534" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Costa Rica" tvg-id="UNTVMHD" tvc-guide-stationid="77534",Universal TV
+#EXTINF:-1 tvg-chno="77534" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Costa Rica" tvg-id="UNTVMHD" tvc-guide-stationid="77534",Universal TV
 http://example.local/CRI-UNTVMHD.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Jamaica" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Jamaica" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/JAM-UNTVM.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Venezuela" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Venezuela" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/VEN-UNTVM.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/PRI-UNTVM.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Guatemala" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Guatemala" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/GTM-UNTVM.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Ecuador" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Ecuador" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/ECU-UNTVM.ts
-#EXTINF:-1 tvg-chno="49005" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Ecuador" tvg-id="UNTVL" tvc-guide-stationid="49005",Universal TV
+#EXTINF:-1 tvg-chno="49005" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Ecuador" tvg-id="UNTVL" tvc-guide-stationid="49005",Universal TV
 http://example.local/ECU-UNTVL.ts
-#EXTINF:-1 tvg-chno="49005" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="UNTVL" tvc-guide-stationid="49005",Universal TV
+#EXTINF:-1 tvg-chno="49005" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="UNTVL" tvc-guide-stationid="49005",Universal TV
 http://example.local/DOM-UNTVL.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/DOM-UNTVM.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Uruguay" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Uruguay" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/URY-UNTVM.ts
-#EXTINF:-1 tvg-chno="16137" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Uruguay" tvg-id="UNTVAR" tvc-guide-stationid="16137",Universal TV
+#EXTINF:-1 tvg-chno="16137" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Uruguay" tvg-id="UNTVAR" tvc-guide-stationid="16137",Universal TV
 http://example.local/URY-UNTVAR.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/CYM-UNTVM.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/TTO-UNTVM.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Saint Vincent and the Grenadines" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Saint Vincent and the Grenadines" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/VCT-UNTVM.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Belize" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Belize" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/BLZ-UNTVM.ts
-#EXTINF:-1 tvg-chno="49005" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Panama" tvg-id="UNTVL" tvc-guide-stationid="49005",Universal TV
+#EXTINF:-1 tvg-chno="49005" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Panama" tvg-id="UNTVL" tvc-guide-stationid="49005",Universal TV
 http://example.local/PAN-UNTVL.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Panama" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Panama" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/PAN-UNTVM.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Barbados" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Barbados" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/BRB-UNTVM.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Dominica" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Dominica" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/DMA-UNTVM.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Grenada" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Grenada" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/GRD-UNTVM.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Antigua and Barbuda" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Antigua and Barbuda" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/ATG-UNTVM.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="St. Lucia" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="St. Lucia" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/LCA-UNTVM.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Curacao" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Curacao" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/CUW-UNTVM.ts
-#EXTINF:-1 tvg-chno="83015" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Aruba" tvg-id="UNTVME" tvc-guide-stationid="83015",Universal TV
+#EXTINF:-1 tvg-chno="83015" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Aruba" tvg-id="UNTVME" tvc-guide-stationid="83015",Universal TV
 http://example.local/ABW-UNTVME.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Aruba" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Aruba" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/ABW-UNTVM.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Anguilla" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Anguilla" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/AIA-UNTVM.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="St. Kitts and Nevis" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="St. Kitts and Nevis" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/KNA-UNTVM.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Saint Martin" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Saint Martin" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/MAF-UNTVM.ts
-#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Guyana" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Guyana" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/GUY-UNTVM.ts
-#EXTINF:-1 tvg-chno="94571" tvg-name="Universal TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s94571_ll_h15_ab.png" group-title="Brazil" tvg-id="UNVRBHD" tvc-guide-stationid="94571",Universal TV HD
+#EXTINF:-1 tvg-chno="94571" tvg-name="Universal TV HD" tvg-logo="https://emby.tmsimg.com/assets/s94571_ll_h15_ab.png" group-title="Brazil" tvg-id="UNVRBHD" tvc-guide-stationid="94571",Universal TV HD
 http://example.local/BRA-UNVRBHD.ts
-#EXTINF:-1 tvg-chno="106732" tvg-name="Universal TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Argentina" tvg-id="UNTVARH" tvc-guide-stationid="106732",Universal TV HD
+#EXTINF:-1 tvg-chno="106732" tvg-name="Universal TV HD" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Argentina" tvg-id="UNTVARH" tvc-guide-stationid="106732",Universal TV HD
 http://example.local/ARG-UNTVARH.ts
-#EXTINF:-1 tvg-chno="106732" tvg-name="Universal TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Uruguay" tvg-id="UNTVARH" tvc-guide-stationid="106732",Universal TV HD
+#EXTINF:-1 tvg-chno="106732" tvg-name="Universal TV HD" tvg-logo="https://emby.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Uruguay" tvg-id="UNTVARH" tvc-guide-stationid="106732",Universal TV HD
 http://example.local/URY-UNTVARH.ts
-#EXTINF:-1 tvg-chno="138445" tvg-name="Universal Westerns" tvg-logo="https://zap2it.tmsimg.com/assets/s138445_ll_h15_aa.png" group-title="United States" tvg-id="UNIWST" tvc-guide-stationid="138445",Universal Westerns
+#EXTINF:-1 tvg-chno="138445" tvg-name="Universal Westerns" tvg-logo="https://emby.tmsimg.com/assets/s138445_ll_h15_aa.png" group-title="United States" tvg-id="UNIWST" tvc-guide-stationid="138445",Universal Westerns
 http://example.local/USA-UNIWST.ts
-#EXTINF:-1 tvg-chno="111616" tvg-name="Universidad de Tarapacá" tvg-logo="https://zap2it.tmsimg.com/assets/s111616_ll_h15_aa.png" group-title="Chile" tvg-id="UTAA" tvc-guide-stationid="111616",Universidad de Tarapacá
+#EXTINF:-1 tvg-chno="111616" tvg-name="Universidad de Tarapacá" tvg-logo="https://emby.tmsimg.com/assets/s111616_ll_h15_aa.png" group-title="Chile" tvg-id="UTAA" tvc-guide-stationid="111616",Universidad de Tarapacá
 http://example.local/CHL-UTAA.ts
 #EXTINF:-1 tvg-chno="89468" tvg-name="Universite de Moncton 93.5 FM Moncton" group-title="Canada" tvg-id="CKUM" tvc-guide-stationid="89468",Universite de Moncton 93.5 FM Moncton
 http://example.local/CAN-CKUM.ts
@@ -705,187 +707,187 @@ http://example.local/USA-KYOT.ts
 http://example.local/USA-UVA.ts
 #EXTINF:-1 tvg-chno="94264" tvg-name="University Programming" group-title="United States" tvg-id="UNIVERS" tvc-guide-stationid="94264",University Programming
 http://example.local/USA-UNIVERS.ts
-#EXTINF:-1 tvg-chno="14791" tvg-name="UNIVERSO" tvg-logo="https://zap2it.tmsimg.com/assets/s14791_ll_h15_ab.png" group-title="United States" tvg-id="UNVSO" tvc-guide-stationid="14791",UNIVERSO
+#EXTINF:-1 tvg-chno="14791" tvg-name="UNIVERSO" tvg-logo="https://emby.tmsimg.com/assets/s14791_ll_h15_ab.png" group-title="United States" tvg-id="UNVSO" tvc-guide-stationid="14791",UNIVERSO
 http://example.local/USA-UNVSO.ts
-#EXTINF:-1 tvg-chno="14791" tvg-name="UNIVERSO" tvg-logo="https://zap2it.tmsimg.com/assets/s14791_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="UNVSO" tvc-guide-stationid="14791",UNIVERSO
+#EXTINF:-1 tvg-chno="14791" tvg-name="UNIVERSO" tvg-logo="https://emby.tmsimg.com/assets/s14791_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="UNVSO" tvc-guide-stationid="14791",UNIVERSO
 http://example.local/PRI-UNVSO.ts
-#EXTINF:-1 tvg-chno="14791" tvg-name="UNIVERSO" tvg-logo="https://zap2it.tmsimg.com/assets/s14791_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="UNVSO" tvc-guide-stationid="14791",UNIVERSO
+#EXTINF:-1 tvg-chno="14791" tvg-name="UNIVERSO" tvg-logo="https://emby.tmsimg.com/assets/s14791_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="UNVSO" tvc-guide-stationid="14791",UNIVERSO
 http://example.local/DOM-UNVSO.ts
-#EXTINF:-1 tvg-chno="14791" tvg-name="UNIVERSO" tvg-logo="https://zap2it.tmsimg.com/assets/s14791_ll_h15_ab.png" group-title="Belize" tvg-id="UNVSO" tvc-guide-stationid="14791",UNIVERSO
+#EXTINF:-1 tvg-chno="14791" tvg-name="UNIVERSO" tvg-logo="https://emby.tmsimg.com/assets/s14791_ll_h15_ab.png" group-title="Belize" tvg-id="UNVSO" tvc-guide-stationid="14791",UNIVERSO
 http://example.local/BLZ-UNVSO.ts
 #EXTINF:-1 tvg-chno="17599" tvg-name="UNIVERSO (Pacific)" tvg-logo="https://logos.jesmann.com/unvsop.png" group-title="United States" tvg-id="UNVSOP" tvc-guide-stationid="17599",UNIVERSO (Pacific)
 http://example.local/USA-UNVSOP.ts
-#EXTINF:-1 tvg-chno="96713" tvg-name="UNIVERSO (Stream)" tvg-logo="https://zap2it.tmsimg.com/assets/s14791_ll_h15_ab.png" group-title="United States" tvg-id="UNVSSTR" tvc-guide-stationid="96713",UNIVERSO (Stream)
+#EXTINF:-1 tvg-chno="96713" tvg-name="UNIVERSO (Stream)" tvg-logo="https://emby.tmsimg.com/assets/s14791_ll_h15_ab.png" group-title="United States" tvg-id="UNVSSTR" tvc-guide-stationid="96713",UNIVERSO (Stream)
 http://example.local/USA-UNVSSTR.ts
-#EXTINF:-1 tvg-chno="91588" tvg-name="UNIVERSO HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91588_ll_h15_ab.png" group-title="United States" tvg-id="UNVSOHD" tvc-guide-stationid="91588",UNIVERSO HD
+#EXTINF:-1 tvg-chno="91588" tvg-name="UNIVERSO HD" tvg-logo="https://emby.tmsimg.com/assets/s91588_ll_h15_ab.png" group-title="United States" tvg-id="UNVSOHD" tvc-guide-stationid="91588",UNIVERSO HD
 http://example.local/USA-UNVSOHD.ts
 #EXTINF:-1 tvg-chno="91880" tvg-name="UNIVERSO HD (Pacific)" tvg-logo="https://logos.jesmann.com/unvsphd.png" group-title="United States" tvg-id="UNVSPHD" tvc-guide-stationid="91880",UNIVERSO HD (Pacific)
 http://example.local/USA-UNVSPHD.ts
 #EXTINF:-1 tvg-chno="102959" tvg-name="UNIVERSO HD (Pacific) Stream" tvg-logo="https://logos.jesmann.com/uvsphst.png" group-title="United States" tvg-id="UVSPHST" tvc-guide-stationid="102959",UNIVERSO HD (Pacific) Stream
 http://example.local/USA-UVSPHST.ts
-#EXTINF:-1 tvg-chno="105478" tvg-name="Univesp TV" tvg-logo="https://zap2it.tmsimg.com/assets/s105478_ll_h15_aa.png" group-title="Brazil" tvg-id="UNIVESP" tvc-guide-stationid="105478",Univesp TV
+#EXTINF:-1 tvg-chno="105478" tvg-name="Univesp TV" tvg-logo="https://emby.tmsimg.com/assets/s105478_ll_h15_aa.png" group-title="Brazil" tvg-id="UNIVESP" tvc-guide-stationid="105478",Univesp TV
 http://example.local/BRA-UNIVESP.ts
-#EXTINF:-1 tvg-chno="114730" tvg-name="Univision" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="Colombia" tvg-id="UNILATS" tvc-guide-stationid="114730",Univision
+#EXTINF:-1 tvg-chno="114730" tvg-name="Univision" tvg-logo="https://emby.tmsimg.com/assets/s11118_h3_ba.png" group-title="Colombia" tvg-id="UNILATS" tvc-guide-stationid="114730",Univision
 http://example.local/COL-UNILATS.ts
-#EXTINF:-1 tvg-chno="88279" tvg-name="Univision Canada" tvg-logo="https://zap2it.tmsimg.com/assets/s88279_ll_h9_aa.png" group-title="Canada" tvg-id="UNICAN" tvc-guide-stationid="88279",Univision Canada
+#EXTINF:-1 tvg-chno="88279" tvg-name="Univision Canada" tvg-logo="https://emby.tmsimg.com/assets/s88279_ll_h9_aa.png" group-title="Canada" tvg-id="UNICAN" tvc-guide-stationid="88279",Univision Canada
 http://example.local/CAN-UNICAN.ts
-#EXTINF:-1 tvg-chno="102514" tvg-name="Univision Canada HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102514_ll_h9_aa.png" group-title="Canada" tvg-id="UNICANH" tvc-guide-stationid="102514",Univision Canada HD
+#EXTINF:-1 tvg-chno="102514" tvg-name="Univision Canada HD" tvg-logo="https://emby.tmsimg.com/assets/s102514_ll_h9_aa.png" group-title="Canada" tvg-id="UNICANH" tvc-guide-stationid="102514",Univision Canada HD
 http://example.local/CAN-UNICANH.ts
 #EXTINF:-1 tvg-chno="14762" tvg-name="Univision Network (Pacific) (UNI)" tvg-logo="https://logos.jesmann.com/unip.png" group-title="United States" tvg-id="UNIP" tvc-guide-stationid="14762",Univision Network (Pacific) (UNI)
 http://example.local/USA-UNIP.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Mexico" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Mexico" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/MEX-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="United States" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="United States" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/USA-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Bermuda" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Bermuda" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/BMU-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Chile" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Chile" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/CHL-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Colombia" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Colombia" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/COL-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Peru" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Peru" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/PER-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Costa Rica" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Costa Rica" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/CRI-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Jamaica" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Jamaica" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/JAM-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/PRI-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Guatemala" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Guatemala" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/GTM-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Uruguay" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Uruguay" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/URY-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Bahamas" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Bahamas" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/BHS-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/CYM-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/BES-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Belize" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Belize" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/BLZ-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Panama" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Panama" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/PAN-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Turks and Caicos" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Turks and Caicos" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/TCA-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Antigua and Barbuda" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Antigua and Barbuda" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/ATG-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="St. Lucia" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="St. Lucia" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/LCA-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Aruba" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Aruba" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/ABW-UNI.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Anguilla" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Anguilla" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/AIA-UNI.ts
 #EXTINF:-1 tvg-chno="77792" tvg-name="Univision Network HD (Pacific) (UNI)" tvg-logo="https://logos.jesmann.com/uniphd.png" group-title="United States" tvg-id="UNIPHD" tvc-guide-stationid="77792",Univision Network HD (Pacific) (UNI)
 http://example.local/USA-UNIPHD.ts
-#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="United States" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
+#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_h3_ba.png" group-title="United States" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
 http://example.local/USA-UNIHD.ts
-#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="Chile" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
+#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_h3_ba.png" group-title="Chile" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
 http://example.local/CHL-UNIHD.ts
-#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="Colombia" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
+#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_h3_ba.png" group-title="Colombia" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
 http://example.local/COL-UNIHD.ts
-#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="Peru" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
+#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_h3_ba.png" group-title="Peru" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
 http://example.local/PER-UNIHD.ts
-#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="Jamaica" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
+#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_h3_ba.png" group-title="Jamaica" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
 http://example.local/JAM-UNIHD.ts
-#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="Venezuela" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
+#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_h3_ba.png" group-title="Venezuela" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
 http://example.local/VEN-UNIHD.ts
-#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="Guatemala" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
+#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_h3_ba.png" group-title="Guatemala" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
 http://example.local/GTM-UNIHD.ts
-#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="Cayman Islands" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
+#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_h3_ba.png" group-title="Cayman Islands" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
 http://example.local/CYM-UNIHD.ts
-#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
+#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
 http://example.local/TTO-UNIHD.ts
-#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="Belize" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
+#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_h3_ba.png" group-title="Belize" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
 http://example.local/BLZ-UNIHD.ts
-#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="Barbados" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
+#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_h3_ba.png" group-title="Barbados" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
 http://example.local/BRB-UNIHD.ts
-#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="St. Kitts and Nevis" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
+#EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_h3_ba.png" group-title="St. Kitts and Nevis" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
 http://example.local/KNA-UNIHD.ts
-#EXTINF:-1 tvg-chno="91259" tvg-name="Univision Satellite HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="United States" tvg-id="CUNIHD" tvc-guide-stationid="91259",Univision Satellite HD (UNI)
+#EXTINF:-1 tvg-chno="91259" tvg-name="Univision Satellite HD (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="United States" tvg-id="CUNIHD" tvc-guide-stationid="91259",Univision Satellite HD (UNI)
 http://example.local/USA-CUNIHD.ts
-#EXTINF:-1 tvg-chno="75951" tvg-name="Univision TDN" tvg-logo="https://zap2it.tmsimg.com/assets/s75176_ll_h15_ae.png" group-title="Mexico" tvg-id="UTDN" tvc-guide-stationid="75951",Univision TDN
+#EXTINF:-1 tvg-chno="75951" tvg-name="Univision TDN" tvg-logo="https://emby.tmsimg.com/assets/s75176_ll_h15_ae.png" group-title="Mexico" tvg-id="UTDN" tvc-guide-stationid="75951",Univision TDN
 http://example.local/MEX-UTDN.ts
-#EXTINF:-1 tvg-chno="75951" tvg-name="Univision TDN" tvg-logo="https://zap2it.tmsimg.com/assets/s75176_ll_h15_ae.png" group-title="Guatemala" tvg-id="UTDN" tvc-guide-stationid="75951",Univision TDN
+#EXTINF:-1 tvg-chno="75951" tvg-name="Univision TDN" tvg-logo="https://emby.tmsimg.com/assets/s75176_ll_h15_ae.png" group-title="Guatemala" tvg-id="UTDN" tvc-guide-stationid="75951",Univision TDN
 http://example.local/GTM-UTDN.ts
-#EXTINF:-1 tvg-chno="75951" tvg-name="Univision TDN" tvg-logo="https://zap2it.tmsimg.com/assets/s75176_ll_h15_ae.png" group-title="Panama" tvg-id="UTDN" tvc-guide-stationid="75951",Univision TDN
+#EXTINF:-1 tvg-chno="75951" tvg-name="Univision TDN" tvg-logo="https://emby.tmsimg.com/assets/s75176_ll_h15_ae.png" group-title="Panama" tvg-id="UTDN" tvc-guide-stationid="75951",Univision TDN
 http://example.local/PAN-UTDN.ts
-#EXTINF:-1 tvg-chno="74550" tvg-name="Univision TL Novelas" tvg-logo="https://zap2it.tmsimg.com/assets/s74550_h3_aa.png" group-title="United States" tvg-id="UNITLNO" tvc-guide-stationid="74550",Univision TL Novelas
+#EXTINF:-1 tvg-chno="74550" tvg-name="Univision TL Novelas" tvg-logo="https://emby.tmsimg.com/assets/s74550_h3_aa.png" group-title="United States" tvg-id="UNITLNO" tvc-guide-stationid="74550",Univision TL Novelas
 http://example.local/USA-UNITLNO.ts
-#EXTINF:-1 tvg-chno="98044" tvg-name="Univision TL Novelas HD" tvg-logo="https://zap2it.tmsimg.com/assets/s74550_ll_h15_ab.png" group-title="United States" tvg-id="UNITLNH" tvc-guide-stationid="98044",Univision TL Novelas HD
+#EXTINF:-1 tvg-chno="98044" tvg-name="Univision TL Novelas HD" tvg-logo="https://emby.tmsimg.com/assets/s74550_ll_h15_ab.png" group-title="United States" tvg-id="UNITLNH" tvc-guide-stationid="98044",Univision TL Novelas HD
 http://example.local/USA-UNITLNH.ts
-#EXTINF:-1 tvg-chno="107517" tvg-name="UnserDing" tvg-logo="https://zap2it.tmsimg.com/assets/s107517_ll_h15_ab.png" group-title="Germany" tvg-id="UDING" tvc-guide-stationid="107517",UnserDing
+#EXTINF:-1 tvg-chno="107517" tvg-name="UnserDing" tvg-logo="https://emby.tmsimg.com/assets/s107517_ll_h15_ab.png" group-title="Germany" tvg-id="UDING" tvc-guide-stationid="107517",UnserDing
 http://example.local/DEU-UDING.ts
-#EXTINF:-1 tvg-chno="107565" tvg-name="unserRadio Deggendorf" tvg-logo="https://zap2it.tmsimg.com/assets/s107565_ll_h9_aa.png" group-title="Germany" tvg-id="URDEGD" tvc-guide-stationid="107565",unserRadio Deggendorf
+#EXTINF:-1 tvg-chno="107565" tvg-name="unserRadio Deggendorf" tvg-logo="https://emby.tmsimg.com/assets/s107565_ll_h9_aa.png" group-title="Germany" tvg-id="URDEGD" tvc-guide-stationid="107565",unserRadio Deggendorf
 http://example.local/DEU-URDEGD.ts
-#EXTINF:-1 tvg-chno="107830" tvg-name="unserRadio Passau" tvg-logo="https://zap2it.tmsimg.com/assets/s107830_ll_h9_aa.png" group-title="Germany" tvg-id="PASSAU" tvc-guide-stationid="107830",unserRadio Passau
+#EXTINF:-1 tvg-chno="107830" tvg-name="unserRadio Passau" tvg-logo="https://emby.tmsimg.com/assets/s107830_ll_h9_aa.png" group-title="Germany" tvg-id="PASSAU" tvc-guide-stationid="107830",unserRadio Passau
 http://example.local/DEU-PASSAU.ts
-#EXTINF:-1 tvg-chno="157907" tvg-name="Unsolved Mysteries" tvg-logo="https://zap2it.tmsimg.com/assets/s157907_ll_h15_aa.png" group-title="Canada" tvg-id="XRGUNSL" tvc-guide-stationid="157907",Unsolved Mysteries
+#EXTINF:-1 tvg-chno="157907" tvg-name="Unsolved Mysteries" tvg-logo="https://emby.tmsimg.com/assets/s157907_ll_h15_aa.png" group-title="Canada" tvg-id="XRGUNSL" tvc-guide-stationid="157907",Unsolved Mysteries
 http://example.local/CAN-XRGUNSL.ts
-#EXTINF:-1 tvg-chno="145038" tvg-name="Unsolved Mysteries" tvg-logo="https://zap2it.tmsimg.com/assets/s145038_ll_h9_aa.png" group-title="Germany" tvg-id="XAZDUM" tvc-guide-stationid="145038",Unsolved Mysteries
+#EXTINF:-1 tvg-chno="145038" tvg-name="Unsolved Mysteries" tvg-logo="https://emby.tmsimg.com/assets/s145038_ll_h9_aa.png" group-title="Germany" tvg-id="XAZDUM" tvc-guide-stationid="145038",Unsolved Mysteries
 http://example.local/DEU-XAZDUM.ts
-#EXTINF:-1 tvg-chno="134762" tvg-name="Unsolved Mysteries" tvg-logo="https://zap2it.tmsimg.com/assets/s134762_ll_h9_aa.png" group-title="United States" tvg-id="XSLUM" tvc-guide-stationid="134762",Unsolved Mysteries
+#EXTINF:-1 tvg-chno="134762" tvg-name="Unsolved Mysteries" tvg-logo="https://emby.tmsimg.com/assets/s134762_ll_h9_aa.png" group-title="United States" tvg-id="XSLUM" tvc-guide-stationid="134762",Unsolved Mysteries
 http://example.local/USA-XSLUM.ts
-#EXTINF:-1 tvg-chno="118458" tvg-name="Unsolved Mysteries" tvg-logo="https://zap2it.tmsimg.com/assets/s118458_ll_h9_ab.png" group-title="United States" tvg-id="XAZUMUK" tvc-guide-stationid="118458",Unsolved Mysteries
+#EXTINF:-1 tvg-chno="118458" tvg-name="Unsolved Mysteries" tvg-logo="https://emby.tmsimg.com/assets/s118458_ll_h9_ab.png" group-title="United States" tvg-id="XAZUMUK" tvc-guide-stationid="118458",Unsolved Mysteries
 http://example.local/USA-XAZUMUK.ts
-#EXTINF:-1 tvg-chno="113370" tvg-name="Unsolved Mysteries" tvg-logo="https://zap2it.tmsimg.com/assets/s113370_ll_h9_ab.png" group-title="United States" tvg-id="XAZUNS" tvc-guide-stationid="113370",Unsolved Mysteries
+#EXTINF:-1 tvg-chno="113370" tvg-name="Unsolved Mysteries" tvg-logo="https://emby.tmsimg.com/assets/s113370_ll_h9_ab.png" group-title="United States" tvg-id="XAZUNS" tvc-guide-stationid="113370",Unsolved Mysteries
 http://example.local/USA-XAZUNS.ts
-#EXTINF:-1 tvg-chno="124625" tvg-name="Unsolved Mysteries" tvg-logo="https://zap2it.tmsimg.com/assets/s124625_ll_h9_aa.png" group-title="United States" tvg-id="XTBUSL" tvc-guide-stationid="124625",Unsolved Mysteries
+#EXTINF:-1 tvg-chno="124625" tvg-name="Unsolved Mysteries" tvg-logo="https://emby.tmsimg.com/assets/s124625_ll_h9_aa.png" group-title="United States" tvg-id="XTBUSL" tvc-guide-stationid="124625",Unsolved Mysteries
 http://example.local/USA-XTBUSL.ts
 #EXTINF:-1 tvg-chno="120973" tvg-name="Unsolved Mysteries" group-title="United States" tvg-id="VIZUNMY" tvc-guide-stationid="120973",Unsolved Mysteries
 http://example.local/USA-VIZUNMY.ts
-#EXTINF:-1 tvg-chno="137083" tvg-name="Unsolved Mysteries" tvg-logo="https://zap2it.tmsimg.com/assets/s113370_ll_h9_ab.png" group-title="United States" tvg-id="XPLUSM" tvc-guide-stationid="137083",Unsolved Mysteries
+#EXTINF:-1 tvg-chno="137083" tvg-name="Unsolved Mysteries" tvg-logo="https://emby.tmsimg.com/assets/s113370_ll_h9_ab.png" group-title="United States" tvg-id="XPLUSM" tvc-guide-stationid="137083",Unsolved Mysteries
 http://example.local/USA-XPLUSM.ts
-#EXTINF:-1 tvg-chno="118458" tvg-name="Unsolved Mysteries" tvg-logo="https://zap2it.tmsimg.com/assets/s118458_ll_h9_ab.png" group-title="United Kingdom" tvg-id="XAZUMUK" tvc-guide-stationid="118458",Unsolved Mysteries
+#EXTINF:-1 tvg-chno="118458" tvg-name="Unsolved Mysteries" tvg-logo="https://emby.tmsimg.com/assets/s118458_ll_h9_ab.png" group-title="United Kingdom" tvg-id="XAZUMUK" tvc-guide-stationid="118458",Unsolved Mysteries
 http://example.local/GBR-XAZUMUK.ts
-#EXTINF:-1 tvg-chno="115073" tvg-name="Unsolved Mysteries" tvg-logo="https://zap2it.tmsimg.com/assets/s115073_ll_h15_ab.png" group-title="United Kingdom" tvg-id="PTVUKUM" tvc-guide-stationid="115073",Unsolved Mysteries
+#EXTINF:-1 tvg-chno="115073" tvg-name="Unsolved Mysteries" tvg-logo="https://emby.tmsimg.com/assets/s115073_ll_h15_ab.png" group-title="United Kingdom" tvg-id="PTVUKUM" tvc-guide-stationid="115073",Unsolved Mysteries
 http://example.local/GBR-PTVUKUM.ts
-#EXTINF:-1 tvg-chno="187320" tvg-name="Unspeakable" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0023XGLY.png" group-title="Canada" tvg-id="XRGUNP" tvc-guide-stationid="187320",Unspeakable
+#EXTINF:-1 tvg-chno="187320" tvg-name="Unspeakable" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0023XGLY.png" group-title="Canada" tvg-id="XRGUNP" tvc-guide-stationid="187320",Unspeakable
 http://example.local/CAN-XRGUNP.ts
-#EXTINF:-1 tvg-chno="135388" tvg-name="Unspeakable" tvg-logo="https://zap2it.tmsimg.com/assets/s135388_ll_h15_aa.png" group-title="United States" tvg-id="XAZUSP" tvc-guide-stationid="135388",Unspeakable
+#EXTINF:-1 tvg-chno="135388" tvg-name="Unspeakable" tvg-logo="https://emby.tmsimg.com/assets/s135388_ll_h15_aa.png" group-title="United States" tvg-id="XAZUSP" tvc-guide-stationid="135388",Unspeakable
 http://example.local/USA-XAZUSP.ts
-#EXTINF:-1 tvg-chno="187319" tvg-name="Untold Stories of the E.R." tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002F42LX.png" group-title="Canada" tvg-id="XRGUER" tvc-guide-stationid="187319",Untold Stories of the E.R.
+#EXTINF:-1 tvg-chno="187319" tvg-name="Untold Stories of the E.R." tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002F42LX.png" group-title="Canada" tvg-id="XRGUER" tvc-guide-stationid="187319",Untold Stories of the E.R.
 http://example.local/CAN-XRGUER.ts
-#EXTINF:-1 tvg-chno="156959" tvg-name="Untold Stories of the ER" tvg-logo="https://zap2it.tmsimg.com/assets/s156959_ll_h9_aa.png" group-title="United States" tvg-id="XMVUER" tvc-guide-stationid="156959",Untold Stories of the ER
+#EXTINF:-1 tvg-chno="156959" tvg-name="Untold Stories of the ER" tvg-logo="https://emby.tmsimg.com/assets/s156959_ll_h9_aa.png" group-title="United States" tvg-id="XMVUER" tvc-guide-stationid="156959",Untold Stories of the ER
 http://example.local/USA-XMVUER.ts
-#EXTINF:-1 tvg-chno="156959" tvg-name="Untold Stories of the ER" tvg-logo="https://zap2it.tmsimg.com/assets/s156959_ll_h9_aa.png" group-title="United Kingdom" tvg-id="XMVUER" tvc-guide-stationid="156959",Untold Stories of the ER
+#EXTINF:-1 tvg-chno="156959" tvg-name="Untold Stories of the ER" tvg-logo="https://emby.tmsimg.com/assets/s156959_ll_h9_aa.png" group-title="United Kingdom" tvg-id="XMVUER" tvc-guide-stationid="156959",Untold Stories of the ER
 http://example.local/GBR-XMVUER.ts
 #EXTINF:-1 tvg-chno="184999" tvg-name="Untold Stories of the ER" group-title="United Kingdom" tvg-id="XTLUSER" tvc-guide-stationid="184999",Untold Stories of the ER
 http://example.local/GBR-XTLUSER.ts
-#EXTINF:-1 tvg-chno="123431" tvg-name="UnXplained Zone" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NPWF6.png" group-title="United States" tvg-id="UNXPLND" tvc-guide-stationid="123431",UnXplained Zone
+#EXTINF:-1 tvg-chno="123431" tvg-name="UnXplained Zone" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002NPWF6.png" group-title="United States" tvg-id="UNXPLND" tvc-guide-stationid="123431",UnXplained Zone
 http://example.local/USA-UNXPLND.ts
-#EXTINF:-1 tvg-chno="53278" tvg-name="UP On Demand" tvg-logo="https://zap2it.tmsimg.com/assets/s53278_ll_h15_ac.png" group-title="United States" tvg-id="UPDM" tvc-guide-stationid="53278",UP On Demand
+#EXTINF:-1 tvg-chno="53278" tvg-name="UP On Demand" tvg-logo="https://emby.tmsimg.com/assets/s53278_ll_h15_ac.png" group-title="United States" tvg-id="UPDM" tvc-guide-stationid="53278",UP On Demand
 http://example.local/USA-UPDM.ts
 #EXTINF:-1 tvg-chno="92850" tvg-name="Upgrade" group-title="United States" tvg-id="UPGRADE" tvc-guide-stationid="92850",Upgrade
 http://example.local/USA-UPGRADE.ts
-#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://zap2it.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="United States" tvg-id="UP" tvc-guide-stationid="44940",UPtv
+#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://emby.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="United States" tvg-id="UP" tvc-guide-stationid="44940",UPtv
 http://example.local/USA-UP.ts
 #EXTINF:-1 tvg-chno="26683" tvg-name="UPTV" group-title="United States" tvg-id="UPTV" tvc-guide-stationid="26683",UPTV
 http://example.local/USA-UPTV.ts
-#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://zap2it.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Bermuda" tvg-id="UP" tvc-guide-stationid="44940",UPtv
+#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://emby.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Bermuda" tvg-id="UP" tvc-guide-stationid="44940",UPtv
 http://example.local/BMU-UP.ts
-#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://zap2it.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Jamaica" tvg-id="UP" tvc-guide-stationid="44940",UPtv
+#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://emby.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Jamaica" tvg-id="UP" tvc-guide-stationid="44940",UPtv
 http://example.local/JAM-UP.ts
-#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://zap2it.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="UP" tvc-guide-stationid="44940",UPtv
+#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://emby.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="UP" tvc-guide-stationid="44940",UPtv
 http://example.local/PRI-UP.ts
-#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://zap2it.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Bahamas" tvg-id="UP" tvc-guide-stationid="44940",UPtv
+#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://emby.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Bahamas" tvg-id="UP" tvc-guide-stationid="44940",UPtv
 http://example.local/BHS-UP.ts
-#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://zap2it.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="UP" tvc-guide-stationid="44940",UPtv
+#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://emby.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="UP" tvc-guide-stationid="44940",UPtv
 http://example.local/CYM-UP.ts
-#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://zap2it.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="UP" tvc-guide-stationid="44940",UPtv
+#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://emby.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="UP" tvc-guide-stationid="44940",UPtv
 http://example.local/TTO-UP.ts
-#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://zap2it.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Panama" tvg-id="UP" tvc-guide-stationid="44940",UPtv
+#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://emby.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Panama" tvg-id="UP" tvc-guide-stationid="44940",UPtv
 http://example.local/PAN-UP.ts
-#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://zap2it.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Barbados" tvg-id="UP" tvc-guide-stationid="44940",UPtv
+#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://emby.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Barbados" tvg-id="UP" tvc-guide-stationid="44940",UPtv
 http://example.local/BRB-UP.ts
-#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://zap2it.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Antigua and Barbuda" tvg-id="UP" tvc-guide-stationid="44940",UPtv
+#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://emby.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Antigua and Barbuda" tvg-id="UP" tvc-guide-stationid="44940",UPtv
 http://example.local/ATG-UP.ts
-#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://zap2it.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="St. Lucia" tvg-id="UP" tvc-guide-stationid="44940",UPtv
+#EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://emby.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="St. Lucia" tvg-id="UP" tvc-guide-stationid="44940",UPtv
 http://example.local/LCA-UP.ts
-#EXTINF:-1 tvg-chno="66143" tvg-name="UPtv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s66143_ll_h15_ac.png" group-title="United States" tvg-id="UPHD" tvc-guide-stationid="66143",UPtv HD
+#EXTINF:-1 tvg-chno="66143" tvg-name="UPtv HD" tvg-logo="https://emby.tmsimg.com/assets/s66143_ll_h15_ac.png" group-title="United States" tvg-id="UPHD" tvc-guide-stationid="66143",UPtv HD
 http://example.local/USA-UPHD.ts
-#EXTINF:-1 tvg-chno="185993" tvg-name="UPtv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s66143_ll_h15_ac.png" group-title="United States" tvg-id="UPHDS" tvc-guide-stationid="185993",UPtv HD
+#EXTINF:-1 tvg-chno="185993" tvg-name="UPtv HD" tvg-logo="https://emby.tmsimg.com/assets/s66143_ll_h15_ac.png" group-title="United States" tvg-id="UPHDS" tvc-guide-stationid="185993",UPtv HD
 http://example.local/USA-UPHDS.ts
-#EXTINF:-1 tvg-chno="172260" tvg-name="Urania News" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002R85MS.png" group-title="Italy" tvg-id="URANIA" tvc-guide-stationid="172260",Urania News
+#EXTINF:-1 tvg-chno="172260" tvg-name="Urania News" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002R85MS.png" group-title="Italy" tvg-id="URANIA" tvc-guide-stationid="172260",Urania News
 http://example.local/ITA-URANIA.ts
 #EXTINF:-1 tvg-chno="101555" tvg-name="Urban" group-title="Germany" tvg-id="URBANRA" tvc-guide-stationid="101555",Urban
 http://example.local/DEU-URBANRA.ts
@@ -893,129 +895,127 @@ http://example.local/DEU-URBANRA.ts
 http://example.local/USA-UPTV6.ts
 #EXTINF:-1 tvg-chno="68322" tvg-name="US Armenian TV" group-title="United States" tvg-id="USATV" tvc-guide-stationid="68322",US Armenian TV
 http://example.local/USA-USATV.ts
-#EXTINF:-1 tvg-chno="113964" tvg-name="US Open" tvg-logo="https://zap2it.tmsimg.com/assets/s113964_ll_h15_ab.png" group-title="United States" tvg-id="PK18" tvc-guide-stationid="113964",US Open
+#EXTINF:-1 tvg-chno="113964" tvg-name="US Open" tvg-logo="https://emby.tmsimg.com/assets/s113964_ll_h15_ab.png" group-title="United States" tvg-id="PK18" tvc-guide-stationid="113964",US Open
 http://example.local/USA-PK18.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Mexico" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Mexico" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/MEX-USALA.ts
-#EXTINF:-1 tvg-chno="101327" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Mexico" tvg-id="USALAH" tvc-guide-stationid="101327",USA
+#EXTINF:-1 tvg-chno="101327" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Mexico" tvg-id="USALAH" tvc-guide-stationid="101327",USA
 http://example.local/MEX-USALAH.ts
 #EXTINF:-1 tvg-chno="47058" tvg-name="USA" group-title="United States" tvg-id="GUSA1WD" tvc-guide-stationid="47058",USA
 http://example.local/USA-GUSA1WD.ts
-#EXTINF:-1 tvg-chno="75599" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s75599_ll_h15_ab.png" group-title="Brazil" tvg-id="USABR" tvc-guide-stationid="75599",USA
+#EXTINF:-1 tvg-chno="75599" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s75599_ll_h15_ab.png" group-title="Brazil" tvg-id="USABR" tvc-guide-stationid="75599",USA
 http://example.local/BRA-USABR.ts
-#EXTINF:-1 tvg-chno="104739" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s104739_ll_h15_ab.png" group-title="Brazil" tvg-id="USABHD" tvc-guide-stationid="104739",USA
+#EXTINF:-1 tvg-chno="104739" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s104739_ll_h15_ab.png" group-title="Brazil" tvg-id="USABHD" tvc-guide-stationid="104739",USA
 http://example.local/BRA-USABHD.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Chile" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Chile" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/CHL-USALA.ts
-#EXTINF:-1 tvg-chno="101327" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Colombia" tvg-id="USALAH" tvc-guide-stationid="101327",USA
+#EXTINF:-1 tvg-chno="101327" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Colombia" tvg-id="USALAH" tvc-guide-stationid="101327",USA
 http://example.local/COL-USALAH.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Colombia" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Colombia" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/COL-USALA.ts
-#EXTINF:-1 tvg-chno="101327" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Peru" tvg-id="USALAH" tvc-guide-stationid="101327",USA
+#EXTINF:-1 tvg-chno="101327" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Peru" tvg-id="USALAH" tvc-guide-stationid="101327",USA
 http://example.local/PER-USALAH.ts
-#EXTINF:-1 tvg-chno="101327" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Argentina" tvg-id="USALAH" tvc-guide-stationid="101327",USA
+#EXTINF:-1 tvg-chno="101327" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Argentina" tvg-id="USALAH" tvc-guide-stationid="101327",USA
 http://example.local/ARG-USALAH.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Argentina" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Argentina" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/ARG-USALA.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Costa Rica" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Costa Rica" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/CRI-USALA.ts
-#EXTINF:-1 tvg-chno="58427" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Jamaica" tvg-id="USALI" tvc-guide-stationid="58427",USA
+#EXTINF:-1 tvg-chno="58427" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Jamaica" tvg-id="USALI" tvc-guide-stationid="58427",USA
 http://example.local/JAM-USALI.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Jamaica" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Jamaica" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/JAM-USALA.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Venezuela" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Venezuela" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/VEN-USALA.ts
-#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="USALIH" tvc-guide-stationid="101357",USA
+#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="USALIH" tvc-guide-stationid="101357",USA
 http://example.local/PRI-USALIH.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/PRI-USALA.ts
-#EXTINF:-1 tvg-chno="58427" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="USALI" tvc-guide-stationid="58427",USA
+#EXTINF:-1 tvg-chno="58427" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="USALI" tvc-guide-stationid="58427",USA
 http://example.local/PRI-USALI.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Guatemala" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Guatemala" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/GTM-USALA.ts
-#EXTINF:-1 tvg-chno="101327" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Guatemala" tvg-id="USALAH" tvc-guide-stationid="101327",USA
+#EXTINF:-1 tvg-chno="101327" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Guatemala" tvg-id="USALAH" tvc-guide-stationid="101327",USA
 http://example.local/GTM-USALAH.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Ecuador" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Ecuador" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/ECU-USALA.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Dominican Republic" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Dominican Republic" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/DOM-USALA.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Uruguay" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Uruguay" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/URY-USALA.ts
-#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Bahamas" tvg-id="USALIH" tvc-guide-stationid="101357",USA
+#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Bahamas" tvg-id="USALIH" tvc-guide-stationid="101357",USA
 http://example.local/BHS-USALIH.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Cayman Islands" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Cayman Islands" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/CYM-USALA.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/TTO-USALA.ts
-#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="USALIH" tvc-guide-stationid="101357",USA
+#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="USALIH" tvc-guide-stationid="101357",USA
 http://example.local/TTO-USALIH.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Saint Vincent and the Grenadines" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Saint Vincent and the Grenadines" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/VCT-USALA.ts
-#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Saint Vincent and the Grenadines" tvg-id="USALIH" tvc-guide-stationid="101357",USA
+#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Saint Vincent and the Grenadines" tvg-id="USALIH" tvc-guide-stationid="101357",USA
 http://example.local/VCT-USALIH.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Belize" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Belize" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/BLZ-USALA.ts
-#EXTINF:-1 tvg-chno="101327" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Belize" tvg-id="USALAH" tvc-guide-stationid="101327",USA
+#EXTINF:-1 tvg-chno="101327" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Belize" tvg-id="USALAH" tvc-guide-stationid="101327",USA
 http://example.local/BLZ-USALAH.ts
-#EXTINF:-1 tvg-chno="58427" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Belize" tvg-id="USALI" tvc-guide-stationid="58427",USA
+#EXTINF:-1 tvg-chno="58427" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Belize" tvg-id="USALI" tvc-guide-stationid="58427",USA
 http://example.local/BLZ-USALI.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Panama" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Panama" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/PAN-USALA.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Barbados" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Barbados" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/BRB-USALA.ts
-#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Barbados" tvg-id="USALIH" tvc-guide-stationid="101357",USA
+#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Barbados" tvg-id="USALIH" tvc-guide-stationid="101357",USA
 http://example.local/BRB-USALIH.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Turks and Caicos" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Turks and Caicos" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/TCA-USALA.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Dominica" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Dominica" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/DMA-USALA.ts
-#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Dominica" tvg-id="USALIH" tvc-guide-stationid="101357",USA
+#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Dominica" tvg-id="USALIH" tvc-guide-stationid="101357",USA
 http://example.local/DMA-USALIH.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Grenada" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Grenada" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/GRD-USALA.ts
-#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Grenada" tvg-id="USALIH" tvc-guide-stationid="101357",USA
+#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Grenada" tvg-id="USALIH" tvc-guide-stationid="101357",USA
 http://example.local/GRD-USALIH.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Antigua and Barbuda" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Antigua and Barbuda" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/ATG-USALA.ts
-#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Antigua and Barbuda" tvg-id="USALIH" tvc-guide-stationid="101357",USA
+#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Antigua and Barbuda" tvg-id="USALIH" tvc-guide-stationid="101357",USA
 http://example.local/ATG-USALIH.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="St. Lucia" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="St. Lucia" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/LCA-USALA.ts
-#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="St. Lucia" tvg-id="USALIH" tvc-guide-stationid="101357",USA
+#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="St. Lucia" tvg-id="USALIH" tvc-guide-stationid="101357",USA
 http://example.local/LCA-USALIH.ts
-#EXTINF:-1 tvg-chno="75599" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s75599_ll_h15_ab.png" group-title="Curacao" tvg-id="USABR" tvc-guide-stationid="75599",USA
+#EXTINF:-1 tvg-chno="75599" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s75599_ll_h15_ab.png" group-title="Curacao" tvg-id="USABR" tvc-guide-stationid="75599",USA
 http://example.local/CUW-USABR.ts
-#EXTINF:-1 tvg-chno="58427" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Curacao" tvg-id="USALI" tvc-guide-stationid="58427",USA
+#EXTINF:-1 tvg-chno="58427" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Curacao" tvg-id="USALI" tvc-guide-stationid="58427",USA
 http://example.local/CUW-USALI.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Curacao" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Curacao" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/CUW-USALA.ts
-#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Curacao" tvg-id="USALIH" tvc-guide-stationid="101357",USA
+#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Curacao" tvg-id="USALIH" tvc-guide-stationid="101357",USA
 http://example.local/CUW-USALIH.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Aruba" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Aruba" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/ABW-USALA.ts
-#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Aruba" tvg-id="USALIH" tvc-guide-stationid="101357",USA
+#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Aruba" tvg-id="USALIH" tvc-guide-stationid="101357",USA
 http://example.local/ABW-USALIH.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Anguilla" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Anguilla" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/AIA-USALA.ts
-#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Anguilla" tvg-id="USALIH" tvc-guide-stationid="101357",USA
+#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Anguilla" tvg-id="USALIH" tvc-guide-stationid="101357",USA
 http://example.local/AIA-USALIH.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/KNA-USALA.ts
-#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="USALIH" tvc-guide-stationid="101357",USA
+#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="USALIH" tvc-guide-stationid="101357",USA
 http://example.local/KNA-USALIH.ts
-#EXTINF:-1 tvg-chno="58427" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="USALI" tvc-guide-stationid="58427",USA
+#EXTINF:-1 tvg-chno="58427" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="USALI" tvc-guide-stationid="58427",USA
 http://example.local/KNA-USALI.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Saint Martin" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Saint Martin" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/MAF-USALA.ts
-#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Saint Martin" tvg-id="USALIH" tvc-guide-stationid="101357",USA
+#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Saint Martin" tvg-id="USALIH" tvc-guide-stationid="101357",USA
 http://example.local/MAF-USALIH.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Guyana" tvg-id="USALA" tvc-guide-stationid="56727",USA
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Guyana" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/GUY-USALA.ts
-#EXTINF:-1 tvg-chno="92085" tvg-name="USA (DETROIT)" tvg-logo="https://zap2it.tmsimg.com/assets/s11207_ll_h15_af.png" group-title="United States" tvg-id="USADET" tvc-guide-stationid="92085",USA (DETROIT)
+#EXTINF:-1 tvg-chno="92085" tvg-name="USA (DETROIT)" tvg-logo="https://emby.tmsimg.com/assets/s11207_ll_h15_af.png" group-title="United States" tvg-id="USADET" tvc-guide-stationid="92085",USA (DETROIT)
 http://example.local/USA-USADET.ts
-#EXTINF:-1 tvg-chno="92084" tvg-name="USA (FLORIDA)" tvg-logo="https://zap2it.tmsimg.com/assets/s11207_ll_h15_af.png" group-title="United States" tvg-id="USAFL" tvc-guide-stationid="92084",USA (FLORIDA)
+#EXTINF:-1 tvg-chno="92084" tvg-name="USA (FLORIDA)" tvg-logo="https://emby.tmsimg.com/assets/s11207_ll_h15_af.png" group-title="United States" tvg-id="USAFL" tvc-guide-stationid="92084",USA (FLORIDA)
 http://example.local/USA-USAFL.ts
-#EXTINF:-1 tvg-chno="133886" tvg-name="USA DAZN 1" tvg-logo="https://zap2it.tmsimg.com/assets/s133886_ll_h15_ab.png" group-title="United States" tvg-id="USADAZN1" tvc-guide-stationid="133886",USA DAZN 1
+#EXTINF:-1 tvg-chno="133886" tvg-name="USA DAZN 1" tvg-logo="https://emby.tmsimg.com/assets/s133886_ll_h15_ab.png" group-title="United States" tvg-id="USADAZN1" tvc-guide-stationid="133886",USA DAZN 1
 http://example.local/USA-USADAZN1.ts
-#EXTINF:-1 tvg-chno="68394" tvg-name="USA HD" group-title="United States" tvg-id="GMUSAHD" tvc-guide-stationid="68394",USA HD
-http://example.local/USA-GMUSAHD.ts
