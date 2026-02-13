@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="79052" tvg-name="EPB - The Heartland Network (HEARTHD)" tvg-logo="https://emby.tmsimg.com/assets/s78584_h3_ba.png" group-title="United States" tvg-id="HRT" tvc-guide-stationid="79052",EPB - The Heartland Network (HEARTHD)
+http://example.local/USA-HRT.ts
+#EXTINF:-1 tvg-chno="72505" tvg-name="EPB Education/Govt Access" group-title="United States" tvg-id="EPBEDGA" tvc-guide-stationid="72505",EPB Education/Govt Access
+http://example.local/USA-EPBEDGA.ts
+#EXTINF:-1 tvg-chno="67612" tvg-name="EPBLO (Braves Only)" group-title="United States" tvg-id="EPBLO" tvc-guide-stationid="67612",EPBLO (Braves Only)
+http://example.local/USA-EPBLO.ts
+#EXTINF:-1 tvg-chno="15750" tvg-name="EPG" group-title="United States" tvg-id="EPG" tvc-guide-stationid="15750",EPG
+http://example.local/USA-EPG.ts
 #EXTINF:-1 tvg-chno="27696" tvg-name="EPG City Government Access" group-title="United States" tvg-id="CITYGOV" tvc-guide-stationid="27696",EPG City Government Access
 http://example.local/USA-CITYGOV.ts
 #EXTINF:-1 tvg-chno="27716" tvg-name="EPG Cox Digital PPV Previews" group-title="United States" tvg-id="COXPPV" tvc-guide-stationid="27716",EPG Cox Digital PPV Previews
@@ -1011,11 +1019,3 @@ http://example.local/USA-FDFALL.ts
 http://example.local/USA-FDFLPFN.ts
 #EXTINF:-1 tvg-chno="108407" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://emby.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLDHN" tvc-guide-stationid="108407",FanDuel Sports Network Florida
 http://example.local/USA-FDFLDHN.ts
-#EXTINF:-1 tvg-chno="108412" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://emby.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLJAX" tvc-guide-stationid="108412",FanDuel Sports Network Florida
-http://example.local/USA-FDFLJAX.ts
-#EXTINF:-1 tvg-chno="108415" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://emby.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFLNAP" tvc-guide-stationid="108415",FanDuel Sports Network Florida
-http://example.local/USA-FDFLNAP.ts
-#EXTINF:-1 tvg-chno="65412" tvg-name="FanDuel Sports Network Florida HD" tvg-logo="https://emby.tmsimg.com/assets/s50728_ll_h15_ac.png" group-title="United States" tvg-id="FDFLHD" tvc-guide-stationid="65412",FanDuel Sports Network Florida HD
-http://example.local/USA-FDFLHD.ts
-#EXTINF:-1 tvg-chno="95969" tvg-name="FanDuel Sports Network Florida HD" tvg-logo="https://emby.tmsimg.com/assets/s11095_ll_h15_ac.png" group-title="United States" tvg-id="FDFMRH" tvc-guide-stationid="95969",FanDuel Sports Network Florida HD
-http://example.local/USA-FDFMRH.ts

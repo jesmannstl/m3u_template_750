@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="117957" tvg-name="blue Sport 24 direct" tvg-logo="https://emby.tmsimg.com/assets/s117957_ll_h15_aa.png" group-title="Switzerland" tvg-id="BLSP25FR" tvc-guide-stationid="117957",blue Sport 24 direct
+http://example.local/CHE-BLSP25FR.ts
 #EXTINF:-1 tvg-chno="117918" tvg-name="blue Sport 24 Live" group-title="Switzerland" tvg-id="BLSP26" tvc-guide-stationid="117918",blue Sport 24 Live
 http://example.local/CHE-BLSP26.ts
 #EXTINF:-1 tvg-chno="117958" tvg-name="blue Sport 25 direct" group-title="Switzerland" tvg-id="BLSP26FR" tvc-guide-stationid="117958",blue Sport 25 direct
@@ -1017,5 +1019,3 @@ http://example.local/PAN-MOSNI.ts
 http://example.local/MEX-MOSNO.ts
 #EXTINF:-1 tvg-chno="59826" tvg-name="Cablevision Mosaico Noticias" group-title="Costa Rica" tvg-id="MOSNO" tvc-guide-stationid="59826",Cablevision Mosaico Noticias
 http://example.local/CRI-MOSNO.ts
-#EXTINF:-1 tvg-chno="59826" tvg-name="Cablevision Mosaico Noticias" group-title="Guatemala" tvg-id="MOSNO" tvc-guide-stationid="59826",Cablevision Mosaico Noticias
-http://example.local/GTM-MOSNO.ts

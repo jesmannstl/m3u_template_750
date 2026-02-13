@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="92684" tvg-name="Chicago Community Bulletin Board" group-title="United States" tvg-id="CAN5" tvc-guide-stationid="92684",Chicago Community Bulletin Board
+http://example.local/USA-CAN5.ts
+#EXTINF:-1 tvg-chno="102278" tvg-name="Chicago Cubs: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbchc.png" group-title="United States" tvg-id="MLBCHC" tvc-guide-stationid="102278",Chicago Cubs: MLB Extra Innings
+http://example.local/USA-MLBCHC.ts
 #EXTINF:-1 tvg-chno="102266" tvg-name="Chicago White Sox: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbchw.png" group-title="United States" tvg-id="MLBCHW" tvc-guide-stationid="102266",Chicago White Sox: MLB Extra Innings
 http://example.local/USA-MLBCHW.ts
 #EXTINF:-1 tvg-chno="122390" tvg-name="Chicken Soup for the Soul" group-title="United States" tvg-id="VIZCSSL" tvc-guide-stationid="122390",Chicken Soup for the Soul
@@ -117,6 +121,8 @@ http://example.local/USA-CIMTDT.ts
 http://example.local/USA-CINC1.ts
 #EXTINF:-1 tvg-chno="98470" tvg-name="Cincinnati PEG2" group-title="United States" tvg-id="CINC2" tvc-guide-stationid="98470",Cincinnati PEG2
 http://example.local/USA-CINC2.ts
+#EXTINF:-1 tvg-chno="136323" tvg-name="Cincinnati Reds" tvg-logo="https://emby.tmsimg.com/assets/s136323_ll_h15_ab.png" group-title="United States" tvg-id="CINR" tvc-guide-stationid="136323",Cincinnati Reds
+http://example.local/USA-CINR.ts
 #EXTINF:-1 tvg-chno="102279" tvg-name="Cincinnati Reds: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbcin.png" group-title="United States" tvg-id="MLBCIN" tvc-guide-stationid="102279",Cincinnati Reds: MLB Extra Innings
 http://example.local/USA-MLBCIN.ts
 #EXTINF:-1 tvg-chno="123938" tvg-name="Cine Club" tvg-logo="https://emby.tmsimg.com/assets/s123938_ll_h15_ab.png" group-title="United States" tvg-id="CINCLB" tvc-guide-stationid="123938",Cine Club
@@ -1013,9 +1019,3 @@ http://example.local/USA-CCICC.ts
 http://example.local/USA-CWCON.ts
 #EXTINF:-1 tvg-chno="107034" tvg-name="Continuum Local" group-title="United States" tvg-id="LOCALA" tvc-guide-stationid="107034",Continuum Local
 http://example.local/USA-LOCALA.ts
-#EXTINF:-1 tvg-chno="124640" tvg-name="Contour 2 BKR" group-title="United States" tvg-id="C2BKR" tvc-guide-stationid="124640",Contour 2 BKR
-http://example.local/USA-C2BKR.ts
-#EXTINF:-1 tvg-chno="109717" tvg-name="Contour Stream Player" tvg-logo="https://emby.tmsimg.com/assets/s109717_ll_h15_ab.png" group-title="United States" tvg-id="STREAMS" tvc-guide-stationid="109717",Contour Stream Player
-http://example.local/USA-STREAMS.ts
-#EXTINF:-1 tvg-chno="101970" tvg-name="Contra Costa Educational Television" tvg-logo="https://emby.tmsimg.com/assets/s101970_ll_h15_aa.png" group-title="United States" tvg-id="CCEDTV" tvc-guide-stationid="101970",Contra Costa Educational Television
-http://example.local/USA-CCEDTV.ts

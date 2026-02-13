@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="121881" tvg-name="Caught in Providence" tvg-logo="https://emby.tmsimg.com/assets/s121881_ll_h15_aa.png" group-title="United States" tvg-id="CIPROV" tvc-guide-stationid="121881",Caught in Providence
+http://example.local/USA-CIPROV.ts
 #EXTINF:-1 tvg-chno="29116" tvg-name="CAWAMY" group-title="United States" tvg-id="CAWAMY" tvc-guide-stationid="29116",CAWAMY
 http://example.local/USA-CAWAMY.ts
 #EXTINF:-1 tvg-chno="112123" tvg-name="Cayman Islands Government TV" group-title="Cayman Islands" tvg-id="CIGTV" tvc-guide-stationid="112123",Cayman Islands Government TV
@@ -341,6 +343,8 @@ http://example.local/CAN-CBOFT.ts
 http://example.local/CAN-CBOFTDT.ts
 #EXTINF:-1 tvg-chno="52235" tvg-name="CBOFT-DT (SRC)" tvg-logo="https://emby.tmsimg.com/assets/s52235_ll_h15_ab.png" group-title="United States" tvg-id="CBOFTDT" tvc-guide-stationid="52235",CBOFT-DT (SRC)
 http://example.local/USA-CBOFTDT.ts
+#EXTINF:-1 tvg-chno="152581" tvg-name="CBS 4K (CBS)" tvg-logo="https://emby.tmsimg.com/assets/s152581_ll_h15_aa.png" group-title="United States" tvg-id="CBS4K" tvc-guide-stationid="152581",CBS 4K (CBS)
+http://example.local/USA-CBS4K.ts
 #EXTINF:-1 tvg-chno="159991" tvg-name="CBS Atlanta (Atlanta News First)" group-title="United States" tvg-id="CBSATL" tvc-guide-stationid="159991",CBS Atlanta (Atlanta News First)
 http://example.local/USA-CBSATL.ts
 #EXTINF:-1 tvg-chno="10098" tvg-name="CBS Corporation (CBS)" tvg-logo="https://emby.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="Mexico" tvg-id="CBS" tvc-guide-stationid="10098",CBS Corporation (CBS)
@@ -1015,7 +1019,3 @@ http://example.local/USA-CHAMLA.ts
 http://example.local/USA-CMPGTV.ts
 #EXTINF:-1 tvg-chno="109662" tvg-name="Champions League 1" tvg-logo="https://emby.tmsimg.com/assets/s109662_ll_h9_aa.png" group-title="Bermuda" tvg-id="UCL1" tvc-guide-stationid="109662",Champions League 1
 http://example.local/BMU-UCL1.ts
-#EXTINF:-1 tvg-chno="109662" tvg-name="Champions League 1" tvg-logo="https://emby.tmsimg.com/assets/s109662_ll_h9_aa.png" group-title="Jamaica" tvg-id="UCL1" tvc-guide-stationid="109662",Champions League 1
-http://example.local/JAM-UCL1.ts
-#EXTINF:-1 tvg-chno="109662" tvg-name="Champions League 1" tvg-logo="https://emby.tmsimg.com/assets/s109662_ll_h9_aa.png" group-title="Trinidad and Tobago" tvg-id="UCL1" tvc-guide-stationid="109662",Champions League 1
-http://example.local/TTO-UCL1.ts

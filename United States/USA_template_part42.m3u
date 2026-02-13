@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="83638" tvg-name="Romance TV HD" tvg-logo="https://emby.tmsimg.com/assets/s83638_ll_h9_ac.png" group-title="United States" tvg-id="ROMTVHD" tvc-guide-stationid="83638",Romance TV HD
+http://example.local/USA-ROMTVHD.ts
+#EXTINF:-1 tvg-chno="132163" tvg-name="Romance: Fall in Love" group-title="United States" tvg-id="VZROME" tvc-guide-stationid="132163",Romance: Fall in Love
+http://example.local/USA-VZROME.ts
+#EXTINF:-1 tvg-chno="47850" tvg-name="Rome (Static)" group-title="United States" tvg-id="ROME" tvc-guide-stationid="47850",Rome (Static)
+http://example.local/USA-ROME.ts
+#EXTINF:-1 tvg-chno="11062" tvg-name="ROOT Sports Northwest" tvg-logo="https://emby.tmsimg.com/assets/s11062_ll_h15_aa.png" group-title="United States" tvg-id="RTNW" tvc-guide-stationid="11062",ROOT Sports Northwest
+http://example.local/USA-RTNW.ts
+#EXTINF:-1 tvg-chno="16109" tvg-name="ROOT Sports Northwest (Alt.) - FSN3" tvg-logo="https://emby.tmsimg.com/assets/s11062_ll_h15_aa.png" group-title="United States" tvg-id="RTN3" tvc-guide-stationid="16109",ROOT Sports Northwest (Alt.) - FSN3
+http://example.local/USA-RTN3.ts
+#EXTINF:-1 tvg-chno="16110" tvg-name="ROOT Sports Northwest (Alt.) - RTN4" tvg-logo="https://emby.tmsimg.com/assets/s11062_ll_h15_aa.png" group-title="United States" tvg-id="RTN4" tvc-guide-stationid="16110",ROOT Sports Northwest (Alt.) - RTN4
+http://example.local/USA-RTN4.ts
+#EXTINF:-1 tvg-chno="16869" tvg-name="ROOT Sports Northwest (Alt.) - RTN5" tvg-logo="https://emby.tmsimg.com/assets/s11062_ll_h15_aa.png" group-title="United States" tvg-id="RTN5" tvc-guide-stationid="16869",ROOT Sports Northwest (Alt.) - RTN5
+http://example.local/USA-RTN5.ts
+#EXTINF:-1 tvg-chno="95929" tvg-name="ROOT Sports Northwest (Alt.) HD" tvg-logo="https://emby.tmsimg.com/assets/s11062_ll_h15_aa.png" group-title="United States" tvg-id="RTN5HD" tvc-guide-stationid="95929",ROOT Sports Northwest (Alt.) HD
+http://example.local/USA-RTN5HD.ts
 #EXTINF:-1 tvg-chno="49946" tvg-name="ROOT Sports Northwest (Spokane)" tvg-logo="https://emby.tmsimg.com/assets/s11062_ll_h15_aa.png" group-title="United States" tvg-id="RTNSPK" tvc-guide-stationid="49946",ROOT Sports Northwest (Spokane)
 http://example.local/USA-RTNSPK.ts
 #EXTINF:-1 tvg-chno="95922" tvg-name="ROOT Sports Northwest (Spokane) HD" tvg-logo="https://emby.tmsimg.com/assets/s11062_ll_h15_aa.png" group-title="United States" tvg-id="RTNSPKH" tvc-guide-stationid="95922",ROOT Sports Northwest (Spokane) HD
@@ -357,6 +373,8 @@ http://example.local/USA-SEATTLE.ts
 http://example.local/USA-SCCTV.ts
 #EXTINF:-1 tvg-chno="120618" tvg-name="Seattle Kraken: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlskr.png" group-title="United States" tvg-id="NHLSKR" tvc-guide-stationid="120618",Seattle Kraken: NHL Center Ice
 http://example.local/USA-NHLSKR.ts
+#EXTINF:-1 tvg-chno="136328" tvg-name="Seattle Mariners" tvg-logo="https://emby.tmsimg.com/assets/s136328_ll_h15_ab.png" group-title="United States" tvg-id="SEAM" tvc-guide-stationid="136328",Seattle Mariners
+http://example.local/USA-SEAM.ts
 #EXTINF:-1 tvg-chno="102292" tvg-name="Seattle Mariners: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbsea.png" group-title="United States" tvg-id="MLBSEA" tvc-guide-stationid="102292",Seattle Mariners: MLB Extra Innings
 http://example.local/USA-MLBSEA.ts
 #EXTINF:-1 tvg-chno="93339" tvg-name="Seattle Schools" group-title="United States" tvg-id="SEATSCH" tvc-guide-stationid="93339",Seattle Schools
@@ -1001,21 +1019,3 @@ http://example.local/USA-SRSLTWN.ts
 http://example.local/USA-PPLUSAA.ts
 #EXTINF:-1 tvg-chno="119582" tvg-name="South San Francisco Community Channel" group-title="United States" tvg-id="SSFLO" tvc-guide-stationid="119582",South San Francisco Community Channel
 http://example.local/USA-SSFLO.ts
-#EXTINF:-1 tvg-chno="99480" tvg-name="South Washington County Gov 18 HD" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0025V0VS.png" group-title="United States" tvg-id="SWCT18H" tvc-guide-stationid="99480",South Washington County Gov 18 HD
-http://example.local/USA-SWCT18H.ts
-#EXTINF:-1 tvg-chno="122553" tvg-name="Southern Colorado Education Television Consortium" group-title="United States" tvg-id="SCETC" tvc-guide-stationid="122553",Southern Colorado Education Television Consortium
-http://example.local/USA-SCETC.ts
-#EXTINF:-1 tvg-chno="145936" tvg-name="Southwest Education Access" group-title="United States" tvg-id="SWTVE" tvc-guide-stationid="145936",Southwest Education Access
-http://example.local/USA-SWTVE.ts
-#EXTINF:-1 tvg-chno="96836" tvg-name="Southwest Educational Access Television" group-title="United States" tvg-id="SWEDU" tvc-guide-stationid="96836",Southwest Educational Access Television
-http://example.local/USA-SWEDU.ts
-#EXTINF:-1 tvg-chno="145935" tvg-name="Southwest Public Access" group-title="United States" tvg-id="SWTVP" tvc-guide-stationid="145935",Southwest Public Access
-http://example.local/USA-SWTVP.ts
-#EXTINF:-1 tvg-chno="96837" tvg-name="Southwest Public Access Television" group-title="United States" tvg-id="SWPUB" tvc-guide-stationid="96837",Southwest Public Access Television
-http://example.local/USA-SWPUB.ts
-#EXTINF:-1 tvg-chno="119118" tvg-name="SoYummy" group-title="United States" tvg-id="VIZSOYM" tvc-guide-stationid="119118",SoYummy
-http://example.local/USA-VIZSOYM.ts
-#EXTINF:-1 tvg-chno="64262" tvg-name="SP Cust SPSM Leased Access" group-title="United States" tvg-id="SPLEASE" tvc-guide-stationid="64262",SP Cust SPSM Leased Access
-http://example.local/USA-SPLEASE.ts
-#EXTINF:-1 tvg-chno="43264" tvg-name="Spa" group-title="United States" tvg-id="SRSPA73" tvc-guide-stationid="43264",Spa
-http://example.local/USA-SRSPA73.ts

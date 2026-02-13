@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="17664" tvg-name="CNN International" tvg-logo="https://emby.tmsimg.com/assets/s17664_ll_h15_ab.png" group-title="Germany" tvg-id="CNNEU" tvc-guide-stationid="17664",CNN International
+http://example.local/DEU-CNNEU.ts
+#EXTINF:-1 tvg-chno="152938" tvg-name="CNN International" tvg-logo="https://emby.tmsimg.com/assets/s17664_ll_h15_ab.png" group-title="Germany" tvg-id="CNNEMEA" tvc-guide-stationid="152938",CNN International
+http://example.local/DEU-CNNEMEA.ts
+#EXTINF:-1 tvg-chno="17664" tvg-name="CNN International" tvg-logo="https://emby.tmsimg.com/assets/s17664_ll_h15_ab.png" group-title="Mexico" tvg-id="CNNEU" tvc-guide-stationid="17664",CNN International
+http://example.local/MEX-CNNEU.ts
 #EXTINF:-1 tvg-chno="17664" tvg-name="CNN International" tvg-logo="https://emby.tmsimg.com/assets/s17664_ll_h15_ab.png" group-title="France" tvg-id="CNNEU" tvc-guide-stationid="17664",CNN International
 http://example.local/FRA-CNNEU.ts
 #EXTINF:-1 tvg-chno="17664" tvg-name="CNN International" tvg-logo="https://emby.tmsimg.com/assets/s17664_ll_h15_ab.png" group-title="Spain" tvg-id="CNNEU" tvc-guide-stationid="17664",CNN International
@@ -1013,9 +1019,3 @@ http://example.local/JAM-CNCRTHD.ts
 http://example.local/VEN-CNCRTHD.ts
 #EXTINF:-1 tvg-chno="67610" tvg-name="Concert Channel" tvg-logo="https://emby.tmsimg.com/assets/s72020_ll_h15_aa.png" group-title="Guatemala" tvg-id="CNCRTHD" tvc-guide-stationid="67610",Concert Channel
 http://example.local/GTM-CNCRTHD.ts
-#EXTINF:-1 tvg-chno="67610" tvg-name="Concert Channel" tvg-logo="https://emby.tmsimg.com/assets/s72020_ll_h15_aa.png" group-title="Ecuador" tvg-id="CNCRTHD" tvc-guide-stationid="67610",Concert Channel
-http://example.local/ECU-CNCRTHD.ts
-#EXTINF:-1 tvg-chno="72020" tvg-name="Concert Channel" tvg-logo="https://emby.tmsimg.com/assets/s72020_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="CNCRT" tvc-guide-stationid="72020",Concert Channel
-http://example.local/DOM-CNCRT.ts
-#EXTINF:-1 tvg-chno="67610" tvg-name="Concert Channel" tvg-logo="https://emby.tmsimg.com/assets/s72020_ll_h15_aa.png" group-title="Uruguay" tvg-id="CNCRTHD" tvc-guide-stationid="67610",Concert Channel
-http://example.local/URY-CNCRTHD.ts

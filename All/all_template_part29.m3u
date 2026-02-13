@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="130095" tvg-name="Everyday Refresh" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0028BMC9.png" group-title="United States" tvg-id="EDRFS" tvc-guide-stationid="130095",Everyday Refresh
+http://example.local/USA-EDRFS.ts
+#EXTINF:-1 tvg-chno="149686" tvg-name="Evidence of Evil" tvg-logo="https://emby.tmsimg.com/assets/s149686_ll_h15_aa.png" group-title="United Kingdom" tvg-id="EEVIL" tvc-guide-stationid="149686",Evidence of Evil
+http://example.local/GBR-EEVIL.ts
+#EXTINF:-1 tvg-chno="115686" tvg-name="Evil Angel" tvg-logo="https://emby.tmsimg.com/assets/s115686_ll_h15_aa.png" group-title="Netherlands" tvg-id="EVILAN" tvc-guide-stationid="115686",Evil Angel
+http://example.local/NLD-EVILAN.ts
+#EXTINF:-1 tvg-chno="188835" tvg-name="Evolution Earth" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0025DCNS.png" group-title="United Kingdom" tvg-id="EVEARTH" tvc-guide-stationid="188835",Evolution Earth
+http://example.local/GBR-EVEARTH.ts
 #EXTINF:-1 tvg-chno="163306" tvg-name="EVTV" group-title="France" tvg-id="EVTVFR" tvc-guide-stationid="163306",EVTV
 http://example.local/FRA-EVTVFR.ts
 #EXTINF:-1 tvg-chno="108131" tvg-name="EVTV" tvg-logo="https://emby.tmsimg.com/assets/s108131_ll_h15_aa.png" group-title="United States" tvg-id="EVTV" tvc-guide-stationid="108131",EVTV
@@ -1011,11 +1019,3 @@ http://example.local/USA-FDSOAL3.ts
 http://example.local/USA-FDSOAL2.ts
 #EXTINF:-1 tvg-chno="40707" tvg-name="FanDuel Sports Network South" tvg-logo="https://emby.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOAL1" tvc-guide-stationid="40707",FanDuel Sports Network South
 http://example.local/USA-FDSOAL1.ts
-#EXTINF:-1 tvg-chno="46147" tvg-name="FanDuel Sports Network South" tvg-logo="https://emby.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOTN2" tvc-guide-stationid="46147",FanDuel Sports Network South
-http://example.local/USA-FDSOTN2.ts
-#EXTINF:-1 tvg-chno="96921" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://emby.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSOHD4" tvc-guide-stationid="96921",FanDuel Sports Network South HD
-http://example.local/USA-FDSOHD4.ts
-#EXTINF:-1 tvg-chno="61092" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://emby.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="DFDSOHD" tvc-guide-stationid="61092",FanDuel Sports Network South HD
-http://example.local/USA-DFDSOHD.ts
-#EXTINF:-1 tvg-chno="75970" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://emby.tmsimg.com/assets/s12410_ll_h15_ac.png" group-title="United States" tvg-id="FDSSOHD" tvc-guide-stationid="75970",FanDuel Sports Network South HD
-http://example.local/USA-FDSSOHD.ts

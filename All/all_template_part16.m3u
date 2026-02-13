@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="15296" tvg-name="Cine Latino" tvg-logo="https://emby.tmsimg.com/assets/s15296_ll_h9_ab.png" group-title="Aruba" tvg-id="CINL" tvc-guide-stationid="15296",Cine Latino
+http://example.local/ABW-CINL.ts
+#EXTINF:-1 tvg-chno="15296" tvg-name="Cine Latino" tvg-logo="https://emby.tmsimg.com/assets/s15296_ll_h9_ab.png" group-title="Anguilla" tvg-id="CINL" tvc-guide-stationid="15296",Cine Latino
+http://example.local/AIA-CINL.ts
+#EXTINF:-1 tvg-chno="15296" tvg-name="Cine Latino" tvg-logo="https://emby.tmsimg.com/assets/s15296_ll_h9_ab.png" group-title="St. Kitts and Nevis" tvg-id="CINL" tvc-guide-stationid="15296",Cine Latino
+http://example.local/KNA-CINL.ts
 #EXTINF:-1 tvg-chno="15296" tvg-name="Cine Latino" tvg-logo="https://emby.tmsimg.com/assets/s15296_ll_h9_ab.png" group-title="Saint Martin" tvg-id="CINL" tvc-guide-stationid="15296",Cine Latino
 http://example.local/MAF-CINL.ts
 #EXTINF:-1 tvg-chno="15296" tvg-name="Cine Latino" tvg-logo="https://emby.tmsimg.com/assets/s15296_ll_h9_ab.png" group-title="Guyana" tvg-id="CINL" tvc-guide-stationid="15296",Cine Latino
@@ -1013,9 +1019,3 @@ http://example.local/USA-CKCODT.ts
 http://example.local/CAN-CKCUFM.ts
 #EXTINF:-1 tvg-chno="16544" tvg-name="CKCW (CTV)" tvg-logo="https://logos.jesmann.com/ckcw.png" group-title="Canada" tvg-id="CKCW" tvc-guide-stationid="16544",CKCW (CTV)
 http://example.local/CAN-CKCW.ts
-#EXTINF:-1 tvg-chno="72890" tvg-name="CKCW-DT (CTV)" tvg-logo="https://logos.jesmann.com/ckcwdt.png" group-title="Canada" tvg-id="CKCWDT" tvc-guide-stationid="72890",CKCW-DT (CTV)
-http://example.local/CAN-CKCWDT.ts
-#EXTINF:-1 tvg-chno="91891" tvg-name="CKCW-DT1 (CTV)" tvg-logo="https://logos.jesmann.com/ckcwdt1.png" group-title="Canada" tvg-id="CKCWDT1" tvc-guide-stationid="91891",CKCW-DT1 (CTV)
-http://example.local/CAN-CKCWDT1.ts
-#EXTINF:-1 tvg-chno="102631" tvg-name="CKDJ 107.9FM Algonquin College Ottawa" group-title="Canada" tvg-id="CKDJFM" tvc-guide-stationid="102631",CKDJ 107.9FM Algonquin College Ottawa
-http://example.local/CAN-CKDJFM.ts

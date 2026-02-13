@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="96483" tvg-name="ATV Avrupa" tvg-logo="https://emby.tmsimg.com/assets/s96483_ll_h15_ab.png" group-title="France" tvg-id="AVRPTU" tvc-guide-stationid="96483",ATV Avrupa
+http://example.local/FRA-AVRPTU.ts
 #EXTINF:-1 tvg-chno="96483" tvg-name="ATV Avrupa" tvg-logo="https://emby.tmsimg.com/assets/s96483_ll_h15_ab.png" group-title="Netherlands" tvg-id="AVRPTU" tvc-guide-stationid="96483",ATV Avrupa
 http://example.local/NLD-AVRPTU.ts
 #EXTINF:-1 tvg-chno="96483" tvg-name="ATV Avrupa" tvg-logo="https://emby.tmsimg.com/assets/s96483_ll_h15_ab.png" group-title="Austria" tvg-id="AVRPTU" tvc-guide-stationid="96483",ATV Avrupa
@@ -1017,5 +1019,3 @@ http://example.local/CHL-RITMOMN.ts
 http://example.local/PER-RITMOMN.ts
 #EXTINF:-1 tvg-chno="41083" tvg-name="AUDIO DLA RITMOS DEL MUNDO" group-title="Costa Rica" tvg-id="RITMOMN" tvc-guide-stationid="41083",AUDIO DLA RITMOS DEL MUNDO
 http://example.local/CRI-RITMOMN.ts
-#EXTINF:-1 tvg-chno="41083" tvg-name="AUDIO DLA RITMOS DEL MUNDO" group-title="Guatemala" tvg-id="RITMOMN" tvc-guide-stationid="41083",AUDIO DLA RITMOS DEL MUNDO
-http://example.local/GTM-RITMOMN.ts

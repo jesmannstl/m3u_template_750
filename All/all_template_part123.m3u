@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="31038" tvg-name="WRPX-DT (ION)" tvg-logo="https://emby.tmsimg.com/assets/s18633_ll_h15_ad.png" group-title="United States" tvg-id="WRPXDT" tvc-guide-stationid="31038",WRPX-DT (ION)
+http://example.local/USA-WRPXDT.ts
+#EXTINF:-1 tvg-chno="54624" tvg-name="WRPX-DT2 (COURT)" tvg-logo="https://emby.tmsimg.com/assets/s111043_h3_aa.png" group-title="United States" tvg-id="WRPXDT2" tvc-guide-stationid="54624",WRPX-DT2 (COURT)
+http://example.local/USA-WRPXDT2.ts
+#EXTINF:-1 tvg-chno="55318" tvg-name="WRPX-DT3 (IONPLUS)" tvg-logo="https://emby.tmsimg.com/assets/s55241_ll_h15_ad.png" group-title="United States" tvg-id="WRPXDT3" tvc-guide-stationid="55318",WRPX-DT3 (IONPLUS)
+http://example.local/USA-WRPXDT3.ts
+#EXTINF:-1 tvg-chno="57445" tvg-name="WRPX-DT4 (GSCD)" tvg-logo="https://emby.tmsimg.com/assets/s176960_ll_h15_aa.png" group-title="United States" tvg-id="WRPXDT4" tvc-guide-stationid="57445",WRPX-DT4 (GSCD)
+http://example.local/USA-WRPXDT4.ts
+#EXTINF:-1 tvg-chno="82680" tvg-name="WRPX-DT5 (CRIME)" tvg-logo="https://emby.tmsimg.com/assets/s91496_ll_h15_ab.png" group-title="United States" tvg-id="WRPXDT5" tvc-guide-stationid="82680",WRPX-DT5 (CRIME)
+http://example.local/USA-WRPXDT5.ts
+#EXTINF:-1 tvg-chno="83486" tvg-name="WRPX-DT6 (BUSTED)" tvg-logo="https://emby.tmsimg.com/assets/s175331_ll_h15_aa.png" group-title="United States" tvg-id="WRPXDT6" tvc-guide-stationid="83486",WRPX-DT6 (BUSTED)
+http://example.local/USA-WRPXDT6.ts
+#EXTINF:-1 tvg-chno="121387" tvg-name="WRPX-DT7 (SCNEWS)" tvg-logo="https://emby.tmsimg.com/assets/s96827_h3_ba.png" group-title="United States" tvg-id="WRPXDT7" tvc-guide-stationid="121387",WRPX-DT7 (SCNEWS)
+http://example.local/USA-WRPXDT7.ts
+#EXTINF:-1 tvg-chno="124820" tvg-name="WRPX-DT8 (QVC)" tvg-logo="https://emby.tmsimg.com/assets/s11069_ll_h15_ad.png" group-title="United States" tvg-id="WRPXDT8" tvc-guide-stationid="124820",WRPX-DT8 (QVC)
+http://example.local/USA-WRPXDT8.ts
+#EXTINF:-1 tvg-chno="47146" tvg-name="WRR 101.9" group-title="United States" tvg-id="WRR" tvc-guide-stationid="47146",WRR 101.9
+http://example.local/USA-WRR.ts
+#EXTINF:-1 tvg-chno="11824" tvg-name="WRSP (FOX)" tvg-logo="https://emby.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="United States" tvg-id="WRSP" tvc-guide-stationid="11824",WRSP (FOX)
+http://example.local/USA-WRSP.ts
+#EXTINF:-1 tvg-chno="42575" tvg-name="WRSP-DT (FOX)" tvg-logo="https://logos.jesmann.com/wrspdt.jpeg" group-title="United States" tvg-id="WRSPDT" tvc-guide-stationid="42575",WRSP-DT (FOX)
+http://example.local/USA-WRSPDT.ts
+#EXTINF:-1 tvg-chno="72898" tvg-name="WRSP-DT2 (CRIME)" tvg-logo="https://emby.tmsimg.com/assets/s91496_ll_h15_ab.png" group-title="United States" tvg-id="WRSPDT2" tvc-guide-stationid="72898",WRSP-DT2 (CRIME)
+http://example.local/USA-WRSPDT2.ts
 #EXTINF:-1 tvg-chno="97907" tvg-name="WRSP-DT3 (ANTENNA)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0028Y4HS.png" group-title="United States" tvg-id="WRSPDT3" tvc-guide-stationid="97907",WRSP-DT3 (ANTENNA)
 http://example.local/USA-WRSPDT3.ts
 #EXTINF:-1 tvg-chno="87864" tvg-name="WRTD-CD (TELE)" tvg-logo="https://emby.tmsimg.com/assets/s10239_h3_ba.png" group-title="United States" tvg-id="WRTDCD" tvc-guide-stationid="87864",WRTD-CD (TELE)
@@ -995,27 +1019,3 @@ http://example.local/USA-WSYXDT.ts
 http://example.local/USA-WSYXDT2.ts
 #EXTINF:-1 tvg-chno="97744" tvg-name="WSYX-DT3 (FOX)" tvg-logo="https://logos.jesmann.com/wsyxdt3.png" group-title="United States" tvg-id="WSYXDT3" tvc-guide-stationid="97744",WSYX-DT3 (FOX)
 http://example.local/USA-WSYXDT3.ts
-#EXTINF:-1 tvg-chno="117136" tvg-name="WSYX-DT3 (SD Feed) (FOX)" tvg-logo="https://emby.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="United States" tvg-id="WSYX3SD" tvc-guide-stationid="117136",WSYX-DT3 (SD Feed) (FOX)
-http://example.local/USA-WSYX3SD.ts
-#EXTINF:-1 tvg-chno="117111" tvg-name="WSYX-DT4 (THENEST)" tvg-logo="https://emby.tmsimg.com/assets/s147367_ll_h15_aa.png" group-title="United States" tvg-id="WSYXDT4" tvc-guide-stationid="117111",WSYX-DT4 (THENEST)
-http://example.local/USA-WSYXDT4.ts
-#EXTINF:-1 tvg-chno="88721" tvg-name="WT1" group-title="Austria" tvg-id="WT1" tvc-guide-stationid="88721",WT1
-http://example.local/AUT-WT1.ts
-#EXTINF:-1 tvg-chno="11863" tvg-name="WTAE (ABC)" tvg-logo="https://emby.tmsimg.com/assets/s10003_h3_aa.png" group-title="United States" tvg-id="WTAE" tvc-guide-stationid="11863",WTAE (ABC)
-http://example.local/USA-WTAE.ts
-#EXTINF:-1 tvg-chno="195330" tvg-name="WTAE Channel 4 on Very Local" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002GNRTH.png" group-title="United States" tvg-id="VWTAE" tvc-guide-stationid="195330",WTAE Channel 4 on Very Local
-http://example.local/USA-VWTAE.ts
-#EXTINF:-1 tvg-chno="19615" tvg-name="WTAE-DT (ABC)" tvg-logo="https://logos.jesmann.com/wtaedt.png" group-title="United States" tvg-id="WTAEDT" tvc-guide-stationid="19615",WTAE-DT (ABC)
-http://example.local/USA-WTAEDT.ts
-#EXTINF:-1 tvg-chno="65853" tvg-name="WTAE-DT (Special Temporary Authority) (ABC)" tvg-logo="https://emby.tmsimg.com/assets/s28708_h3_aa.png" group-title="United States" tvg-id="WTAESTA" tvc-guide-stationid="65853",WTAE-DT (Special Temporary Authority) (ABC)
-http://example.local/USA-WTAESTA.ts
-#EXTINF:-1 tvg-chno="55776" tvg-name="WTAE-DT2 (COZITV)" tvg-logo="https://emby.tmsimg.com/assets/s78851_ll_h15_ab.png" group-title="United States" tvg-id="WTAEDT2" tvc-guide-stationid="55776",WTAE-DT2 (COZITV)
-http://example.local/USA-WTAEDT2.ts
-#EXTINF:-1 tvg-chno="65854" tvg-name="WTAE-DT2 (Special Temporary Authority) (COZITV)" tvg-logo="https://emby.tmsimg.com/assets/s78851_h3_aa.png" group-title="United States" tvg-id="WTAESTA2" tvc-guide-stationid="65854",WTAE-DT2 (Special Temporary Authority) (COZITV)
-http://example.local/USA-WTAESTA2.ts
-#EXTINF:-1 tvg-chno="115724" tvg-name="WTAE-DT3 (STRY)" tvg-logo="https://emby.tmsimg.com/assets/s122968_ll_h15_ac.png" group-title="United States" tvg-id="WTAEDT3" tvc-guide-stationid="115724",WTAE-DT3 (STRY)
-http://example.local/USA-WTAEDT3.ts
-#EXTINF:-1 tvg-chno="115725" tvg-name="WTAE-DT4 (COMET)" tvg-logo="https://emby.tmsimg.com/assets/s97051_ll_h15_ab.png" group-title="United States" tvg-id="WTAEDT4" tvc-guide-stationid="115725",WTAE-DT4 (COMET)
-http://example.local/USA-WTAEDT4.ts
-#EXTINF:-1 tvg-chno="115726" tvg-name="WTAE-DT5 (ROARTV)" tvg-logo="https://emby.tmsimg.com/assets/s102116_ll_h15_ac.png" group-title="United States" tvg-id="WTAEDT5" tvc-guide-stationid="115726",WTAE-DT5 (ROARTV)
-http://example.local/USA-WTAEDT5.ts

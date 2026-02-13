@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="114495" tvg-name="Global News BC" tvg-logo="https://emby.tmsimg.com/assets/s114495_ll_h15_ac.png" group-title="United States" tvg-id="CAGNEBC" tvc-guide-stationid="114495",Global News BC
+http://example.local/USA-CAGNEBC.ts
+#EXTINF:-1 tvg-chno="114493" tvg-name="Global News Calgary" tvg-logo="https://emby.tmsimg.com/assets/s114493_ll_h15_ac.png" group-title="United States" tvg-id="CAGNECL" tvc-guide-stationid="114493",Global News Calgary
+http://example.local/USA-CAGNECL.ts
+#EXTINF:-1 tvg-chno="114494" tvg-name="Global News Canada" tvg-logo="https://emby.tmsimg.com/assets/s114494_ll_h15_ac.png" group-title="United States" tvg-id="CAGNEWS" tvc-guide-stationid="114494",Global News Canada
+http://example.local/USA-CAGNEWS.ts
+#EXTINF:-1 tvg-chno="114496" tvg-name="Global News Edmonton" tvg-logo="https://emby.tmsimg.com/assets/s114496_ll_h15_ac.png" group-title="United States" tvg-id="CAGNEED" tvc-guide-stationid="114496",Global News Edmonton
+http://example.local/USA-CAGNEED.ts
 #EXTINF:-1 tvg-chno="26602" tvg-name="Global News Radio 680 CJOB" group-title="Canada" tvg-id="CJOB" tvc-guide-stationid="26602",Global News Radio 680 CJOB
 http://example.local/CAN-CJOB.ts
 #EXTINF:-1 tvg-chno="114492" tvg-name="Global News Toronto" tvg-logo="https://emby.tmsimg.com/assets/s114492_ll_h15_ac.png" group-title="United States" tvg-id="CAGNETO" tvc-guide-stationid="114492",Global News Toronto
@@ -1011,11 +1019,3 @@ http://example.local/USA-GOAC341.ts
 http://example.local/USA-GOAC376.ts
 #EXTINF:-1 tvg-chno="109824" tvg-name="Government Access - GOAC378" group-title="United States" tvg-id="GOAC378" tvc-guide-stationid="109824",Government Access - GOAC378
 http://example.local/USA-GOAC378.ts
-#EXTINF:-1 tvg-chno="91897" tvg-name="Government Access - GOAC497" group-title="United States" tvg-id="GOAC497" tvc-guide-stationid="91897",Government Access - GOAC497
-http://example.local/USA-GOAC497.ts
-#EXTINF:-1 tvg-chno="91898" tvg-name="Government Access - GOAC498" group-title="United States" tvg-id="GOAC498" tvc-guide-stationid="91898",Government Access - GOAC498
-http://example.local/USA-GOAC498.ts
-#EXTINF:-1 tvg-chno="91942" tvg-name="Government Access - GOAC507" group-title="United States" tvg-id="GOAC507" tvc-guide-stationid="91942",Government Access - GOAC507
-http://example.local/USA-GOAC507.ts
-#EXTINF:-1 tvg-chno="109195" tvg-name="Government Access - GOAC516" group-title="United States" tvg-id="GOAC516" tvc-guide-stationid="109195",Government Access - GOAC516
-http://example.local/USA-GOAC516.ts

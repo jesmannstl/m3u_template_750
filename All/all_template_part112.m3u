@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="35469" tvg-name="WCTX-DT (MNT)" tvg-logo="https://logos.jesmann.com/wctxdt.png" group-title="United States" tvg-id="WCTXDT" tvc-guide-stationid="35469",WCTX-DT (MNT)
+http://example.local/USA-WCTXDT.ts
+#EXTINF:-1 tvg-chno="59401" tvg-name="WCTX-DT2 (CHARGE)" tvg-logo="https://emby.tmsimg.com/assets/s102148_h3_ba.png" group-title="United States" tvg-id="WCTXDT2" tvc-guide-stationid="59401",WCTX-DT2 (CHARGE)
+http://example.local/USA-WCTXDT2.ts
+#EXTINF:-1 tvg-chno="113029" tvg-name="WCTZ-LD (BUZZR)" tvg-logo="https://emby.tmsimg.com/assets/s93430_h3_aa.png" group-title="United States" tvg-id="WCTZLD" tvc-guide-stationid="113029",WCTZ-LD (BUZZR)
+http://example.local/USA-WCTZLD.ts
+#EXTINF:-1 tvg-chno="113030" tvg-name="WCTZ-LD2 (MVSGLD)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0026WLX6.png" group-title="United States" tvg-id="WCTZLD2" tvc-guide-stationid="113030",WCTZ-LD2 (MVSGLD)
+http://example.local/USA-WCTZLD2.ts
+#EXTINF:-1 tvg-chno="113031" tvg-name="WCTZ-LD3 (OUTLAW)" tvg-logo="https://emby.tmsimg.com/assets/s150537_ll_h15_aa.png" group-title="United States" tvg-id="WCTZLD3" tvc-guide-stationid="113031",WCTZ-LD3 (OUTLAW)
+http://example.local/USA-WCTZLD3.ts
+#EXTINF:-1 tvg-chno="113032" tvg-name="WCTZ-LD4 (DEFY)" tvg-logo="https://emby.tmsimg.com/assets/s159206_ll_h15_aa.png" group-title="United States" tvg-id="WCTZLD4" tvc-guide-stationid="113032",WCTZ-LD4 (DEFY)
+http://example.local/USA-WCTZLD4.ts
+#EXTINF:-1 tvg-chno="113033" tvg-name="WCTZ-LD5 (BEINSES)" tvg-logo="https://emby.tmsimg.com/assets/s76943_ll_h15_ab.png" group-title="United States" tvg-id="WCTZLD5" tvc-guide-stationid="113033",WCTZ-LD5 (BEINSES)
+http://example.local/USA-WCTZLD5.ts
+#EXTINF:-1 tvg-chno="113034" tvg-name="WCTZ-LD6 (CBNNEWS)" tvg-logo="https://emby.tmsimg.com/assets/s109977_ll_h15_aa.png" group-title="United States" tvg-id="WCTZLD6" tvc-guide-stationid="113034",WCTZ-LD6 (CBNNEWS)
+http://example.local/USA-WCTZLD6.ts
+#EXTINF:-1 tvg-chno="113035" tvg-name="WCTZ-LD7 (CRMES)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002C0G9H.png" group-title="United States" tvg-id="WCTZLD7" tvc-guide-stationid="113035",WCTZ-LD7 (CRMES)
+http://example.local/USA-WCTZLD7.ts
+#EXTINF:-1 tvg-chno="198013" tvg-name="WCUH-LD6 (MVSGLD)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0026WLX6.png" group-title="United States" tvg-id="WCUHLD6" tvc-guide-stationid="198013",WCUH-LD6 (MVSGLD)
+http://example.local/USA-WCUHLD6.ts
+#EXTINF:-1 tvg-chno="11369" tvg-name="WCVB (ABC)" tvg-logo="https://emby.tmsimg.com/assets/s10003_h3_aa.png" group-title="United States" tvg-id="WCVB" tvc-guide-stationid="11369",WCVB (ABC)
+http://example.local/USA-WCVB.ts
+#EXTINF:-1 tvg-chno="195303" tvg-name="WCVB Channel 5 on Very Local" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002GM1VM.png" group-title="United States" tvg-id="VWCVB" tvc-guide-stationid="195303",WCVB Channel 5 on Very Local
+http://example.local/USA-VWCVB.ts
 #EXTINF:-1 tvg-chno="70809" tvg-name="WCVB Satellite" tvg-logo="https://emby.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="Canada" tvg-id="WCVBSAT" tvc-guide-stationid="70809",WCVB Satellite
 http://example.local/CAN-WCVBSAT.ts
 #EXTINF:-1 tvg-chno="19596" tvg-name="WCVB-DT (ABC)" tvg-logo="https://logos.jesmann.com/wcvbdt.png" group-title="Canada" tvg-id="WCVBDT" tvc-guide-stationid="19596",WCVB-DT (ABC)
@@ -995,27 +1019,3 @@ http://example.local/AUT-WDRSIEH.ts
 http://example.local/CHE-WDRSIEHD.ts
 #EXTINF:-1 tvg-chno="83919" tvg-name="WDR Wuppertal (WDRFERN)" tvg-logo="https://emby.tmsimg.com/assets/s83919_ll_h15_ad.png" group-title="France" tvg-id="WDRSTWU" tvc-guide-stationid="83919",WDR Wuppertal (WDRFERN)
 http://example.local/FRA-WDRSTWU.ts
-#EXTINF:-1 tvg-chno="83919" tvg-name="WDR Wuppertal (WDRFERN)" tvg-logo="https://emby.tmsimg.com/assets/s83919_ll_h15_ad.png" group-title="Spain" tvg-id="WDRSTWU" tvc-guide-stationid="83919",WDR Wuppertal (WDRFERN)
-http://example.local/ESP-WDRSTWU.ts
-#EXTINF:-1 tvg-chno="83919" tvg-name="WDR Wuppertal (WDRFERN)" tvg-logo="https://emby.tmsimg.com/assets/s83919_ll_h15_ad.png" group-title="Poland" tvg-id="WDRSTWU" tvc-guide-stationid="83919",WDR Wuppertal (WDRFERN)
-http://example.local/POL-WDRSTWU.ts
-#EXTINF:-1 tvg-chno="83919" tvg-name="WDR Wuppertal (WDRFERN)" tvg-logo="https://emby.tmsimg.com/assets/s83919_ll_h15_ad.png" group-title="Belgium" tvg-id="WDRSTWU" tvc-guide-stationid="83919",WDR Wuppertal (WDRFERN)
-http://example.local/BEL-WDRSTWU.ts
-#EXTINF:-1 tvg-chno="83919" tvg-name="WDR Wuppertal (WDRFERN)" tvg-logo="https://emby.tmsimg.com/assets/s83919_ll_h15_ad.png" group-title="Netherlands" tvg-id="WDRSTWU" tvc-guide-stationid="83919",WDR Wuppertal (WDRFERN)
-http://example.local/NLD-WDRSTWU.ts
-#EXTINF:-1 tvg-chno="83919" tvg-name="WDR Wuppertal (WDRFERN)" tvg-logo="https://emby.tmsimg.com/assets/s83919_ll_h15_ad.png" group-title="Italy" tvg-id="WDRSTWU" tvc-guide-stationid="83919",WDR Wuppertal (WDRFERN)
-http://example.local/ITA-WDRSTWU.ts
-#EXTINF:-1 tvg-chno="83919" tvg-name="WDR Wuppertal (WDRFERN)" tvg-logo="https://emby.tmsimg.com/assets/s83919_ll_h15_ad.png" group-title="United Kingdom" tvg-id="WDRSTWU" tvc-guide-stationid="83919",WDR Wuppertal (WDRFERN)
-http://example.local/GBR-WDRSTWU.ts
-#EXTINF:-1 tvg-chno="84146" tvg-name="WDR Wuppertal HD" tvg-logo="https://emby.tmsimg.com/assets/s84146_ll_h15_ac.png" group-title="Germany" tvg-id="WDRWHD" tvc-guide-stationid="84146",WDR Wuppertal HD
-http://example.local/DEU-WDRWHD.ts
-#EXTINF:-1 tvg-chno="84146" tvg-name="WDR Wuppertal HD" tvg-logo="https://emby.tmsimg.com/assets/s84146_ll_h15_ac.png" group-title="France" tvg-id="WDRWHD" tvc-guide-stationid="84146",WDR Wuppertal HD
-http://example.local/FRA-WDRWHD.ts
-#EXTINF:-1 tvg-chno="84146" tvg-name="WDR Wuppertal HD" tvg-logo="https://emby.tmsimg.com/assets/s84146_ll_h15_ac.png" group-title="Poland" tvg-id="WDRWHD" tvc-guide-stationid="84146",WDR Wuppertal HD
-http://example.local/POL-WDRWHD.ts
-#EXTINF:-1 tvg-chno="84146" tvg-name="WDR Wuppertal HD" tvg-logo="https://emby.tmsimg.com/assets/s84146_ll_h15_ac.png" group-title="Belgium" tvg-id="WDRWHD" tvc-guide-stationid="84146",WDR Wuppertal HD
-http://example.local/BEL-WDRWHD.ts
-#EXTINF:-1 tvg-chno="84146" tvg-name="WDR Wuppertal HD" tvg-logo="https://emby.tmsimg.com/assets/s84146_ll_h15_ac.png" group-title="Netherlands" tvg-id="WDRWHD" tvc-guide-stationid="84146",WDR Wuppertal HD
-http://example.local/NLD-WDRWHD.ts
-#EXTINF:-1 tvg-chno="84146" tvg-name="WDR Wuppertal HD" tvg-logo="https://emby.tmsimg.com/assets/s84146_ll_h15_ac.png" group-title="Austria" tvg-id="WDRWHD" tvc-guide-stationid="84146",WDR Wuppertal HD
-http://example.local/AUT-WDRWHD.ts

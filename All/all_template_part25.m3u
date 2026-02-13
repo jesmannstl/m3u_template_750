@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="115551" tvg-name="Dubai TV" tvg-logo="https://emby.tmsimg.com/assets/s115551_ll_h15_aa.png" group-title="France" tvg-id="DUBAITV" tvc-guide-stationid="115551",Dubai TV
+http://example.local/FRA-DUBAITV.ts
+#EXTINF:-1 tvg-chno="115551" tvg-name="Dubai TV" tvg-logo="https://emby.tmsimg.com/assets/s115551_ll_h15_aa.png" group-title="United States" tvg-id="DUBAITV" tvc-guide-stationid="115551",Dubai TV
+http://example.local/USA-DUBAITV.ts
+#EXTINF:-1 tvg-chno="115802" tvg-name="Dubai TV" tvg-logo="https://emby.tmsimg.com/assets/s115802_ll_h15_aa.png" group-title="Austria" tvg-id="DUBTVE" tvc-guide-stationid="115802",Dubai TV
+http://example.local/AUT-DUBTVE.ts
+#EXTINF:-1 tvg-chno="115551" tvg-name="Dubai TV" tvg-logo="https://emby.tmsimg.com/assets/s115551_ll_h15_aa.png" group-title="Austria" tvg-id="DUBAITV" tvc-guide-stationid="115551",Dubai TV
+http://example.local/AUT-DUBAITV.ts
 #EXTINF:-1 tvg-chno="115551" tvg-name="Dubai TV" tvg-logo="https://emby.tmsimg.com/assets/s115551_ll_h15_aa.png" group-title="Switzerland" tvg-id="DUBAITV" tvc-guide-stationid="115551",Dubai TV
 http://example.local/CHE-DUBAITV.ts
 #EXTINF:-1 tvg-chno="118653" tvg-name="Dubai TV HD" group-title="Poland" tvg-id="DUBAIHD" tvc-guide-stationid="118653",Dubai TV HD
@@ -1011,11 +1019,3 @@ http://example.local/USA-EDACC.ts
 http://example.local/USA-EDPROG.ts
 #EXTINF:-1 tvg-chno="94603" tvg-name="Educational Programming HDTV" group-title="United States" tvg-id="EDUCHD" tvc-guide-stationid="94603",Educational Programming HDTV
 http://example.local/USA-EDUCHD.ts
-#EXTINF:-1 tvg-chno="92708" tvg-name="Educational Service District" group-title="United States" tvg-id="ESD27" tvc-guide-stationid="92708",Educational Service District
-http://example.local/USA-ESD27.ts
-#EXTINF:-1 tvg-chno="92762" tvg-name="Educational Service District" group-title="United States" tvg-id="ESD28" tvc-guide-stationid="92762",Educational Service District
-http://example.local/USA-ESD28.ts
-#EXTINF:-1 tvg-chno="93699" tvg-name="Educational Service District" group-title="United States" tvg-id="ESD29" tvc-guide-stationid="93699",Educational Service District
-http://example.local/USA-ESD29.ts
-#EXTINF:-1 tvg-chno="169159" tvg-name="Educational Service District HD" group-title="United States" tvg-id="ESD27HD" tvc-guide-stationid="169159",Educational Service District HD
-http://example.local/USA-ESD27HD.ts

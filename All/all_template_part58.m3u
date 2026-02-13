@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="65511" tvg-name="KOCT-DT2 (ESTRLLA)" tvg-logo="https://emby.tmsimg.com/assets/s65064_h3_aa.png" group-title="United States" tvg-id="KOCTDT2" tvc-guide-stationid="65511",KOCT-DT2 (ESTRLLA)
+http://example.local/USA-KOCTDT2.ts
+#EXTINF:-1 tvg-chno="26676" tvg-name="KOCW (FOX)" tvg-logo="https://emby.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="United States" tvg-id="KOCW" tvc-guide-stationid="26676",KOCW (FOX)
+http://example.local/USA-KOCW.ts
+#EXTINF:-1 tvg-chno="63982" tvg-name="KOCW-DT (FOX)" tvg-logo="https://emby.tmsimg.com/assets/s28719_ll_h15_ac.png" group-title="United States" tvg-id="KOCWDT" tvc-guide-stationid="63982",KOCW-DT (FOX)
+http://example.local/USA-KOCWDT.ts
+#EXTINF:-1 tvg-chno="77791" tvg-name="KOCW-DT2 (MNT)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" group-title="United States" tvg-id="KOCWDT2" tvc-guide-stationid="77791",KOCW-DT2 (MNT)
+http://example.local/USA-KOCWDT2.ts
+#EXTINF:-1 tvg-chno="108225" tvg-name="KOCW-DT3 (COMET)" tvg-logo="https://emby.tmsimg.com/assets/s97051_ll_h15_ab.png" group-title="United States" tvg-id="KOCWDT3" tvc-guide-stationid="108225",KOCW-DT3 (COMET)
+http://example.local/USA-KOCWDT3.ts
 #EXTINF:-1 tvg-chno="74694" tvg-name="KOCY-LD (ESTRLLA)" tvg-logo="https://emby.tmsimg.com/assets/s65064_h3_ba.png" group-title="United States" tvg-id="KOCYLD" tvc-guide-stationid="74694",KOCY-LD (ESTRLLA)
 http://example.local/USA-KOCYLD.ts
 #EXTINF:-1 tvg-chno="12388" tvg-name="KODE (ABC)" tvg-logo="https://emby.tmsimg.com/assets/s10003_h3_aa.png" group-title="United States" tvg-id="KODE" tvc-guide-stationid="12388",KODE (ABC)
@@ -477,7 +487,7 @@ http://example.local/USA-KPAO22H.ts
 http://example.local/USA-KPAX.ts
 #EXTINF:-1 tvg-chno="34654" tvg-name="KPAX-DT (CBS)" tvg-logo="https://logos.jesmann.com/kpaxdt.png" group-title="United States" tvg-id="KPAXDT" tvc-guide-stationid="34654",KPAX-DT (CBS)
 http://example.local/USA-KPAXDT.ts
-#EXTINF:-1 tvg-chno="52647" tvg-name="KPAX-DT2" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG00253HKR.png" group-title="United States" tvg-id="KPAXDT2" tvc-guide-stationid="52647",KPAX-DT2
+#EXTINF:-1 tvg-chno="52647" tvg-name="KPAX-DT2" tvg-logo="https://logos.jesmann.com/kpaxdt2.png" group-title="United States" tvg-id="KPAXDT2" tvc-guide-stationid="52647",KPAX-DT2
 http://example.local/USA-KPAXDT2.ts
 #EXTINF:-1 tvg-chno="102027" tvg-name="KPAX-DT3 (GRIT)" tvg-logo="https://emby.tmsimg.com/assets/s89922_h3_aa.png" group-title="United States" tvg-id="KPAXDT3" tvc-guide-stationid="102027",KPAX-DT3 (GRIT)
 http://example.local/USA-KPAXDT3.ts
@@ -1009,13 +1019,3 @@ http://example.local/USA-KPTVDT2.ts
 http://example.local/USA-KPTVDT3.ts
 #EXTINF:-1 tvg-chno="113177" tvg-name="KPTV-DT4 (OXYGEN)" tvg-logo="https://emby.tmsimg.com/assets/s21484_ll_h15_ac.png" group-title="United States" tvg-id="KPTVDT4" tvc-guide-stationid="113177",KPTV-DT4 (OXYGEN)
 http://example.local/USA-KPTVDT4.ts
-#EXTINF:-1 tvg-chno="63194" tvg-name="KPTW-DT (PBS)" tvg-logo="https://logos.jesmann.com/kptwdt.png" group-title="United States" tvg-id="KPTWDT" tvc-guide-stationid="63194",KPTW-DT (PBS)
-http://example.local/USA-KPTWDT.ts
-#EXTINF:-1 tvg-chno="63195" tvg-name="KPTW-DT2 (CREATE)" tvg-logo="https://emby.tmsimg.com/assets/s48990_ll_h15_aa.png" group-title="United States" tvg-id="KPTWDT2" tvc-guide-stationid="63195",KPTW-DT2 (CREATE)
-http://example.local/USA-KPTWDT2.ts
-#EXTINF:-1 tvg-chno="107285" tvg-name="KPTW-DT3 (HD06)" tvg-logo="https://emby.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="United States" tvg-id="KPTWDT3" tvc-guide-stationid="107285",KPTW-DT3 (HD06)
-http://example.local/USA-KPTWDT3.ts
-#EXTINF:-1 tvg-chno="12454" tvg-name="KPVI (NBC)" tvg-logo="https://emby.tmsimg.com/assets/s10991_h3_ba.png" group-title="United States" tvg-id="KPVI" tvc-guide-stationid="12454",KPVI (NBC)
-http://example.local/USA-KPVI.ts
-#EXTINF:-1 tvg-chno="43019" tvg-name="KPVI-DT (NBC)" tvg-logo="https://logos.jesmann.com/kpvidt.png" group-title="United States" tvg-id="KPVIDT" tvc-guide-stationid="43019",KPVI-DT (NBC)
-http://example.local/USA-KPVIDT.ts

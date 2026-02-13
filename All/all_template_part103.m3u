@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://emby.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Bermuda" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
+http://example.local/BMU-TCM.ts
+#EXTINF:-1 tvg-chno="20726" tvg-name="Turner Classic Movies" tvg-logo="https://emby.tmsimg.com/assets/s20726_ll_h15_ab.png" group-title="United Kingdom" tvg-id="TCMUK" tvc-guide-stationid="20726",Turner Classic Movies
+http://example.local/GBR-TCMUK.ts
+#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://emby.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Jamaica" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
+http://example.local/JAM-TCM.ts
+#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://emby.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
+http://example.local/PRI-TCM.ts
+#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://emby.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Bahamas" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
+http://example.local/BHS-TCM.ts
+#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://emby.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
+http://example.local/CYM-TCM.ts
+#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://emby.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
+http://example.local/TTO-TCM.ts
+#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://emby.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Saint Vincent and the Grenadines" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
+http://example.local/VCT-TCM.ts
+#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://emby.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
+http://example.local/BES-TCM.ts
+#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://emby.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Belize" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
+http://example.local/BLZ-TCM.ts
+#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://emby.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Barbados" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
+http://example.local/BRB-TCM.ts
 #EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://emby.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
 http://example.local/VGB-TCM.ts
 #EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://emby.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="St. Lucia" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
@@ -997,25 +1019,3 @@ http://example.local/DEU-TV2ECHO.ts
 http://example.local/DNK-TV2ECHO.ts
 #EXTINF:-1 tvg-chno="102089" tvg-name="TV2 Echo HD" tvg-logo="https://emby.tmsimg.com/assets/s102089_ll_h15_ac.png" group-title="Denmark" tvg-id="TV2ECHD" tvc-guide-stationid="102089",TV2 Echo HD
 http://example.local/DNK-TV2ECHD.ts
-#EXTINF:-1 tvg-chno="87781" tvg-name="TV2 Fri" tvg-logo="https://emby.tmsimg.com/assets/s87781_ll_h15_ac.png" group-title="Denmark" tvg-id="TV2FRI" tvc-guide-stationid="87781",TV2 Fri
-http://example.local/DNK-TV2FRI.ts
-#EXTINF:-1 tvg-chno="87782" tvg-name="TV2 Fri HD" tvg-logo="https://emby.tmsimg.com/assets/s87782_ll_h15_ac.png" group-title="Denmark" tvg-id="TV2FRIH" tvc-guide-stationid="87782",TV2 Fri HD
-http://example.local/DNK-TV2FRIH.ts
-#EXTINF:-1 tvg-chno="87793" tvg-name="TV2 HD" tvg-logo="https://emby.tmsimg.com/assets/s87793_ll_h15_ab.png" group-title="Norway" tvg-id="TV2HD" tvc-guide-stationid="87793",TV2 HD
-http://example.local/NOR-TV2HD.ts
-#EXTINF:-1 tvg-chno="87793" tvg-name="TV2 HD" tvg-logo="https://emby.tmsimg.com/assets/s87793_ll_h15_ab.png" group-title="Sweden" tvg-id="TV2HD" tvc-guide-stationid="87793",TV2 HD
-http://example.local/SWE-TV2HD.ts
-#EXTINF:-1 tvg-chno="87793" tvg-name="TV2 HD" tvg-logo="https://emby.tmsimg.com/assets/s87793_ll_h15_ab.png" group-title="Denmark" tvg-id="TV2HD" tvc-guide-stationid="87793",TV2 HD
-http://example.local/DNK-TV2HD.ts
-#EXTINF:-1 tvg-chno="109590" tvg-name="TV2 Livsstil" tvg-logo="https://emby.tmsimg.com/assets/s109590_ll_h15_aa.png" group-title="Norway" tvg-id="TV2LIVS" tvc-guide-stationid="109590",TV2 Livsstil
-http://example.local/NOR-TV2LIVS.ts
-#EXTINF:-1 tvg-chno="87794" tvg-name="TV2 News" tvg-logo="https://emby.tmsimg.com/assets/s87794_ll_h15_ac.png" group-title="Denmark" tvg-id="TV2NWS" tvc-guide-stationid="87794",TV2 News
-http://example.local/DNK-TV2NWS.ts
-#EXTINF:-1 tvg-chno="104843" tvg-name="TV2 News HD" tvg-logo="https://emby.tmsimg.com/assets/s104843_ll_h15_ac.png" group-title="Denmark" tvg-id="TV2NSHD" tvc-guide-stationid="104843",TV2 News HD
-http://example.local/DNK-TV2NSHD.ts
-#EXTINF:-1 tvg-chno="90780" tvg-name="TV2 Sport 1" tvg-logo="https://emby.tmsimg.com/assets/s90780_ll_h15_ab.png" group-title="Norway" tvg-id="TV2SP1" tvc-guide-stationid="90780",TV2 Sport 1
-http://example.local/NOR-TV2SP1.ts
-#EXTINF:-1 tvg-chno="90782" tvg-name="TV2 Sport 2" tvg-logo="https://emby.tmsimg.com/assets/s90782_ll_h9_ab.png" group-title="Norway" tvg-id="TV2SP2" tvc-guide-stationid="90782",TV2 Sport 2
-http://example.local/NOR-TV2SP2.ts
-#EXTINF:-1 tvg-chno="90776" tvg-name="TV2 Sport Premium 1" tvg-logo="https://emby.tmsimg.com/assets/s90776_ll_h15_ab.png" group-title="Norway" tvg-id="TV2SPT1" tvc-guide-stationid="90776",TV2 Sport Premium 1
-http://example.local/NOR-TV2SPT1.ts

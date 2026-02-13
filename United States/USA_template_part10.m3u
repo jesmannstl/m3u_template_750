@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="114492" tvg-name="Global News Toronto" tvg-logo="https://emby.tmsimg.com/assets/s114492_ll_h15_ac.png" group-title="United States" tvg-id="CAGNETO" tvc-guide-stationid="114492",Global News Toronto
+http://example.local/USA-CAGNETO.ts
+#EXTINF:-1 tvg-chno="120697" tvg-name="Global Punjab" group-title="United States" tvg-id="GRVPG" tvc-guide-stationid="120697",Global Punjab
+http://example.local/USA-GRVPG.ts
+#EXTINF:-1 tvg-chno="44792" tvg-name="Global Toronto HD (GLOBAL)" tvg-logo="https://emby.tmsimg.com/assets/s44792_ll_h15_ab.png" group-title="United States" tvg-id="CIIIDT" tvc-guide-stationid="44792",Global Toronto HD (GLOBAL)
+http://example.local/USA-CIIIDT.ts
+#EXTINF:-1 tvg-chno="74724" tvg-name="Globecast ARTN" group-title="United States" tvg-id="ARTN" tvc-guide-stationid="74724",Globecast ARTN
+http://example.local/USA-ARTN.ts
 #EXTINF:-1 tvg-chno="42206" tvg-name="Globo" tvg-logo="https://emby.tmsimg.com/assets/s42206_ll_h15_cc.png" group-title="United States" tvg-id="REDEGL" tvc-guide-stationid="42206",Globo
 http://example.local/USA-REDEGL.ts
 #EXTINF:-1 tvg-chno="131359" tvg-name="GLORY Kickboxing" tvg-logo="https://emby.tmsimg.com/assets/s131359_ll_h9_aa.png" group-title="United States" tvg-id="GLORY" tvc-guide-stationid="131359",GLORY Kickboxing
@@ -1011,11 +1019,3 @@ http://example.local/USA-SM100.ts
 http://example.local/USA-HPFM.ts
 #EXTINF:-1 tvg-chno="46443" tvg-name="Holistic Television Network" group-title="United States" tvg-id="HLISTIC" tvc-guide-stationid="46443",Holistic Television Network
 http://example.local/USA-HLISTIC.ts
-#EXTINF:-1 tvg-chno="98586" tvg-name="HOM-TV" group-title="United States" tvg-id="HOMTV" tvc-guide-stationid="98586",HOM-TV
-http://example.local/USA-HOMTV.ts
-#EXTINF:-1 tvg-chno="14902" tvg-name="Home & Garden Television" tvg-logo="https://emby.tmsimg.com/assets/s14902_ll_h15_ab.png" group-title="United States" tvg-id="HGTV" tvc-guide-stationid="14902",Home & Garden Television
-http://example.local/USA-HGTV.ts
-#EXTINF:-1 tvg-chno="167586" tvg-name="Home & Garden Television" tvg-logo="https://emby.tmsimg.com/assets/s167586_ll_h15_aa.png" group-title="United States" tvg-id="HGTHD" tvc-guide-stationid="167586",Home & Garden Television
-http://example.local/USA-HGTHD.ts
-#EXTINF:-1 tvg-chno="34215" tvg-name="Home & Garden Television (Pacific)" tvg-logo="https://logos.jesmann.com/hgtvp.png" group-title="United States" tvg-id="HGTVP" tvc-guide-stationid="34215",Home & Garden Television (Pacific)
-http://example.local/USA-HGTVP.ts

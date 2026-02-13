@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="90379" tvg-name="K47MD-D (FNX)" tvg-logo="https://emby.tmsimg.com/assets/s82462_ll_h9_aa.png" group-title="United States" tvg-id="K47MDD" tvc-guide-stationid="90379",K47MD-D (FNX)
+http://example.local/USA-K47MDD.ts
+#EXTINF:-1 tvg-chno="90380" tvg-name="K47MD-D2" group-title="United States" tvg-id="K47MDD2" tvc-guide-stationid="90380",K47MD-D2
+http://example.local/USA-K47MDD2.ts
+#EXTINF:-1 tvg-chno="98430" tvg-name="K47MF-D (NBC)" tvg-logo="https://emby.tmsimg.com/assets/s10991_h3_ba.png" group-title="United States" tvg-id="K47MFD" tvc-guide-stationid="98430",K47MF-D (NBC)
+http://example.local/USA-K47MFD.ts
+#EXTINF:-1 tvg-chno="98431" tvg-name="K47MF-D2 (COZITV)" tvg-logo="https://emby.tmsimg.com/assets/s78851_ll_h15_ab.png" group-title="United States" tvg-id="K47MFD2" tvc-guide-stationid="98431",K47MF-D2 (COZITV)
+http://example.local/USA-K47MFD2.ts
 #EXTINF:-1 tvg-chno="98433" tvg-name="K47MF-D3 (COZITV)" tvg-logo="https://emby.tmsimg.com/assets/s78851_h3_aa.png" group-title="United States" tvg-id="K47MFD3" tvc-guide-stationid="98433",K47MF-D3 (COZITV)
 http://example.local/USA-K47MFD3.ts
 #EXTINF:-1 tvg-chno="90392" tvg-name="K47MG-D (FNX)" tvg-logo="https://emby.tmsimg.com/assets/s82462_ll_h9_aa.png" group-title="United States" tvg-id="K47MGD" tvc-guide-stationid="90392",K47MG-D (FNX)
@@ -1011,11 +1019,3 @@ http://example.local/USA-KANALDL.ts
 http://example.local/USA-KANALDP.ts
 #EXTINF:-1 tvg-chno="33311" tvg-name="KANG-LP (UNIMAS)" tvg-logo="https://emby.tmsimg.com/assets/s29058_h3_aa.png" group-title="United States" tvg-id="KANGLP" tvc-guide-stationid="33311",KANG-LP (UNIMAS)
 http://example.local/USA-KANGLP.ts
-#EXTINF:-1 tvg-chno="102294" tvg-name="Kansas City Royals: MLB Extra Innings" tvg-logo="https://emby.tmsimg.com/assets/s102294_ll_h15_aa.png" group-title="United States" tvg-id="MLBKC" tvc-guide-stationid="102294",Kansas City Royals: MLB Extra Innings
-http://example.local/USA-MLBKC.ts
-#EXTINF:-1 tvg-chno="75621" tvg-name="Kapatid" tvg-logo="https://emby.tmsimg.com/assets/s75621_ll_h15_aa.png" group-title="United States" tvg-id="KAPATID" tvc-guide-stationid="75621",Kapatid
-http://example.local/USA-KAPATID.ts
-#EXTINF:-1 tvg-chno="10327" tvg-name="KAPP (ABC)" tvg-logo="https://emby.tmsimg.com/assets/s10003_h3_aa.png" group-title="United States" tvg-id="KAPP" tvc-guide-stationid="10327",KAPP (ABC)
-http://example.local/USA-KAPP.ts
-#EXTINF:-1 tvg-chno="43487" tvg-name="KAPP-DT (ABC)" tvg-logo="https://logos.jesmann.com/kappdt.png" group-title="United States" tvg-id="KAPPDT" tvc-guide-stationid="43487",KAPP-DT (ABC)
-http://example.local/USA-KAPPDT.ts

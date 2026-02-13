@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="88807" tvg-name="K50HI-D4 (ION)" tvg-logo="https://emby.tmsimg.com/assets/s18633_ll_h15_ad.png" group-title="United States" tvg-id="K50HID4" tvc-guide-stationid="88807",K50HI-D4 (ION)
+http://example.local/USA-K50HID4.ts
+#EXTINF:-1 tvg-chno="88808" tvg-name="K50HI-D5 (IONPLUS)" tvg-logo="https://emby.tmsimg.com/assets/s55241_ll_h15_ad.png" group-title="United States" tvg-id="K50HID5" tvc-guide-stationid="88808",K50HI-D5 (IONPLUS)
+http://example.local/USA-K50HID5.ts
+#EXTINF:-1 tvg-chno="82222" tvg-name="K50HL-D" group-title="United States" tvg-id="K50HLD" tvc-guide-stationid="82222",K50HL-D
+http://example.local/USA-K50HLD.ts
+#EXTINF:-1 tvg-chno="82500" tvg-name="K50HZ-D (FOX)" tvg-logo="https://emby.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="United States" tvg-id="K50HZD" tvc-guide-stationid="82500",K50HZ-D (FOX)
+http://example.local/USA-K50HZD.ts
 #EXTINF:-1 tvg-chno="82501" tvg-name="K50HZ-D2 (BUZZR)" tvg-logo="https://emby.tmsimg.com/assets/s93430_h3_aa.png" group-title="United States" tvg-id="K50HZD2" tvc-guide-stationid="82501",K50HZ-D2 (BUZZR)
 http://example.local/USA-K50HZD2.ts
 #EXTINF:-1 tvg-chno="107634" tvg-name="K50HZ-D3 (QVC)" tvg-logo="https://emby.tmsimg.com/assets/s11069_ll_h15_ad.png" group-title="United States" tvg-id="K50HZD3" tvc-guide-stationid="107634",K50HZ-D3 (QVC)
@@ -911,6 +919,8 @@ http://example.local/CHE-KVOULIS.ts
 http://example.local/POL-KNLSTF.ts
 #EXTINF:-1 tvg-chno="33311" tvg-name="KANG-LP (UNIMAS)" tvg-logo="https://emby.tmsimg.com/assets/s29058_h3_aa.png" group-title="United States" tvg-id="KANGLP" tvc-guide-stationid="33311",KANG-LP (UNIMAS)
 http://example.local/USA-KANGLP.ts
+#EXTINF:-1 tvg-chno="136331" tvg-name="Kansas City Royals" tvg-logo="https://emby.tmsimg.com/assets/s136331_ll_h15_ab.png" group-title="United States" tvg-id="ROYL" tvc-guide-stationid="136331",Kansas City Royals
+http://example.local/USA-ROYL.ts
 #EXTINF:-1 tvg-chno="102294" tvg-name="Kansas City Royals: MLB Extra Innings" tvg-logo="https://emby.tmsimg.com/assets/s102294_ll_h15_aa.png" group-title="United States" tvg-id="MLBKC" tvc-guide-stationid="102294",Kansas City Royals: MLB Extra Innings
 http://example.local/USA-MLBKC.ts
 #EXTINF:-1 tvg-chno="116920" tvg-name="Kanshi TV" tvg-logo="https://emby.tmsimg.com/assets/s116920_ll_h9_aa.png" group-title="Belgium" tvg-id="KANSHI" tvc-guide-stationid="116920",Kanshi TV
@@ -1009,13 +1019,3 @@ http://example.local/USA-KASADT5.ts
 http://example.local/USA-KASADT6.ts
 #EXTINF:-1 tvg-chno="10331" tvg-name="KASN (CW)" tvg-logo="https://emby.tmsimg.com/assets/s51306_ll_h15_ac.png" group-title="United States" tvg-id="KASN" tvc-guide-stationid="10331",KASN (CW)
 http://example.local/USA-KASN.ts
-#EXTINF:-1 tvg-chno="32414" tvg-name="KASN-DT (CW)" tvg-logo="https://logos.jesmann.com/kasndt.png" group-title="United States" tvg-id="KASNDT" tvc-guide-stationid="32414",KASN-DT (CW)
-http://example.local/USA-KASNDT.ts
-#EXTINF:-1 tvg-chno="55037" tvg-name="KASN-DT2 (REWIND)" tvg-logo="https://emby.tmsimg.com/assets/s119814_ll_h15_ab.png" group-title="United States" tvg-id="KASNDT2" tvc-guide-stationid="55037",KASN-DT2 (REWIND)
-http://example.local/USA-KASNDT2.ts
-#EXTINF:-1 tvg-chno="121086" tvg-name="KASN-DT3 (ION)" tvg-logo="https://emby.tmsimg.com/assets/s18633_ll_h15_ad.png" group-title="United States" tvg-id="KASNDT3" tvc-guide-stationid="121086",KASN-DT3 (ION)
-http://example.local/USA-KASNDT3.ts
-#EXTINF:-1 tvg-chno="121087" tvg-name="KASN-DT4 (IONPLUS)" tvg-logo="https://emby.tmsimg.com/assets/s55241_ll_h15_ad.png" group-title="United States" tvg-id="KASNDT4" tvc-guide-stationid="121087",KASN-DT4 (IONPLUS)
-http://example.local/USA-KASNDT4.ts
-#EXTINF:-1 tvg-chno="121088" tvg-name="KASN-DT5 (GRIT)" tvg-logo="https://emby.tmsimg.com/assets/s89922_h3_aa.png" group-title="United States" tvg-id="KASNDT5" tvc-guide-stationid="121088",KASN-DT5 (GRIT)
-http://example.local/USA-KASNDT5.ts

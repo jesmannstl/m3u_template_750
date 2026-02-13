@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="105085" tvg-name="RTL7" tvg-logo="https://emby.tmsimg.com/assets/s105085_ll_h15_ag.png" group-title="Germany" tvg-id="RTL7NL" tvc-guide-stationid="105085",RTL7
+http://example.local/DEU-RTL7NL.ts
+#EXTINF:-1 tvg-chno="105085" tvg-name="RTL7" tvg-logo="https://emby.tmsimg.com/assets/s105085_ll_h15_ag.png" group-title="Netherlands" tvg-id="RTL7NL" tvc-guide-stationid="105085",RTL7
+http://example.local/NLD-RTL7NL.ts
+#EXTINF:-1 tvg-chno="105087" tvg-name="RTL8" tvg-logo="https://emby.tmsimg.com/assets/s105087_ll_h15_ac.png" group-title="Germany" tvg-id="RTL8NL" tvc-guide-stationid="105087",RTL8
+http://example.local/DEU-RTL8NL.ts
+#EXTINF:-1 tvg-chno="105087" tvg-name="RTL8" tvg-logo="https://emby.tmsimg.com/assets/s105087_ll_h15_ac.png" group-title="Netherlands" tvg-id="RTL8NL" tvc-guide-stationid="105087",RTL8
+http://example.local/NLD-RTL8NL.ts
+#EXTINF:-1 tvg-chno="36283" tvg-name="RTL9" tvg-logo="https://emby.tmsimg.com/assets/s36283_ll_h15_aa.png" group-title="Germany" tvg-id="RTL9" tvc-guide-stationid="36283",RTL9
+http://example.local/DEU-RTL9.ts
+#EXTINF:-1 tvg-chno="36283" tvg-name="RTL9" tvg-logo="https://emby.tmsimg.com/assets/s36283_ll_h15_aa.png" group-title="France" tvg-id="RTL9" tvc-guide-stationid="36283",RTL9
+http://example.local/FRA-RTL9.ts
+#EXTINF:-1 tvg-chno="36283" tvg-name="RTL9" tvg-logo="https://emby.tmsimg.com/assets/s36283_ll_h15_aa.png" group-title="Switzerland" tvg-id="RTL9" tvc-guide-stationid="36283",RTL9
+http://example.local/CHE-RTL9.ts
+#EXTINF:-1 tvg-chno="90437" tvg-name="RTL9 HD" tvg-logo="https://emby.tmsimg.com/assets/s90437_ll_h15_ab.png" group-title="France" tvg-id="RTL9FHD" tvc-guide-stationid="90437",RTL9 HD
+http://example.local/FRA-RTL9FHD.ts
 #EXTINF:-1 tvg-chno="90437" tvg-name="RTL9 HD" tvg-logo="https://emby.tmsimg.com/assets/s90437_ll_h15_ab.png" group-title="Switzerland" tvg-id="RTL9FHD" tvc-guide-stationid="90437",RTL9 HD
 http://example.local/CHE-RTL9FHD.ts
 #EXTINF:-1 tvg-chno="53951" tvg-name="RTLup" tvg-logo="https://emby.tmsimg.com/assets/s53951_ll_h9_ac.png" group-title="Germany" tvg-id="RTLUP" tvc-guide-stationid="53951",RTLup
@@ -1003,19 +1019,3 @@ http://example.local/AUS-A24QANZ.ts
 http://example.local/AUS-A24SANZ.ts
 #EXTINF:-1 tvg-chno="104543" tvg-name="SBS Arabic24 Tasmania (SBSAU)" tvg-logo="https://emby.tmsimg.com/assets/s104543_ll_h9_aa.png" group-title="Australia" tvg-id="A24TANZ" tvc-guide-stationid="104543",SBS Arabic24 Tasmania (SBSAU)
 http://example.local/AUS-A24TANZ.ts
-#EXTINF:-1 tvg-chno="104544" tvg-name="SBS Arabic24 Victoria (SBSAU)" tvg-logo="https://emby.tmsimg.com/assets/s104544_ll_h9_aa.png" group-title="Australia" tvg-id="A24VANZ" tvc-guide-stationid="104544",SBS Arabic24 Victoria (SBSAU)
-http://example.local/AUS-A24VANZ.ts
-#EXTINF:-1 tvg-chno="104545" tvg-name="SBS Arabic24 WA (SBSAU)" tvg-logo="https://emby.tmsimg.com/assets/s104545_ll_h9_aa.png" group-title="Australia" tvg-id="A24WANZ" tvc-guide-stationid="104545",SBS Arabic24 WA (SBSAU)
-http://example.local/AUS-A24WANZ.ts
-#EXTINF:-1 tvg-chno="109798" tvg-name="SBS Chill (SBSAU)" tvg-logo="https://emby.tmsimg.com/assets/s109798_ll_h9_aa.png" group-title="Australia" tvg-id="SBSCANZ" tvc-guide-stationid="109798",SBS Chill (SBSAU)
-http://example.local/AUS-SBSCANZ.ts
-#EXTINF:-1 tvg-chno="104190" tvg-name="SBS Eastern (SBSAU)" tvg-logo="https://emby.tmsimg.com/assets/s104190_ll_h9_ac.png" group-title="Australia" tvg-id="SBSEANZ" tvc-guide-stationid="104190",SBS Eastern (SBSAU)
-http://example.local/AUS-SBSEANZ.ts
-#EXTINF:-1 tvg-chno="104237" tvg-name="SBS Food NSW (SBSAU)" tvg-logo="https://emby.tmsimg.com/assets/s104237_ll_h9_bb.png" group-title="Australia" tvg-id="FNSWANZ" tvc-guide-stationid="104237",SBS Food NSW (SBSAU)
-http://example.local/AUS-FNSWANZ.ts
-#EXTINF:-1 tvg-chno="104238" tvg-name="SBS Food NT (SBSAU)" tvg-logo="https://emby.tmsimg.com/assets/s104238_ll_h9_bb.png" group-title="Australia" tvg-id="FNTANZ" tvc-guide-stationid="104238",SBS Food NT (SBSAU)
-http://example.local/AUS-FNTANZ.ts
-#EXTINF:-1 tvg-chno="104239" tvg-name="SBS Food QLD (SBSAU)" tvg-logo="https://emby.tmsimg.com/assets/s104239_ll_h9_bb.png" group-title="Australia" tvg-id="FQLDANZ" tvc-guide-stationid="104239",SBS Food QLD (SBSAU)
-http://example.local/AUS-FQLDANZ.ts
-#EXTINF:-1 tvg-chno="104240" tvg-name="SBS Food SA (SBSAU)" tvg-logo="https://emby.tmsimg.com/assets/s104240_ll_h9_bb.png" group-title="Australia" tvg-id="FSAANZ" tvc-guide-stationid="104240",SBS Food SA (SBSAU)
-http://example.local/AUS-FSAANZ.ts

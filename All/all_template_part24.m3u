@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="21419" tvg-name="DMX: Hot Jamz" tvg-logo="https://emby.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="HTJAMZ" tvc-guide-stationid="21419",DMX: Hot Jamz
+http://example.local/MEX-HTJAMZ.ts
+#EXTINF:-1 tvg-chno="21419" tvg-name="DMX: Hot Jamz" tvg-logo="https://emby.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="United States" tvg-id="HTJAMZ" tvc-guide-stationid="21419",DMX: Hot Jamz
+http://example.local/USA-HTJAMZ.ts
+#EXTINF:-1 tvg-chno="21419" tvg-name="DMX: Hot Jamz" tvg-logo="https://emby.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Peru" tvg-id="HTJAMZ" tvc-guide-stationid="21419",DMX: Hot Jamz
+http://example.local/PER-HTJAMZ.ts
+#EXTINF:-1 tvg-chno="21419" tvg-name="DMX: Hot Jamz" tvg-logo="https://emby.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Costa Rica" tvg-id="HTJAMZ" tvc-guide-stationid="21419",DMX: Hot Jamz
+http://example.local/CRI-HTJAMZ.ts
 #EXTINF:-1 tvg-chno="21419" tvg-name="DMX: Hot Jamz" tvg-logo="https://emby.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Jamaica" tvg-id="HTJAMZ" tvc-guide-stationid="21419",DMX: Hot Jamz
 http://example.local/JAM-HTJAMZ.ts
 #EXTINF:-1 tvg-chno="21419" tvg-name="DMX: Hot Jamz" tvg-logo="https://emby.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Venezuela" tvg-id="HTJAMZ" tvc-guide-stationid="21419",DMX: Hot Jamz
@@ -1011,11 +1019,3 @@ http://example.local/USA-DUBAI.ts
 http://example.local/USA-DUBSP.ts
 #EXTINF:-1 tvg-chno="118655" tvg-name="Dubai Sports HD" group-title="Belgium" tvg-id="DUBSPHD" tvc-guide-stationid="118655",Dubai Sports HD
 http://example.local/BEL-DUBSPHD.ts
-#EXTINF:-1 tvg-chno="115551" tvg-name="Dubai TV" tvg-logo="https://emby.tmsimg.com/assets/s115551_ll_h15_aa.png" group-title="France" tvg-id="DUBAITV" tvc-guide-stationid="115551",Dubai TV
-http://example.local/FRA-DUBAITV.ts
-#EXTINF:-1 tvg-chno="115551" tvg-name="Dubai TV" tvg-logo="https://emby.tmsimg.com/assets/s115551_ll_h15_aa.png" group-title="United States" tvg-id="DUBAITV" tvc-guide-stationid="115551",Dubai TV
-http://example.local/USA-DUBAITV.ts
-#EXTINF:-1 tvg-chno="115802" tvg-name="Dubai TV" tvg-logo="https://emby.tmsimg.com/assets/s115802_ll_h15_aa.png" group-title="Austria" tvg-id="DUBTVE" tvc-guide-stationid="115802",Dubai TV
-http://example.local/AUT-DUBTVE.ts
-#EXTINF:-1 tvg-chno="115551" tvg-name="Dubai TV" tvg-logo="https://emby.tmsimg.com/assets/s115551_ll_h15_aa.png" group-title="Austria" tvg-id="DUBAITV" tvc-guide-stationid="115551",Dubai TV
-http://example.local/AUT-DUBAITV.ts

@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="83354" tvg-name="Information Channel - INFO791" group-title="United States" tvg-id="INFO791" tvc-guide-stationid="83354",Information Channel - INFO791
+http://example.local/USA-INFO791.ts
+#EXTINF:-1 tvg-chno="83356" tvg-name="Information Channel - INFO792" group-title="United States" tvg-id="INFO792" tvc-guide-stationid="83356",Information Channel - INFO792
+http://example.local/USA-INFO792.ts
+#EXTINF:-1 tvg-chno="83357" tvg-name="Information Channel - INFO793" group-title="United States" tvg-id="INFO793" tvc-guide-stationid="83357",Information Channel - INFO793
+http://example.local/USA-INFO793.ts
+#EXTINF:-1 tvg-chno="83358" tvg-name="Information Channel - INFO794" group-title="United States" tvg-id="INFO794" tvc-guide-stationid="83358",Information Channel - INFO794
+http://example.local/USA-INFO794.ts
 #EXTINF:-1 tvg-chno="53349" tvg-name="Information Channel - INFO795" group-title="United States" tvg-id="INFO795" tvc-guide-stationid="53349",Information Channel - INFO795
 http://example.local/USA-INFO795.ts
 #EXTINF:-1 tvg-chno="83359" tvg-name="Information Channel - INFO796" group-title="United States" tvg-id="INFO796" tvc-guide-stationid="83359",Information Channel - INFO796
@@ -1011,11 +1019,3 @@ http://example.local/POL-JJWHD.ts
 http://example.local/FIN-JIMFIN.ts
 #EXTINF:-1 tvg-chno="88478" tvg-name="JIM HD" tvg-logo="https://emby.tmsimg.com/assets/s88478_ll_h15_ab.png" group-title="Finland" tvg-id="JIMHDF" tvc-guide-stationid="88478",JIM HD
 http://example.local/FIN-JIMHDF.ts
-#EXTINF:-1 tvg-chno="117123" tvg-name="JimJam Polsat" tvg-logo="https://emby.tmsimg.com/assets/s117123_ll_h15_aa.png" group-title="Poland" tvg-id="JIJAPL" tvc-guide-stationid="117123",JimJam Polsat
-http://example.local/POL-JIJAPL.ts
-#EXTINF:-1 tvg-chno="175280" tvg-name="JimJam Polsat HD" group-title="Poland" tvg-id="JIMJAMP" tvc-guide-stationid="175280",JimJam Polsat HD
-http://example.local/POL-JIMJAMP.ts
-#EXTINF:-1 tvg-chno="175029" tvg-name="Jin TV" group-title="Poland" tvg-id="JINTV" tvc-guide-stationid="175029",Jin TV
-http://example.local/POL-JINTV.ts
-#EXTINF:-1 tvg-chno="101698" tvg-name="JK Channel" group-title="United States" tvg-id="JK" tvc-guide-stationid="101698",JK Channel
-http://example.local/USA-JK.ts

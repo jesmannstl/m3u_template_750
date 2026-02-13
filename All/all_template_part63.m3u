@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="90192" tvg-name="KUVS-DT4 (IMYS)" tvg-logo="https://emby.tmsimg.com/assets/s89923_ll_h15_ad.png" group-title="United States" tvg-id="KUVSDT4" tvc-guide-stationid="90192",KUVS-DT4 (IMYS)
+http://example.local/USA-KUVSDT4.ts
+#EXTINF:-1 tvg-chno="44091" tvg-name="Kuwait TV" tvg-logo="https://emby.tmsimg.com/assets/s44091_ll_h6_aa.png" group-title="France" tvg-id="KUWAIT" tvc-guide-stationid="44091",Kuwait TV
+http://example.local/FRA-KUWAIT.ts
+#EXTINF:-1 tvg-chno="44091" tvg-name="Kuwait TV" tvg-logo="https://emby.tmsimg.com/assets/s44091_ll_h6_aa.png" group-title="United States" tvg-id="KUWAIT" tvc-guide-stationid="44091",Kuwait TV
+http://example.local/USA-KUWAIT.ts
+#EXTINF:-1 tvg-chno="118647" tvg-name="Kuwait TV HD" group-title="Poland" tvg-id="KUWAITHD" tvc-guide-stationid="118647",Kuwait TV HD
+http://example.local/POL-KUWAITHD.ts
+#EXTINF:-1 tvg-chno="118647" tvg-name="Kuwait TV HD" group-title="Belgium" tvg-id="KUWAITHD" tvc-guide-stationid="118647",Kuwait TV HD
+http://example.local/BEL-KUWAITHD.ts
 #EXTINF:-1 tvg-chno="82471" tvg-name="KUWB-LD (CW)" tvg-logo="https://emby.tmsimg.com/assets/s53098_ll_h15_ac.png" group-title="United States" tvg-id="KUWBLD" tvc-guide-stationid="82471",KUWB-LD (CW)
 http://example.local/USA-KUWBLD.ts
 #EXTINF:-1 tvg-chno="82472" tvg-name="KUWB-LD2 (MVIES)" tvg-logo="https://emby.tmsimg.com/assets/s81275_h3_aa.png" group-title="United States" tvg-id="KUWBLD2" tvc-guide-stationid="82472",KUWB-LD2 (MVIES)
@@ -1009,13 +1019,3 @@ http://example.local/USA-KWYPDT3.ts
 http://example.local/USA-KWYTLD.ts
 #EXTINF:-1 tvg-chno="108808" tvg-name="KWYT-LD (SD Feed) (ESTRLLA)" tvg-logo="https://emby.tmsimg.com/assets/s65064_h3_ba.png" group-title="United States" tvg-id="KWYTSD" tvc-guide-stationid="108808",KWYT-LD (SD Feed) (ESTRLLA)
 http://example.local/USA-KWYTSD.ts
-#EXTINF:-1 tvg-chno="70471" tvg-name="KWYT-LD2 (NSTRAVI)" tvg-logo="https://emby.tmsimg.com/assets/s106819_ll_h6_aa.png" group-title="United States" tvg-id="KWYTLD2" tvc-guide-stationid="70471",KWYT-LD2 (NSTRAVI)
-http://example.local/USA-KWYTLD2.ts
-#EXTINF:-1 tvg-chno="70668" tvg-name="KWYT-LD3 (LATV)" tvg-logo="https://emby.tmsimg.com/assets/s55578_ll_h15_ab.png" group-title="United States" tvg-id="KWYTLD3" tvc-guide-stationid="70668",KWYT-LD3 (LATV)
-http://example.local/USA-KWYTLD3.ts
-#EXTINF:-1 tvg-chno="72612" tvg-name="KWYT-LD4 (ALMA)" tvg-logo="https://emby.tmsimg.com/assets/s45813_h3_aa.png" group-title="United States" tvg-id="KWYTLD4" tvc-guide-stationid="72612",KWYT-LD4 (ALMA)
-http://example.local/USA-KWYTLD4.ts
-#EXTINF:-1 tvg-chno="72506" tvg-name="KWYT-LD5 (ESNE)" tvg-logo="https://emby.tmsimg.com/assets/s46421_h3_aa.png" group-title="United States" tvg-id="KWYTLD5" tvc-guide-stationid="72506",KWYT-LD5 (ESNE)
-http://example.local/USA-KWYTLD5.ts
-#EXTINF:-1 tvg-chno="72509" tvg-name="KWYT-LD6 (JTV)" tvg-logo="https://emby.tmsimg.com/assets/s16604_h3_aa.png" group-title="United States" tvg-id="KWYTLD6" tvc-guide-stationid="72509",KWYT-LD6 (JTV)
-http://example.local/USA-KWYTLD6.ts

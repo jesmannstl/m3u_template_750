@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="101074" tvg-name="KYLE-DT4 (LAFF)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002NRDSC.png" group-title="United States" tvg-id="KYLEDT4" tvc-guide-stationid="101074",KYLE-DT4 (LAFF)
+http://example.local/USA-KYLEDT4.ts
+#EXTINF:-1 tvg-chno="10808" tvg-name="KYLX (CBS)" tvg-logo="https://emby.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="United States" tvg-id="KYLX" tvc-guide-stationid="10808",KYLX (CBS)
+http://example.local/USA-KYLX.ts
+#EXTINF:-1 tvg-chno="54483" tvg-name="KYLX-LD (CBS)" tvg-logo="https://logos.jesmann.com/kylxld.png" group-title="United States" tvg-id="KYLXLD" tvc-guide-stationid="54483",KYLX-LD (CBS)
+http://example.local/USA-KYLXLD.ts
+#EXTINF:-1 tvg-chno="75516" tvg-name="KYLX-LD2 (CWPLUS)" tvg-logo="https://logos.jesmann.com/kylxld2.png" group-title="United States" tvg-id="KYLXLD2" tvc-guide-stationid="75516",KYLX-LD2 (CWPLUS)
+http://example.local/USA-KYLXLD2.ts
+#EXTINF:-1 tvg-chno="120390" tvg-name="KYLX-LD3 (BOUNCE)" tvg-logo="https://emby.tmsimg.com/assets/s73067_h3_aa.png" group-title="United States" tvg-id="KYLXLD3" tvc-guide-stationid="120390",KYLX-LD3 (BOUNCE)
+http://example.local/USA-KYLXLD3.ts
 #EXTINF:-1 tvg-chno="120391" tvg-name="KYLX-LD4 (IMYS)" tvg-logo="https://emby.tmsimg.com/assets/s89923_ll_h15_ad.png" group-title="United States" tvg-id="KYLXLD4" tvc-guide-stationid="120391",KYLX-LD4 (IMYS)
 http://example.local/USA-KYLXLD4.ts
 #EXTINF:-1 tvg-chno="10848" tvg-name="KYMA (CBS)" tvg-logo="https://emby.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="United States" tvg-id="KYMA" tvc-guide-stationid="10848",KYMA (CBS)
@@ -1009,13 +1019,3 @@ http://example.local/USA-NNGHD.ts
 http://example.local/USA-LOCNOW.ts
 #EXTINF:-1 tvg-chno="34294" tvg-name="Local On Demand" group-title="United States" tvg-id="LOCDM" tvc-guide-stationid="34294",Local On Demand
 http://example.local/USA-LOCDM.ts
-#EXTINF:-1 tvg-chno="96038" tvg-name="Local On Demand (TWC)" group-title="United States" tvg-id="NTDM" tvc-guide-stationid="96038",Local On Demand (TWC)
-http://example.local/USA-NTDM.ts
-#EXTINF:-1 tvg-chno="92592" tvg-name="Local Origination" group-title="United States" tvg-id="LO" tvc-guide-stationid="92592",Local Origination
-http://example.local/USA-LO.ts
-#EXTINF:-1 tvg-chno="92454" tvg-name="Local Origination - LOOR 1" group-title="United States" tvg-id="LOOR1" tvc-guide-stationid="92454",Local Origination - LOOR 1
-http://example.local/USA-LOOR1.ts
-#EXTINF:-1 tvg-chno="110425" tvg-name="Local Origination - LOOR 1076" group-title="United States" tvg-id="LOOR1076" tvc-guide-stationid="110425",Local Origination - LOOR 1076
-http://example.local/USA-LOOR1076.ts
-#EXTINF:-1 tvg-chno="110426" tvg-name="Local Origination - LOOR 1089" group-title="United States" tvg-id="LOOR1089" tvc-guide-stationid="110426",Local Origination - LOOR 1089
-http://example.local/USA-LOOR1089.ts

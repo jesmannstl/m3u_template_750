@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="67255" tvg-name="K18MB-D3 (CREATE)" tvg-logo="https://emby.tmsimg.com/assets/s48990_ll_h15_aa.png" group-title="United States" tvg-id="K18MBD3" tvc-guide-stationid="67255",K18MB-D3 (CREATE)
+http://example.local/USA-K18MBD3.ts
+#EXTINF:-1 tvg-chno="67257" tvg-name="K18MB-D4" group-title="Canada" tvg-id="K18MBD4" tvc-guide-stationid="67257",K18MB-D4
+http://example.local/CAN-K18MBD4.ts
+#EXTINF:-1 tvg-chno="67257" tvg-name="K18MB-D4" group-title="United States" tvg-id="K18MBD4" tvc-guide-stationid="67257",K18MB-D4
+http://example.local/USA-K18MBD4.ts
+#EXTINF:-1 tvg-chno="66961" tvg-name="K18NE-D (LAFF)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002NRDSC.png" group-title="United States" tvg-id="K18NED" tvc-guide-stationid="66961",K18NE-D (LAFF)
+http://example.local/USA-K18NED.ts
 #EXTINF:-1 tvg-chno="68493" tvg-name="K18NJ-D (PBS)" tvg-logo="https://emby.tmsimg.com/assets/s32356_ll_h15_ac.png" group-title="Canada" tvg-id="K18NJD" tvc-guide-stationid="68493",K18NJ-D (PBS)
 http://example.local/CAN-K18NJD.ts
 #EXTINF:-1 tvg-chno="68493" tvg-name="K18NJ-D (PBS)" tvg-logo="https://emby.tmsimg.com/assets/s32356_ll_h15_ac.png" group-title="United States" tvg-id="K18NJD" tvc-guide-stationid="68493",K18NJ-D (PBS)
@@ -1011,11 +1019,3 @@ http://example.local/USA-K23FHD.ts
 http://example.local/USA-K23FHD2.ts
 #EXTINF:-1 tvg-chno="110560" tvg-name="K23FH-D3 (ION)" tvg-logo="https://emby.tmsimg.com/assets/s18633_ll_h15_ad.png" group-title="United States" tvg-id="K23FHD3" tvc-guide-stationid="110560",K23FH-D3 (ION)
 http://example.local/USA-K23FHD3.ts
-#EXTINF:-1 tvg-chno="95747" tvg-name="K23FK-D" group-title="United States" tvg-id="K23FKD" tvc-guide-stationid="95747",K23FK-D
-http://example.local/USA-K23FKD.ts
-#EXTINF:-1 tvg-chno="104819" tvg-name="K23FK-D2 (COMET)" tvg-logo="https://emby.tmsimg.com/assets/s97051_h3_aa.png" group-title="United States" tvg-id="K23FKD2" tvc-guide-stationid="104819",K23FK-D2 (COMET)
-http://example.local/USA-K23FKD2.ts
-#EXTINF:-1 tvg-chno="104820" tvg-name="K23FK-D3 (ROARTV)" tvg-logo="https://emby.tmsimg.com/assets/s102116_ll_h15_ac.png" group-title="United States" tvg-id="K23FKD3" tvc-guide-stationid="104820",K23FK-D3 (ROARTV)
-http://example.local/USA-K23FKD3.ts
-#EXTINF:-1 tvg-chno="104821" tvg-name="K23FK-D4 (CHARGE)" tvg-logo="https://emby.tmsimg.com/assets/s102148_ll_h15_ab.png" group-title="United States" tvg-id="K23FKD4" tvc-guide-stationid="104821",K23FK-D4 (CHARGE)
-http://example.local/USA-K23FKD4.ts

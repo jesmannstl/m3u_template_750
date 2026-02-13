@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Anguilla" tvg-id="USALA" tvc-guide-stationid="56727",USA
+http://example.local/AIA-USALA.ts
+#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Anguilla" tvg-id="USALIH" tvc-guide-stationid="101357",USA
+http://example.local/AIA-USALIH.ts
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="USALA" tvc-guide-stationid="56727",USA
+http://example.local/KNA-USALA.ts
+#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="USALIH" tvc-guide-stationid="101357",USA
+http://example.local/KNA-USALIH.ts
+#EXTINF:-1 tvg-chno="58427" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="USALI" tvc-guide-stationid="58427",USA
+http://example.local/KNA-USALI.ts
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Saint Martin" tvg-id="USALA" tvc-guide-stationid="56727",USA
+http://example.local/MAF-USALA.ts
+#EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Saint Martin" tvg-id="USALIH" tvc-guide-stationid="101357",USA
+http://example.local/MAF-USALIH.ts
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://emby.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Guyana" tvg-id="USALA" tvc-guide-stationid="56727",USA
+http://example.local/GUY-USALA.ts
+#EXTINF:-1 tvg-chno="92085" tvg-name="USA (DETROIT)" tvg-logo="https://emby.tmsimg.com/assets/s11207_ll_h15_af.png" group-title="United States" tvg-id="USADET" tvc-guide-stationid="92085",USA (DETROIT)
+http://example.local/USA-USADET.ts
+#EXTINF:-1 tvg-chno="92084" tvg-name="USA (FLORIDA)" tvg-logo="https://emby.tmsimg.com/assets/s11207_ll_h15_af.png" group-title="United States" tvg-id="USAFL" tvc-guide-stationid="92084",USA (FLORIDA)
+http://example.local/USA-USAFL.ts
+#EXTINF:-1 tvg-chno="133886" tvg-name="USA DAZN 1" tvg-logo="https://emby.tmsimg.com/assets/s133886_ll_h15_ab.png" group-title="United States" tvg-id="USADAZN1" tvc-guide-stationid="133886",USA DAZN 1
+http://example.local/USA-USADAZN1.ts
 #EXTINF:-1 tvg-chno="68394" tvg-name="USA HD" group-title="United States" tvg-id="GMUSAHD" tvc-guide-stationid="68394",USA HD
 http://example.local/USA-GMUSAHD.ts
 #EXTINF:-1 tvg-chno="92087" tvg-name="USA HD (DETROIT)" tvg-logo="https://emby.tmsimg.com/assets/s58452_ll_h15_af.png" group-title="United States" tvg-id="USADTHD" tvc-guide-stationid="92087",USA HD (DETROIT)
@@ -997,25 +1019,3 @@ http://example.local/IRL-VM3IREH.ts
 http://example.local/IRL-VM2IRE.ts
 #EXTINF:-1 tvg-chno="105131" tvg-name="Virgin Media Two HD" tvg-logo="https://emby.tmsimg.com/assets/s105131_ll_h15_ac.png" group-title="Ireland" tvg-id="VM2IREH" tvc-guide-stationid="105131",Virgin Media Two HD
 http://example.local/IRL-VM2IREH.ts
-#EXTINF:-1 tvg-chno="116572" tvg-name="Virgin Radio" tvg-logo="https://emby.tmsimg.com/assets/s116572_ll_h9_aa.png" group-title="Belgium" tvg-id="VIRGRAD" tvc-guide-stationid="116572",Virgin Radio
-http://example.local/BEL-VIRGRAD.ts
-#EXTINF:-1 tvg-chno="123152" tvg-name="Virgin Radio" tvg-logo="https://emby.tmsimg.com/assets/s123152_ll_h15_aa.png" group-title="Italy" tvg-id="VIRRAIT" tvc-guide-stationid="123152",Virgin Radio
-http://example.local/ITA-VIRRAIT.ts
-#EXTINF:-1 tvg-chno="116572" tvg-name="Virgin Radio" tvg-logo="https://emby.tmsimg.com/assets/s116572_ll_h9_aa.png" group-title="Italy" tvg-id="VIRGRAD" tvc-guide-stationid="116572",Virgin Radio
-http://example.local/ITA-VIRGRAD.ts
-#EXTINF:-1 tvg-chno="116572" tvg-name="Virgin Radio" tvg-logo="https://emby.tmsimg.com/assets/s116572_ll_h9_aa.png" group-title="United Kingdom" tvg-id="VIRGRAD" tvc-guide-stationid="116572",Virgin Radio
-http://example.local/GBR-VIRGRAD.ts
-#EXTINF:-1 tvg-chno="116572" tvg-name="Virgin Radio" tvg-logo="https://emby.tmsimg.com/assets/s116572_ll_h9_aa.png" group-title="Ireland" tvg-id="VIRGRAD" tvc-guide-stationid="116572",Virgin Radio
-http://example.local/IRL-VIRGRAD.ts
-#EXTINF:-1 tvg-chno="124452" tvg-name="Virgin Radio TV" group-title="Italy" tvg-id="VIRGRADTV" tvc-guide-stationid="124452",Virgin Radio TV
-http://example.local/ITA-VIRGRADTV.ts
-#EXTINF:-1 tvg-chno="136192" tvg-name="Vision Sverige" tvg-logo="https://emby.tmsimg.com/assets/s136192_ll_h15_ab.png" group-title="Norway" tvg-id="VISIOSV" tvc-guide-stationid="136192",Vision Sverige
-http://example.local/NOR-VISIOSV.ts
-#EXTINF:-1 tvg-chno="136192" tvg-name="Vision Sverige" tvg-logo="https://emby.tmsimg.com/assets/s136192_ll_h15_ab.png" group-title="Denmark" tvg-id="VISIOSV" tvc-guide-stationid="136192",Vision Sverige
-http://example.local/DNK-VISIOSV.ts
-#EXTINF:-1 tvg-chno="11220" tvg-name="Vision TV" tvg-logo="https://emby.tmsimg.com/assets/s11220_ll_h15_ab.png" group-title="Canada" tvg-id="VISION" tvc-guide-stationid="11220",Vision TV
-http://example.local/CAN-VISION.ts
-#EXTINF:-1 tvg-chno="112594" tvg-name="Vision TV" tvg-logo="https://emby.tmsimg.com/assets/s112594_ll_h15_aa.png" group-title="United Kingdom" tvg-id="VISIOTV" tvc-guide-stationid="112594",Vision TV
-http://example.local/GBR-VISIOTV.ts
-#EXTINF:-1 tvg-chno="102146" tvg-name="Vision TV HD" tvg-logo="https://emby.tmsimg.com/assets/s102146_ll_h15_ab.png" group-title="Canada" tvg-id="VISIHD" tvc-guide-stationid="102146",Vision TV HD
-http://example.local/CAN-VISIHD.ts

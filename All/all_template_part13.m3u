@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="28132" tvg-name="Canal Vasco ETB Sat" tvg-logo="https://emby.tmsimg.com/assets/s28132_ll_h15_ab.png" group-title="Spain" tvg-id="VASCO" tvc-guide-stationid="28132",Canal Vasco ETB Sat
+http://example.local/ESP-VASCO.ts
 #EXTINF:-1 tvg-chno="28132" tvg-name="Canal Vasco ETB Sat" tvg-logo="https://emby.tmsimg.com/assets/s28132_ll_h15_ab.png" group-title="Chile" tvg-id="VASCO" tvc-guide-stationid="28132",Canal Vasco ETB Sat
 http://example.local/CHL-VASCO.ts
 #EXTINF:-1 tvg-chno="28132" tvg-name="Canal Vasco ETB Sat" tvg-logo="https://emby.tmsimg.com/assets/s28132_ll_h15_ab.png" group-title="Argentina" tvg-id="VASCO" tvc-guide-stationid="28132",Canal Vasco ETB Sat
@@ -1017,5 +1019,3 @@ http://example.local/USA-CAMEA.ts
 http://example.local/USA-CATV.ts
 #EXTINF:-1 tvg-chno="30837" tvg-name="CATV991/MVCC991" group-title="United States" tvg-id="CATV991" tvc-guide-stationid="30837",CATV991/MVCC991
 http://example.local/USA-CATV991.ts
-#EXTINF:-1 tvg-chno="121881" tvg-name="Caught in Providence" tvg-logo="https://emby.tmsimg.com/assets/s121881_ll_h15_aa.png" group-title="United States" tvg-id="CIPROV" tvc-guide-stationid="121881",Caught in Providence
-http://example.local/USA-CIPROV.ts

@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="117123" tvg-name="JimJam Polsat" tvg-logo="https://emby.tmsimg.com/assets/s117123_ll_h15_aa.png" group-title="Poland" tvg-id="JIJAPL" tvc-guide-stationid="117123",JimJam Polsat
+http://example.local/POL-JIJAPL.ts
+#EXTINF:-1 tvg-chno="175280" tvg-name="JimJam Polsat HD" group-title="Poland" tvg-id="JIMJAMP" tvc-guide-stationid="175280",JimJam Polsat HD
+http://example.local/POL-JIMJAMP.ts
+#EXTINF:-1 tvg-chno="175029" tvg-name="Jin TV" group-title="Poland" tvg-id="JINTV" tvc-guide-stationid="175029",Jin TV
+http://example.local/POL-JINTV.ts
+#EXTINF:-1 tvg-chno="101698" tvg-name="JK Channel" group-title="United States" tvg-id="JK" tvc-guide-stationid="101698",JK Channel
+http://example.local/USA-JK.ts
 #EXTINF:-1 tvg-chno="21821" tvg-name="JML Direct" tvg-logo="https://emby.tmsimg.com/assets/s21821_ll_h15_aa.png" group-title="Belgium" tvg-id="JMLDRCT" tvc-guide-stationid="21821",JML Direct
 http://example.local/BEL-JMLDRCT.ts
 #EXTINF:-1 tvg-chno="21821" tvg-name="JML Direct" tvg-logo="https://emby.tmsimg.com/assets/s21821_ll_h15_aa.png" group-title="Netherlands" tvg-id="JMLDRCT" tvc-guide-stationid="21821",JML Direct
@@ -1011,11 +1019,3 @@ http://example.local/USA-K14ARD2.ts
 http://example.local/USA-K14BFD.ts
 #EXTINF:-1 tvg-chno="106542" tvg-name="K14DE-D" tvg-logo="https://emby.tmsimg.com/assets/s21855_ll_h15_ab.png" group-title="United States" tvg-id="K41DED" tvc-guide-stationid="106542",K14DE-D
 http://example.local/USA-K41DED.ts
-#EXTINF:-1 tvg-chno="107673" tvg-name="K14DE-D4 (BIZTV)" tvg-logo="https://emby.tmsimg.com/assets/s66281_ll_h15_ab.png" group-title="United States" tvg-id="K41DED4" tvc-guide-stationid="107673",K14DE-D4 (BIZTV)
-http://example.local/USA-K41DED4.ts
-#EXTINF:-1 tvg-chno="70845" tvg-name="K14GW-D (FOX)" tvg-logo="https://emby.tmsimg.com/assets/s28719_ll_h15_ac.png" group-title="United States" tvg-id="K14GWD" tvc-guide-stationid="70845",K14GW-D (FOX)
-http://example.local/USA-K14GWD.ts
-#EXTINF:-1 tvg-chno="70847" tvg-name="K14GW-D2 (MNT)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" group-title="United States" tvg-id="K14GWD2" tvc-guide-stationid="70847",K14GW-D2 (MNT)
-http://example.local/USA-K14GWD2.ts
-#EXTINF:-1 tvg-chno="96452" tvg-name="K14HC-D (MNT)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" group-title="United States" tvg-id="K14HCD" tvc-guide-stationid="96452",K14HC-D (MNT)
-http://example.local/USA-K14HCD.ts

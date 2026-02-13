@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="44308" tvg-name="DITV139 (DirecTv)" group-title="United States" tvg-id="DITV139" tvc-guide-stationid="44308",DITV139 (DirecTv)
+http://example.local/USA-DITV139.ts
+#EXTINF:-1 tvg-chno="22428" tvg-name="DITV140" group-title="United States" tvg-id="DITV140" tvc-guide-stationid="22428",DITV140
+http://example.local/USA-DITV140.ts
+#EXTINF:-1 tvg-chno="31553" tvg-name="DITV141" group-title="United States" tvg-id="DITV141" tvc-guide-stationid="31553",DITV141
+http://example.local/USA-DITV141.ts
+#EXTINF:-1 tvg-chno="22429" tvg-name="DITV142" group-title="United States" tvg-id="DITV142" tvc-guide-stationid="22429",DITV142
+http://example.local/USA-DITV142.ts
 #EXTINF:-1 tvg-chno="47218" tvg-name="DITV143" group-title="United States" tvg-id="DITV143" tvc-guide-stationid="47218",DITV143
 http://example.local/USA-DITV143.ts
 #EXTINF:-1 tvg-chno="44696" tvg-name="DITV144" group-title="United States" tvg-id="DITV144" tvc-guide-stationid="44696",DITV144
@@ -1011,11 +1019,3 @@ http://example.local/USA-ENTRPTV.ts
 http://example.local/USA-ENVFAST.ts
 #EXTINF:-1 tvg-chno="192894" tvg-name="Envoy TV" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0028FX78.png" group-title="United States" tvg-id="ENVOYTV" tvc-guide-stationid="192894",Envoy TV
 http://example.local/USA-ENVOYTV.ts
-#EXTINF:-1 tvg-chno="79052" tvg-name="EPB - The Heartland Network (HEARTHD)" tvg-logo="https://emby.tmsimg.com/assets/s78584_h3_ba.png" group-title="United States" tvg-id="HRT" tvc-guide-stationid="79052",EPB - The Heartland Network (HEARTHD)
-http://example.local/USA-HRT.ts
-#EXTINF:-1 tvg-chno="72505" tvg-name="EPB Education/Govt Access" group-title="United States" tvg-id="EPBEDGA" tvc-guide-stationid="72505",EPB Education/Govt Access
-http://example.local/USA-EPBEDGA.ts
-#EXTINF:-1 tvg-chno="67612" tvg-name="EPBLO (Braves Only)" group-title="United States" tvg-id="EPBLO" tvc-guide-stationid="67612",EPBLO (Braves Only)
-http://example.local/USA-EPBLO.ts
-#EXTINF:-1 tvg-chno="15750" tvg-name="EPG" group-title="United States" tvg-id="EPG" tvc-guide-stationid="15750",EPG
-http://example.local/USA-EPG.ts

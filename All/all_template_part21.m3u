@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="191641" tvg-name="Designated Survivor" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0027N8V8.png" group-title="United States" tvg-id="DSGSRVR" tvc-guide-stationid="191641",Designated Survivor
+http://example.local/USA-DSGSRVR.ts
+#EXTINF:-1 tvg-chno="159742" tvg-name="Desire" tvg-logo="https://emby.tmsimg.com/assets/s159742_ll_h15_aa.png" group-title="Poland" tvg-id="DESIRNL" tvc-guide-stationid="159742",Desire
+http://example.local/POL-DESIRNL.ts
+#EXTINF:-1 tvg-chno="16617" tvg-name="Destination America" tvg-logo="https://emby.tmsimg.com/assets/s16617_ll_h15_aa.png" group-title="United States" tvg-id="DEST" tvc-guide-stationid="16617",Destination America
+http://example.local/USA-DEST.ts
 #EXTINF:-1 tvg-chno="64132" tvg-name="Destination America" group-title="United States" tvg-id="GMDEST" tvc-guide-stationid="64132",Destination America
 http://example.local/USA-GMDEST.ts
 #EXTINF:-1 tvg-chno="191676" tvg-name="Destination America" tvg-logo="https://emby.tmsimg.com/assets/s60468_ll_h15_aa.png" group-title="United States" tvg-id="DESTHDS" tvc-guide-stationid="191676",Destination America
@@ -27,6 +33,8 @@ http://example.local/FRA-DETJAM.ts
 http://example.local/USA-NBADET.ts
 #EXTINF:-1 tvg-chno="100278" tvg-name="Detroit Red Wings: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhldet.png" group-title="United States" tvg-id="NHLDET" tvc-guide-stationid="100278",Detroit Red Wings: NHL Center Ice
 http://example.local/USA-NHLDET.ts
+#EXTINF:-1 tvg-chno="136329" tvg-name="Detroit Tigers" tvg-logo="https://emby.tmsimg.com/assets/s136329_ll_h15_ab.png" group-title="United States" tvg-id="DETT" tvc-guide-stationid="136329",Detroit Tigers
+http://example.local/USA-DETT.ts
 #EXTINF:-1 tvg-chno="102276" tvg-name="Detroit Tigers: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbdet.png" group-title="United States" tvg-id="MLBDET" tvc-guide-stationid="102276",Detroit Tigers: MLB Extra Innings
 http://example.local/USA-MLBDET.ts
 #EXTINF:-1 tvg-chno="77697" tvg-name="Detsky Kids" tvg-logo="https://emby.tmsimg.com/assets/s77697_ll_h6_aa.png" group-title="Canada" tvg-id="DKIDS" tvc-guide-stationid="77697",Detsky Kids
@@ -1011,11 +1019,3 @@ http://example.local/VGB-DKNLM.ts
 http://example.local/GRD-DKNLM.ts
 #EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://emby.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Antigua and Barbuda" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
 http://example.local/ATG-DKNLM.ts
-#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://emby.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="St. Lucia" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
-http://example.local/LCA-DKNLM.ts
-#EXTINF:-1 tvg-chno="16665" tvg-name="Discovery Kids" tvg-logo="https://emby.tmsimg.com/assets/s16665_ll_h15_aa.png" group-title="Curacao" tvg-id="DKNI" tvc-guide-stationid="16665",Discovery Kids
-http://example.local/CUW-DKNI.ts
-#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://emby.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Curacao" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
-http://example.local/CUW-DKNLM.ts
-#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://emby.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Aruba" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
-http://example.local/ABW-DKNLM.ts

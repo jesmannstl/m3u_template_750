@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="45046" tvg-name="KOOD-DT2 (HD06)" tvg-logo="https://emby.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="United States" tvg-id="KOODDT2" tvc-guide-stationid="45046",KOOD-DT2 (HD06)
+http://example.local/USA-KOODDT2.ts
+#EXTINF:-1 tvg-chno="44685" tvg-name="KOOD-DT3 (CREATE)" tvg-logo="https://emby.tmsimg.com/assets/s48990_h3_ba.png" group-title="United States" tvg-id="KOODDT3" tvc-guide-stationid="44685",KOOD-DT3 (CREATE)
+http://example.local/USA-KOODDT3.ts
+#EXTINF:-1 tvg-chno="101277" tvg-name="Kool TV" tvg-logo="https://emby.tmsimg.com/assets/s101277_ll_h9_aa.png" group-title="United States" tvg-id="KOOLTV" tvc-guide-stationid="101277",Kool TV
+http://example.local/USA-KOOLTV.ts
+#EXTINF:-1 tvg-chno="10629" tvg-name="KOPB (PBS)" tvg-logo="https://emby.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="United States" tvg-id="KOPB" tvc-guide-stationid="10629",KOPB (PBS)
+http://example.local/USA-KOPB.ts
+#EXTINF:-1 tvg-chno="19609" tvg-name="KOPB-DT (PBS)" tvg-logo="https://logos.jesmann.com/kopbdt.png" group-title="United States" tvg-id="KOPBDT" tvc-guide-stationid="19609",KOPB-DT (PBS)
+http://example.local/USA-KOPBDT.ts
 #EXTINF:-1 tvg-chno="40143" tvg-name="KOPB-DT2 (WORLD)" tvg-logo="https://emby.tmsimg.com/assets/s56725_ll_h15_ab.png" group-title="United States" tvg-id="KOPBDT2" tvc-guide-stationid="40143",KOPB-DT2 (WORLD)
 http://example.local/USA-KOPBDT2.ts
 #EXTINF:-1 tvg-chno="54832" tvg-name="KOPB-DT3 (HD06)" tvg-logo="https://emby.tmsimg.com/assets/s101364_h3_aa.png" group-title="United States" tvg-id="KOPBDT3" tvc-guide-stationid="54832",KOPB-DT3 (HD06)
@@ -193,7 +203,7 @@ http://example.local/USA-KPAO22H.ts
 http://example.local/USA-KPAX.ts
 #EXTINF:-1 tvg-chno="34654" tvg-name="KPAX-DT (CBS)" tvg-logo="https://logos.jesmann.com/kpaxdt.png" group-title="United States" tvg-id="KPAXDT" tvc-guide-stationid="34654",KPAX-DT (CBS)
 http://example.local/USA-KPAXDT.ts
-#EXTINF:-1 tvg-chno="52647" tvg-name="KPAX-DT2" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG00253HKR.png" group-title="United States" tvg-id="KPAXDT2" tvc-guide-stationid="52647",KPAX-DT2
+#EXTINF:-1 tvg-chno="52647" tvg-name="KPAX-DT2" tvg-logo="https://logos.jesmann.com/kpaxdt2.png" group-title="United States" tvg-id="KPAXDT2" tvc-guide-stationid="52647",KPAX-DT2
 http://example.local/USA-KPAXDT2.ts
 #EXTINF:-1 tvg-chno="102027" tvg-name="KPAX-DT3 (GRIT)" tvg-logo="https://emby.tmsimg.com/assets/s89922_h3_aa.png" group-title="United States" tvg-id="KPAXDT3" tvc-guide-stationid="102027",KPAX-DT3 (GRIT)
 http://example.local/USA-KPAXDT3.ts
@@ -1009,13 +1019,3 @@ http://example.local/USA-KQCDDT2.ts
 http://example.local/USA-KQCDDT3.ts
 #EXTINF:-1 tvg-chno="15672" tvg-name="KQCK (CTN)" tvg-logo="https://emby.tmsimg.com/assets/s49128_ll_h9_aa.png" group-title="United States" tvg-id="KQCK" tvc-guide-stationid="15672",KQCK (CTN)
 http://example.local/USA-KQCK.ts
-#EXTINF:-1 tvg-chno="43724" tvg-name="KQCK-DT (CTN)" tvg-logo="https://emby.tmsimg.com/assets/s49128_ll_h9_aa.png" group-title="United States" tvg-id="KQCKDT" tvc-guide-stationid="43724",KQCK-DT (CTN)
-http://example.local/USA-KQCKDT.ts
-#EXTINF:-1 tvg-chno="43987" tvg-name="KQCK-DT2 (CTNLIF)" tvg-logo="https://emby.tmsimg.com/assets/s92211_ll_h9_aa.png" group-title="United States" tvg-id="KQCKDT2" tvc-guide-stationid="43987",KQCK-DT2 (CTNLIF)
-http://example.local/USA-KQCKDT2.ts
-#EXTINF:-1 tvg-chno="91917" tvg-name="KQCK-DT3 (CTNI)" tvg-logo="https://emby.tmsimg.com/assets/s60790_ll_h9_aa.png" group-title="United States" tvg-id="KQCKDT3" tvc-guide-stationid="91917",KQCK-DT3 (CTNI)
-http://example.local/USA-KQCKDT3.ts
-#EXTINF:-1 tvg-chno="96375" tvg-name="KQCK-DT4 (CTNLIF)" tvg-logo="https://emby.tmsimg.com/assets/s92211_h3_ba.png" group-title="United States" tvg-id="KQCKDT4" tvc-guide-stationid="96375",KQCK-DT4 (CTNLIF)
-http://example.local/USA-KQCKDT4.ts
-#EXTINF:-1 tvg-chno="21317" tvg-name="KQCW (CW)" tvg-logo="https://emby.tmsimg.com/assets/s51306_ll_h15_ac.png" group-title="United States" tvg-id="KQCW" tvc-guide-stationid="21317",KQCW (CW)
-http://example.local/USA-KQCW.ts

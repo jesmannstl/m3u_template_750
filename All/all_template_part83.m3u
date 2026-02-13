@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="83943" tvg-name="Puls 4" tvg-logo="https://emby.tmsimg.com/assets/s83943_ll_h15_aa.png" group-title="Austria" tvg-id="PULSTV" tvc-guide-stationid="83943",Puls 4
+http://example.local/AUT-PULSTV.ts
+#EXTINF:-1 tvg-chno="88738" tvg-name="PULS 4 HD" tvg-logo="https://emby.tmsimg.com/assets/s88738_ll_h15_aa.png" group-title="Germany" tvg-id="PULS4HD" tvc-guide-stationid="88738",PULS 4 HD
+http://example.local/DEU-PULS4HD.ts
+#EXTINF:-1 tvg-chno="88738" tvg-name="PULS 4 HD" tvg-logo="https://emby.tmsimg.com/assets/s88738_ll_h15_aa.png" group-title="Austria" tvg-id="PULS4HD" tvc-guide-stationid="88738",PULS 4 HD
+http://example.local/AUT-PULS4HD.ts
+#EXTINF:-1 tvg-chno="98435" tvg-name="PULS 8" tvg-logo="https://emby.tmsimg.com/assets/s98435_ll_h15_aa.png" group-title="Switzerland" tvg-id="PULS8" tvc-guide-stationid="98435",PULS 8
+http://example.local/CHE-PULS8.ts
+#EXTINF:-1 tvg-chno="108565" tvg-name="Puls 8 HD" tvg-logo="https://emby.tmsimg.com/assets/s108565_ll_h9_aa.png" group-title="Switzerland" tvg-id="PULS8HD" tvc-guide-stationid="108565",Puls 8 HD
+http://example.local/CHE-PULS8HD.ts
+#EXTINF:-1 tvg-chno="117419" tvg-name="Puls24" tvg-logo="https://emby.tmsimg.com/assets/s117419_ll_h15_aa.png" group-title="Austria" tvg-id="PULS24SD" tvc-guide-stationid="117419",Puls24
+http://example.local/AUT-PULS24SD.ts
+#EXTINF:-1 tvg-chno="95505" tvg-name="Pulse of Portland" tvg-logo="https://emby.tmsimg.com/assets/s95505_ll_h9_aa.png" group-title="United States" tvg-id="PCM29" tvc-guide-stationid="95505",Pulse of Portland
+http://example.local/USA-PCM29.ts
+#EXTINF:-1 tvg-chno="98525" tvg-name="Pulse of Portland HD" group-title="United States" tvg-id="PCMMEHD" tvc-guide-stationid="98525",Pulse of Portland HD
+http://example.local/USA-PCMMEHD.ts
 #EXTINF:-1 tvg-chno="91391" tvg-name="Punjab TV" group-title="United States" tvg-id="PUNJAB" tvc-guide-stationid="91391",Punjab TV
 http://example.local/USA-PUNJAB.ts
 #EXTINF:-1 tvg-chno="63512" tvg-name="Punjjabi TV" group-title="Canada" tvg-id="PNJBI" tvc-guide-stationid="63512",Punjjabi TV
@@ -1003,19 +1019,3 @@ http://example.local/DEU-TONBM.ts
 http://example.local/DEU-TONOW.ts
 #EXTINF:-1 tvg-chno="107141" tvg-name="Radio Tonkuhle" tvg-logo="https://emby.tmsimg.com/assets/s107141_ll_h15_aa.png" group-title="Germany" tvg-id="TONKUHL" tvc-guide-stationid="107141",Radio Tonkuhle
 http://example.local/DEU-TONKUHL.ts
-#EXTINF:-1 tvg-chno="107878" tvg-name="radio TOP 40" tvg-logo="https://emby.tmsimg.com/assets/s107878_ll_h15_aa.png" group-title="Germany" tvg-id="TOP40" tvc-guide-stationid="107878",radio TOP 40
-http://example.local/DEU-TOP40.ts
-#EXTINF:-1 tvg-chno="106136" tvg-name="Radio Trausnitz" tvg-logo="https://emby.tmsimg.com/assets/s106136_ll_h15_ac.png" group-title="Germany" tvg-id="RATRAUS" tvc-guide-stationid="106136",Radio Trausnitz
-http://example.local/DEU-RATRAUS.ts
-#EXTINF:-1 tvg-chno="125365" tvg-name="Radio Vaticana Europa" group-title="Italy" tvg-id="RVATEUR" tvc-guide-stationid="125365",Radio Vaticana Europa
-http://example.local/ITA-RVATEUR.ts
-#EXTINF:-1 tvg-chno="84247" tvg-name="Radio Weser.tv" tvg-logo="https://emby.tmsimg.com/assets/s84247_ll_h9_aa.png" group-title="Germany" tvg-id="WESER" tvc-guide-stationid="84247",Radio Weser.tv
-http://example.local/DEU-WESER.ts
-#EXTINF:-1 tvg-chno="107824" tvg-name="Radio Westfalica" tvg-logo="https://emby.tmsimg.com/assets/s107824_ll_h9_aa.png" group-title="Germany" tvg-id="WFALICA" tvc-guide-stationid="107824",Radio Westfalica
-http://example.local/DEU-WFALICA.ts
-#EXTINF:-1 tvg-chno="82791" tvg-name="Radio WOSO 1030 AM" group-title="United States" tvg-id="WOSO" tvc-guide-stationid="82791",Radio WOSO 1030 AM
-http://example.local/USA-WOSO.ts
-#EXTINF:-1 tvg-chno="24447" tvg-name="Radio X" tvg-logo="https://emby.tmsimg.com/assets/s24447_ll_h15_ab.png" group-title="United Kingdom" tvg-id="XFM" tvc-guide-stationid="24447",Radio X
-http://example.local/GBR-XFM.ts
-#EXTINF:-1 tvg-chno="24447" tvg-name="Radio X" tvg-logo="https://emby.tmsimg.com/assets/s24447_ll_h15_ab.png" group-title="Ireland" tvg-id="XFM" tvc-guide-stationid="24447",Radio X
-http://example.local/IRL-XFM.ts

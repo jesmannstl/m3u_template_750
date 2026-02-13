@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="162322" tvg-name="TVP 3 Szczecin HD" tvg-logo="https://emby.tmsimg.com/assets/s118760_ll_h15_aa.png" group-title="Poland" tvg-id="TVP3SZCHD" tvc-guide-stationid="162322",TVP 3 Szczecin HD
+http://example.local/POL-TVP3SZCHD.ts
+#EXTINF:-1 tvg-chno="118768" tvg-name="TVP 3 Warszawa" tvg-logo="https://emby.tmsimg.com/assets/s118768_ll_h9_aa.png" group-title="Poland" tvg-id="TVP3WA" tvc-guide-stationid="118768",TVP 3 Warszawa
+http://example.local/POL-TVP3WA.ts
+#EXTINF:-1 tvg-chno="118761" tvg-name="TVP 3 Wrocław" tvg-logo="https://emby.tmsimg.com/assets/s118761_ll_h9_aa.png" group-title="Poland" tvg-id="TVP3WR" tvc-guide-stationid="118761",TVP 3 Wrocław
+http://example.local/POL-TVP3WR.ts
+#EXTINF:-1 tvg-chno="162323" tvg-name="TVP 3 Wrocław HD" tvg-logo="https://emby.tmsimg.com/assets/s118761_h3_aa.png" group-title="Poland" tvg-id="TVP3WROHD" tvc-guide-stationid="162323",TVP 3 Wrocław HD
+http://example.local/POL-TVP3WROHD.ts
+#EXTINF:-1 tvg-chno="118754" tvg-name="TVP 3 Łódź" tvg-logo="https://emby.tmsimg.com/assets/s118754_ll_h15_aa.png" group-title="Poland" tvg-id="TVP3LO" tvc-guide-stationid="118754",TVP 3 Łódź
+http://example.local/POL-TVP3LO.ts
+#EXTINF:-1 tvg-chno="162315" tvg-name="TVP 3 Łódź HD" tvg-logo="https://emby.tmsimg.com/assets/s118754_h3_aa.png" group-title="Poland" tvg-id="TVP3LODHD" tvc-guide-stationid="162315",TVP 3 Łódź HD
+http://example.local/POL-TVP3LODHD.ts
+#EXTINF:-1 tvg-chno="118763" tvg-name="TVP ABC" tvg-logo="https://emby.tmsimg.com/assets/s118763_ll_h15_aa.png" group-title="Poland" tvg-id="TVPABC" tvc-guide-stationid="118763",TVP ABC
+http://example.local/POL-TVPABC.ts
+#EXTINF:-1 tvg-chno="162305" tvg-name="TVP ABC 2 HD" group-title="Poland" tvg-id="TVPABC2HD" tvc-guide-stationid="162305",TVP ABC 2 HD
+http://example.local/POL-TVPABC2HD.ts
+#EXTINF:-1 tvg-chno="174915" tvg-name="TVP Alfa" group-title="Poland" tvg-id="ALFAPL" tvc-guide-stationid="174915",TVP Alfa
+http://example.local/POL-ALFAPL.ts
+#EXTINF:-1 tvg-chno="140760" tvg-name="TVP Alfa HD" tvg-logo="https://emby.tmsimg.com/assets/s140760_ll_h15_aa.png" group-title="Poland" tvg-id="TVPALFA" tvc-guide-stationid="140760",TVP Alfa HD
+http://example.local/POL-TVPALFA.ts
+#EXTINF:-1 tvg-chno="118769" tvg-name="TVP Dokument HD" tvg-logo="https://emby.tmsimg.com/assets/s118769_ll_h15_aa.png" group-title="Poland" tvg-id="TVPDOHD" tvc-guide-stationid="118769",TVP Dokument HD
+http://example.local/POL-TVPDOHD.ts
 #EXTINF:-1 tvg-chno="175271" tvg-name="TVP GO" group-title="Poland" tvg-id="TVPGO" tvc-guide-stationid="175271",TVP GO
 http://example.local/POL-TVPGO.ts
 #EXTINF:-1 tvg-chno="118762" tvg-name="TVP HD" tvg-logo="https://emby.tmsimg.com/assets/s118762_ll_h15_aa.png" group-title="Poland" tvg-id="TVPHDPL" tvc-guide-stationid="118762",TVP HD
@@ -997,25 +1019,3 @@ http://example.local/USA-UEFAT20.ts
 http://example.local/USA-UEFAU.ts
 #EXTINF:-1 tvg-chno="123773" tvg-name="UEFA Soccer - U (UEFA Soccer (U) Station 21)" group-title="United States" tvg-id="UEFAU21" tvc-guide-stationid="123773",UEFA Soccer - U (UEFA Soccer (U) Station 21)
 http://example.local/USA-UEFAU21.ts
-#EXTINF:-1 tvg-chno="116137" tvg-name="UEFA Soccer - V" group-title="United States" tvg-id="UEFAV" tvc-guide-stationid="116137",UEFA Soccer - V
-http://example.local/USA-UEFAV.ts
-#EXTINF:-1 tvg-chno="123775" tvg-name="UEFA Soccer - V (UEFA Soccer (V) Station 22)" group-title="United States" tvg-id="UEFAV22" tvc-guide-stationid="123775",UEFA Soccer - V (UEFA Soccer (V) Station 22)
-http://example.local/USA-UEFAV22.ts
-#EXTINF:-1 tvg-chno="116138" tvg-name="UEFA Soccer - W" group-title="United States" tvg-id="UEFAW" tvc-guide-stationid="116138",UEFA Soccer - W
-http://example.local/USA-UEFAW.ts
-#EXTINF:-1 tvg-chno="123776" tvg-name="UEFA Soccer - W (UEFA Soccer (W) Station 23)" group-title="United States" tvg-id="UEFAW23" tvc-guide-stationid="123776",UEFA Soccer - W (UEFA Soccer (W) Station 23)
-http://example.local/USA-UEFAW23.ts
-#EXTINF:-1 tvg-chno="123777" tvg-name="UEFA Soccer - X (UEFA Soccer (X) Station 24)" group-title="United States" tvg-id="UEFAX24" tvc-guide-stationid="123777",UEFA Soccer - X (UEFA Soccer (X) Station 24)
-http://example.local/USA-UEFAX24.ts
-#EXTINF:-1 tvg-chno="123617" tvg-name="UEFA Soccer - Y" group-title="United States" tvg-id="UEFAY" tvc-guide-stationid="123617",UEFA Soccer - Y
-http://example.local/USA-UEFAY.ts
-#EXTINF:-1 tvg-chno="120582" tvg-name="UEFA Soccer 25" group-title="United States" tvg-id="UEFA25" tvc-guide-stationid="120582",UEFA Soccer 25
-http://example.local/USA-UEFA25.ts
-#EXTINF:-1 tvg-chno="120583" tvg-name="UEFA Soccer 26" group-title="United States" tvg-id="UEFAY26" tvc-guide-stationid="120583",UEFA Soccer 26
-http://example.local/USA-UEFAY26.ts
-#EXTINF:-1 tvg-chno="120584" tvg-name="UEFA Soccer 27" group-title="United States" tvg-id="UEFAZ27" tvc-guide-stationid="120584",UEFA Soccer 27
-http://example.local/USA-UEFAZ27.ts
-#EXTINF:-1 tvg-chno="120585" tvg-name="UEFA Soccer 28" group-title="United States" tvg-id="UEFA28" tvc-guide-stationid="120585",UEFA Soccer 28
-http://example.local/USA-UEFA28.ts
-#EXTINF:-1 tvg-chno="120586" tvg-name="UEFA Soccer 29" group-title="United States" tvg-id="UEFA29" tvc-guide-stationid="120586",UEFA Soccer 29
-http://example.local/USA-UEFA29.ts

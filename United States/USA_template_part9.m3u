@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="103891" tvg-name="Flix HD (Pacific)" tvg-logo="https://logos.jesmann.com/flixhdp.png" group-title="United States" tvg-id="FLIXHDP" tvc-guide-stationid="103891",Flix HD (Pacific)
+http://example.local/USA-FLIXHDP.ts
+#EXTINF:-1 tvg-chno="49343" tvg-name="Flix On Demand" tvg-logo="https://emby.tmsimg.com/assets/s10201_ll_h15_aa.png" group-title="United States" tvg-id="FLIXDM" tvc-guide-stationid="49343",Flix On Demand
+http://example.local/USA-FLIXDM.ts
+#EXTINF:-1 tvg-chno="149366" tvg-name="FlixFling" tvg-logo="https://emby.tmsimg.com/assets/s149366_ll_h9_aa.png" group-title="United States" tvg-id="XMVFLX" tvc-guide-stationid="149366",FlixFling
+http://example.local/USA-XMVFLX.ts
+#EXTINF:-1 tvg-chno="120207" tvg-name="FlixFling Now" tvg-logo="https://emby.tmsimg.com/assets/s120207_ll_h15_aa.png" group-title="United States" tvg-id="FLIXNOW" tvc-guide-stationid="120207",FlixFling Now
+http://example.local/USA-FLIXNOW.ts
 #EXTINF:-1 tvg-chno="150077" tvg-name="FloRacing 24/7" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002D2HJG.png" group-title="United States" tvg-id="FLORACE" tvc-guide-stationid="150077",FloRacing 24/7
 http://example.local/USA-FLORACE.ts
 #EXTINF:-1 tvg-chno="35219" tvg-name="Florida Channel" tvg-logo="https://emby.tmsimg.com/assets/s35219_h3_aa.png" group-title="United States" tvg-id="FLACHAN" tvc-guide-stationid="35219",Florida Channel
@@ -1011,11 +1019,3 @@ http://example.local/USA-CAGNECL.ts
 http://example.local/USA-CAGNEWS.ts
 #EXTINF:-1 tvg-chno="114496" tvg-name="Global News Edmonton" tvg-logo="https://emby.tmsimg.com/assets/s114496_ll_h15_ac.png" group-title="United States" tvg-id="CAGNEED" tvc-guide-stationid="114496",Global News Edmonton
 http://example.local/USA-CAGNEED.ts
-#EXTINF:-1 tvg-chno="114492" tvg-name="Global News Toronto" tvg-logo="https://emby.tmsimg.com/assets/s114492_ll_h15_ac.png" group-title="United States" tvg-id="CAGNETO" tvc-guide-stationid="114492",Global News Toronto
-http://example.local/USA-CAGNETO.ts
-#EXTINF:-1 tvg-chno="120697" tvg-name="Global Punjab" group-title="United States" tvg-id="GRVPG" tvc-guide-stationid="120697",Global Punjab
-http://example.local/USA-GRVPG.ts
-#EXTINF:-1 tvg-chno="44792" tvg-name="Global Toronto HD (GLOBAL)" tvg-logo="https://emby.tmsimg.com/assets/s44792_ll_h15_ab.png" group-title="United States" tvg-id="CIIIDT" tvc-guide-stationid="44792",Global Toronto HD (GLOBAL)
-http://example.local/USA-CIIIDT.ts
-#EXTINF:-1 tvg-chno="74724" tvg-name="Globecast ARTN" group-title="United States" tvg-id="ARTN" tvc-guide-stationid="74724",Globecast ARTN
-http://example.local/USA-ARTN.ts

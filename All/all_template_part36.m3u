@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="91897" tvg-name="Government Access - GOAC497" group-title="United States" tvg-id="GOAC497" tvc-guide-stationid="91897",Government Access - GOAC497
+http://example.local/USA-GOAC497.ts
+#EXTINF:-1 tvg-chno="91898" tvg-name="Government Access - GOAC498" group-title="United States" tvg-id="GOAC498" tvc-guide-stationid="91898",Government Access - GOAC498
+http://example.local/USA-GOAC498.ts
+#EXTINF:-1 tvg-chno="91942" tvg-name="Government Access - GOAC507" group-title="United States" tvg-id="GOAC507" tvc-guide-stationid="91942",Government Access - GOAC507
+http://example.local/USA-GOAC507.ts
+#EXTINF:-1 tvg-chno="109195" tvg-name="Government Access - GOAC516" group-title="United States" tvg-id="GOAC516" tvc-guide-stationid="109195",Government Access - GOAC516
+http://example.local/USA-GOAC516.ts
 #EXTINF:-1 tvg-chno="91697" tvg-name="Government Access - GOAC643" group-title="United States" tvg-id="GOAC643" tvc-guide-stationid="91697",Government Access - GOAC643
 http://example.local/USA-GOAC643.ts
 #EXTINF:-1 tvg-chno="111727" tvg-name="Government Access - GOAC661" group-title="United States" tvg-id="GOAC661" tvc-guide-stationid="111727",Government Access - GOAC661
@@ -1011,11 +1019,3 @@ http://example.local/BMU-HBOC.ts
 http://example.local/ARG-HBOC.ts
 #EXTINF:-1 tvg-chno="18429" tvg-name="HBO Comedy" tvg-logo="https://emby.tmsimg.com/assets/s18429_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="HBOC" tvc-guide-stationid="18429",HBO Comedy
 http://example.local/PRI-HBOC.ts
-#EXTINF:-1 tvg-chno="18429" tvg-name="HBO Comedy" tvg-logo="https://emby.tmsimg.com/assets/s18429_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="HBOC" tvc-guide-stationid="18429",HBO Comedy
-http://example.local/DOM-HBOC.ts
-#EXTINF:-1 tvg-chno="18429" tvg-name="HBO Comedy" tvg-logo="https://emby.tmsimg.com/assets/s18429_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="HBOC" tvc-guide-stationid="18429",HBO Comedy
-http://example.local/ATG-HBOC.ts
-#EXTINF:-1 tvg-chno="18430" tvg-name="HBO Comedy (Pacific)" tvg-logo="https://logos.jesmann.com/hbocp.png" group-title="United States" tvg-id="HBOCP" tvc-guide-stationid="18430",HBO Comedy (Pacific)
-http://example.local/USA-HBOCP.ts
-#EXTINF:-1 tvg-chno="18430" tvg-name="HBO Comedy (Pacific)" tvg-logo="https://logos.jesmann.com/hbocp.png" group-title="Puerto Rico" tvg-id="HBOCP" tvc-guide-stationid="18430",HBO Comedy (Pacific)
-http://example.local/PRI-HBOCP.ts

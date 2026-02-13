@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="98893" tvg-name="Viceland Static" group-title="United States" tvg-id="STVICE" tvc-guide-stationid="98893",Viceland Static
+http://example.local/USA-STVICE.ts
+#EXTINF:-1 tvg-chno="93024" tvg-name="Victory Channel" tvg-logo="https://emby.tmsimg.com/assets/s93024_ll_h15_ad.png" group-title="United States" tvg-id="VICTORY" tvc-guide-stationid="93024",Victory Channel
+http://example.local/USA-VICTORY.ts
+#EXTINF:-1 tvg-chno="122327" tvg-name="Victory Channel" tvg-logo="https://emby.tmsimg.com/assets/s122327_ll_h15_aa.png" group-title="United States" tvg-id="VICTSD" tvc-guide-stationid="122327",Victory Channel
+http://example.local/USA-VICTSD.ts
+#EXTINF:-1 tvg-chno="32046" tvg-name="Video On Demand" group-title="United States" tvg-id="VODDM" tvc-guide-stationid="32046",Video On Demand
+http://example.local/USA-VODDM.ts
+#EXTINF:-1 tvg-chno="96040" tvg-name="Video On Demand" group-title="United States" tvg-id="VDM" tvc-guide-stationid="96040",Video On Demand
+http://example.local/USA-VDM.ts
+#EXTINF:-1 tvg-chno="27858" tvg-name="Video On Demand" group-title="United States" tvg-id="VIDEODM" tvc-guide-stationid="27858",Video On Demand
+http://example.local/USA-VIDEODM.ts
+#EXTINF:-1 tvg-chno="110378" tvg-name="Video On Demand HD" group-title="United States" tvg-id="VODDMHD" tvc-guide-stationid="110378",Video On Demand HD
+http://example.local/USA-VODDMHD.ts
+#EXTINF:-1 tvg-chno="25615" tvg-name="Video Rola" tvg-logo="https://emby.tmsimg.com/assets/s25615_ll_h15_ad.png" group-title="United States" tvg-id="VROLA" tvc-guide-stationid="25615",Video Rola
+http://example.local/USA-VROLA.ts
+#EXTINF:-1 tvg-chno="88813" tvg-name="Video Rola HD" tvg-logo="https://emby.tmsimg.com/assets/s25615_ll_h15_ad.png" group-title="United States" tvg-id="VROLAHD" tvc-guide-stationid="88813",Video Rola HD
+http://example.local/USA-VROLAHD.ts
+#EXTINF:-1 tvg-chno="71661" tvg-name="Vien Thao TV" group-title="United States" tvg-id="VIENTTV" tvc-guide-stationid="71661",Vien Thao TV
+http://example.local/USA-VIENTTV.ts
+#EXTINF:-1 tvg-chno="52208" tvg-name="ViendoMovies" tvg-logo="https://emby.tmsimg.com/assets/s52208_ll_h15_aa.png" group-title="United States" tvg-id="VMOV" tvc-guide-stationid="52208",ViendoMovies
+http://example.local/USA-VMOV.ts
 #EXTINF:-1 tvg-chno="102336" tvg-name="ViendoMovies HD" tvg-logo="https://emby.tmsimg.com/assets/s52208_ll_h15_aa.png" group-title="United States" tvg-id="VMOVHD" tvc-guide-stationid="102336",ViendoMovies HD
 http://example.local/USA-VMOVHD.ts
 #EXTINF:-1 tvg-chno="184740" tvg-name="VieON Drama" tvg-logo="https://emby.tmsimg.com/assets/s184740_ll_h15_aa.png" group-title="United States" tvg-id="VODRAMA" tvc-guide-stationid="184740",VieON Drama
@@ -997,25 +1019,3 @@ http://example.local/USA-W47EED.ts
 http://example.local/USA-W47EID.ts
 #EXTINF:-1 tvg-chno="98684" tvg-name="W47EI-D2" group-title="United States" tvg-id="W47EID2" tvc-guide-stationid="98684",W47EI-D2
 http://example.local/USA-W47EID2.ts
-#EXTINF:-1 tvg-chno="90302" tvg-name="W48CX-CD" group-title="United States" tvg-id="W48CXCD" tvc-guide-stationid="90302",W48CX-CD
-http://example.local/USA-W48CXCD.ts
-#EXTINF:-1 tvg-chno="96505" tvg-name="W48DW-D (DYSTR)" tvg-logo="https://emby.tmsimg.com/assets/s19026_h3_aa.png" group-title="United States" tvg-id="W48DWD" tvc-guide-stationid="96505",W48DW-D (DYSTR)
-http://example.local/USA-W48DWD.ts
-#EXTINF:-1 tvg-chno="15237" tvg-name="W50CH (GEB)" tvg-logo="https://emby.tmsimg.com/assets/s18999_ll_h15_aa.png" group-title="United States" tvg-id="W50CH" tvc-guide-stationid="15237",W50CH (GEB)
-http://example.local/USA-W50CH.ts
-#EXTINF:-1 tvg-chno="101433" tvg-name="W50DP-D (PBS)" tvg-logo="https://emby.tmsimg.com/assets/s32356_ll_h15_ac.png" group-title="United States" tvg-id="W50DPD" tvc-guide-stationid="101433",W50DP-D (PBS)
-http://example.local/USA-W50DPD.ts
-#EXTINF:-1 tvg-chno="101434" tvg-name="W50DP-D2 (PBS)" tvg-logo="https://emby.tmsimg.com/assets/s32356_h3_ba.png" group-title="United States" tvg-id="W50DPD2" tvc-guide-stationid="101434",W50DP-D2 (PBS)
-http://example.local/USA-W50DPD2.ts
-#EXTINF:-1 tvg-chno="101435" tvg-name="W50DP-D3 (WORLD)" tvg-logo="https://emby.tmsimg.com/assets/s56725_ll_h15_ab.png" group-title="United States" tvg-id="W50DPD3" tvc-guide-stationid="101435",W50DP-D3 (WORLD)
-http://example.local/USA-W50DPD3.ts
-#EXTINF:-1 tvg-chno="101436" tvg-name="W50DP-D4 (CREATE)" tvg-logo="https://emby.tmsimg.com/assets/s48990_h3_aa.png" group-title="United States" tvg-id="W50DPD4" tvc-guide-stationid="101436",W50DP-D4 (CREATE)
-http://example.local/USA-W50DPD4.ts
-#EXTINF:-1 tvg-chno="66930" tvg-name="W51EG-D (PBS)" tvg-logo="https://emby.tmsimg.com/assets/s32356_h3_aa.png" group-title="United States" tvg-id="W51EGD" tvc-guide-stationid="66930",W51EG-D (PBS)
-http://example.local/USA-W51EGD.ts
-#EXTINF:-1 tvg-chno="66932" tvg-name="W51EG-D2 (WORLD)" tvg-logo="https://emby.tmsimg.com/assets/s56725_ll_h15_ab.png" group-title="United States" tvg-id="W51EGD2" tvc-guide-stationid="66932",W51EG-D2 (WORLD)
-http://example.local/USA-W51EGD2.ts
-#EXTINF:-1 tvg-chno="66934" tvg-name="W51EG-D3 (HD06)" tvg-logo="https://emby.tmsimg.com/assets/s101364_h3_aa.png" group-title="United States" tvg-id="W51EGD3" tvc-guide-stationid="66934",W51EG-D3 (HD06)
-http://example.local/USA-W51EGD3.ts
-#EXTINF:-1 tvg-chno="81921" tvg-name="WAAU-LD2" group-title="United States" tvg-id="WAAULD2" tvc-guide-stationid="81921",WAAU-LD2
-http://example.local/USA-WAAULD2.ts

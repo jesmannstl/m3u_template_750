@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="92598" tvg-name="MDU Camera Channel" group-title="United States" tvg-id="MDUC1" tvc-guide-stationid="92598",MDU Camera Channel
+http://example.local/USA-MDUC1.ts
+#EXTINF:-1 tvg-chno="93159" tvg-name="MDU Camera Channel" group-title="United States" tvg-id="MDUC3" tvc-guide-stationid="93159",MDU Camera Channel
+http://example.local/USA-MDUC3.ts
+#EXTINF:-1 tvg-chno="94376" tvg-name="MDU Camera Channel" group-title="United States" tvg-id="HDUC2" tvc-guide-stationid="94376",MDU Camera Channel
+http://example.local/USA-HDUC2.ts
+#EXTINF:-1 tvg-chno="77752" tvg-name="MDU Channel" group-title="United States" tvg-id="MDUC" tvc-guide-stationid="77752",MDU Channel
+http://example.local/USA-MDUC.ts
+#EXTINF:-1 tvg-chno="70436" tvg-name="Me TV Network" tvg-logo="https://emby.tmsimg.com/assets/s70436_ll_h15_ac.png" group-title="United States" tvg-id="METVN" tvc-guide-stationid="70436",Me TV Network
+http://example.local/USA-METVN.ts
+#EXTINF:-1 tvg-chno="70436" tvg-name="Me TV Network" tvg-logo="https://emby.tmsimg.com/assets/s70436_ll_h15_ac.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="METVN" tvc-guide-stationid="70436",Me TV Network
+http://example.local/BES-METVN.ts
 #EXTINF:-1 tvg-chno="78557" tvg-name="Me TV Network (Pacific) (METVN)" tvg-logo="https://emby.tmsimg.com/assets/s70436_ll_h15_ac.png" group-title="United States" tvg-id="METVNP" tvc-guide-stationid="78557",Me TV Network (Pacific) (METVN)
 http://example.local/USA-METVNP.ts
 #EXTINF:-1 tvg-chno="108972" tvg-name="Me TV Network HD" group-title="United States" tvg-id="METVNHD" tvc-guide-stationid="108972",Me TV Network HD
@@ -495,6 +507,8 @@ http://example.local/COL-MGENTE.ts
 http://example.local/USA-MDCTV.ts
 #EXTINF:-1 tvg-chno="104860" tvg-name="Miami Heat: NBA League Pass" tvg-logo="https://logos.jesmann.com/nbamia.png" group-title="United States" tvg-id="NBAMIA" tvc-guide-stationid="104860",Miami Heat: NBA League Pass
 http://example.local/USA-NBAMIA.ts
+#EXTINF:-1 tvg-chno="136330" tvg-name="Miami Marlins" tvg-logo="https://emby.tmsimg.com/assets/s136330_ll_h15_ab.png" group-title="United States" tvg-id="MIAM" tvc-guide-stationid="136330",Miami Marlins
+http://example.local/USA-MIAM.ts
 #EXTINF:-1 tvg-chno="102269" tvg-name="Miami Marlins: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbmia.png" group-title="United States" tvg-id="MLBMIA" tvc-guide-stationid="102269",Miami Marlins: MLB Extra Innings
 http://example.local/USA-MLBMIA.ts
 #EXTINF:-1 tvg-chno="92837" tvg-name="Miami-Dade TV" group-title="United States" tvg-id="MIAMIDA" tvc-guide-stationid="92837",Miami-Dade TV
@@ -571,6 +585,8 @@ http://example.local/PRI-MILH.ts
 http://example.local/USA-MDHH.ts
 #EXTINF:-1 tvg-chno="164081" tvg-name="Million Dollar Listing Vault" tvg-logo="https://emby.tmsimg.com/assets/s164081_ll_h15_aa.png" group-title="United States" tvg-id="MDLV" tvc-guide-stationid="164081",Million Dollar Listing Vault
 http://example.local/USA-MDLV.ts
+#EXTINF:-1 tvg-chno="136336" tvg-name="Milwaukee Brewers" tvg-logo="https://emby.tmsimg.com/assets/s136336_ll_h15_ab.png" group-title="United States" tvg-id="BREW" tvc-guide-stationid="136336",Milwaukee Brewers
+http://example.local/USA-BREW.ts
 #EXTINF:-1 tvg-chno="102308" tvg-name="Milwaukee Brewers: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbmil.png" group-title="United States" tvg-id="MLBMIL" tvc-guide-stationid="102308",Milwaukee Brewers: MLB Extra Innings
 http://example.local/USA-MLBMIL.ts
 #EXTINF:-1 tvg-chno="104867" tvg-name="Milwaukee Bucks: NBA League Pass" tvg-logo="https://logos.jesmann.com/nbamil.png" group-title="United States" tvg-id="NBAMIL" tvc-guide-stationid="104867",Milwaukee Bucks: NBA League Pass
@@ -1003,19 +1019,3 @@ http://example.local/GBR-MOBILES.ts
 http://example.local/CHE-MOBILES.ts
 #EXTINF:-1 tvg-chno="134893" tvg-name="Moconomy" tvg-logo="https://emby.tmsimg.com/assets/s134893_ll_h9_ab.png" group-title="Germany" tvg-id="MOCONOMY" tvc-guide-stationid="134893",Moconomy
 http://example.local/DEU-MOCONOMY.ts
-#EXTINF:-1 tvg-chno="134893" tvg-name="Moconomy" tvg-logo="https://emby.tmsimg.com/assets/s134893_ll_h9_ab.png" group-title="United States" tvg-id="MOCONOMY" tvc-guide-stationid="134893",Moconomy
-http://example.local/USA-MOCONOMY.ts
-#EXTINF:-1 tvg-chno="134893" tvg-name="Moconomy" tvg-logo="https://emby.tmsimg.com/assets/s134893_ll_h9_ab.png" group-title="Switzerland" tvg-id="MOCONOMY" tvc-guide-stationid="134893",Moconomy
-http://example.local/CHE-MOCONOMY.ts
-#EXTINF:-1 tvg-chno="159923" tvg-name="Modern Innovations" group-title="United States" tvg-id="MODINNO" tvc-guide-stationid="159923",Modern Innovations
-http://example.local/USA-MODINNO.ts
-#EXTINF:-1 tvg-chno="123433" tvg-name="Modern Marvels" tvg-logo="https://emby.tmsimg.com/assets/s123433_ll_h15_ab.png" group-title="United States" tvg-id="MODMARV" tvc-guide-stationid="123433",Modern Marvels
-http://example.local/USA-MODMARV.ts
-#EXTINF:-1 tvg-chno="122542" tvg-name="Modern Marvels" tvg-logo="https://emby.tmsimg.com/assets/s123433_ll_h15_ab.png" group-title="United States" tvg-id="VIZMDML" tvc-guide-stationid="122542",Modern Marvels
-http://example.local/USA-VIZMDML.ts
-#EXTINF:-1 tvg-chno="154631" tvg-name="Modern Marvels" tvg-logo="https://emby.tmsimg.com/assets/s154631_ll_h15_aa.png" group-title="United Kingdom" tvg-id="MMINT" tvc-guide-stationid="154631",Modern Marvels
-http://example.local/GBR-MMINT.ts
-#EXTINF:-1 tvg-chno="94121" tvg-name="Modo Viagem" tvg-logo="https://emby.tmsimg.com/assets/s94121_ll_h15_ad.png" group-title="Brazil" tvg-id="MOVISD" tvc-guide-stationid="94121",Modo Viagem
-http://example.local/BRA-MOVISD.ts
-#EXTINF:-1 tvg-chno="74979" tvg-name="Modo Viagem" tvg-logo="https://emby.tmsimg.com/assets/s74979_ll_h15_ad.png" group-title="Brazil" tvg-id="MOVIHD" tvc-guide-stationid="74979",Modo Viagem
-http://example.local/BRA-MOVIHD.ts

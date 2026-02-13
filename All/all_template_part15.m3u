@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="109662" tvg-name="Champions League 1" tvg-logo="https://emby.tmsimg.com/assets/s109662_ll_h9_aa.png" group-title="Jamaica" tvg-id="UCL1" tvc-guide-stationid="109662",Champions League 1
+http://example.local/JAM-UCL1.ts
+#EXTINF:-1 tvg-chno="109662" tvg-name="Champions League 1" tvg-logo="https://emby.tmsimg.com/assets/s109662_ll_h9_aa.png" group-title="Trinidad and Tobago" tvg-id="UCL1" tvc-guide-stationid="109662",Champions League 1
+http://example.local/TTO-UCL1.ts
 #EXTINF:-1 tvg-chno="109662" tvg-name="Champions League 1" tvg-logo="https://emby.tmsimg.com/assets/s109662_ll_h9_aa.png" group-title="Barbados" tvg-id="UCL1" tvc-guide-stationid="109662",Champions League 1
 http://example.local/BRB-UCL1.ts
 #EXTINF:-1 tvg-chno="109662" tvg-name="Champions League 1" tvg-logo="https://emby.tmsimg.com/assets/s109662_ll_h9_aa.png" group-title="St. Kitts and Nevis" tvg-id="UCL1" tvc-guide-stationid="109662",Champions League 1
@@ -925,6 +929,8 @@ http://example.local/USA-CIMTDT.ts
 http://example.local/USA-CINC1.ts
 #EXTINF:-1 tvg-chno="98470" tvg-name="Cincinnati PEG2" group-title="United States" tvg-id="CINC2" tvc-guide-stationid="98470",Cincinnati PEG2
 http://example.local/USA-CINC2.ts
+#EXTINF:-1 tvg-chno="136323" tvg-name="Cincinnati Reds" tvg-logo="https://emby.tmsimg.com/assets/s136323_ll_h15_ab.png" group-title="United States" tvg-id="CINR" tvc-guide-stationid="136323",Cincinnati Reds
+http://example.local/USA-CINR.ts
 #EXTINF:-1 tvg-chno="102279" tvg-name="Cincinnati Reds: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbcin.png" group-title="United States" tvg-id="MLBCIN" tvc-guide-stationid="102279",Cincinnati Reds: MLB Extra Innings
 http://example.local/USA-MLBCIN.ts
 #EXTINF:-1 tvg-chno="145043" tvg-name="Cindie TV" tvg-logo="https://emby.tmsimg.com/assets/s145043_ll_h15_ab.png" group-title="Mexico" tvg-id="CINDTV" tvc-guide-stationid="145043",Cindie TV
@@ -1013,9 +1019,3 @@ http://example.local/ATG-CINL.ts
 http://example.local/LCA-CINL.ts
 #EXTINF:-1 tvg-chno="15296" tvg-name="Cine Latino" tvg-logo="https://emby.tmsimg.com/assets/s15296_ll_h9_ab.png" group-title="Curacao" tvg-id="CINL" tvc-guide-stationid="15296",Cine Latino
 http://example.local/CUW-CINL.ts
-#EXTINF:-1 tvg-chno="15296" tvg-name="Cine Latino" tvg-logo="https://emby.tmsimg.com/assets/s15296_ll_h9_ab.png" group-title="Aruba" tvg-id="CINL" tvc-guide-stationid="15296",Cine Latino
-http://example.local/ABW-CINL.ts
-#EXTINF:-1 tvg-chno="15296" tvg-name="Cine Latino" tvg-logo="https://emby.tmsimg.com/assets/s15296_ll_h9_ab.png" group-title="Anguilla" tvg-id="CINL" tvc-guide-stationid="15296",Cine Latino
-http://example.local/AIA-CINL.ts
-#EXTINF:-1 tvg-chno="15296" tvg-name="Cine Latino" tvg-logo="https://emby.tmsimg.com/assets/s15296_ll_h9_ab.png" group-title="St. Kitts and Nevis" tvg-id="CINL" tvc-guide-stationid="15296",Cine Latino
-http://example.local/KNA-CINL.ts

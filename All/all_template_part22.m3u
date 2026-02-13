@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://emby.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="St. Lucia" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
+http://example.local/LCA-DKNLM.ts
+#EXTINF:-1 tvg-chno="16665" tvg-name="Discovery Kids" tvg-logo="https://emby.tmsimg.com/assets/s16665_ll_h15_aa.png" group-title="Curacao" tvg-id="DKNI" tvc-guide-stationid="16665",Discovery Kids
+http://example.local/CUW-DKNI.ts
+#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://emby.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Curacao" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
+http://example.local/CUW-DKNLM.ts
+#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://emby.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Aruba" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
+http://example.local/ABW-DKNLM.ts
 #EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://emby.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Anguilla" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
 http://example.local/AIA-DKNLM.ts
 #EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://emby.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="St. Kitts and Nevis" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
@@ -1011,11 +1019,3 @@ http://example.local/MAF-DISJMXE.ts
 http://example.local/USA-DJCHP.ts
 #EXTINF:-1 tvg-chno="122163" tvg-name="Disney Junior (Wallonia)" tvg-logo="https://emby.tmsimg.com/assets/s122163_ll_h15_aa.png" group-title="Belgium" tvg-id="DISJRWA" tvc-guide-stationid="122163",Disney Junior (Wallonia)
 http://example.local/BEL-DISJRWA.ts
-#EXTINF:-1 tvg-chno="122743" tvg-name="Disney Junior (Wallonia) HD" tvg-logo="https://emby.tmsimg.com/assets/s122743_ll_h15_aa.png" group-title="Belgium" tvg-id="DJRWAHD" tvc-guide-stationid="122743",Disney Junior (Wallonia) HD
-http://example.local/BEL-DJRWAHD.ts
-#EXTINF:-1 tvg-chno="87383" tvg-name="Disney Junior France HD" tvg-logo="https://emby.tmsimg.com/assets/s87383_ll_h15_aa.png" group-title="France" tvg-id="DISJFRH" tvc-guide-stationid="87383",Disney Junior France HD
-http://example.local/FRA-DISJFRH.ts
-#EXTINF:-1 tvg-chno="87383" tvg-name="Disney Junior France HD" tvg-logo="https://emby.tmsimg.com/assets/s87383_ll_h15_aa.png" group-title="Belgium" tvg-id="DISJFRH" tvc-guide-stationid="87383",Disney Junior France HD
-http://example.local/BEL-DISJFRH.ts
-#EXTINF:-1 tvg-chno="87383" tvg-name="Disney Junior France HD" tvg-logo="https://emby.tmsimg.com/assets/s87383_ll_h15_aa.png" group-title="Switzerland" tvg-id="DISJFRH" tvc-guide-stationid="87383",Disney Junior France HD
-http://example.local/CHE-DISJFRH.ts

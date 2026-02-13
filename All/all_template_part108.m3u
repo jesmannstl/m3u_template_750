@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="116572" tvg-name="Virgin Radio" tvg-logo="https://emby.tmsimg.com/assets/s116572_ll_h9_aa.png" group-title="Belgium" tvg-id="VIRGRAD" tvc-guide-stationid="116572",Virgin Radio
+http://example.local/BEL-VIRGRAD.ts
+#EXTINF:-1 tvg-chno="123152" tvg-name="Virgin Radio" tvg-logo="https://emby.tmsimg.com/assets/s123152_ll_h15_aa.png" group-title="Italy" tvg-id="VIRRAIT" tvc-guide-stationid="123152",Virgin Radio
+http://example.local/ITA-VIRRAIT.ts
+#EXTINF:-1 tvg-chno="116572" tvg-name="Virgin Radio" tvg-logo="https://emby.tmsimg.com/assets/s116572_ll_h9_aa.png" group-title="Italy" tvg-id="VIRGRAD" tvc-guide-stationid="116572",Virgin Radio
+http://example.local/ITA-VIRGRAD.ts
+#EXTINF:-1 tvg-chno="116572" tvg-name="Virgin Radio" tvg-logo="https://emby.tmsimg.com/assets/s116572_ll_h9_aa.png" group-title="United Kingdom" tvg-id="VIRGRAD" tvc-guide-stationid="116572",Virgin Radio
+http://example.local/GBR-VIRGRAD.ts
+#EXTINF:-1 tvg-chno="116572" tvg-name="Virgin Radio" tvg-logo="https://emby.tmsimg.com/assets/s116572_ll_h9_aa.png" group-title="Ireland" tvg-id="VIRGRAD" tvc-guide-stationid="116572",Virgin Radio
+http://example.local/IRL-VIRGRAD.ts
+#EXTINF:-1 tvg-chno="124452" tvg-name="Virgin Radio TV" group-title="Italy" tvg-id="VIRGRADTV" tvc-guide-stationid="124452",Virgin Radio TV
+http://example.local/ITA-VIRGRADTV.ts
+#EXTINF:-1 tvg-chno="136192" tvg-name="Vision Sverige" tvg-logo="https://emby.tmsimg.com/assets/s136192_ll_h15_ab.png" group-title="Norway" tvg-id="VISIOSV" tvc-guide-stationid="136192",Vision Sverige
+http://example.local/NOR-VISIOSV.ts
+#EXTINF:-1 tvg-chno="136192" tvg-name="Vision Sverige" tvg-logo="https://emby.tmsimg.com/assets/s136192_ll_h15_ab.png" group-title="Denmark" tvg-id="VISIOSV" tvc-guide-stationid="136192",Vision Sverige
+http://example.local/DNK-VISIOSV.ts
+#EXTINF:-1 tvg-chno="11220" tvg-name="Vision TV" tvg-logo="https://emby.tmsimg.com/assets/s11220_ll_h15_ab.png" group-title="Canada" tvg-id="VISION" tvc-guide-stationid="11220",Vision TV
+http://example.local/CAN-VISION.ts
+#EXTINF:-1 tvg-chno="112594" tvg-name="Vision TV" tvg-logo="https://emby.tmsimg.com/assets/s112594_ll_h15_aa.png" group-title="United Kingdom" tvg-id="VISIOTV" tvc-guide-stationid="112594",Vision TV
+http://example.local/GBR-VISIOTV.ts
+#EXTINF:-1 tvg-chno="102146" tvg-name="Vision TV HD" tvg-logo="https://emby.tmsimg.com/assets/s102146_ll_h15_ab.png" group-title="Canada" tvg-id="VISIHD" tvc-guide-stationid="102146",Vision TV HD
+http://example.local/CAN-VISIHD.ts
 #EXTINF:-1 tvg-chno="113335" tvg-name="VISIT-X.tv" group-title="Germany" tvg-id="VISITX" tvc-guide-stationid="113335",VISIT-X.tv
 http://example.local/DEU-VISITX.ts
 #EXTINF:-1 tvg-chno="113335" tvg-name="VISIT-X.tv" group-title="France" tvg-id="VISITX" tvc-guide-stationid="113335",VISIT-X.tv
@@ -997,25 +1019,3 @@ http://example.local/USA-W25AYD4.ts
 http://example.local/CAN-W25BTD.ts
 #EXTINF:-1 tvg-chno="96567" tvg-name="W25BT-D (PBS)" tvg-logo="https://emby.tmsimg.com/assets/s32356_ll_h15_ac.png" group-title="United States" tvg-id="W25BTD" tvc-guide-stationid="96567",W25BT-D (PBS)
 http://example.local/USA-W25BTD.ts
-#EXTINF:-1 tvg-chno="96568" tvg-name="W25BT-D2 (MHZWV)" tvg-logo="https://emby.tmsimg.com/assets/s49582_ll_h9_aa.png" group-title="Canada" tvg-id="W25BTD2" tvc-guide-stationid="96568",W25BT-D2 (MHZWV)
-http://example.local/CAN-W25BTD2.ts
-#EXTINF:-1 tvg-chno="96568" tvg-name="W25BT-D2 (MHZWV)" tvg-logo="https://emby.tmsimg.com/assets/s49582_ll_h9_aa.png" group-title="United States" tvg-id="W25BTD2" tvc-guide-stationid="96568",W25BT-D2 (MHZWV)
-http://example.local/USA-W25BTD2.ts
-#EXTINF:-1 tvg-chno="96569" tvg-name="W25BT-D3 (HD06)" tvg-logo="https://emby.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="Canada" tvg-id="W25BTD3" tvc-guide-stationid="96569",W25BT-D3 (HD06)
-http://example.local/CAN-W25BTD3.ts
-#EXTINF:-1 tvg-chno="96569" tvg-name="W25BT-D3 (HD06)" tvg-logo="https://emby.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="United States" tvg-id="W25BTD3" tvc-guide-stationid="96569",W25BT-D3 (HD06)
-http://example.local/USA-W25BTD3.ts
-#EXTINF:-1 tvg-chno="77614" tvg-name="W25DW-D6 (ALMA)" tvg-logo="https://emby.tmsimg.com/assets/s45813_ll_h9_aa.png" group-title="United States" tvg-id="W25DWD6" tvc-guide-stationid="77614",W25DW-D6 (ALMA)
-http://example.local/USA-W25DWD6.ts
-#EXTINF:-1 tvg-chno="80566" tvg-name="W25DW-D7" group-title="United States" tvg-id="W25DWD7" tvc-guide-stationid="80566",W25DW-D7
-http://example.local/USA-W25DWD7.ts
-#EXTINF:-1 tvg-chno="106813" tvg-name="W25DW-D8" group-title="United States" tvg-id="W25DWD8" tvc-guide-stationid="106813",W25DW-D8
-http://example.local/USA-W25DWD8.ts
-#EXTINF:-1 tvg-chno="98010" tvg-name="W25DW-D9" group-title="United States" tvg-id="W25DWD9" tvc-guide-stationid="98010",W25DW-D9
-http://example.local/USA-W25DWD9.ts
-#EXTINF:-1 tvg-chno="122776" tvg-name="W25FH-D (FUBOOTA)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002FER8B.png" group-title="United States" tvg-id="W25FHD" tvc-guide-stationid="122776",W25FH-D (FUBOOTA)
-http://example.local/USA-W25FHD.ts
-#EXTINF:-1 tvg-chno="116478" tvg-name="W26DH-D (3ANGELS)" tvg-logo="https://emby.tmsimg.com/assets/s10002_ll_h15_aa.png" group-title="United States" tvg-id="W26DHD" tvc-guide-stationid="116478",W26DH-D (3ANGELS)
-http://example.local/USA-W26DHD.ts
-#EXTINF:-1 tvg-chno="116479" tvg-name="W26DH-D2 (ESPRNZA)" tvg-logo="https://emby.tmsimg.com/assets/s65095_ll_h6_aa.png" group-title="United States" tvg-id="W26DHD2" tvc-guide-stationid="116479",W26DH-D2 (ESPRNZA)
-http://example.local/USA-W26DHD2.ts

@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="80443" tvg-name="Planeta Fútbol 2" group-title="Panama" tvg-id="PLFUT2" tvc-guide-stationid="80443",Planeta Fútbol 2
+http://example.local/PAN-PLFUT2.ts
+#EXTINF:-1 tvg-chno="52518" tvg-name="PLANETE+" tvg-logo="https://emby.tmsimg.com/assets/s52518_ll_h15_aa.png" group-title="Germany" tvg-id="PLANTPL" tvc-guide-stationid="52518",PLANETE+
+http://example.local/DEU-PLANTPL.ts
+#EXTINF:-1 tvg-chno="52518" tvg-name="PLANETE+" tvg-logo="https://emby.tmsimg.com/assets/s52518_ll_h15_aa.png" group-title="Switzerland" tvg-id="PLANTPL" tvc-guide-stationid="52518",PLANETE+
+http://example.local/CHE-PLANTPL.ts
+#EXTINF:-1 tvg-chno="87492" tvg-name="PLANETE+ HD" tvg-logo="https://emby.tmsimg.com/assets/s87492_ll_h9_ac.png" group-title="France" tvg-id="PLANETH" tvc-guide-stationid="87492",PLANETE+ HD
+http://example.local/FRA-PLANETH.ts
+#EXTINF:-1 tvg-chno="118302" tvg-name="PLANETE+ HD" tvg-logo="https://emby.tmsimg.com/assets/s118302_ll_h15_aa.png" group-title="Poland" tvg-id="PLANEPL" tvc-guide-stationid="118302",PLANETE+ HD
+http://example.local/POL-PLANEPL.ts
+#EXTINF:-1 tvg-chno="87492" tvg-name="PLANETE+ HD" tvg-logo="https://emby.tmsimg.com/assets/s87492_ll_h9_ac.png" group-title="Belgium" tvg-id="PLANETH" tvc-guide-stationid="87492",PLANETE+ HD
+http://example.local/BEL-PLANETH.ts
+#EXTINF:-1 tvg-chno="87492" tvg-name="PLANETE+ HD" tvg-logo="https://emby.tmsimg.com/assets/s87492_ll_h9_ac.png" group-title="Switzerland" tvg-id="PLANETH" tvc-guide-stationid="87492",PLANETE+ HD
+http://example.local/CHE-PLANETH.ts
+#EXTINF:-1 tvg-chno="87492" tvg-name="PLANETE+ HD" tvg-logo="https://emby.tmsimg.com/assets/s87492_ll_h9_ac.png" group-title="Saint Martin" tvg-id="PLANETH" tvc-guide-stationid="87492",PLANETE+ HD
+http://example.local/MAF-PLANETH.ts
 #EXTINF:-1 tvg-chno="102601" tvg-name="Planète 97.1 - French (CHLX FM)" group-title="Canada" tvg-id="CHLXFM" tvc-guide-stationid="102601",Planète 97.1 - French (CHLX FM)
 http://example.local/CAN-CHLXFM.ts
 #EXTINF:-1 tvg-chno="31323" tvg-name="Planète Plus" tvg-logo="https://emby.tmsimg.com/assets/s31323_ll_h15_aa.png" group-title="Canada" tvg-id="PLANETE" tvc-guide-stationid="31323",Planète Plus
@@ -1003,19 +1019,3 @@ http://example.local/USA-PPV532.ts
 http://example.local/USA-PPV533.ts
 #EXTINF:-1 tvg-chno="22964" tvg-name="PPV - PPV534" group-title="United States" tvg-id="PPV534" tvc-guide-stationid="22964",PPV - PPV534
 http://example.local/USA-PPV534.ts
-#EXTINF:-1 tvg-chno="22965" tvg-name="PPV - PPV535" group-title="United States" tvg-id="PPV535" tvc-guide-stationid="22965",PPV - PPV535
-http://example.local/USA-PPV535.ts
-#EXTINF:-1 tvg-chno="22966" tvg-name="PPV - PPV536" group-title="United States" tvg-id="PPV536" tvc-guide-stationid="22966",PPV - PPV536
-http://example.local/USA-PPV536.ts
-#EXTINF:-1 tvg-chno="22967" tvg-name="PPV - PPV537" group-title="United States" tvg-id="PPV537" tvc-guide-stationid="22967",PPV - PPV537
-http://example.local/USA-PPV537.ts
-#EXTINF:-1 tvg-chno="22968" tvg-name="PPV - PPV538" group-title="United States" tvg-id="PPV538" tvc-guide-stationid="22968",PPV - PPV538
-http://example.local/USA-PPV538.ts
-#EXTINF:-1 tvg-chno="32301" tvg-name="PPV - PPV539" group-title="United States" tvg-id="PPV539" tvc-guide-stationid="32301",PPV - PPV539
-http://example.local/USA-PPV539.ts
-#EXTINF:-1 tvg-chno="68038" tvg-name="PPV - PPV540" group-title="United States" tvg-id="PPV540" tvc-guide-stationid="68038",PPV - PPV540
-http://example.local/USA-PPV540.ts
-#EXTINF:-1 tvg-chno="22970" tvg-name="PPV - PPV542" group-title="United States" tvg-id="PPV542" tvc-guide-stationid="22970",PPV - PPV542
-http://example.local/USA-PPV542.ts
-#EXTINF:-1 tvg-chno="22971" tvg-name="PPV - PPV543" group-title="United States" tvg-id="PPV543" tvc-guide-stationid="22971",PPV - PPV543
-http://example.local/USA-PPV543.ts

@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="66716" tvg-name="Sky Mix +1" tvg-logo="https://emby.tmsimg.com/assets/s66716_ll_h15_ac.png" group-title="Netherlands" tvg-id="SMIXP1" tvc-guide-stationid="66716",Sky Mix +1
+http://example.local/NLD-SMIXP1.ts
+#EXTINF:-1 tvg-chno="66716" tvg-name="Sky Mix +1" tvg-logo="https://emby.tmsimg.com/assets/s66716_ll_h15_ac.png" group-title="United Kingdom" tvg-id="SMIXP1" tvc-guide-stationid="66716",Sky Mix +1
+http://example.local/GBR-SMIXP1.ts
+#EXTINF:-1 tvg-chno="117151" tvg-name="Sky Mix HD" tvg-logo="https://emby.tmsimg.com/assets/s117151_ll_h15_ab.png" group-title="United Kingdom" tvg-id="SMIXH" tvc-guide-stationid="117151",Sky Mix HD
+http://example.local/GBR-SMIXH.ts
+#EXTINF:-1 tvg-chno="117151" tvg-name="Sky Mix HD" tvg-logo="https://emby.tmsimg.com/assets/s117151_ll_h15_ab.png" group-title="Ireland" tvg-id="SMIXH" tvc-guide-stationid="117151",Sky Mix HD
+http://example.local/IRL-SMIXH.ts
+#EXTINF:-1 tvg-chno="114269" tvg-name="Sky Nature" tvg-logo="https://emby.tmsimg.com/assets/s114269_ll_h15_ab.png" group-title="United Kingdom" tvg-id="SKYNTSD" tvc-guide-stationid="114269",Sky Nature
+http://example.local/GBR-SKYNTSD.ts
+#EXTINF:-1 tvg-chno="114272" tvg-name="Sky Nature" tvg-logo="https://emby.tmsimg.com/assets/s114272_ll_h15_aa.png" group-title="United Kingdom" tvg-id="SKNSDVM" tvc-guide-stationid="114272",Sky Nature
+http://example.local/GBR-SKNSDVM.ts
+#EXTINF:-1 tvg-chno="114269" tvg-name="Sky Nature" tvg-logo="https://emby.tmsimg.com/assets/s114269_ll_h15_ab.png" group-title="Ireland" tvg-id="SKYNTSD" tvc-guide-stationid="114269",Sky Nature
+http://example.local/IRL-SKYNTSD.ts
+#EXTINF:-1 tvg-chno="114272" tvg-name="Sky Nature" tvg-logo="https://emby.tmsimg.com/assets/s114272_ll_h15_aa.png" group-title="Ireland" tvg-id="SKNSDVM" tvc-guide-stationid="114272",Sky Nature
+http://example.local/IRL-SKNSDVM.ts
+#EXTINF:-1 tvg-chno="119982" tvg-name="Sky Nature HD" tvg-logo="https://emby.tmsimg.com/assets/s119982_ll_h15_aa.png" group-title="Germany" tvg-id="SKYNADE" tvc-guide-stationid="119982",Sky Nature HD
+http://example.local/DEU-SKYNADE.ts
 #EXTINF:-1 tvg-chno="119982" tvg-name="Sky Nature HD" tvg-logo="https://emby.tmsimg.com/assets/s119982_ll_h15_aa.png" group-title="Austria" tvg-id="SKYNADE" tvc-guide-stationid="119982",Sky Nature HD
 http://example.local/AUT-SKYNADE.ts
 #EXTINF:-1 tvg-chno="122785" tvg-name="Sky Nature HD" tvg-logo="https://emby.tmsimg.com/assets/s122785_ll_h15_aa.png" group-title="Italy" tvg-id="SKYNAIT" tvc-guide-stationid="122785",Sky Nature HD
@@ -1001,21 +1019,3 @@ http://example.local/USA-SON60.ts
 http://example.local/USA-SON70S.ts
 #EXTINF:-1 tvg-chno="95011" tvg-name="Sonic Tap: '80s Hits" group-title="United States" tvg-id="SON80S" tvc-guide-stationid="95011",Sonic Tap: '80s Hits
 http://example.local/USA-SON80S.ts
-#EXTINF:-1 tvg-chno="95079" tvg-name="Sonic Tap: '90s Hits" group-title="United States" tvg-id="SON90H" tvc-guide-stationid="95079",Sonic Tap: '90s Hits
-http://example.local/USA-SON90H.ts
-#EXTINF:-1 tvg-chno="94980" tvg-name="Sonic Tap: 8-Tracks" group-title="United States" tvg-id="SON8TRC" tvc-guide-stationid="94980",Sonic Tap: 8-Tracks
-http://example.local/USA-SON8TRC.ts
-#EXTINF:-1 tvg-chno="95016" tvg-name="Sonic Tap: Adult Alternative" group-title="United States" tvg-id="SONAALT" tvc-guide-stationid="95016",Sonic Tap: Adult Alternative
-http://example.local/USA-SONAALT.ts
-#EXTINF:-1 tvg-chno="95018" tvg-name="Sonic Tap: Adult Contemporary" group-title="United States" tvg-id="SONACON" tvc-guide-stationid="95018",Sonic Tap: Adult Contemporary
-http://example.local/USA-SONACON.ts
-#EXTINF:-1 tvg-chno="95015" tvg-name="Sonic Tap: Alternative" group-title="United States" tvg-id="SONALT" tvc-guide-stationid="95015",Sonic Tap: Alternative
-http://example.local/USA-SONALT.ts
-#EXTINF:-1 tvg-chno="95010" tvg-name="Sonic Tap: Bailamos!" group-title="United States" tvg-id="SONBAIL" tvc-guide-stationid="95010",Sonic Tap: Bailamos!
-http://example.local/USA-SONBAIL.ts
-#EXTINF:-1 tvg-chno="95030" tvg-name="Sonic Tap: Be-Tween" group-title="United States" tvg-id="SONMETR" tvc-guide-stationid="95030",Sonic Tap: Be-Tween
-http://example.local/USA-SONMETR.ts
-#EXTINF:-1 tvg-chno="95022" tvg-name="Sonic Tap: Beautiful Instrumentals" group-title="United States" tvg-id="SONBI" tvc-guide-stationid="95022",Sonic Tap: Beautiful Instrumentals
-http://example.local/USA-SONBI.ts
-#EXTINF:-1 tvg-chno="95058" tvg-name="Sonic Tap: Big Band/Swing" group-title="United States" tvg-id="SONBBS" tvc-guide-stationid="95058",Sonic Tap: Big Band/Swing
-http://example.local/USA-SONBBS.ts

@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="12892" tvg-name="CTV Two - Atlantic (CTV2)" tvg-logo="https://logos.jesmann.com/asn.png" group-title="Canada" tvg-id="ASN" tvc-guide-stationid="12892",CTV Two - Atlantic (CTV2)
+http://example.local/CAN-ASN.ts
+#EXTINF:-1 tvg-chno="89746" tvg-name="CTV Two - Atlantic HD (CTV2)" tvg-logo="https://logos.jesmann.com/asnhd.png" group-title="Canada" tvg-id="ASNHD" tvc-guide-stationid="89746",CTV Two - Atlantic HD (CTV2)
+http://example.local/CAN-ASNHD.ts
+#EXTINF:-1 tvg-chno="89746" tvg-name="CTV Two - Atlantic HD (CTV2)" tvg-logo="https://logos.jesmann.com/asnhd.png" group-title="United States" tvg-id="ASNHD" tvc-guide-stationid="89746",CTV Two - Atlantic HD (CTV2)
+http://example.local/USA-ASNHD.ts
 #EXTINF:-1 tvg-chno="10135" tvg-name="CTV Two - Barrie (CTV2)" tvg-logo="https://logos.jesmann.com/ckvr.png" group-title="Canada" tvg-id="CKVR" tvc-guide-stationid="10135",CTV Two - Barrie (CTV2)
 http://example.local/CAN-CKVR.ts
 #EXTINF:-1 tvg-chno="16020" tvg-name="CTV Two - London/Windsor (CTV2)" tvg-logo="https://logos.jesmann.com/chwi.png" group-title="Canada" tvg-id="CHWI" tvc-guide-stationid="16020",CTV Two - London/Windsor (CTV2)
@@ -1013,9 +1019,3 @@ http://example.local/GBR-DESI.ts
 http://example.local/IRL-DESI.ts
 #EXTINF:-1 tvg-chno="111622" tvg-name="Desierto de Atacama TV" tvg-logo="https://emby.tmsimg.com/assets/s111622_ll_h15_aa.png" group-title="Chile" tvg-id="DESAC" tvc-guide-stationid="111622",Desierto de Atacama TV
 http://example.local/CHL-DESAC.ts
-#EXTINF:-1 tvg-chno="191641" tvg-name="Designated Survivor" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0027N8V8.png" group-title="United States" tvg-id="DSGSRVR" tvc-guide-stationid="191641",Designated Survivor
-http://example.local/USA-DSGSRVR.ts
-#EXTINF:-1 tvg-chno="159742" tvg-name="Desire" tvg-logo="https://emby.tmsimg.com/assets/s159742_ll_h15_aa.png" group-title="Poland" tvg-id="DESIRNL" tvc-guide-stationid="159742",Desire
-http://example.local/POL-DESIRNL.ts
-#EXTINF:-1 tvg-chno="16617" tvg-name="Destination America" tvg-logo="https://emby.tmsimg.com/assets/s16617_ll_h15_aa.png" group-title="United States" tvg-id="DEST" tvc-guide-stationid="16617",Destination America
-http://example.local/USA-DEST.ts

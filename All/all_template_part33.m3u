@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="29675" tvg-name="Freedom Radio" tvg-logo="https://emby.tmsimg.com/assets/s29675_ll_h9_aa.png" group-title="United States" tvg-id="CRN5" tvc-guide-stationid="29675",Freedom Radio
+http://example.local/USA-CRN5.ts
+#EXTINF:-1 tvg-chno="187055" tvg-name="Freedom TV" group-title="Poland" tvg-id="FREDEIO" tvc-guide-stationid="187055",Freedom TV
+http://example.local/POL-FREDEIO.ts
+#EXTINF:-1 tvg-chno="10093" tvg-name="Freeform" tvg-logo="https://emby.tmsimg.com/assets/s10093_ll_h15_ae.png" group-title="United States" tvg-id="FREEFRM" tvc-guide-stationid="10093",Freeform
+http://example.local/USA-FREEFRM.ts
+#EXTINF:-1 tvg-chno="47097" tvg-name="Freeform" group-title="United States" tvg-id="GFREFM" tvc-guide-stationid="47097",Freeform
+http://example.local/USA-GFREFM.ts
 #EXTINF:-1 tvg-chno="10093" tvg-name="Freeform" tvg-logo="https://emby.tmsimg.com/assets/s10093_ll_h15_ae.png" group-title="Bermuda" tvg-id="FREEFRM" tvc-guide-stationid="10093",Freeform
 http://example.local/BMU-FREEFRM.ts
 #EXTINF:-1 tvg-chno="10093" tvg-name="Freeform" tvg-logo="https://emby.tmsimg.com/assets/s10093_ll_h15_ae.png" group-title="Costa Rica" tvg-id="FREEFRM" tvc-guide-stationid="10093",Freeform
@@ -1011,11 +1019,3 @@ http://example.local/ESP-GALTVE.ts
 http://example.local/BEL-GALTVE.ts
 #EXTINF:-1 tvg-chno="87097" tvg-name="Galicia TV Europa" tvg-logo="https://emby.tmsimg.com/assets/s87097_ll_h15_aa.png" group-title="Netherlands" tvg-id="GALTVE" tvc-guide-stationid="87097",Galicia TV Europa
 http://example.local/NLD-GALTVE.ts
-#EXTINF:-1 tvg-chno="87097" tvg-name="Galicia TV Europa" tvg-logo="https://emby.tmsimg.com/assets/s87097_ll_h15_aa.png" group-title="Italy" tvg-id="GALTVE" tvc-guide-stationid="87097",Galicia TV Europa
-http://example.local/ITA-GALTVE.ts
-#EXTINF:-1 tvg-chno="87097" tvg-name="Galicia TV Europa" tvg-logo="https://emby.tmsimg.com/assets/s87097_ll_h15_aa.png" group-title="United Kingdom" tvg-id="GALTVE" tvc-guide-stationid="87097",Galicia TV Europa
-http://example.local/GBR-GALTVE.ts
-#EXTINF:-1 tvg-chno="87097" tvg-name="Galicia TV Europa" tvg-logo="https://emby.tmsimg.com/assets/s87097_ll_h15_aa.png" group-title="Switzerland" tvg-id="GALTVE" tvc-guide-stationid="87097",Galicia TV Europa
-http://example.local/CHE-GALTVE.ts
-#EXTINF:-1 tvg-chno="118629" tvg-name="Galicia TV Europa HD" group-title="Germany" tvg-id="GALEUHD" tvc-guide-stationid="118629",Galicia TV Europa HD
-http://example.local/DEU-GALEUHD.ts

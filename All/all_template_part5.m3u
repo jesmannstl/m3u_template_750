@@ -759,6 +759,8 @@ http://example.local/FRA-ATHLE.ts
 http://example.local/USA-ATINFO.ts
 #EXTINF:-1 tvg-chno="111023" tvg-name="Atlanta 21" group-title="United States" tvg-id="ATL21" tvc-guide-stationid="111023",Atlanta 21
 http://example.local/USA-ATL21.ts
+#EXTINF:-1 tvg-chno="136334" tvg-name="Atlanta Braves" tvg-logo="https://emby.tmsimg.com/assets/s136334_ll_h15_ab.png" group-title="United States" tvg-id="ATLB" tvc-guide-stationid="136334",Atlanta Braves
+http://example.local/USA-ATLB.ts
 #EXTINF:-1 tvg-chno="102262" tvg-name="Atlanta Braves: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbatl.png" group-title="United States" tvg-id="MLBATL" tvc-guide-stationid="102262",Atlanta Braves: MLB Extra Innings
 http://example.local/USA-MLBATL.ts
 #EXTINF:-1 tvg-chno="104880" tvg-name="Atlanta Hawks: NBA League Pass" tvg-logo="https://logos.jesmann.com/nbaatl.png" group-title="United States" tvg-id="NBAATL" tvc-guide-stationid="104880",Atlanta Hawks: NBA League Pass
@@ -1017,5 +1019,3 @@ http://example.local/PER-ATVPERU.ts
 http://example.local/DEU-ATVALB.ts
 #EXTINF:-1 tvg-chno="96483" tvg-name="ATV Avrupa" tvg-logo="https://emby.tmsimg.com/assets/s96483_ll_h15_ab.png" group-title="Germany" tvg-id="AVRPTU" tvc-guide-stationid="96483",ATV Avrupa
 http://example.local/DEU-AVRPTU.ts
-#EXTINF:-1 tvg-chno="96483" tvg-name="ATV Avrupa" tvg-logo="https://emby.tmsimg.com/assets/s96483_ll_h15_ab.png" group-title="France" tvg-id="AVRPTU" tvc-guide-stationid="96483",ATV Avrupa
-http://example.local/FRA-AVRPTU.ts

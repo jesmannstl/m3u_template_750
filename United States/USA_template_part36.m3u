@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="23467" tvg-name="Local Origination - LOOR915" group-title="United States" tvg-id="LOOR915" tvc-guide-stationid="23467",Local Origination - LOOR915
+http://example.local/USA-LOOR915.ts
+#EXTINF:-1 tvg-chno="23468" tvg-name="Local Origination - LOOR916" group-title="United States" tvg-id="LOOR916" tvc-guide-stationid="23468",Local Origination - LOOR916
+http://example.local/USA-LOOR916.ts
+#EXTINF:-1 tvg-chno="59980" tvg-name="Local Origination - LOOR917" group-title="United States" tvg-id="LOOR917" tvc-guide-stationid="59980",Local Origination - LOOR917
+http://example.local/USA-LOOR917.ts
+#EXTINF:-1 tvg-chno="59981" tvg-name="Local Origination - LOOR918" group-title="United States" tvg-id="LOOR918" tvc-guide-stationid="59981",Local Origination - LOOR918
+http://example.local/USA-LOOR918.ts
+#EXTINF:-1 tvg-chno="105474" tvg-name="Local Origination - LOOR919" group-title="United States" tvg-id="LOOR919" tvc-guide-stationid="105474",Local Origination - LOOR919
+http://example.local/USA-LOOR919.ts
 #EXTINF:-1 tvg-chno="61539" tvg-name="Local Origination - LOOR920" group-title="United States" tvg-id="LOOR920" tvc-guide-stationid="61539",Local Origination - LOOR920
 http://example.local/USA-LOOR920.ts
 #EXTINF:-1 tvg-chno="61591" tvg-name="Local Origination - LOOR921" group-title="United States" tvg-id="LOOR921" tvc-guide-stationid="61591",Local Origination - LOOR921
@@ -409,6 +419,8 @@ http://example.local/USA-LOOR996.ts
 http://example.local/USA-LSALCTY.ts
 #EXTINF:-1 tvg-chno="107066" tvg-name="Los Altos Public Access" group-title="United States" tvg-id="KMVTLA" tvc-guide-stationid="107066",Los Altos Public Access
 http://example.local/USA-KMVTLA.ts
+#EXTINF:-1 tvg-chno="136333" tvg-name="Los Angeles Angels" tvg-logo="https://emby.tmsimg.com/assets/s136333_ll_h15_ab.png" group-title="United States" tvg-id="ANGL" tvc-guide-stationid="136333",Los Angeles Angels
+http://example.local/USA-ANGL.ts
 #EXTINF:-1 tvg-chno="102282" tvg-name="Los Angeles Angels: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlblaa.png" group-title="United States" tvg-id="MLBLAA" tvc-guide-stationid="102282",Los Angeles Angels: MLB Extra Innings
 http://example.local/USA-MLBLAA.ts
 #EXTINF:-1 tvg-chno="104857" tvg-name="Los Angeles Clippers: NBA League Pass" tvg-logo="https://logos.jesmann.com/nbalac.png" group-title="United States" tvg-id="NBALAC" tvc-guide-stationid="104857",Los Angeles Clippers: NBA League Pass
@@ -843,6 +855,8 @@ http://example.local/USA-EMISORA.ts
 http://example.local/USA-MDCTV.ts
 #EXTINF:-1 tvg-chno="104860" tvg-name="Miami Heat: NBA League Pass" tvg-logo="https://logos.jesmann.com/nbamia.png" group-title="United States" tvg-id="NBAMIA" tvc-guide-stationid="104860",Miami Heat: NBA League Pass
 http://example.local/USA-NBAMIA.ts
+#EXTINF:-1 tvg-chno="136330" tvg-name="Miami Marlins" tvg-logo="https://emby.tmsimg.com/assets/s136330_ll_h15_ab.png" group-title="United States" tvg-id="MIAM" tvc-guide-stationid="136330",Miami Marlins
+http://example.local/USA-MIAM.ts
 #EXTINF:-1 tvg-chno="102269" tvg-name="Miami Marlins: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbmia.png" group-title="United States" tvg-id="MLBMIA" tvc-guide-stationid="102269",Miami Marlins: MLB Extra Innings
 http://example.local/USA-MLBMIA.ts
 #EXTINF:-1 tvg-chno="92837" tvg-name="Miami-Dade TV" group-title="United States" tvg-id="MIAMIDA" tvc-guide-stationid="92837",Miami-Dade TV
@@ -893,6 +907,8 @@ http://example.local/USA-MILHS.ts
 http://example.local/USA-MDHH.ts
 #EXTINF:-1 tvg-chno="164081" tvg-name="Million Dollar Listing Vault" tvg-logo="https://emby.tmsimg.com/assets/s164081_ll_h15_aa.png" group-title="United States" tvg-id="MDLV" tvc-guide-stationid="164081",Million Dollar Listing Vault
 http://example.local/USA-MDLV.ts
+#EXTINF:-1 tvg-chno="136336" tvg-name="Milwaukee Brewers" tvg-logo="https://emby.tmsimg.com/assets/s136336_ll_h15_ab.png" group-title="United States" tvg-id="BREW" tvc-guide-stationid="136336",Milwaukee Brewers
+http://example.local/USA-BREW.ts
 #EXTINF:-1 tvg-chno="102308" tvg-name="Milwaukee Brewers: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbmil.png" group-title="United States" tvg-id="MLBMIL" tvc-guide-stationid="102308",Milwaukee Brewers: MLB Extra Innings
 http://example.local/USA-MLBMIL.ts
 #EXTINF:-1 tvg-chno="104867" tvg-name="Milwaukee Bucks: NBA League Pass" tvg-logo="https://logos.jesmann.com/nbamil.png" group-title="United States" tvg-id="NBAMIL" tvc-guide-stationid="104867",Milwaukee Bucks: NBA League Pass
@@ -1003,19 +1019,3 @@ http://example.local/USA-MLBD725.ts
 http://example.local/USA-MLBD726.ts
 #EXTINF:-1 tvg-chno="60883" tvg-name="MLB Extra Innings 727" tvg-logo="https://emby.tmsimg.com/assets/s95839_h3_ba.png" group-title="United States" tvg-id="MLBD727" tvc-guide-stationid="60883",MLB Extra Innings 727
 http://example.local/USA-MLBD727.ts
-#EXTINF:-1 tvg-chno="60884" tvg-name="MLB Extra Innings 728" tvg-logo="https://emby.tmsimg.com/assets/s95839_h3_ba.png" group-title="United States" tvg-id="MLBD728" tvc-guide-stationid="60884",MLB Extra Innings 728
-http://example.local/USA-MLBD728.ts
-#EXTINF:-1 tvg-chno="60885" tvg-name="MLB Extra Innings 729" tvg-logo="https://emby.tmsimg.com/assets/s95839_ll_h15_ab.png" group-title="United States" tvg-id="MLBD729" tvc-guide-stationid="60885",MLB Extra Innings 729
-http://example.local/USA-MLBD729.ts
-#EXTINF:-1 tvg-chno="60887" tvg-name="MLB Extra Innings 730" tvg-logo="https://emby.tmsimg.com/assets/s95839_ll_h15_ab.png" group-title="United States" tvg-id="MLBD730" tvc-guide-stationid="60887",MLB Extra Innings 730
-http://example.local/USA-MLBD730.ts
-#EXTINF:-1 tvg-chno="60888" tvg-name="MLB Extra Innings 731" tvg-logo="https://emby.tmsimg.com/assets/s95839_h3_aa.png" group-title="United States" tvg-id="MLBD731" tvc-guide-stationid="60888",MLB Extra Innings 731
-http://example.local/USA-MLBD731.ts
-#EXTINF:-1 tvg-chno="60889" tvg-name="MLB Extra Innings 732" tvg-logo="https://emby.tmsimg.com/assets/s95839_ll_h15_ab.png" group-title="United States" tvg-id="MLBD732" tvc-guide-stationid="60889",MLB Extra Innings 732
-http://example.local/USA-MLBD732.ts
-#EXTINF:-1 tvg-chno="60890" tvg-name="MLB Extra Innings 733" tvg-logo="https://emby.tmsimg.com/assets/s95839_ll_h15_ab.png" group-title="United States" tvg-id="MLBD733" tvc-guide-stationid="60890",MLB Extra Innings 733
-http://example.local/USA-MLBD733.ts
-#EXTINF:-1 tvg-chno="50109" tvg-name="MLB Extra Innings 734" tvg-logo="https://emby.tmsimg.com/assets/s95839_ll_h15_ab.png" group-title="United States" tvg-id="MLBD734" tvc-guide-stationid="50109",MLB Extra Innings 734
-http://example.local/USA-MLBD734.ts
-#EXTINF:-1 tvg-chno="50110" tvg-name="MLB Extra Innings 735" tvg-logo="https://emby.tmsimg.com/assets/s95839_ll_h15_ab.png" group-title="United States" tvg-id="MLBD735" tvc-guide-stationid="50110",MLB Extra Innings 735
-http://example.local/USA-MLBD735.ts

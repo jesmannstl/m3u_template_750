@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="98586" tvg-name="HOM-TV" group-title="United States" tvg-id="HOMTV" tvc-guide-stationid="98586",HOM-TV
+http://example.local/USA-HOMTV.ts
+#EXTINF:-1 tvg-chno="14902" tvg-name="Home & Garden Television" tvg-logo="https://emby.tmsimg.com/assets/s14902_ll_h15_ab.png" group-title="United States" tvg-id="HGTV" tvc-guide-stationid="14902",Home & Garden Television
+http://example.local/USA-HGTV.ts
+#EXTINF:-1 tvg-chno="167586" tvg-name="Home & Garden Television" tvg-logo="https://emby.tmsimg.com/assets/s167586_ll_h15_aa.png" group-title="United States" tvg-id="HGTHD" tvc-guide-stationid="167586",Home & Garden Television
+http://example.local/USA-HGTHD.ts
+#EXTINF:-1 tvg-chno="34215" tvg-name="Home & Garden Television (Pacific)" tvg-logo="https://logos.jesmann.com/hgtvp.png" group-title="United States" tvg-id="HGTVP" tvc-guide-stationid="34215",Home & Garden Television (Pacific)
+http://example.local/USA-HGTVP.ts
 #EXTINF:-1 tvg-chno="49788" tvg-name="Home & Garden Television HD" tvg-logo="https://emby.tmsimg.com/assets/s49788_ll_h15_ab.png" group-title="United States" tvg-id="HGTVD" tvc-guide-stationid="49788",Home & Garden Television HD
 http://example.local/USA-HGTVD.ts
 #EXTINF:-1 tvg-chno="186008" tvg-name="Home & Garden Television HD" tvg-logo="https://emby.tmsimg.com/assets/s14902_ll_h15_ab.png" group-title="United States" tvg-id="HGTVDS" tvc-guide-stationid="186008",Home & Garden Television HD
@@ -1011,11 +1019,3 @@ http://example.local/USA-K08EZD.ts
 http://example.local/USA-K08IOD.ts
 #EXTINF:-1 tvg-chno="88128" tvg-name="K08IO-D2 (SCNEWS)" tvg-logo="https://emby.tmsimg.com/assets/s96827_h3_ba.png" group-title="United States" tvg-id="K08IOD2" tvc-guide-stationid="88128",K08IO-D2 (SCNEWS)
 http://example.local/USA-K08IOD2.ts
-#EXTINF:-1 tvg-chno="83006" tvg-name="K08JP-D (CBS)" tvg-logo="https://emby.tmsimg.com/assets/s28711_h3_aa.png" group-title="United States" tvg-id="K08JPD" tvc-guide-stationid="83006",K08JP-D (CBS)
-http://example.local/USA-K08JPD.ts
-#EXTINF:-1 tvg-chno="83007" tvg-name="K08JP-D2" group-title="United States" tvg-id="K08JPD2" tvc-guide-stationid="83007",K08JP-D2
-http://example.local/USA-K08JPD2.ts
-#EXTINF:-1 tvg-chno="98621" tvg-name="K08KT-D (CBS)" tvg-logo="https://emby.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="United States" tvg-id="K08KTD" tvc-guide-stationid="98621",K08KT-D (CBS)
-http://example.local/USA-K08KTD.ts
-#EXTINF:-1 tvg-chno="98622" tvg-name="K08KT-D2" group-title="United States" tvg-id="K08KTD2" tvc-guide-stationid="98622",K08KT-D2
-http://example.local/USA-K08KTD2.ts

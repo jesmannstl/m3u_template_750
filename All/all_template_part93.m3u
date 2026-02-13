@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="66612" tvg-name="SRF Info" tvg-logo="https://emby.tmsimg.com/assets/s66612_ll_h15_ab.png" group-title="Austria" tvg-id="SFINSGH" tvc-guide-stationid="66612",SRF Info
+http://example.local/AUT-SFINSGH.ts
+#EXTINF:-1 tvg-chno="66612" tvg-name="SRF Info" tvg-logo="https://emby.tmsimg.com/assets/s66612_ll_h15_ab.png" group-title="Switzerland" tvg-id="SFINSGH" tvc-guide-stationid="66612",SRF Info
+http://example.local/CHE-SFINSGH.ts
+#EXTINF:-1 tvg-chno="99249" tvg-name="SRF Info HD" tvg-logo="https://emby.tmsimg.com/assets/s99249_ll_h15_aa.png" group-title="Germany" tvg-id="SRFINHD" tvc-guide-stationid="99249",SRF Info HD
+http://example.local/DEU-SRFINHD.ts
+#EXTINF:-1 tvg-chno="99249" tvg-name="SRF Info HD" tvg-logo="https://emby.tmsimg.com/assets/s99249_ll_h15_aa.png" group-title="Poland" tvg-id="SRFINHD" tvc-guide-stationid="99249",SRF Info HD
+http://example.local/POL-SRFINHD.ts
+#EXTINF:-1 tvg-chno="99249" tvg-name="SRF Info HD" tvg-logo="https://emby.tmsimg.com/assets/s99249_ll_h15_aa.png" group-title="Belgium" tvg-id="SRFINHD" tvc-guide-stationid="99249",SRF Info HD
+http://example.local/BEL-SRFINHD.ts
+#EXTINF:-1 tvg-chno="99249" tvg-name="SRF Info HD" tvg-logo="https://emby.tmsimg.com/assets/s99249_ll_h15_aa.png" group-title="Netherlands" tvg-id="SRFINHD" tvc-guide-stationid="99249",SRF Info HD
+http://example.local/NLD-SRFINHD.ts
+#EXTINF:-1 tvg-chno="99249" tvg-name="SRF Info HD" tvg-logo="https://emby.tmsimg.com/assets/s99249_ll_h15_aa.png" group-title="Austria" tvg-id="SRFINHD" tvc-guide-stationid="99249",SRF Info HD
+http://example.local/AUT-SRFINHD.ts
+#EXTINF:-1 tvg-chno="99249" tvg-name="SRF Info HD" tvg-logo="https://emby.tmsimg.com/assets/s99249_ll_h15_aa.png" group-title="Switzerland" tvg-id="SRFINHD" tvc-guide-stationid="99249",SRF Info HD
+http://example.local/CHE-SRFINHD.ts
+#EXTINF:-1 tvg-chno="97729" tvg-name="SRF Südthüringer Regionalfernsehen" tvg-logo="https://emby.tmsimg.com/assets/s97729_ll_h9_aa.png" group-title="Germany" tvg-id="SRFREG" tvc-guide-stationid="97729",SRF Südthüringer Regionalfernsehen
+http://example.local/DEU-SRFREG.ts
 #EXTINF:-1 tvg-chno="104980" tvg-name="SRF Südthüringer Regionalfernsehen HD" group-title="Germany" tvg-id="SRFSHD" tvc-guide-stationid="104980",SRF Südthüringer Regionalfernsehen HD
 http://example.local/DEU-SRFSHD.ts
 #EXTINF:-1 tvg-chno="53986" tvg-name="SRF zwei" tvg-logo="https://emby.tmsimg.com/assets/s53986_ll_h15_aa.png" group-title="Germany" tvg-id="SFZWEI" tvc-guide-stationid="53986",SRF zwei
@@ -25,6 +43,8 @@ http://example.local/USA-SPCTV.ts
 http://example.local/USA-LOCSTJ.ts
 #EXTINF:-1 tvg-chno="100210" tvg-name="St. Louis Blues: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlstl.png" group-title="United States" tvg-id="NHLSTL" tvc-guide-stationid="100210",St. Louis Blues: NHL Center Ice
 http://example.local/USA-NHLSTL.ts
+#EXTINF:-1 tvg-chno="136862" tvg-name="St. Louis Cardinals" tvg-logo="https://emby.tmsimg.com/assets/s136862_ll_h15_ab.png" group-title="United States" tvg-id="CARD" tvc-guide-stationid="136862",St. Louis Cardinals
+http://example.local/USA-CARD.ts
 #EXTINF:-1 tvg-chno="102255" tvg-name="St. Louis Cardinals: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbstl.png" group-title="United States" tvg-id="MLBSTL" tvc-guide-stationid="102255",St. Louis Cardinals: MLB Extra Innings
 http://example.local/USA-MLBSTL.ts
 #EXTINF:-1 tvg-chno="107081" tvg-name="St. Tammany Parish Education Television" group-title="United States" tvg-id="STPSB" tvc-guide-stationid="107081",St. Tammany Parish Education Television
@@ -999,23 +1019,3 @@ http://example.local/GRD-STARSER.ts
 http://example.local/GRD-STARSO.ts
 #EXTINF:-1 tvg-chno="60542" tvg-name="Star Series" tvg-logo="https://emby.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Grenada" tvg-id="STARSHD" tvc-guide-stationid="60542",Star Series
 http://example.local/GRD-STARSHD.ts
-#EXTINF:-1 tvg-chno="18812" tvg-name="Star Series" tvg-logo="https://emby.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Antigua and Barbuda" tvg-id="STARSER" tvc-guide-stationid="18812",Star Series
-http://example.local/ATG-STARSER.ts
-#EXTINF:-1 tvg-chno="17960" tvg-name="Star Series" tvg-logo="https://emby.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Antigua and Barbuda" tvg-id="STARSO" tvc-guide-stationid="17960",Star Series
-http://example.local/ATG-STARSO.ts
-#EXTINF:-1 tvg-chno="60542" tvg-name="Star Series" tvg-logo="https://emby.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Antigua and Barbuda" tvg-id="STARSHD" tvc-guide-stationid="60542",Star Series
-http://example.local/ATG-STARSHD.ts
-#EXTINF:-1 tvg-chno="18401" tvg-name="Star Series" tvg-logo="https://emby.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="St. Lucia" tvg-id="STARSEE" tvc-guide-stationid="18401",Star Series
-http://example.local/LCA-STARSEE.ts
-#EXTINF:-1 tvg-chno="18812" tvg-name="Star Series" tvg-logo="https://emby.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="St. Lucia" tvg-id="STARSER" tvc-guide-stationid="18812",Star Series
-http://example.local/LCA-STARSER.ts
-#EXTINF:-1 tvg-chno="17960" tvg-name="Star Series" tvg-logo="https://emby.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="St. Lucia" tvg-id="STARSO" tvc-guide-stationid="17960",Star Series
-http://example.local/LCA-STARSO.ts
-#EXTINF:-1 tvg-chno="60542" tvg-name="Star Series" tvg-logo="https://emby.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="St. Lucia" tvg-id="STARSHD" tvc-guide-stationid="60542",Star Series
-http://example.local/LCA-STARSHD.ts
-#EXTINF:-1 tvg-chno="64369" tvg-name="Star Series" tvg-logo="https://emby.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Curacao" tvg-id="STRSEHD" tvc-guide-stationid="64369",Star Series
-http://example.local/CUW-STRSEHD.ts
-#EXTINF:-1 tvg-chno="18401" tvg-name="Star Series" tvg-logo="https://emby.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Curacao" tvg-id="STARSEE" tvc-guide-stationid="18401",Star Series
-http://example.local/CUW-STARSEE.ts
-#EXTINF:-1 tvg-chno="17959" tvg-name="Star Series" tvg-logo="https://emby.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Curacao" tvg-id="STARSOE" tvc-guide-stationid="17959",Star Series
-http://example.local/CUW-STARSOE.ts

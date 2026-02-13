@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="70986" tvg-name="Shaw PPV Movie 08" tvg-logo="https://emby.tmsimg.com/assets/s70986_ll_h15_aa.png" group-title="Canada" tvg-id="PPVM08" tvc-guide-stationid="70986",Shaw PPV Movie 08
+http://example.local/CAN-PPVM08.ts
+#EXTINF:-1 tvg-chno="70987" tvg-name="Shaw PPV Movie 09" tvg-logo="https://emby.tmsimg.com/assets/s70987_ll_h15_aa.png" group-title="Canada" tvg-id="PPVM09" tvc-guide-stationid="70987",Shaw PPV Movie 09
+http://example.local/CAN-PPVM09.ts
+#EXTINF:-1 tvg-chno="71210" tvg-name="Shaw PPV NHL 01A" tvg-logo="https://emby.tmsimg.com/assets/s71210_ll_h15_aa.png" group-title="Canada" tvg-id="PVNHL1A" tvc-guide-stationid="71210",Shaw PPV NHL 01A
+http://example.local/CAN-PVNHL1A.ts
+#EXTINF:-1 tvg-chno="71213" tvg-name="Shaw PPV NHL 01C" tvg-logo="https://emby.tmsimg.com/assets/s71213_ll_h15_aa.png" group-title="Canada" tvg-id="PVNHL1C" tvc-guide-stationid="71213",Shaw PPV NHL 01C
+http://example.local/CAN-PVNHL1C.ts
+#EXTINF:-1 tvg-chno="100130" tvg-name="Shaw PPV NHL 01C HD" tvg-logo="https://emby.tmsimg.com/assets/s100130_ll_h15_aa.png" group-title="Canada" tvg-id="PVNL1CH" tvc-guide-stationid="100130",Shaw PPV NHL 01C HD
+http://example.local/CAN-PVNL1CH.ts
+#EXTINF:-1 tvg-chno="73347" tvg-name="Shaw PPV NHL 01D" tvg-logo="https://emby.tmsimg.com/assets/s73347_ll_h15_aa.png" group-title="Canada" tvg-id="PVNHL1D" tvc-guide-stationid="73347",Shaw PPV NHL 01D
+http://example.local/CAN-PVNHL1D.ts
+#EXTINF:-1 tvg-chno="71212" tvg-name="Shaw PPV NHL 03A" tvg-logo="https://emby.tmsimg.com/assets/s71212_ll_h15_aa.png" group-title="Canada" tvg-id="PVNHL3A" tvc-guide-stationid="71212",Shaw PPV NHL 03A
+http://example.local/CAN-PVNHL3A.ts
+#EXTINF:-1 tvg-chno="73346" tvg-name="Shaw PPV NHL 03D" tvg-logo="https://emby.tmsimg.com/assets/s73346_ll_h15_aa.png" group-title="Canada" tvg-id="PVNHL3D" tvc-guide-stationid="73346",Shaw PPV NHL 03D
+http://example.local/CAN-PVNHL3D.ts
+#EXTINF:-1 tvg-chno="71214" tvg-name="Shaw PPV Sport 01A" tvg-logo="https://emby.tmsimg.com/assets/s71214_ll_h15_aa.png" group-title="Canada" tvg-id="PPVS01A" tvc-guide-stationid="71214",Shaw PPV Sport 01A
+http://example.local/CAN-PPVS01A.ts
 #EXTINF:-1 tvg-chno="70980" tvg-name="Shaw PPV Sport 01B" tvg-logo="https://emby.tmsimg.com/assets/s70980_ll_h15_aa.png" group-title="Canada" tvg-id="PPVS01B" tvc-guide-stationid="70980",Shaw PPV Sport 01B
 http://example.local/CAN-PPVS01B.ts
 #EXTINF:-1 tvg-chno="71215" tvg-name="Shaw PPV Sport 01C" tvg-logo="https://emby.tmsimg.com/assets/s71215_ll_h15_aa.png" group-title="Canada" tvg-id="PPVS01C" tvc-guide-stationid="71215",Shaw PPV Sport 01C
@@ -1001,21 +1019,3 @@ http://example.local/GBR-SKYMIX.ts
 http://example.local/IRL-SKYMIX.ts
 #EXTINF:-1 tvg-chno="48021" tvg-name="Sky Mix" tvg-logo="https://emby.tmsimg.com/assets/s48021_ll_h15_ac.png" group-title="Switzerland" tvg-id="SKYMIX" tvc-guide-stationid="48021",Sky Mix
 http://example.local/CHE-SKYMIX.ts
-#EXTINF:-1 tvg-chno="66716" tvg-name="Sky Mix +1" tvg-logo="https://emby.tmsimg.com/assets/s66716_ll_h15_ac.png" group-title="Netherlands" tvg-id="SMIXP1" tvc-guide-stationid="66716",Sky Mix +1
-http://example.local/NLD-SMIXP1.ts
-#EXTINF:-1 tvg-chno="66716" tvg-name="Sky Mix +1" tvg-logo="https://emby.tmsimg.com/assets/s66716_ll_h15_ac.png" group-title="United Kingdom" tvg-id="SMIXP1" tvc-guide-stationid="66716",Sky Mix +1
-http://example.local/GBR-SMIXP1.ts
-#EXTINF:-1 tvg-chno="117151" tvg-name="Sky Mix HD" tvg-logo="https://emby.tmsimg.com/assets/s117151_ll_h15_ab.png" group-title="United Kingdom" tvg-id="SMIXH" tvc-guide-stationid="117151",Sky Mix HD
-http://example.local/GBR-SMIXH.ts
-#EXTINF:-1 tvg-chno="117151" tvg-name="Sky Mix HD" tvg-logo="https://emby.tmsimg.com/assets/s117151_ll_h15_ab.png" group-title="Ireland" tvg-id="SMIXH" tvc-guide-stationid="117151",Sky Mix HD
-http://example.local/IRL-SMIXH.ts
-#EXTINF:-1 tvg-chno="114269" tvg-name="Sky Nature" tvg-logo="https://emby.tmsimg.com/assets/s114269_ll_h15_ab.png" group-title="United Kingdom" tvg-id="SKYNTSD" tvc-guide-stationid="114269",Sky Nature
-http://example.local/GBR-SKYNTSD.ts
-#EXTINF:-1 tvg-chno="114272" tvg-name="Sky Nature" tvg-logo="https://emby.tmsimg.com/assets/s114272_ll_h15_aa.png" group-title="United Kingdom" tvg-id="SKNSDVM" tvc-guide-stationid="114272",Sky Nature
-http://example.local/GBR-SKNSDVM.ts
-#EXTINF:-1 tvg-chno="114269" tvg-name="Sky Nature" tvg-logo="https://emby.tmsimg.com/assets/s114269_ll_h15_ab.png" group-title="Ireland" tvg-id="SKYNTSD" tvc-guide-stationid="114269",Sky Nature
-http://example.local/IRL-SKYNTSD.ts
-#EXTINF:-1 tvg-chno="114272" tvg-name="Sky Nature" tvg-logo="https://emby.tmsimg.com/assets/s114272_ll_h15_aa.png" group-title="Ireland" tvg-id="SKNSDVM" tvc-guide-stationid="114272",Sky Nature
-http://example.local/IRL-SKNSDVM.ts
-#EXTINF:-1 tvg-chno="119982" tvg-name="Sky Nature HD" tvg-logo="https://emby.tmsimg.com/assets/s119982_ll_h15_aa.png" group-title="Germany" tvg-id="SKYNADE" tvc-guide-stationid="119982",Sky Nature HD
-http://example.local/DEU-SKYNADE.ts

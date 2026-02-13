@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="119054" tvg-name="FilmRise True Crime" group-title="United States" tvg-id="VIZFRTC" tvc-guide-stationid="119054",FilmRise True Crime
+http://example.local/USA-VIZFRTC.ts
+#EXTINF:-1 tvg-chno="144777" tvg-name="FilmRise True Crime" tvg-logo="https://emby.tmsimg.com/assets/s144777_ll_h15_aa.png" group-title="United States" tvg-id="XMVCTC" tvc-guide-stationid="144777",FilmRise True Crime
+http://example.local/USA-XMVCTC.ts
+#EXTINF:-1 tvg-chno="137074" tvg-name="FilmRise True Crime" tvg-logo="https://emby.tmsimg.com/assets/s128387_ll_h15_aa.png" group-title="United States" tvg-id="XPLFRTC" tvc-guide-stationid="137074",FilmRise True Crime
+http://example.local/USA-XPLFRTC.ts
+#EXTINF:-1 tvg-chno="156237" tvg-name="FilmRise True Crime" tvg-logo="https://emby.tmsimg.com/assets/s156237_ll_h9_aa.png" group-title="United States" tvg-id="XPLDETC" tvc-guide-stationid="156237",FilmRise True Crime
+http://example.local/USA-XPLDETC.ts
 #EXTINF:-1 tvg-chno="203111" tvg-name="FilmRise True Crime" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002NZ3ZW.png" group-title="United Kingdom" tvg-id="XMVTCUK" tvc-guide-stationid="203111",FilmRise True Crime
 http://example.local/GBR-XMVTCUK.ts
 #EXTINF:-1 tvg-chno="124405" tvg-name="FilmRise Western" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002JEEBS.png" group-title="United States" tvg-id="XMVFW" tvc-guide-stationid="124405",FilmRise Western
@@ -1011,11 +1019,3 @@ http://example.local/URY-FNC.ts
 http://example.local/BHS-FNC.ts
 #EXTINF:-1 tvg-chno="29957" tvg-name="Fox News Channel" tvg-logo="https://emby.tmsimg.com/assets/s29957_ll_h15_aa.png" group-title="Switzerland" tvg-id="FXNUK" tvc-guide-stationid="29957",Fox News Channel
 http://example.local/CHE-FXNUK.ts
-#EXTINF:-1 tvg-chno="16374" tvg-name="Fox News Channel" tvg-logo="https://emby.tmsimg.com/assets/s16374_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="FNC" tvc-guide-stationid="16374",Fox News Channel
-http://example.local/CYM-FNC.ts
-#EXTINF:-1 tvg-chno="16374" tvg-name="Fox News Channel" tvg-logo="https://emby.tmsimg.com/assets/s16374_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="FNC" tvc-guide-stationid="16374",Fox News Channel
-http://example.local/TTO-FNC.ts
-#EXTINF:-1 tvg-chno="16374" tvg-name="Fox News Channel" tvg-logo="https://emby.tmsimg.com/assets/s16374_ll_h15_ab.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="FNC" tvc-guide-stationid="16374",Fox News Channel
-http://example.local/BES-FNC.ts
-#EXTINF:-1 tvg-chno="16374" tvg-name="Fox News Channel" tvg-logo="https://emby.tmsimg.com/assets/s16374_ll_h15_ab.png" group-title="Belize" tvg-id="FNC" tvc-guide-stationid="16374",Fox News Channel
-http://example.local/BLZ-FNC.ts

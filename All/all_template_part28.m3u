@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://emby.tmsimg.com/assets/s10183_ll_h15_ab.png" group-title="Bahamas" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
+http://example.local/BHS-EWTN.ts
+#EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://emby.tmsimg.com/assets/s10183_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
+http://example.local/CYM-EWTN.ts
+#EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://emby.tmsimg.com/assets/s10183_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
+http://example.local/TTO-EWTN.ts
+#EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://emby.tmsimg.com/assets/s10183_ll_h15_ab.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
+http://example.local/BES-EWTN.ts
 #EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://emby.tmsimg.com/assets/s10183_ll_h15_ab.png" group-title="Belize" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
 http://example.local/BLZ-EWTN.ts
 #EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://emby.tmsimg.com/assets/s10183_ll_h15_ab.png" group-title="Barbados" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
@@ -1011,11 +1019,3 @@ http://example.local/USA-EVNDM.ts
 http://example.local/FIN-EVEO.ts
 #EXTINF:-1 tvg-chno="203349" tvg-name="Eveo HD" group-title="Finland" tvg-id="EVEOHD" tvc-guide-stationid="203349",Eveo HD
 http://example.local/FIN-EVEOHD.ts
-#EXTINF:-1 tvg-chno="130095" tvg-name="Everyday Refresh" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0028BMC9.png" group-title="United States" tvg-id="EDRFS" tvc-guide-stationid="130095",Everyday Refresh
-http://example.local/USA-EDRFS.ts
-#EXTINF:-1 tvg-chno="149686" tvg-name="Evidence of Evil" tvg-logo="https://emby.tmsimg.com/assets/s149686_ll_h15_aa.png" group-title="United Kingdom" tvg-id="EEVIL" tvc-guide-stationid="149686",Evidence of Evil
-http://example.local/GBR-EEVIL.ts
-#EXTINF:-1 tvg-chno="115686" tvg-name="Evil Angel" tvg-logo="https://emby.tmsimg.com/assets/s115686_ll_h15_aa.png" group-title="Netherlands" tvg-id="EVILAN" tvc-guide-stationid="115686",Evil Angel
-http://example.local/NLD-EVILAN.ts
-#EXTINF:-1 tvg-chno="188835" tvg-name="Evolution Earth" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0025DCNS.png" group-title="United Kingdom" tvg-id="EVEARTH" tvc-guide-stationid="188835",Evolution Earth
-http://example.local/GBR-EVEARTH.ts

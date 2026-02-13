@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="190452" tvg-name="PPV en Espanol" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002HWSXZ.png" group-title="United States" tvg-id="CXSPV" tvc-guide-stationid="190452",PPV en Espanol
+http://example.local/USA-CXSPV.ts
+#EXTINF:-1 tvg-chno="12504" tvg-name="PPV en Español" tvg-logo="https://emby.tmsimg.com/assets/s12504_h3_aa.png" group-title="United States" tvg-id="PPVE" tvc-guide-stationid="12504",PPV en Español
+http://example.local/USA-PPVE.ts
+#EXTINF:-1 tvg-chno="98089" tvg-name="PPV en Español No Preshow" group-title="United States" tvg-id="PPVENP" tvc-guide-stationid="98089",PPV en Español No Preshow
+http://example.local/USA-PPVENP.ts
+#EXTINF:-1 tvg-chno="63169" tvg-name="PPV Free Previews HD On Demand" group-title="United States" tvg-id="PFRHDDM" tvc-guide-stationid="63169",PPV Free Previews HD On Demand
+http://example.local/USA-PFRHDDM.ts
+#EXTINF:-1 tvg-chno="40742" tvg-name="PPV OCEANIC IN DEMAND 01" group-title="United States" tvg-id="PPVIN01" tvc-guide-stationid="40742",PPV OCEANIC IN DEMAND 01
+http://example.local/USA-PPVIN01.ts
+#EXTINF:-1 tvg-chno="65065" tvg-name="PPV OCEANIC IN DEMAND 02" group-title="United States" tvg-id="PPVIN02" tvc-guide-stationid="65065",PPV OCEANIC IN DEMAND 02
+http://example.local/USA-PPVIN02.ts
+#EXTINF:-1 tvg-chno="65067" tvg-name="PPV OCEANIC IN DEMAND 03" group-title="United States" tvg-id="PPVIN3" tvc-guide-stationid="65067",PPV OCEANIC IN DEMAND 03
+http://example.local/USA-PPVIN3.ts
+#EXTINF:-1 tvg-chno="121091" tvg-name="PPV Overflow" tvg-logo="https://emby.tmsimg.com/assets/s27965_h3_aa.png" group-title="United States" tvg-id="CXPPV2" tvc-guide-stationid="121091",PPV Overflow
+http://example.local/USA-CXPPV2.ts
 #EXTINF:-1 tvg-chno="121092" tvg-name="PPV Overflow PV" tvg-logo="https://emby.tmsimg.com/assets/s27966_h3_aa.png" group-title="United States" tvg-id="HD2PV" tvc-guide-stationid="121092",PPV Overflow PV
 http://example.local/USA-HD2PV.ts
 #EXTINF:-1 tvg-chno="80743" tvg-name="PPV259 (Lineups)" group-title="United States" tvg-id="PPV259" tvc-guide-stationid="80743",PPV259 (Lineups)
@@ -1003,19 +1019,3 @@ http://example.local/USA-RPPA1.ts
 http://example.local/USA-WROI.ts
 #EXTINF:-1 tvg-chno="138947" tvg-name="Romance Channel" tvg-logo="https://emby.tmsimg.com/assets/s138947_ll_h15_aa.png" group-title="United States" tvg-id="RCL" tvc-guide-stationid="138947",Romance Channel
 http://example.local/USA-RCL.ts
-#EXTINF:-1 tvg-chno="83638" tvg-name="Romance TV HD" tvg-logo="https://emby.tmsimg.com/assets/s83638_ll_h9_ac.png" group-title="United States" tvg-id="ROMTVHD" tvc-guide-stationid="83638",Romance TV HD
-http://example.local/USA-ROMTVHD.ts
-#EXTINF:-1 tvg-chno="132163" tvg-name="Romance: Fall in Love" group-title="United States" tvg-id="VZROME" tvc-guide-stationid="132163",Romance: Fall in Love
-http://example.local/USA-VZROME.ts
-#EXTINF:-1 tvg-chno="47850" tvg-name="Rome (Static)" group-title="United States" tvg-id="ROME" tvc-guide-stationid="47850",Rome (Static)
-http://example.local/USA-ROME.ts
-#EXTINF:-1 tvg-chno="11062" tvg-name="ROOT Sports Northwest" tvg-logo="https://emby.tmsimg.com/assets/s11062_ll_h15_aa.png" group-title="United States" tvg-id="RTNW" tvc-guide-stationid="11062",ROOT Sports Northwest
-http://example.local/USA-RTNW.ts
-#EXTINF:-1 tvg-chno="16109" tvg-name="ROOT Sports Northwest (Alt.) - FSN3" tvg-logo="https://emby.tmsimg.com/assets/s11062_ll_h15_aa.png" group-title="United States" tvg-id="RTN3" tvc-guide-stationid="16109",ROOT Sports Northwest (Alt.) - FSN3
-http://example.local/USA-RTN3.ts
-#EXTINF:-1 tvg-chno="16110" tvg-name="ROOT Sports Northwest (Alt.) - RTN4" tvg-logo="https://emby.tmsimg.com/assets/s11062_ll_h15_aa.png" group-title="United States" tvg-id="RTN4" tvc-guide-stationid="16110",ROOT Sports Northwest (Alt.) - RTN4
-http://example.local/USA-RTN4.ts
-#EXTINF:-1 tvg-chno="16869" tvg-name="ROOT Sports Northwest (Alt.) - RTN5" tvg-logo="https://emby.tmsimg.com/assets/s11062_ll_h15_aa.png" group-title="United States" tvg-id="RTN5" tvc-guide-stationid="16869",ROOT Sports Northwest (Alt.) - RTN5
-http://example.local/USA-RTN5.ts
-#EXTINF:-1 tvg-chno="95929" tvg-name="ROOT Sports Northwest (Alt.) HD" tvg-logo="https://emby.tmsimg.com/assets/s11062_ll_h15_aa.png" group-title="United States" tvg-id="RTN5HD" tvc-guide-stationid="95929",ROOT Sports Northwest (Alt.) HD
-http://example.local/USA-RTN5HD.ts

@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="79403" tvg-name="TVB Drama" group-title="United States" tvg-id="TVBDRA" tvc-guide-stationid="79403",TVB Drama
+http://example.local/USA-TVBDRA.ts
+#EXTINF:-1 tvg-chno="32145" tvg-name="TVB Drama" group-title="United States" tvg-id="TVBDC" tvc-guide-stationid="32145",TVB Drama
+http://example.local/USA-TVBDC.ts
+#EXTINF:-1 tvg-chno="90306" tvg-name="TVB HD" group-title="United States" tvg-id="TVBHD" tvc-guide-stationid="90306",TVB HD
+http://example.local/USA-TVBHD.ts
+#EXTINF:-1 tvg-chno="32147" tvg-name="TVB News" group-title="United States" tvg-id="TVBNW" tvc-guide-stationid="32147",TVB News
+http://example.local/USA-TVBNW.ts
+#EXTINF:-1 tvg-chno="122127" tvg-name="TVB NEWS" group-title="United States" tvg-id="TVBNWH" tvc-guide-stationid="122127",TVB NEWS
+http://example.local/USA-TVBNWH.ts
+#EXTINF:-1 tvg-chno="79390" tvg-name="TVB Pearl (US)" group-title="United States" tvg-id="PEARL" tvc-guide-stationid="79390",TVB Pearl (US)
+http://example.local/USA-PEARL.ts
+#EXTINF:-1 tvg-chno="161669" tvg-name="TVB Pearl Drama" tvg-logo="https://emby.tmsimg.com/assets/s161669_ll_h15_aa.png" group-title="United States" tvg-id="TVBPD" tvc-guide-stationid="161669",TVB Pearl Drama
+http://example.local/USA-TVBPD.ts
+#EXTINF:-1 tvg-chno="53070" tvg-name="TVB Viet Nam" group-title="United States" tvg-id="TVBV" tvc-guide-stationid="53070",TVB Viet Nam
+http://example.local/USA-TVBV.ts
+#EXTINF:-1 tvg-chno="16333" tvg-name="TVB1" group-title="United States" tvg-id="TVB1" tvc-guide-stationid="16333",TVB1
+http://example.local/USA-TVB1.ts
+#EXTINF:-1 tvg-chno="122128" tvg-name="TVB1" group-title="United States" tvg-id="TVB1H" tvc-guide-stationid="122128",TVB1
+http://example.local/USA-TVB1H.ts
+#EXTINF:-1 tvg-chno="32148" tvg-name="TVB8" tvg-logo="https://emby.tmsimg.com/assets/s32148_ll_h15_aa.png" group-title="United States" tvg-id="TVB8" tvc-guide-stationid="32148",TVB8
+http://example.local/USA-TVB8.ts
 #EXTINF:-1 tvg-chno="21187" tvg-name="TVBE" group-title="United States" tvg-id="TVBE" tvc-guide-stationid="21187",TVBE
 http://example.local/USA-TVBE.ts
 #EXTINF:-1 tvg-chno="122129" tvg-name="TVBE" group-title="United States" tvg-id="TVBEH" tvc-guide-stationid="122129",TVBE
@@ -997,25 +1019,3 @@ http://example.local/USA-VICEPHD.ts
 http://example.local/USA-VICEF2.ts
 #EXTINF:-1 tvg-chno="92255" tvg-name="Vice Stream" tvg-logo="https://emby.tmsimg.com/assets/s92255_ll_h15_aa.png" group-title="United States" tvg-id="VICESTR" tvc-guide-stationid="92255",Vice Stream
 http://example.local/USA-VICESTR.ts
-#EXTINF:-1 tvg-chno="98893" tvg-name="Viceland Static" group-title="United States" tvg-id="STVICE" tvc-guide-stationid="98893",Viceland Static
-http://example.local/USA-STVICE.ts
-#EXTINF:-1 tvg-chno="93024" tvg-name="Victory Channel" tvg-logo="https://emby.tmsimg.com/assets/s93024_ll_h15_ad.png" group-title="United States" tvg-id="VICTORY" tvc-guide-stationid="93024",Victory Channel
-http://example.local/USA-VICTORY.ts
-#EXTINF:-1 tvg-chno="122327" tvg-name="Victory Channel" tvg-logo="https://emby.tmsimg.com/assets/s122327_ll_h15_aa.png" group-title="United States" tvg-id="VICTSD" tvc-guide-stationid="122327",Victory Channel
-http://example.local/USA-VICTSD.ts
-#EXTINF:-1 tvg-chno="32046" tvg-name="Video On Demand" group-title="United States" tvg-id="VODDM" tvc-guide-stationid="32046",Video On Demand
-http://example.local/USA-VODDM.ts
-#EXTINF:-1 tvg-chno="96040" tvg-name="Video On Demand" group-title="United States" tvg-id="VDM" tvc-guide-stationid="96040",Video On Demand
-http://example.local/USA-VDM.ts
-#EXTINF:-1 tvg-chno="27858" tvg-name="Video On Demand" group-title="United States" tvg-id="VIDEODM" tvc-guide-stationid="27858",Video On Demand
-http://example.local/USA-VIDEODM.ts
-#EXTINF:-1 tvg-chno="110378" tvg-name="Video On Demand HD" group-title="United States" tvg-id="VODDMHD" tvc-guide-stationid="110378",Video On Demand HD
-http://example.local/USA-VODDMHD.ts
-#EXTINF:-1 tvg-chno="25615" tvg-name="Video Rola" tvg-logo="https://emby.tmsimg.com/assets/s25615_ll_h15_ad.png" group-title="United States" tvg-id="VROLA" tvc-guide-stationid="25615",Video Rola
-http://example.local/USA-VROLA.ts
-#EXTINF:-1 tvg-chno="88813" tvg-name="Video Rola HD" tvg-logo="https://emby.tmsimg.com/assets/s25615_ll_h15_ad.png" group-title="United States" tvg-id="VROLAHD" tvc-guide-stationid="88813",Video Rola HD
-http://example.local/USA-VROLAHD.ts
-#EXTINF:-1 tvg-chno="71661" tvg-name="Vien Thao TV" group-title="United States" tvg-id="VIENTTV" tvc-guide-stationid="71661",Vien Thao TV
-http://example.local/USA-VIENTTV.ts
-#EXTINF:-1 tvg-chno="52208" tvg-name="ViendoMovies" tvg-logo="https://emby.tmsimg.com/assets/s52208_ll_h15_aa.png" group-title="United States" tvg-id="VMOV" tvc-guide-stationid="52208",ViendoMovies
-http://example.local/USA-VMOV.ts

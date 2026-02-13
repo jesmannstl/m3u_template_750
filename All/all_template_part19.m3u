@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="67610" tvg-name="Concert Channel" tvg-logo="https://emby.tmsimg.com/assets/s72020_ll_h15_aa.png" group-title="Ecuador" tvg-id="CNCRTHD" tvc-guide-stationid="67610",Concert Channel
+http://example.local/ECU-CNCRTHD.ts
+#EXTINF:-1 tvg-chno="72020" tvg-name="Concert Channel" tvg-logo="https://emby.tmsimg.com/assets/s72020_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="CNCRT" tvc-guide-stationid="72020",Concert Channel
+http://example.local/DOM-CNCRT.ts
+#EXTINF:-1 tvg-chno="67610" tvg-name="Concert Channel" tvg-logo="https://emby.tmsimg.com/assets/s72020_ll_h15_aa.png" group-title="Uruguay" tvg-id="CNCRTHD" tvc-guide-stationid="67610",Concert Channel
+http://example.local/URY-CNCRTHD.ts
 #EXTINF:-1 tvg-chno="67610" tvg-name="Concert Channel" tvg-logo="https://emby.tmsimg.com/assets/s72020_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="CNCRTHD" tvc-guide-stationid="67610",Concert Channel
 http://example.local/TTO-CNCRTHD.ts
 #EXTINF:-1 tvg-chno="67610" tvg-name="Concert Channel" tvg-logo="https://emby.tmsimg.com/assets/s72020_ll_h15_aa.png" group-title="Panama" tvg-id="CNCRTHD" tvc-guide-stationid="67610",Concert Channel
@@ -1013,9 +1019,3 @@ http://example.local/BHS-CFTO.ts
 http://example.local/CAN-CFTODT.ts
 #EXTINF:-1 tvg-chno="44784" tvg-name="CTV Toronto HD (CTV)" tvg-logo="https://logos.jesmann.com/cftodt.png" group-title="United States" tvg-id="CFTODT" tvc-guide-stationid="44784",CTV Toronto HD (CTV)
 http://example.local/USA-CFTODT.ts
-#EXTINF:-1 tvg-chno="12892" tvg-name="CTV Two - Atlantic (CTV2)" tvg-logo="https://logos.jesmann.com/asn.png" group-title="Canada" tvg-id="ASN" tvc-guide-stationid="12892",CTV Two - Atlantic (CTV2)
-http://example.local/CAN-ASN.ts
-#EXTINF:-1 tvg-chno="89746" tvg-name="CTV Two - Atlantic HD (CTV2)" tvg-logo="https://logos.jesmann.com/asnhd.png" group-title="Canada" tvg-id="ASNHD" tvc-guide-stationid="89746",CTV Two - Atlantic HD (CTV2)
-http://example.local/CAN-ASNHD.ts
-#EXTINF:-1 tvg-chno="89746" tvg-name="CTV Two - Atlantic HD (CTV2)" tvg-logo="https://logos.jesmann.com/asnhd.png" group-title="United States" tvg-id="ASNHD" tvc-guide-stationid="89746",CTV Two - Atlantic HD (CTV2)
-http://example.local/USA-ASNHD.ts

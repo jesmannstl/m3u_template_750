@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="114652" tvg-name="Bloomberg TV" tvg-logo="https://emby.tmsimg.com/assets/s114652_h3_aa.png" group-title="United States" tvg-id="PTVBLTV" tvc-guide-stationid="114652",Bloomberg TV
+http://example.local/USA-PTVBLTV.ts
 #EXTINF:-1 tvg-chno="84530" tvg-name="Bloomberg TV" tvg-logo="https://emby.tmsimg.com/assets/s14755_ll_h15_ab.png" group-title="United States" tvg-id="DBLMIS" tvc-guide-stationid="84530",Bloomberg TV
 http://example.local/USA-DBLMIS.ts
 #EXTINF:-1 tvg-chno="146958" tvg-name="Bloomberg TV+" tvg-logo="https://emby.tmsimg.com/assets/s14755_ll_h15_ab.png" group-title="United States" tvg-id="BLPLUK" tvc-guide-stationid="146958",Bloomberg TV+
@@ -631,6 +633,8 @@ http://example.local/USA-CBNNEWS.ts
 http://example.local/USA-CBOCH.ts
 #EXTINF:-1 tvg-chno="52235" tvg-name="CBOFT-DT (SRC)" tvg-logo="https://emby.tmsimg.com/assets/s52235_ll_h15_ab.png" group-title="United States" tvg-id="CBOFTDT" tvc-guide-stationid="52235",CBOFT-DT (SRC)
 http://example.local/USA-CBOFTDT.ts
+#EXTINF:-1 tvg-chno="152581" tvg-name="CBS 4K (CBS)" tvg-logo="https://emby.tmsimg.com/assets/s152581_ll_h15_aa.png" group-title="United States" tvg-id="CBS4K" tvc-guide-stationid="152581",CBS 4K (CBS)
+http://example.local/USA-CBS4K.ts
 #EXTINF:-1 tvg-chno="159991" tvg-name="CBS Atlanta (Atlanta News First)" group-title="United States" tvg-id="CBSATL" tvc-guide-stationid="159991",CBS Atlanta (Atlanta News First)
 http://example.local/USA-CBSATL.ts
 #EXTINF:-1 tvg-chno="160093" tvg-name="CBS Kansas City (KCTV5)" group-title="United States" tvg-id="CBSKCTV" tvc-guide-stationid="160093",CBS Kansas City (KCTV5)
@@ -1015,7 +1019,3 @@ http://example.local/USA-CHEXDT.ts
 http://example.local/USA-NHLCHG.ts
 #EXTINF:-1 tvg-chno="104886" tvg-name="Chicago Bulls: NBA League Pass" tvg-logo="https://logos.jesmann.com/nbachi.png" group-title="United States" tvg-id="NBACHI" tvc-guide-stationid="104886",Chicago Bulls: NBA League Pass
 http://example.local/USA-NBACHI.ts
-#EXTINF:-1 tvg-chno="92684" tvg-name="Chicago Community Bulletin Board" group-title="United States" tvg-id="CAN5" tvc-guide-stationid="92684",Chicago Community Bulletin Board
-http://example.local/USA-CAN5.ts
-#EXTINF:-1 tvg-chno="102278" tvg-name="Chicago Cubs: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbchc.png" group-title="United States" tvg-id="MLBCHC" tvc-guide-stationid="102278",Chicago Cubs: MLB Extra Innings
-http://example.local/USA-MLBCHC.ts

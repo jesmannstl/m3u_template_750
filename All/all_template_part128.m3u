@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="69701" tvg-name="XEWT-TDT" tvg-logo="https://emby.tmsimg.com/assets/s12028_ll_h15_aa.png" group-title="Mexico" tvg-id="XEWTTDT" tvc-guide-stationid="69701",XEWT-TDT
+http://example.local/MEX-XEWTTDT.ts
+#EXTINF:-1 tvg-chno="69701" tvg-name="XEWT-TDT" tvg-logo="https://emby.tmsimg.com/assets/s12028_ll_h15_aa.png" group-title="United States" tvg-id="XEWTTDT" tvc-guide-stationid="69701",XEWT-TDT
+http://example.local/USA-XEWTTDT.ts
+#EXTINF:-1 tvg-chno="91864" tvg-name="XEX-TDT (C5NET)" tvg-logo="https://emby.tmsimg.com/assets/s116152_ll_h15_aa.png" group-title="Mexico" tvg-id="XEXTDT" tvc-guide-stationid="91864",XEX-TDT (C5NET)
+http://example.local/MEX-XEXTDT.ts
+#EXTINF:-1 tvg-chno="91660" tvg-name="XEZ-TDT (ESTRNET)" tvg-logo="https://emby.tmsimg.com/assets/s116151_ll_h15_ac.png" group-title="Mexico" tvg-id="XEZTDT" tvc-guide-stationid="91660",XEZ-TDT (ESTRNET)
+http://example.local/MEX-XEZTDT.ts
+#EXTINF:-1 tvg-chno="117041" tvg-name="Xfinity Black Experience" group-title="United States" tvg-id="XBEX" tvc-guide-stationid="117041",Xfinity Black Experience
+http://example.local/USA-XBEX.ts
+#EXTINF:-1 tvg-chno="92637" tvg-name="XFINITY Latino" tvg-logo="https://emby.tmsimg.com/assets/s92637_ll_h15_aa.png" group-title="United States" tvg-id="XFLT" tvc-guide-stationid="92637",XFINITY Latino
+http://example.local/USA-XFLT.ts
+#EXTINF:-1 tvg-chno="74348" tvg-name="XFINITY On Demand" group-title="United States" tvg-id="XDM" tvc-guide-stationid="74348",XFINITY On Demand
+http://example.local/USA-XDM.ts
+#EXTINF:-1 tvg-chno="105141" tvg-name="Xfinity Parental Controls" group-title="United States" tvg-id="XPC" tvc-guide-stationid="105141",Xfinity Parental Controls
+http://example.local/USA-XPC.ts
+#EXTINF:-1 tvg-chno="96764" tvg-name="XHA-TDT (NU9NET)" tvg-logo="https://emby.tmsimg.com/assets/s116171_ll_h15_aa.png" group-title="Mexico" tvg-id="XHATDT" tvc-guide-stationid="96764",XHA-TDT (NU9NET)
+http://example.local/MEX-XHATDT.ts
+#EXTINF:-1 tvg-chno="12408" tvg-name="XHAB Canal 7 Matamoros" tvg-logo="https://emby.tmsimg.com/assets/s26130_ll_h15_aa.png" group-title="United States" tvg-id="XHAB" tvc-guide-stationid="12408",XHAB Canal 7 Matamoros
+http://example.local/USA-XHAB.ts
+#EXTINF:-1 tvg-chno="60578" tvg-name="XHAB-TDT" tvg-logo="https://emby.tmsimg.com/assets/s26130_h3_aa.png" group-title="Mexico" tvg-id="XHABTDT" tvc-guide-stationid="60578",XHAB-TDT
+http://example.local/MEX-XHABTDT.ts
+#EXTINF:-1 tvg-chno="60578" tvg-name="XHAB-TDT" tvg-logo="https://emby.tmsimg.com/assets/s26130_h3_aa.png" group-title="United States" tvg-id="XHABTDT" tvc-guide-stationid="60578",XHAB-TDT
+http://example.local/USA-XHABTDT.ts
 #EXTINF:-1 tvg-chno="109268" tvg-name="XHABC-TDT" group-title="Mexico" tvg-id="XHABCTDT" tvc-guide-stationid="109268",XHABC-TDT
 http://example.local/MEX-XHABCTDT.ts
 #EXTINF:-1 tvg-chno="96595" tvg-name="XHACC-TDT (AZ7NET)" tvg-logo="https://emby.tmsimg.com/assets/s116154_ll_h15_ac.png" group-title="Mexico" tvg-id="XHACCTDT" tvc-guide-stationid="96595",XHACC-TDT (AZ7NET)
@@ -995,27 +1019,3 @@ http://example.local/MEX-XHTVMTDT2.ts
 http://example.local/MEX-XHTZLTDT.ts
 #EXTINF:-1 tvg-chno="68081" tvg-name="XHUAA-TDT (ESTRNET)" tvg-logo="https://emby.tmsimg.com/assets/s116151_ll_h15_ac.png" group-title="Mexico" tvg-id="XHUAATDT" tvc-guide-stationid="68081",XHUAA-TDT (ESTRNET)
 http://example.local/MEX-XHUAATDT.ts
-#EXTINF:-1 tvg-chno="68081" tvg-name="XHUAA-TDT (ESTRNET)" tvg-logo="https://emby.tmsimg.com/assets/s116151_ll_h15_ac.png" group-title="United States" tvg-id="XHUAATDT" tvc-guide-stationid="68081",XHUAA-TDT (ESTRNET)
-http://example.local/USA-XHUAATDT.ts
-#EXTINF:-1 tvg-chno="18021" tvg-name="XHUAA-TV Canal 57 (San Diego/Tijuana) (TVUNET)" tvg-logo="https://emby.tmsimg.com/assets/s116169_ll_h15_aa.png" group-title="United States" tvg-id="XHUAA" tvc-guide-stationid="18021",XHUAA-TV Canal 57 (San Diego/Tijuana) (TVUNET)
-http://example.local/USA-XHUAA.ts
-#EXTINF:-1 tvg-chno="48293" tvg-name="XHUNAM (TVUNET)" tvg-logo="https://emby.tmsimg.com/assets/s116169_ll_h15_aa.png" group-title="Mexico" tvg-id="XHUNAM" tvc-guide-stationid="48293",XHUNAM (TVUNET)
-http://example.local/MEX-XHUNAM.ts
-#EXTINF:-1 tvg-chno="48293" tvg-name="XHUNAM (TVUNET)" tvg-logo="https://emby.tmsimg.com/assets/s116169_ll_h15_aa.png" group-title="Costa Rica" tvg-id="XHUNAM" tvc-guide-stationid="48293",XHUNAM (TVUNET)
-http://example.local/CRI-XHUNAM.ts
-#EXTINF:-1 tvg-chno="48293" tvg-name="XHUNAM (TVUNET)" tvg-logo="https://emby.tmsimg.com/assets/s116169_ll_h15_aa.png" group-title="Guatemala" tvg-id="XHUNAM" tvc-guide-stationid="48293",XHUNAM (TVUNET)
-http://example.local/GTM-XHUNAM.ts
-#EXTINF:-1 tvg-chno="48293" tvg-name="XHUNAM (TVUNET)" tvg-logo="https://emby.tmsimg.com/assets/s116169_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="XHUNAM" tvc-guide-stationid="48293",XHUNAM (TVUNET)
-http://example.local/DOM-XHUNAM.ts
-#EXTINF:-1 tvg-chno="48293" tvg-name="XHUNAM (TVUNET)" tvg-logo="https://emby.tmsimg.com/assets/s116169_ll_h15_aa.png" group-title="Panama" tvg-id="XHUNAM" tvc-guide-stationid="48293",XHUNAM (TVUNET)
-http://example.local/PAN-XHUNAM.ts
-#EXTINF:-1 tvg-chno="91791" tvg-name="XHUNAM-TDT (TVUNET)" tvg-logo="https://emby.tmsimg.com/assets/s116169_ll_h15_aa.png" group-title="Mexico" tvg-id="XHUNAMTDT" tvc-guide-stationid="91791",XHUNAM-TDT (TVUNET)
-http://example.local/MEX-XHUNAMTDT.ts
-#EXTINF:-1 tvg-chno="91702" tvg-name="XHURT-TDT (ESTRNET)" tvg-logo="https://emby.tmsimg.com/assets/s116151_ll_h15_ac.png" group-title="Mexico" tvg-id="XHURTTDT" tvc-guide-stationid="91702",XHURT-TDT (ESTRNET)
-http://example.local/MEX-XHURTTDT.ts
-#EXTINF:-1 tvg-chno="96345" tvg-name="XHUS-TDT" group-title="Mexico" tvg-id="XHUSTDT" tvc-guide-stationid="96345",XHUS-TDT
-http://example.local/MEX-XHUSTDT.ts
-#EXTINF:-1 tvg-chno="36606" tvg-name="XHUT 13 (C5NET)" tvg-logo="https://emby.tmsimg.com/assets/s116152_ll_h15_aa.png" group-title="Mexico" tvg-id="XHUT" tvc-guide-stationid="36606",XHUT 13 (C5NET)
-http://example.local/MEX-XHUT.ts
-#EXTINF:-1 tvg-chno="96774" tvg-name="XHVAD-TDT (AZ7NET)" tvg-logo="https://emby.tmsimg.com/assets/s116154_ll_h15_ac.png" group-title="Mexico" tvg-id="XHVADTDT" tvc-guide-stationid="96774",XHVAD-TDT (AZ7NET)
-http://example.local/MEX-XHVADTDT.ts

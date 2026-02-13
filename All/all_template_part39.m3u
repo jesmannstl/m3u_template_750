@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="14771" tvg-name="History" tvg-logo="https://emby.tmsimg.com/assets/s14771_ll_h15_af.png" group-title="Saint Martin" tvg-id="HISTORY" tvc-guide-stationid="14771",History
+http://example.local/MAF-HISTORY.ts
+#EXTINF:-1 tvg-chno="70669" tvg-name="History" tvg-logo="https://emby.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Saint Martin" tvg-id="HCLMHD" tvc-guide-stationid="70669",History
+http://example.local/MAF-HCLMHD.ts
+#EXTINF:-1 tvg-chno="40137" tvg-name="History" tvg-logo="https://emby.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Guyana" tvg-id="HCLM" tvc-guide-stationid="40137",History
+http://example.local/GUY-HCLM.ts
+#EXTINF:-1 tvg-chno="121825" tvg-name="History & Undiscovered" tvg-logo="https://emby.tmsimg.com/assets/s121825_ll_h15_ab.png" group-title="United States" tvg-id="PPLUSHISUN" tvc-guide-stationid="121825",History & Undiscovered
+http://example.local/USA-PPLUSHISUN.ts
 #EXTINF:-1 tvg-chno="135379" tvg-name="History & Warfare" tvg-logo="https://emby.tmsimg.com/assets/s135379_ll_h15_ac.png" group-title="United States" tvg-id="HWNEST1" tvc-guide-stationid="135379",History & Warfare
 http://example.local/USA-HWNEST1.ts
 #EXTINF:-1 tvg-chno="135379" tvg-name="History & Warfare" tvg-logo="https://emby.tmsimg.com/assets/s135379_ll_h15_ac.png" group-title="United Kingdom" tvg-id="HWNEST1" tvc-guide-stationid="135379",History & Warfare
@@ -1011,11 +1019,3 @@ http://example.local/USA-HSNSTR.ts
 http://example.local/USA-VIZHSN.ts
 #EXTINF:-1 tvg-chno="10270" tvg-name="HSN2" tvg-logo="https://emby.tmsimg.com/assets/s10270_h3_aa.png" group-title="United States" tvg-id="HSN2" tvc-guide-stationid="10270",HSN2
 http://example.local/USA-HSN2.ts
-#EXTINF:-1 tvg-chno="99450" tvg-name="HSN2 HD" tvg-logo="https://emby.tmsimg.com/assets/s99450_ll_h15_ac.png" group-title="United States" tvg-id="HSN2HD" tvc-guide-stationid="99450",HSN2 HD
-http://example.local/USA-HSN2HD.ts
-#EXTINF:-1 tvg-chno="166031" tvg-name="HT SPOR" group-title="Germany" tvg-id="HTSPOR" tvc-guide-stationid="166031",HT SPOR
-http://example.local/DEU-HTSPOR.ts
-#EXTINF:-1 tvg-chno="168744" tvg-name="HT Spor HD" tvg-logo="https://emby.tmsimg.com/assets/s168744_ll_h9_aa.png" group-title="Germany" tvg-id="HTSPOHD" tvc-guide-stationid="168744",HT Spor HD
-http://example.local/DEU-HTSPOHD.ts
-#EXTINF:-1 tvg-chno="113321" tvg-name="HT1 Innviertel" group-title="France" tvg-id="HT1INN" tvc-guide-stationid="113321",HT1 Innviertel
-http://example.local/FRA-HT1INN.ts

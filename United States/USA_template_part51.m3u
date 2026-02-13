@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="124996" tvg-name="WeatherNation Raleigh-Durham" group-title="United States" tvg-id="WNARD" tvc-guide-stationid="124996",WeatherNation Raleigh-Durham
+http://example.local/USA-WNARD.ts
+#EXTINF:-1 tvg-chno="125000" tvg-name="WeatherNation Sacramento" group-title="United States" tvg-id="WNSAC" tvc-guide-stationid="125000",WeatherNation Sacramento
+http://example.local/USA-WNSAC.ts
+#EXTINF:-1 tvg-chno="124986" tvg-name="WeatherNation Salt Lake City" group-title="United States" tvg-id="WNASLC" tvc-guide-stationid="124986",WeatherNation Salt Lake City
+http://example.local/USA-WNASLC.ts
+#EXTINF:-1 tvg-chno="126325" tvg-name="WeatherNation San Antonio" tvg-logo="https://emby.tmsimg.com/assets/s72413_ll_h15_aa.png" group-title="United States" tvg-id="WNSANA" tvc-guide-stationid="126325",WeatherNation San Antonio
+http://example.local/USA-WNSANA.ts
+#EXTINF:-1 tvg-chno="125006" tvg-name="WeatherNation San Diego" group-title="United States" tvg-id="WNASD" tvc-guide-stationid="125006",WeatherNation San Diego
+http://example.local/USA-WNASD.ts
+#EXTINF:-1 tvg-chno="122653" tvg-name="WeatherNation San Francisco" tvg-logo="https://emby.tmsimg.com/assets/s72413_ll_h15_aa.png" group-title="United States" tvg-id="WNATSF" tvc-guide-stationid="122653",WeatherNation San Francisco
+http://example.local/USA-WNATSF.ts
+#EXTINF:-1 tvg-chno="125092" tvg-name="WeatherNation Seattle" group-title="United States" tvg-id="WNASEA" tvc-guide-stationid="125092",WeatherNation Seattle
+http://example.local/USA-WNASEA.ts
+#EXTINF:-1 tvg-chno="125002" tvg-name="WeatherNation St Louis" group-title="United States" tvg-id="WNASTL" tvc-guide-stationid="125002",WeatherNation St Louis
+http://example.local/USA-WNASTL.ts
+#EXTINF:-1 tvg-chno="125026" tvg-name="WeatherNation Tampa" group-title="United States" tvg-id="WNATAM" tvc-guide-stationid="125026",WeatherNation Tampa
+http://example.local/USA-WNATAM.ts
+#EXTINF:-1 tvg-chno="122661" tvg-name="WeatherNation Washington D. C" tvg-logo="https://emby.tmsimg.com/assets/s72413_h3_aa.png" group-title="United States" tvg-id="WNATWA" tvc-guide-stationid="122661",WeatherNation Washington D. C
+http://example.local/USA-WNATWA.ts
+#EXTINF:-1 tvg-chno="21586" tvg-name="WeatherScan Local Network" tvg-logo="https://emby.tmsimg.com/assets/s21586_ll_h15_aa.png" group-title="United States" tvg-id="WTHRSCN" tvc-guide-stationid="21586",WeatherScan Local Network
+http://example.local/USA-WTHRSCN.ts
+#EXTINF:-1 tvg-chno="127141" tvg-name="WeatherSpy" tvg-logo="https://emby.tmsimg.com/assets/s127141_ll_h15_aa.png" group-title="United States" tvg-id="WTHRSPY" tvc-guide-stationid="127141",WeatherSpy
+http://example.local/USA-WTHRSPY.ts
 #EXTINF:-1 tvg-chno="11402" tvg-name="WEAU (NBC)" tvg-logo="https://emby.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="United States" tvg-id="WEAU" tvc-guide-stationid="11402",WEAU (NBC)
 http://example.local/USA-WEAU.ts
 #EXTINF:-1 tvg-chno="30919" tvg-name="WEAU-DT (NBC)" tvg-logo="https://logos.jesmann.com/weaudt.png" group-title="United States" tvg-id="WEAUDT" tvc-guide-stationid="30919",WEAU-DT (NBC)
@@ -995,27 +1019,3 @@ http://example.local/USA-WFTXDT2.ts
 http://example.local/USA-WFTXDT3.ts
 #EXTINF:-1 tvg-chno="107800" tvg-name="WFTX-DT4 (GRIT)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002FEPV8.png" group-title="United States" tvg-id="WFTXDT4" tvc-guide-stationid="107800",WFTX-DT4 (GRIT)
 http://example.local/USA-WFTXDT4.ts
-#EXTINF:-1 tvg-chno="111763" tvg-name="WFTX-DT5 (ION)" tvg-logo="https://emby.tmsimg.com/assets/s18633_ll_h15_ad.png" group-title="United States" tvg-id="WFTXDT5" tvc-guide-stationid="111763",WFTX-DT5 (ION)
-http://example.local/USA-WFTXDT5.ts
-#EXTINF:-1 tvg-chno="123173" tvg-name="WFTX-DT6 (IMYS)" tvg-logo="https://emby.tmsimg.com/assets/s89923_ll_h15_ad.png" group-title="United States" tvg-id="WFTXDT6" tvc-guide-stationid="123173",WFTX-DT6 (IMYS)
-http://example.local/USA-WFTXDT6.ts
-#EXTINF:-1 tvg-chno="195204" tvg-name="WFTX-DT8 (COURT)" tvg-logo="https://emby.tmsimg.com/assets/s111043_ll_h15_aa.png" group-title="United States" tvg-id="WFTXDT8" tvc-guide-stationid="195204",WFTX-DT8 (COURT)
-http://example.local/USA-WFTXDT8.ts
-#EXTINF:-1 tvg-chno="12452" tvg-name="WFTY (CRIME)" tvg-logo="https://emby.tmsimg.com/assets/s91496_ll_h15_ab.png" group-title="United States" tvg-id="WFTY" tvc-guide-stationid="12452",WFTY (CRIME)
-http://example.local/USA-WFTY.ts
-#EXTINF:-1 tvg-chno="34225" tvg-name="WFTY-DT (CRIME)" tvg-logo="https://emby.tmsimg.com/assets/s91496_ll_h15_ab.png" group-title="United States" tvg-id="WFTYDT" tvc-guide-stationid="34225",WFTY-DT (CRIME)
-http://example.local/USA-WFTYDT.ts
-#EXTINF:-1 tvg-chno="82179" tvg-name="WFTY-DT2 (UNIMAS)" tvg-logo="https://emby.tmsimg.com/assets/s29058_h3_aa.png" group-title="United States" tvg-id="WFTYDT2" tvc-guide-stationid="82179",WFTY-DT2 (UNIMAS)
-http://example.local/USA-WFTYDT2.ts
-#EXTINF:-1 tvg-chno="86365" tvg-name="WFTY-DT3 (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_h3_ba.png" group-title="United States" tvg-id="WFTYDT3" tvc-guide-stationid="86365",WFTY-DT3 (UNI)
-http://example.local/USA-WFTYDT3.ts
-#EXTINF:-1 tvg-chno="90180" tvg-name="WFTY-DT4 (GRIT)" tvg-logo="https://emby.tmsimg.com/assets/s89922_h3_aa.png" group-title="United States" tvg-id="WFTYDT4" tvc-guide-stationid="90180",WFTY-DT4 (GRIT)
-http://example.local/USA-WFTYDT4.ts
-#EXTINF:-1 tvg-chno="106276" tvg-name="WFTY-DT5 (IMYS)" tvg-logo="https://emby.tmsimg.com/assets/s89923_ll_h15_ad.png" group-title="United States" tvg-id="WFTYDT5" tvc-guide-stationid="106276",WFTY-DT5 (IMYS)
-http://example.local/USA-WFTYDT5.ts
-#EXTINF:-1 tvg-chno="122059" tvg-name="WFTY-DT6 (SHOPLC)" tvg-logo="https://emby.tmsimg.com/assets/s56032_ll_h15_ac.png" group-title="United States" tvg-id="WFTYDT6" tvc-guide-stationid="122059",WFTY-DT6 (SHOPLC)
-http://example.local/USA-WFTYDT6.ts
-#EXTINF:-1 tvg-chno="66966" tvg-name="WFUN-LD (AMTEVE)" tvg-logo="https://emby.tmsimg.com/assets/s93459_ll_h9_aa.png" group-title="United States" tvg-id="WFUNLD" tvc-guide-stationid="66966",WFUN-LD (AMTEVE)
-http://example.local/USA-WFUNLD.ts
-#EXTINF:-1 tvg-chno="101227" tvg-name="WFUN-LD (SD Feed) (AMTEVE)" tvg-logo="https://emby.tmsimg.com/assets/s93459_ll_h9_aa.png" group-title="United States" tvg-id="WFUNSD" tvc-guide-stationid="101227",WFUN-LD (SD Feed) (AMTEVE)
-http://example.local/USA-WFUNSD.ts

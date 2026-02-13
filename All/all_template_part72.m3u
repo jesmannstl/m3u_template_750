@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="24294" tvg-name="MTV 90s" tvg-logo="https://emby.tmsimg.com/assets/s24294_ll_h15_aa.png" group-title="Norway" tvg-id="MTV90S" tvc-guide-stationid="24294",MTV 90s
+http://example.local/NOR-MTV90S.ts
+#EXTINF:-1 tvg-chno="24294" tvg-name="MTV 90s" tvg-logo="https://emby.tmsimg.com/assets/s24294_ll_h15_aa.png" group-title="Germany" tvg-id="MTV90S" tvc-guide-stationid="24294",MTV 90s
+http://example.local/DEU-MTV90S.ts
+#EXTINF:-1 tvg-chno="24294" tvg-name="MTV 90s" tvg-logo="https://emby.tmsimg.com/assets/s24294_ll_h15_aa.png" group-title="France" tvg-id="MTV90S" tvc-guide-stationid="24294",MTV 90s
+http://example.local/FRA-MTV90S.ts
+#EXTINF:-1 tvg-chno="90327" tvg-name="MTV 90S" tvg-logo="https://emby.tmsimg.com/assets/s90327_ll_h15_aa.png" group-title="Spain" tvg-id="MTV90SP" tvc-guide-stationid="90327",MTV 90S
+http://example.local/ESP-MTV90SP.ts
+#EXTINF:-1 tvg-chno="24294" tvg-name="MTV 90s" tvg-logo="https://emby.tmsimg.com/assets/s24294_ll_h15_aa.png" group-title="Poland" tvg-id="MTV90S" tvc-guide-stationid="24294",MTV 90s
+http://example.local/POL-MTV90S.ts
+#EXTINF:-1 tvg-chno="24294" tvg-name="MTV 90s" tvg-logo="https://emby.tmsimg.com/assets/s24294_ll_h15_aa.png" group-title="Netherlands" tvg-id="MTV90S" tvc-guide-stationid="24294",MTV 90s
+http://example.local/NLD-MTV90S.ts
+#EXTINF:-1 tvg-chno="24294" tvg-name="MTV 90s" tvg-logo="https://emby.tmsimg.com/assets/s24294_ll_h15_aa.png" group-title="Finland" tvg-id="MTV90S" tvc-guide-stationid="24294",MTV 90s
+http://example.local/FIN-MTV90S.ts
+#EXTINF:-1 tvg-chno="89005" tvg-name="MTV 90s" tvg-logo="https://emby.tmsimg.com/assets/s89005_ll_h9_ab.png" group-title="Sweden" tvg-id="MTV90" tvc-guide-stationid="89005",MTV 90s
+http://example.local/SWE-MTV90.ts
 #EXTINF:-1 tvg-chno="24294" tvg-name="MTV 90s" tvg-logo="https://emby.tmsimg.com/assets/s24294_ll_h15_aa.png" group-title="Austria" tvg-id="MTV90S" tvc-guide-stationid="24294",MTV 90s
 http://example.local/AUT-MTV90S.ts
 #EXTINF:-1 tvg-chno="89005" tvg-name="MTV 90s" tvg-logo="https://emby.tmsimg.com/assets/s89005_ll_h9_ab.png" group-title="Austria" tvg-id="MTV90" tvc-guide-stationid="89005",MTV 90s
@@ -1003,19 +1019,3 @@ http://example.local/BMU-MC13.ts
 http://example.local/JAM-MC13.ts
 #EXTINF:-1 tvg-chno="19312" tvg-name="Music Choice Rock" tvg-logo="https://emby.tmsimg.com/assets/s19312_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="MC13" tvc-guide-stationid="19312",Music Choice Rock
 http://example.local/PRI-MC13.ts
-#EXTINF:-1 tvg-chno="19312" tvg-name="Music Choice Rock" tvg-logo="https://emby.tmsimg.com/assets/s19312_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="MC13" tvc-guide-stationid="19312",Music Choice Rock
-http://example.local/DOM-MC13.ts
-#EXTINF:-1 tvg-chno="19312" tvg-name="Music Choice Rock" tvg-logo="https://emby.tmsimg.com/assets/s19312_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="MC13" tvc-guide-stationid="19312",Music Choice Rock
-http://example.local/CYM-MC13.ts
-#EXTINF:-1 tvg-chno="68973" tvg-name="Music Choice Rock HD" tvg-logo="https://emby.tmsimg.com/assets/s68973_ll_h15_aa.png" group-title="United States" tvg-id="MC13H" tvc-guide-stationid="68973",Music Choice Rock HD
-http://example.local/USA-MC13H.ts
-#EXTINF:-1 tvg-chno="19330" tvg-name="Music Choice Romantic Latin Pop" tvg-logo="https://emby.tmsimg.com/assets/s19330_ll_h15_aa.png" group-title="United States" tvg-id="MC24" tvc-guide-stationid="19330",Music Choice Romantic Latin Pop
-http://example.local/USA-MC24.ts
-#EXTINF:-1 tvg-chno="19330" tvg-name="Music Choice Romantic Latin Pop" tvg-logo="https://emby.tmsimg.com/assets/s19330_ll_h15_aa.png" group-title="Bermuda" tvg-id="MC24" tvc-guide-stationid="19330",Music Choice Romantic Latin Pop
-http://example.local/BMU-MC24.ts
-#EXTINF:-1 tvg-chno="19330" tvg-name="Music Choice Romantic Latin Pop" tvg-logo="https://emby.tmsimg.com/assets/s19330_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC24" tvc-guide-stationid="19330",Music Choice Romantic Latin Pop
-http://example.local/JAM-MC24.ts
-#EXTINF:-1 tvg-chno="19330" tvg-name="Music Choice Romantic Latin Pop" tvg-logo="https://emby.tmsimg.com/assets/s19330_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="MC24" tvc-guide-stationid="19330",Music Choice Romantic Latin Pop
-http://example.local/PRI-MC24.ts
-#EXTINF:-1 tvg-chno="19330" tvg-name="Music Choice Romantic Latin Pop" tvg-logo="https://emby.tmsimg.com/assets/s19330_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="MC24" tvc-guide-stationid="19330",Music Choice Romantic Latin Pop
-http://example.local/CYM-MC24.ts

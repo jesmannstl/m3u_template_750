@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="96568" tvg-name="W25BT-D2 (MHZWV)" tvg-logo="https://emby.tmsimg.com/assets/s49582_ll_h9_aa.png" group-title="Canada" tvg-id="W25BTD2" tvc-guide-stationid="96568",W25BT-D2 (MHZWV)
+http://example.local/CAN-W25BTD2.ts
+#EXTINF:-1 tvg-chno="96568" tvg-name="W25BT-D2 (MHZWV)" tvg-logo="https://emby.tmsimg.com/assets/s49582_ll_h9_aa.png" group-title="United States" tvg-id="W25BTD2" tvc-guide-stationid="96568",W25BT-D2 (MHZWV)
+http://example.local/USA-W25BTD2.ts
+#EXTINF:-1 tvg-chno="96569" tvg-name="W25BT-D3 (HD06)" tvg-logo="https://emby.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="Canada" tvg-id="W25BTD3" tvc-guide-stationid="96569",W25BT-D3 (HD06)
+http://example.local/CAN-W25BTD3.ts
+#EXTINF:-1 tvg-chno="96569" tvg-name="W25BT-D3 (HD06)" tvg-logo="https://emby.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="United States" tvg-id="W25BTD3" tvc-guide-stationid="96569",W25BT-D3 (HD06)
+http://example.local/USA-W25BTD3.ts
+#EXTINF:-1 tvg-chno="77614" tvg-name="W25DW-D6 (ALMA)" tvg-logo="https://emby.tmsimg.com/assets/s45813_ll_h9_aa.png" group-title="United States" tvg-id="W25DWD6" tvc-guide-stationid="77614",W25DW-D6 (ALMA)
+http://example.local/USA-W25DWD6.ts
+#EXTINF:-1 tvg-chno="80566" tvg-name="W25DW-D7" group-title="United States" tvg-id="W25DWD7" tvc-guide-stationid="80566",W25DW-D7
+http://example.local/USA-W25DWD7.ts
+#EXTINF:-1 tvg-chno="106813" tvg-name="W25DW-D8" group-title="United States" tvg-id="W25DWD8" tvc-guide-stationid="106813",W25DW-D8
+http://example.local/USA-W25DWD8.ts
+#EXTINF:-1 tvg-chno="98010" tvg-name="W25DW-D9" group-title="United States" tvg-id="W25DWD9" tvc-guide-stationid="98010",W25DW-D9
+http://example.local/USA-W25DWD9.ts
+#EXTINF:-1 tvg-chno="122776" tvg-name="W25FH-D (FUBOOTA)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002FER8B.png" group-title="United States" tvg-id="W25FHD" tvc-guide-stationid="122776",W25FH-D (FUBOOTA)
+http://example.local/USA-W25FHD.ts
+#EXTINF:-1 tvg-chno="116478" tvg-name="W26DH-D (3ANGELS)" tvg-logo="https://emby.tmsimg.com/assets/s10002_ll_h15_aa.png" group-title="United States" tvg-id="W26DHD" tvc-guide-stationid="116478",W26DH-D (3ANGELS)
+http://example.local/USA-W26DHD.ts
+#EXTINF:-1 tvg-chno="116479" tvg-name="W26DH-D2 (ESPRNZA)" tvg-logo="https://emby.tmsimg.com/assets/s65095_ll_h6_aa.png" group-title="United States" tvg-id="W26DHD2" tvc-guide-stationid="116479",W26DH-D2 (ESPRNZA)
+http://example.local/USA-W26DHD2.ts
 #EXTINF:-1 tvg-chno="116480" tvg-name="W26DH-D3 (HOPE)" tvg-logo="https://emby.tmsimg.com/assets/s49266_ll_h9_aa.png" group-title="United States" tvg-id="W26DHD3" tvc-guide-stationid="116480",W26DH-D3 (HOPE)
 http://example.local/USA-W26DHD3.ts
 #EXTINF:-1 tvg-chno="116481" tvg-name="W26DH-D4" group-title="United States" tvg-id="W26DHD4" tvc-guide-stationid="116481",W26DH-D4
@@ -997,25 +1019,3 @@ http://example.local/USA-WAPT.ts
 http://example.local/USA-WAPTDT.ts
 #EXTINF:-1 tvg-chno="50763" tvg-name="WAPT-DT2 (METVN)" tvg-logo="https://emby.tmsimg.com/assets/s70436_ll_h15_ac.png" group-title="United States" tvg-id="WAPTDT2" tvc-guide-stationid="50763",WAPT-DT2 (METVN)
 http://example.local/USA-WAPTDT2.ts
-#EXTINF:-1 tvg-chno="123259" tvg-name="WAPT-DT3 (STRY)" tvg-logo="https://emby.tmsimg.com/assets/s122968_ll_h15_ac.png" group-title="United States" tvg-id="WAPTDT3" tvc-guide-stationid="123259",WAPT-DT3 (STRY)
-http://example.local/USA-WAPTDT3.ts
-#EXTINF:-1 tvg-chno="121236" tvg-name="WAPT-DT4 (GRIOTV)" tvg-logo="https://emby.tmsimg.com/assets/s101752_ll_h15_ae.png" group-title="United States" tvg-id="WAPTDT4" tvc-guide-stationid="121236",WAPT-DT4 (GRIOTV)
-http://example.local/USA-WAPTDT4.ts
-#EXTINF:-1 tvg-chno="121237" tvg-name="WAPT-DT5 (GET)" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="WAPTDT5" tvc-guide-stationid="121237",WAPT-DT5 (GET)
-http://example.local/USA-WAPTDT5.ts
-#EXTINF:-1 tvg-chno="11284" tvg-name="WAQP (TCTWLD)" tvg-logo="https://emby.tmsimg.com/assets/s49486_ll_h15_aa.png" group-title="United States" tvg-id="WAQP" tvc-guide-stationid="11284",WAQP (TCTWLD)
-http://example.local/USA-WAQP.ts
-#EXTINF:-1 tvg-chno="54404" tvg-name="WAQP-DT (TCTWLD)" tvg-logo="https://emby.tmsimg.com/assets/s49486_ll_h15_aa.png" group-title="United States" tvg-id="WAQPDT" tvc-guide-stationid="54404",WAQP-DT (TCTWLD)
-http://example.local/USA-WAQPDT.ts
-#EXTINF:-1 tvg-chno="122025" tvg-name="WAQP-DT10 (CRIME)" tvg-logo="https://emby.tmsimg.com/assets/s91496_ll_h15_ab.png" group-title="United States" tvg-id="WAQPD10" tvc-guide-stationid="122025",WAQP-DT10 (CRIME)
-http://example.local/USA-WAQPD10.ts
-#EXTINF:-1 tvg-chno="129176" tvg-name="WAQP-DT11 (GET)" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="WAQPD11" tvc-guide-stationid="129176",WAQP-DT11 (GET)
-http://example.local/USA-WAQPD11.ts
-#EXTINF:-1 tvg-chno="62774" tvg-name="WAQP-DT2 (SBND)" tvg-logo="https://emby.tmsimg.com/assets/s67676_ll_h15_aa.png" group-title="United States" tvg-id="WAQPDT2" tvc-guide-stationid="62774",WAQP-DT2 (SBND)
-http://example.local/USA-WAQPDT2.ts
-#EXTINF:-1 tvg-chno="70996" tvg-name="WAQP-DT3 (ONTV4)" tvg-logo="https://emby.tmsimg.com/assets/s49208_ll_h15_ac.png" group-title="United States" tvg-id="WAQPDT3" tvc-guide-stationid="70996",WAQP-DT3 (ONTV4)
-http://example.local/USA-WAQPDT3.ts
-#EXTINF:-1 tvg-chno="72419" tvg-name="WAQP-DT4 (LAFF)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002NRDSC.png" group-title="United States" tvg-id="WAQPDT4" tvc-guide-stationid="72419",WAQP-DT4 (LAFF)
-http://example.local/USA-WAQPDT4.ts
-#EXTINF:-1 tvg-chno="118821" tvg-name="WAQP-DT5 (IMYS)" tvg-logo="https://emby.tmsimg.com/assets/s89923_ll_h15_ad.png" group-title="United States" tvg-id="WAQPDT5" tvc-guide-stationid="118821",WAQP-DT5 (IMYS)
-http://example.local/USA-WAQPDT5.ts

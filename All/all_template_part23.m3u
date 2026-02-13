@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="122743" tvg-name="Disney Junior (Wallonia) HD" tvg-logo="https://emby.tmsimg.com/assets/s122743_ll_h15_aa.png" group-title="Belgium" tvg-id="DJRWAHD" tvc-guide-stationid="122743",Disney Junior (Wallonia) HD
+http://example.local/BEL-DJRWAHD.ts
+#EXTINF:-1 tvg-chno="87383" tvg-name="Disney Junior France HD" tvg-logo="https://emby.tmsimg.com/assets/s87383_ll_h15_aa.png" group-title="France" tvg-id="DISJFRH" tvc-guide-stationid="87383",Disney Junior France HD
+http://example.local/FRA-DISJFRH.ts
+#EXTINF:-1 tvg-chno="87383" tvg-name="Disney Junior France HD" tvg-logo="https://emby.tmsimg.com/assets/s87383_ll_h15_aa.png" group-title="Belgium" tvg-id="DISJFRH" tvc-guide-stationid="87383",Disney Junior France HD
+http://example.local/BEL-DISJFRH.ts
+#EXTINF:-1 tvg-chno="87383" tvg-name="Disney Junior France HD" tvg-logo="https://emby.tmsimg.com/assets/s87383_ll_h15_aa.png" group-title="Switzerland" tvg-id="DISJFRH" tvc-guide-stationid="87383",Disney Junior France HD
+http://example.local/CHE-DISJFRH.ts
 #EXTINF:-1 tvg-chno="74885" tvg-name="Disney Junior HD" tvg-logo="https://emby.tmsimg.com/assets/s74885_ll_h15_ac.png" group-title="United States" tvg-id="DJCHHD" tvc-guide-stationid="74885",Disney Junior HD
 http://example.local/USA-DJCHHD.ts
 #EXTINF:-1 tvg-chno="119021" tvg-name="Disney Junior HD" tvg-logo="https://emby.tmsimg.com/assets/s119021_ll_h15_aa.png" group-title="Belgium" tvg-id="DISJBEHD" tvc-guide-stationid="119021",Disney Junior HD
@@ -1011,11 +1019,3 @@ http://example.local/USA-HOTHIT.ts
 http://example.local/JAM-HOTHIT.ts
 #EXTINF:-1 tvg-chno="19681" tvg-name="DMX: Hot Hits" tvg-logo="https://emby.tmsimg.com/assets/s19681_ll_h9_aa.png" group-title="Guatemala" tvg-id="HOTHIT" tvc-guide-stationid="19681",DMX: Hot Hits
 http://example.local/GTM-HOTHIT.ts
-#EXTINF:-1 tvg-chno="21419" tvg-name="DMX: Hot Jamz" tvg-logo="https://emby.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="HTJAMZ" tvc-guide-stationid="21419",DMX: Hot Jamz
-http://example.local/MEX-HTJAMZ.ts
-#EXTINF:-1 tvg-chno="21419" tvg-name="DMX: Hot Jamz" tvg-logo="https://emby.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="United States" tvg-id="HTJAMZ" tvc-guide-stationid="21419",DMX: Hot Jamz
-http://example.local/USA-HTJAMZ.ts
-#EXTINF:-1 tvg-chno="21419" tvg-name="DMX: Hot Jamz" tvg-logo="https://emby.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Peru" tvg-id="HTJAMZ" tvc-guide-stationid="21419",DMX: Hot Jamz
-http://example.local/PER-HTJAMZ.ts
-#EXTINF:-1 tvg-chno="21419" tvg-name="DMX: Hot Jamz" tvg-logo="https://emby.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Costa Rica" tvg-id="HTJAMZ" tvc-guide-stationid="21419",DMX: Hot Jamz
-http://example.local/CRI-HTJAMZ.ts

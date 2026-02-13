@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="104544" tvg-name="SBS Arabic24 Victoria (SBSAU)" tvg-logo="https://emby.tmsimg.com/assets/s104544_ll_h9_aa.png" group-title="Australia" tvg-id="A24VANZ" tvc-guide-stationid="104544",SBS Arabic24 Victoria (SBSAU)
+http://example.local/AUS-A24VANZ.ts
+#EXTINF:-1 tvg-chno="104545" tvg-name="SBS Arabic24 WA (SBSAU)" tvg-logo="https://emby.tmsimg.com/assets/s104545_ll_h9_aa.png" group-title="Australia" tvg-id="A24WANZ" tvc-guide-stationid="104545",SBS Arabic24 WA (SBSAU)
+http://example.local/AUS-A24WANZ.ts
+#EXTINF:-1 tvg-chno="109798" tvg-name="SBS Chill (SBSAU)" tvg-logo="https://emby.tmsimg.com/assets/s109798_ll_h9_aa.png" group-title="Australia" tvg-id="SBSCANZ" tvc-guide-stationid="109798",SBS Chill (SBSAU)
+http://example.local/AUS-SBSCANZ.ts
+#EXTINF:-1 tvg-chno="104190" tvg-name="SBS Eastern (SBSAU)" tvg-logo="https://emby.tmsimg.com/assets/s104190_ll_h9_ac.png" group-title="Australia" tvg-id="SBSEANZ" tvc-guide-stationid="104190",SBS Eastern (SBSAU)
+http://example.local/AUS-SBSEANZ.ts
+#EXTINF:-1 tvg-chno="104237" tvg-name="SBS Food NSW (SBSAU)" tvg-logo="https://emby.tmsimg.com/assets/s104237_ll_h9_bb.png" group-title="Australia" tvg-id="FNSWANZ" tvc-guide-stationid="104237",SBS Food NSW (SBSAU)
+http://example.local/AUS-FNSWANZ.ts
+#EXTINF:-1 tvg-chno="104238" tvg-name="SBS Food NT (SBSAU)" tvg-logo="https://emby.tmsimg.com/assets/s104238_ll_h9_bb.png" group-title="Australia" tvg-id="FNTANZ" tvc-guide-stationid="104238",SBS Food NT (SBSAU)
+http://example.local/AUS-FNTANZ.ts
+#EXTINF:-1 tvg-chno="104239" tvg-name="SBS Food QLD (SBSAU)" tvg-logo="https://emby.tmsimg.com/assets/s104239_ll_h9_bb.png" group-title="Australia" tvg-id="FQLDANZ" tvc-guide-stationid="104239",SBS Food QLD (SBSAU)
+http://example.local/AUS-FQLDANZ.ts
+#EXTINF:-1 tvg-chno="104240" tvg-name="SBS Food SA (SBSAU)" tvg-logo="https://emby.tmsimg.com/assets/s104240_ll_h9_bb.png" group-title="Australia" tvg-id="FSAANZ" tvc-guide-stationid="104240",SBS Food SA (SBSAU)
+http://example.local/AUS-FSAANZ.ts
 #EXTINF:-1 tvg-chno="104285" tvg-name="SBS Food TAS (SBSAU)" tvg-logo="https://emby.tmsimg.com/assets/s104285_ll_h9_bb.png" group-title="Australia" tvg-id="FTASANZ" tvc-guide-stationid="104285",SBS Food TAS (SBSAU)
 http://example.local/AUS-FTASANZ.ts
 #EXTINF:-1 tvg-chno="104287" tvg-name="SBS Food VIC (SBSAU)" tvg-logo="https://emby.tmsimg.com/assets/s104287_ll_h9_bb.png" group-title="Australia" tvg-id="FVICANZ" tvc-guide-stationid="104287",SBS Food VIC (SBSAU)
@@ -389,6 +405,8 @@ http://example.local/USA-SEATTLE.ts
 http://example.local/USA-SCCTV.ts
 #EXTINF:-1 tvg-chno="120618" tvg-name="Seattle Kraken: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlskr.png" group-title="United States" tvg-id="NHLSKR" tvc-guide-stationid="120618",Seattle Kraken: NHL Center Ice
 http://example.local/USA-NHLSKR.ts
+#EXTINF:-1 tvg-chno="136328" tvg-name="Seattle Mariners" tvg-logo="https://emby.tmsimg.com/assets/s136328_ll_h15_ab.png" group-title="United States" tvg-id="SEAM" tvc-guide-stationid="136328",Seattle Mariners
+http://example.local/USA-SEAM.ts
 #EXTINF:-1 tvg-chno="102292" tvg-name="Seattle Mariners: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbsea.png" group-title="United States" tvg-id="MLBSEA" tvc-guide-stationid="102292",Seattle Mariners: MLB Extra Innings
 http://example.local/USA-MLBSEA.ts
 #EXTINF:-1 tvg-chno="93339" tvg-name="Seattle Schools" group-title="United States" tvg-id="SEATSCH" tvc-guide-stationid="93339",Seattle Schools
@@ -1001,21 +1019,3 @@ http://example.local/CAN-PPVMVS5.ts
 http://example.local/CAN-PPVMVS6.ts
 #EXTINF:-1 tvg-chno="70985" tvg-name="Shaw PPV Movie 07" tvg-logo="https://emby.tmsimg.com/assets/s70985_ll_h15_aa.png" group-title="Canada" tvg-id="PPVM07" tvc-guide-stationid="70985",Shaw PPV Movie 07
 http://example.local/CAN-PPVM07.ts
-#EXTINF:-1 tvg-chno="70986" tvg-name="Shaw PPV Movie 08" tvg-logo="https://emby.tmsimg.com/assets/s70986_ll_h15_aa.png" group-title="Canada" tvg-id="PPVM08" tvc-guide-stationid="70986",Shaw PPV Movie 08
-http://example.local/CAN-PPVM08.ts
-#EXTINF:-1 tvg-chno="70987" tvg-name="Shaw PPV Movie 09" tvg-logo="https://emby.tmsimg.com/assets/s70987_ll_h15_aa.png" group-title="Canada" tvg-id="PPVM09" tvc-guide-stationid="70987",Shaw PPV Movie 09
-http://example.local/CAN-PPVM09.ts
-#EXTINF:-1 tvg-chno="71210" tvg-name="Shaw PPV NHL 01A" tvg-logo="https://emby.tmsimg.com/assets/s71210_ll_h15_aa.png" group-title="Canada" tvg-id="PVNHL1A" tvc-guide-stationid="71210",Shaw PPV NHL 01A
-http://example.local/CAN-PVNHL1A.ts
-#EXTINF:-1 tvg-chno="71213" tvg-name="Shaw PPV NHL 01C" tvg-logo="https://emby.tmsimg.com/assets/s71213_ll_h15_aa.png" group-title="Canada" tvg-id="PVNHL1C" tvc-guide-stationid="71213",Shaw PPV NHL 01C
-http://example.local/CAN-PVNHL1C.ts
-#EXTINF:-1 tvg-chno="100130" tvg-name="Shaw PPV NHL 01C HD" tvg-logo="https://emby.tmsimg.com/assets/s100130_ll_h15_aa.png" group-title="Canada" tvg-id="PVNL1CH" tvc-guide-stationid="100130",Shaw PPV NHL 01C HD
-http://example.local/CAN-PVNL1CH.ts
-#EXTINF:-1 tvg-chno="73347" tvg-name="Shaw PPV NHL 01D" tvg-logo="https://emby.tmsimg.com/assets/s73347_ll_h15_aa.png" group-title="Canada" tvg-id="PVNHL1D" tvc-guide-stationid="73347",Shaw PPV NHL 01D
-http://example.local/CAN-PVNHL1D.ts
-#EXTINF:-1 tvg-chno="71212" tvg-name="Shaw PPV NHL 03A" tvg-logo="https://emby.tmsimg.com/assets/s71212_ll_h15_aa.png" group-title="Canada" tvg-id="PVNHL3A" tvc-guide-stationid="71212",Shaw PPV NHL 03A
-http://example.local/CAN-PVNHL3A.ts
-#EXTINF:-1 tvg-chno="73346" tvg-name="Shaw PPV NHL 03D" tvg-logo="https://emby.tmsimg.com/assets/s73346_ll_h15_aa.png" group-title="Canada" tvg-id="PVNHL3D" tvc-guide-stationid="73346",Shaw PPV NHL 03D
-http://example.local/CAN-PVNHL3D.ts
-#EXTINF:-1 tvg-chno="71214" tvg-name="Shaw PPV Sport 01A" tvg-logo="https://emby.tmsimg.com/assets/s71214_ll_h15_aa.png" group-title="Canada" tvg-id="PPVS01A" tvc-guide-stationid="71214",Shaw PPV Sport 01A
-http://example.local/CAN-PPVS01A.ts

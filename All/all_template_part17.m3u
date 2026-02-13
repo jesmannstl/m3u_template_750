@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="72890" tvg-name="CKCW-DT (CTV)" tvg-logo="https://logos.jesmann.com/ckcwdt.png" group-title="Canada" tvg-id="CKCWDT" tvc-guide-stationid="72890",CKCW-DT (CTV)
+http://example.local/CAN-CKCWDT.ts
+#EXTINF:-1 tvg-chno="91891" tvg-name="CKCW-DT1 (CTV)" tvg-logo="https://logos.jesmann.com/ckcwdt1.png" group-title="Canada" tvg-id="CKCWDT1" tvc-guide-stationid="91891",CKCW-DT1 (CTV)
+http://example.local/CAN-CKCWDT1.ts
+#EXTINF:-1 tvg-chno="102631" tvg-name="CKDJ 107.9FM Algonquin College Ottawa" group-title="Canada" tvg-id="CKDJFM" tvc-guide-stationid="102631",CKDJ 107.9FM Algonquin College Ottawa
+http://example.local/CAN-CKDJFM.ts
 #EXTINF:-1 tvg-chno="72950" tvg-name="CKDM 730 AM - Dauphin" group-title="Canada" tvg-id="CKDM730" tvc-guide-stationid="72950",CKDM 730 AM - Dauphin
 http://example.local/CAN-CKDM730.ts
 #EXTINF:-1 tvg-chno="58630" tvg-name="CKES" tvg-logo="https://emby.tmsimg.com/assets/s58630_ll_h15_aa.png" group-title="Canada" tvg-id="CKES" tvc-guide-stationid="58630",CKES
@@ -1013,9 +1019,3 @@ http://example.local/GBR-CNNFAUK.ts
 http://example.local/CAN-CNNI.ts
 #EXTINF:-1 tvg-chno="17664" tvg-name="CNN International" tvg-logo="https://emby.tmsimg.com/assets/s17664_ll_h15_ab.png" group-title="Norway" tvg-id="CNNEU" tvc-guide-stationid="17664",CNN International
 http://example.local/NOR-CNNEU.ts
-#EXTINF:-1 tvg-chno="17664" tvg-name="CNN International" tvg-logo="https://emby.tmsimg.com/assets/s17664_ll_h15_ab.png" group-title="Germany" tvg-id="CNNEU" tvc-guide-stationid="17664",CNN International
-http://example.local/DEU-CNNEU.ts
-#EXTINF:-1 tvg-chno="152938" tvg-name="CNN International" tvg-logo="https://emby.tmsimg.com/assets/s17664_ll_h15_ab.png" group-title="Germany" tvg-id="CNNEMEA" tvc-guide-stationid="152938",CNN International
-http://example.local/DEU-CNNEMEA.ts
-#EXTINF:-1 tvg-chno="17664" tvg-name="CNN International" tvg-logo="https://emby.tmsimg.com/assets/s17664_ll_h15_ab.png" group-title="Mexico" tvg-id="CNNEU" tvc-guide-stationid="17664",CNN International
-http://example.local/MEX-CNNEU.ts
