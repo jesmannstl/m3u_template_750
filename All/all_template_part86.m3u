@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="39708" tvg-name="Rock Alternativo" tvg-logo="https://emby.tmsimg.com/assets/s38800_h3_aa.png" group-title="Aruba" tvg-id="ROCKALT" tvc-guide-stationid="39708",Rock Alternativo
-http://example.local/ABW-ROCKALT.ts
 #EXTINF:-1 tvg-chno="107884" tvg-name="Rock Antenne" tvg-logo="https://emby.tmsimg.com/assets/s107884_ll_h15_aa.png" group-title="Germany" tvg-id="RCKANT" tvc-guide-stationid="107884",Rock Antenne
 http://example.local/DEU-RCKANT.ts
 #EXTINF:-1 tvg-chno="106137" tvg-name="Rock Antenne" group-title="Germany" tvg-id="ROCKAN" tvc-guide-stationid="106137",Rock Antenne
@@ -1019,3 +1017,5 @@ http://example.local/NLD-RTL4NL.ts
 http://example.local/DEU-RTL5NL.ts
 #EXTINF:-1 tvg-chno="105084" tvg-name="RTL5" tvg-logo="https://emby.tmsimg.com/assets/s105084_ll_h15_ag.png" group-title="Netherlands" tvg-id="RTL5NL" tvc-guide-stationid="105084",RTL5
 http://example.local/NLD-RTL5NL.ts
+#EXTINF:-1 tvg-chno="105085" tvg-name="RTL7" tvg-logo="https://emby.tmsimg.com/assets/s105085_ll_h15_ag.png" group-title="Germany" tvg-id="RTL7NL" tvc-guide-stationid="105085",RTL7
+http://example.local/DEU-RTL7NL.ts

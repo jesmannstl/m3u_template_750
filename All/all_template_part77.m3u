@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="17846" tvg-name="NHL Center Ice (Penguins)" tvg-logo="https://logos.jesmann.com/nhlx20.png" group-title="United States" tvg-id="NHLX20" tvc-guide-stationid="17846",NHL Center Ice (Penguins)
-http://example.local/USA-NHLX20.ts
 #EXTINF:-1 tvg-chno="18823" tvg-name="NHL Center Ice (Predators)" tvg-logo="https://logos.jesmann.com/nhlx27.png" group-title="United States" tvg-id="NHLX27" tvc-guide-stationid="18823",NHL Center Ice (Predators)
 http://example.local/USA-NHLX27.ts
 #EXTINF:-1 tvg-chno="17842" tvg-name="NHL Center Ice (Rangers)" tvg-logo="https://logos.jesmann.com/nhlx16.png" group-title="United States" tvg-id="NHLX16" tvc-guide-stationid="17842",NHL Center Ice (Rangers)
@@ -1019,3 +1017,5 @@ http://example.local/GBR-PTVUKNO.ts
 http://example.local/GBR-NOSEY.ts
 #EXTINF:-1 tvg-chno="133658" tvg-name="Nosey Escandalos" tvg-logo="https://emby.tmsimg.com/assets/s133658_ll_h15_aa.png" group-title="United States" tvg-id="NSYESC" tvc-guide-stationid="133658",Nosey Escandalos
 http://example.local/USA-NSYESC.ts
+#EXTINF:-1 tvg-chno="133658" tvg-name="Nosey Escandalos" tvg-logo="https://emby.tmsimg.com/assets/s133658_ll_h15_aa.png" group-title="United Kingdom" tvg-id="NSYESC" tvc-guide-stationid="133658",Nosey Escandalos
+http://example.local/GBR-NSYESC.ts

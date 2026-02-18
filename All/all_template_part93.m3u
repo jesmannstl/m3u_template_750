@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="66612" tvg-name="SRF Info" tvg-logo="https://emby.tmsimg.com/assets/s66612_ll_h15_ab.png" group-title="Austria" tvg-id="SFINSGH" tvc-guide-stationid="66612",SRF Info
-http://example.local/AUT-SFINSGH.ts
 #EXTINF:-1 tvg-chno="66612" tvg-name="SRF Info" tvg-logo="https://emby.tmsimg.com/assets/s66612_ll_h15_ab.png" group-title="Switzerland" tvg-id="SFINSGH" tvc-guide-stationid="66612",SRF Info
 http://example.local/CHE-SFINSGH.ts
 #EXTINF:-1 tvg-chno="99249" tvg-name="SRF Info HD" tvg-logo="https://emby.tmsimg.com/assets/s99249_ll_h15_aa.png" group-title="Germany" tvg-id="SRFINHD" tvc-guide-stationid="99249",SRF Info HD
@@ -1019,3 +1017,5 @@ http://example.local/GRD-STARSER.ts
 http://example.local/GRD-STARSO.ts
 #EXTINF:-1 tvg-chno="60542" tvg-name="Star Series" tvg-logo="https://emby.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Grenada" tvg-id="STARSHD" tvc-guide-stationid="60542",Star Series
 http://example.local/GRD-STARSHD.ts
+#EXTINF:-1 tvg-chno="18812" tvg-name="Star Series" tvg-logo="https://emby.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Antigua and Barbuda" tvg-id="STARSER" tvc-guide-stationid="18812",Star Series
+http://example.local/ATG-STARSER.ts

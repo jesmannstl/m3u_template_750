@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="102836" tvg-name="Telemundo Stream" tvg-logo="https://emby.tmsimg.com/assets/s10239_ll_h15_ab.png" group-title="United States" tvg-id="TELESTR" tvc-guide-stationid="102836",Telemundo Stream
-http://example.local/USA-TELESTR.ts
 #EXTINF:-1 tvg-chno="102853" tvg-name="Telemundo Stream (Mountain)" tvg-logo="https://emby.tmsimg.com/assets/s10239_h3_aa.png" group-title="United States" tvg-id="TELMSTR" tvc-guide-stationid="102853",Telemundo Stream (Mountain)
 http://example.local/USA-TELMSTR.ts
 #EXTINF:-1 tvg-chno="102837" tvg-name="Telemundo Stream (Pacific)" tvg-logo="https://emby.tmsimg.com/assets/s10239_ll_h15_ab.png" group-title="United States" tvg-id="TELPSTR" tvc-guide-stationid="102837",Telemundo Stream (Pacific)
@@ -1019,3 +1017,5 @@ http://example.local/AIA-GOLFLA.ts
 http://example.local/KNA-GOLFLA.ts
 #EXTINF:-1 tvg-chno="61033" tvg-name="The Golf Channel Latinoamerica" tvg-logo="https://emby.tmsimg.com/assets/s61033_ll_h15_ab.png" group-title="Saint Martin" tvg-id="GOLFLA" tvc-guide-stationid="61033",The Golf Channel Latinoamerica
 http://example.local/MAF-GOLFLA.ts
+#EXTINF:-1 tvg-chno="61033" tvg-name="The Golf Channel Latinoamerica" tvg-logo="https://emby.tmsimg.com/assets/s61033_ll_h15_ab.png" group-title="Guyana" tvg-id="GOLFLA" tvc-guide-stationid="61033",The Golf Channel Latinoamerica
+http://example.local/GUY-GOLFLA.ts

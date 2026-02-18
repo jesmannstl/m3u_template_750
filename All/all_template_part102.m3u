@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="100062" tvg-name="Toggo Plus" tvg-logo="https://emby.tmsimg.com/assets/s100062_ll_h15_aa.png" group-title="Netherlands" tvg-id="TOGPLUS" tvc-guide-stationid="100062",Toggo Plus
-http://example.local/NLD-TOGPLUS.ts
 #EXTINF:-1 tvg-chno="100062" tvg-name="Toggo Plus" tvg-logo="https://emby.tmsimg.com/assets/s100062_ll_h15_aa.png" group-title="Austria" tvg-id="TOGPLUS" tvc-guide-stationid="100062",Toggo Plus
 http://example.local/AUT-TOGPLUS.ts
 #EXTINF:-1 tvg-chno="100062" tvg-name="Toggo Plus" tvg-logo="https://emby.tmsimg.com/assets/s100062_ll_h15_aa.png" group-title="Italy" tvg-id="TOGPLUS" tvc-guide-stationid="100062",Toggo Plus
@@ -1019,3 +1017,5 @@ http://example.local/CAN-TCM.ts
 http://example.local/FRA-TCMUK.ts
 #EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://emby.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="United States" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
 http://example.local/USA-TCM.ts
+#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://emby.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Bermuda" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
+http://example.local/BMU-TCM.ts

@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="83943" tvg-name="Puls 4" tvg-logo="https://emby.tmsimg.com/assets/s83943_ll_h15_aa.png" group-title="Austria" tvg-id="PULSTV" tvc-guide-stationid="83943",Puls 4
-http://example.local/AUT-PULSTV.ts
 #EXTINF:-1 tvg-chno="88738" tvg-name="PULS 4 HD" tvg-logo="https://emby.tmsimg.com/assets/s88738_ll_h15_aa.png" group-title="Germany" tvg-id="PULS4HD" tvc-guide-stationid="88738",PULS 4 HD
 http://example.local/DEU-PULS4HD.ts
 #EXTINF:-1 tvg-chno="88738" tvg-name="PULS 4 HD" tvg-logo="https://emby.tmsimg.com/assets/s88738_ll_h15_aa.png" group-title="Austria" tvg-id="PULS4HD" tvc-guide-stationid="88738",PULS 4 HD
@@ -1019,3 +1017,5 @@ http://example.local/DEU-TONBM.ts
 http://example.local/DEU-TONOW.ts
 #EXTINF:-1 tvg-chno="107141" tvg-name="Radio Tonkuhle" tvg-logo="https://emby.tmsimg.com/assets/s107141_ll_h15_aa.png" group-title="Germany" tvg-id="TONKUHL" tvc-guide-stationid="107141",Radio Tonkuhle
 http://example.local/DEU-TONKUHL.ts
+#EXTINF:-1 tvg-chno="107878" tvg-name="radio TOP 40" tvg-logo="https://emby.tmsimg.com/assets/s107878_ll_h15_aa.png" group-title="Germany" tvg-id="TOP40" tvc-guide-stationid="107878",radio TOP 40
+http://example.local/DEU-TOP40.ts

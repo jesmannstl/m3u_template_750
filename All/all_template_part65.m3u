@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="91206" tvg-name="La 2 HD" tvg-logo="https://emby.tmsimg.com/assets/s91206_ll_h15_aa.png" group-title="Spain" tvg-id="LA2HD" tvc-guide-stationid="91206",La 2 HD
-http://example.local/ESP-LA2HD.ts
 #EXTINF:-1 tvg-chno="91206" tvg-name="La 2 HD" tvg-logo="https://emby.tmsimg.com/assets/s91206_ll_h15_aa.png" group-title="Switzerland" tvg-id="LA2HD" tvc-guide-stationid="91206",La 2 HD
 http://example.local/CHE-LA2HD.ts
 #EXTINF:-1 tvg-chno="75500" tvg-name="La 5 HD" tvg-logo="https://emby.tmsimg.com/assets/s75500_ll_h15_aa.png" group-title="Italy" tvg-id="LA5ITL" tvc-guide-stationid="75500",La 5 HD
@@ -1019,3 +1017,5 @@ http://example.local/MAF-LIFSURH.ts
 http://example.local/CAN-LIFEC.ts
 #EXTINF:-1 tvg-chno="26768" tvg-name="Lifetime (Canada)" tvg-logo="https://emby.tmsimg.com/assets/s26768_ll_h15_ae.png" group-title="United States" tvg-id="LIFEC" tvc-guide-stationid="26768",Lifetime (Canada)
 http://example.local/USA-LIFEC.ts
+#EXTINF:-1 tvg-chno="20566" tvg-name="Lifetime (Hawaiian)" group-title="United States" tvg-id="LIFEHAW" tvc-guide-stationid="20566",Lifetime (Hawaiian)
+http://example.local/USA-LIFEHAW.ts

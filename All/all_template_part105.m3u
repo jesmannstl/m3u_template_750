@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="162322" tvg-name="TVP 3 Szczecin HD" tvg-logo="https://emby.tmsimg.com/assets/s118760_ll_h15_aa.png" group-title="Poland" tvg-id="TVP3SZCHD" tvc-guide-stationid="162322",TVP 3 Szczecin HD
-http://example.local/POL-TVP3SZCHD.ts
 #EXTINF:-1 tvg-chno="118768" tvg-name="TVP 3 Warszawa" tvg-logo="https://emby.tmsimg.com/assets/s118768_ll_h9_aa.png" group-title="Poland" tvg-id="TVP3WA" tvc-guide-stationid="118768",TVP 3 Warszawa
 http://example.local/POL-TVP3WA.ts
 #EXTINF:-1 tvg-chno="118761" tvg-name="TVP 3 Wrocław" tvg-logo="https://emby.tmsimg.com/assets/s118761_ll_h9_aa.png" group-title="Poland" tvg-id="TVP3WR" tvc-guide-stationid="118761",TVP 3 Wrocław
@@ -1019,3 +1017,5 @@ http://example.local/USA-UEFAT20.ts
 http://example.local/USA-UEFAU.ts
 #EXTINF:-1 tvg-chno="123773" tvg-name="UEFA Soccer - U (UEFA Soccer (U) Station 21)" group-title="United States" tvg-id="UEFAU21" tvc-guide-stationid="123773",UEFA Soccer - U (UEFA Soccer (U) Station 21)
 http://example.local/USA-UEFAU21.ts
+#EXTINF:-1 tvg-chno="116137" tvg-name="UEFA Soccer - V" group-title="United States" tvg-id="UEFAV" tvc-guide-stationid="116137",UEFA Soccer - V
+http://example.local/USA-UEFAV.ts

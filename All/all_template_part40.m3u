@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="99450" tvg-name="HSN2 HD" tvg-logo="https://emby.tmsimg.com/assets/s99450_ll_h15_ac.png" group-title="United States" tvg-id="HSN2HD" tvc-guide-stationid="99450",HSN2 HD
-http://example.local/USA-HSN2HD.ts
 #EXTINF:-1 tvg-chno="166031" tvg-name="HT SPOR" group-title="Germany" tvg-id="HTSPOR" tvc-guide-stationid="166031",HT SPOR
 http://example.local/DEU-HTSPOR.ts
 #EXTINF:-1 tvg-chno="168744" tvg-name="HT Spor HD" tvg-logo="https://emby.tmsimg.com/assets/s168744_ll_h9_aa.png" group-title="Germany" tvg-id="HTSPOHD" tvc-guide-stationid="168744",HT Spor HD
@@ -1019,3 +1017,5 @@ http://example.local/USA-INFO698.ts
 http://example.local/USA-INFO699.ts
 #EXTINF:-1 tvg-chno="59079" tvg-name="Information Channel - INFO7040" group-title="United States" tvg-id="INFO7040" tvc-guide-stationid="59079",Information Channel - INFO7040
 http://example.local/USA-INFO7040.ts
+#EXTINF:-1 tvg-chno="83354" tvg-name="Information Channel - INFO791" group-title="United States" tvg-id="INFO791" tvc-guide-stationid="83354",Information Channel - INFO791
+http://example.local/USA-INFO791.ts

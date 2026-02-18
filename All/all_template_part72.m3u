@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="24294" tvg-name="MTV 90s" tvg-logo="https://emby.tmsimg.com/assets/s24294_ll_h15_aa.png" group-title="Norway" tvg-id="MTV90S" tvc-guide-stationid="24294",MTV 90s
-http://example.local/NOR-MTV90S.ts
 #EXTINF:-1 tvg-chno="24294" tvg-name="MTV 90s" tvg-logo="https://emby.tmsimg.com/assets/s24294_ll_h15_aa.png" group-title="Germany" tvg-id="MTV90S" tvc-guide-stationid="24294",MTV 90s
 http://example.local/DEU-MTV90S.ts
 #EXTINF:-1 tvg-chno="24294" tvg-name="MTV 90s" tvg-logo="https://emby.tmsimg.com/assets/s24294_ll_h15_aa.png" group-title="France" tvg-id="MTV90S" tvc-guide-stationid="24294",MTV 90s
@@ -1019,3 +1017,5 @@ http://example.local/BMU-MC13.ts
 http://example.local/JAM-MC13.ts
 #EXTINF:-1 tvg-chno="19312" tvg-name="Music Choice Rock" tvg-logo="https://emby.tmsimg.com/assets/s19312_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="MC13" tvc-guide-stationid="19312",Music Choice Rock
 http://example.local/PRI-MC13.ts
+#EXTINF:-1 tvg-chno="19312" tvg-name="Music Choice Rock" tvg-logo="https://emby.tmsimg.com/assets/s19312_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="MC13" tvc-guide-stationid="19312",Music Choice Rock
+http://example.local/DOM-MC13.ts

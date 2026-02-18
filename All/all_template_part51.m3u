@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="32414" tvg-name="KASN-DT (CW)" tvg-logo="https://logos.jesmann.com/kasndt.png" group-title="United States" tvg-id="KASNDT" tvc-guide-stationid="32414",KASN-DT (CW)
-http://example.local/USA-KASNDT.ts
 #EXTINF:-1 tvg-chno="55037" tvg-name="KASN-DT2 (REWIND)" tvg-logo="https://emby.tmsimg.com/assets/s119814_ll_h15_ab.png" group-title="United States" tvg-id="KASNDT2" tvc-guide-stationid="55037",KASN-DT2 (REWIND)
 http://example.local/USA-KASNDT2.ts
 #EXTINF:-1 tvg-chno="121086" tvg-name="KASN-DT3 (ION)" tvg-logo="https://emby.tmsimg.com/assets/s18633_ll_h15_ad.png" group-title="United States" tvg-id="KASNDT3" tvc-guide-stationid="121086",KASN-DT3 (ION)
@@ -25,7 +23,7 @@ http://example.local/USA-KASY.ts
 http://example.local/USA-KASYDT.ts
 #EXTINF:-1 tvg-chno="98384" tvg-name="KASY-DT2 (IMYS)" tvg-logo="https://emby.tmsimg.com/assets/s89923_ll_h15_ad.png" group-title="United States" tvg-id="KASYDT2" tvc-guide-stationid="98384",KASY-DT2 (IMYS)
 http://example.local/USA-KASYDT2.ts
-#EXTINF:-1 tvg-chno="102121" tvg-name="KASY-DT3 (GET)" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="KASYDT3" tvc-guide-stationid="102121",KASY-DT3 (GET)
+#EXTINF:-1 tvg-chno="102121" tvg-name="KASY-DT3 (GREATTV)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002QQ7SV.png" group-title="United States" tvg-id="KASYDT3" tvc-guide-stationid="102121",KASY-DT3 (GREATTV)
 http://example.local/USA-KASYDT3.ts
 #EXTINF:-1 tvg-chno="102182" tvg-name="KASY-DT4 (COURT)" tvg-logo="https://emby.tmsimg.com/assets/s111043_ll_h15_aa.png" group-title="United States" tvg-id="KASYDT4" tvc-guide-stationid="102182",KASY-DT4 (COURT)
 http://example.local/USA-KASYDT4.ts
@@ -93,7 +91,7 @@ http://example.local/USA-KATVDT5.ts
 http://example.local/USA-KAUNLP.ts
 #EXTINF:-1 tvg-chno="100046" tvg-name="KAUO-LD" group-title="United States" tvg-id="KAUOLD" tvc-guide-stationid="100046",KAUO-LD
 http://example.local/USA-KAUOLD.ts
-#EXTINF:-1 tvg-chno="100048" tvg-name="KAUO-LD2 (GET)" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="KAUOLD2" tvc-guide-stationid="100048",KAUO-LD2 (GET)
+#EXTINF:-1 tvg-chno="100048" tvg-name="KAUO-LD2 (GREATTV)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002QQ7SV.png" group-title="United States" tvg-id="KAUOLD2" tvc-guide-stationid="100048",KAUO-LD2 (GREATTV)
 http://example.local/USA-KAUOLD2.ts
 #EXTINF:-1 tvg-chno="100049" tvg-name="KAUO-LD3 (MVSGLD)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0026WLX6.png" group-title="United States" tvg-id="KAUOLD3" tvc-guide-stationid="100049",KAUO-LD3 (MVSGLD)
 http://example.local/USA-KAUOLD3.ts
@@ -755,7 +753,7 @@ http://example.local/USA-KBTCLD3.ts
 http://example.local/USA-KBTCLD4.ts
 #EXTINF:-1 tvg-chno="65518" tvg-name="KBTF-CD (UNIMAS)" tvg-logo="https://emby.tmsimg.com/assets/s29058_ll_h15_ab.png" group-title="United States" tvg-id="KBTFCD" tvc-guide-stationid="65518",KBTF-CD (UNIMAS)
 http://example.local/USA-KBTFCD.ts
-#EXTINF:-1 tvg-chno="86445" tvg-name="KBTF-CD2 (GET)" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="KBTFCD2" tvc-guide-stationid="86445",KBTF-CD2 (GET)
+#EXTINF:-1 tvg-chno="86445" tvg-name="KBTF-CD2 (GREATTV)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002QQ7SV.png" group-title="United States" tvg-id="KBTFCD2" tvc-guide-stationid="86445",KBTF-CD2 (GREATTV)
 http://example.local/USA-KBTFCD2.ts
 #EXTINF:-1 tvg-chno="90187" tvg-name="KBTF-CD3 (IMYS)" tvg-logo="https://emby.tmsimg.com/assets/s89923_ll_h15_ad.png" group-title="United States" tvg-id="KBTFCD3" tvc-guide-stationid="90187",KBTF-CD3 (IMYS)
 http://example.local/USA-KBTFCD3.ts
@@ -1019,3 +1017,5 @@ http://example.local/USA-KCCIDT5.ts
 http://example.local/USA-KCCNFM.ts
 #EXTINF:-1 tvg-chno="10370" tvg-name="KCCW (CBS)" tvg-logo="https://emby.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="United States" tvg-id="KCCW" tvc-guide-stationid="10370",KCCW (CBS)
 http://example.local/USA-KCCW.ts
+#EXTINF:-1 tvg-chno="33445" tvg-name="KCCW-DT (CBS)" tvg-logo="https://logos.jesmann.com/kccwdt.png" group-title="United States" tvg-id="KCCWDT" tvc-guide-stationid="33445",KCCW-DT (CBS)
+http://example.local/USA-KCCWDT.ts

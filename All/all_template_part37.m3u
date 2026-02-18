@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="18429" tvg-name="HBO Comedy" tvg-logo="https://emby.tmsimg.com/assets/s18429_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="HBOC" tvc-guide-stationid="18429",HBO Comedy
-http://example.local/DOM-HBOC.ts
 #EXTINF:-1 tvg-chno="18429" tvg-name="HBO Comedy" tvg-logo="https://emby.tmsimg.com/assets/s18429_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="HBOC" tvc-guide-stationid="18429",HBO Comedy
 http://example.local/ATG-HBOC.ts
 #EXTINF:-1 tvg-chno="18430" tvg-name="HBO Comedy (Pacific)" tvg-logo="https://logos.jesmann.com/hbocp.png" group-title="United States" tvg-id="HBOCP" tvc-guide-stationid="18430",HBO Comedy (Pacific)
@@ -1019,3 +1017,5 @@ http://example.local/CRI-HBOSLA.ts
 http://example.local/JAM-HBOSEHD.ts
 #EXTINF:-1 tvg-chno="74450" tvg-name="HBO Signature" tvg-logo="https://emby.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Venezuela" tvg-id="HBOSLA" tvc-guide-stationid="74450",HBO Signature
 http://example.local/VEN-HBOSLA.ts
+#EXTINF:-1 tvg-chno="80120" tvg-name="HBO Signature" tvg-logo="https://emby.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Venezuela" tvg-id="HBOSLHD" tvc-guide-stationid="80120",HBO Signature
+http://example.local/VEN-HBOSLHD.ts

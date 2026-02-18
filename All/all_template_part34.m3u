@@ -799,12 +799,10 @@ http://example.local/DEU-GEOWILD.ts
 http://example.local/CAN-GKPL.ts
 #EXTINF:-1 tvg-chno="55629" tvg-name="German Kino Plus" tvg-logo="https://emby.tmsimg.com/assets/s55629_ll_h6_aa.png" group-title="United States" tvg-id="GKPL" tvc-guide-stationid="55629",German Kino Plus
 http://example.local/USA-GKPL.ts
-#EXTINF:-1 tvg-chno="82563" tvg-name="get" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="GET" tvc-guide-stationid="82563",get
-http://example.local/USA-GET.ts
-#EXTINF:-1 tvg-chno="132748" tvg-name="get" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="GETTVS" tvc-guide-stationid="132748",get
-http://example.local/USA-GETTVS.ts
-#EXTINF:-1 tvg-chno="190791" tvg-name="get" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="GETTS" tvc-guide-stationid="190791",get
+#EXTINF:-1 tvg-chno="190791" tvg-name="get" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002QQ7SV.png" group-title="United States" tvg-id="GETTS" tvc-guide-stationid="190791",get
 http://example.local/USA-GETTS.ts
+#EXTINF:-1 tvg-chno="132748" tvg-name="get (GREATTV)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002QQ7SV.png" group-title="United States" tvg-id="GETTVS" tvc-guide-stationid="132748",get (GREATTV)
+http://example.local/USA-GETTVS.ts
 #EXTINF:-1 tvg-chno="132158" tvg-name="GET Comedy" tvg-logo="https://emby.tmsimg.com/assets/s132158_ll_h15_ab.png" group-title="United States" tvg-id="GETCMDY" tvc-guide-stationid="132158",GET Comedy
 http://example.local/USA-GETCMDY.ts
 #EXTINF:-1 tvg-chno="135626" tvg-name="get HD" group-title="United States" tvg-id="GETHD" tvc-guide-stationid="135626",get HD
@@ -1019,3 +1017,5 @@ http://example.local/USA-CAGNEHA.ts
 http://example.local/USA-CAGNEMO.ts
 #EXTINF:-1 tvg-chno="146046" tvg-name="Global News - Winnipeg" tvg-logo="https://emby.tmsimg.com/assets/s146046_ll_h15_aa.png" group-title="United States" tvg-id="CAGNEWI" tvc-guide-stationid="146046",Global News - Winnipeg
 http://example.local/USA-CAGNEWI.ts
+#EXTINF:-1 tvg-chno="114495" tvg-name="Global News BC" tvg-logo="https://emby.tmsimg.com/assets/s114495_ll_h15_ac.png" group-title="United States" tvg-id="CAGNEBC" tvc-guide-stationid="114495",Global News BC
+http://example.local/USA-CAGNEBC.ts

@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="117123" tvg-name="JimJam Polsat" tvg-logo="https://emby.tmsimg.com/assets/s117123_ll_h15_aa.png" group-title="Poland" tvg-id="JIJAPL" tvc-guide-stationid="117123",JimJam Polsat
-http://example.local/POL-JIJAPL.ts
 #EXTINF:-1 tvg-chno="175280" tvg-name="JimJam Polsat HD" group-title="Poland" tvg-id="JIMJAMP" tvc-guide-stationid="175280",JimJam Polsat HD
 http://example.local/POL-JIMJAMP.ts
 #EXTINF:-1 tvg-chno="175029" tvg-name="Jin TV" group-title="Poland" tvg-id="JINTV" tvc-guide-stationid="175029",Jin TV
@@ -1019,3 +1017,5 @@ http://example.local/USA-K14ARD2.ts
 http://example.local/USA-K14BFD.ts
 #EXTINF:-1 tvg-chno="106542" tvg-name="K14DE-D" tvg-logo="https://emby.tmsimg.com/assets/s21855_ll_h15_ab.png" group-title="United States" tvg-id="K41DED" tvc-guide-stationid="106542",K14DE-D
 http://example.local/USA-K41DED.ts
+#EXTINF:-1 tvg-chno="107673" tvg-name="K14DE-D4 (BIZTV)" tvg-logo="https://emby.tmsimg.com/assets/s66281_ll_h15_ab.png" group-title="United States" tvg-id="K41DED4" tvc-guide-stationid="107673",K14DE-D4 (BIZTV)
+http://example.local/USA-K41DED4.ts

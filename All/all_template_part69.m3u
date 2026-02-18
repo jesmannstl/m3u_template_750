@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="124023" tvg-name="Los Heroes del Norte" tvg-logo="https://emby.tmsimg.com/assets/s124023_ll_h15_ab.png" group-title="United States" tvg-id="LHNOR" tvc-guide-stationid="124023",Los Heroes del Norte
-http://example.local/USA-LHNOR.ts
 #EXTINF:-1 tvg-chno="58632" tvg-name="Louisiana Connection Network" group-title="United States" tvg-id="LCNTV" tvc-guide-stationid="58632",Louisiana Connection Network
 http://example.local/USA-LCNTV.ts
 #EXTINF:-1 tvg-chno="93605" tvg-name="Louisiana State University-Eunice" group-title="United States" tvg-id="LSUE" tvc-guide-stationid="93605",Louisiana State University-Eunice
@@ -1019,3 +1017,5 @@ http://example.local/USA-MDU2.ts
 http://example.local/USA-MDU3.ts
 #EXTINF:-1 tvg-chno="93202" tvg-name="MDU 4" group-title="United States" tvg-id="MDU4" tvc-guide-stationid="93202",MDU 4
 http://example.local/USA-MDU4.ts
+#EXTINF:-1 tvg-chno="92598" tvg-name="MDU Camera Channel" group-title="United States" tvg-id="MDUC1" tvc-guide-stationid="92598",MDU Camera Channel
+http://example.local/USA-MDUC1.ts

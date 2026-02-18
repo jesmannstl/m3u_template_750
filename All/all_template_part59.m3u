@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="63194" tvg-name="KPTW-DT (PBS)" tvg-logo="https://logos.jesmann.com/kptwdt.png" group-title="United States" tvg-id="KPTWDT" tvc-guide-stationid="63194",KPTW-DT (PBS)
-http://example.local/USA-KPTWDT.ts
 #EXTINF:-1 tvg-chno="63195" tvg-name="KPTW-DT2 (CREATE)" tvg-logo="https://emby.tmsimg.com/assets/s48990_ll_h15_aa.png" group-title="United States" tvg-id="KPTWDT2" tvc-guide-stationid="63195",KPTW-DT2 (CREATE)
 http://example.local/USA-KPTWDT2.ts
 #EXTINF:-1 tvg-chno="107285" tvg-name="KPTW-DT3 (HD06)" tvg-logo="https://emby.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="United States" tvg-id="KPTWDT3" tvc-guide-stationid="107285",KPTW-DT3 (HD06)
@@ -623,7 +621,7 @@ http://example.local/USA-KRDHLD3.ts
 http://example.local/USA-KRDKDT.ts
 #EXTINF:-1 tvg-chno="111654" tvg-name="KRDK-DT (SD Feed) (COZITV)" tvg-logo="https://emby.tmsimg.com/assets/s78851_ll_h15_ab.png" group-title="United States" tvg-id="KRDKSD" tvc-guide-stationid="111654",KRDK-DT (SD Feed) (COZITV)
 http://example.local/USA-KRDKSD.ts
-#EXTINF:-1 tvg-chno="97128" tvg-name="KRDK-DT10 (GET)" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="KRDKD10" tvc-guide-stationid="97128",KRDK-DT10 (GET)
+#EXTINF:-1 tvg-chno="97128" tvg-name="KRDK-DT10 (GREATTV)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002QQ7SV.png" group-title="United States" tvg-id="KRDKD10" tvc-guide-stationid="97128",KRDK-DT10 (GREATTV)
 http://example.local/USA-KRDKD10.ts
 #EXTINF:-1 tvg-chno="110732" tvg-name="KRDK-DT11 (SCNEWS)" tvg-logo="https://emby.tmsimg.com/assets/s96827_ll_h15_ad.png" group-title="United States" tvg-id="KRDKD11" tvc-guide-stationid="110732",KRDK-DT11 (SCNEWS)
 http://example.local/USA-KRDKD11.ts
@@ -709,7 +707,7 @@ http://example.local/USA-KREMDT2.ts
 http://example.local/USA-KREMDT3.ts
 #EXTINF:-1 tvg-chno="118834" tvg-name="KREM-DT4 (THENEST)" tvg-logo="https://emby.tmsimg.com/assets/s147367_ll_h15_aa.png" group-title="United States" tvg-id="KREMDT4" tvc-guide-stationid="118834",KREM-DT4 (THENEST)
 http://example.local/USA-KREMDT4.ts
-#EXTINF:-1 tvg-chno="121638" tvg-name="KREM-DT6 (GET)" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="KREMDT6" tvc-guide-stationid="121638",KREM-DT6 (GET)
+#EXTINF:-1 tvg-chno="121638" tvg-name="KREM-DT6 (GREATTV)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002QQ7SV.png" group-title="United States" tvg-id="KREMDT6" tvc-guide-stationid="121638",KREM-DT6 (GREATTV)
 http://example.local/USA-KREMDT6.ts
 #EXTINF:-1 tvg-chno="129138" tvg-name="KREM-DT7 (OUTLAW)" tvg-logo="https://emby.tmsimg.com/assets/s150537_ll_h15_aa.png" group-title="United States" tvg-id="KREMDT7" tvc-guide-stationid="129138",KREM-DT7 (OUTLAW)
 http://example.local/USA-KREMDT7.ts
@@ -1019,3 +1017,5 @@ http://example.local/AUT-KRONETV.ts
 http://example.local/CHE-KRONETV.ts
 #EXTINF:-1 tvg-chno="117392" tvg-name="Krone.tv HD" tvg-logo="https://emby.tmsimg.com/assets/s117392_ll_h9_aa.png" group-title="Belgium" tvg-id="KRONEHD" tvc-guide-stationid="117392",Krone.tv HD
 http://example.local/BEL-KRONEHD.ts
+#EXTINF:-1 tvg-chno="117392" tvg-name="Krone.tv HD" tvg-logo="https://emby.tmsimg.com/assets/s117392_ll_h9_aa.png" group-title="Austria" tvg-id="KRONEHD" tvc-guide-stationid="117392",Krone.tv HD
+http://example.local/AUT-KRONEHD.ts

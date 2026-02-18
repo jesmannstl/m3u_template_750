@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="29017" tvg-name="Studio Universal" tvg-logo="https://emby.tmsimg.com/assets/s29017_ll_h15_aa.png" group-title="Belize" tvg-id="STULM" tvc-guide-stationid="29017",Studio Universal
-http://example.local/BLZ-STULM.ts
 #EXTINF:-1 tvg-chno="62672" tvg-name="Studio Universal" tvg-logo="https://emby.tmsimg.com/assets/s29017_h3_ba.png" group-title="Panama" tvg-id="STULCO" tvc-guide-stationid="62672",Studio Universal
 http://example.local/PAN-STULCO.ts
 #EXTINF:-1 tvg-chno="29017" tvg-name="Studio Universal" tvg-logo="https://emby.tmsimg.com/assets/s29017_ll_h15_aa.png" group-title="Panama" tvg-id="STULM" tvc-guide-stationid="29017",Studio Universal
@@ -1019,3 +1017,5 @@ http://example.local/USA-TBNWOF.ts
 http://example.local/USA-TBS.ts
 #EXTINF:-1 tvg-chno="64127" tvg-name="TBS" group-title="United States" tvg-id="GMTBS" tvc-guide-stationid="64127",TBS
 http://example.local/USA-GMTBS.ts
+#EXTINF:-1 tvg-chno="74115" tvg-name="TBS" tvg-logo="https://emby.tmsimg.com/assets/s75073_ll_h15_ad.png" group-title="Brazil" tvg-id="TBSESEN" tvc-guide-stationid="74115",TBS
+http://example.local/BRA-TBSESEN.ts

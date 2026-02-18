@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="32765" tvg-name="WCSC-DT2 (BOUNCE)" tvg-logo="https://emby.tmsimg.com/assets/s73067_h3_aa.png" group-title="United States" tvg-id="WCSCDT2" tvc-guide-stationid="32765",WCSC-DT2 (BOUNCE)
-http://example.local/USA-WCSCDT2.ts
 #EXTINF:-1 tvg-chno="73117" tvg-name="WCSC-DT3 (WPAM)" tvg-logo="https://emby.tmsimg.com/assets/s168979_ll_h15_aa.png" group-title="United States" tvg-id="WCSCDT3" tvc-guide-stationid="73117",WCSC-DT3 (WPAM)
 http://example.local/USA-WCSCDT3.ts
 #EXTINF:-1 tvg-chno="113575" tvg-name="WCSC-DT4 (GRIT)" tvg-logo="https://emby.tmsimg.com/assets/s89922_h3_ba.png" group-title="United States" tvg-id="WCSCDT4" tvc-guide-stationid="113575",WCSC-DT4 (GRIT)
@@ -199,7 +197,7 @@ http://example.local/USA-WCWJDT2.ts
 http://example.local/USA-WCWJ2SD.ts
 #EXTINF:-1 tvg-chno="110691" tvg-name="WCWJ-DT3 (MVIES)" tvg-logo="https://emby.tmsimg.com/assets/s81275_h3_aa.png" group-title="United States" tvg-id="WCWJDT3" tvc-guide-stationid="110691",WCWJ-DT3 (MVIES)
 http://example.local/USA-WCWJDT3.ts
-#EXTINF:-1 tvg-chno="117205" tvg-name="WCWJ-DT4 (GET)" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="WCWJDT4" tvc-guide-stationid="117205",WCWJ-DT4 (GET)
+#EXTINF:-1 tvg-chno="117205" tvg-name="WCWJ-DT4 (GREATTV)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002QQ7SV.png" group-title="United States" tvg-id="WCWJDT4" tvc-guide-stationid="117205",WCWJ-DT4 (GREATTV)
 http://example.local/USA-WCWJDT4.ts
 #EXTINF:-1 tvg-chno="11691" tvg-name="WCWN (CW)" tvg-logo="https://emby.tmsimg.com/assets/s51306_ll_h15_ac.png" group-title="United States" tvg-id="WCWN" tvc-guide-stationid="11691",WCWN (CW)
 http://example.local/USA-WCWN.ts
@@ -1019,3 +1017,5 @@ http://example.local/USA-WNPHX.ts
 http://example.local/USA-WNAPIT.ts
 #EXTINF:-1 tvg-chno="125005" tvg-name="WeatherNation Portland" group-title="United States" tvg-id="WNPOR" tvc-guide-stationid="125005",WeatherNation Portland
 http://example.local/USA-WNPOR.ts
+#EXTINF:-1 tvg-chno="124996" tvg-name="WeatherNation Raleigh-Durham" group-title="United States" tvg-id="WNARD" tvc-guide-stationid="124996",WeatherNation Raleigh-Durham
+http://example.local/USA-WNARD.ts

@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="74115" tvg-name="TBS" tvg-logo="https://emby.tmsimg.com/assets/s75073_ll_h15_ad.png" group-title="Brazil" tvg-id="TBSESEN" tvc-guide-stationid="74115",TBS
-http://example.local/BRA-TBSESEN.ts
 #EXTINF:-1 tvg-chno="11867" tvg-name="TBS" tvg-logo="https://emby.tmsimg.com/assets/s11867_ll_h15_ac.png" group-title="Bermuda" tvg-id="TBS" tvc-guide-stationid="11867",TBS
 http://example.local/BMU-TBS.ts
 #EXTINF:-1 tvg-chno="75067" tvg-name="TBS" tvg-logo="https://emby.tmsimg.com/assets/s75073_ll_h15_ad.png" group-title="Bermuda" tvg-id="TBSLAEN" tvc-guide-stationid="75067",TBS
@@ -1019,3 +1017,5 @@ http://example.local/USA-WNJUF.ts
 http://example.local/USA-TELESAT.ts
 #EXTINF:-1 tvg-chno="109979" tvg-name="Telemundo Satellite Feed Pacific" tvg-logo="https://emby.tmsimg.com/assets/s10239_ll_h15_ab.png" group-title="United States" tvg-id="TELESAP" tvc-guide-stationid="109979",Telemundo Satellite Feed Pacific
 http://example.local/USA-TELESAP.ts
+#EXTINF:-1 tvg-chno="102836" tvg-name="Telemundo Stream" tvg-logo="https://emby.tmsimg.com/assets/s10239_ll_h15_ab.png" group-title="United States" tvg-id="TELESTR" tvc-guide-stationid="102836",Telemundo Stream
+http://example.local/USA-TELESTR.ts

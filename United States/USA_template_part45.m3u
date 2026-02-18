@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="158129" tvg-name="The Conners" tvg-logo="https://emby.tmsimg.com/assets/s158129_ll_h15_aa.png" group-title="United States" tvg-id="CONNERS" tvc-guide-stationid="158129",The Conners
-http://example.local/USA-CONNERS.ts
 #EXTINF:-1 tvg-chno="69639" tvg-name="The Country Network" tvg-logo="https://emby.tmsimg.com/assets/s69639_ll_h6_aa.png" group-title="United States" tvg-id="TCNET" tvc-guide-stationid="69639",The Country Network
 http://example.local/USA-TCNET.ts
 #EXTINF:-1 tvg-chno="75365" tvg-name="The County Channel" group-title="United States" tvg-id="TCC" tvc-guide-stationid="75365",The County Channel
@@ -1019,3 +1017,5 @@ http://example.local/USA-TV84.ts
 http://example.local/USA-TSP2H.ts
 #EXTINF:-1 tvg-chno="73142" tvg-name="TVA Sports HD" tvg-logo="https://emby.tmsimg.com/assets/s73142_ll_h15_ad.png" group-title="United States" tvg-id="TVASPTH" tvc-guide-stationid="73142",TVA Sports HD
 http://example.local/USA-TVASPTH.ts
+#EXTINF:-1 tvg-chno="79403" tvg-name="TVB Drama" group-title="United States" tvg-id="TVBDRA" tvc-guide-stationid="79403",TVB Drama
+http://example.local/USA-TVBDRA.ts

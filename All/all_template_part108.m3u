@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="116572" tvg-name="Virgin Radio" tvg-logo="https://emby.tmsimg.com/assets/s116572_ll_h9_aa.png" group-title="Belgium" tvg-id="VIRGRAD" tvc-guide-stationid="116572",Virgin Radio
-http://example.local/BEL-VIRGRAD.ts
 #EXTINF:-1 tvg-chno="123152" tvg-name="Virgin Radio" tvg-logo="https://emby.tmsimg.com/assets/s123152_ll_h15_aa.png" group-title="Italy" tvg-id="VIRRAIT" tvc-guide-stationid="123152",Virgin Radio
 http://example.local/ITA-VIRRAIT.ts
 #EXTINF:-1 tvg-chno="116572" tvg-name="Virgin Radio" tvg-logo="https://emby.tmsimg.com/assets/s116572_ll_h9_aa.png" group-title="Italy" tvg-id="VIRGRAD" tvc-guide-stationid="116572",Virgin Radio
@@ -1019,3 +1017,5 @@ http://example.local/USA-W25AYD4.ts
 http://example.local/CAN-W25BTD.ts
 #EXTINF:-1 tvg-chno="96567" tvg-name="W25BT-D (PBS)" tvg-logo="https://emby.tmsimg.com/assets/s32356_ll_h15_ac.png" group-title="United States" tvg-id="W25BTD" tvc-guide-stationid="96567",W25BT-D (PBS)
 http://example.local/USA-W25BTD.ts
+#EXTINF:-1 tvg-chno="96568" tvg-name="W25BT-D2 (MHZWV)" tvg-logo="https://emby.tmsimg.com/assets/s49582_ll_h9_aa.png" group-title="Canada" tvg-id="W25BTD2" tvc-guide-stationid="96568",W25BT-D2 (MHZWV)
+http://example.local/CAN-W25BTD2.ts

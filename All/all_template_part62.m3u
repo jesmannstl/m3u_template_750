@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="34831" tvg-name="KTVO-DT (ABC)" tvg-logo="https://logos.jesmann.com/ktvodt.png" group-title="United States" tvg-id="KTVODT" tvc-guide-stationid="34831",KTVO-DT (ABC)
-http://example.local/USA-KTVODT.ts
 #EXTINF:-1 tvg-chno="49407" tvg-name="KTVO-DT2 (CBS)" tvg-logo="https://logos.jesmann.com/ktvodt2.png" group-title="United States" tvg-id="KTVODT2" tvc-guide-stationid="49407",KTVO-DT2 (CBS)
 http://example.local/USA-KTVODT2.ts
 #EXTINF:-1 tvg-chno="87917" tvg-name="KTVO-DT2 (SD Feed) (CBS)" tvg-logo="https://emby.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="United States" tvg-id="KTVO2SD" tvc-guide-stationid="87917",KTVO-DT2 (SD Feed) (CBS)
@@ -877,7 +875,7 @@ http://example.local/USA-KUTH.ts
 http://example.local/USA-KUTHDT.ts
 #EXTINF:-1 tvg-chno="83403" tvg-name="KUTH-DT2 (UNIMAS)" tvg-logo="https://emby.tmsimg.com/assets/s29058_h3_aa.png" group-title="United States" tvg-id="KUTHDT2" tvc-guide-stationid="83403",KUTH-DT2 (UNIMAS)
 http://example.local/USA-KUTHDT2.ts
-#EXTINF:-1 tvg-chno="86379" tvg-name="KUTH-DT3 (GET)" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="KUTHDT3" tvc-guide-stationid="86379",KUTH-DT3 (GET)
+#EXTINF:-1 tvg-chno="86379" tvg-name="KUTH-DT3 (GREATTV)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002QQ7SV.png" group-title="United States" tvg-id="KUTHDT3" tvc-guide-stationid="86379",KUTH-DT3 (GREATTV)
 http://example.local/USA-KUTHDT3.ts
 #EXTINF:-1 tvg-chno="90197" tvg-name="KUTH-DT4 (QUESTSD)" tvg-logo="https://emby.tmsimg.com/assets/s106838_ll_h9_ad.png" group-title="United States" tvg-id="KUTHDT4" tvc-guide-stationid="90197",KUTH-DT4 (QUESTSD)
 http://example.local/USA-KUTHDT4.ts
@@ -941,7 +939,7 @@ http://example.local/USA-KUVE.ts
 http://example.local/USA-KUVECD.ts
 #EXTINF:-1 tvg-chno="95784" tvg-name="KUVE-CD2 (UNIMAS)" tvg-logo="https://emby.tmsimg.com/assets/s29058_ll_h15_ab.png" group-title="United States" tvg-id="KUVECD2" tvc-guide-stationid="95784",KUVE-CD2 (UNIMAS)
 http://example.local/USA-KUVECD2.ts
-#EXTINF:-1 tvg-chno="95785" tvg-name="KUVE-CD3 (GET)" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="KUVECD3" tvc-guide-stationid="95785",KUVE-CD3 (GET)
+#EXTINF:-1 tvg-chno="95785" tvg-name="KUVE-CD3 (GREATTV)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002QQ7SV.png" group-title="United States" tvg-id="KUVECD3" tvc-guide-stationid="95785",KUVE-CD3 (GREATTV)
 http://example.local/USA-KUVECD3.ts
 #EXTINF:-1 tvg-chno="95786" tvg-name="KUVE-CD4 (MVSGLD)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0026WLX6.png" group-title="United States" tvg-id="KUVECD4" tvc-guide-stationid="95786",KUVE-CD4 (MVSGLD)
 http://example.local/USA-KUVECD4.ts
@@ -949,7 +947,7 @@ http://example.local/USA-KUVECD4.ts
 http://example.local/USA-KUVEDT.ts
 #EXTINF:-1 tvg-chno="90228" tvg-name="KUVE-DT2 (UNIMAS)" tvg-logo="https://emby.tmsimg.com/assets/s29058_h3_aa.png" group-title="United States" tvg-id="KUVEDT2" tvc-guide-stationid="90228",KUVE-DT2 (UNIMAS)
 http://example.local/USA-KUVEDT2.ts
-#EXTINF:-1 tvg-chno="87135" tvg-name="KUVE-DT3 (GET)" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="KUVEDT3" tvc-guide-stationid="87135",KUVE-DT3 (GET)
+#EXTINF:-1 tvg-chno="87135" tvg-name="KUVE-DT3 (GREATTV)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002QQ7SV.png" group-title="United States" tvg-id="KUVEDT3" tvc-guide-stationid="87135",KUVE-DT3 (GREATTV)
 http://example.local/USA-KUVEDT3.ts
 #EXTINF:-1 tvg-chno="90169" tvg-name="KUVE-DT4 (MVSGLD)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0026WLX6.png" group-title="United States" tvg-id="KUVEDT4" tvc-guide-stationid="90169",KUVE-DT4 (MVSGLD)
 http://example.local/USA-KUVEDT4.ts
@@ -1019,3 +1017,5 @@ http://example.local/USA-KUVSDT.ts
 http://example.local/USA-KUVSDT2.ts
 #EXTINF:-1 tvg-chno="80155" tvg-name="KUVS-DT3 (BOUNCE)" tvg-logo="https://emby.tmsimg.com/assets/s73067_ll_h15_ab.png" group-title="United States" tvg-id="KUVSDT3" tvc-guide-stationid="80155",KUVS-DT3 (BOUNCE)
 http://example.local/USA-KUVSDT3.ts
+#EXTINF:-1 tvg-chno="90192" tvg-name="KUVS-DT4 (IMYS)" tvg-logo="https://emby.tmsimg.com/assets/s89923_ll_h15_ad.png" group-title="United States" tvg-id="KUVSDT4" tvc-guide-stationid="90192",KUVS-DT4 (IMYS)
+http://example.local/USA-KUVSDT4.ts

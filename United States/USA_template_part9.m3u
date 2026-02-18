@@ -971,11 +971,9 @@ http://example.local/USA-GEONWS.ts
 http://example.local/USA-GEOTV.ts
 #EXTINF:-1 tvg-chno="55629" tvg-name="German Kino Plus" tvg-logo="https://emby.tmsimg.com/assets/s55629_ll_h6_aa.png" group-title="United States" tvg-id="GKPL" tvc-guide-stationid="55629",German Kino Plus
 http://example.local/USA-GKPL.ts
-#EXTINF:-1 tvg-chno="82563" tvg-name="get" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="GET" tvc-guide-stationid="82563",get
-http://example.local/USA-GET.ts
-#EXTINF:-1 tvg-chno="132748" tvg-name="get" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="GETTVS" tvc-guide-stationid="132748",get
+#EXTINF:-1 tvg-chno="132748" tvg-name="get (GREATTV)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002QQ7SV.png" group-title="United States" tvg-id="GETTVS" tvc-guide-stationid="132748",get (GREATTV)
 http://example.local/USA-GETTVS.ts
-#EXTINF:-1 tvg-chno="190791" tvg-name="get" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="GETTS" tvc-guide-stationid="190791",get
+#EXTINF:-1 tvg-chno="190791" tvg-name="get" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002QQ7SV.png" group-title="United States" tvg-id="GETTS" tvc-guide-stationid="190791",get
 http://example.local/USA-GETTS.ts
 #EXTINF:-1 tvg-chno="132158" tvg-name="GET Comedy" tvg-logo="https://emby.tmsimg.com/assets/s132158_ll_h15_ab.png" group-title="United States" tvg-id="GETCMDY" tvc-guide-stationid="132158",GET Comedy
 http://example.local/USA-GETCMDY.ts
@@ -1019,3 +1017,5 @@ http://example.local/USA-CAGNECL.ts
 http://example.local/USA-CAGNEWS.ts
 #EXTINF:-1 tvg-chno="114496" tvg-name="Global News Edmonton" tvg-logo="https://emby.tmsimg.com/assets/s114496_ll_h15_ac.png" group-title="United States" tvg-id="CAGNEED" tvc-guide-stationid="114496",Global News Edmonton
 http://example.local/USA-CAGNEED.ts
+#EXTINF:-1 tvg-chno="114492" tvg-name="Global News Toronto" tvg-logo="https://emby.tmsimg.com/assets/s114492_ll_h15_ac.png" group-title="United States" tvg-id="CAGNETO" tvc-guide-stationid="114492",Global News Toronto
+http://example.local/USA-CAGNETO.ts

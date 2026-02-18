@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="80120" tvg-name="HBO Signature" tvg-logo="https://emby.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Venezuela" tvg-id="HBOSLHD" tvc-guide-stationid="80120",HBO Signature
-http://example.local/VEN-HBOSLHD.ts
 #EXTINF:-1 tvg-chno="74450" tvg-name="HBO Signature" tvg-logo="https://emby.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="HBOSLA" tvc-guide-stationid="74450",HBO Signature
 http://example.local/PRI-HBOSLA.ts
 #EXTINF:-1 tvg-chno="80554" tvg-name="HBO Signature" tvg-logo="https://emby.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="HBOSEHD" tvc-guide-stationid="80554",HBO Signature
@@ -1019,3 +1017,5 @@ http://example.local/KNA-HISTORY.ts
 http://example.local/KNA-HCLMHD.ts
 #EXTINF:-1 tvg-chno="40137" tvg-name="History" tvg-logo="https://emby.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Saint Martin" tvg-id="HCLM" tvc-guide-stationid="40137",History
 http://example.local/MAF-HCLM.ts
+#EXTINF:-1 tvg-chno="14771" tvg-name="History" tvg-logo="https://emby.tmsimg.com/assets/s14771_ll_h15_af.png" group-title="Saint Martin" tvg-id="HISTORY" tvc-guide-stationid="14771",History
+http://example.local/MAF-HISTORY.ts

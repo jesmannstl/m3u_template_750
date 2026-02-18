@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="107878" tvg-name="radio TOP 40" tvg-logo="https://emby.tmsimg.com/assets/s107878_ll_h15_aa.png" group-title="Germany" tvg-id="TOP40" tvc-guide-stationid="107878",radio TOP 40
-http://example.local/DEU-TOP40.ts
 #EXTINF:-1 tvg-chno="106136" tvg-name="Radio Trausnitz" tvg-logo="https://emby.tmsimg.com/assets/s106136_ll_h15_ac.png" group-title="Germany" tvg-id="RATRAUS" tvc-guide-stationid="106136",Radio Trausnitz
 http://example.local/DEU-RATRAUS.ts
 #EXTINF:-1 tvg-chno="125365" tvg-name="Radio Vaticana Europa" group-title="Italy" tvg-id="RVATEUR" tvc-guide-stationid="125365",Radio Vaticana Europa
@@ -1019,3 +1017,5 @@ http://example.local/USA-RLXX5DM.ts
 http://example.local/PRI-REALPRM.ts
 #EXTINF:-1 tvg-chno="74714" tvg-name="Real XX.5 Premium" group-title="Bahamas" tvg-id="REALPRM" tvc-guide-stationid="74714",Real XX.5 Premium
 http://example.local/BHS-REALPRM.ts
+#EXTINF:-1 tvg-chno="58711" tvg-name="Real XX5 - New Frontier" group-title="Jamaica" tvg-id="XREAL2" tvc-guide-stationid="58711",Real XX5 - New Frontier
+http://example.local/JAM-XREAL2.ts

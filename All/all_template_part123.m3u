@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="31038" tvg-name="WRPX-DT (ION)" tvg-logo="https://emby.tmsimg.com/assets/s18633_ll_h15_ad.png" group-title="United States" tvg-id="WRPXDT" tvc-guide-stationid="31038",WRPX-DT (ION)
-http://example.local/USA-WRPXDT.ts
 #EXTINF:-1 tvg-chno="54624" tvg-name="WRPX-DT2 (COURT)" tvg-logo="https://emby.tmsimg.com/assets/s111043_h3_aa.png" group-title="United States" tvg-id="WRPXDT2" tvc-guide-stationid="54624",WRPX-DT2 (COURT)
 http://example.local/USA-WRPXDT2.ts
 #EXTINF:-1 tvg-chno="55318" tvg-name="WRPX-DT3 (IONPLUS)" tvg-logo="https://emby.tmsimg.com/assets/s55241_ll_h15_ad.png" group-title="United States" tvg-id="WRPXDT3" tvc-guide-stationid="55318",WRPX-DT3 (IONPLUS)
@@ -251,7 +249,7 @@ http://example.local/USA-WSCGLD6.ts
 http://example.local/USA-WSCGLD7.ts
 #EXTINF:-1 tvg-chno="117013" tvg-name="WSCG-LD8" group-title="United States" tvg-id="WSCGLD8" tvc-guide-stationid="117013",WSCG-LD8
 http://example.local/USA-WSCGLD8.ts
-#EXTINF:-1 tvg-chno="117014" tvg-name="WSCG-LD9 (GET)" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="WSCGLD9" tvc-guide-stationid="117014",WSCG-LD9 (GET)
+#EXTINF:-1 tvg-chno="117014" tvg-name="WSCG-LD9 (GREATTV)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002QQ7SV.png" group-title="United States" tvg-id="WSCGLD9" tvc-guide-stationid="117014",WSCG-LD9 (GREATTV)
 http://example.local/USA-WSCGLD9.ts
 #EXTINF:-1 tvg-chno="11836" tvg-name="WSCV (TELE)" tvg-logo="https://emby.tmsimg.com/assets/s10239_ll_h15_ab.png" group-title="United States" tvg-id="WSCV" tvc-guide-stationid="11836",WSCV (TELE)
 http://example.local/USA-WSCV.ts
@@ -585,7 +583,7 @@ http://example.local/USA-WSLNDT4.ts
 http://example.local/USA-WSLS.ts
 #EXTINF:-1 tvg-chno="31211" tvg-name="WSLS-DT (NBC)" tvg-logo="https://logos.jesmann.com/wslsdt.png" group-title="United States" tvg-id="WSLSDT" tvc-guide-stationid="31211",WSLS-DT (NBC)
 http://example.local/USA-WSLSDT.ts
-#EXTINF:-1 tvg-chno="52201" tvg-name="WSLS-DT2 (GET)" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="WSLSDT2" tvc-guide-stationid="52201",WSLS-DT2 (GET)
+#EXTINF:-1 tvg-chno="52201" tvg-name="WSLS-DT2 (GREATTV)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002QQ7SV.png" group-title="United States" tvg-id="WSLSDT2" tvc-guide-stationid="52201",WSLS-DT2 (GREATTV)
 http://example.local/USA-WSLSDT2.ts
 #EXTINF:-1 tvg-chno="72368" tvg-name="WSLS-DT3 (METVN)" tvg-logo="https://logos.jesmann.com/wslsdt3.png" group-title="United States" tvg-id="WSLSDT3" tvc-guide-stationid="72368",WSLS-DT3 (METVN)
 http://example.local/USA-WSLSDT3.ts
@@ -659,7 +657,7 @@ http://example.local/USA-WSOCSTR.ts
 http://example.local/USA-WSOCDT.ts
 #EXTINF:-1 tvg-chno="45250" tvg-name="WSOC-DT2 (TELE)" tvg-logo="https://emby.tmsimg.com/assets/s10239_ll_h15_ab.png" group-title="United States" tvg-id="WSOCDT2" tvc-guide-stationid="45250",WSOC-DT2 (TELE)
 http://example.local/USA-WSOCDT2.ts
-#EXTINF:-1 tvg-chno="124374" tvg-name="WSOC-DT3 (GET)" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="WSOCDT3" tvc-guide-stationid="124374",WSOC-DT3 (GET)
+#EXTINF:-1 tvg-chno="124374" tvg-name="WSOC-DT3 (GREATTV)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002QQ7SV.png" group-title="United States" tvg-id="WSOCDT3" tvc-guide-stationid="124374",WSOC-DT3 (GREATTV)
 http://example.local/USA-WSOCDT3.ts
 #EXTINF:-1 tvg-chno="147358" tvg-name="WSOC-DT4 (COMET)" tvg-logo="https://emby.tmsimg.com/assets/s97051_ll_h15_ab.png" group-title="United States" tvg-id="WSOCDT4" tvc-guide-stationid="147358",WSOC-DT4 (COMET)
 http://example.local/USA-WSOCDT4.ts
@@ -1019,3 +1017,5 @@ http://example.local/USA-WSYXDT.ts
 http://example.local/USA-WSYXDT2.ts
 #EXTINF:-1 tvg-chno="97744" tvg-name="WSYX-DT3 (FOX)" tvg-logo="https://logos.jesmann.com/wsyxdt3.png" group-title="United States" tvg-id="WSYXDT3" tvc-guide-stationid="97744",WSYX-DT3 (FOX)
 http://example.local/USA-WSYXDT3.ts
+#EXTINF:-1 tvg-chno="117136" tvg-name="WSYX-DT3 (SD Feed) (FOX)" tvg-logo="https://emby.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="United States" tvg-id="WSYX3SD" tvc-guide-stationid="117136",WSYX-DT3 (SD Feed) (FOX)
+http://example.local/USA-WSYX3SD.ts

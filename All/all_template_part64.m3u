@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="70471" tvg-name="KWYT-LD2 (NSTRAVI)" tvg-logo="https://emby.tmsimg.com/assets/s106819_ll_h6_aa.png" group-title="United States" tvg-id="KWYTLD2" tvc-guide-stationid="70471",KWYT-LD2 (NSTRAVI)
-http://example.local/USA-KWYTLD2.ts
 #EXTINF:-1 tvg-chno="70668" tvg-name="KWYT-LD3 (LATV)" tvg-logo="https://emby.tmsimg.com/assets/s55578_ll_h15_ab.png" group-title="United States" tvg-id="KWYTLD3" tvc-guide-stationid="70668",KWYT-LD3 (LATV)
 http://example.local/USA-KWYTLD3.ts
 #EXTINF:-1 tvg-chno="72612" tvg-name="KWYT-LD4 (ALMA)" tvg-logo="https://emby.tmsimg.com/assets/s45813_h3_aa.png" group-title="United States" tvg-id="KWYTLD4" tvc-guide-stationid="72612",KWYT-LD4 (ALMA)
@@ -169,7 +167,7 @@ http://example.local/USA-KXLJLD.ts
 http://example.local/USA-KXLKCD.ts
 #EXTINF:-1 tvg-chno="100097" tvg-name="KXLK-CD2 (UNIMAS)" tvg-logo="https://emby.tmsimg.com/assets/s29058_h3_aa.png" group-title="United States" tvg-id="KXLKCD2" tvc-guide-stationid="100097",KXLK-CD2 (UNIMAS)
 http://example.local/USA-KXLKCD2.ts
-#EXTINF:-1 tvg-chno="109025" tvg-name="KXLK-CD3 (GET)" tvg-logo="https://emby.tmsimg.com/assets/s82563_ll_h15_ab.png" group-title="United States" tvg-id="KXLKCD3" tvc-guide-stationid="109025",KXLK-CD3 (GET)
+#EXTINF:-1 tvg-chno="109025" tvg-name="KXLK-CD3 (GREATTV)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002QQ7SV.png" group-title="United States" tvg-id="KXLKCD3" tvc-guide-stationid="109025",KXLK-CD3 (GREATTV)
 http://example.local/USA-KXLKCD3.ts
 #EXTINF:-1 tvg-chno="109026" tvg-name="KXLK-CD4 (IMYS)" tvg-logo="https://emby.tmsimg.com/assets/s89923_ll_h15_ad.png" group-title="United States" tvg-id="KXLKCD4" tvc-guide-stationid="109026",KXLK-CD4 (IMYS)
 http://example.local/USA-KXLKCD4.ts
@@ -1019,3 +1017,5 @@ http://example.local/ESP-LA1HD.ts
 http://example.local/CHE-LA1HD.ts
 #EXTINF:-1 tvg-chno="91206" tvg-name="La 2 HD" tvg-logo="https://emby.tmsimg.com/assets/s91206_ll_h15_aa.png" group-title="Germany" tvg-id="LA2HD" tvc-guide-stationid="91206",La 2 HD
 http://example.local/DEU-LA2HD.ts
+#EXTINF:-1 tvg-chno="91206" tvg-name="La 2 HD" tvg-logo="https://emby.tmsimg.com/assets/s91206_ll_h15_aa.png" group-title="Spain" tvg-id="LA2HD" tvc-guide-stationid="91206",La 2 HD
+http://example.local/ESP-LA2HD.ts

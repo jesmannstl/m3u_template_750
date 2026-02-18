@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="90277" tvg-name="Paramount Network Caribbean" tvg-logo="https://emby.tmsimg.com/assets/s90277_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="PARCAR" tvc-guide-stationid="90277",Paramount Network Caribbean
-http://example.local/TTO-PARCAR.ts
 #EXTINF:-1 tvg-chno="90277" tvg-name="Paramount Network Caribbean" tvg-logo="https://emby.tmsimg.com/assets/s90277_ll_h15_ab.png" group-title="Barbados" tvg-id="PARCAR" tvc-guide-stationid="90277",Paramount Network Caribbean
 http://example.local/BRB-PARCAR.ts
 #EXTINF:-1 tvg-chno="59186" tvg-name="Paramount Network HD" tvg-logo="https://emby.tmsimg.com/assets/s59186_ll_h15_ac.png" group-title="United States" tvg-id="PARHD" tvc-guide-stationid="59186",Paramount Network HD
@@ -1019,3 +1017,5 @@ http://example.local/PAN-PLFUT1.ts
 http://example.local/MEX-PLFUT1H.ts
 #EXTINF:-1 tvg-chno="80466" tvg-name="Planeta Fútbol 1 HD" group-title="Belize" tvg-id="PLFUT1H" tvc-guide-stationid="80466",Planeta Fútbol 1 HD
 http://example.local/BLZ-PLFUT1H.ts
+#EXTINF:-1 tvg-chno="80443" tvg-name="Planeta Fútbol 2" group-title="Panama" tvg-id="PLFUT2" tvc-guide-stationid="80443",Planeta Fútbol 2
+http://example.local/PAN-PLFUT2.ts

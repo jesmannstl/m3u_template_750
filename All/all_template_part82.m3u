@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="22965" tvg-name="PPV - PPV535" group-title="United States" tvg-id="PPV535" tvc-guide-stationid="22965",PPV - PPV535
-http://example.local/USA-PPV535.ts
 #EXTINF:-1 tvg-chno="22966" tvg-name="PPV - PPV536" group-title="United States" tvg-id="PPV536" tvc-guide-stationid="22966",PPV - PPV536
 http://example.local/USA-PPV536.ts
 #EXTINF:-1 tvg-chno="22967" tvg-name="PPV - PPV537" group-title="United States" tvg-id="PPV537" tvc-guide-stationid="22967",PPV - PPV537
@@ -1019,3 +1017,5 @@ http://example.local/ESP-PULS24.ts
 http://example.local/AUT-PULS24.ts
 #EXTINF:-1 tvg-chno="83943" tvg-name="Puls 4" tvg-logo="https://emby.tmsimg.com/assets/s83943_ll_h15_aa.png" group-title="Germany" tvg-id="PULSTV" tvc-guide-stationid="83943",Puls 4
 http://example.local/DEU-PULSTV.ts
+#EXTINF:-1 tvg-chno="83943" tvg-name="Puls 4" tvg-logo="https://emby.tmsimg.com/assets/s83943_ll_h15_aa.png" group-title="Austria" tvg-id="PULSTV" tvc-guide-stationid="83943",Puls 4
+http://example.local/AUT-PULSTV.ts

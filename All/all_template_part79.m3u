@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="107423" tvg-name="OnDIRECTV HD (South)" tvg-logo="https://emby.tmsimg.com/assets/s107423_ll_h15_aa.png" group-title="Grenada" tvg-id="ONDTHS" tvc-guide-stationid="107423",OnDIRECTV HD (South)
-http://example.local/GRD-ONDTHS.ts
 #EXTINF:-1 tvg-chno="107423" tvg-name="OnDIRECTV HD (South)" tvg-logo="https://emby.tmsimg.com/assets/s107423_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="ONDTHS" tvc-guide-stationid="107423",OnDIRECTV HD (South)
 http://example.local/ATG-ONDTHS.ts
 #EXTINF:-1 tvg-chno="107423" tvg-name="OnDIRECTV HD (South)" tvg-logo="https://emby.tmsimg.com/assets/s107423_ll_h15_aa.png" group-title="St. Lucia" tvg-id="ONDTHS" tvc-guide-stationid="107423",OnDIRECTV HD (South)
@@ -1019,3 +1017,5 @@ http://example.local/BMU-PARCAR.ts
 http://example.local/PRI-PARCAR.ts
 #EXTINF:-1 tvg-chno="90277" tvg-name="Paramount Network Caribbean" tvg-logo="https://emby.tmsimg.com/assets/s90277_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="PARCAR" tvc-guide-stationid="90277",Paramount Network Caribbean
 http://example.local/CYM-PARCAR.ts
+#EXTINF:-1 tvg-chno="90277" tvg-name="Paramount Network Caribbean" tvg-logo="https://emby.tmsimg.com/assets/s90277_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="PARCAR" tvc-guide-stationid="90277",Paramount Network Caribbean
+http://example.local/TTO-PARCAR.ts

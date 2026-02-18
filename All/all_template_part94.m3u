@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="18812" tvg-name="Star Series" tvg-logo="https://emby.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Antigua and Barbuda" tvg-id="STARSER" tvc-guide-stationid="18812",Star Series
-http://example.local/ATG-STARSER.ts
 #EXTINF:-1 tvg-chno="17960" tvg-name="Star Series" tvg-logo="https://emby.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Antigua and Barbuda" tvg-id="STARSO" tvc-guide-stationid="17960",Star Series
 http://example.local/ATG-STARSO.ts
 #EXTINF:-1 tvg-chno="60542" tvg-name="Star Series" tvg-logo="https://emby.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Antigua and Barbuda" tvg-id="STARSHD" tvc-guide-stationid="60542",Star Series
@@ -1019,3 +1017,5 @@ http://example.local/CAN-SM086.ts
 http://example.local/CAN-SM084.ts
 #EXTINF:-1 tvg-chno="74281" tvg-name="Stingray Classical India" tvg-logo="https://emby.tmsimg.com/assets/s74281_ll_h15_aa.png" group-title="Canada" tvg-id="SM077" tvc-guide-stationid="74281",Stingray Classical India
 http://example.local/CAN-SM077.ts
+#EXTINF:-1 tvg-chno="74281" tvg-name="Stingray Classical India" tvg-logo="https://emby.tmsimg.com/assets/s74281_ll_h15_aa.png" group-title="United States" tvg-id="SM077" tvc-guide-stationid="74281",Stingray Classical India
+http://example.local/USA-SM077.ts

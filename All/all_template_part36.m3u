@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="91897" tvg-name="Government Access - GOAC497" group-title="United States" tvg-id="GOAC497" tvc-guide-stationid="91897",Government Access - GOAC497
-http://example.local/USA-GOAC497.ts
 #EXTINF:-1 tvg-chno="91898" tvg-name="Government Access - GOAC498" group-title="United States" tvg-id="GOAC498" tvc-guide-stationid="91898",Government Access - GOAC498
 http://example.local/USA-GOAC498.ts
 #EXTINF:-1 tvg-chno="91942" tvg-name="Government Access - GOAC507" group-title="United States" tvg-id="GOAC507" tvc-guide-stationid="91942",Government Access - GOAC507
@@ -1019,3 +1017,5 @@ http://example.local/BMU-HBOC.ts
 http://example.local/ARG-HBOC.ts
 #EXTINF:-1 tvg-chno="18429" tvg-name="HBO Comedy" tvg-logo="https://emby.tmsimg.com/assets/s18429_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="HBOC" tvc-guide-stationid="18429",HBO Comedy
 http://example.local/PRI-HBOC.ts
+#EXTINF:-1 tvg-chno="18429" tvg-name="HBO Comedy" tvg-logo="https://emby.tmsimg.com/assets/s18429_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="HBOC" tvc-guide-stationid="18429",HBO Comedy
+http://example.local/DOM-HBOC.ts

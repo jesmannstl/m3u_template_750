@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="56423" tvg-name="Tiny Pop +1" tvg-logo="https://emby.tmsimg.com/assets/s56423_ll_h15_ab.png" group-title="United Kingdom" tvg-id="TINYPP1" tvc-guide-stationid="56423",Tiny Pop +1
-http://example.local/GBR-TINYPP1.ts
 #EXTINF:-1 tvg-chno="153520" tvg-name="Tiny Pop SD" tvg-logo="https://emby.tmsimg.com/assets/s153520_ll_h15_aa.png" group-title="United Kingdom" tvg-id="TINPOPSD" tvc-guide-stationid="153520",Tiny Pop SD
 http://example.local/GBR-TINPOPSD.ts
 #EXTINF:-1 tvg-chno="163315" tvg-name="TinyTeen" group-title="France" tvg-id="TINYTEEN" tvc-guide-stationid="163315",TinyTeen
@@ -1019,3 +1017,5 @@ http://example.local/ESP-TOGPLUS.ts
 http://example.local/POL-TOGPLUS.ts
 #EXTINF:-1 tvg-chno="100062" tvg-name="Toggo Plus" tvg-logo="https://emby.tmsimg.com/assets/s100062_ll_h15_aa.png" group-title="Belgium" tvg-id="TOGPLUS" tvc-guide-stationid="100062",Toggo Plus
 http://example.local/BEL-TOGPLUS.ts
+#EXTINF:-1 tvg-chno="100062" tvg-name="Toggo Plus" tvg-logo="https://emby.tmsimg.com/assets/s100062_ll_h15_aa.png" group-title="Netherlands" tvg-id="TOGPLUS" tvc-guide-stationid="100062",Toggo Plus
+http://example.local/NLD-TOGPLUS.ts

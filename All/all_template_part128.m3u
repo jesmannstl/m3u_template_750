@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="69701" tvg-name="XEWT-TDT" tvg-logo="https://emby.tmsimg.com/assets/s12028_ll_h15_aa.png" group-title="Mexico" tvg-id="XEWTTDT" tvc-guide-stationid="69701",XEWT-TDT
-http://example.local/MEX-XEWTTDT.ts
 #EXTINF:-1 tvg-chno="69701" tvg-name="XEWT-TDT" tvg-logo="https://emby.tmsimg.com/assets/s12028_ll_h15_aa.png" group-title="United States" tvg-id="XEWTTDT" tvc-guide-stationid="69701",XEWT-TDT
 http://example.local/USA-XEWTTDT.ts
 #EXTINF:-1 tvg-chno="91864" tvg-name="XEX-TDT (C5NET)" tvg-logo="https://emby.tmsimg.com/assets/s116152_ll_h15_aa.png" group-title="Mexico" tvg-id="XEXTDT" tvc-guide-stationid="91864",XEX-TDT (C5NET)
@@ -1019,3 +1017,5 @@ http://example.local/MEX-XHTVMTDT2.ts
 http://example.local/MEX-XHTZLTDT.ts
 #EXTINF:-1 tvg-chno="68081" tvg-name="XHUAA-TDT (ESTRNET)" tvg-logo="https://emby.tmsimg.com/assets/s116151_ll_h15_ac.png" group-title="Mexico" tvg-id="XHUAATDT" tvc-guide-stationid="68081",XHUAA-TDT (ESTRNET)
 http://example.local/MEX-XHUAATDT.ts
+#EXTINF:-1 tvg-chno="68081" tvg-name="XHUAA-TDT (ESTRNET)" tvg-logo="https://emby.tmsimg.com/assets/s116151_ll_h15_ac.png" group-title="United States" tvg-id="XHUAATDT" tvc-guide-stationid="68081",XHUAA-TDT (ESTRNET)
+http://example.local/USA-XHUAATDT.ts

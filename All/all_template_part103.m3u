@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://emby.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Bermuda" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
-http://example.local/BMU-TCM.ts
 #EXTINF:-1 tvg-chno="20726" tvg-name="Turner Classic Movies" tvg-logo="https://emby.tmsimg.com/assets/s20726_ll_h15_ab.png" group-title="United Kingdom" tvg-id="TCMUK" tvc-guide-stationid="20726",Turner Classic Movies
 http://example.local/GBR-TCMUK.ts
 #EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://emby.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Jamaica" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
@@ -1019,3 +1017,5 @@ http://example.local/DEU-TV2ECHO.ts
 http://example.local/DNK-TV2ECHO.ts
 #EXTINF:-1 tvg-chno="102089" tvg-name="TV2 Echo HD" tvg-logo="https://emby.tmsimg.com/assets/s102089_ll_h15_ac.png" group-title="Denmark" tvg-id="TV2ECHD" tvc-guide-stationid="102089",TV2 Echo HD
 http://example.local/DNK-TV2ECHD.ts
+#EXTINF:-1 tvg-chno="87781" tvg-name="TV2 Fri" tvg-logo="https://emby.tmsimg.com/assets/s87781_ll_h15_ac.png" group-title="Denmark" tvg-id="TV2FRI" tvc-guide-stationid="87781",TV2 Fri
+http://example.local/DNK-TV2FRI.ts
