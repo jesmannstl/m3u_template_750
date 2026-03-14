@@ -231,6 +231,10 @@ http://example.local/AWEHD.ts
 http://example.local/AWMA.ts
 #EXTINF:-1 tvg-id="AWMAHD" tvg-name="VZ AccuWeather Mid-Atlantic HD" tvg-logo="https://emby.tmsimg.com/assets/s56193_ll_h15_ab.png" tvg-chno="97300" tvc-guide-stationid="97300" group-title="",VZ AccuWeather Mid-Atlantic HD
 http://example.local/AWMAHD.ts
+#EXTINF:-1 tvg-id="AWNE" tvg-name="VZ AccuWeather Boston" tvg-logo="https://emby.tmsimg.com/assets/s56193_h3_ba.png" tvg-chno="97283" tvc-guide-stationid="97283" group-title="",VZ AccuWeather Boston
+http://example.local/AWNE.ts
+#EXTINF:-1 tvg-id="AWNEHD" tvg-name="VZ AccuWeather Boston HD" tvg-logo="https://emby.tmsimg.com/assets/s56193_h3_aa.png" tvg-chno="97301" tvc-guide-stationid="97301" group-title="",VZ AccuWeather Boston HD
+http://example.local/AWNEHD.ts
 #EXTINF:-1 tvg-id="AWNYHD" tvg-name="AccuWeather VZ NY HD" tvg-logo="https://emby.tmsimg.com/assets/s56193_h3_ba.png" tvg-chno="102910" tvc-guide-stationid="102910" group-title="",AccuWeather VZ NY HD
 http://example.local/AWNYHD.ts
 #EXTINF:-1 tvg-id="AXSTV" tvg-name="AXS TV" tvg-logo="https://emby.tmsimg.com/assets/s28506_ll_h15_ab.png" tvg-chno="28506" tvc-guide-stationid="28506" group-title="",AXS TV
@@ -427,6 +431,10 @@ http://example.local/BIGTEN.ts
 http://example.local/BIGTENO.ts
 #EXTINF:-1 tvg-id="BIGWAOH" tvg-name="Big Ten Network (Washington) Alternate HD" tvg-logo="https://emby.tmsimg.com/assets/s56783_ll_h15_ab.png" tvg-chno="158459" tvc-guide-stationid="158459" group-title="",Big Ten Network (Washington) Alternate HD
 http://example.local/BIGWAOH.ts
+#EXTINF:-1 tvg-id="BIGWIHD" tvg-name="Big Ten Network HD (Wisconsin)" tvg-logo="https://emby.tmsimg.com/assets/s56783_ll_h15_ab.png" tvg-chno="61221" tvc-guide-stationid="61221" group-title="",Big Ten Network HD (Wisconsin)
+http://example.local/BIGWIHD.ts
+#EXTINF:-1 tvg-id="BIGWISC" tvg-name="Big Ten Network (Wisconsin)" tvg-logo="https://emby.tmsimg.com/assets/s56783_ll_h15_ab.png" tvg-chno="61034" tvc-guide-stationid="61034" group-title="",Big Ten Network (Wisconsin)
+http://example.local/BIGWISC.ts
 #EXTINF:-1 tvg-id="BINGEHD" tvg-name="BINGE HD" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0026N188.png" tvg-chno="169130" tvc-guide-stationid="169130" group-title="",BINGE HD
 http://example.local/BINGEHD.ts
 #EXTINF:-1 tvg-id="BINGETV" tvg-name="BINGE-TV" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="45397" tvc-guide-stationid="45397" group-title="",BINGE-TV
@@ -1011,11 +1019,3 @@ http://example.local/DISNHD.ts
 http://example.local/DISNHDP.ts
 #EXTINF:-1 tvg-id="DISNP" tvg-name="Disney Channel (Pacific)" tvg-logo="https://logos.jesmann.com/disnp.png" tvg-chno="12510" tvc-guide-stationid="12510" group-title="",Disney Channel (Pacific)
 http://example.local/DISNP.ts
-#EXTINF:-1 tvg-id="DITV105" tvg-name="DITV105" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="12785" tvc-guide-stationid="12785" group-title="",DITV105
-http://example.local/DITV105.ts
-#EXTINF:-1 tvg-id="DITV112" tvg-name="DITV112" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="12792" tvc-guide-stationid="12792" group-title="",DITV112
-http://example.local/DITV112.ts
-#EXTINF:-1 tvg-id="DITV113" tvg-name="DITV113" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="22447" tvc-guide-stationid="22447" group-title="",DITV113
-http://example.local/DITV113.ts
-#EXTINF:-1 tvg-id="DITV114" tvg-name="DITV114" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="22448" tvc-guide-stationid="22448" group-title="",DITV114
-http://example.local/DITV114.ts

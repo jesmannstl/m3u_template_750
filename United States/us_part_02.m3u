@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DITV105" tvg-name="DITV105" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="12785" tvc-guide-stationid="12785" group-title="",DITV105
+http://example.local/DITV105.ts
+#EXTINF:-1 tvg-id="DITV112" tvg-name="DITV112" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="12792" tvc-guide-stationid="12792" group-title="",DITV112
+http://example.local/DITV112.ts
+#EXTINF:-1 tvg-id="DITV113" tvg-name="DITV113" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="22447" tvc-guide-stationid="22447" group-title="",DITV113
+http://example.local/DITV113.ts
+#EXTINF:-1 tvg-id="DITV114" tvg-name="DITV114" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="22448" tvc-guide-stationid="22448" group-title="",DITV114
+http://example.local/DITV114.ts
 #EXTINF:-1 tvg-id="DITV131" tvg-name="DITV131" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="12801" tvc-guide-stationid="12801" group-title="",DITV131
 http://example.local/DITV131.ts
 #EXTINF:-1 tvg-id="DITV366" tvg-name="DITV366" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="60597" tvc-guide-stationid="60597" group-title="",DITV366
@@ -13,6 +21,8 @@ http://example.local/DJCHHDP.ts
 http://example.local/DJCHP.ts
 #EXTINF:-1 tvg-id="DJRODDM" tvg-name="Disney Jr. On Demand" tvg-logo="https://emby.tmsimg.com/assets/s74885_ll_h15_ac.png" tvg-chno="110727" tvc-guide-stationid="110727" group-title="",Disney Jr. On Demand
 http://example.local/DJRODDM.ts
+#EXTINF:-1 tvg-id="KWHY" tvg-name="KWHY" tvg-logo="https://emby.tmsimg.com/assets/s10820_ll_h15_ac.png" tvg-chno="10820" tvc-guide-stationid="10820" group-title="",KWHY
+http://example.local/KWHY.ts
 #EXTINF:-1 tvg-id="DLC" tvg-name="Discovery Life Channel" tvg-logo="https://emby.tmsimg.com/assets/s16125_ll_h15_ac.png" tvg-chno="16125" tvc-guide-stationid="16125" group-title="",Discovery Life Channel
 http://example.local/DLC.ts
 #EXTINF:-1 tvg-id="DLCHD" tvg-name="Discovery Life Channel HD" tvg-logo="https://emby.tmsimg.com/assets/s92204_ll_h15_aa.png" tvg-chno="92204" tvc-guide-stationid="92204" group-title="",Discovery Life Channel HD
@@ -149,6 +159,8 @@ http://example.local/ECUAVI.ts
 http://example.local/EDAC.ts
 #EXTINF:-1 tvg-id="EDAC002" tvg-name="Educational Access - EDAC002" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="22116" tvc-guide-stationid="22116" group-title="",Educational Access - EDAC002
 http://example.local/EDAC002.ts
+#EXTINF:-1 tvg-id="EDAC004" tvg-name="Educational Access - EDAC004" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="22118" tvc-guide-stationid="22118" group-title="",Educational Access - EDAC004
+http://example.local/EDAC004.ts
 #EXTINF:-1 tvg-id="EDAC005" tvg-name="Educational Access - EDAC005" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="22119" tvc-guide-stationid="22119" group-title="",Educational Access - EDAC005
 http://example.local/EDAC005.ts
 #EXTINF:-1 tvg-id="EDAC008" tvg-name="Educational Access - EDAC008" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="22122" tvc-guide-stationid="22122" group-title="",Educational Access - EDAC008
@@ -173,6 +185,8 @@ http://example.local/EDAC023.ts
 http://example.local/EDAC027.ts
 #EXTINF:-1 tvg-id="EDAC028" tvg-name="Educational Access - EDAC028" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="22142" tvc-guide-stationid="22142" group-title="",Educational Access - EDAC028
 http://example.local/EDAC028.ts
+#EXTINF:-1 tvg-id="EDAC061" tvg-name="Educational Access - EDAC061" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="22175" tvc-guide-stationid="22175" group-title="",Educational Access - EDAC061
+http://example.local/EDAC061.ts
 #EXTINF:-1 tvg-id="EDAC095" tvg-name="Educational Access - EDAC095" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="22209" tvc-guide-stationid="22209" group-title="",Educational Access - EDAC095
 http://example.local/EDAC095.ts
 #EXTINF:-1 tvg-id="EDAC097" tvg-name="Educational Access - EDAC097" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="22211" tvc-guide-stationid="22211" group-title="",Educational Access - EDAC097
@@ -763,10 +777,14 @@ http://example.local/FDWHD.ts
 http://example.local/FDWI.ts
 #EXTINF:-1 tvg-id="FDWI3OM" tvg-name="FanDuel Sports Network Wisconsin- Out of Market" tvg-logo="https://emby.tmsimg.com/assets/s16348_ll_h15_ac.png" tvg-chno="71253" tvc-guide-stationid="71253" group-title="",FanDuel Sports Network Wisconsin- Out of Market
 http://example.local/FDWI3OM.ts
+#EXTINF:-1 tvg-id="FDWIE" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://emby.tmsimg.com/assets/s55739_ll_h15_ad.png" tvg-chno="74217" tvc-guide-stationid="74217" group-title="",FanDuel Sports Network Extra
+http://example.local/FDWIE.ts
 #EXTINF:-1 tvg-id="FDWIE2" tvg-name="FanDuel Sports Network Extra" tvg-logo="https://emby.tmsimg.com/assets/s102071_ll_h15_ab.png" tvg-chno="102071" tvc-guide-stationid="102071" group-title="",FanDuel Sports Network Extra
 http://example.local/FDWIE2.ts
 #EXTINF:-1 tvg-id="FDWIE2H" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://emby.tmsimg.com/assets/s69629_ll_h15_ac.png" tvg-chno="102072" tvc-guide-stationid="102072" group-title="",FanDuel Sports Network Extra HD
 http://example.local/FDWIE2H.ts
+#EXTINF:-1 tvg-id="FDWIEHD" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://emby.tmsimg.com/assets/s69629_ll_h15_ac.png" tvg-chno="75217" tvc-guide-stationid="75217" group-title="",FanDuel Sports Network Extra HD
+http://example.local/FDWIEHD.ts
 #EXTINF:-1 tvg-id="FDWIHD" tvg-name="FanDuel Sports Network Wisconsin HD" tvg-logo="https://emby.tmsimg.com/assets/s65460_ll_h15_ac.png" tvg-chno="65460" tvc-guide-stationid="65460" group-title="",FanDuel Sports Network Wisconsin HD
 http://example.local/FDWIHD.ts
 #EXTINF:-1 tvg-id="FDWOM" tvg-name="FanDuel Sports Network West- Out of Market" tvg-logo="https://emby.tmsimg.com/assets/s59627_ll_h15_ac.png" tvg-chno="71282" tvc-guide-stationid="71282" group-title="",FanDuel Sports Network West- Out of Market
@@ -809,6 +827,8 @@ http://example.local/FILMY.ts
 http://example.local/FILPEHD.ts
 #EXTINF:-1 tvg-id="FIOQUA" tvg-name="FiOS Quantum" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="80816" tvc-guide-stationid="80816" group-title="",FiOS Quantum
 http://example.local/FIOQUA.ts
+#EXTINF:-1 tvg-id="FIOS4K4" tvg-name="FIOS4K4" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="123850" tvc-guide-stationid="123850" group-title="",FIOS4K4
+http://example.local/FIOS4K4.ts
 #EXTINF:-1 tvg-id="FIOS4K5" tvg-name="Fios4K 5" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="120903" tvc-guide-stationid="120903" group-title="",Fios4K 5
 http://example.local/FIOS4K5.ts
 #EXTINF:-1 tvg-id="FIOS4K6" tvg-name="Fios4K 6" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="120904" tvc-guide-stationid="120904" group-title="",Fios4K 6
@@ -999,23 +1019,3 @@ http://example.local/FXP.ts
 http://example.local/FXPHD.ts
 #EXTINF:-1 tvg-id="FXX" tvg-name="FXX" tvg-logo="https://emby.tmsimg.com/assets/s17927_ll_h15_aa.png" tvg-chno="17927" tvc-guide-stationid="17927" group-title="",FXX
 http://example.local/FXX.ts
-#EXTINF:-1 tvg-id="FXXHD" tvg-name="FXX HD" tvg-logo="https://emby.tmsimg.com/assets/s66379_ll_h9_aa.png" tvg-chno="66379" tvc-guide-stationid="66379" group-title="",FXX HD
-http://example.local/FXXHD.ts
-#EXTINF:-1 tvg-id="FXXP" tvg-name="FXX (Pacific)" tvg-logo="https://logos.jesmann.com/fxxp.png" tvg-chno="82570" tvc-guide-stationid="82570" group-title="",FXX (Pacific)
-http://example.local/FXXP.ts
-#EXTINF:-1 tvg-id="FXXPHD" tvg-name="FXX HD (Pacific)" tvg-logo="https://logos.jesmann.com/fxxphd.png" tvg-chno="82571" tvc-guide-stationid="82571" group-title="",FXX HD (Pacific)
-http://example.local/FXXPHD.ts
-#EXTINF:-1 tvg-id="FYI" tvg-name="FYI" tvg-logo="https://emby.tmsimg.com/assets/s20049_ll_h15_aa.png" tvg-chno="20049" tvc-guide-stationid="20049" group-title="",FYI
-http://example.local/FYI.ts
-#EXTINF:-1 tvg-id="FYIHD" tvg-name="FYI Channel HD" tvg-logo="https://emby.tmsimg.com/assets/s58988_ll_h15_aa.png" tvg-chno="58988" tvc-guide-stationid="58988" group-title="",FYI Channel HD
-http://example.local/FYIHD.ts
-#EXTINF:-1 tvg-id="FYIP" tvg-name="FYI (Pacific)" tvg-logo="https://logos.jesmann.com/fyip.png" tvg-chno="92371" tvc-guide-stationid="92371" group-title="",FYI (Pacific)
-http://example.local/FYIP.ts
-#EXTINF:-1 tvg-id="FYIPHD" tvg-name="FYI HD (Pacific)" tvg-logo="https://logos.jesmann.com/fyiphd.png" tvg-chno="92372" tvc-guide-stationid="92372" group-title="",FYI HD (Pacific)
-http://example.local/FYIPHD.ts
-#EXTINF:-1 tvg-id="FYISD" tvg-name="FYI" tvg-logo="https://emby.tmsimg.com/assets/s16834_ll_h15_aa.png" tvg-chno="16834" tvc-guide-stationid="16834" group-title="",FYI
-http://example.local/FYISD.ts
-#EXTINF:-1 tvg-id="GA" tvg-name="Government Access" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="93713" tvc-guide-stationid="93713" group-title="",Government Access
-http://example.local/GA.ts
-#EXTINF:-1 tvg-id="GA3" tvg-name="Government Access" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="92639" tvc-guide-stationid="92639" group-title="",Government Access
-http://example.local/GA3.ts
