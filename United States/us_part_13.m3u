@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="WOHLCD2" tvg-name="WOHL-CD2 (CBS)" tvg-logo="https://logos.jesmann.com/wohlcd2.png" tvg-chno="65031" tvc-guide-stationid="65031" group-title="",WOHL-CD2 (CBS)
-http://example.local/WOHLCD2.ts
-#EXTINF:-1 tvg-id="WOI" tvg-name="WOI (ABC)" tvg-logo="https://emby.tmsimg.com/assets/s10003_ll_h15_ac.png" tvg-chno="11753" tvc-guide-stationid="11753" group-title="",WOI (ABC)
-http://example.local/WOI.ts
 #EXTINF:-1 tvg-id="WOIDT" tvg-name="WOI-DT (ABC)" tvg-logo="https://logos.jesmann.com/woidt.png" tvg-chno="34964" tvc-guide-stationid="34964" group-title="",WOI-DT (ABC)
 http://example.local/WOIDT.ts
 #EXTINF:-1 tvg-id="WOIDT2" tvg-name="WOI-DT2 (CRIME)" tvg-logo="https://emby.tmsimg.com/assets/s91496_ll_h15_ab.png" tvg-chno="61967" tvc-guide-stationid="61967" group-title="",WOI-DT2 (CRIME)
@@ -185,6 +181,8 @@ http://example.local/WPGXDT.ts
 http://example.local/WPGXDT2.ts
 #EXTINF:-1 tvg-id="WPGXDT3" tvg-name="WPGX-DT3 (GRIT)" tvg-logo="https://emby.tmsimg.com/assets/s89922_h3_aa.png" tvg-chno="91157" tvc-guide-stationid="91157" group-title="",WPGX-DT3 (GRIT)
 http://example.local/WPGXDT3.ts
+#EXTINF:-1 tvg-id="WPHJLD" tvg-name="WPHJ-LD (TELE)" tvg-logo="https://emby.tmsimg.com/assets/s10239_ll_h15_ab.png" tvg-chno="130161" tvc-guide-stationid="130161" group-title="",WPHJ-LD (TELE)
+http://example.local/WPHJLD.ts
 #EXTINF:-1 tvg-id="WPHL" tvg-name="WPHL (CW)" tvg-logo="https://emby.tmsimg.com/assets/s51306_ll_h15_ac.png" tvg-chno="11778" tvc-guide-stationid="11778" group-title="",WPHL (CW)
 http://example.local/WPHL.ts
 #EXTINF:-1 tvg-id="WPHLDT" tvg-name="WPHL-DT (CW)" tvg-logo="https://logos.jesmann.com/wphldt.png" tvg-chno="32619" tvc-guide-stationid="32619" group-title="",WPHL-DT (CW)
@@ -589,6 +587,8 @@ http://example.local/WSAV.ts
 http://example.local/WSAV2SD.ts
 #EXTINF:-1 tvg-id="WSAVDT" tvg-name="WSAV-DT (NBC)" tvg-logo="https://logos.jesmann.com/wsavdt.png" tvg-chno="43734" tvc-guide-stationid="43734" group-title="",WSAV-DT (NBC)
 http://example.local/WSAVDT.ts
+#EXTINF:-1 tvg-id="WSAVDT2" tvg-name="WSAV-DT2 (CWPLUS)" tvg-logo="https://logos.jesmann.com/wsavdt2.png" tvg-chno="44278" tvc-guide-stationid="44278" group-title="",WSAV-DT2 (CWPLUS)
+http://example.local/WSAVDT2.ts
 #EXTINF:-1 tvg-id="WSAVDT3" tvg-name="WSAV-DT3 (COURT)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" tvg-chno="71600" tvc-guide-stationid="71600" group-title="",WSAV-DT3 (COURT)
 http://example.local/WSAVDT3.ts
 #EXTINF:-1 tvg-id="WSAW" tvg-name="WSAW (CBS)" tvg-logo="https://emby.tmsimg.com/assets/s10098_ll_h15_ac.png" tvg-chno="11827" tvc-guide-stationid="11827" group-title="",WSAW (CBS)
@@ -637,6 +637,10 @@ http://example.local/WSBT2HD.ts
 http://example.local/WSBTDT.ts
 #EXTINF:-1 tvg-id="WSBTDT2" tvg-name="WSBT-DT2 (FOX)" tvg-logo="https://logos.jesmann.com/wsbtdt2.png" tvg-chno="34350" tvc-guide-stationid="34350" group-title="",WSBT-DT2 (FOX)
 http://example.local/WSBTDT2.ts
+#EXTINF:-1 tvg-id="WSCG" tvg-name="WSCG (TCTHD)" tvg-logo="https://emby.tmsimg.com/assets/s15030_ll_h15_ab.png" tvg-chno="15030" tvc-guide-stationid="15030" group-title="",WSCG (TCTHD)
+http://example.local/WSCG.ts
+#EXTINF:-1 tvg-id="WSCGDT" tvg-name="WSCG-DT (TCTHD)" tvg-logo="https://emby.tmsimg.com/assets/s47976_ll_h15_ab.png" tvg-chno="47976" tvc-guide-stationid="47976" group-title="",WSCG-DT (TCTHD)
+http://example.local/WSCGDT.ts
 #EXTINF:-1 tvg-id="WSCV" tvg-name="WSCV (TELE)" tvg-logo="https://emby.tmsimg.com/assets/s10239_ll_h15_ab.png" tvg-chno="11836" tvc-guide-stationid="11836" group-title="",WSCV (TELE)
 http://example.local/WSCV.ts
 #EXTINF:-1 tvg-id="WSCVDT" tvg-name="WSCV-DT (TELE)" tvg-logo="https://emby.tmsimg.com/assets/s73245_ll_h15_ac.png" tvg-chno="34734" tvc-guide-stationid="34734" group-title="",WSCV-DT (TELE)
@@ -905,6 +909,10 @@ http://example.local/WTGLDT.ts
 http://example.local/WTGS.ts
 #EXTINF:-1 tvg-id="WTGSDT" tvg-name="WTGS-DT (FOX)" tvg-logo="https://logos.jesmann.com/wtgsdt.png" tvg-chno="48341" tvc-guide-stationid="48341" group-title="",WTGS-DT (FOX)
 http://example.local/WTGSDT.ts
+#EXTINF:-1 tvg-id="WTGSDT2" tvg-name="WTGS-DT2 (CHARGE)" tvg-logo="https://emby.tmsimg.com/assets/s102148_ll_h15_ab.png" tvg-chno="97065" tvc-guide-stationid="97065" group-title="",WTGS-DT2 (CHARGE)
+http://example.local/WTGSDT2.ts
+#EXTINF:-1 tvg-id="WTGSDT3" tvg-name="WTGS-DT3 (ANTENNA)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0028Y4HS.png" tvg-chno="97814" tvc-guide-stationid="97814" group-title="",WTGS-DT3 (ANTENNA)
+http://example.local/WTGSDT3.ts
 #EXTINF:-1 tvg-id="WTHI" tvg-name="WTHI (CBS)" tvg-logo="https://emby.tmsimg.com/assets/s10098_ll_h15_ac.png" tvg-chno="11876" tvc-guide-stationid="11876" group-title="",WTHI (CBS)
 http://example.local/WTHI.ts
 #EXTINF:-1 tvg-id="WTHI2SD" tvg-name="WTHIDT2 (SD Feed) (FOX)" tvg-logo="https://emby.tmsimg.com/assets/s10212_ll_h15_ab.png" tvg-chno="91843" tvc-guide-stationid="91843" group-title="",WTHIDT2 (SD Feed) (FOX)
@@ -983,6 +991,10 @@ http://example.local/WTNZDT.ts
 http://example.local/WTOC.ts
 #EXTINF:-1 tvg-id="WTOCDT" tvg-name="WTOC-DT (CBS)" tvg-logo="https://logos.jesmann.com/wtocdt.png" tvg-chno="30616" tvc-guide-stationid="30616" group-title="",WTOC-DT (CBS)
 http://example.local/WTOCDT.ts
+#EXTINF:-1 tvg-id="WTOCDT2" tvg-name="WTOC-DT2 (BOUNCE)" tvg-logo="https://logos.jesmann.com/wtocdt2.png" tvg-chno="47252" tvc-guide-stationid="47252" group-title="",WTOC-DT2 (BOUNCE)
+http://example.local/WTOCDT2.ts
+#EXTINF:-1 tvg-id="WTOCDT7" tvg-name="WTOCDT7" tvg-logo="https://zpmc.tmsimg.com/h3/NowShowing/205971/s32799_ll_h15_aa.png" tvg-chno="205971" tvc-guide-stationid="205971" group-title="",WTOCDT7
+http://example.local/WTOCDT7.ts
 #EXTINF:-1 tvg-id="WTOG" tvg-name="WTOG" tvg-logo="https://emby.tmsimg.com/assets/s11894_ll_h15_aa.png" tvg-chno="11894" tvc-guide-stationid="11894" group-title="",WTOG
 http://example.local/WTOG.ts
 #EXTINF:-1 tvg-id="WTOGDT" tvg-name="WTOG-DT" tvg-logo="https://emby.tmsimg.com/assets/s11894_ll_h15_aa.png" tvg-chno="30617" tvc-guide-stationid="30617" group-title="",WTOG-DT
@@ -1009,13 +1021,3 @@ http://example.local/WTPXSD.ts
 http://example.local/WTRFDT.ts
 #EXTINF:-1 tvg-id="WTRFDT2" tvg-name="WTRF-DT2 (MNT)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" tvg-chno="53101" tvc-guide-stationid="53101" group-title="",WTRF-DT2 (MNT)
 http://example.local/WTRFDT2.ts
-#EXTINF:-1 tvg-id="WTRFDT3" tvg-name="WTRF-DT3 (ABC)" tvg-logo="https://logos.jesmann.com/wtrfdt3.png" tvg-chno="60899" tvc-guide-stationid="60899" group-title="",WTRF-DT3 (ABC)
-http://example.local/WTRFDT3.ts
-#EXTINF:-1 tvg-id="WTSNCD" tvg-name="WTSN-CD (ANTENNA)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0028Y4HS.png" tvg-chno="64548" tvc-guide-stationid="64548" group-title="",WTSN-CD (ANTENNA)
-http://example.local/WTSNCD.ts
-#EXTINF:-1 tvg-id="WTSP" tvg-name="WTSP (CBS)" tvg-logo="https://emby.tmsimg.com/assets/s10098_ll_h15_ac.png" tvg-chno="11902" tvc-guide-stationid="11902" group-title="",WTSP (CBS)
-http://example.local/WTSP.ts
-#EXTINF:-1 tvg-id="WTSPDT" tvg-name="WTSP-DT (CBS)" tvg-logo="https://logos.jesmann.com/wtspdt.png" tvg-chno="20495" tvc-guide-stationid="20495" group-title="",WTSP-DT (CBS)
-http://example.local/WTSPDT.ts
-#EXTINF:-1 tvg-id="WTTA" tvg-name="WTTA (CW)" tvg-logo="https://emby.tmsimg.com/assets/s51306_ll_h15_ac.png" tvg-chno="11903" tvc-guide-stationid="11903" group-title="",WTTA (CW)
-http://example.local/WTTA.ts

@@ -553,6 +553,8 @@ http://example.local/CBUTDT.ts
 http://example.local/CCATV.ts
 #EXTINF:-1 tvg-id="CCCWDHD" tvg-name="Comcast Employee Channel West Division HD" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="116336" tvc-guide-stationid="116336" group-title="",Comcast Employee Channel West Division HD
 http://example.local/CCCWDHD.ts
+#EXTINF:-1 tvg-id="CCDIV4" tvg-name="Comcast CDIV PEG 4" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="130325" tvc-guide-stationid="130325" group-title="",Comcast CDIV PEG 4
+http://example.local/CCDIV4.ts
 #EXTINF:-1 tvg-id="CCH7" tvg-name="Cable Ch. 7" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="95321" tvc-guide-stationid="95321" group-title="",Cable Ch. 7
 http://example.local/CCH7.ts
 #EXTINF:-1 tvg-id="CCHD" tvg-name="Comedy Central HD" tvg-logo="https://emby.tmsimg.com/assets/s62420_ll_h15_ab.png" tvg-chno="62420" tvc-guide-stationid="62420" group-title="",Comedy Central HD
@@ -593,6 +595,10 @@ http://example.local/CFTO.ts
 http://example.local/CGTN.ts
 #EXTINF:-1 tvg-id="CHARGE" tvg-name="CHARGE!" tvg-logo="https://emby.tmsimg.com/assets/s102148_h3_aa.png" tvg-chno="102148" tvc-guide-stationid="102148" group-title="",CHARGE!
 http://example.local/CHARGE.ts
+#EXTINF:-1 tvg-id="CHATD" tvg-name="Chatham County Government HDTV" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="93496" tvc-guide-stationid="93496" group-title="",Chatham County Government HDTV
+http://example.local/CHATD.ts
+#EXTINF:-1 tvg-id="CHATH" tvg-name="Chatham County Government" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="92703" tvc-guide-stationid="92703" group-title="",Chatham County Government
+http://example.local/CHATH.ts
 #EXTINF:-1 tvg-id="CHDDRHD" tvg-name="Cheddar" tvg-logo="https://emby.tmsimg.com/assets/s109332_ll_h15_ae.png" tvg-chno="109332" tvc-guide-stationid="109332" group-title="",Cheddar
 http://example.local/CHDDRHD.ts
 #EXTINF:-1 tvg-id="CHDDRSD" tvg-name="Cheddar" tvg-logo="https://emby.tmsimg.com/assets/s109333_ll_h15_ae.png" tvg-chno="109333" tvc-guide-stationid="109333" group-title="",Cheddar
@@ -1015,7 +1021,3 @@ http://example.local/DISN.ts
 http://example.local/DISNDM.ts
 #EXTINF:-1 tvg-id="DISNHD" tvg-name="Disney Channel HD" tvg-logo="https://emby.tmsimg.com/assets/s59684_ll_h15_ae.png" tvg-chno="59684" tvc-guide-stationid="59684" group-title="",Disney Channel HD
 http://example.local/DISNHD.ts
-#EXTINF:-1 tvg-id="DISNHDP" tvg-name="Disney Channel HD (Pacific)" tvg-logo="https://logos.jesmann.com/disnhdp.png" tvg-chno="63320" tvc-guide-stationid="63320" group-title="",Disney Channel HD (Pacific)
-http://example.local/DISNHDP.ts
-#EXTINF:-1 tvg-id="DISNP" tvg-name="Disney Channel (Pacific)" tvg-logo="https://logos.jesmann.com/disnp.png" tvg-chno="12510" tvc-guide-stationid="12510" group-title="",Disney Channel (Pacific)
-http://example.local/DISNP.ts

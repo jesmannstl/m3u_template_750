@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVLNDHD" tvg-name="TV Land HD" tvg-logo="https://emby.tmsimg.com/assets/s73541_ll_h15_aa.png" tvg-chno="73541" tvc-guide-stationid="73541" group-title="",TV Land HD
-http://example.local/TVLNDHD.ts
-#EXTINF:-1 tvg-id="TVN24" tvg-name="TVN 24" tvg-logo="https://emby.tmsimg.com/assets/s30502_ll_h15_aa.png" tvg-chno="30502" tvc-guide-stationid="30502" group-title="",TVN 24
-http://example.local/TVN24.ts
-#EXTINF:-1 tvg-id="TVNI" tvg-name="TV Chile" tvg-logo="https://emby.tmsimg.com/assets/s16046_ll_h15_ab.png" tvg-chno="16046" tvc-guide-stationid="16046" group-title="",TV Chile
-http://example.local/TVNI.ts
 #EXTINF:-1 tvg-id="TVONE" tvg-name="TV ONE" tvg-logo="https://emby.tmsimg.com/assets/s35513_ll_h15_ab.png" tvg-chno="35513" tvc-guide-stationid="35513" group-title="",TV ONE
 http://example.local/TVONE.ts
 #EXTINF:-1 tvg-id="TVONEGL" tvg-name="TVONE Global" tvg-logo="https://emby.tmsimg.com/assets/s64731_ll_h9_aa.png" tvg-chno="64731" tvc-guide-stationid="64731" group-title="",TVONE Global
@@ -1019,3 +1013,11 @@ http://example.local/WDKY.ts
 http://example.local/WDKYDT.ts
 #EXTINF:-1 tvg-id="WDKYDT2" tvg-name="WDKY-DT2 (REWIND)" tvg-logo="https://emby.tmsimg.com/assets/s119814_h3_ba.png" tvg-chno="50829" tvc-guide-stationid="50829" group-title="",WDKY-DT2 (REWIND)
 http://example.local/WDKYDT2.ts
+#EXTINF:-1 tvg-id="WDKYDT3" tvg-name="WDKY-DT3 (CHARGE)" tvg-logo="https://emby.tmsimg.com/assets/s102148_h3_ba.png" tvg-chno="91409" tvc-guide-stationid="91409" group-title="",WDKY-DT3 (CHARGE)
+http://example.local/WDKYDT3.ts
+#EXTINF:-1 tvg-id="WDLI" tvg-name="WDLI (BOUNCE)" tvg-logo="https://emby.tmsimg.com/assets/s73067_ll_h15_ab.png" tvg-chno="11390" tvc-guide-stationid="11390" group-title="",WDLI (BOUNCE)
+http://example.local/WDLI.ts
+#EXTINF:-1 tvg-id="WDLIDT" tvg-name="WDLI-DT (BOUNCE)" tvg-logo="https://emby.tmsimg.com/assets/s73067_ll_h15_ab.png" tvg-chno="43687" tvc-guide-stationid="43687" group-title="",WDLI-DT (BOUNCE)
+http://example.local/WDLIDT.ts
+#EXTINF:-1 tvg-id="WDMECD" tvg-name="WDME-CD (METVN)" tvg-logo="https://emby.tmsimg.com/assets/s70436_ll_h15_ac.png" tvg-chno="99714" tvc-guide-stationid="99714" group-title="",WDME-CD (METVN)
+http://example.local/WDMECD.ts

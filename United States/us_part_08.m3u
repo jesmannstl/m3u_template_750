@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LOVE" tvg-name="Love" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="71533" tvc-guide-stationid="71533" group-title="",Love
-http://example.local/LOVE.ts
-#EXTINF:-1 tvg-id="LPB2" tvg-name="LPB2 (HD06)" tvg-logo="https://emby.tmsimg.com/assets/s101364_ll_h15_ac.png" tvg-chno="26129" tvc-guide-stationid="26129" group-title="",LPB2 (HD06)
-http://example.local/LPB2.ts
 #EXTINF:-1 tvg-id="LPROG1" tvg-name="Local Programming 1" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="68902" tvc-guide-stationid="68902" group-title="",Local Programming 1
 http://example.local/LPROG1.ts
 #EXTINF:-1 tvg-id="LPROG2" tvg-name="Local Programming 2" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="68903" tvc-guide-stationid="68903" group-title="",Local Programming 2
@@ -1019,3 +1015,9 @@ http://example.local/PIMACO.ts
 http://example.local/PIXL.ts
 #EXTINF:-1 tvg-id="PIXLSD" tvg-name="PIXL SD" tvg-logo="https://emby.tmsimg.com/assets/s73077_ll_h15_aa.png" tvg-chno="73077" tvc-guide-stationid="73077" group-title="",PIXL SD
 http://example.local/PIXLSD.ts
+#EXTINF:-1 tvg-id="PLAYBOY" tvg-name="Playboy TV" tvg-logo="https://emby.tmsimg.com/assets/s14075_ll_h15_aa.png" tvg-chno="14075" tvc-guide-stationid="14075" group-title="",Playboy TV
+http://example.local/PLAYBOY.ts
+#EXTINF:-1 tvg-id="PLAYESP" tvg-name="Playboy En Español" tvg-logo="https://emby.tmsimg.com/assets/s38944_ll_h15_aa.png" tvg-chno="38944" tvc-guide-stationid="38944" group-title="",Playboy En Español
+http://example.local/PLAYESP.ts
+#EXTINF:-1 tvg-id="PLAYHD" tvg-name="Playboy HD" tvg-logo="https://emby.tmsimg.com/assets/s50404_ll_h15_aa.png" tvg-chno="50404" tvc-guide-stationid="50404" group-title="",Playboy HD
+http://example.local/PLAYHD.ts

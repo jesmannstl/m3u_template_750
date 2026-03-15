@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DISNHDP" tvg-name="Disney Channel HD (Pacific)" tvg-logo="https://logos.jesmann.com/disnhdp.png" tvg-chno="63320" tvc-guide-stationid="63320" group-title="",Disney Channel HD (Pacific)
+http://example.local/DISNHDP.ts
+#EXTINF:-1 tvg-id="DISNP" tvg-name="Disney Channel (Pacific)" tvg-logo="https://logos.jesmann.com/disnp.png" tvg-chno="12510" tvc-guide-stationid="12510" group-title="",Disney Channel (Pacific)
+http://example.local/DISNP.ts
 #EXTINF:-1 tvg-id="DITV105" tvg-name="DITV105" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="12785" tvc-guide-stationid="12785" group-title="",DITV105
 http://example.local/DITV105.ts
 #EXTINF:-1 tvg-id="DITV112" tvg-name="DITV112" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="12792" tvc-guide-stationid="12792" group-title="",DITV112
@@ -661,6 +665,8 @@ http://example.local/FDSOAL3.ts
 http://example.local/FDSOAL4.ts
 #EXTINF:-1 tvg-id="FDSOBHH" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://emby.tmsimg.com/assets/s12410_ll_h15_ac.png" tvg-chno="102193" tvc-guide-stationid="102193" group-title="",FanDuel Sports Network South HD
 http://example.local/FDSOBHH.ts
+#EXTINF:-1 tvg-id="FDSOEHD" tvg-name="FanDuel Sports Network Extra HD" tvg-logo="https://emby.tmsimg.com/assets/s69629_ll_h15_ac.png" tvg-chno="71746" tvc-guide-stationid="71746" group-title="",FanDuel Sports Network Extra HD
+http://example.local/FDSOEHD.ts
 #EXTINF:-1 tvg-id="FDSOEVH" tvg-name="FanDuel Sports Network South HD" tvg-logo="https://emby.tmsimg.com/assets/s12410_ll_h15_ac.png" tvg-chno="102198" tvc-guide-stationid="102198" group-title="",FanDuel Sports Network South HD
 http://example.local/FDSOEVH.ts
 #EXTINF:-1 tvg-id="FDSOG2H" tvg-name="FanDuel Sports Network South HD- Georgia" tvg-logo="https://emby.tmsimg.com/assets/s12410_ll_h15_ac.png" tvg-chno="75058" tvc-guide-stationid="75058" group-title="",FanDuel Sports Network South HD- Georgia
@@ -1015,7 +1021,3 @@ http://example.local/FXM.ts
 http://example.local/FXMHD.ts
 #EXTINF:-1 tvg-id="FXP" tvg-name="FX (Pacific)" tvg-logo="https://logos.jesmann.com/fxp.png" tvg-chno="14753" tvc-guide-stationid="14753" group-title="",FX (Pacific)
 http://example.local/FXP.ts
-#EXTINF:-1 tvg-id="FXPHD" tvg-name="FX HD (Pacific)" tvg-logo="https://logos.jesmann.com/fxphd.png" tvg-chno="59814" tvc-guide-stationid="59814" group-title="",FX HD (Pacific)
-http://example.local/FXPHD.ts
-#EXTINF:-1 tvg-id="FXX" tvg-name="FXX" tvg-logo="https://emby.tmsimg.com/assets/s17927_ll_h15_aa.png" tvg-chno="17927" tvc-guide-stationid="17927" group-title="",FXX
-http://example.local/FXX.ts
