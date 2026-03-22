@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KBJRDT" tvg-name="KBJR-DT (NBC)" tvg-logo="https://logos.jesmann.com/kbjrdt.png" tvg-chno="31616" tvc-guide-stationid="31616" group-title="",KBJR-DT (NBC)
-http://example.local/KBJRDT.ts
-#EXTINF:-1 tvg-id="KBJRDT2" tvg-name="KBJR-DT2 (CBS)" tvg-logo="https://logos.jesmann.com/kbjrdt2.png" tvg-chno="42842" tvc-guide-stationid="42842" group-title="",KBJR-DT2 (CBS)
-http://example.local/KBJRDT2.ts
 #EXTINF:-1 tvg-id="KBJRDT3" tvg-name="KBJR-DT3 (NSSEN)" tvg-logo="https://logos.jesmann.com/kbjrdt3.png" tvg-chno="50356" tvc-guide-stationid="50356" group-title="",KBJR-DT3 (NSSEN)
 http://example.local/KBJRDT3.ts
 #EXTINF:-1 tvg-id="KBLNDT" tvg-name="KBLN-DT (3ANGELS)" tvg-logo="https://emby.tmsimg.com/assets/s10002_ll_h15_aa.png" tvg-chno="62854" tvc-guide-stationid="62854" group-title="",KBLN-DT (3ANGELS)
@@ -263,6 +259,10 @@ http://example.local/KCVUDT3.ts
 http://example.local/KCWC.ts
 #EXTINF:-1 tvg-id="KCWCDT" tvg-name="KCWC-DT (PBS)" tvg-logo="https://logos.jesmann.com/kcwcdt.png" tvg-chno="33698" tvc-guide-stationid="33698" group-title="",KCWC-DT (PBS)
 http://example.local/KCWCDT.ts
+#EXTINF:-1 tvg-id="KCWCDT2" tvg-name="KCWC-DT2 (CREATE)" tvg-logo="https://emby.tmsimg.com/assets/s48990_h3_aa.png" tvg-chno="33700" tvc-guide-stationid="33700" group-title="",KCWC-DT2 (CREATE)
+http://example.local/KCWCDT2.ts
+#EXTINF:-1 tvg-id="KCWCDT3" tvg-name="KCWC-DT3 (HD06)" tvg-logo="https://emby.tmsimg.com/assets/s101364_h3_aa.png" tvg-chno="107230" tvc-guide-stationid="107230" group-title="",KCWC-DT3 (HD06)
+http://example.local/KCWCDT3.ts
 #EXTINF:-1 tvg-id="KCWE" tvg-name="KCWE (CW)" tvg-logo="https://emby.tmsimg.com/assets/s51306_ll_h15_ac.png" tvg-chno="16451" tvc-guide-stationid="16451" group-title="",KCWE (CW)
 http://example.local/KCWE.ts
 #EXTINF:-1 tvg-id="KCWEDT" tvg-name="KCWE-DT (CW)" tvg-logo="https://logos.jesmann.com/kcwedt.png" tvg-chno="30822" tvc-guide-stationid="30822" group-title="",KCWE-DT (CW)
@@ -1021,3 +1021,5 @@ http://example.local/KHRRDT2.ts
 http://example.local/KHRRDT3.ts
 #EXTINF:-1 tvg-id="KHSL" tvg-name="KHSL (CBS)" tvg-logo="https://emby.tmsimg.com/assets/s10098_ll_h15_ac.png" tvg-chno="10503" tvc-guide-stationid="10503" group-title="",KHSL (CBS)
 http://example.local/KHSL.ts
+#EXTINF:-1 tvg-id="KHSLDT" tvg-name="KHSL-DT (CBS)" tvg-logo="https://logos.jesmann.com/khsldt.png" tvg-chno="45553" tvc-guide-stationid="45553" group-title="",KHSL-DT (CBS)
+http://example.local/KHSLDT.ts

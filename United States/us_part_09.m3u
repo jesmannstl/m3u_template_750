@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PLAYLA" tvg-name="Playboy" tvg-logo="https://emby.tmsimg.com/assets/s54335_ll_h15_aa.png" tvg-chno="54335" tvc-guide-stationid="54335" group-title="",Playboy
-http://example.local/PLAYLA.ts
-#EXTINF:-1 tvg-id="PLBYDM" tvg-name="Playboy On Demand" tvg-logo="https://emby.tmsimg.com/assets/s14075_ll_h15_aa.png" tvg-chno="31809" tvc-guide-stationid="31809" group-title="",Playboy On Demand
-http://example.local/PLBYDM.ts
-#EXTINF:-1 tvg-id="PLESPDM" tvg-name="EPG Playboy En Español On Demand" tvg-logo="https://emby.tmsimg.com/assets/s38944_ll_h15_aa.png" tvg-chno="74133" tvc-guide-stationid="74133" group-title="",EPG Playboy En Español On Demand
-http://example.local/PLESPDM.ts
-#EXTINF:-1 tvg-id="PLSTNEWHD" tvg-name="Polsat News HD" tvg-logo="https://emby.tmsimg.com/assets/s98760_ll_h15_ab.png" tvg-chno="98760" tvc-guide-stationid="98760" group-title="",Polsat News HD
-http://example.local/PLSTNEWHD.ts
 #EXTINF:-1 tvg-id="PLYBPRM" tvg-name="Playboy Premium" tvg-logo="https://emby.tmsimg.com/assets/s14075_ll_h15_aa.png" tvg-chno="68537" tvc-guide-stationid="68537" group-title="",Playboy Premium
 http://example.local/PLYBPRM.ts
 #EXTINF:-1 tvg-id="PLYESPH" tvg-name="Playboy Español (Premium HD)" tvg-logo="https://emby.tmsimg.com/assets/s38944_ll_h15_aa.png" tvg-chno="111152" tvc-guide-stationid="111152" group-title="",Playboy Español (Premium HD)
@@ -67,6 +59,8 @@ http://example.local/PTCNWS.ts
 http://example.local/PTHDDM.ts
 #EXTINF:-1 tvg-id="PTIMEDM" tvg-name="Primetime On Demand" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="62601" tvc-guide-stationid="62601" group-title="",Primetime On Demand
 http://example.local/PTIMEDM.ts
+#EXTINF:-1 tvg-id="LYF" tvg-name="Living Your Faith" tvg-logo="https://emby.tmsimg.com/assets/s115357_h3_aa.png" tvg-chno="115357" tvc-guide-stationid="115357" group-title="",Living Your Faith
+http://example.local/LYF.ts
 #EXTINF:-1 tvg-id="PUAC" tvg-name="Public Access - PUAC" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="14788" tvc-guide-stationid="14788" group-title="",Public Access - PUAC
 http://example.local/PUAC.ts
 #EXTINF:-1 tvg-id="PUAC003" tvg-name="Public Access - PUAC003" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="23478" tvc-guide-stationid="23478" group-title="",Public Access - PUAC003
@@ -1021,3 +1015,11 @@ http://example.local/TVLNDHD.ts
 http://example.local/TVN24.ts
 #EXTINF:-1 tvg-id="TVNI" tvg-name="TV Chile" tvg-logo="https://emby.tmsimg.com/assets/s16046_ll_h15_ab.png" tvg-chno="16046" tvc-guide-stationid="16046" group-title="",TV Chile
 http://example.local/TVNI.ts
+#EXTINF:-1 tvg-id="TVONE" tvg-name="TV ONE" tvg-logo="https://emby.tmsimg.com/assets/s35513_ll_h15_ab.png" tvg-chno="35513" tvc-guide-stationid="35513" group-title="",TV ONE
+http://example.local/TVONE.ts
+#EXTINF:-1 tvg-id="TVONEGL" tvg-name="TVONE Global" tvg-logo="https://emby.tmsimg.com/assets/s64731_ll_h9_aa.png" tvg-chno="64731" tvc-guide-stationid="64731" group-title="",TVONE Global
+http://example.local/TVONEGL.ts
+#EXTINF:-1 tvg-id="TVONEHD" tvg-name="TV ONE HD" tvg-logo="https://emby.tmsimg.com/assets/s61960_ll_h15_ab.png" tvg-chno="61960" tvc-guide-stationid="61960" group-title="",TV ONE HD
+http://example.local/TVONEHD.ts
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVR International" tvg-logo="https://emby.tmsimg.com/assets/s73588_ll_h15_ab.png" tvg-chno="73588" tvc-guide-stationid="73588" group-title="",TVR International
+http://example.local/TVRI.ts

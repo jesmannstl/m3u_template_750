@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KUILLD5" tvg-name="KUIL-LD5 (MNT)" tvg-logo="https://logos.jesmann.com/kuilld5.png" tvg-chno="76796" tvc-guide-stationid="76796" group-title="",KUIL-LD5 (MNT)
-http://example.local/KUILLD5.ts
 #EXTINF:-1 tvg-id="KUKCLP" tvg-name="KUKC-LP (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_h3_ba.png" tvg-chno="45821" tvc-guide-stationid="45821" group-title="",KUKC-LP (UNI)
 http://example.local/KUKCLP.ts
 #EXTINF:-1 tvg-id="KULR" tvg-name="KULR (NBC)" tvg-logo="https://emby.tmsimg.com/assets/s10991_h3_ba.png" tvg-chno="10776" tvc-guide-stationid="10776" group-title="",KULR (NBC)
@@ -63,7 +61,7 @@ http://example.local/KUSADT2.ts
 http://example.local/KUSADT3.ts
 #EXTINF:-1 tvg-id="KUSADT5" tvg-name="KUSA-DT5 (QUESTSD)" tvg-logo="https://emby.tmsimg.com/assets/s106838_ll_h9_ad.png" tvg-chno="106946" tvc-guide-stationid="106946" group-title="",KUSA-DT5 (QUESTSD)
 http://example.local/KUSADT5.ts
-#EXTINF:-1 tvg-id="KUSI" tvg-name="KUSI (CW)" tvg-logo="https://emby.tmsimg.com/assets/s51306_ll_h15_ac.png" tvg-chno="10782" tvc-guide-stationid="10782" group-title="",KUSI (CW)
+#EXTINF:-1 tvg-id="KUSI" tvg-name="KUSI" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="10782" tvc-guide-stationid="10782" group-title="",KUSI
 http://example.local/KUSI.ts
 #EXTINF:-1 tvg-id="KUSIDT" tvg-name="KUSI-DT (CW)" tvg-logo="https://logos.jesmann.com/kusidt.png" tvg-chno="32781" tvc-guide-stationid="32781" group-title="",KUSI-DT (CW)
 http://example.local/KUSIDT.ts
@@ -1021,3 +1019,7 @@ http://example.local/LOOR9925.ts
 http://example.local/LOVE.ts
 #EXTINF:-1 tvg-id="LPB2" tvg-name="LPB2 (HD06)" tvg-logo="https://emby.tmsimg.com/assets/s101364_ll_h15_ac.png" tvg-chno="26129" tvc-guide-stationid="26129" group-title="",LPB2 (HD06)
 http://example.local/LPB2.ts
+#EXTINF:-1 tvg-id="LPROG1" tvg-name="Local Programming 1" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="68902" tvc-guide-stationid="68902" group-title="",Local Programming 1
+http://example.local/LPROG1.ts
+#EXTINF:-1 tvg-id="LPROG2" tvg-name="Local Programming 2" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="68903" tvc-guide-stationid="68903" group-title="",Local Programming 2
+http://example.local/LPROG2.ts

@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DISNHDP" tvg-name="Disney Channel HD (Pacific)" tvg-logo="https://logos.jesmann.com/disnhdp.png" tvg-chno="63320" tvc-guide-stationid="63320" group-title="",Disney Channel HD (Pacific)
-http://example.local/DISNHDP.ts
 #EXTINF:-1 tvg-id="DISNP" tvg-name="Disney Channel (Pacific)" tvg-logo="https://logos.jesmann.com/disnp.png" tvg-chno="12510" tvc-guide-stationid="12510" group-title="",Disney Channel (Pacific)
 http://example.local/DISNP.ts
 #EXTINF:-1 tvg-id="DITV105" tvg-name="DITV105" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="12785" tvc-guide-stationid="12785" group-title="",DITV105
@@ -271,6 +269,8 @@ http://example.local/ESPNWHD.ts
 http://example.local/ESTNWSD.ts
 #EXTINF:-1 tvg-id="ESTRLLA" tvg-name="Estrella TV" tvg-logo="https://emby.tmsimg.com/assets/s65064_ll_h15_af.png" tvg-chno="65064" tvc-guide-stationid="65064" group-title="",Estrella TV
 http://example.local/ESTRLLA.ts
+#EXTINF:-1 tvg-id="ESTRLLP" tvg-name="Estrella TV Pacific" tvg-logo="https://emby.tmsimg.com/assets/s65064_ll_h15_af.png" tvg-chno="74606" tvc-guide-stationid="74606" group-title="",Estrella TV Pacific
+http://example.local/ESTRLLP.ts
 #EXTINF:-1 tvg-id="ESTUD5" tvg-name="eStudio5" tvg-logo="https://emby.tmsimg.com/assets/s88506_h3_ba.png" tvg-chno="88506" tvc-guide-stationid="88506" group-title="",eStudio5
 http://example.local/ESTUD5.ts
 #EXTINF:-1 tvg-id="ESTUD5H" tvg-name="eStudio5 HD" tvg-logo="https://emby.tmsimg.com/assets/s88506_ll_h15_aa.png" tvg-chno="90038" tvc-guide-stationid="90038" group-title="",eStudio5 HD
@@ -1021,3 +1021,5 @@ http://example.local/FXM.ts
 http://example.local/FXMHD.ts
 #EXTINF:-1 tvg-id="FXP" tvg-name="FX (Pacific)" tvg-logo="https://logos.jesmann.com/fxp.png" tvg-chno="14753" tvc-guide-stationid="14753" group-title="",FX (Pacific)
 http://example.local/FXP.ts
+#EXTINF:-1 tvg-id="FXPHD" tvg-name="FX HD (Pacific)" tvg-logo="https://logos.jesmann.com/fxphd.png" tvg-chno="59814" tvc-guide-stationid="59814" group-title="",FX HD (Pacific)
+http://example.local/FXPHD.ts
