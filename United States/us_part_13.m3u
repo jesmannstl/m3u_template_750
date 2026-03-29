@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="WOI" tvg-name="WOI (ABC)" tvg-logo="https://emby.tmsimg.com/assets/s10003_ll_h15_ac.png" tvg-chno="11753" tvc-guide-stationid="11753" group-title="",WOI (ABC)
+http://example.local/WOI.ts
 #EXTINF:-1 tvg-id="WOIDT" tvg-name="WOI-DT (ABC)" tvg-logo="https://logos.jesmann.com/woidt.png" tvg-chno="34964" tvc-guide-stationid="34964" group-title="",WOI-DT (ABC)
 http://example.local/WOIDT.ts
 #EXTINF:-1 tvg-id="WOIDT2" tvg-name="WOI-DT2 (CRIME)" tvg-logo="https://emby.tmsimg.com/assets/s91496_ll_h15_ab.png" tvg-chno="61967" tvc-guide-stationid="61967" group-title="",WOI-DT2 (CRIME)

@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DISNHD" tvg-name="Disney Channel HD" tvg-logo="https://emby.tmsimg.com/assets/s59684_ll_h15_ae.png" tvg-chno="59684" tvc-guide-stationid="59684" group-title="",Disney Channel HD
+http://example.local/DISNHD.ts
+#EXTINF:-1 tvg-id="DISNHDP" tvg-name="Disney Channel HD (Pacific)" tvg-logo="https://logos.jesmann.com/disnhdp.png" tvg-chno="63320" tvc-guide-stationid="63320" group-title="",Disney Channel HD (Pacific)
+http://example.local/DISNHDP.ts
 #EXTINF:-1 tvg-id="DISNP" tvg-name="Disney Channel (Pacific)" tvg-logo="https://logos.jesmann.com/disnp.png" tvg-chno="12510" tvc-guide-stationid="12510" group-title="",Disney Channel (Pacific)
 http://example.local/DISNP.ts
 #EXTINF:-1 tvg-id="DITV105" tvg-name="DITV105" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="12785" tvc-guide-stationid="12785" group-title="",DITV105
@@ -67,6 +71,8 @@ http://example.local/DSCHD.ts
 http://example.local/DSCHDP.ts
 #EXTINF:-1 tvg-id="DSCP" tvg-name="Discovery Channel (Pacific)" tvg-logo="https://logos.jesmann.com/dscp.png" tvg-chno="12500" tvc-guide-stationid="12500" group-title="",Discovery Channel (Pacific)
 http://example.local/DSCP.ts
+#EXTINF:-1 tvg-id="DSN" tvg-name="Detroit SportsNet" tvg-logo="https://emby.tmsimg.com/assets/s136329_ll_h15_ab.png" tvg-chno="136329" tvc-guide-stationid="136329" group-title="",Detroit SportsNet
+http://example.local/DSN.ts
 #EXTINF:-1 tvg-id="DSTRESP" tvg-name="Daystar Español" tvg-logo="https://emby.tmsimg.com/assets/s132423_h3_aa.png" tvg-chno="132423" tvc-guide-stationid="132423" group-title="",Daystar Español
 http://example.local/DSTRESP.ts
 #EXTINF:-1 tvg-id="DSTRESPH" tvg-name="Daystar Español (HD Feed)" tvg-logo="https://emby.tmsimg.com/assets/s132423_h3_aa.png" tvg-chno="154611" tvc-guide-stationid="154611" group-title="",Daystar Español (HD Feed)
@@ -817,14 +823,10 @@ http://example.local/FIDO.ts
 http://example.local/FIDOSD.ts
 #EXTINF:-1 tvg-id="FIGHTN" tvg-name="Fight Network" tvg-logo="https://emby.tmsimg.com/assets/s121992_ll_h15_aa.png" tvg-chno="121992" tvc-guide-stationid="121992" group-title="",Fight Network
 http://example.local/FIGHTN.ts
-#EXTINF:-1 tvg-id="FILIP" tvg-name="The Filipino Channel (Pacific)" tvg-logo="https://emby.tmsimg.com/assets/s82855_ll_h15_ab.png" tvg-chno="14968" tvc-guide-stationid="14968" group-title="",The Filipino Channel (Pacific)
-http://example.local/FILIP.ts
 #EXTINF:-1 tvg-id="FILIPDM" tvg-name="Filipino on Demand" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="56671" tvc-guide-stationid="56671" group-title="",Filipino on Demand
 http://example.local/FILIPDM.ts
 #EXTINF:-1 tvg-id="FILIPE" tvg-name="The Filipino Channel (FILIP)" tvg-logo="https://emby.tmsimg.com/assets/s72601_ll_h9_aa.png" tvg-chno="72601" tvc-guide-stationid="72601" group-title="",The Filipino Channel (FILIP)
 http://example.local/FILIPE.ts
-#EXTINF:-1 tvg-id="FILIPHD" tvg-name="Filipino Channel HD" tvg-logo="https://emby.tmsimg.com/assets/s113648_ll_h15_ab.png" tvg-chno="113648" tvc-guide-stationid="113648" group-title="",Filipino Channel HD
-http://example.local/FILIPHD.ts
 #EXTINF:-1 tvg-id="FILM24H" tvg-name="Film 24h" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="105824" tvc-guide-stationid="105824" group-title="",Film 24h
 http://example.local/FILM24H.ts
 #EXTINF:-1 tvg-id="FILMY" tvg-name="Filmy" tvg-logo="https://emby.tmsimg.com/assets/s52285_ll_h15_aa.png" tvg-chno="52285" tvc-guide-stationid="52285" group-title="",Filmy
@@ -921,7 +923,7 @@ http://example.local/FS2.ts
 http://example.local/FS2HD.ts
 #EXTINF:-1 tvg-id="FS4K1" tvg-name="Fox Sports 4K Events 1" tvg-logo="https://emby.tmsimg.com/assets/s11055_ll_h15_aa.png" tvg-chno="111003" tvc-guide-stationid="111003" group-title="",Fox Sports 4K Events 1
 http://example.local/FS4K1.ts
-#EXTINF:-1 tvg-id="FS4K2" tvg-name="Fox Sports 4K Events 2" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="111136" tvc-guide-stationid="111136" group-title="",Fox Sports 4K Events 2
+#EXTINF:-1 tvg-id="FS4K2" tvg-name="Fox Sports 4K Events 2" tvg-logo="https://zpmc.tmsimg.com/h3/NowShowing/111136/s141469_ll_h15_aa.png" tvg-chno="111136" tvc-guide-stationid="111136" group-title="",Fox Sports 4K Events 2
 http://example.local/FS4K2.ts
 #EXTINF:-1 tvg-id="FSCPLHD" tvg-name="Fox Soccer Plus HD" tvg-logo="https://emby.tmsimg.com/assets/s66880_ll_h15_aa.png" tvg-chno="66880" tvc-guide-stationid="66880" group-title="",Fox Soccer Plus HD
 http://example.local/FSCPLHD.ts

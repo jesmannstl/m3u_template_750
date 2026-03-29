@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KUKCLP" tvg-name="KUKC-LP (UNI)" tvg-logo="https://emby.tmsimg.com/assets/s11118_h3_ba.png" tvg-chno="45821" tvc-guide-stationid="45821" group-title="",KUKC-LP (UNI)
-http://example.local/KUKCLP.ts
-#EXTINF:-1 tvg-id="KULR" tvg-name="KULR (NBC)" tvg-logo="https://emby.tmsimg.com/assets/s10991_h3_ba.png" tvg-chno="10776" tvc-guide-stationid="10776" group-title="",KULR (NBC)
-http://example.local/KULR.ts
-#EXTINF:-1 tvg-id="KULRDT" tvg-name="KULR-DT (NBC)" tvg-logo="https://logos.jesmann.com/kulrdt.png" tvg-chno="31223" tvc-guide-stationid="31223" group-title="",KULR-DT (NBC)
-http://example.local/KULRDT.ts
-#EXTINF:-1 tvg-id="KULRDT2" tvg-name="KULR-DT2" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="61545" tvc-guide-stationid="61545" group-title="",KULR-DT2
-http://example.local/KULRDT2.ts
-#EXTINF:-1 tvg-id="KUMOLD" tvg-name="KUMO-LD (DYSTR)" tvg-logo="https://emby.tmsimg.com/assets/s19026_h3_ba.png" tvg-chno="73047" tvc-guide-stationid="73047" group-title="",KUMO-LD (DYSTR)
-http://example.local/KUMOLD.ts
-#EXTINF:-1 tvg-id="KUNALP" tvg-name="KUNA-LP (TELE)" tvg-logo="https://emby.tmsimg.com/assets/s10239_h3_aa.png" tvg-chno="18094" tvc-guide-stationid="18094" group-title="",KUNA-LP (TELE)
-http://example.local/KUNALP.ts
 #EXTINF:-1 tvg-id="KUNP" tvg-name="KUNP" tvg-logo="https://emby.tmsimg.com/assets/s31866_ll_h15_aa.png" tvg-chno="31866" tvc-guide-stationid="31866" group-title="",KUNP
 http://example.local/KUNP.ts
 #EXTINF:-1 tvg-id="KUNPDT" tvg-name="KUNP-DT" tvg-logo="https://logos.jesmann.com/kunpdt.png" tvg-chno="63872" tvc-guide-stationid="63872" group-title="",KUNP-DT
@@ -61,7 +49,7 @@ http://example.local/KUSADT2.ts
 http://example.local/KUSADT3.ts
 #EXTINF:-1 tvg-id="KUSADT5" tvg-name="KUSA-DT5 (QUESTSD)" tvg-logo="https://emby.tmsimg.com/assets/s106838_ll_h9_ad.png" tvg-chno="106946" tvc-guide-stationid="106946" group-title="",KUSA-DT5 (QUESTSD)
 http://example.local/KUSADT5.ts
-#EXTINF:-1 tvg-id="KUSI" tvg-name="KUSI" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="10782" tvc-guide-stationid="10782" group-title="",KUSI
+#EXTINF:-1 tvg-id="KUSI" tvg-name="KUSI" tvg-logo="https://zpmc.tmsimg.com/h3/NowShowing/10782/s18749_ll_h15_ad.png" tvg-chno="10782" tvc-guide-stationid="10782" group-title="",KUSI
 http://example.local/KUSI.ts
 #EXTINF:-1 tvg-id="KUSIDT" tvg-name="KUSI-DT (CW)" tvg-logo="https://logos.jesmann.com/kusidt.png" tvg-chno="32781" tvc-guide-stationid="32781" group-title="",KUSI-DT (CW)
 http://example.local/KUSIDT.ts
@@ -313,6 +301,10 @@ http://example.local/KWHB.ts
 http://example.local/KWHE.ts
 #EXTINF:-1 tvg-id="KWHEDT" tvg-name="KWHE-DT" tvg-logo="https://emby.tmsimg.com/assets/s34958_ll_h15_aa.png" tvg-chno="34958" tvc-guide-stationid="34958" group-title="",KWHE-DT
 http://example.local/KWHEDT.ts
+#EXTINF:-1 tvg-id="KBEH" tvg-name="KBEH" tvg-logo="https://zpmc.tmsimg.com/h3/NowShowing/10314/s108520_ll_h15_ab.png" tvg-chno="10314" tvc-guide-stationid="10314" group-title="",KBEH
+http://example.local/KBEH.ts
+#EXTINF:-1 tvg-id="KBEHDT" tvg-name="KBEH-DT (VISLAT)" tvg-logo="https://emby.tmsimg.com/assets/s44019_ll_h15_aa.png" tvg-chno="44019" tvc-guide-stationid="44019" group-title="",KBEH-DT (VISLAT)
+http://example.local/KBEHDT.ts
 #EXTINF:-1 tvg-id="KWKTDT" tvg-name="KWKT-DT (FOX)" tvg-logo="https://logos.jesmann.com/kwktdt.png" tvg-chno="43957" tvc-guide-stationid="43957" group-title="",KWKT-DT (FOX)
 http://example.local/KWKTDT.ts
 #EXTINF:-1 tvg-id="KWNBDT" tvg-name="KWNB-DT (ABC)" tvg-logo="https://logos.jesmann.com/kwnbdt.png" tvg-chno="34775" tvc-guide-stationid="34775" group-title="",KWNB-DT (ABC)
@@ -1023,3 +1015,13 @@ http://example.local/LPB2.ts
 http://example.local/LPROG1.ts
 #EXTINF:-1 tvg-id="LPROG2" tvg-name="Local Programming 2" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="68903" tvc-guide-stationid="68903" group-title="",Local Programming 2
 http://example.local/LPROG2.ts
+#EXTINF:-1 tvg-id="LPROG3" tvg-name="Local Programming 3" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="69024" tvc-guide-stationid="69024" group-title="",Local Programming 3
+http://example.local/LPROG3.ts
+#EXTINF:-1 tvg-id="LPROG4" tvg-name="Local Programming 4" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="69025" tvc-guide-stationid="69025" group-title="",Local Programming 4
+http://example.local/LPROG4.ts
+#EXTINF:-1 tvg-id="LREL20A" tvg-name="Local Religious 20 Acadiana" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="72492" tvc-guide-stationid="72492" group-title="",Local Religious 20 Acadiana
+http://example.local/LREL20A.ts
+#EXTINF:-1 tvg-id="LRW" tvg-name="Lifetime Real Women" tvg-logo="https://emby.tmsimg.com/assets/s29612_ll_h15_aa.png" tvg-chno="29612" tvc-guide-stationid="29612" group-title="",Lifetime Real Women
+http://example.local/LRW.ts
+#EXTINF:-1 tvg-id="LSNET" tvg-name="Lifestyle Network" tvg-logo="https://emby.tmsimg.com/assets/s80214_ll_h15_aa.png" tvg-chno="80214" tvc-guide-stationid="80214" group-title="",Lifestyle Network
+http://example.local/LSNET.ts

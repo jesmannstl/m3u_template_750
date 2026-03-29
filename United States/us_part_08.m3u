@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LPROG3" tvg-name="Local Programming 3" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="69024" tvc-guide-stationid="69024" group-title="",Local Programming 3
-http://example.local/LPROG3.ts
-#EXTINF:-1 tvg-id="LPROG4" tvg-name="Local Programming 4" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="69025" tvc-guide-stationid="69025" group-title="",Local Programming 4
-http://example.local/LPROG4.ts
-#EXTINF:-1 tvg-id="LREL20A" tvg-name="Local Religious 20 Acadiana" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="72492" tvc-guide-stationid="72492" group-title="",Local Religious 20 Acadiana
-http://example.local/LREL20A.ts
-#EXTINF:-1 tvg-id="LRW" tvg-name="Lifetime Real Women" tvg-logo="https://emby.tmsimg.com/assets/s29612_ll_h15_aa.png" tvg-chno="29612" tvc-guide-stationid="29612" group-title="",Lifetime Real Women
-http://example.local/LRW.ts
-#EXTINF:-1 tvg-id="LSNET" tvg-name="Lifestyle Network" tvg-logo="https://emby.tmsimg.com/assets/s80214_ll_h15_aa.png" tvg-chno="80214" tvc-guide-stationid="80214" group-title="",Lifestyle Network
-http://example.local/LSNET.ts
 #EXTINF:-1 tvg-id="LSRC" tvg-name="Little Saigon Radio Channel" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="93372" tvc-guide-stationid="93372" group-title="",Little Saigon Radio Channel
 http://example.local/LSRC.ts
 #EXTINF:-1 tvg-id="LUCKY" tvg-name="Lucky" tvg-logo="https://emby.tmsimg.com/assets/s98725_ll_h15_aa.png" tvg-chno="98725" tvc-guide-stationid="98725" group-title="",Lucky
@@ -127,6 +117,8 @@ http://example.local/MGMMRHD.ts
 http://example.local/MGMW.ts
 #EXTINF:-1 tvg-id="MGMWHD" tvg-name="MGM+ HD West" tvg-logo="https://logos.jesmann.com/mgmwhd.png" tvg-chno="66075" tvc-guide-stationid="66075" group-title="",MGM+ HD West
 http://example.local/MGMWHD.ts
+#EXTINF:-1 tvg-id="MIAM" tvg-name="Miami Marlins" tvg-logo="https://emby.tmsimg.com/assets/s136330_ll_h15_ab.png" tvg-chno="136330" tvc-guide-stationid="136330" group-title="",Miami Marlins
+http://example.local/MIAM.ts
 #EXTINF:-1 tvg-id="MIAMIDA" tvg-name="Miami-Dade TV" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="92837" tvc-guide-stationid="92837" group-title="",Miami-Dade TV
 http://example.local/MIAMIDA.ts
 #EXTINF:-1 tvg-id="MILENIO" tvg-name="Milenio" tvg-logo="https://emby.tmsimg.com/assets/s61719_ll_h15_ab.png" tvg-chno="61719" tvc-guide-stationid="61719" group-title="",Milenio
@@ -361,6 +353,8 @@ http://example.local/MYDESHD.ts
 http://example.local/MYDEST.ts
 #EXTINF:-1 tvg-id="MYX" tvg-name="MYX Channel" tvg-logo="https://emby.tmsimg.com/assets/s55451_ll_h9_ac.png" tvg-chno="55451" tvc-guide-stationid="55451" group-title="",MYX Channel
 http://example.local/MYX.ts
+#EXTINF:-1 tvg-id="NATS" tvg-name="Washington Nationals" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002WGP8W.png" tvg-chno="205026" tvc-guide-stationid="205026" group-title="",Washington Nationals
+http://example.local/NATS.ts
 #EXTINF:-1 tvg-id="NBA7DAL" tvg-name="NBA: Dallas Mavericks" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="146847" tvc-guide-stationid="146847" group-title="",NBA: Dallas Mavericks
 http://example.local/NBA7DAL.ts
 #EXTINF:-1 tvg-id="NBA19NO" tvg-name="NBA: New Orleans Pelicans" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="146858" tvc-guide-stationid="146858" group-title="",NBA: New Orleans Pelicans
@@ -1023,3 +1017,11 @@ http://example.local/PLBYDM.ts
 http://example.local/PLESPDM.ts
 #EXTINF:-1 tvg-id="PLSTNEWHD" tvg-name="Polsat News HD" tvg-logo="https://emby.tmsimg.com/assets/s98760_ll_h15_ab.png" tvg-chno="98760" tvc-guide-stationid="98760" group-title="",Polsat News HD
 http://example.local/PLSTNEWHD.ts
+#EXTINF:-1 tvg-id="PLYBPRM" tvg-name="Playboy Premium" tvg-logo="https://emby.tmsimg.com/assets/s14075_ll_h15_aa.png" tvg-chno="68537" tvc-guide-stationid="68537" group-title="",Playboy Premium
+http://example.local/PLYBPRM.ts
+#EXTINF:-1 tvg-id="PLYESPH" tvg-name="Playboy Español (Premium HD)" tvg-logo="https://emby.tmsimg.com/assets/s38944_ll_h15_aa.png" tvg-chno="111152" tvc-guide-stationid="111152" group-title="",Playboy Español (Premium HD)
+http://example.local/PLYESPH.ts
+#EXTINF:-1 tvg-id="PLYPRMH" tvg-name="Playboy Premium HD" tvg-logo="https://emby.tmsimg.com/assets/s76898_ll_h15_aa.png" tvg-chno="76898" tvc-guide-stationid="76898" group-title="",Playboy Premium HD
+http://example.local/PLYPRMH.ts
+#EXTINF:-1 tvg-id="PMAGIC" tvg-name="Peru Magico" tvg-logo="https://emby.tmsimg.com/assets/s50335_ll_h15_ab.png" tvg-chno="50335" tvc-guide-stationid="50335" group-title="",Peru Magico
+http://example.local/PMAGIC.ts

@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PLYBPRM" tvg-name="Playboy Premium" tvg-logo="https://emby.tmsimg.com/assets/s14075_ll_h15_aa.png" tvg-chno="68537" tvc-guide-stationid="68537" group-title="",Playboy Premium
-http://example.local/PLYBPRM.ts
-#EXTINF:-1 tvg-id="PLYESPH" tvg-name="Playboy Español (Premium HD)" tvg-logo="https://emby.tmsimg.com/assets/s38944_ll_h15_aa.png" tvg-chno="111152" tvc-guide-stationid="111152" group-title="",Playboy Español (Premium HD)
-http://example.local/PLYESPH.ts
-#EXTINF:-1 tvg-id="PLYPRMH" tvg-name="Playboy Premium HD" tvg-logo="https://emby.tmsimg.com/assets/s76898_ll_h15_aa.png" tvg-chno="76898" tvc-guide-stationid="76898" group-title="",Playboy Premium HD
-http://example.local/PLYPRMH.ts
-#EXTINF:-1 tvg-id="PMAGIC" tvg-name="Peru Magico" tvg-logo="https://emby.tmsimg.com/assets/s50335_ll_h15_ab.png" tvg-chno="50335" tvc-guide-stationid="50335" group-title="",Peru Magico
-http://example.local/PMAGIC.ts
 #EXTINF:-1 tvg-id="PMC5" tvg-name="TWC Ch.5 Portland ME" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="20087" tvc-guide-stationid="20087" group-title="",TWC Ch.5 Portland ME
 http://example.local/PMC5.ts
 #EXTINF:-1 tvg-id="PNAX" tvg-name="Phoenix Satellite TV" tvg-logo="https://emby.tmsimg.com/assets/s24935_ll_h15_aa.png" tvg-chno="24935" tvc-guide-stationid="24935" group-title="",Phoenix Satellite TV
@@ -127,6 +119,8 @@ http://example.local/RAINW24.ts
 http://example.local/RAIPREM.ts
 #EXTINF:-1 tvg-id="RAIRAD1" tvg-name="Rai Radio 1" tvg-logo="https://emby.tmsimg.com/assets/s94884_ll_h9_aa.png" tvg-chno="94884" tvc-guide-stationid="94884" group-title="",Rai Radio 1
 http://example.local/RAIRAD1.ts
+#EXTINF:-1 tvg-id="RAYS" tvg-name="Tampa Bay Rays" tvg-logo="https://emby.tmsimg.com/assets/s136335_ll_h15_ab.png" tvg-chno="136335" tvc-guide-stationid="136335" group-title="",Tampa Bay Rays
+http://example.local/RAYS.ts
 #EXTINF:-1 tvg-id="RCNTEL" tvg-name="Canal RCN TELENOVELAS" tvg-logo="https://emby.tmsimg.com/assets/s65127_ll_h15_aa.png" tvg-chno="65127" tvc-guide-stationid="65127" group-title="",Canal RCN TELENOVELAS
 http://example.local/RCNTEL.ts
 #EXTINF:-1 tvg-id="REALDM" tvg-name="Real On Demand" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="73053" tvc-guide-stationid="73053" group-title="",Real On Demand
@@ -179,6 +173,8 @@ http://example.local/ROAR.ts
 http://example.local/ROTAN.ts
 #EXTINF:-1 tvg-id="ROW" tvg-name="AT&T U-verse Front Row" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="94482" tvc-guide-stationid="94482" group-title="",AT&T U-verse Front Row
 http://example.local/ROW.ts
+#EXTINF:-1 tvg-id="ROYL" tvg-name="Kansas City Royals" tvg-logo="https://emby.tmsimg.com/assets/s136331_ll_h15_ab.png" tvg-chno="136331" tvc-guide-stationid="136331" group-title="",Kansas City Royals
+http://example.local/ROYL.ts
 #EXTINF:-1 tvg-id="RSEG" tvg-name="Regional Sports Extra Games" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="94794" tvc-guide-stationid="94794" group-title="",Regional Sports Extra Games
 http://example.local/RSEG.ts
 #EXTINF:-1 tvg-id="RSEHD" tvg-name="Regional Sports Extra Games HD" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="82705" tvc-guide-stationid="82705" group-title="",Regional Sports Extra Games HD
@@ -267,6 +263,8 @@ http://example.local/SDPEC.ts
 http://example.local/SDPPVC.ts
 #EXTINF:-1 tvg-id="SEAHD" tvg-name="The Seattle Channel in HDTV" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="95528" tvc-guide-stationid="95528" group-title="",The Seattle Channel in HDTV
 http://example.local/SEAHD.ts
+#EXTINF:-1 tvg-id="SEAM" tvg-name="Seattle Mariners" tvg-logo="https://emby.tmsimg.com/assets/s136328_ll_h15_ab.png" tvg-chno="136328" tvc-guide-stationid="136328" group-title="",Seattle Mariners
+http://example.local/SEAM.ts
 #EXTINF:-1 tvg-id="SEATSCH" tvg-name="Seattle Schools" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="93339" tvc-guide-stationid="93339" group-title="",Seattle Schools
 http://example.local/SEATSCH.ts
 #EXTINF:-1 tvg-id="SEATSHD" tvg-name="Seattle Schools HD" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="108685" tvc-guide-stationid="108685" group-title="",Seattle Schools HD
@@ -1023,3 +1021,7 @@ http://example.local/TVONEGL.ts
 http://example.local/TVONEHD.ts
 #EXTINF:-1 tvg-id="TVRI" tvg-name="TVR International" tvg-logo="https://emby.tmsimg.com/assets/s73588_ll_h15_ab.png" tvg-chno="73588" tvc-guide-stationid="73588" group-title="",TVR International
 http://example.local/TVRI.ts
+#EXTINF:-1 tvg-id="TVV" tvg-name="TVV" tvg-logo="https://emby.tmsimg.com/assets/s49262_ll_h15_ac.png" tvg-chno="49262" tvc-guide-stationid="49262" group-title="",TVV
+http://example.local/TVV.ts
+#EXTINF:-1 tvg-id="TVVHD" tvg-name="TVV (HD)" tvg-logo="https://emby.tmsimg.com/assets/s120623_ll_h15_aa.png" tvg-chno="120623" tvc-guide-stationid="120623" group-title="",TVV (HD)
+http://example.local/TVVHD.ts

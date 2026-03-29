@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="WDNILP" tvg-name="WDNI-LP (TELE)" tvg-logo="https://emby.tmsimg.com/assets/s10239_h3_ba.png" tvg-chno="14820" tvc-guide-stationid="14820" group-title="",WDNI-LP (TELE)
-http://example.local/WDNILP.ts
 #EXTINF:-1 tvg-id="WDPB" tvg-name="WDPB (PBS)" tvg-logo="https://emby.tmsimg.com/assets/s11039_h3_aa.png" tvg-chno="15738" tvc-guide-stationid="15738" group-title="",WDPB (PBS)
 http://example.local/WDPB.ts
 #EXTINF:-1 tvg-id="WDPBDT" tvg-name="WDPB-DT (PBS)" tvg-logo="https://logos.jesmann.com/wdpbdt.png" tvg-chno="49821" tvc-guide-stationid="49821" group-title="",WDPB-DT (PBS)
@@ -1023,3 +1021,7 @@ http://example.local/WJANCD2.ts
 http://example.local/WJAR.ts
 #EXTINF:-1 tvg-id="WJAR2SD" tvg-name="WJAR-DT2 (SD Feed) (ABC)" tvg-logo="https://emby.tmsimg.com/assets/s10003_ll_h15_ac.png" tvg-chno="200285" tvc-guide-stationid="200285" group-title="",WJAR-DT2 (SD Feed) (ABC)
 http://example.local/WJAR2SD.ts
+#EXTINF:-1 tvg-id="WJARDT" tvg-name="WJAR-DT (NBC)" tvg-logo="https://logos.jesmann.com/wjardt.png" tvg-chno="35936" tvc-guide-stationid="35936" group-title="",WJAR-DT (NBC)
+http://example.local/WJARDT.ts
+#EXTINF:-1 tvg-id="WJARDT2" tvg-name="WJAR-DT2 (ABC)" tvg-logo="https://logos.jesmann.com/wjardt2.png" tvg-chno="45748" tvc-guide-stationid="45748" group-title="",WJAR-DT2 (ABC)
+http://example.local/WJARDT2.ts

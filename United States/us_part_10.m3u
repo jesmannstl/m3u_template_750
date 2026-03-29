@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVV" tvg-name="TVV" tvg-logo="https://emby.tmsimg.com/assets/s49262_ll_h15_ac.png" tvg-chno="49262" tvc-guide-stationid="49262" group-title="",TVV
-http://example.local/TVV.ts
-#EXTINF:-1 tvg-id="TVVHD" tvg-name="TVV (HD)" tvg-logo="https://emby.tmsimg.com/assets/s120623_ll_h15_aa.png" tvg-chno="120623" tvc-guide-stationid="120623" group-title="",TVV (HD)
-http://example.local/TVVHD.ts
 #EXTINF:-1 tvg-id="TVWHD" tvg-name="TV WASHINGTON HD" tvg-logo="https://emby.tmsimg.com/assets/s102235_ll_h9_aa.png" tvg-chno="102235" tvc-guide-stationid="102235" group-title="",TV WASHINGTON HD
 http://example.local/TVWHD.ts
 #EXTINF:-1 tvg-id="TWACEOD" tvg-name="TW Albany Cutting Edge on Demand" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="52595" tvc-guide-stationid="52595" group-title="",TW Albany Cutting Edge on Demand
@@ -195,6 +191,10 @@ http://example.local/VROLA.ts
 http://example.local/VROLAHD.ts
 #EXTINF:-1 tvg-id="VZ04" tvg-name="Verizon Static Message Ch 04" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="106246" tvc-guide-stationid="106246" group-title="",Verizon Static Message Ch 04
 http://example.local/VZ04.ts
+#EXTINF:-1 tvg-id="VZ14" tvg-name="VZ14" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="96796" tvc-guide-stationid="96796" group-title="",VZ14
+http://example.local/VZ14.ts
+#EXTINF:-1 tvg-id="VZ15" tvg-name="VZ15" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="96787" tvc-guide-stationid="96787" group-title="",VZ15
+http://example.local/VZ15.ts
 #EXTINF:-1 tvg-id="VZHDPPV2" tvg-name="Verizon iN Demand PPVHD (HD Events) 2" tvg-logo="https://emby.tmsimg.com/assets/s82254_ll_h9_aa.png" tvg-chno="120420" tvc-guide-stationid="120420" group-title="",Verizon iN Demand PPVHD (HD Events) 2
 http://example.local/VZHDPPV2.ts
 #EXTINF:-1 tvg-id="VZMBLHM" tvg-name="Verizon static message ch 02" tvg-logo="https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-chno="83109" tvc-guide-stationid="83109" group-title="",Verizon static message ch 02
@@ -1023,3 +1023,5 @@ http://example.local/WDMESD.ts
 http://example.local/WDMRLD.ts
 #EXTINF:-1 tvg-id="WDMRSD" tvg-name="WDMR-LD (SD Feed) (TELE)" tvg-logo="https://emby.tmsimg.com/assets/s10239_h3_ba.png" tvg-chno="101199" tvc-guide-stationid="101199" group-title="",WDMR-LD (SD Feed) (TELE)
 http://example.local/WDMRSD.ts
+#EXTINF:-1 tvg-id="WDNILP" tvg-name="WDNI-LP (TELE)" tvg-logo="https://emby.tmsimg.com/assets/s10239_h3_ba.png" tvg-chno="14820" tvc-guide-stationid="14820" group-title="",WDNI-LP (TELE)
+http://example.local/WDNILP.ts
