@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="115017" tvg-name="WMDE-DT8 (SHOPLC)" tvg-logo="https://emby.tmsimg.com/assets/s56032_ll_h15_ac.png" group-title="United States" tvg-id="WMDEDT8" tvc-guide-stationid="115017",WMDE-DT8 (SHOPLC)
+http://example.local/USA-WMDEDT8.ts
 #EXTINF:-1 tvg-chno="16030" tvg-name="WMDN (CBS)" tvg-logo="https://emby.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="United States" tvg-id="WMDN" tvc-guide-stationid="16030",WMDN (CBS)
 http://example.local/USA-WMDN.ts
 #EXTINF:-1 tvg-chno="43603" tvg-name="WMDN-DT (CBS)" tvg-logo="https://logos.jesmann.com/wmdndt.png" group-title="United States" tvg-id="WMDNDT" tvc-guide-stationid="43603",WMDN-DT (CBS)
@@ -1017,5 +1019,3 @@ http://example.local/USA-WNPXDT8.ts
 http://example.local/USA-WNPXDT9.ts
 #EXTINF:-1 tvg-chno="11736" tvg-name="WNSC (PBS)" tvg-logo="https://emby.tmsimg.com/assets/s11039_h3_ba.png" group-title="United States" tvg-id="WNSC" tvc-guide-stationid="11736",WNSC (PBS)
 http://example.local/USA-WNSC.ts
-#EXTINF:-1 tvg-chno="44041" tvg-name="WNSC-DT (PBS)" tvg-logo="https://logos.jesmann.com/wnscdt.png" group-title="United States" tvg-id="WNSCDT" tvc-guide-stationid="44041",WNSC-DT (PBS)
-http://example.local/USA-WNSCDT.ts

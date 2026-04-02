@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="20493" tvg-name="WPLG-DT" tvg-logo="https://logos.jesmann.com/wplgdt.png" group-title="United States" tvg-id="WPLGDT" tvc-guide-stationid="20493",WPLG-DT
+http://example.local/USA-WPLGDT.ts
 #EXTINF:-1 tvg-chno="55971" tvg-name="WPLG-DT2 (METVN)" tvg-logo="https://emby.tmsimg.com/assets/s70436_ll_h15_ac.png" group-title="United States" tvg-id="WPLGDT2" tvc-guide-stationid="55971",WPLG-DT2 (METVN)
 http://example.local/USA-WPLGDT2.ts
 #EXTINF:-1 tvg-chno="80549" tvg-name="WPLG-DT3 (HEROICN)" tvg-logo="https://emby.tmsimg.com/assets/s90401_ll_h15_ad.png" group-title="United States" tvg-id="WPLGDT3" tvc-guide-stationid="80549",WPLG-DT3 (HEROICN)
@@ -1017,5 +1019,3 @@ http://example.local/USA-WRDELD.ts
 http://example.local/USA-WRDELD2.ts
 #EXTINF:-1 tvg-chno="113939" tvg-name="WRDE-LD3 (TELE)" tvg-logo="https://emby.tmsimg.com/assets/s10239_h3_ba.png" group-title="United States" tvg-id="WRDELD3" tvc-guide-stationid="113939",WRDE-LD3 (TELE)
 http://example.local/USA-WRDELD3.ts
-#EXTINF:-1 tvg-chno="120402" tvg-name="WRDE-LD4 (ANTENNA)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0028Y4HS.png" group-title="United States" tvg-id="WRDELD4" tvc-guide-stationid="120402",WRDE-LD4 (ANTENNA)
-http://example.local/USA-WRDELD4.ts

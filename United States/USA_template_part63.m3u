@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="73163" tvg-name="WYBN-LD (BUZZR)" tvg-logo="https://emby.tmsimg.com/assets/s93430_ll_h15_ab.png" group-title="United States" tvg-id="WYBNLD" tvc-guide-stationid="73163",WYBN-LD (BUZZR)
+http://example.local/USA-WYBNLD.ts
 #EXTINF:-1 tvg-chno="73165" tvg-name="WYBN-LD2 (HEARTHD)" tvg-logo="https://emby.tmsimg.com/assets/s78584_ll_h15_ab.png" group-title="United States" tvg-id="WYBNLD2" tvc-guide-stationid="73165",WYBN-LD2 (HEARTHD)
 http://example.local/USA-WYBNLD2.ts
 #EXTINF:-1 tvg-chno="73167" tvg-name="WYBN-LD3 (RETROTV)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0028Y479.png" group-title="United States" tvg-id="WYBNLD3" tvc-guide-stationid="73167",WYBN-LD3 (RETROTV)
@@ -1017,5 +1019,3 @@ http://example.local/USA-YOUTEX.ts
 http://example.local/USA-YOUTOR.ts
 #EXTINF:-1 tvg-chno="110651" tvg-name="YouTube MLB Extra Innings Washington Nationals" tvg-logo="https://logos.jesmann.com/youwas.png" group-title="United States" tvg-id="YOUWAS" tvc-guide-stationid="110651",YouTube MLB Extra Innings Washington Nationals
 http://example.local/USA-YOUWAS.ts
-#EXTINF:-1 tvg-chno="109208" tvg-name="YouTube Mobile 1" group-title="United States" tvg-id="YTMOB1" tvc-guide-stationid="109208",YouTube Mobile 1
-http://example.local/USA-YTMOB1.ts

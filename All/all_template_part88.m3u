@@ -371,6 +371,8 @@ http://example.local/USA-SCWSTHD.ts
 http://example.local/USA-SCNEWST.ts
 #EXTINF:-1 tvg-chno="96827" tvg-name="Scripps News" tvg-logo="https://emby.tmsimg.com/assets/s96827_ll_h15_ad.png" group-title="United States" tvg-id="SCNEWS" tvc-guide-stationid="96827",Scripps News
 http://example.local/USA-SCNEWS.ts
+#EXTINF:-1 tvg-chno="204956" tvg-name="Scripps Sports" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002YHZPK.png" group-title="United States" tvg-id="SCSPST" tvc-guide-stationid="204956",Scripps Sports
+http://example.local/USA-SCSPST.ts
 #EXTINF:-1 tvg-chno="62612" tvg-name="SD01 (PBS)" tvg-logo="https://emby.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="United States" tvg-id="SD01" tvc-guide-stationid="62612",SD01 (PBS)
 http://example.local/USA-SD01.ts
 #EXTINF:-1 tvg-chno="92565" tvg-name="SDSU Channel" group-title="United States" tvg-id="SDSU" tvc-guide-stationid="92565",SDSU Channel
@@ -1017,5 +1019,3 @@ http://example.local/CAN-PPVMVS5.ts
 http://example.local/CAN-PPVMVS6.ts
 #EXTINF:-1 tvg-chno="70985" tvg-name="Shaw PPV Movie 07" tvg-logo="https://emby.tmsimg.com/assets/s70985_ll_h15_aa.png" group-title="Canada" tvg-id="PPVM07" tvc-guide-stationid="70985",Shaw PPV Movie 07
 http://example.local/CAN-PPVM07.ts
-#EXTINF:-1 tvg-chno="70986" tvg-name="Shaw PPV Movie 08" tvg-logo="https://emby.tmsimg.com/assets/s70986_ll_h15_aa.png" group-title="Canada" tvg-id="PPVM08" tvc-guide-stationid="70986",Shaw PPV Movie 08
-http://example.local/CAN-PPVM08.ts

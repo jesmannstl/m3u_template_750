@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="44041" tvg-name="WNSC-DT (PBS)" tvg-logo="https://logos.jesmann.com/wnscdt.png" group-title="United States" tvg-id="WNSCDT" tvc-guide-stationid="44041",WNSC-DT (PBS)
+http://example.local/USA-WNSCDT.ts
 #EXTINF:-1 tvg-chno="44043" tvg-name="WNSC-DT2 (CREATE)" tvg-logo="https://emby.tmsimg.com/assets/s48990_ll_h15_aa.png" group-title="United States" tvg-id="WNSCDT2" tvc-guide-stationid="44043",WNSC-DT2 (CREATE)
 http://example.local/USA-WNSCDT2.ts
 #EXTINF:-1 tvg-chno="44045" tvg-name="WNSC-DT3 (PBS)" tvg-logo="https://emby.tmsimg.com/assets/s11039_h3_aa.png" group-title="United States" tvg-id="WNSCDT3" tvc-guide-stationid="44045",WNSC-DT3 (PBS)
@@ -1017,5 +1019,3 @@ http://example.local/USA-WPKDDT5.ts
 http://example.local/USA-WPKDDT6.ts
 #EXTINF:-1 tvg-chno="11780" tvg-name="WPLG" group-title="United States" tvg-id="WPLG" tvc-guide-stationid="11780",WPLG
 http://example.local/USA-WPLG.ts
-#EXTINF:-1 tvg-chno="20493" tvg-name="WPLG-DT" tvg-logo="https://logos.jesmann.com/wplgdt.png" group-title="United States" tvg-id="WPLGDT" tvc-guide-stationid="20493",WPLG-DT
-http://example.local/USA-WPLGDT.ts

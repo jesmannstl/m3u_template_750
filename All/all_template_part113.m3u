@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="83919" tvg-name="WDR Wuppertal (WDRFERN)" tvg-logo="https://emby.tmsimg.com/assets/s83919_ll_h15_ad.png" group-title="Poland" tvg-id="WDRSTWU" tvc-guide-stationid="83919",WDR Wuppertal (WDRFERN)
-http://example.local/POL-WDRSTWU.ts
 #EXTINF:-1 tvg-chno="83919" tvg-name="WDR Wuppertal (WDRFERN)" tvg-logo="https://emby.tmsimg.com/assets/s83919_ll_h15_ad.png" group-title="Belgium" tvg-id="WDRSTWU" tvc-guide-stationid="83919",WDR Wuppertal (WDRFERN)
 http://example.local/BEL-WDRSTWU.ts
 #EXTINF:-1 tvg-chno="83919" tvg-name="WDR Wuppertal (WDRFERN)" tvg-logo="https://emby.tmsimg.com/assets/s83919_ll_h15_ad.png" group-title="Netherlands" tvg-id="WDRSTWU" tvc-guide-stationid="83919",WDR Wuppertal (WDRFERN)
@@ -1019,3 +1017,5 @@ http://example.local/CAN-WETKDT4.ts
 http://example.local/USA-WETKDT4.ts
 #EXTINF:-1 tvg-chno="11424" tvg-name="WETM (NBC)" tvg-logo="https://emby.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="United States" tvg-id="WETM" tvc-guide-stationid="11424",WETM (NBC)
 http://example.local/USA-WETM.ts
+#EXTINF:-1 tvg-chno="48777" tvg-name="WETM-DT (NBC)" tvg-logo="https://logos.jesmann.com/wetmdt.png" group-title="United States" tvg-id="WETMDT" tvc-guide-stationid="48777",WETM-DT (NBC)
+http://example.local/USA-WETMDT.ts

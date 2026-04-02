@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="87641" tvg-name="WGCE-CD (365BLK)" tvg-logo="https://emby.tmsimg.com/assets/s150571_ll_h15_ab.png" group-title="Canada" tvg-id="WGCECD" tvc-guide-stationid="87641",WGCE-CD (365BLK)
-http://example.local/CAN-WGCECD.ts
 #EXTINF:-1 tvg-chno="87641" tvg-name="WGCE-CD (365BLK)" tvg-logo="https://emby.tmsimg.com/assets/s150571_ll_h15_ab.png" group-title="United States" tvg-id="WGCECD" tvc-guide-stationid="87641",WGCE-CD (365BLK)
 http://example.local/USA-WGCECD.ts
 #EXTINF:-1 tvg-chno="115596" tvg-name="WGCE-CD2 (OUTLAW)" tvg-logo="https://emby.tmsimg.com/assets/s150537_ll_h15_aa.png" group-title="Canada" tvg-id="WGCECD2" tvc-guide-stationid="115596",WGCE-CD2 (OUTLAW)
@@ -1019,3 +1017,5 @@ http://example.local/USA-WHOA.ts
 http://example.local/USA-WHOI.ts
 #EXTINF:-1 tvg-chno="43288" tvg-name="WHOI-DT (MNT)" tvg-logo="https://logos.jesmann.com/whoidt.png" group-title="United States" tvg-id="WHOIDT" tvc-guide-stationid="43288",WHOI-DT (MNT)
 http://example.local/USA-WHOIDT.ts
+#EXTINF:-1 tvg-chno="52639" tvg-name="WHOI-DT2 (CHARGE)" tvg-logo="https://emby.tmsimg.com/assets/s102148_ll_h15_ab.png" group-title="United States" tvg-id="WHOIDT2" tvc-guide-stationid="52639",WHOI-DT2 (CHARGE)
+http://example.local/USA-WHOIDT2.ts

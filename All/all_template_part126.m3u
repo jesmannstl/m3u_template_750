@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="107163" tvg-name="WVEN-DT5 (QUESTSD)" tvg-logo="https://emby.tmsimg.com/assets/s106838_ll_h9_ad.png" group-title="United States" tvg-id="WVENDT5" tvc-guide-stationid="107163",WVEN-DT5 (QUESTSD)
-http://example.local/USA-WVENDT5.ts
 #EXTINF:-1 tvg-chno="118845" tvg-name="WVEN-DT6" group-title="United States" tvg-id="WVENDT6" tvc-guide-stationid="118845",WVEN-DT6
 http://example.local/USA-WVENDT6.ts
 #EXTINF:-1 tvg-chno="123015" tvg-name="WVEN-DT7 (SD feed) (UNIMAS)" tvg-logo="https://emby.tmsimg.com/assets/s29058_ll_h15_ab.png" group-title="United States" tvg-id="WVEN7SD" tvc-guide-stationid="123015",WVEN-DT7 (SD feed) (UNIMAS)
@@ -1019,3 +1017,5 @@ http://example.local/USA-WXCBCD5.ts
 http://example.local/USA-WXCBCD6.ts
 #EXTINF:-1 tvg-chno="12076" tvg-name="WXCW (CW)" tvg-logo="https://emby.tmsimg.com/assets/s51306_ll_h15_ac.png" group-title="United States" tvg-id="WXCW" tvc-guide-stationid="12076",WXCW (CW)
 http://example.local/USA-WXCW.ts
+#EXTINF:-1 tvg-chno="36067" tvg-name="WXCW-DT (CW)" tvg-logo="https://logos.jesmann.com/wxcwdt.png" group-title="United States" tvg-id="WXCWDT" tvc-guide-stationid="36067",WXCW-DT (CW)
+http://example.local/USA-WXCWDT.ts

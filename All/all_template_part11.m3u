@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="117957" tvg-name="blue Sport 24 direct" tvg-logo="https://emby.tmsimg.com/assets/s117957_ll_h15_aa.png" group-title="Switzerland" tvg-id="BLSP25FR" tvc-guide-stationid="117957",blue Sport 24 direct
-http://example.local/CHE-BLSP25FR.ts
 #EXTINF:-1 tvg-chno="117918" tvg-name="blue Sport 24 Live" group-title="Switzerland" tvg-id="BLSP26" tvc-guide-stationid="117918",blue Sport 24 Live
 http://example.local/CHE-BLSP26.ts
 #EXTINF:-1 tvg-chno="117958" tvg-name="blue Sport 25 direct" group-title="Switzerland" tvg-id="BLSP26FR" tvc-guide-stationid="117958",blue Sport 25 direct
@@ -421,6 +419,8 @@ http://example.local/USA-BCTV2HD.ts
 http://example.local/USA-BCTV2.ts
 #EXTINF:-1 tvg-chno="141778" tvg-name="Brattleboro Community TV Public Access (HD Feed)" group-title="United States" tvg-id="BCTV1HD" tvc-guide-stationid="141778",Brattleboro Community TV Public Access (HD Feed)
 http://example.local/USA-BCTV1HD.ts
+#EXTINF:-1 tvg-chno="136334" tvg-name="BravesVision" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002EK4L6.png" group-title="United States" tvg-id="ATLB" tvc-guide-stationid="136334",BravesVision
+http://example.local/USA-ATLB.ts
 #EXTINF:-1 tvg-chno="10057" tvg-name="Bravo" tvg-logo="https://emby.tmsimg.com/assets/s10057_ll_h15_ab.png" group-title="United States" tvg-id="BRAVO" tvc-guide-stationid="10057",Bravo
 http://example.local/USA-BRAVO.ts
 #EXTINF:-1 tvg-chno="50622" tvg-name="Bravo" group-title="United States" tvg-id="GMBRVOP" tvc-guide-stationid="50622",Bravo

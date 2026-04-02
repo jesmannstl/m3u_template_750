@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="87782" tvg-name="TV2 Fri HD" tvg-logo="https://emby.tmsimg.com/assets/s87782_ll_h15_ac.png" group-title="Denmark" tvg-id="TV2FRIH" tvc-guide-stationid="87782",TV2 Fri HD
-http://example.local/DNK-TV2FRIH.ts
 #EXTINF:-1 tvg-chno="87793" tvg-name="TV2 HD" tvg-logo="https://emby.tmsimg.com/assets/s87793_ll_h15_ab.png" group-title="Norway" tvg-id="TV2HD" tvc-guide-stationid="87793",TV2 HD
 http://example.local/NOR-TV2HD.ts
 #EXTINF:-1 tvg-chno="87793" tvg-name="TV2 HD" tvg-logo="https://emby.tmsimg.com/assets/s87793_ll_h15_ab.png" group-title="Sweden" tvg-id="TV2HD" tvc-guide-stationid="87793",TV2 HD
@@ -1019,3 +1017,5 @@ http://example.local/POL-TVP3RZEHD.ts
 http://example.local/POL-TVP3SZ.ts
 #EXTINF:-1 tvg-chno="162322" tvg-name="TVP 3 Szczecin HD" tvg-logo="https://emby.tmsimg.com/assets/s118760_ll_h15_aa.png" group-title="Poland" tvg-id="TVP3SZCHD" tvc-guide-stationid="162322",TVP 3 Szczecin HD
 http://example.local/POL-TVP3SZCHD.ts
+#EXTINF:-1 tvg-chno="118768" tvg-name="TVP 3 Warszawa" tvg-logo="https://emby.tmsimg.com/assets/s118768_ll_h9_aa.png" group-title="Poland" tvg-id="TVP3WA" tvc-guide-stationid="118768",TVP 3 Warszawa
+http://example.local/POL-TVP3WA.ts

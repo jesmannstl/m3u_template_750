@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="98893" tvg-name="Viceland Static" group-title="United States" tvg-id="STVICE" tvc-guide-stationid="98893",Viceland Static
+http://example.local/USA-STVICE.ts
 #EXTINF:-1 tvg-chno="93024" tvg-name="Victory Channel" tvg-logo="https://emby.tmsimg.com/assets/s93024_ll_h15_ad.png" group-title="United States" tvg-id="VICTORY" tvc-guide-stationid="93024",Victory Channel
 http://example.local/USA-VICTORY.ts
 #EXTINF:-1 tvg-chno="122327" tvg-name="Victory Channel" tvg-logo="https://emby.tmsimg.com/assets/s122327_ll_h15_aa.png" group-title="United States" tvg-id="VICTSD" tvc-guide-stationid="122327",Victory Channel
@@ -1017,5 +1019,3 @@ http://example.local/USA-W47EED.ts
 http://example.local/USA-W47EID.ts
 #EXTINF:-1 tvg-chno="98684" tvg-name="W47EI-D2" group-title="United States" tvg-id="W47EID2" tvc-guide-stationid="98684",W47EI-D2
 http://example.local/USA-W47EID2.ts
-#EXTINF:-1 tvg-chno="90302" tvg-name="W48CX-CD" group-title="United States" tvg-id="W48CXCD" tvc-guide-stationid="90302",W48CX-CD
-http://example.local/USA-W48CXCD.ts
